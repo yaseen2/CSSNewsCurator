@@ -35,7 +35,7 @@ export default function App() {
   const [noteTitle, setNoteTitle] = useState('');
   const [notesText, setNotesText] = useState('');
 
-  const BACKEND_URL = apiServerUrl || (
+  const BACKEND_URL = (apiServerUrl || '').replace(/\/+$/, '') || (
     window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
       ? 'http://localhost:5000'
       : window.location.origin
@@ -161,7 +161,7 @@ export default function App() {
       }
     } catch (err) {
       setApiStatus('invalid');
-      setErrorMessage('Failed to connect to local backend proxy.');
+      setErrorMessage(`Failed to connect to backend: ${err.message || 'Check network connection, server URL, or CORS configuration.'}`);
     }
   };
 

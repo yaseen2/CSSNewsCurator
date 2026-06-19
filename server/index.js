@@ -29,13 +29,33 @@ const CURATED_FILE = path.join(__dirname, 'curatedData.json');
 const NOTES_FILE = path.join(__dirname, 'notes.json');
 const FEEDBACK_FILE = path.join(__dirname, 'feedback.json');
 
-// Ensure notes.json exists
-if (!fs.existsSync(NOTES_FILE)) {
-  fs.writeFileSync(NOTES_FILE, JSON.stringify([]));
+// Helper to safely write JSON data in read-only environments (like Vercel)
+function safeWriteJsonFile(filePath, data) {
+  try {
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+    return true;
+  } catch (err) {
+    console.warn(`[!] Warning: Failed to write JSON to ${filePath} (Read-only filesystem?):`, err.message);
+    return false;
+  }
 }
+
+// Ensure notes.json exists
+try {
+  if (!fs.existsSync(NOTES_FILE)) {
+    fs.writeFileSync(NOTES_FILE, JSON.stringify([]));
+  }
+} catch (e) {
+  console.warn('[!] Warning: Could not write/ensure notes.json locally:', e.message);
+}
+
 // Ensure feedback.json exists
-if (!fs.existsSync(FEEDBACK_FILE)) {
-  fs.writeFileSync(FEEDBACK_FILE, JSON.stringify([]));
+try {
+  if (!fs.existsSync(FEEDBACK_FILE)) {
+    fs.writeFileSync(FEEDBACK_FILE, JSON.stringify([]));
+  }
+} catch (e) {
+  console.warn('[!] Warning: Could not write/ensure feedback.json locally:', e.message);
 }
 
 // Scrape full-text parser rules for different websites
@@ -228,7 +248,7 @@ app.post('/api/notes', async (req, res) => {
     // Save to Redis or fallback to file
     const savedRedis = await setRedisKey('css:notes', notes);
     if (!savedRedis) {
-      fs.writeFileSync(NOTES_FILE, JSON.stringify(notes, null, 2));
+      safeWriteJsonFile(NOTES_FILE, notes);
     }
     
     res.status(201).json(newNote);
@@ -255,7 +275,7 @@ app.put('/api/notes/:id', async (req, res) => {
       
       const savedRedis = await setRedisKey('css:notes', notes);
       if (!savedRedis) {
-        fs.writeFileSync(NOTES_FILE, JSON.stringify(notes, null, 2));
+        safeWriteJsonFile(NOTES_FILE, notes);
       }
       
       res.json(notes[index]);
@@ -278,7 +298,7 @@ app.delete('/api/notes/:id', async (req, res) => {
     
     const savedRedis = await setRedisKey('css:notes', filtered);
     if (!savedRedis) {
-      fs.writeFileSync(NOTES_FILE, JSON.stringify(filtered, null, 2));
+      safeWriteJsonFile(NOTES_FILE, filtered);
     }
     
     res.json({ success: true });
@@ -315,7 +335,7 @@ app.post('/api/feedback', async (req, res) => {
     
     const savedRedisFeedback = await setRedisKey('css:feedback', feedbacks);
     if (!savedRedisFeedback) {
-      fs.writeFileSync(FEEDBACK_FILE, JSON.stringify(feedbacks, null, 2));
+      safeWriteJsonFile(FEEDBACK_FILE, feedbacks);
     }
 
     // 2. Increment upvotes/downvotes inside curatedData
@@ -337,7 +357,7 @@ app.post('/api/feedback', async (req, res) => {
 
       const savedRedisCurated = await setRedisKey('css:curated', curated);
       if (!savedRedisCurated) {
-        fs.writeFileSync(CURATED_FILE, JSON.stringify(curated, null, 2));
+        safeWriteJsonFile(CURATED_FILE, curated);
       }
       
       res.json({ success: true, upvotes: curated[index].upvotes, downvotes: curated[index].downvotes });
