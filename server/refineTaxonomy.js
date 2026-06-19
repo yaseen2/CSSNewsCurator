@@ -118,6 +118,12 @@ Do NOT wrap in markdown block formatting (do NOT include \`\`\`js or \`\`\`json)
   }
 }
 
-refineTaxonomy().catch(err => {
-  console.error('[-] Refinement process failed:', err.message);
-});
+refineTaxonomy()
+  .then(() => {
+    console.log('[+] Taxonomy refinement completed successfully. Exiting.');
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error('[-] Refinement process failed:', err.message);
+    process.exit(1);
+  });

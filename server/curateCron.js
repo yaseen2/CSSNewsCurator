@@ -169,8 +169,8 @@ async function runCuration() {
 
     // Polite delay between scrapes (except the first one)
     if (i > 0) {
-      console.log('[+] Sleeping for 10 seconds to respect rate limits...');
-      await delay(10000);
+      console.log('[+] Sleeping for 15 seconds to respect rate limits...');
+      await delay(15000);
     }
 
     // A. Scrape full content
@@ -383,7 +383,12 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
 }
 
 // Run the script
-runCuration().catch(err => {
-  console.error('[-] Curation process encountered an unhandled error:', err.message);
-  process.exit(1);
-});
+runCuration()
+  .then(() => {
+    console.log('[+] Curation run completed successfully. Exiting.');
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error('[-] Curation process encountered an unhandled error:', err.message);
+    process.exit(1);
+  });
