@@ -1,0 +1,15 @@
+{
+  "name": "css-newspaper-companion",
+  "version": "1.0.0",
+  "description": "Daily Newspaper Curation for CSS Aspirants",
+  "scripts": {
+    "install-all": "npm install --prefix client && npm install --prefix server",
+    "dev": "concurrently \"npm run dev --prefix client\" \"node server/index.js\"",
+    "client": "npm run dev --prefix client",
+    "server": "node server/index.js",
+    "optimize-brain": "node server/refineTaxonomy.js"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

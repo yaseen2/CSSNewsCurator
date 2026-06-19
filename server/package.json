@@ -1,0 +1,17 @@
+{
+  "name": "css-newspaper-server",
+  "version": "1.0.0",
+  "description": "Express backend for scraping, parsing and heuristic scoring of Pakistani newspapers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "axios": "^1.7.2",
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
