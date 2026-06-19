@@ -42,7 +42,7 @@ jobs:
           git add server/curatedData.json
           
           # Only commit and push if curatedData.json was modified
-          if git diff-index --quiet HEAD --; then
+          if git diff-index --quiet HEAD server/curatedData.json; then
             echo "No new articles curated today. Skipping commit."
           else
             git commit -m "chore: auto-curate daily CSS articles ($(date -u +'%Y-%m-%d'))"

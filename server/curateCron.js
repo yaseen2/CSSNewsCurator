@@ -174,9 +174,14 @@ async function runCuration() {
     }
 
     // A. Scrape full content
-    const fullText = await scrapeFullText(candidate.link, candidate.source);
+    let fullText = await scrapeFullText(candidate.link, candidate.source);
     if (!fullText || fullText.length < 300) {
-      console.warn(`[-] Skipping "${candidate.title}": scraped text is too short or failed to fetch.`);
+      console.warn(`[-] Scraper failed or was blocked for "${candidate.title}". Falling back to RSS feed snippet.`);
+      fullText = candidate.snippet;
+    }
+
+    if (!fullText || fullText.length < 50) {
+      console.warn(`[-] Skipping "${candidate.title}": no usable content snippet available.`);
       continue;
     }
 
