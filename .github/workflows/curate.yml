@@ -1,4 +1,4 @@
-name: Daily CSS Curation
+name: Daily Curation
 
 on:
   schedule:
@@ -45,6 +45,6 @@ jobs:
           if git diff-index --quiet HEAD server/curatedData.json; then
             echo "No new articles curated today. Skipping commit."
           else
-            git commit -m "chore: auto-curate daily CSS articles ($(date -u +'%Y-%m-%d'))"
+            git commit -m "chore: auto-curate daily articles ($(date -u +'%Y-%m-%d'))"
             git push
           fi

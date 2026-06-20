@@ -1,5 +1,5 @@
 {
-  "name": "css-newspaper-server",
+  "name": "civil-newspaper-server",
   "version": "1.0.0",
   "description": "Express backend for scraping, parsing and heuristic scoring of Pakistani newspapers.",
   "main": "index.js",

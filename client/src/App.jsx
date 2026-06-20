@@ -51,7 +51,7 @@ export default function App() {
     if (readingArticle) {
       setNoteTitle(`Study Outline: ${readingArticle.title.substring(0, 30)}...`);
       if (readingArticle.examOutline) {
-        let outlineStr = `### AI-GENERATED CSS EXAM OUTLINE\n`;
+        let outlineStr = `### AI-GENERATED EXAM OUTLINE\n`;
         outlineStr += `**Focus Question:** ${readingArticle.examOutline.question}\n\n`;
         outlineStr += `**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author} | **Paper:** ${readingArticle.paper}\n\n`;
         readingArticle.examOutline.outline.forEach(step => {
@@ -59,7 +59,7 @@ export default function App() {
         });
         setNotesText(outlineStr);
       } else {
-        setNotesText(`### CSS EXAM OUTLINE\n**Article:** ${readingArticle.title}\n**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author}\n\n**1. Relevance:**\n- Paper: ${readingArticle.paper}\n- Topic: ${readingArticle.topic}\n\n**2. Core Arguments:**\n- \n\n**3. Way Forward & Key Solutions:**\n- `);
+        setNotesText(`### EXAM OUTLINE\n**Article:** ${readingArticle.title}\n**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author}\n\n**1. Relevance:**\n- Paper: ${readingArticle.paper}\n- Topic: ${readingArticle.topic}\n\n**2. Core Arguments:**\n- \n\n**3. Way Forward & Key Solutions:**\n- `);
       }
     }
   }, [readingArticle]);
@@ -252,7 +252,7 @@ export default function App() {
 
       if (geminiRes.ok) {
         if (data.suitable === false) {
-          alert('Gemini evaluated this article and marked it as not academically valuable/suitable for CSS papers (e.g. local political debate).');
+          alert('Gemini evaluated this article and marked it as not academically valuable/suitable for Civil Service papers (e.g. local political debate).');
         } else {
           const newCurated = {
             id: `temp-${Date.now()}`,
@@ -380,7 +380,7 @@ export default function App() {
               <BrainCircuit />
             </div>
             <div>
-              <h2 className="brand-title">CSS Aggregator</h2>
+              <h2 className="brand-title">Civil Digest</h2>
               <span className="brand-subtitle">Study Companion</span>
             </div>
           </div>
@@ -429,7 +429,7 @@ export default function App() {
             <div className={`status-dot ${apiKey ? 'active' : 'warning'}`}></div>
             <span>{apiKey ? "Gemini Connected" : "Local Engine"}</span>
           </div>
-          <p className="footer-desc">Curation for CSS papers. Fully responsive dark-slate interface.</p>
+          <p className="footer-desc">Curation for Civil Service papers. Fully responsive dark-slate interface.</p>
         </div>
       </aside>
 
@@ -440,7 +440,7 @@ export default function App() {
           <div className="fixed-loader-overlay animate-fade-in">
             <div className="loader-spinner"></div>
             <h3 className="brand-title">Gemini is Processing Article...</h3>
-            <p className="footer-desc">Extracting key arguments, mapping CSS syllabus tags, and building mock exam questions.</p>
+            <p className="footer-desc">Extracting key arguments, mapping syllabus tags, and building mock exam questions.</p>
           </div>
         )}
 
@@ -564,10 +564,10 @@ export default function App() {
               <div className="animate-fade-in">
                 
                 <div className="intro-banner">
-                  <h3 className="intro-title">Today's Essential CSS Curation</h3>
+                  <h3 className="intro-title">Today's Essential Curation</h3>
                   <p className="intro-desc">
                     We reviewed 24 Op-Eds and Editorials from Dawn, Express Tribune, and The Friday Times. 
-                    These **{curatedArticles.length} articles** hold maximum value for the CSS syllabus today. Read them, practice the quizzes, and build outlines.
+                    These **{curatedArticles.length} articles** hold maximum value for the syllabus today. Read them, practice the quizzes, and build outlines.
                   </p>
                 </div>
 
@@ -603,7 +603,7 @@ export default function App() {
                             <div className="score-panel">
                               <div>
                                 <span className="score-number">{art.relevanceScore}%</span>
-                                <span className="score-label">CSS SCORE</span>
+                                <span className="score-label">POLICY SCORE</span>
                               </div>
                               <ChevronDown className="icon-sm" style={{ transform: isExpanded ? 'rotate(180deg)' : 'none', transition: 'transform 0.2s' }} />
                             </div>
@@ -622,7 +622,7 @@ export default function App() {
                                 </p>
                                 {art.matchedQuestion && (
                                   <div className="matched-question-box" style={{ marginTop: '12px' }}>
-                                    <span className="badge badge-accent">🎯 Matched Past Exam Question (CSS {art.matchedQuestion.year})</span>
+                                    <span className="badge badge-accent">🎯 Matched Past Exam Question (CE {art.matchedQuestion.year})</span>
                                     <p className="matched-question-text">
                                       <strong>{art.matchedQuestion.paper}:</strong> {art.matchedQuestion.question}
                                     </p>
@@ -819,7 +819,7 @@ export default function App() {
                           <div>
                             <div className="feed-header">
                               <span className="badge badge-primary">{art.source}</span>
-                              <span className="badge badge-accent">{art.relevanceScore}% CSS</span>
+                              <span className="badge badge-accent">{art.relevanceScore}% Relevance</span>
                             </div>
 
                             <h3 className="feed-title">
@@ -864,7 +864,7 @@ export default function App() {
                 {/* Curriculum syllabus groups */}
                 <div className="card">
                   <h3 className="list-title mb-4">
-                    CSS Compulsory Papers
+                    Compulsory Syllabus Papers
                   </h3>
 
                   <div className="space-y-4" style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
@@ -1071,7 +1071,7 @@ export default function App() {
                     <li>Log in with your Google account.</li>
                     <li>Click **"Get API Key"** in the top left sidebar.</li>
                     <li>Click **"Create API Key"** and copy it to this settings panel.</li>
-                    <li>The free tier provides 15 Requests per Minute—plenty for daily CSS readings!</li>
+                    <li>The free tier provides 15 Requests per Minute—plenty for daily readings!</li>
                   </ol>
                 </div>
               </div>

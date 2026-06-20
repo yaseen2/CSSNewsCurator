@@ -73,7 +73,7 @@ export default function Quiz({ quizData, articleTitle, onBack }) {
             ? "Excellent retention! You've mastered the core arguments and data points from this editorial. Use these insights in your papers."
             : percentage >= 50 
               ? "Good effort! Consider reviewing the highlighted key arguments in the article to reinforce your facts and figures."
-              : "Review recommended. CSS exams require precise retention of data and policy recommendations. Go through the article again."}
+              : "Review recommended. Competitive exams require precise retention of data and policy recommendations. Go through the article again."}
         </p>
 
         <div className="quiz-action-footer">

@@ -1473,3 +1473,286 @@ body {
 .btn-feedback:active {
   transform: translateY(0);
 }
+
+/* ==========================================
+   RESPONSIVE DESIGN / MOBILE STYLING
+   ========================================== */
+
+@media (max-width: 900px) {
+  .sidebar {
+    width: 240px;
+    padding: 24px 16px;
+  }
+  .main-content {
+    margin-left: 240px;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  #root {
+    flex-direction: column;
+  }
+  
+  .layout-container {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    padding: 16px 20px;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+  
+  .sidebar-header {
+    margin-bottom: 12px;
+    margin-top: 0;
+  }
+  
+  .brand-title {
+    font-size: 1.25rem;
+  }
+  
+  .sidebar-nav {
+    flex-direction: row;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 8px;
+    gap: 8px;
+    width: 100%;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  .sidebar-nav::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  
+  .nav-item-btn {
+    flex-shrink: 0;
+    width: auto;
+    padding: 8px 14px;
+    font-size: 0.8rem;
+    gap: 8px;
+  }
+  
+  .sidebar-footer {
+    display: none; /* Hide status/details in sidebar to save mobile screen height */
+  }
+  
+  .main-content {
+    margin-left: 0;
+    padding: 20px 16px;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .content-header {
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+  }
+  
+  .page-title {
+    font-size: 1.45rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .content-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  
+  .content-header .btn {
+    width: 100%;
+  }
+  
+  .intro-banner {
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .intro-title {
+    font-size: 0.95rem;
+  }
+  
+  .intro-desc {
+    font-size: 0.8rem;
+  }
+  
+  .curated-header-clickable {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  
+  .score-panel {
+    width: 100%;
+    justify-content: space-between;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+  }
+  
+  .curated-title {
+    font-size: 1.15rem;
+  }
+  
+  .curated-details {
+    margin-top: 16px;
+    padding-top: 16px;
+    gap: 16px;
+  }
+  
+  .details-context-box {
+    padding: 12px;
+    font-size: 0.8rem;
+  }
+  
+  .fact-item {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+  
+  .vocab-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  
+  .curated-actions-row {
+    flex-direction: column;
+    align-items: stretch !important;
+    gap: 16px;
+  }
+  
+  .curated-actions-row .flex-center-gap {
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .curated-actions-row .flex-center-gap .btn,
+  .curated-actions-row .flex-center-gap a {
+    flex: 1;
+    text-align: center;
+    font-size: 0.75rem;
+    padding: 8px 12px;
+  }
+  
+  .filters-panel {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px;
+    gap: 12px;
+  }
+  
+  .search-wrapper {
+    max-width: 100%;
+  }
+  
+  .source-filter-row {
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .feed-card {
+    height: auto;
+    gap: 16px;
+  }
+  
+  .feed-snippet {
+    -webkit-line-clamp: 4;
+  }
+  
+  .feed-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  
+  .feed-actions {
+    width: 100%;
+  }
+  
+  .feed-actions .btn {
+    flex: 1;
+  }
+  
+  .syllabus-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .article-reader-container {
+    padding: 16px 0;
+  }
+  
+  .reader-title {
+    font-size: 1.35rem;
+  }
+  
+  .reader-paragraph {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+  
+  .notes-section-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  
+  .notes-textarea {
+    height: 160px;
+    font-size: 0.8rem;
+  }
+  
+  .notes-actions {
+    width: 100%;
+  }
+  
+  .notes-actions .btn {
+    flex: 1;
+  }
+  
+  .reader-actions-footer {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .reader-actions-footer .btn {
+    width: 100%;
+  }
+  
+  .quiz-card {
+    padding: 16px;
+  }
+  
+  .quiz-question {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  .quiz-option-btn {
+    padding: 10px 14px;
+    font-size: 0.8rem;
+  }
+  
+  .quiz-controls-row .btn {
+    width: 100%;
+  }
+  
+  .quiz-results-card {
+    padding: 24px 16px;
+  }
+}

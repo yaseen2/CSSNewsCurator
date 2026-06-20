@@ -1,7 +1,7 @@
 {
-  "name": "css-newspaper-companion",
+  "name": "civil-newspaper-companion",
   "version": "1.0.0",
-  "description": "Daily Newspaper Curation for CSS Aspirants",
+  "description": "Daily Newspaper Curation for Civil Service Aspirants",
   "scripts": {
     "install-all": "npm install --prefix client && npm install --prefix server",
     "dev": "concurrently \"npm run dev --prefix client\" \"node server/index.js\"",

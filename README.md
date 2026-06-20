@@ -1,16 +1,16 @@
-# 🧠 CSS Newspaper Digest & Aggregator Companion
+# 🧠 Civil Digest & Policy Companion
 
-A premium, automated web-scraping and AI-curation study companion designed specifically for **Central Superior Services (CSS) of Pakistan** aspirants. 
+A premium, automated web-scraping and AI-curation study companion designed specifically for **Civil Service & Competitive Exams** aspirants. 
 
-This platform aggregates opinion columns and editorials from leading Pakistani newspapers (e.g., *Dawn*, *Express Tribune*, *The News*, *The Friday Times*), screens them through a custom multi-weighted heuristic scoring engine, grades their academic utility using **Google Gemini AI**, maps them to the official CSS syllabus papers (Pakistan Affairs, Current Affairs, English Essay), matches them to past exam questions (2016–2025), and generates detailed notes, quizzes, and standard essay outlines.
+This platform aggregates opinion columns and editorials from leading Pakistani newspapers (e.g., *Dawn*, *Express Tribune*, *The News*, *The Friday Times*), screens them through a custom multi-weighted heuristic scoring engine, grades their academic utility using **Google Gemini AI**, maps them to the official syllabus papers (Pakistan Affairs, Current Affairs, English Essay), matches them to past exam questions (2016–2025), and generates detailed notes, quizzes, and standard essay outlines.
 
 ---
 
 ## 🚀 Key Features
 
-*   **Daily Curation Dashboard:** A curated digest showing only high-value articles with a custom **CSS Score (0–100%)**.
+*   **Daily Curation Dashboard:** A curated digest showing only high-value articles with a custom **Policy Score (0–100%)**.
 *   **Deep AI Analysis & Evaluation:** For every suitable article, the system generates:
-    *   **Why It Matters:** A two-sentence summary of why a CSS candidate must read/quote this article.
+    *   **Why It Matters:** A two-sentence summary of why a civil service candidate must read/quote this article.
     *   **Key Arguments & Facts:** Concise bullet points detailing data-dense points, statistics, dates, and core policy arguments.
     *   **Academic References & Citations:** Suggested books (e.g., Andrew Small's *The China-Pakistan Axis*), treaties, policies (e.g., COP29 Baku Roadmap), or constitutional articles to cite in papers.
     *   **Vocabulary Power-Up:** Definitions and context sentences for advanced words used in the article.
@@ -18,7 +18,7 @@ This platform aggregates opinion columns and editorials from leading Pakistani n
     *   **AI Essay Outline:** A complete, structured exam outline (Introduction, Historical Context, Analytical Dimensions, Way Forward, and Conclusion) mapped to the article.
 *   **Live News Feeds:** Real-time RSS feeds display candidate columns. Aspirants can manually trigger live Gemini analysis on any active column.
 *   **My Notes Bank:** Integrated workspace where students can edit, save, copy, and manage customized study outlines.
-*   **Past Papers Match Engine:** Automatically scans and connects articles to subjective exam questions from past CSS exams (2016–2025) using keyword matching.
+*   **Past Papers Match Engine:** Automatically scans and connects articles to subjective exam questions from past civil service exams (2016–2025) using keyword matching.
 *   **Relevance Feedback Loop:** Upvote/downvote buttons log user feedback to improve recommendations and automatically fine-tune the filter parameters.
 *   **Self-Refinement Taxonomy Brain:** A cron-run script that reads user feedback logs, analyzes mismatches using AI, and automatically adjusts keywords and author lists in the scoring engine.
 
@@ -89,7 +89,7 @@ newspaper/
 │   ├── scoringEngine.js        # Hardcoded past exam questions & heuristic filter
 │   ├── vercel.json             # Vercel serverless functions deployment configuration
 │   └── package.json
-├── CSS Past papers/            # Official CSS syllabus PDFs & structured files
+├── Past papers/                # Official syllabus PDFs & structured files
 ├── package.json                # Root orchestration workspace configuration
 └── README.md                   # You are here!
 ```
@@ -104,11 +104,11 @@ Before sending articles to the Gemini API (to optimize cost and API quota limits
 *   **Author Score (20%):** Matches author names against a curated watchlist of renowned Pakistani policy experts, diplomats, and senior columnists (e.g., Maleeha Lodhi, Munir Akram, Khurram Husain, Sakib Sherani).
 *   **Depth Score (20%):** Evaluates academic language density by matching logical transitions (e.g., *structural constraints*, *notwithstanding*, *consequently*, *socio-economic*).
 *   **Solution Score (20%):** Searches the final 30% of the column for policy-oriented solutions (e.g., *way forward*, *should implement*, *pragmatic solution*).
-*   **Past Paper Match Bonus (+15%):** Grants a bonus if the article matches key concepts in subjective CSS papers.
+*   **Past Paper Match Bonus (+15%):** Grants a bonus if the article matches key concepts in subjective syllabus papers.
 $$\text{Relevance Score} = 30 + 0.7 \times (\text{Keyword} \times 0.4 + \text{Author} \times 0.2 + \text{Depth} \times 0.2 + \text{Solution} \times 0.2)$$
 
 ### 2. Gemini Curation Engine (`curateCron.js` & `index.js`)
-Articles scoring highly in the heuristic filter are sent to **Gemini 2.5 Flash Lite** with a prompt modeling a strict CSS Examiner. The prompt instructs the model to calculate a precise academic score. Only articles scoring **75% or higher** are marked as suitable. Articles dealing with petty political party debates or personal stories are rejected.
+Articles scoring highly in the heuristic filter are sent to **Gemini 2.5 Flash Lite** with a prompt modeling a strict competitive exam examiner. The prompt instructs the model to calculate a precise academic score. Only articles scoring **75% or higher** are marked as suitable. Articles dealing with petty political party debates or personal stories are rejected.
 
 ### 3. Self-Optimizing Taxonomy Brain (`refineTaxonomy.js`)
 When developers run `npm run optimize-brain`, the server fetches all user-submitted upvote/downvote logs. It prompts Gemini to identify false-positives (irrelevant articles that passed the heuristic filter) and false-negatives, and **writes code directly back** into `scoringEngine.js` to update the keywords, watchlists, and transition cues dynamically.
@@ -187,7 +187,7 @@ Upload the generated `dist/` directory to Vercel, Netlify, or GitHub Pages.
 ---
 
 ## 🎯 Syllabus Customization
-To customize this companion for other exams (e.g., CSS Balochistan/Sindh PMS, UPSC CSE in India, or general International Relations courses):
+To customize this companion for other exams (e.g., Civil Service / Competitive Exams, UPSC CSE in India, or general International Relations courses):
 1.  Open [scoringEngine.js](file:///server/scoringEngine.js).
 2.  Modify the `CSS_PAST_QUESTIONS` database array with past exam questions of your target course.
 3.  Adjust `CSS_TAXONOMY.keywords` and `CSS_TAXONOMY.authors` with specialized topics and expert watchlists.

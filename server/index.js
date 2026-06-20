@@ -420,7 +420,7 @@ app.post('/api/gemini/curate', async (req, res) => {
   if (matchedQuestion) {
     pastQuestionPromptFragment = `
 CRITICAL DIRECTIVE:
-This article matches the following CSS Past Exam Question:
+This article matches the following Past Exam Question:
 - Paper: ${matchedQuestion.paper}
 - Year: ${matchedQuestion.year}
 - Question: "${matchedQuestion.question}"
@@ -430,8 +430,8 @@ Evaluate the article specifically on how it helps a student address this exact p
   }
 
   const prompt = `
-You are an expert CSS (Central Superior Services of Pakistan) examiner and syllabus developer.
-Analyze the following editorial/opinion article from a Pakistani newspaper for a CSS aspirant:
+You are an expert Civil Service (Competitive Exams of Pakistan) examiner and syllabus developer.
+Analyze the following editorial/opinion article from a Pakistani newspaper for a civil service aspirant:
 
 Article Title: "${article.title}"
 Author: "${article.author}"
@@ -441,10 +441,10 @@ Article Content:
 ${content}
 """
 ${pastQuestionPromptFragment}
-Evaluate this article against the CSS examination syllabus. You are a strict, critical CSS examiner grading essays. Be highly selective; most standard columns should score below 75 (not suitable). Calculate a CSS Score (0-100) using these strict criteria:
+Evaluate this article against the competitive examination syllabus. You are a strict, critical civil service examiner grading essays. Be highly selective; most standard columns should score below 75 (not suitable). Calculate a Relevance Score (0-100) using these strict criteria:
 
 1. Syllabus Precision & Past-Paper Trend Alignment (Max 30 points):
-   - Score 30 ONLY if the article maps directly to core CSS papers AND explicitly addresses a post-2016 CSS past paper trend (e.g. SIFC investment council, 18th Amendment / NFC Award devolution, BRICS/SCO expansion vs US global dominance, maritime Indo-Pacific/QUAD/AUKUS geopolitics, climate summit roadmaps like COP28/COP29, transboundary water conflicts, hybrid/fifth-generation warfare, or nuclear strategic stability in South Asia).
+   - Score 30 ONLY if the article maps directly to core syllabus papers AND explicitly addresses a post-2016 past paper trend (e.g. SIFC investment council, 18th Amendment / NFC Award devolution, BRICS/SCO expansion vs US global dominance, maritime Indo-Pacific/QUAD/AUKUS geopolitics, climate summit roadmaps like COP28/COP29, transboundary water conflicts, hybrid/fifth-generation warfare, or nuclear strategic stability in South Asia).
    - Score 15 if it is a general, generic current affairs discussion (e.g., general bilateral relations, inflation overview) that a student already knows.
    - Score 0 if it is about temporary events, local political disputes (party clashes), or personal memoirs/stories.
 
@@ -474,7 +474,7 @@ Return a JSON object with this exact structure:
   "relevanceScore": 0-100,
   "paper": "e.g. Pakistan Affairs / Economics",
   "topic": "e.g. CPEC and Debt Restructuring",
-  "whyMatters": "Explain in 2 sentences why a CSS student must quote this article.",
+  "whyMatters": "Explain in 2 sentences why a civil service student must quote this article.",
   "summary": [
     "Core argument 1",
     "Core argument 2",
@@ -508,7 +508,7 @@ Return a JSON object with this exact structure:
     }
   ],
   "examOutline": {
-    "question": "The focus exam question being answered (use the matched question above if provided, or generate a high-yield CSS past-paper style question based on this article)",
+    "question": "The focus exam question being answered (use the matched question above if provided, or generate a high-yield past-paper style question based on this article)",
     "outline": [
       "I. Introduction (with a strong thesis statement mapping the main arguments)",
       "II. Historical Context & Structural Constraints of the issue",
