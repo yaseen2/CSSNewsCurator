@@ -149,8 +149,8 @@ async function runCuration() {
   // Sort candidates by heuristic score descending so the most syllabus-aligned are processed first
   candidates.sort((a, b) => b.heuristicScore - a.heuristicScore);
 
-  // Cap candidates to evaluate to top 8 to prevent excessive rate-limiting/API usage
-  const capLimit = 8;
+  // Cap candidates to evaluate to top 40 to prevent excessive rate-limiting/API usage
+  const capLimit = 40;
   const processedCandidates = candidates.slice(0, capLimit);
   console.log(`[+] Compiled candidates. Pre-filtered and capped to top ${processedCandidates.length} highest heuristic-scoring articles out of ${candidates.length} total options.`);
 
@@ -169,8 +169,8 @@ async function runCuration() {
 
     // Polite delay between scrapes (except the first one)
     if (i > 0) {
-      console.log('[+] Sleeping for 15 seconds to respect rate limits...');
-      await delay(15000);
+      console.log('[+] Sleeping for 60 seconds to respect rate limits...');
+      await delay(60000);
     }
 
     // A. Scrape full content
