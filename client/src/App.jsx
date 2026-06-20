@@ -19,7 +19,7 @@ export default function App() {
   
   // API and Scraper statuses
   const [apiKey, setApiKey] = useState(localStorage.getItem('gemini_api_key') || '');
-  const [githubRepoUrl, setGithubRepoUrl] = useState(localStorage.getItem('github_repo_url') || '');
+  const [githubRepoUrl, setGithubRepoUrl] = useState(localStorage.getItem('github_repo_url') || 'https://github.com/yaseen2/CSSNewsCurator');
   const [apiServerUrl, setApiServerUrl] = useState(localStorage.getItem('api_server_url') || '');
   const [isScrapingLive, setIsScrapingLive] = useState(false);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
@@ -79,7 +79,7 @@ export default function App() {
   };
 
   const fetchCurated = async () => {
-    const savedRepo = localStorage.getItem('github_repo_url') || '';
+    const savedRepo = localStorage.getItem('github_repo_url') || 'https://github.com/yaseen2/CSSNewsCurator';
     const parsed = parseGithubUrl(savedRepo);
     let fetchUrl = `${BACKEND_URL}/api/recommendations`;
     
