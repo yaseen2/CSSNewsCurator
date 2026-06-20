@@ -146,13 +146,17 @@ async function runCuration() {
     cand.heuristicScore = calculateRelevanceScore(cand.title, cand.author, cand.snippet || cand.title);
   });
 
+  // Pre-filter candidates: only keep articles with at least 40% heuristic relevance
+  // This screens out articles with zero syllabus keywords, author watchlist matches, or solutions
+  const relevantCandidates = candidates.filter(cand => cand.heuristicScore >= 40);
+
   // Sort candidates by heuristic score descending so the most syllabus-aligned are processed first
-  candidates.sort((a, b) => b.heuristicScore - a.heuristicScore);
+  relevantCandidates.sort((a, b) => b.heuristicScore - a.heuristicScore);
 
   // Cap candidates to evaluate to top 40 to prevent excessive rate-limiting/API usage
   const capLimit = 40;
-  const processedCandidates = candidates.slice(0, capLimit);
-  console.log(`[+] Compiled candidates. Pre-filtered and capped to top ${processedCandidates.length} highest heuristic-scoring articles out of ${candidates.length} total options.`);
+  const processedCandidates = relevantCandidates.slice(0, capLimit);
+  console.log(`[+] Compiled candidates. Pre-filtered and capped to top ${processedCandidates.length} highest heuristic-scoring articles (>=40%) out of ${candidates.length} total options.`);
 
   if (processedCandidates.length === 0) {
     console.log('[+] No new articles to process. Exiting.');
@@ -297,22 +301,44 @@ Return a JSON object with this exact structure:
 Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wrap in \`\`\`json).
 `;
 
-    try {
-      const geminiResponse = await axios.post(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${GEMINI_API_KEY}`,
-        {
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { responseMimeType: "application/json" }
-        },
-        {
-          headers: { 'Content-Type': 'application/json' },
-          timeout: 45000
+    let success = false;
+    let retries = 3;
+    let backoff = 45000; // 45 seconds initial backoff
+    let evaluationResult = null;
+
+    while (retries > 0 && !success) {
+      try {
+        const geminiResponse = await axios.post(
+          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${GEMINI_API_KEY}`,
+          {
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: { responseMimeType: "application/json" }
+          },
+          {
+            headers: { 'Content-Type': 'application/json' },
+            timeout: 45000
+          }
+        );
+
+        const responseText = geminiResponse.data.candidates[0].content.parts[0].text;
+        evaluationResult = JSON.parse(responseText.trim());
+        success = true;
+      } catch (apiError) {
+        retries--;
+        const status = apiError.response?.status;
+        console.error(`[-] Gemini curation API call failed for "${candidate.title}" (Status: ${status || 'Network Error'}, Message: ${apiError.message}). Retries remaining: ${retries}`);
+        
+        if (retries > 0) {
+          console.log(`[+] Rate limit or API error encountered. Waiting ${backoff / 1000} seconds before retrying...`);
+          await delay(backoff);
+          backoff *= 2; // exponential backoff (45s -> 90s)
+        } else {
+          console.error(`[-] Max retries reached for "${candidate.title}". Skipping this article.`);
         }
-      );
+      }
+    }
 
-      const responseText = geminiResponse.data.candidates[0].content.parts[0].text;
-      const evaluationResult = JSON.parse(responseText.trim());
-
+    if (success && evaluationResult) {
       if (evaluationResult.suitable && evaluationResult.relevanceScore >= 75) {
         console.log(`[+] Article is SUITABLE for CSS (Score: ${evaluationResult.relevanceScore}%). Adding to database.`);
         const newArticle = {
@@ -336,10 +362,6 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
       } else {
         console.log(`[-] Article marked UNSUITABLE (Score: ${evaluationResult.relevanceScore}%). Skipping.`);
       }
-    } catch (apiError) {
-      console.error(`[-] Gemini curation API call failed for "${candidate.title}":`, apiError.message);
-      // Wait extra time in case we hit rate limits or transient errors
-      await delay(5000);
     }
   }
 
