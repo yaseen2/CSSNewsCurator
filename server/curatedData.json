@@ -189,6 +189,119 @@
     }
   },
   {
+    "id": "curated-1781954706413-943",
+    "title": "Our climate gauntlet and the world's empty promises",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2614122/our-climate-gauntlet-and-the-worlds-empty-promises",
+    "date": "2026-06-19",
+    "author": "\n\t\t\t\tAimen Tariq\n\t\t\t",
+    "content": "As Pakistan's thermometers have breached 51.5°C in (Dadu) Sindh and Southern Punjab for the past few weeks, a cruel irony is already visible on the horizon. In a matter of weeks, the same scorched earth will be inundated by monsoon rains. This is not coincidence; it is Pakistan's annual climate gauntlet: a punishing sequence of heatwave, flood and loss that has become as predictable as the seasons themselves, yet somehow continues to catch both the government and the international community unprepared.\n\nThe 2022 floods alone displaced 33 million people and caused economic losses estimated at $30 billion, targeting roughly 9.3% of the country's GDP. Similarly, in 2024, a single heatwave, mostly in Sindh, killed over 568 people and hospitalised nearly 8,000. The following year, even before the monsoon arrives, the current heatwave has already claimed lives. Climate scientists have now confirmed that the April 2026 heatwave was around one degree Celsius hotter. At current global warming levels of 1.4°C, events of this severity will strike the subcontinent roughly once every five years. Pakistan is not preparing for a distant future. It is living it now.\n\nWhen it comes to global GHG emissions, Pakistan contributes less than 1%. However, the biggest paradox is that it ranks 15th on Global Climate Risk Index 2026. Pakistan's Minister for Climate Change and Environmental Coordination Musadik Malik has said it plainly: \"Pakistan is experiencing 'a crisis of justice', not merely a climate crisis\". Two countries – China and the US – alone produce around 45% of the world's carbon emissions. Pakistan is not even in the top ten list. Sadly, it absorbs the consequences of a warming world it did not create, with a fraction of the resources needed to adapt to it.\n\nIn addition to this, what makes Pakistan's position uniquely impossible is that the same international system that demands climate action has simultaneously stripped Pakistan of the fiscal space to pursue it. Pakistan's public debt-to-GDP ratio stands at approximately 70% for FY2025, with total public debt climbing to $287 billion. Operating under an IMF Extended Fund Facility that imposes strict fiscal conditions, the government has almost no room for discretionary spending. The IMF programme that keeps Pakistan's economy from collapse simultaneously constrains its ability to build the flood defences that would reduce the cost of the next disaster.\n\nTo be fair to the current government, it has not been sitting idle. The Ministry of Climate Change and Environment Coordination, in coordination with the UNEP, has launched what is described as Pakistan's most comprehensive flood mitigation framework to date: the Prime Minister's Monsoon 2026 Strategic Plan. But good intentions and good governance are different things. The problem is the persistent failure to institutionalise anticipatory, science-based disaster governance rather than reactive scrambling.\n\nThe international community's obligations toward Pakistan are not charitable they are structural. Firstly, loss and damage financing must move from symbolic gesture to meaningful scale. Binding, multi-year commitments proportionate to actual damage is the minimum requirement. Secondly, climate resilience must be integrated into debt relief frameworks. When Pakistan rebuilds flood-damaged infrastructure, it borrows to do so, then repays that debt while bracing for the next flood. Debt restructuring tied to climate adaptation investment would allow Pakistan to redirect fiscal space toward the embankments and drainage systems it needs, rather than toward interest payments on loans taken out after the last disaster.\n\nPakistan does not get a break between disasters, it gets a transition. The heatwave fades and the floods begin. The emergency tents come down and the relief camps go up. Through all of it, the debt clock keeps running, the climate funds remain inaccessible and the emissions that drive both extremes keep rising. This is not bad luck. It is a predictable outcome of a global order that has separated the question of who causes climate change from the question of who pays for it. The vital question here is as the temperatures climb and the clouds gather how many more seasons Pakistan must endure before that changes.",
+    "matchedQuestion": {
+      "id": "CA-2024-CLIM",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Write short notes on: Climate Change and the Big Powers’ role."
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Current Affairs",
+    "topic": "Climate Change and the Big Powers’ Role",
+    "whyMatters": "This article is highly relevant as it directly addresses the disproportionate impact of climate change on Pakistan despite its negligible contribution to global emissions, highlighting the 'crisis of justice' and the role of major emitters and international financial institutions. It provides concrete data and analytical insights crucial for answering CSS exam questions on climate change and global responsibility.",
+    "summary": [
+      "Pakistan faces extreme climate events (heatwaves, floods) due to global warming, experiencing 'a crisis of justice' as it suffers consequences it did not create.",
+      "Despite contributing less than 1% of global GHG emissions, Pakistan ranks high (15th) on the Climate Risk Index, while major emitters like China and the US account for nearly 45%.",
+      "Pakistan's fiscal constraints, exacerbated by high debt and IMF conditions, prevent effective adaptation and mitigation measures, creating a paradoxical situation where international demands for climate action are undermined by economic pressures.",
+      "The article critiques the international community's 'empty promises' and calls for meaningful loss and damage financing, and integration of climate resilience into debt relief frameworks, rather than mere symbolic gestures."
+    ],
+    "facts": [
+      "Pakistan's thermometers breached 51.5°C in Dadu, Sindh and Southern Punjab.",
+      "The 2022 floods displaced 33 million people and caused economic losses of $30 billion (9.3% of GDP).",
+      "A 2024 heatwave killed over 568 people and hospitalized nearly 8,000 in Sindh.",
+      "Climate scientists confirmed the April 2026 heatwave was approximately 1°C hotter, with such severity expected every five years at 1.4°C global warming.",
+      "Pakistan contributes less than 1% of global GHG emissions but ranks 15th on the Global Climate Risk Index 2026.",
+      "China and the US produce around 45% of global carbon emissions.",
+      "Pakistan's public debt-to-GDP ratio stands at approximately 70% for FY2025, with total public debt at $287 billion."
+    ],
+    "academicReferences": [
+      "Global Climate Risk Index 2026",
+      "IMF Extended Fund Facility conditions",
+      "UNEP (United Nations Environment Programme)"
+    ],
+    "vocabulary": [
+      {
+        "word": "gauntlet",
+        "type": "noun",
+        "definition": "a period of severe suffering or challenge.",
+        "sentence": "This is not coincidence; it is Pakistan's annual climate gauntlet: a punishing sequence of heatwave, flood and loss."
+      },
+      {
+        "word": "inundated",
+        "type": "verb",
+        "definition": "to overwhelm or flood.",
+        "sentence": "In a matter of weeks, the same scorched earth will be inundated by monsoon rains."
+      },
+      {
+        "word": "paradox",
+        "type": "noun",
+        "definition": "a situation, person, or thing that combines several conflicting or contradictory features.",
+        "sentence": "However, the biggest paradox is that it ranks 15th on Global Climate Risk Index 2026."
+      },
+      {
+        "word": "fiscal space",
+        "type": "noun",
+        "definition": "the room in a government's budget for additional spending or revenue measures, without compromising its financial stability.",
+        "sentence": "what makes Pakistan's position uniquely impossible is that the same international system that demands climate action has simultaneously stripped Pakistan of the fiscal space to pursue it."
+      },
+      {
+        "word": "anticipatory",
+        "type": "adjective",
+        "definition": "characterized by anticipation or foreknowledge; expecting something.",
+        "sentence": "The problem is the persistent failure to institutionalise anticipatory, science-based disaster governance rather than reactive scrambling."
+      },
+      {
+        "word": "structural",
+        "type": "adjective",
+        "definition": "relating to or forming part of the structure of something.",
+        "sentence": "The international community's obligations toward Pakistan are not charitable they are structural."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is Pakistan's contribution to global GHG emissions?",
+        "options": [
+          "Less than 1%",
+          "Approximately 5%",
+          "Around 10%",
+          "Over 15%"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'When it comes to global GHG emissions, Pakistan contributes less than 1%.'"
+      },
+      {
+        "question": "What is the main paradox highlighted in the article regarding Pakistan's climate situation?",
+        "options": [
+          "Pakistan is a major emitter but suffers little damage.",
+          "Pakistan has vast resources but fails to adapt.",
+          "Pakistan is a low emitter but suffers high climate risks and lacks resources to adapt.",
+          "Pakistan's climate change policy is too aggressive for its economy."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article emphasizes that despite minimal emissions contribution, Pakistan ranks high on the Climate Risk Index and lacks the resources to cope with the consequences."
+      }
+    ],
+    "examOutline": {
+      "question": "Climate Change and the Big Powers’ Role: Analyze Pakistan's vulnerability, contribution, and the responsibilities of major global powers and international institutions in addressing climate-induced crises.",
+      "outline": [
+        "I. Introduction: Thesis statement on Pakistan's 'crisis of justice' in climate change, highlighting the disparity between its low emissions and severe impact, and the role of major powers and international systems.",
+        "II. Pakistan's Climate Vulnerability and Low Contribution: Detail extreme weather events (heatwaves, floods), their economic and social costs, and Pakistan's negligible contribution (<1%) to global GHG emissions, contrasting with its high ranking on the Climate Risk Index.",
+        "III. The Disproportionate Burden: Role of Big Powers and Global System: Analyze the significant emissions (45% by US & China) from major powers and how the global system, through financial mechanisms (IMF, debt), constrains developing nations like Pakistan from effective adaptation and mitigation, creating a 'crisis of justice'.",
+        "IV. Systemic Failures and 'Empty Promises': Critically examine the inadequacy of international climate finance (loss and damage), the lack of binding commitments, and the disconnect between climate action demands and fiscal realities imposed by international financial institutions.",
+        "V. Towards a Just Climate Future: Policy Recommendations: Propose actionable solutions including meaningful loss and damage financing, integrating climate resilience into debt relief, institutionalizing anticipatory disaster governance, and demanding greater accountability from major emitters.",
+        "VI. Conclusion: Reiterate the urgency of addressing the climate crisis as a matter of justice and shared responsibility, emphasizing the need for a paradigm shift in global climate governance beyond 'empty promises'."
+      ]
+    }
+  },
+  {
     "id": "curated-1781897206332-204",
     "title": "Fiscal federalism\n",
     "source": "Dawn",
@@ -400,6 +513,109 @@
         "V. Export Performance as a Long-Term Challenge: Discuss the role of export performance. While crucial for generating foreign exchange, argue that it is insufficient on its own without concurrent improvements in other structural areas (e.g., import substitution, industrial policy, value addition).",
         "VI. Policy Recommendations and Way Forward: Based on the article's critique, propose actionable domestic policy remedies. Focus on broadening the tax base, reforming the energy sector, improving governance, and fostering export diversification and value-addition, rather than relying on external inflows.",
         "VII. Conclusion: Reiterate the thesis, emphasizing that sustainable growth requires deep, structural reforms to overcome the Balance of Payments constraint, and while export performance is vital, it must be part of a broader economic overhaul. The article's warning against complacency in the face of potential external windfalls is a key takeaway."
+      ]
+    }
+  },
+  {
+    "id": "curated-1781954167736-531",
+    "title": "Pakistan's terrorism landscape: challenges and remedies",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2613929/pakistans-terrorism-landscape-challenges-and-remedies",
+    "date": "2026-06-18",
+    "author": "\n\t\t\t\tDr Syed Akhtar Ali Shah\n\t\t\t",
+    "content": "The year 2026 did not bode well for Pakistan in terms of internal security. There appears to be no let-up in the incidents of terrorism. The Global Terrorism Index and other conflict monitors also indicate an alarming rise in fatalities, attacks and militant capacity. Pakistan's earlier gains against terrorism appear to be reversing.\n\nThe challenges of terrorism in Pakistan are mostly concentrated in Khyber-Pakhtunkhwa and Balochistan. The former faces the ever-emerging threat of TTP, ISKP and affiliated groups, while the latter continues to grapple with separatist militancy led by organisations such as BLA. Of note in this power game is a new dimension, marked by the nexus between these terrorist outfits and the Afghan Taliban.\n\nUndoubtedly, Afghanistan is considered as one of the major sanctuaries and operational spaces for TTP. The return of the Afghan Taliban to power in August 2021 has not only disturbed the regional security environment and emboldened several militant networks but also negatively impacted the socio-economic structure of the aforementioned provinces. Safe havens enable planning, training and ideological embedding. Cross-border movement, easy retreats and the availability of sophisticated weapons have added fuel to fire.\n\nHowever, the more fundamental question remains: who cultivated the seeds of extremist thinking in the first place? Will it be not too simplistic to attribute the whole problem to Afghanistan? There are no two opinions that the nucleus of the organisational structures is located across the border, but it is also a bitter truth that the mindset that nourishes militancy is an internal issue. Extremist ideas have been cultivated either tacitly or implicitly and at times due to basic fault-lines of governance, poverty, alienation and misuse of religion for political and strategic purposes.\n\nEven now hate clips circulating on social media platforms are deeply disturbing. They reflect a thought process that is deeply rooted in hatred against those who hold a different opinion on matters of belief, sect, ethnicity or politics. Social media platforms are regularly being used for transmitting content full of ridicule, aggression, demonisation and intolerance. Instead of encouraging rationality, social media has become a stage amplifying anger and extremity.\n\nIn this age of information technology, digital radicalisation is dangerous for impressionable minds, in particular. Digital platform are transnational; therefore, such elements transmit their sensational content using it as a medium, and these actors exploit emotions and identity-based grievances. It is hard for a society to gain progress when dissent is treated as enmity and difference as disloyalty. Democratic culture nurtures upon tolerance, patience, dialogue and respect for human dignity.\n\nAccording to my own information, even in rural areas of Peshawar - such as Mattani, Passani, Adezai and Hassan Khel - recruitment of boys aged as low as 14 years is taking place. Some of them suddenly disappear from their houses and later surface in the ranks of militant organisations. This is certainly an alarming situation for the policymakers, parents, teachers, religious scholars and law-enforcement agencies. Unless this new recruitment stops, the problem will remain there.\n\nThe trouble in Balochistan is equally worrisome. The recent reported introduction of a female commander, Shehnaz Baloch, in the ranks of BLA opens a new chapter in the province's insurgency landscape. Women's involvement in Baloch militant activity is not a new phenomenon, as observed in the Karachi University attack by Shari Baloch and other reported incidents. However, the public projection of a woman as a commander demonstrates a recurring propaganda and recruitment strategy.\n\nBalochistan's conflict is rooted in history. There are other factors also, like globalisation versus localism (sub-nationalism). Balochistan is rich in natural resources, but low on human development index as well as economic development – one of the major causes of political alienation. Questions of imposed leadership, autonomy, absence of due process of law, control of resource from the Centre, rampant corruption and governance failures have also germinated grievances over decades. While violence against any person, security forces and foreign workers is condemnable and must be curbed, the political and socio-economic grievances igniting the conflict cannot be ignored either.\n\nThe same applies to Khyber-Pakhtunkhwa. Mere use of force there may not be enough to bring the situation to normal. Long-range firepower may disrupt militant formations, but it may not be useful in dismantling the social fabric, ideological moorings and recruitment process that sustain extremism. Tackling this multidimensional challenge requires a comprehensive strategy encompassing governance reforms, education, employment, justice, local policing, intelligence-driven operations and community engagement - all firmly anchored in the rule of law, the foundational bedrock of good governance.\n\nAs part of remedial measures, first, there is the need to honestly reassess the past policies that allowed extremist narratives to grow. Second, border management with Afghanistan needs to be strengthened with simultaneous diplomatic engagement. Third, police and civilian intelligence structures have to be modernised, especially in Khyber-Pakhtunkhwa and Balochistan. Fourth, recruitment of young boys into militant outfit must be traced and curbed as a national emergency. Fifth, social media platforms must be monitored for incitement and recruitment, while protecting legitimate freedom of expression.\n\nEqually important is the promotion of rationalism in schools, colleges, universities, mosques, media and civil society – enabling an environment of tolerance, constitutionalism, multiculturism and critical thinking.\n\nTerrorism is a governance problem; therefore, understanding its drivers and triggers are a must. The challenge can be surmounted through a coherent, lawful and people-centric strategy.",
+    "matchedQuestion": {
+      "id": "CA-2025-NEIG",
+      "paper": "Current Affairs",
+      "year": 2025,
+      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences."
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Internal Security Challenges and Relations with Afghanistan",
+    "whyMatters": "This article directly addresses the security challenges posed by the evolving terrorism landscape in Pakistan, with a significant focus on Afghanistan's role, making it highly relevant to understanding regional security dynamics for the Current Affairs paper.",
+    "summary": [
+      "Pakistan's internal security is deteriorating, with terrorism incidents increasing, particularly in Khyber-Pakhtunkhwa and Balochistan, reversing previous gains.",
+      "Key challenges include the resurgent TTP, ISKP, and Baloch separatist groups, exacerbated by the nexus with the Afghan Taliban, who provide safe havens and operational space.",
+      "While external factors like Afghanistan are significant, the root causes of extremism also lie in internal issues such as governance failures, poverty, alienation, and the misuse of religion for political ends.",
+      "Addressing terrorism requires a comprehensive strategy encompassing border management, diplomatic engagement, modernized intelligence, curbing youth recruitment, social media monitoring, and promoting rationalism and tolerance."
+    ],
+    "facts": [
+      "Recruitment of boys as young as 14 years old is reportedly taking place in rural areas of Peshawar (Mattani, Passani, Adezai, Hassan Khel).",
+      "The article highlights the rise of female commanders in militant outfits like the Balochistan Liberation Army (BLA).",
+      "The nexus between Pakistani terrorist outfits and the Afghan Taliban is identified as a major contributing factor to the current security situation."
+    ],
+    "academicReferences": [
+      "Global Terrorism Index and other conflict monitors (mentioning an alarming rise in fatalities, attacks, and militant capacity).",
+      "Specific militant groups mentioned: TTP, ISKP, BLA.",
+      "Historical grievances in Balochistan related to resource control, autonomy, and governance failures."
+    ],
+    "vocabulary": [
+      {
+        "word": "bode",
+        "type": "verb",
+        "definition": "to be an omen of a particular outcome; to indicate by rehearsal or signs.",
+        "sentence": "The year 2026 did not bode well for Pakistan in terms of internal security."
+      },
+      {
+        "word": "nexus",
+        "type": "noun",
+        "definition": "a connection or series of connections linking two or more things.",
+        "sentence": "Of note in this power game is a new dimension, marked by the nexus between these terrorist outfits and the Afghan Taliban."
+      },
+      {
+        "word": "tacitly",
+        "type": "adverb",
+        "definition": "in a way that is expressed or understood without being directly stated; silently.",
+        "sentence": "Extremist ideas have been cultivated either tacitly or implicitly and at times due to basic fault-lines of governance..."
+      },
+      {
+        "word": "germinated",
+        "type": "verb",
+        "definition": "began to grow or develop; originated.",
+        "sentence": "Questions of imposed leadership, autonomy, absence of due process of law... have also germinated grievances over decades."
+      },
+      {
+        "word": "surmounted",
+        "type": "verb",
+        "definition": "overcome (a difficulty or obstacle).",
+        "sentence": "The challenge can be surmounted through a coherent, lawful and people-centric strategy."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which two provinces are most concentrated with terrorism challenges in Pakistan according to the article?",
+        "options": [
+          "Punjab and Sindh",
+          "Khyber-Pakhtunkhwa and Balochistan",
+          "Khyber-Pakhtunkhwa and Punjab",
+          "Sindh and Balochistan"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'The challenges of terrorism in Pakistan are mostly concentrated in Khyber-Pakhtunkhwa and Balochistan.'"
+      },
+      {
+        "question": "What internal factors are identified as contributors to the nourishment of militancy in Pakistan?",
+        "options": [
+          "Over-reliance on foreign aid and international treaties",
+          "Deficient infrastructure and lack of technological advancement",
+          "Governance failures, poverty, alienation, and misuse of religion",
+          "Lack of national sports and cultural events"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author argues that beyond external factors, 'the mindset that nourishes militancy is an internal issue. Extremist ideas have been cultivated either tacitly or implicitly and at times due to basic fault-lines of governance, poverty, alienation and misuse of religion for political and strategic purposes.'"
+      }
+    ],
+    "examOutline": {
+      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences.",
+      "outline": [
+        "I. Introduction: Briefly introduce Pakistan's complex regional security environment, highlighting the intertwined nature of its relations with Afghanistan and the persistent security challenges emanating from them. Thesis statement: While historical factors and external dynamics significantly shape Pakistan's relations with Afghanistan, leading to substantial security challenges, the internal socio-economic and governance fabric is equally critical in determining the long-term stability and security of the region.",
+        "II. Pakistan-Afghanistan Relations: Dynamics and Security Challenges:\n   A. Post-August 2021 Scenario: The rise of the Afghan Taliban and its impact on regional security.\n   B. Safe Havens and Operational Space: Afghanistan as a sanctuary for TTP, ISKP, and affiliated groups.\n   C. Cross-border movement, sophisticated weapons, and emboldened militant networks.\n   D. Afghan Taliban's Nexus: The critical link between Pakistani terrorist outfits and the current Afghan regime.\n   E. Impact on Pakistan's Internal Security: Concentrated challenges in Khyber-Pakhtunkhwa and Balochistan.",
+        "III. Internal Drivers of Extremism in Pakistan:\n   A. The 'Mindset' Problem: Root causes beyond external influences.\n   B. Governance Fault-lines: Systemic issues contributing to alienation and extremism.\n   C. Socio-economic Factors: Poverty, lack of development, and grievances.\n   D. Misuse of Religion: Political and strategic exploitation of religious narratives.\n   E. Digital Radicalization: The role of social media in amplifying hate and intolerance among impressionable minds.",
+        "IV. Specific Provincial Challenges: Khyber-Pakhtunkhwa and Balochistan:\n   A. KP: Threat from TTP, ISKP; importance of dismantling social fabric and ideological moorings.\n   B. Balochistan: Separatist militancy (BLA), resource-based grievances, developmental deficits, and new dimensions (e.g., female commanders).",
+        "V. Remedial Measures and Policy Recommendations:\n   A. Reassessment of Past Policies and Border Management with Afghanistan.\n   B. Diplomatic Engagement and Strengthening Border Security.\n   C. Modernization of Police and Civilian Intelligence Structures.\n   D. National Emergency to Curb Youth Recruitment (ages as low as 14).\n   E. Social Media Monitoring for Incitement while protecting free expression.\n   F. Promotion of Rationalism, Tolerance, Constitutionalism, and Critical Thinking across institutions (schools, mosques, media, civil society).",
+        "VI. Conclusion: Reiterate that terrorism is fundamentally a governance problem requiring a coherent, lawful, and people-centric strategy. Emphasize that Pakistan's strategic relationship with Afghanistan and its internal stability are inextricably linked, necessitating a multi-faceted approach to surmount security challenges."
       ]
     }
   },
