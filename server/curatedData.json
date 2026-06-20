@@ -1,5 +1,194 @@
 [
   {
+    "id": "curated-1781921046048-555",
+    "title": "Menacing water plans\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2009412/menacing-water-plans",
+    "date": "2026-06-20",
+    "author": "none@none.com (Editorial)",
+    "content": "IN April last year, India suspended the decades-old Indus Waters Treaty, which contains no provision allowing it to be held in abeyance unilaterally. In doing so, New Delhi also breached the broader principles of international law governing shared water resources. Last June, the Permanent Court of Arbitration ruled against the suspension, saying that it went against the letter of the treaty. The same court ruled last month on India’s hydropower projects at Ratle and Kishenganga; it found that India had been inflating storage capacity through engineering workarounds. While addressing a seminar recently, Deputy Prime Minister Ishaq Dar said that India’s actions were based on “imagined capacity” and “artificial load curves” used to dodge the IWT’s release limits. India rejected both rulings, calling the court illegitimate. A country that loses twice in arbitration and criticises the court both times is actually saying that it is above the law and that no rules apply to it.\nIndia’s actions match the rhetoric of its leadership whose controversial infrastructural ambitions are reflected in their menacing words. The water minister C.R. Patil has openly said the goal was to ensure that not a drop of water reached Pakistan. His boss PM Narendra Modi has repeatedly tied this shared natural resource to his security doctrine. Coming from the top leadership, these remarks underscore the Indian strategy. According to Mr Dar, at least 17 Indian projects are underway on Pakistani rivers that he has rightly pointed out will “drastically alter the Indus River System as a whole, giving New Delhi the tools for ‘hydro-hegemony’ that it so desires”. Such actions constitute the weaponisation of water by an upper riparian and threaten the future of a population of 240m. Islamabad has sensibly stuck to the arbitration process, despite having previously warned that altering the river flows could be treated as an act of war. What is missing is international pressure on New Delhi to right the wrong it has done. What the world needs to understand is that the precedent that India is setting will not remain confined to the Indus. Every upper riparian state is watching the saga unfold to see what will happen to a country that blatantly ignores its international treaty obligations. If it appears that there are no consequences for such a criminal act, India will not be the last country to weaponise water.\nPublished in Dawn, June 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs",
+    "topic": "Transboundary Water Conflicts: Indus Waters Treaty and India-Pakistan Relations",
+    "whyMatters": "This article is crucial for CSS aspirants as it directly addresses a critical aspect of the Indus Waters Treaty (IWT) in the context of contemporary Pakistan-India relations and international law. It provides vital arguments and factual references relevant to past paper questions on bilateral water disputes and their geopolitical implications.",
+    "summary": [
+      "India's unilateral suspension of the Indus Waters Treaty (IWT) and its rejection of international arbitration rulings demonstrate a disregard for treaty obligations and international law, impacting Pakistan's water security.",
+      "India's actions, including engineering workarounds to inflate storage capacity and statements from its leadership, suggest a deliberate strategy to weaponize water against Pakistan, creating 'hydro-hegemony'.",
+      "Pakistan's adherence to the arbitration process is highlighted, yet the lack of international pressure on India is identified as a significant concern, potentially setting a dangerous precedent for other transboundary water disputes.",
+      "The article underscores the potential for escalating conflict if India's actions on the Indus are not met with consequences, emphasizing the need for global awareness and intervention."
+    ],
+    "facts": [
+      "India suspended the Indus Waters Treaty in April last year (2025, based on the publication date).",
+      "The Permanent Court of Arbitration ruled against India's suspension in June last year (2025).",
+      "The same court ruled last month (May 2026) on India's hydropower projects at Ratle and Kishenganga, finding India had been inflating storage capacity.",
+      "Deputy Prime Minister Ishaq Dar stated India's actions were based on 'imagined capacity' and 'artificial load curves'.",
+      "At least 17 Indian projects are underway on Pakistani rivers, potentially altering the Indus River System.",
+      "The article cites Indian Water Minister C.R. Patil's statement aiming for 'not a drop of water reached Pakistan'."
+    ],
+    "academicReferences": [
+      "Indus Waters Treaty (1960)",
+      "Permanent Court of Arbitration rulings on the IWT",
+      "International law governing shared water resources"
+    ],
+    "vocabulary": [
+      {
+        "word": "abeyance",
+        "type": "noun",
+        "definition": "a state of temporary disuse or suspension.",
+        "sentence": "The treaty was held in abeyance, meaning it was temporarily suspended."
+      },
+      {
+        "word": "riparian",
+        "type": "adjective",
+        "definition": "relating to or situated on the banks of a river.",
+        "sentence": "The upper riparian state has obligations towards the lower riparian state."
+      },
+      {
+        "word": "hegemony",
+        "type": "noun",
+        "definition": "leadership or dominance, especially by one country or social group over others.",
+        "sentence": "India seeks 'hydro-hegemony' over Pakistan's water resources."
+      },
+      {
+        "word": "precedent",
+        "type": "noun",
+        "definition": "an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.",
+        "sentence": "India's actions could set a dangerous precedent for other transboundary water disputes."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary concern regarding India's actions on the Indus River System?",
+        "options": [
+          "India's refusal to participate in joint water management projects.",
+          "India's potential weaponization of water resources against Pakistan through hydro-hegemony.",
+          "India's excessive withdrawal of water for agricultural purposes.",
+          "India's underutilization of its share of water resources."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that India's actions constitute 'weaponisation of water' and aims for 'hydro-hegemony', directly threatening Pakistan's water security."
+      }
+    ],
+    "examOutline": {
+      "question": "Analyze how India's recent actions have strained the Indus Waters Treaty (1960) and exacerbated bilateral relations, exploring the implications for regional stability.",
+      "outline": [
+        "I. Introduction: Briefly introduce the Indus Waters Treaty (IWT) and its significance, thesis statement on how India's recent actions challenge the treaty and impact Pakistan-India relations and regional stability.",
+        "II. Historical Context of the IWT: The establishment of the treaty in 1960, its core provisions for water sharing, and its role in maintaining peace despite political tensions.",
+        "III. India's Recent Stance and Actions: Detail India's suspension of the treaty, its rejection of arbitration rulings (Permanent Court of Arbitration), and specific engineering projects (Ratle, Kishenganga) that allegedly inflate storage capacity and manipulate release limits.",
+        "IV. 'Hydro-hegemony' and Weaponization of Water: Analyze India's stated ambitions (e.g., C.R. Patil's remarks) and Deputy PM Ishaq Dar's concerns about 'imagined capacity' and 'artificial load curves', linking these to the concept of weaponizing water for geopolitical leverage.",
+        "V. Implications for Pakistan and Regional Stability: Discuss the threat to Pakistan's water security (affecting 240m population), the potential for conflict ('act of war'), and the dangerous precedent set for other transboundary water disputes globally.",
+        "VI. International Dimension and Way Forward: The lack of international pressure on India, and the need for global recognition of the implications. Potential policy recommendations could include diplomatic pressure, strengthening international water law, and Pakistan's strategic response within legal and diplomatic frameworks.",
+        "VII. Conclusion: Reiterate the thesis, summarizing the critical juncture the IWT and Pakistan-India relations are at, emphasizing the dire need for adherence to international law and peaceful dispute resolution."
+      ]
+    }
+  },
+  {
+    "id": "curated-1781921087824-571",
+    "title": "Winning the Indus lawfare\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2009409/winning-the-indus-lawfare",
+    "date": "2026-06-20",
+    "author": "none@none.com (Hassan Aslam Shad)",
+    "content": "FEW agreements in the belligerent India-Pakistan relations have demonstrated the resilience of the Indus Waters Treaty. Wars have been fought, but despite all this, through every crisis, the IWT endured. Why? Because this endurance reflects a reality that neither India nor Pakistan can escape. Rivers continue to flow regardless of political tensions. In the modern space, the dispu­­te has acquired a fast-paced lawfare dimension. \nThe term ‘lawfare’ is often used casually. But every legal disagreement is not lawfare, and neither is every international court case. In sum, lawfare involves the strategic use of legal arguments/ narratives in pursuit of political objectives. In today’s international environment, legal contests unfold simultaneously in diplomatic circles, think tanks, professional networks, even media platforms. The battle is not simply about who possesses the stronger legal argument. It is equally about who succeeds in shaping the broader perception surrounding its legal position. \nHaving worked on international legal disputes over the past two decades, I have learned that legal merit and influence are not the same thing. The strongest legal argument in the courtroom does not automatically become the dominant argument internationally. By the time a tribunal reaches a decision, journalists may have framed the dispute in a particular way and policymakers may already have formed opinions. Those impressions can become remarkably difficult to reverse. \nRecent international experience illustrates this point. The South China Sea arbitration demonstrated how legal arguments can shape global discourse. Similar dynamics can be observed in proceedings before the International Court of Jus­­tice involving the genocide case against Israel. In such cases, legal proceedings unfold alongside pa­­rallel efforts to influence international opinion. The courtroom is no longer the only arena that matters. There is now more to it than meets the eye. \nAt the heart of the present India-Pakistan controversy lies one of the most fundamental principles of international law: pacta sunt servanda. This principle dictates that agreements must be honoured in good faith. Much of the international legal order depends upon it. States do not negotiate treaties because they expect harmony. Treaties are designed to survive animosity. A legal commitment that remains meaningful only during periods of friendship can end up being a recipe for disaster.\nFor that reason, the implications of the current dispute extend beyond the Indus Basin itself. A broader issue is what happens when confidence in long-standing international commitments begins to weaken. What message is sent when treaty obligations appear vulnerable to shifting circumstances such as the ones invoked by India? These are questions that resonate far and beyond. Countries across the world have a stake in preserving confidence in agreements because uncertainty in one area of international cooperation can give rise to dangerous precedents.\nEffective lawfare requires coordination among international lawyers, academics, communication specialists and \n  technical experts.\nPakistan therefore faces a gargantuan challenge that is partly legal and partly strategic. The legal dimension is straightforward because Pakistan possesses substantial arguments grounded in treaty law. The more difficult challenge is ensuring that those arguments are consistently taken seriously beyond diplomatic channels. Frankly, I do not believe periodic public statements are sufficient anymore. For many years, Pakistan’s response to international disputes has often followed a familiar cycle. A controversy emerges, official statements are issued and public attention intensifies. And then the issue fizzles out until the next dispute arises. \nThat is why I firmly believe Pakistan should seriously consider establishing a permanent institutional mechanism, whether such a body is cal­le­­­d a ‘National Lawfare Commission’ or something else. But that is less important than the role it performs. Effective lawfare requires coordination am­­­ong international lawyers, academics, com­m­u­nication specialists and technical experts. A compelling legal argument cannot achieve its full po­­tential if it remains disconnected from public en­­g­­agement. And, much to its chagrin, this is the hard lesson Pakistan has repeatedly failed to learn.\nInternational outreach, firmly grounded in lawfare, deserves particular attention. One of Pakistan’s recurring weaknesses has been the assumption that legal positions, once articulated, will somehow speak for themselves. They don’t — ever. The battle for credibility increasingly takes place in policy journals, research institutes and international conferences where future decision-makers develop their understanding of international affairs. Ideas travel faster than diplomacy. Pakistan should, therefore, invest heavily in highlighting the broader principles of international law that underpin its robust legal position. \nLawfare is not to be conflated with propaganda. Credibility remains the foundation of effective legal advocacy. International audiences are rarely persuaded by slogans. They respond positively to evidence. Any successful lawfare strategy by Pakistan must therefore be grounded in rigorous analysis capable of withstanding scrutiny rather than merely generating headlines.\nThere is also a human dimension that deserves greater emphasis. Lawyers have a natural tendency to focus on treaty provisions. Yet, ordinary citizens experience these issues differently. Farmers think about harvests and communities think about economic security. The Indus Basin supports millions of people whose daily lives depend upon the continued availability of water. Any effective legal strategy by Pakistan should connect legal principles with these lived realities. International law ultimately exists to serve people, not merely to file and prepare documents.\nPakistan is not approaching this dispute from a position of weakness. Far from it. Hand on heart, I believe Pakistan’s legal position deserves serious consideration. The real question is whether Pakistan is prepared for the long game that modern international disputes increasingly require. Lawfare has become a permanent feature of international competition. Countries that understand this aspect can shape debates long before judgements are delivered. The future of the Indus dispute will depend not only on what the law says, but also on who succeeds in defending it and embedding it within the broader international conversation. That contest is already underway, and Pakistan needs to get ready for the long haul of international lawfare before it is too late. \nThe writer is an international law practitioner and a graduate of Harvard Law School. \nveritas@post.harvard.edu\nPublished in Dawn, June 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Indus Waters Treaty and India-Pakistan Relations",
+    "whyMatters": "This article provides a contemporary analysis of the Indus Waters Treaty (IWT) through the lens of 'lawfare', offering strategic insights crucial for understanding ongoing water disputes and their broader implications for Pakistan-India relations.",
+    "summary": [
+      "The Indus Waters Treaty (IWT) has shown remarkable resilience despite decades of conflict between India and Pakistan, enduring due to the inescapable reality of flowing rivers.",
+      "Modern disputes, like the IWT, are increasingly characterized by 'lawfare', which involves the strategic use of legal arguments to achieve political objectives, extending beyond traditional legal forums to include diplomatic, think tank, and media platforms.",
+      "The effectiveness of legal arguments is not solely dependent on their merit but also on the ability to shape international perception, as demonstrated by cases like the South China Sea arbitration and the ICJ's genocide case against Israel.",
+      "Pakistan faces a dual challenge in the current IWT dispute: a strong legal position grounded in treaty law and the strategic imperative to effectively communicate and embed its arguments within the international discourse through a coordinated 'lawfare' approach."
+    ],
+    "facts": [
+      "The Indus Waters Treaty (IWT) has endured wars between India and Pakistan.",
+      "The core legal principle underpinning the IWT is 'pacta sunt servanda' (agreements must be honoured in good faith).",
+      "Effective lawfare requires coordination among international lawyers, academics, communication specialists, and technical experts.",
+      "International credibility is built on evidence and rigorous analysis, not slogans or propaganda.",
+      "The human dimension of water disputes involves the impact on ordinary citizens, farmers, and economic security, not just treaty provisions."
+    ],
+    "academicReferences": [
+      "Pacta sunt servanda principle of international law",
+      "South China Sea arbitration",
+      "International Court of Justice (ICJ) genocide case against Israel"
+    ],
+    "vocabulary": [
+      {
+        "word": "lawfare",
+        "type": "noun",
+        "definition": "the strategic use of legal arguments, tactics, or processes in pursuit of political or military objectives.",
+        "sentence": "The article highlights how the dispute over the Indus Waters Treaty has acquired a fast-paced lawfare dimension."
+      },
+      {
+        "word": "pacta sunt servanda",
+        "type": "Latin phrase",
+        "definition": "a principle of international law meaning that treaties are binding on the parties and must be performed in good faith.",
+        "sentence": "At the heart of the current India-Pakistan controversy lies the fundamental principle of international law, pacta sunt servanda."
+      },
+      {
+        "word": "gargantuan",
+        "type": "adjective",
+        "definition": "enormous; gigantic.",
+        "sentence": "Pakistan therefore faces a gargantuan challenge that is partly legal and partly strategic."
+      },
+      {
+        "word": "conflated",
+        "type": "verb",
+        "definition": "to merge into one; fuse; combine.",
+        "sentence": "Lawfare is not to be conflated with propaganda."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is 'lawfare'?",
+        "options": [
+          "The strategic use of legal arguments in pursuit of political objectives.",
+          "Any international court case filed by a country.",
+          "A public statement made by a government spokesperson.",
+          "The process of negotiating a new treaty."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly defines lawfare as 'the strategic use of legal arguments/ narratives in pursuit of political objectives'."
+      },
+      {
+        "question": "Which fundamental principle of international law is central to the Indus Waters Treaty dispute, as mentioned in the article?",
+        "options": [
+          "Pacta sunt servanda",
+          "Jus cogens",
+          "Res judicata",
+          "Ex aequo et bono"
+        ],
+        "answerIndex": 0,
+        "explanation": "The author states, 'At the heart of the present India-Pakistan controversy lies one of the most fundamental principles of international law: pacta sunt servanda.'"
+      }
+    ],
+    "examOutline": {
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?",
+      "outline": [
+        "I. Introduction: Thesis statement on the IWT's dual impact – establishing a framework for water distribution while being a persistent source of tension and strategic engagement in India-Pakistan relations, particularly in the modern context of 'lawfare'.",
+        "II. Historical Context and Framework of the IWT: Establishment of the treaty, its provisions for water distribution between the Eastern and Western rivers, and its role as a buffer against conflict.",
+        "III. Impact on Water Distribution: Analysis of how the IWT has managed water sharing despite political animosity, acknowledging the inherent challenges and potential for disputes arising from differing interpretations and development of river resources.",
+        "IV. Impact on India-Pakistan Relations: Discussion of how the IWT has influenced bilateral relations, highlighting its resilience during wars but also the emergence of 'lawfare' as a new dimension in managing disputes, and the strategic importance of this engagement for Pakistan.",
+        "V. Pakistan's Lawfare Strategy: Evaluation of the author's recommendations for Pakistan, including the need for institutional mechanisms, coordinated expertise, international outreach, and connecting legal arguments with human realities.",
+        "VI. Conclusion: Reiteration of the IWT's enduring significance and the necessity for Pakistan to adeptly navigate the complexities of modern lawfare to safeguard its water security and national interests within the broader India-Pakistan dynamic."
+      ]
+    }
+  },
+  {
     "id": "curated-1781897206332-204",
     "title": "Fiscal federalism\n",
     "source": "Dawn",
