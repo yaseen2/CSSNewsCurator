@@ -509,19 +509,19 @@ Return a JSON object with this exact structure:
   ],
   "flashcards": [
     {
-      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article.",
+      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article. Do NOT ask about vocabulary, word meanings, or dictionary definitions (focus only on conceptual analysis).",
       "back": "The concise, accurate answer based on the article's text."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question (not vocabulary-related)...",
       "back": "Another concise answer..."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question (not vocabulary-related)...",
       "back": "Another concise answer..."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question (not vocabulary-related)...",
       "back": "Another concise answer..."
     }
   ]

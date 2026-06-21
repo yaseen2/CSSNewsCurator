@@ -58,13 +58,13 @@ async function scrapeFullText(url, source) {
     }
 
     // Clean up empty lines or obvious ads/sharing prompts
-    paragraphs = paragraphs.filter(p => 
-      p.length > 30 && 
-      !p.toLowerCase().includes('follow us on') && 
+    paragraphs = paragraphs.filter(p =>
+      p.length > 30 &&
+      !p.toLowerCase().includes('follow us on') &&
       !p.toLowerCase().includes('read more:') &&
       !p.toLowerCase().includes('twitter')
     );
-    
+
     return paragraphs.join('\n\n');
   } catch (error) {
     console.error(`[-] Error scraping full text from ${url}:`, error.message);
@@ -101,7 +101,7 @@ async function callGemini(prompt, title) {
       retries--;
       const status = apiError.response?.status;
       console.error(`[-] Gemini API call failed for "${title}" (Status: ${status || 'Network Error'}, Message: ${apiError.message}). Retries remaining: ${retries}`);
-      
+
       if (retries > 0) {
         console.log(`[+] Rate limit or API error encountered. Waiting ${backoff / 1000} seconds before retrying...`);
         await delay(backoff);
@@ -117,7 +117,7 @@ async function callGemini(prompt, title) {
 // Core Curation Engine
 async function runCuration() {
   console.log('[+] Starting Civil Digest background curation job...');
-  
+
   // 1. Read existing curated database (Redis with local file fallback)
   let curatedList = [];
   try {
@@ -163,7 +163,7 @@ async function runCuration() {
     try {
       console.log(`[+] Fetching RSS feed: ${feed.source} from ${feed.url}`);
       const parsed = await parser.parseURL(feed.url);
-      
+
       for (const item of parsed.items) {
         const link = item.link || '';
         if (feed.filter(link) && !existingUrls.has(link) && !addedUrls.has(link)) {
@@ -359,19 +359,19 @@ Return a JSON object with this exact structure:
   ],
   "flashcards": [
     {
-      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article.",
+      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article. Do NOT ask about vocabulary, word meanings, or dictionary definitions (focus only on conceptual analysis).",
       "back": "The concise, accurate answer based on the article's text."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question",
       "back": "Another concise answer..."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question",
       "back": "Another concise answer..."
     },
     {
-      "front": "Another key question...",
+      "front": "Another key conceptual question",
       "back": "Another concise answer..."
     }
   ]
@@ -420,7 +420,7 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
   if (newCuratedArticles.length > 0) {
     // Combine new with existing
     let updatedCuratedList = [...newCuratedArticles, ...curatedList];
-    
+
     // Sort by date descending, then score descending
     updatedCuratedList.sort((a, b) => {
       const dateA = new Date(a.date);
@@ -443,7 +443,7 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
       if (savedRedis) {
         console.log('[+] Curated database successfully pushed to Upstash Redis.');
       }
-      
+
       // Save locally as fallback and for git backups
       fs.writeFileSync(CURATED_FILE, JSON.stringify(updatedCuratedList, null, 2), 'utf-8');
       console.log(`\n[+] Successfully saved ${successCount} new curated articles locally!`);
