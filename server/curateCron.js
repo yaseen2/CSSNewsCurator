@@ -100,7 +100,8 @@ async function callGemini(prompt, title) {
     } catch (apiError) {
       retries--;
       const status = apiError.response?.status;
-      console.error(`[-] Gemini API call failed for "${title}" (Status: ${status || 'Network Error'}, Message: ${apiError.message}). Retries remaining: ${retries}`);
+      const apiDetails = apiError.response?.data?.error?.message || apiError.message;
+      console.error(`[-] Gemini API call failed for "${title}" (Status: ${status || 'Network Error'}, Message: ${apiDetails}). Retries remaining: ${retries}`);
 
       if (retries > 0) {
         console.log(`[+] Rate limit or API error encountered. Waiting ${backoff / 1000} seconds before retrying...`);
