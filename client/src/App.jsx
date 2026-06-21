@@ -133,14 +133,30 @@ export default function App() {
       
       // Get flashcards (backward compatible fallback for articles with only outlines)
       let flashcardsList = readingArticle.flashcards;
-      if (!flashcardsList && readingArticle.examOutline) {
-        flashcardsList = [
-          { front: "What is the focus exam question for this article?", back: readingArticle.examOutline.question },
-          ...(readingArticle.examOutline.outline || []).map((step, sIdx) => ({
-            front: `Step ${sIdx + 1} Outline Guidance`,
-            back: step
-          }))
-        ];
+      if (!flashcardsList) {
+        flashcardsList = [];
+        if (readingArticle.whyMatters) {
+          flashcardsList.push({
+            front: "What is the core significance of this article?",
+            back: readingArticle.whyMatters
+          });
+        }
+        if (readingArticle.summary && readingArticle.summary.length > 0) {
+          readingArticle.summary.forEach((arg, idx) => {
+            flashcardsList.push({
+              front: `What is Key Argument #${idx + 1} presented by the author?`,
+              back: arg
+            });
+          });
+        }
+        if (readingArticle.facts && readingArticle.facts.length > 0) {
+          readingArticle.facts.forEach((fact, idx) => {
+            flashcardsList.push({
+              front: `What is a key factual data point or statistic mentioned in the article?`,
+              back: fact
+            });
+          });
+        }
       }
 
       if (flashcardsList && flashcardsList.length > 0) {
@@ -795,14 +811,30 @@ export default function App() {
 
                               {(() => {
                                 let articleFlashcards = art.flashcards;
-                                if (!articleFlashcards && art.examOutline) {
-                                  articleFlashcards = [
-                                    { front: "What is the focus exam question for this article?", back: art.examOutline.question },
-                                    ...(art.examOutline.outline || []).map((step, sIdx) => ({
-                                      front: `Outline Guidance - Step ${sIdx + 1}:`,
-                                      back: step
-                                    }))
-                                  ];
+                                if (!articleFlashcards) {
+                                  articleFlashcards = [];
+                                  if (art.whyMatters) {
+                                    articleFlashcards.push({
+                                      front: "What is the core significance of this article?",
+                                      back: art.whyMatters
+                                    });
+                                  }
+                                  if (art.summary && art.summary.length > 0) {
+                                    art.summary.forEach((arg, idx) => {
+                                      articleFlashcards.push({
+                                        front: `What is Key Argument #${idx + 1} presented by the author?`,
+                                        back: arg
+                                      });
+                                    });
+                                  }
+                                  if (art.facts && art.facts.length > 0) {
+                                    art.facts.forEach((fact, idx) => {
+                                      articleFlashcards.push({
+                                        front: `What is a key factual data point or statistic mentioned in the article?`,
+                                        back: fact
+                                      });
+                                    });
+                                  }
                                 }
                                 return articleFlashcards && articleFlashcards.length > 0 ? (
                                   <div className="exam-outline-section" style={{ marginTop: '20px', marginBottom: '20px' }}>
