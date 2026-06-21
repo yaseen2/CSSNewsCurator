@@ -135,25 +135,22 @@ export default function App() {
       let flashcardsList = readingArticle.flashcards;
       if (!flashcardsList) {
         flashcardsList = [];
-        if (readingArticle.whyMatters) {
-          flashcardsList.push({
-            front: "What is the core significance of this article?",
-            back: readingArticle.whyMatters
-          });
-        }
-        if (readingArticle.summary && readingArticle.summary.length > 0) {
-          readingArticle.summary.forEach((arg, idx) => {
+        // Map Quiz Questions
+        if (readingArticle.quiz && readingArticle.quiz.length > 0) {
+          readingArticle.quiz.forEach((qItem) => {
+            const correctOption = qItem.options[qItem.answerIndex];
             flashcardsList.push({
-              front: `What is Key Argument #${idx + 1} presented by the author?`,
-              back: arg
+              front: qItem.question,
+              back: `Correct Answer: ${correctOption}\n\nExplanation: ${qItem.explanation}`
             });
           });
         }
-        if (readingArticle.facts && readingArticle.facts.length > 0) {
-          readingArticle.facts.forEach((fact, idx) => {
+        // Map Vocabulary Words
+        if (readingArticle.vocabulary && readingArticle.vocabulary.length > 0) {
+          readingArticle.vocabulary.forEach((vItem) => {
             flashcardsList.push({
-              front: `What is a key factual data point or statistic mentioned in the article?`,
-              back: fact
+              front: `What is the meaning and grammatical type of: "${vItem.word}"?`,
+              back: `Type: ${vItem.type}\nDefinition: ${vItem.definition}\n\nUsage:\n"${vItem.sentence}"`
             });
           });
         }
@@ -813,25 +810,22 @@ export default function App() {
                                 let articleFlashcards = art.flashcards;
                                 if (!articleFlashcards) {
                                   articleFlashcards = [];
-                                  if (art.whyMatters) {
-                                    articleFlashcards.push({
-                                      front: "What is the core significance of this article?",
-                                      back: art.whyMatters
-                                    });
-                                  }
-                                  if (art.summary && art.summary.length > 0) {
-                                    art.summary.forEach((arg, idx) => {
+                                  // Map Quiz Questions
+                                  if (art.quiz && art.quiz.length > 0) {
+                                    art.quiz.forEach((qItem) => {
+                                      const correctOption = qItem.options[qItem.answerIndex];
                                       articleFlashcards.push({
-                                        front: `What is Key Argument #${idx + 1} presented by the author?`,
-                                        back: arg
+                                        front: qItem.question,
+                                        back: `Correct Answer: ${correctOption}\n\nExplanation: ${qItem.explanation}`
                                       });
                                     });
                                   }
-                                  if (art.facts && art.facts.length > 0) {
-                                    art.facts.forEach((fact, idx) => {
+                                  // Map Vocabulary Words
+                                  if (art.vocabulary && art.vocabulary.length > 0) {
+                                    art.vocabulary.forEach((vItem) => {
                                       articleFlashcards.push({
-                                        front: `What is a key factual data point or statistic mentioned in the article?`,
-                                        back: fact
+                                        front: `What is the meaning and grammatical type of: "${vItem.word}"?`,
+                                        back: `Type: ${vItem.type}\nDefinition: ${vItem.definition}\n\nUsage:\n"${vItem.sentence}"`
                                       });
                                     });
                                   }
