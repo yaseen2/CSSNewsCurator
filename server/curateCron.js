@@ -72,6 +72,48 @@ async function scrapeFullText(url, source) {
   }
 }
 
+// Helper to call Google Gemini API with retries and exponential backoff
+async function callGemini(prompt, title) {
+  let success = false;
+  let retries = 3;
+  let backoff = 45000; // 45 seconds initial backoff
+  let resultText = null;
+
+  const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
+
+  while (retries > 0 && !success) {
+    try {
+      const response = await axios.post(
+        `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`,
+        {
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { responseMimeType: "application/json" }
+        },
+        {
+          headers: { 'Content-Type': 'application/json' },
+          timeout: 45000
+        }
+      );
+
+      resultText = response.data.candidates[0].content.parts[0].text;
+      success = true;
+    } catch (apiError) {
+      retries--;
+      const status = apiError.response?.status;
+      console.error(`[-] Gemini API call failed for "${title}" (Status: ${status || 'Network Error'}, Message: ${apiError.message}). Retries remaining: ${retries}`);
+      
+      if (retries > 0) {
+        console.log(`[+] Rate limit or API error encountered. Waiting ${backoff / 1000} seconds before retrying...`);
+        await delay(backoff);
+        backoff *= 2; // exponential backoff (45s -> 90s)
+      } else {
+        console.error(`[-] Max retries reached for "${title}".`);
+      }
+    }
+  }
+  return resultText;
+}
+
 // Core Curation Engine
 async function runCuration() {
   console.log('[+] Starting Civil Digest background curation job...');
@@ -189,7 +231,7 @@ async function runCuration() {
       continue;
     }
 
-    console.log(`[+] Scraped ${fullText.length} characters. Evaluating via Gemini API...`);
+    console.log(`[+] Scraped ${fullText.length} characters. Running Stage 1 Curation evaluation...`);
 
     // B. Match candidate to past papers
     const matchedQuestion = matchPastQuestions(candidate.title, fullText);
@@ -207,10 +249,65 @@ Evaluate the article specifically on how it helps a student address this exact p
       console.log(`[+] Direct match found with past exam question: ${matchedQuestion.id}`);
     }
 
-    // C. Send to Gemini for detailed evaluation
-    const prompt = `
-You are an expert Civil Service (Competitive Exams of Pakistan) examiner and syllabus developer.
-Analyze the following editorial/opinion article from a Pakistani newspaper for a civil service aspirant:
+    // Stage 1 Prompt: Lightweight Suitability Check
+    const stage1Prompt = `
+You are an expert Competitive Exams examiner and policy analyst.
+Analyze the following editorial/opinion article to determine if it is suitable for civil service aspirants:
+
+Article Title: "${candidate.title}"
+Author: "${candidate.author}"
+Source: "${candidate.source}"
+Article Content Snippet:
+"""
+${fullText.substring(0, 8000)}
+"""
+
+Evaluate this article against the competitive examination syllabus. You are a strict examiner. Be highly selective; most standard columns should score below 75 (not suitable). Calculate a Relevance Score (0-100) using these strict criteria:
+
+1. Syllabus Precision & Past-Paper Trend Alignment (Max 30 points)
+2. Data & Fact Density (Max 20 points)
+3. Analytical Depth & Transition (Max 25 points)
+4. Actionable Policy Remedies (Max 15 points)
+5. Author Credibility (Max 10 points)
+
+CRITICAL RULES:
+- If the final score is less than 75, or if the article is about local political party bickering/infighting, set "suitable" to false.
+- A standard, average column should score between 50 and 65. Only 2 to 3 articles per week should score above 80.
+
+Return a JSON object with this exact structure:
+{
+  "suitable": true/false,
+  "relevanceScore": 0-100,
+  "reason": "One sentence summary of the suitability decision."
+}
+Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wrap in \`\`\`json).
+`;
+
+    const stage1ResultText = await callGemini(stage1Prompt, candidate.title);
+    if (!stage1ResultText) {
+      console.warn(`[-] Skipping "${candidate.title}" due to Gemini Stage 1 API failure.`);
+      continue;
+    }
+
+    let stage1Result = null;
+    try {
+      stage1Result = JSON.parse(stage1ResultText.trim());
+    } catch (e) {
+      console.error(`[-] Failed to parse Stage 1 JSON for "${candidate.title}":`, e.message);
+      continue;
+    }
+
+    if (!stage1Result.suitable || stage1Result.relevanceScore < 75) {
+      console.log(`[-] Article marked UNSUITABLE (Score: ${stage1Result.relevanceScore}%). Reason: ${stage1Result.reason || 'Syllabus mismatch'}. Skipping.`);
+      continue;
+    }
+
+    console.log(`[+] Article is SUITABLE (Score: ${stage1Result.relevanceScore}%). Proceeding to Stage 2 study aid generation...`);
+
+    // Stage 2 Prompt: Detailed Resource Generation
+    const stage2Prompt = `
+You are an expert Competitive Exams examiner and syllabus developer.
+For this highly relevant article, generate detailed study aids for civil service aspirants:
 
 Article Title: "${candidate.title}"
 Author: "${candidate.author}"
@@ -220,40 +317,14 @@ Article Content:
 ${fullText}
 """
 ${pastQuestionPromptFragment}
-Evaluate this article against the competitive examination syllabus. You are a strict, critical civil service examiner grading essays. Be highly selective; most standard columns should score below 75 (not suitable). Calculate a Relevance Score (0-100) using these strict criteria:
 
-1. Syllabus Precision & Past-Paper Trend Alignment (Max 30 points):
-   - Score 30 ONLY if the article maps directly to core syllabus papers AND explicitly addresses a post-2016 past paper trend (e.g. SIFC investment council, 18th Amendment / NFC Award devolution, BRICS/SCO expansion vs US global dominance, maritime Indo-Pacific/QUAD/AUKUS geopolitics, climate summit roadmaps like COP28/COP29, transboundary water conflicts, hybrid/fifth-generation warfare, or nuclear strategic stability in South Asia).
-   - Score 15 if it is a general, generic current affairs discussion (e.g., general bilateral relations, inflation overview) that a student already knows.
-   - Score 0 if it is about temporary events, local political disputes (party clashes), or personal memoirs/stories.
-
-2. Data & Fact Density (Max 20 points):
-   - Score 20 if the article provides concrete figures, stats (e.g., GDP percentages, debt numbers), specific dates, or references to treaties/acts that a student can quote in their exam.
-   - Score 0 if the article has general arguments and opinions without hard data.
-
-3. Analytical Depth & Transition (Max 25 points):
-   - Score 25 if the article explains systemic/root causes (why the problem exists) and uses rigorous, analytical reasoning.
-   - Score 10 if it is mostly descriptive (just explaining what happened).
-   - Score 0 if it is emotionally biased, uses sensationalist language, or lacks logical reasoning.
-
-4. Actionable Policy Remedies (Max 15 points):
-   - Score 15 if it outlines a structured, step-by-step policy recommendation or a concrete "way forward".
-   - Score 0 if it only criticizes without offering constructive solutions.
-
-5. Author Credibility (Max 10 points):
-   - Score 10 if the author is a renowned policy expert/columnist (e.g., Maleeha Lodhi, Munir Akram, Khurram Husain, Sakib Sherani, Zahid Hussain, Reema Omer). Score 5 for standard guest columns or editorials.
-
-CRITICAL RULES:
-- If the final score is less than 75, or if the article is about local political party bickering/infighting, set "suitable" to false.
-- Be extremely critical. Do not give high scores unless the article is rich in facts, statistics, and structural solutions. A standard, average column should score between 50 and 65. Only 2 to 3 articles per week should score above 80.
+Provide detailed study resources matching the competitive examination syllabus.
 
 Return a JSON object with this exact structure:
 {
-  "suitable": true/false,
-  "relevanceScore": 0-100,
   "paper": "e.g. Pakistan Affairs / Economics",
   "topic": "e.g. CPEC and Debt Restructuring",
-  "whyMatters": "Explain in 2 sentences why a civil service student must quote this article.",
+  "whyMatters": "Explain in 2 sentences why a competitive exam student must quote this article.",
   "summary": [
     "Core argument 1",
     "Core argument 2",
@@ -286,83 +357,63 @@ Return a JSON object with this exact structure:
       "explanation": "Why this is correct"
     }
   ],
-  "examOutline": {
-    "question": "The focus exam question being answered (use the matched question above if provided, or generate a high-yield past-paper style question based on this article)",
-    "outline": [
-      "I. Introduction (with a strong thesis statement mapping the main arguments)",
-      "II. Historical Context & Structural Constraints of the issue",
-      "III. Core Analytical Dimension A (incorporate key facts/data from the article)",
-      "IV. Core Analytical Dimension B (systemic/root causes analysis)",
-      "V. Pragmatic Policy Recommendations / Way Forward",
-      "VI. Conclusion (futuristic re-assertion of the thesis)"
-    ]
-  }
+  "flashcards": [
+    {
+      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article.",
+      "back": "The concise, accurate answer based on the article's text."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    }
+  ]
 }
 Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wrap in \`\`\`json).
 `;
 
-    let success = false;
-    let retries = 3;
-    let backoff = 45000; // 45 seconds initial backoff
-    let evaluationResult = null;
-
-    while (retries > 0 && !success) {
-      try {
-        const geminiResponse = await axios.post(
-          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${GEMINI_API_KEY}`,
-          {
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: { responseMimeType: "application/json" }
-          },
-          {
-            headers: { 'Content-Type': 'application/json' },
-            timeout: 45000
-          }
-        );
-
-        const responseText = geminiResponse.data.candidates[0].content.parts[0].text;
-        evaluationResult = JSON.parse(responseText.trim());
-        success = true;
-      } catch (apiError) {
-        retries--;
-        const status = apiError.response?.status;
-        console.error(`[-] Gemini curation API call failed for "${candidate.title}" (Status: ${status || 'Network Error'}, Message: ${apiError.message}). Retries remaining: ${retries}`);
-        
-        if (retries > 0) {
-          console.log(`[+] Rate limit or API error encountered. Waiting ${backoff / 1000} seconds before retrying...`);
-          await delay(backoff);
-          backoff *= 2; // exponential backoff (45s -> 90s)
-        } else {
-          console.error(`[-] Max retries reached for "${candidate.title}". Skipping this article.`);
-        }
-      }
+    const stage2ResultText = await callGemini(stage2Prompt, candidate.title);
+    if (!stage2ResultText) {
+      console.warn(`[-] Skipping "${candidate.title}" due to Gemini Stage 2 API failure.`);
+      continue;
     }
 
-    if (success && evaluationResult) {
-      if (evaluationResult.suitable && evaluationResult.relevanceScore >= 75) {
-        console.log(`[+] Article is SUITABLE for CSS (Score: ${evaluationResult.relevanceScore}%). Adding to database.`);
-        const newArticle = {
-          id: `curated-${Date.now()}-${Math.floor(Math.random() * 1000)}`,
-          title: candidate.title,
-          source: candidate.source,
-          url: candidate.link,
-          date: new Date(candidate.pubDate).toISOString().split('T')[0],
-          author: candidate.author,
-          content: fullText,
-          matchedQuestion: matchedQuestion ? {
-            id: matchedQuestion.id,
-            paper: matchedQuestion.paper,
-            year: matchedQuestion.year,
-            question: matchedQuestion.question
-          } : null,
-          ...evaluationResult
-        };
-        newCuratedArticles.push(newArticle);
-        successCount++;
-      } else {
-        console.log(`[-] Article marked UNSUITABLE (Score: ${evaluationResult.relevanceScore}%). Skipping.`);
-      }
+    let stage2Result = null;
+    try {
+      stage2Result = JSON.parse(stage2ResultText.trim());
+    } catch (e) {
+      console.error(`[-] Failed to parse Stage 2 JSON for "${candidate.title}":`, e.message);
+      continue;
     }
+
+    console.log(`[+] Curation details successfully generated. Adding to database.`);
+    const newArticle = {
+      id: `curated-${Date.now()}-${Math.floor(Math.random() * 1000)}`,
+      title: candidate.title,
+      source: candidate.source,
+      url: candidate.link,
+      date: new Date(candidate.pubDate).toISOString().split('T')[0],
+      author: candidate.author,
+      content: fullText,
+      matchedQuestion: matchedQuestion ? {
+        id: matchedQuestion.id,
+        paper: matchedQuestion.paper,
+        year: matchedQuestion.year,
+        question: matchedQuestion.question
+      } : null,
+      suitable: true,
+      relevanceScore: stage1Result.relevanceScore,
+      ...stage2Result
+    };
+    newCuratedArticles.push(newArticle);
+    successCount++;
   }
 
   // 5. Save if we have new curated articles

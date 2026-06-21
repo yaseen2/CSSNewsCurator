@@ -430,7 +430,7 @@ Evaluate the article specifically on how it helps a student address this exact p
   }
 
   const prompt = `
-You are an expert Civil Service (Competitive Exams of Pakistan) examiner and syllabus developer.
+You are an expert Competitive Exams examiner and syllabus developer.
 Analyze the following editorial/opinion article from a Pakistani newspaper for a civil service aspirant:
 
 Article Title: "${article.title}"
@@ -474,7 +474,7 @@ Return a JSON object with this exact structure:
   "relevanceScore": 0-100,
   "paper": "e.g. Pakistan Affairs / Economics",
   "topic": "e.g. CPEC and Debt Restructuring",
-  "whyMatters": "Explain in 2 sentences why a civil service student must quote this article.",
+  "whyMatters": "Explain in 2 sentences why a competitive exam student must quote this article.",
   "summary": [
     "Core argument 1",
     "Core argument 2",
@@ -507,24 +507,32 @@ Return a JSON object with this exact structure:
       "explanation": "Why this is correct"
     }
   ],
-  "examOutline": {
-    "question": "The focus exam question being answered (use the matched question above if provided, or generate a high-yield past-paper style question based on this article)",
-    "outline": [
-      "I. Introduction (with a strong thesis statement mapping the main arguments)",
-      "II. Historical Context & Structural Constraints of the issue",
-      "III. Core Analytical Dimension A (incorporate key facts/data from the article)",
-      "IV. Core Analytical Dimension B (systemic/root causes analysis)",
-      "V. Pragmatic Policy Recommendations / Way Forward",
-      "VI. Conclusion (futuristic re-assertion of the thesis)"
-    ]
-  }
+  "flashcards": [
+    {
+      "front": "A clear, conceptual question about a key argument, fact, or policy suggestion in the article.",
+      "back": "The concise, accurate answer based on the article's text."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    },
+    {
+      "front": "Another key question...",
+      "back": "Another concise answer..."
+    }
+  ]
 }
 Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wrap in \`\`\`json).
 `;
 
   try {
+    const model = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
     const response = await axios.post(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${key}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`,
       {
         contents: [{ parts: [{ text: prompt }] }],
         generationConfig: { responseMimeType: "application/json" }
@@ -558,5 +566,5 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
 });
 
 app.listen(PORT, () => {
-  console.log(`CSS Aggregator backend running on http://localhost:${PORT}`);
+  console.log(`Civil Digest backend running on http://localhost:${PORT}`);
 });

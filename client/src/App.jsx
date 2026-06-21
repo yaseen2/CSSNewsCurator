@@ -3,9 +3,88 @@ import {
   BookOpen, Compass, Award, FileText, Settings, 
   TrendingUp, Calendar, ArrowRight, BrainCircuit,
   Search, Sliders, ChevronDown, Check, AlertTriangle, 
-  HelpCircle, RefreshCw, Star, Info, ExternalLink
+  HelpCircle, RefreshCw, Star, Info, ExternalLink,
+  Menu, X
 } from 'lucide-react';
 import Quiz from './components/Quiz';
+
+function FlashcardDeck({ cards }) {
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [isFlipped, setIsFlipped] = useState(false);
+
+  useEffect(() => {
+    setIsFlipped(false);
+  }, [currentIndex]);
+
+  if (!cards || cards.length === 0) return null;
+
+  const currentCard = cards[currentIndex];
+
+  const handleNext = (e) => {
+    e.stopPropagation();
+    setIsFlipped(false);
+    setTimeout(() => {
+      setCurrentIndex((prev) => (prev + 1) % cards.length);
+    }, 200);
+  };
+
+  const handlePrev = (e) => {
+    e.stopPropagation();
+    setIsFlipped(false);
+    setTimeout(() => {
+      setCurrentIndex((prev) => (prev - 1 + cards.length) % cards.length);
+    }, 200);
+  };
+
+  return (
+    <div className="flashcard-deck-wrapper">
+      <div className="flashcard-deck-header">
+        <span className="flashcard-badge">CONCEPT CARD</span>
+        <span className="flashcard-counter">Card {currentIndex + 1} of {cards.length}</span>
+      </div>
+      
+      <div 
+        className={`flashcard-card-outer ${isFlipped ? 'flipped' : ''}`}
+        onClick={() => setIsFlipped(!isFlipped)}
+      >
+        <div className="flashcard-card-inner">
+          {/* Front Side */}
+          <div className="flashcard-side flashcard-front">
+            <div className="flashcard-side-tag">QUESTION</div>
+            <div className="flashcard-text-container">
+              <p className="flashcard-question-text">{currentCard.front}</p>
+            </div>
+            <div className="flashcard-hint">
+              <span>Tap card to flip & reveal answer</span>
+            </div>
+          </div>
+          {/* Back Side */}
+          <div className="flashcard-side flashcard-back">
+            <div className="flashcard-side-tag">ANSWER SUMMARY</div>
+            <div className="flashcard-text-container">
+              <p className="flashcard-answer-text">{currentCard.back}</p>
+            </div>
+            <div className="flashcard-hint">
+              <span>Tap card to flip back</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="flashcard-deck-controls">
+        <button className="btn btn-secondary text-xs" onClick={handlePrev}>
+          ← Previous
+        </button>
+        <button className="btn btn-secondary text-xs font-semibold" style={{ minWidth: '90px' }} onClick={(e) => { e.stopPropagation(); setIsFlipped(!isFlipped); }}>
+          {isFlipped ? 'Show Q' : 'Show A'}
+        </button>
+        <button className="btn btn-secondary text-xs" onClick={handleNext}>
+          Next →
+        </button>
+      </div>
+    </div>
+  );
+}
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -34,6 +113,7 @@ export default function App() {
   // Notes state inside standard reader
   const [noteTitle, setNoteTitle] = useState('');
   const [notesText, setNotesText] = useState('');
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const BACKEND_URL = (apiServerUrl || '').replace(/\/+$/, '') || (
     window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
@@ -50,16 +130,28 @@ export default function App() {
   useEffect(() => {
     if (readingArticle) {
       setNoteTitle(`Study Outline: ${readingArticle.title.substring(0, 30)}...`);
-      if (readingArticle.examOutline) {
-        let outlineStr = `### AI-GENERATED EXAM OUTLINE\n`;
-        outlineStr += `**Focus Question:** ${readingArticle.examOutline.question}\n\n`;
-        outlineStr += `**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author} | **Paper:** ${readingArticle.paper}\n\n`;
-        readingArticle.examOutline.outline.forEach(step => {
-          outlineStr += `${step}\n\n`;
+      
+      // Get flashcards (backward compatible fallback for articles with only outlines)
+      let flashcardsList = readingArticle.flashcards;
+      if (!flashcardsList && readingArticle.examOutline) {
+        flashcardsList = [
+          { front: "What is the focus exam question for this article?", back: readingArticle.examOutline.question },
+          ...(readingArticle.examOutline.outline || []).map((step, sIdx) => ({
+            front: `Step ${sIdx + 1} Outline Guidance`,
+            back: step
+          }))
+        ];
+      }
+
+      if (flashcardsList && flashcardsList.length > 0) {
+        let noteStr = `### AI-GENERATED STUDY FLASHCARDS\n`;
+        noteStr += `**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author} | **Paper:** ${readingArticle.paper}\n\n`;
+        flashcardsList.forEach((card, idx) => {
+          noteStr += `**Q${idx + 1}:** ${card.front}\n**A${idx + 1}:** ${card.back}\n\n`;
         });
-        setNotesText(outlineStr);
+        setNotesText(noteStr);
       } else {
-        setNotesText(`### EXAM OUTLINE\n**Article:** ${readingArticle.title}\n**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author}\n\n**1. Relevance:**\n- Paper: ${readingArticle.paper}\n- Topic: ${readingArticle.topic}\n\n**2. Core Arguments:**\n- \n\n**3. Way Forward & Key Solutions:**\n- `);
+        setNotesText(`### STUDY NOTES\n**Article:** ${readingArticle.title}\n**Source:** ${readingArticle.source} | **Author:** ${readingArticle.author}\n\n**1. Relevance:**\n- Paper: ${readingArticle.paper}\n- Topic: ${readingArticle.topic}\n\n**2. Core Arguments:**\n- \n\n**3. Key Takeaways:**\n- `);
       }
     }
   }, [readingArticle]);
@@ -94,17 +186,23 @@ export default function App() {
         const data = await res.json();
         setCuratedArticles(data);
         if (data.length > 0) setExpandedCuratedId(data[0].id);
-      } else if (parsed && fetchUrl !== `${BACKEND_URL}/api/recommendations`) {
-        console.warn('GitHub Raw fetch failed, falling back to local backend');
-        const fallbackRes = await fetch(`${BACKEND_URL}/api/recommendations`);
-        if (fallbackRes.ok) {
-          const data = await fallbackRes.json();
-          setCuratedArticles(data);
-          if (data.length > 0) setExpandedCuratedId(data[0].id);
-        }
+      } else {
+        throw new Error(`HTTP status ${res.status}`);
       }
     } catch (err) {
-      console.error('Error fetching curated articles:', err);
+      console.warn('Primary recommendations fetch failed, falling back to backend api:', err.message);
+      if (fetchUrl !== `${BACKEND_URL}/api/recommendations`) {
+        try {
+          const fallbackRes = await fetch(`${BACKEND_URL}/api/recommendations`);
+          if (fallbackRes.ok) {
+            const data = await fallbackRes.json();
+            setCuratedArticles(data);
+            if (data.length > 0) setExpandedCuratedId(data[0].id);
+          }
+        } catch (fallbackErr) {
+          console.error('Recommendations backend fallback also failed:', fallbackErr.message);
+        }
+      }
     }
   };
 
@@ -372,8 +470,33 @@ export default function App() {
   return (
     <div className="layout-container">
       
+      {/* Mobile Top Bar */}
+      <header className="mobile-header">
+        <div className="mobile-logo-brand">
+          <div className="logo-box-mobile">
+            <BrainCircuit style={{ width: '18px', height: '18px', color: 'white' }} />
+          </div>
+          <span className="mobile-brand-title">Civil Digest</span>
+        </div>
+        <button 
+          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          className="mobile-menu-toggle"
+          aria-label="Toggle Navigation Menu"
+        >
+          {mobileMenuOpen ? <X className="icon-sm" /> : <Menu className="icon-sm" />}
+        </button>
+      </header>
+
+      {/* Mobile Sidebar Overlay Backdrop */}
+      {mobileMenuOpen && (
+        <div 
+          className="sidebar-mobile-overlay" 
+          onClick={() => setMobileMenuOpen(false)}
+        ></div>
+      )}
+
       {/* Sidebar Navigation */}
-      <aside className="sidebar">
+      <aside className={`sidebar ${mobileMenuOpen ? 'mobile-open' : ''}`}>
         <div>
           <div className="sidebar-header">
             <div className="logo-box">
@@ -387,35 +510,35 @@ export default function App() {
 
           <nav className="sidebar-nav">
             <button 
-              onClick={() => { setActiveTab('dashboard'); setReadingArticle(null); setQuizArticle(null); }}
+              onClick={() => { setActiveTab('dashboard'); setReadingArticle(null); setQuizArticle(null); setMobileMenuOpen(false); }}
               className={`nav-item-btn ${activeTab === 'dashboard' && !readingArticle && !quizArticle ? 'active' : ''}`}
             >
               <Star className="icon-sm" />
               Daily Curation
             </button>
             <button 
-              onClick={() => { setActiveTab('rss-feed'); setReadingArticle(null); setQuizArticle(null); }}
+              onClick={() => { setActiveTab('rss-feed'); setReadingArticle(null); setQuizArticle(null); setMobileMenuOpen(false); }}
               className={`nav-item-btn ${activeTab === 'rss-feed' && !readingArticle && !quizArticle ? 'active' : ''}`}
             >
               <Compass className="icon-sm" />
               Live News Feeds
             </button>
             <button 
-              onClick={() => { setActiveTab('syllabus'); setReadingArticle(null); setQuizArticle(null); }}
+              onClick={() => { setActiveTab('syllabus'); setReadingArticle(null); setQuizArticle(null); setMobileMenuOpen(false); }}
               className={`nav-item-btn ${activeTab === 'syllabus' && !readingArticle && !quizArticle ? 'active' : ''}`}
             >
               <BookOpen className="icon-sm" />
               Syllabus Tracker
             </button>
             <button 
-              onClick={() => { setActiveTab('notes-bank'); setReadingArticle(null); setQuizArticle(null); }}
+              onClick={() => { setActiveTab('notes-bank'); setReadingArticle(null); setQuizArticle(null); setMobileMenuOpen(false); }}
               className={`nav-item-btn ${activeTab === 'notes-bank' && !readingArticle && !quizArticle ? 'active' : ''}`}
             >
               <FileText className="icon-sm" />
               My Notes Bank
             </button>
             <button 
-              onClick={() => { setActiveTab('settings'); setReadingArticle(null); setQuizArticle(null); }}
+              onClick={() => { setActiveTab('settings'); setReadingArticle(null); setQuizArticle(null); setMobileMenuOpen(false); }}
               className={`nav-item-btn ${activeTab === 'settings' && !readingArticle && !quizArticle ? 'active' : ''}`}
             >
               <Settings className="icon-sm" />
@@ -670,26 +793,26 @@ export default function App() {
                                 </div>
                               )}
 
-                              {art.examOutline && (
-                                <div className="exam-outline-section" style={{ marginTop: '16px', marginBottom: '16px' }}>
-                                  <h4 className="details-section-title">
-                                    <BrainCircuit className="icon-sm" /> AI Exam Answer Outline
-                                  </h4>
-                                  <div className="exam-outline-box">
-                                    {art.examOutline.question && (
-                                      <p className="exam-outline-q"><strong>Focus Question:</strong> {art.examOutline.question}</p>
-                                    )}
-                                    <ul className="outline-steps-list">
-                                      {art.examOutline.outline.map((step, idx) => (
-                                        <li key={idx} className="outline-step-item">
-                                          <span className="step-num">{idx + 1}</span>
-                                          <span>{step}</span>
-                                        </li>
-                                      ))}
-                                    </ul>
+                              {(() => {
+                                let articleFlashcards = art.flashcards;
+                                if (!articleFlashcards && art.examOutline) {
+                                  articleFlashcards = [
+                                    { front: "What is the focus exam question for this article?", back: art.examOutline.question },
+                                    ...(art.examOutline.outline || []).map((step, sIdx) => ({
+                                      front: `Outline Guidance - Step ${sIdx + 1}:`,
+                                      back: step
+                                    }))
+                                  ];
+                                }
+                                return articleFlashcards && articleFlashcards.length > 0 ? (
+                                  <div className="exam-outline-section" style={{ marginTop: '20px', marginBottom: '20px' }}>
+                                    <h4 className="details-section-title">
+                                      <BrainCircuit className="icon-sm" /> Study Flashcards ({articleFlashcards.length})
+                                    </h4>
+                                    <FlashcardDeck cards={articleFlashcards} />
                                   </div>
-                                </div>
-                              )}
+                                ) : null;
+                              })()}
 
                               {/* Vocabulary panel */}
                               <div>
@@ -1051,7 +1174,7 @@ export default function App() {
                 {apiStatus === 'valid' && (
                   <div className="api-status-box valid">
                     <Check className="icon-sm" />
-                    <span>Connection established. Gemini 2.5 Flash-Lite is ready to curate.</span>
+                    <span>Connection established. Gemini API is ready to curate.</span>
                   </div>
                 )}
 

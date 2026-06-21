@@ -385,7 +385,7 @@ export function mapSyllabus(title, content) {
     }
     return {
       paper: matched.paper,
-      topic: `CSS ${matched.year}: ${topicName}`
+      topic: `Exam ${matched.year}: ${topicName}`
     };
   }
 
@@ -473,7 +473,7 @@ export function mapSyllabus(title, content) {
 
   // Default fallback
   return {
-    paper: "Current Affairs (CSS General Paper)",
+    paper: "Current Affairs (General Paper)",
     topic: "National Governance & Institutional Reforms"
   };
 }
