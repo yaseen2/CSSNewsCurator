@@ -392,7 +392,7 @@ app.post('/api/gemini/test', async (req, res) => {
 
   try {
     const response = await axios.post(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${key}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`,
       {
         contents: [{ parts: [{ text: 'Hello' }] }]
       },
@@ -530,7 +530,7 @@ Return ONLY valid JSON. Do not include markdown code block formatting (do NOT wr
 `;
 
   try {
-    const model = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
+    const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
     const response = await axios.post(
       `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`,
       {

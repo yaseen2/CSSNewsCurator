@@ -79,7 +79,7 @@ async function callGemini(prompt, title) {
   let backoff = 45000; // 45 seconds initial backoff
   let resultText = null;
 
-  const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
+  const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 
   while (retries > 0 && !success) {
     try {
