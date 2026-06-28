@@ -1,5 +1,180 @@
 [
   {
+    "id": "curated-1782612430622-176",
+    "title": "Climate budget\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2011282/climate-budget",
+    "date": "2026-06-28",
+    "author": "none@none.com (Aisha Khan)",
+    "content": "AS Pakistan navigates intense climate vulnerability, the federal budget for FY26-27 allocates Rs2.478 billion to the Ministry of Climate Change and Environmental Coordination under the Public Sector Development Programme (PSDP). While this allocation signals a policy acknowledgement of environmental threats, an objective examination reveals a disconnect between financial inputs and tangible outcomes. By analysing funding lines (afforestation, capacity building and urban strategies) against realities on the ground, we can evaluate whether these public funds serve genuine ecological preservation or merely fuel profit loops.\nThe centrepiece of the ministry’s portfolio is the ‘Upscaling Green Pakistan Prog­r­amme’, consuming Rs2.335bn (over 94 per cent of the budget). On paper, massive tree plantation drives are laudable. However, evaluating this expenditure requires looking beyond the number of saplings planted to assess the broader ecosystem.\nPakistan suffers from one of the highest rates of deforestation in Asia, driven by timber mafias, unregulated urban sprawl and agricultural conversion. While the government spends billions planting fragile saplings, mature forests which possess superior carbon sequestration capacities, established root systems for flood mitigation and rich biodiversity are cut down at alarming rates. A sapling takes decades to replicate the ecological services of a single mature tree. By failing to halt deforestation, the state is effectively emptying a sinking boat with a thimble.\nWithout strict survival-rate audits, afforestation drives risk becoming cyclical commercial operations where dead saplings are repeatedly replaced using public funds, benefiting commercial interest groups while yielding negligible long-term ecological returns.\nFederal spending on climate action has generally declined.\nThe remaining budget lines follow a similar pattern of administrative expenditure outstripping concrete outcomes. The ‘Green Skills for Sustainable Development’ initiative, allocated Rs51.6 million, aims to train youth for eco-friendly jobs. However, without a structural shift in Pakistan’s economy to create green industries, training programmes remain isolated workshops. The output becomes a certified but underemployed cohort, turning the allocation into a public relations metric rather than an economic transformation tool.\nSimilarly, Rs50m is earmarked for the ‘Formulation of the National Urban Strategy and Guidelines’ to prevent urban flooding. Pakistan already possesses an abundance of policy documents, frameworks and strategy papers. Funding yet another guideline document while municipalities lack basic financial resources to upgrade drainage systems, stop wetland encroachment or enforce building codes is an analytical failure.\nGiven the country’s repeated exposure to floods, droughts, heatwaves, and glacial hazards, the budget remains small compared to the scale of climate risks. For strengthening coping capacity, it will be important that future budgets place greater emphasis on adaptation and resilience alongside mitigation and tree-planting initiatives.\nA review of the climate change ministry’s PSDP allocations over the past five years shows that despite growing climate risks and stronger international commitments, federal development spending on climate action has generally declined in real terms.\nInflation in Pakistan has remained elevated during much of the period from 2022 to 2026. Even if the ministry’s budget had remained constant, its purchasing power would have declined. Instead, the nomi-nal PSDP allocation itself has fallen from Rs9.6bn in FY 2022-23 to Rs2.48bn in FY 2026-27. In real terms, therefore, federal climate development spe­­nding appears to have contracted sig-nificantly.\nThe federal ministry’s allocation rem­ains an important signal of national priorities, and a declining PSDP trend suggests that climate governance is increasingly expected to rely on external finance and cross-sectoral spending rather than a growing dedicated federal climate budget.\nFrom the perspective of climate governance, the budget is heavily weighted towards an ecosystem with comparatively limited resources dedicated to adaptation planning, climate resilience infrastructure, early warning systems and climate risk management.\nFor a country with growing risks, transparency is essential to determine whether its climate budget is genuinely mitigating a national emergency, or simply operating as a subsidised mechanism for elite enrichment. True climate resilience is not built on unverified metrics but proven by an outcome-based financial model. This will require us to shift to independent public audits, open-data monitoring and decentralised accountability.\nThe writer is a climate policy analyst.\naisha@csccc.org.pk\nPublished in Dawn, June 28th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2020-CLIM",
+      "paper": "Pakistan Affairs",
+      "year": 2020,
+      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
+    },
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Pakistan Affairs",
+    "topic": "Climate Governance and Budgeting in Pakistan",
+    "whyMatters": "This article is crucial for competitive exam students as it provides a critical analysis of Pakistan's federal climate budget, exposing systemic failures in climate governance and resource allocation. It indirectly highlights the nation's unpreparedness to address multifaceted climate challenges, including those impacting water resources and potentially exacerbating inter-provincial harmony, despite nominal policy acknowledgments.",
+    "summary": [
+      "The federal budget for FY26-27 allocates Rs2.478 billion to the Ministry of Climate Change, with over 94% (Rs2.335bn) dedicated to the 'Upscaling Green Pakistan Programme'.",
+      "Current afforestation efforts are deemed ineffective as they fail to halt ongoing deforestation by timber mafias and urban sprawl, relying on fragile saplings while mature forests are lost.",
+      "Other initiatives like 'Green Skills for Sustainable Development' and 'National Urban Strategy' are criticized for focusing on administrative expenditure and policy formulation without structural economic shifts or ground-level financial resources for implementation.",
+      "Federal development spending on climate action has declined significantly in real terms over the past five years, indicating a shift towards reliance on external finance and cross-sectoral spending rather than a dedicated federal climate budget."
+    ],
+    "facts": [
+      "FY26-27 federal budget allocation for Ministry of Climate Change and Environmental Coordination under PSDP: Rs2.478 billion.",
+      "Share of 'Upscaling Green Pakistan Programme' in the climate budget: Rs2.335 billion (over 94%).",
+      "Nominal PSDP allocation for climate action declined from Rs9.6 billion in FY 2022-23 to Rs2.48 billion in FY 2026-27."
+    ],
+    "academicReferences": [
+      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports (for global scientific consensus and impacts)",
+      "Pakistan's National Climate Change Policy (2012) and National Adaptation Plan (NAP) (for national policy context and gaps)",
+      "Economic Survey of Pakistan [relevant year] (for budgetary context, inflation figures, and PSDP allocations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Afforestation",
+        "type": "noun",
+        "definition": "The establishment of a forest or stand of trees in an area where there was no previous tree cover.",
+        "sentence": "The government's afforestation drives aim to increase forest cover, but critics argue they are insufficient without tackling deforestation."
+      },
+      {
+        "word": "Carbon sequestration",
+        "type": "noun",
+        "definition": "The process of capturing and storing atmospheric carbon dioxide, typically in forests, soil, or geological formations, to mitigate climate change.",
+        "sentence": "Mature forests offer superior carbon sequestration capacities compared to newly planted saplings."
+      },
+      {
+        "word": "Mitigation",
+        "type": "noun",
+        "definition": "Actions taken to reduce or prevent the emission of greenhouse gases and to limit the long-term global warming potential.",
+        "sentence": "The article suggests that current budget allocations are heavily weighted towards mitigation efforts like tree-planting, with less emphasis on adaptation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is identified as a primary reason for the ineffectiveness of Pakistan's afforestation drives, according to the article?",
+        "options": [
+          "Massive timber mafias and unregulated urban sprawl leading to simultaneous deforestation.",
+          "Lack of public interest in participating in tree plantation campaigns.",
+          "Insufficient budget allocation for purchasing saplings.",
+          "Overemphasis on planting non-native tree species."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that Pakistan suffers from one of the highest rates of deforestation, driven by timber mafias and unregulated urban sprawl, which negates the impact of afforestation drives."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary criticism regarding the 'Upscaling Green Pakistan Programme' despite its significant budget allocation?",
+        "back": "The program is criticized for focusing on planting fragile saplings while failing to halt rampant deforestation of mature forests, leading to negligible long-term ecological returns without strict survival-rate audits."
+      },
+      {
+        "front": "How has federal development spending on climate action changed in real terms over the past five years, according to the article?",
+        "back": "Federal development spending on climate action has significantly declined in real terms over the past five years, with nominal PSDP allocation falling from Rs9.6bn in FY 2022-23 to Rs2.48bn in FY 2026-27."
+      },
+      {
+        "front": "What is the article's main concern regarding initiatives like 'Green Skills for Sustainable Development' and 'National Urban Strategy'?",
+        "back": "The concern is that these initiatives involve administrative expenditure and policy formulation (e.g., training, guidelines) without structural economic shifts or providing basic financial resources at the municipal level for concrete outcomes, making them PR metrics rather than transformation tools."
+      },
+      {
+        "front": "What is proposed in the article to ensure genuine climate resilience and accountability for climate budget spending?",
+        "back": "The article proposes a shift to independent public audits, open-data monitoring, and decentralized accountability to ensure the climate budget genuinely mitigates national emergencies rather than merely operating as a subsidized mechanism for elite enrichment."
+      }
+    ]
+  },
+  {
+    "id": "curated-1782612881089-761",
+    "title": "The same reflex\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2011284/the-same-reflex",
+    "date": "2026-06-28",
+    "author": "none@none.com (Muna Khan)",
+    "content": "THIRTEEN years ago, a young woman was gang-raped on a moving bus in Delhi, assaulted with a rod, and left to die. The case became a generational reckoning. Mass protests. New laws. The death penalty, eventually, for four of her attackers. The world watched India promise itself it would never let this happen again.\nIt happened again — and again. Last month, in a village in Bihar’s Begusarai district, a mother of four was gang-raped in her own home, assaulted with objects, one of which — a bullet casing — she carried to the hospital herself as evidence because no one else seemed inclined to look for it. According to the BBC, her husband said police initially refused to file a complaint. A private clinic turned her away. It took days, and her own collapsing body, before anyone treated what had happened to her as the emergency it was.\nI confess to a kind of foolishness. I had let myself believe that executing the culprits in 2020 meant something had shifted — that fear, finally, had been instilled where it needed to be. It hadn’t. More than 30,000 rape cases are still recorded in India every year. Most go unreported. The ones that surface do so not because the system worked, but because something about them — a video, a bullet casing, a particularly grotesque detail — broke through the numbness.\nPakistan has its own version of this same, exhausting lesson — most recently, the years it took the Supreme Court to exhaust Zahir Jaffer’s appeals for beheading Noor Mukadam in 2021.\nAnti-rape laws exist. But the crime doesn’t stop.\nEven as I write this, the list keeps growing. A three-year-old girl was found dead in Karachi, hours after she went missing while playing outside her home; police have confirmed evidence of sexual assault. Weeks earlier, in Jhang, a 17-year-old first-year college student was abducted, gang-raped, and died after being brought to a hospital unconscious. The investigations for both are still underway.\nThat gap between what the law promises and what it delivers is not the exception. It is the rule.\nAt a Senate human rights committee hearing last November, the national conviction rate for gender-based violence was put at around five per cent. In certain categories, it falls to 0.5pc. For domestic violence, 1.3pc.\nThese are not the numbers of a system struggling at the margins. They are the numbers of a system that does not, in any meaningful sense, prosecute this category of crime. Pakistan has the laws. It does not have the follow-through.\nSo, it should not have surprised me to read what happened this week when a woman in Karachi described, in a Facebook post, being threatened with rape at her own front door.\nShe had ordered groceries. The delivery rider later called, said he was in debt, asked for money. She declined to keep taking his calls. The next morning he showed up at her house, banged on her door, and sent her a message threatening rape. She had been fully covered when she answered her door the day before — head to toe, as she put it, anticipating exactly the question that was coming.\nThe question came anyway. In the comments under her post, the conversation did not settle on the man who had threatened her. It settled on her. The interrogation of her choices began almost instantly, with more energy and more specificity than anything directed at the man who had threatened to rape her for refusing to pay him.\nIt would be easy to call this a Pakistan problem, or an India problem — to draw the borders tight enough that the rot stays on the other side of them. That instinct, the othering, the quiet relief of ‘this isn’t us’, is its own kind of denial. It lets a society look at a number like 5pc and feel implicated by nothing.\nBut the pattern doesn’t respect borders. A mother in Begusarai is failed by a police station that won’t file her complaint. A woman in Karachi is failed by a comment section that interrogates her instead of the man banging on her door. Two countries, two languages, two entirely different incidents — and the same reflex, doing the same work: move the question away from what he did, and onto what she should have done differently to deserve not having it done to her.\nI don’t think hanging four men in Delhi fixed this. I don’t think one upheld death sentence in Islamabad fixes it either. Punishment, when it finally lands, can look like justice and still leave the machinery that failed to prevent the crime completely untouched. None of that requires a verdict to fix. It requires someone to stop asking why she opened the door, and start asking why we keep needing her to explain that she did.\nThe writer conducts writing workshops in Karachi.\nX: @LedeingLady\nPublished in Dawn, June 28th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Current Affairs / Gender Studies / Pakistan Affairs",
+    "topic": "Systemic Failures in Combating Gender-Based Violence in South Asia",
+    "whyMatters": "This article offers a critical comparative analysis of legal and societal responses to gender-based violence in India and Pakistan, highlighting the deep-seated systemic failures and victim-blaming culture. Aspirants can use its arguments to demonstrate a nuanced understanding of socio-legal challenges and the limitations of punitive measures alone.",
+    "summary": [
+      "Despite severe penalties and legal reforms, gender-based violence persists at high rates in both India and Pakistan, indicating a failure of the legal system to deter crime.",
+      "The official reporting and conviction rates for gender-based violence in Pakistan are alarmingly low (e.g., 5% overall, 1.3% for domestic violence), suggesting a systematic inability to prosecute these crimes meaningfully.",
+      "A pervasive 'same reflex' exists across borders, wherein the focus shifts from the perpetrator's actions to interrogating the victim's choices, thus perpetuating victim-blaming and hindering justice.",
+      "The article argues that mere punishment, even the death penalty, does not address the underlying 'machinery' of systemic failure and societal attitudes that allow such crimes to occur and go unaddressed."
+    ],
+    "facts": [
+      "More than 30,000 rape cases are recorded in India every year, with most going unreported.",
+      "Pakistan's national conviction rate for gender-based violence is approximately five per cent, falling to 0.5pc in certain categories.",
+      "The conviction rate for domestic violence in Pakistan stands at a mere 1.3pc."
+    ],
+    "academicReferences": [
+      "UN Women 'Ending Violence against Women' Reports (for global context on legal and societal challenges)",
+      "Human Rights Watch/Amnesty International Reports on Women's Rights in South Asia (for specific regional analysis)",
+      "The Protection Against Harassment of Women at the Workplace Act, 2010 (Pakistan) / Criminal Law (Amendment) Act, 2013 (India) (for relevant legal frameworks)"
+    ],
+    "vocabulary": [
+      {
+        "word": "generational reckoning",
+        "type": "noun phrase",
+        "definition": "A period when a society confronts and re-evaluates fundamental issues, often leading to significant changes.",
+        "sentence": "The Delhi gang-rape case became a generational reckoning, forcing India to confront its deep-seated issues regarding women's safety."
+      },
+      {
+        "word": "numbness",
+        "type": "noun",
+        "definition": "A state of emotional insensitivity or lack of reaction, often due to repeated exposure to distressing events.",
+        "sentence": "The author suggests that only particularly grotesque details break through the public numbness surrounding rampant violence."
+      },
+      {
+        "word": "implicated",
+        "type": "verb",
+        "definition": "To show someone to be involved in a crime or wrongdoing; to be affected or concerned by something.",
+        "sentence": "The low conviction rates mean society can look at the numbers and feel implicated by nothing, avoiding responsibility."
+      },
+      {
+        "word": "reflex",
+        "type": "noun",
+        "definition": "An action performed automatically and without conscious thought; in this context, an ingrained societal reaction.",
+        "sentence": "The 'same reflex' across both countries involves shifting blame from the perpetrator to the victim."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary argument the author makes about the effectiveness of punishment in addressing gender-based violence?",
+        "options": [
+          "Punishment, even the death penalty, has failed to fix the underlying systemic issues and societal attitudes.",
+          "The death penalty is the only effective deterrent but is not applied consistently.",
+          "New laws have successfully instilled fear and reduced crime, especially in India.",
+          "Societal reactions are improving, but legal frameworks are lagging behind."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that hanging four men in Delhi didn't fix the problem and that punishment 'can look like justice and still leave the machinery that failed to prevent the crime completely untouched.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What does the author identify as the 'same reflex' observed in both Indian and Pakistani societies regarding gender-based violence?",
+        "back": "The 'same reflex' is the tendency to move the question away from what the perpetrator did and onto what the victim should have done differently to avoid the incident."
+      },
+      {
+        "front": "According to the article, why do most rape cases in India go unreported, even with high numbers recorded annually?",
+        "back": "Most cases go unreported because the system fails to work effectively; only particularly shocking details like a video or evidence breaking through the numbness lead to reporting."
+      },
+      {
+        "front": "What do the low conviction rates for gender-based violence in Pakistan (e.g., 5% overall) imply about its legal system?",
+        "back": "They imply that Pakistan's legal system, 'in any meaningful sense, does not prosecute this category of crime' and lacks the necessary follow-through, despite having the laws."
+      },
+      {
+        "front": "Beyond punishment, what does the author suggest is necessary to truly fix the issue of gender-based violence and systemic failures?",
+        "back": "The author suggests fixing the 'machinery that failed to prevent the crime' and to 'stop asking why she opened the door, and start asking why we keep needing her to explain that she did.'"
+      }
+    ]
+  },
+  {
     "id": "curated-1782526109403-104",
     "title": "Dams on Chenab — a target?\n",
     "source": "Dawn",
@@ -721,6 +896,124 @@
       {
         "front": "Despite the rapid adoption of digital payments like Raast, what limitation still exists regarding their impact on the overall economy, particularly for large transactions?",
         "back": "Although digital payments process a higher *number* of transactions, the overall *volume/value* transacted is still significantly less than traditional paper-clearing instruments like cheques and pay orders, especially for large amounts."
+      }
+    ]
+  },
+  {
+    "id": "curated-1782612656543-752",
+    "title": "Reflection time\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2010672/reflection-time",
+    "date": "2026-06-25",
+    "author": "none@none.com (Editorial)",
+    "content": "GOVERNMENTS in the US have rarely reflected on follies they have committed beyond their borders. Failed nation-building experiments and military misadventures by both Republican and Democrat administrations have not led to internal reflection on these misguided policies.\nBut the Iran debacle should lead to some sort of reckoning, considering that America has been unable to achieve any of its objectives in the war, and may have actually helped give Iran the upper hand in the region — just as it did with the removal of Saddam Hussein in Iraq.\n    \nOf course, the current US president is not known for soul-searching and deep contemplation over foreign policy choices. Donald Trump prefers to think aloud, especially on social media. This has disastrous implications. For instance, at the recent negotiations in Switzerland, the Iranians boycotted the session after Mr Trump tweeted fresh threats. If talks are to succeed, the American leader must desist from issuing expletive-laden threats on social media, and let diplomacy take its course.\nWithin America, the Iran war is deeply unpopular. The US Senate on Tuesday passed a largely symbolic resolution calling for an end to the war, which was supported by at least four Republicans. Chuck Schumer, the top Democrat in the Senate, has called the Iran war “Trump’s historic blunder”, while numerous opinion polls show that most Americans want the war to end.\n    \nSome Iran hawks in Washington are also of the view that the MoU currently under discussion is a ‘victory’ for Iran. Certainly, as compared to past American misadventures, such as the Iraq war where the US put boots on the ground to occupy a sovereign country, the Iran campaign has failed on nearly all fronts. In fact, where the MoU is concerned, Tehran has managed to secure most of its demands in the document, while also exercising greater control over the Strait of Hormuz.\nThere needs to be greater discussion within the US establishment about the mistakes Washington has made with regard to Iran. There should be a realisation that American militarism is a failed policy, achieving little while costing much in innocent lives and taxpayer dollars. Secondly, the Israeli stranglehold over US foreign policy also needs greater scrutiny.\n    \nAmerica’s lawmakers need to decide if they want to put their country’s interests first, or pour more blood and treasure into protecting Israel, and sustaining the Zionist state’s violent expansionism.\nIsrael is the biggest source of instability in the Middle East, and it is high time the US ended its blind support to Tel Aviv, if it genuinely wants peace in the region. The Trump administration needs to calmly study the lessons of the Iran war, and stop making the same foreign policy mistakes the US has been doing for the past many decades.\nPublished in Dawn, June 25th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "International Relations / Current Affairs / US Foreign Policy",
+    "topic": "US Foreign Policy in the Middle East: Failures, Domestic Critique, and Israeli Influence",
+    "whyMatters": "This article offers a critical examination of US foreign policy blunders, particularly in the Middle East, highlighting failures and the cost of militarism. It provides essential arguments for students to analyze the complexities of international relations, the impact of great power interventions, and the influence of domestic and external factors on foreign policy decisions.",
+    "summary": [
+      "The US government has a history of rarely reflecting on its foreign policy blunders and military misadventures, exemplified by failed nation-building experiments in Iraq and the ongoing Iran debacle.",
+      "The 'Iran debacle' represents a significant failure where the US has not achieved its objectives, potentially strengthening Iran's regional position, and is deeply unpopular domestically.",
+      "President Trump's 'think aloud' approach, especially on social media, has detrimental implications for diplomacy, such as causing Iranians to boycott negotiations.",
+      "The article argues for a fundamental re-evaluation of US militarism as a failed policy, advocating for greater scrutiny of Israeli influence on US foreign policy, which it identifies as a major source of instability in the Middle East."
+    ],
+    "facts": [
+      "The US has been 'unable to achieve any of its objectives' in the Iran war.",
+      "The US Senate passed a 'largely symbolic resolution calling for an end to the war,' supported by at least four Republicans.",
+      "Iran has 'managed to secure most of its demands' in the discussed MoU and increased control over the Strait of Hormuz.",
+      "Chuck Schumer, top Democrat in the Senate, has called the Iran war 'Trump’s historic blunder.'",
+      "'Israel is the biggest source of instability in the Middle East,' according to the article."
+    ],
+    "academicReferences": [
+      "John J. Mearsheimer and Stephen M. Walt, 'The Israel Lobby and U.S. Foreign Policy' (Academic analysis of influence)",
+      "Realism in International Relations Theory (e.g., works by Hans J. Morgenthau or Kenneth Waltz) - provides a framework for analyzing state interests and power politics.",
+      "The Responsibility to Protect (R2P) doctrine (UN concept, relevant for discussing intervention rationales and critiques)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Debacle",
+        "type": "noun",
+        "definition": "A sudden and ignominious failure; a fiasco.",
+        "sentence": "The company's new product launch was a complete debacle, leading to significant financial losses."
+      },
+      {
+        "word": "Soul-searching",
+        "type": "noun",
+        "definition": "Deep and serious thought about one's character, motives, or beliefs.",
+        "sentence": "After the defeat, the political party entered a period of intense soul-searching to understand its shortcomings."
+      },
+      {
+        "word": "Expletive-laden",
+        "type": "adjective",
+        "definition": "Containing many expletives (oath or swear words).",
+        "sentence": "The politician's expletive-laden rant on social media drew widespread criticism."
+      },
+      {
+        "word": "Militarism",
+        "type": "noun",
+        "definition": "The belief or desire of a government or people that a country should maintain a strong military capability and be prepared to use it aggressively to defend or promote national interests.",
+        "sentence": "Critics argue that increasing defense budgets and interventionist foreign policies are signs of growing militarism."
+      },
+      {
+        "word": "Stranglehold",
+        "type": "noun",
+        "definition": "A complete or overwhelming means of control.",
+        "sentence": "The powerful corporation maintained a stranglehold on the local economy, preventing small businesses from thriving."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a key reason US governments have rarely reflected on their foreign policy follies?",
+        "options": [
+          "A) A preference for focusing on future policy over past mistakes.",
+          "B) The bipartisan nature of support for foreign interventions.",
+          "C) A lack of internal mechanisms for accountability.",
+          "D) Governments' inherent disinterest in examining beyond their borders."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article states: 'GOVERNMENTS in the US have rarely reflected on follies they have committed beyond their borders,' implying a general lack of introspection on such issues."
+      },
+      {
+        "question": "What specific consequence did President Trump's social media activity have on the recent negotiations in Switzerland with Iran?",
+        "options": [
+          "A) It led to a breakthrough in talks.",
+          "B) It caused the Iranians to boycott the session.",
+          "C) It garnered more international support for the US position.",
+          "D) It had no significant impact on the negotiations."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly mentions: 'For instance, at the recent negotiations in Switzerland, the Iranians boycotted the session after Mr Trump tweeted fresh threats.'"
+      },
+      {
+        "question": "Which entity does the article identify as the 'biggest source of instability in the Middle East' that the US should reconsider its support for?",
+        "options": [
+          "A) Iran",
+          "B) Iraq",
+          "C) Israel",
+          "D) Syria"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article clearly states: 'Israel is the biggest source of instability in the Middle East, and it is high time the US ended its blind support to Tel Aviv...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's central criticism regarding US foreign policy decision-making over the decades?",
+        "back": "The article criticizes the US government's consistent failure to reflect on its past foreign policy blunders and misguided military misadventures, leading to repeated failures rather than learning from them."
+      },
+      {
+        "front": "How does the article assess the overall success of the US in its 'Iran debacle' compared to its stated objectives?",
+        "back": "The article concludes that the US has been unable to achieve any of its objectives in the Iran war and may have inadvertently given Iran the upper hand in the region."
+      },
+      {
+        "front": "What are the key domestic indicators mentioned in the article that suggest widespread unpopularity of the Iran war within the US?",
+        "back": "The Iran war is deeply unpopular, evidenced by the US Senate passing a symbolic resolution to end it, support from some Republicans, Chuck Schumer calling it 'Trump’s historic blunder,' and numerous opinion polls showing public desire for the war to end."
+      },
+      {
+        "front": "What fundamental policy shift does the author advocate for regarding US engagement in the Middle East to promote regional peace?",
+        "back": "The author urges the US to end its 'blind support' for Israel, which is identified as the 'biggest source of instability,' and prioritize its own country's interests over sustaining Israel's 'violent expansionism' and protecting it with 'blood and treasure.'"
       }
     ]
   },
@@ -2289,6 +2582,194 @@
       {
         "front": "What is the article's assessment of who truly governs Pakistan and the limits of its politics?",
         "back": "The article argues that while civilians administer daily government, the decisive choices and political limits are set by a powerful 'establishment' through increasingly formalized and informal levers, indicating a 'hybrid' system."
+      }
+    ]
+  },
+  {
+    "id": "curated-1782613107134-833",
+    "title": "Relief at the pump",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2614415/relief-at-the-pump-1",
+    "date": "2026-06-21",
+    "author": "\n\t\t\t\teditorial\n\t\t\t",
+    "content": "After months of relentless price shocks, Pakistanis finally have a reason to breathe a little easier. The government's decision to slash petrol prices by Rs74.28 per litre and high-speed diesel by Rs67.31 per litre is one of the largest reductions in recent years. The decline - bringing petrol down to Rs299.50 per litre and diesel to Rs311.47 - stems from the easing of international oil prices after diplomatic progress was made between Iran and the US under Pakistan's mediation. The government, in turn, deserves credit for swiftly passing on the benefit of lower global prices to consumers.\n\nLower fuel prices should gradually translate into reduced inflation and the ripple effects across the economy should be substantial. However, whenever fuel prices surged, businesses were quick to cite higher transportation and energy costs as justification for raising prices. There is now an equally compelling case for such sectors to reduce their charges proportionately. Federal and provincial authorities must also actively monitor markets to ensure that the benefits of cheaper fuel are reflected. Nevertheless, complacency would be misplaced. While the reported understanding between Washington and Tehran has eased immediate fears in energy markets, the Middle East remains deeply volatile, with Israel's continuing military operations in Southern Lebanon. Thus, any renewed disruption or escalation in conflict could quickly reverse the recent gains in global crude prices. Even after the latest reduction, fuel prices remain above pre-war levels - when petrol ranged from Rs255-265 per litre and diesel hovered around Rs260270 per litre - meaning that the current relief, though significant, is still incomplete.\n\nFor now, the reduction in fuel prices is undeniably good news. It offers hope that inflation may finally begin to ease after months of punishing increases. But for that hope to become reality, every segment of the economy must play its part by adjusting pricing strategies.",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Economics / Current Affairs / Pakistan Affairs",
+    "topic": "Inflation Management, Energy Prices, and Economic Stability",
+    "whyMatters": "This article provides a timely analysis of domestic fuel price adjustments in Pakistan, linking them to global oil trends and geopolitical events. It's crucial for understanding current economic challenges, government policy responses, and their potential ripple effects on inflation and business practices.",
+    "summary": [
+      "The Pakistani government has significantly reduced petrol and high-speed diesel prices, marking one of the largest reductions in recent years.",
+      "This price cut is attributed to the easing of international oil prices, stemming from diplomatic progress between Iran and the US, mediated by Pakistan.",
+      "Lower fuel prices are expected to gradually reduce inflation, but businesses must pass on benefits, and authorities are urged to monitor market adjustments.",
+      "Despite the immediate relief, the Middle East's volatility and current prices remaining above pre-war levels indicate that complacency would be misplaced, and gains could be reversed."
+    ],
+    "facts": [
+      "Petrol prices slashed by Rs74.28 per litre, bringing it to Rs299.50 per litre.",
+      "High-speed diesel prices reduced by Rs67.31 per litre, bringing it to Rs311.47 per litre.",
+      "Pre-war petrol prices ranged from Rs255-265 per litre, and diesel hovered around Rs260-270 per litre."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (latest edition) - for macro-economic indicators and policy context.",
+      "IMF Stand-By Arrangement (SBA) reports for Pakistan - for insights into economic conditionalities and performance.",
+      "World Bank's 'Pakistan Development Update' - for comprehensive economic analysis and forecasts."
+    ],
+    "vocabulary": [
+      {
+        "word": "relentless",
+        "type": "adjective",
+        "definition": "continuously harsh, severe, or intense; not stopping or easing.",
+        "sentence": "After months of relentless price shocks, Pakistanis finally have a reason to breathe a little easier."
+      },
+      {
+        "word": "slash",
+        "type": "verb",
+        "definition": "to greatly reduce (something, especially a cost or price).",
+        "sentence": "The government's decision to slash petrol prices by Rs74.28 per litre is one of the largest reductions in recent years."
+      },
+      {
+        "word": "ripple effects",
+        "type": "noun",
+        "definition": "the continuing and spreading results of an event or action.",
+        "sentence": "Lower fuel prices should gradually translate into reduced inflation and the ripple effects across the economy should be substantial."
+      },
+      {
+        "word": "compelling",
+        "type": "adjective",
+        "definition": "evoking interest, attention, or admiration in a powerfully irresistible way; not able to be refuted; convincing.",
+        "sentence": "There is now an equally compelling case for such sectors to reduce their charges proportionately."
+      },
+      {
+        "word": "complacency",
+        "type": "noun",
+        "definition": "a feeling of smug or uncritical satisfaction with oneself or one's achievements.",
+        "sentence": "Nevertheless, complacency would be misplaced."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary reason cited for the reduction in fuel prices in Pakistan?",
+        "options": [
+          "A. Increased local oil production.",
+          "B. Easing of international oil prices due to diplomatic progress.",
+          "C. Government subsidies from tax revenues.",
+          "D. A decrease in domestic demand for fuel."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'The decline - bringing petrol down to Rs299.50 per litre and diesel to Rs311.47 - stems from the easing of international oil prices after diplomatic progress was made between Iran and the US under Pakistan's mediation.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article link Pakistan's mediation efforts to the recent fuel price reduction?",
+        "back": "Pakistan's mediation between Iran and the US led to diplomatic progress, which in turn eased international oil prices, allowing Pakistan to reduce domestic fuel costs."
+      },
+      {
+        "front": "What economic expectation does the article set regarding the impact of lower fuel prices?",
+        "back": "Lower fuel prices are expected to gradually translate into reduced inflation and significant ripple effects across the economy."
+      },
+      {
+        "front": "Why does the article caution against complacency despite the recent relief?",
+        "back": "Complacency is cautioned due to the Middle East's continued volatility, Israel's military operations, and the fact that current fuel prices are still above pre-war levels, meaning gains could be quickly reversed."
+      },
+      {
+        "front": "What specific actions are recommended for businesses and authorities to ensure the benefits of cheaper fuel reach consumers?",
+        "back": "Businesses are urged to reduce their charges proportionately, while federal and provincial authorities must actively monitor markets to ensure benefits are reflected in consumer prices."
+      }
+    ]
+  },
+  {
+    "id": "curated-1782613030057-207",
+    "title": "The answer lies in the rule of law",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2614420/the-answer-lies-in-the-rule-of-law",
+    "date": "2026-06-21",
+    "author": "\n\t\t\t\tMajid Ehsan\n\t\t\t",
+    "content": "Pakistan faces a plethora of domestic challenges that demand urgent attention. The economy continues to struggle for sustainable growth and remains in need of structural reforms to free it from repeated dependence on external support. Perpetuity of internal security concerns, particularly in the western provinces, raises both the frequency and severity of crimes. An expanding population, declining public health services, rising inflation coupled with unemployment, a fragmented and unequal education system, recurring energy shortages and deepening political polarisation among other issues require immediate and sustained action. These challenges may appear diverse in nature, yet they all stem from weak adherence to the rule of law and inconsistent regulatory and policy implementation.\n\nWe readily identify shortcomings and highlight areas requiring urgent, and at times even revolutionary reforms in drawing room discussions, media talk shows, policy seminars and roundtable conferences conducted under the Chatham House Rule. But when it comes to translating diagnosis into action, there is far less emphasis on proposing practical, comprehensive and implementable solutions from within the existing system. The irony is that many of those most adept at identifying the flaws are often the very individuals entrusted with managing the institutions in question at present or in past. Perhaps the reason that a comprehensive roadmap for reforms remains absent is that we often search for separate solutions to separate problems, while overlooking the common thread running through them all. In my view, the answer lies in strengthening and upholding the rule of law.\n\nWhen we talk of the rule of law, the discussion invariably turns to the judiciary. The slow pace of justice, perceived inefficiency and allegations of corruption dominate the discourse. More often than not, the debate begins and ends with criticism of the courts, reinforced by the oft cited figure of approximately 2.4 million pending cases. While delays in the administration of justice certainly warrant scrutiny and judicial reforms are essentially required, an exclusive focus on the judiciary risks ignoring a more fundamental question: why are so many cases entering the system in the first place, and why do they become so difficult to resolve once they do? The answer lies in recognising that the rule of law does not begin in the courtroom. It begins much earlier, with effective legislation, professional investigation, credible evidence collection, reliable forensic support, responsible litigation and faithful enforcement of legal obligations. When these foundations are weak, the burden inevitably shifts to the judiciary which is expected to remedy failures originating elsewhere.\n\nThese systemic failures, however, stem from a more fundamental deficiency - the absence of a genuine culture of rule of law within our institutions. The result is a chronic failure to implement regulations, standard operating procedures and legal as well as administrative directives. Unfortunately, this phenomenon is not confined to a few public sector organisations. It has permeated both public and private institutions and, increasingly, many segments of society itself. We readily disregard rules, circumvent procedures and ignore lawful instructions when convenient. Disturbingly, when authorities attempt to enforce those very rules, we often resist, criticise or question the legitimacy of such measures. We demand order without discipline, accountability without compliance and progress without adherence to the principles that make progress possible.\n\nThere is, however, a deeper reason why public confidence in the rule of law remains fragile. It is largely believed that laws are not applied uniformly and that different standards exist for the powerful and the powerless. Such perceptions, whether real or exaggerated, undermine trust and weaken voluntary compliance with the law. People are far more likely to respect rules when they are confident that those rules are enforced fairly, consistently and without discrimination. This challenge can only be addressed through stronger institutional accountability and a legislative and administrative environment that promotes respect for the rule of law at every level of governance. The commitment to lawful conduct must flow from the highest offices of the state to the lowest tiers of public administration. When leaders demonstrate adherence to rules and institutions are held accountable for their actions, a culture of compliance gradually takes root. The principle is both simple and proven that laws must apply equally to all and must be enforced consistently.\n\nPakistan has, over the past year, emerged on the global stage as a resilient, capable and peace-loving nation. We have globally demonstrated that when we align our determination, resources and national will behind a cause, we can achieve what once appeared unattainable. The world has taken note and responded with a renewed sense of respect and regard for Pakistan. The challenge now is to capitalise on this rare opportunity and address our shortcomings at both external and domestic levels. We must confront our endemic weaknesses and structural deficiencies with honesty and courage. This will require accepting difficult solutions that challenge entrenched status quos and stepping beyond our institutional and individual comfort zones in pursuit of meaningful progress. There are no easy alternatives to reform. What is needed is a clear national effort to identify, prioritise and implement solutions. We must collect, collate and synergise ideas, recommendations and policy proposals put forward by our accomplished technocrats, professionals and experts, and translate them into practical action. Political, institutional and personal differences must be set aside in favour of a larger national purpose.\n\nPakistan's greatest deficit today is not capability but consistency in governance, accountability and implementation. The multidimensional challenges confronting the country demand a national resolve forged through adversity and sustained by a shared sense of purpose. This is no longer merely a pathway to progress; it is a prerequisite for national survival and prosperity. Starting with the fundamental commitment to respect and uphold the rule of law without fear or favour, we can begin our journey towards enduring progress and sustainable growth and emerge as a remarkable nation among the comity of nations.",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Pakistan Affairs",
+    "topic": "Rule of Law as a Prerequisite for Addressing Pakistan's Economic and Governance Challenges",
+    "whyMatters": "This article offers a comprehensive diagnosis of Pakistan's major economic and governance challenges, directly linking their persistence to weak adherence to the rule of law. It provides a crucial, overarching recommendation: strengthening and consistently upholding the rule of law as the fundamental solution for systemic issues, including economic instability and dependency, making it highly relevant for answering questions on national challenges and recommendations.",
+    "summary": [
+      "Pakistan faces a plethora of domestic challenges, including a struggling economy, internal security concerns, declining public services, and deep political polarisation.",
+      "These diverse challenges fundamentally stem from weak adherence to the rule of law and inconsistent regulatory and policy implementation across all institutions.",
+      "The rule of law extends beyond the judiciary to effective legislation, professional investigation, credible evidence collection, and faithful enforcement, where systemic failures originate.",
+      "Public confidence is eroded by the perception of unequal application of laws, necessitating stronger institutional accountability and consistent enforcement from the highest offices to the lowest tiers.",
+      "Strengthening and upholding the rule of law, without fear or favour, is presented as the essential prerequisite for national survival, enduring progress, and sustainable growth."
+    ],
+    "facts": [
+      "Approximately 2.4 million pending cases currently burden the judiciary, highlighting systemic inefficiencies.",
+      "The economy continues to struggle, requiring structural reforms to overcome repeated dependence on external support.",
+      "Challenges include an expanding population, declining public health services, rising inflation coupled with unemployment, a fragmented education system, recurring energy shortages, and deepening political polarisation."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (Annual publication by the Ministry of Finance, Pakistan, detailing economic challenges and performance)",
+      "Reports by the Law and Justice Commission of Pakistan (Focuses on judicial, legal, and systemic reforms necessary for the rule of law)",
+      "Transparency International's Corruption Perception Index (Relevant for understanding institutional integrity and public trust in governance and rule of law)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Pelethora",
+        "type": "noun",
+        "definition": "A large or excessive amount of something.",
+        "sentence": "Pakistan faces a plethora of domestic challenges that demand urgent attention."
+      },
+      {
+        "word": "Perpetuity",
+        "type": "noun",
+        "definition": "The state of lasting forever or for an indefinitely long period.",
+        "sentence": "Perpetuity of internal security concerns, particularly in the western provinces, raises both the frequency and severity of crimes."
+      },
+      {
+        "word": "Entrenched",
+        "type": "adjective",
+        "definition": "(Of an attitude, habit, or belief) firmly established and difficult or unlikely to change.",
+        "sentence": "This will require accepting difficult solutions that challenge entrenched status quos and stepping beyond our institutional and individual comfort zones."
+      },
+      {
+        "word": "Synergise",
+        "type": "verb",
+        "definition": "Combine or work together to produce an enhanced effect.",
+        "sentence": "We must collect, collate and synergise ideas, recommendations and policy proposals put forward by our accomplished technocrats."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental root cause of Pakistan's diverse domestic challenges, including economic struggles and security concerns?",
+        "options": [
+          "External support dependence",
+          "Weak adherence to the rule of law",
+          "Judicial inefficiency alone",
+          "Political polarization alone"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'These challenges may appear diverse in nature, yet they all stem from weak adherence to the rule of law and inconsistent regulatory and policy implementation.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's primary argument regarding the diverse challenges Pakistan faces, from economic instability to internal security?",
+        "back": "The article argues that all these challenges fundamentally stem from weak adherence to the rule of law and inconsistent regulatory and policy implementation."
+      },
+      {
+        "front": "Beyond the judiciary, what broader aspects does the article include in its definition of a strong rule of law?",
+        "back": "It includes effective legislation, professional investigation, credible evidence collection, reliable forensic support, responsible litigation, and faithful enforcement of legal obligations."
+      },
+      {
+        "front": "How does the perception of unequal application of laws affect public confidence in the rule of law, according to the article?",
+        "back": "It undermines trust and weakens voluntary compliance with the law, as people are far less likely to respect rules not enforced fairly, consistently, and without discrimination."
+      },
+      {
+        "front": "What is identified as Pakistan's 'greatest deficit today' that hinders progress and sustainable growth?",
+        "back": "Its greatest deficit is identified not as capability, but as consistency in governance, accountability, and implementation, specifically related to upholding the rule of law."
       }
     ]
   },
