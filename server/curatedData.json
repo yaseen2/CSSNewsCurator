@@ -127,6 +127,94 @@
     ]
   },
   {
+    "id": "curated-1783216144316-868",
+    "title": "Gender justice in Islam\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2012617/gender-justice-in-islam",
+    "date": "2026-07-03",
+    "author": "none@none.com (Muhammad Hayat LakLaiba Imran)",
+    "content": "IN 2025, Pakistan ranked last (148th of 148 countries) on the World Economic Forum’s Global Gender Gap Index. Our political parity score has dropped to 11 per cent. The Constitution guarantees reserved seats for women in both houses of Parliament and the provincial assemblies. Seats from each province are indirectly filled by proportional representation against priority lists submitted by political parties. However, the current generic female quotas add pain to misery by leaving millions of voices unheard.\nThese quotas have become a plus-one system for the political elite. The election of a woman to a reserved seat is decided more by her last name and address than by her abilities and plight, serving only a small subset of women. Inclusion in numbers does not ensure inclusive representation. As per Fafen’s data, in the 15th National Assembly, women’s seats appeared rather like an urban club, dominated by large cities, while in the Punjab Assembly, 39 of the total 66 seats went to Lahore!\nWhen a state denies the disabled, rural, and poor women a seat at the negotiating table, it is ignoring the ‘Maqasid al-Shariah’. The principle of ‘Ad-darar yuzal’ (harm must be prevented) obligates the state to devise plans to ameliorate the position of groups facing structural harm. The state must strive for public welfare (maslaha), and genuine public welfare cannot be realised by the mere general categorisation of all women.\nIslamic jurisprudence distinguishes between absolute mathematical equality called ‘musawat’ and substantive and true justice, called ‘adl’ and ‘qist’. The current quotas are based on the former, as they incorrectly assume that ‘women’ are a unitary group who deserve to be treated equally, ie, a general application of quotas. Remedying an unequal scenario with equal treatment is not strictly in accordance with Islamic principles of equity. It does not account for existing power imbalances between women and the fact that some women already have a head start.\nThe state must strive for public welfare.\nIn her seminal work Demarginalising the Intersection of Race and Sex, Kimberle Crenshaw challenged the popular belief that women across the globe share the same experiences based on their gender. Crenshaw laid out the idea of intersectionality, arguing that gender is not the sole factor determining a woman’s life; it rather intersects with other variables — age, physique, race, ethnicity, colour, geography, etc — to create unique lived experiences. Combining the experiences, pursuits and challenges of all women into one general category is a grave injustice. A woman elected on a reserved seat from Punjab, belonging to an urban centre, such as Lahore, with a lavish lifestyle, is less likely to have genuine awareness and competence to represent a peasant woman from an underdeveloped district, say Rajanpur.\nThe Holy Quran also recognises and acknowledges the various intersecting identities of people rooted in geography, tribe, race, etc. “O humanity! Indeed, We created you from a male and a female and made you into peoples and tribes so that you may (get to) know one another. …” (Surah Hujarat, ayat 13). It sidelines homogeneity by associating the division of humanity with recognition (li-ta’arafu) rather than structural hierarchies.\nDuring the life of the Holy Prophet Muhammad (PBUH), the case of Khawla bint Thalabah, narrated in Sunan Ibn Majah (2063), portrays the interplay of various factors that shape a woman’s life. Khawla’s husband, Aws, subjected her to the pagan custom of zihar, an oppressive form of divorce where the wife enters the prohibited degree of marriage, ending all responsibilities of the previous husband, but also prohibiting the woman from marrying another man. Besides her gender, she was also poor and old, unable to look after her children. When she laid out her layered plight in front of the Prophet, the first four verses of Surah al-Mujadilah were revealed, which declared ‘zihar’ a sin.\nIt is narrated in Musnad Ahmad ibn Hanbal (27319) that realising Aws’s lack of the means to perform kafarah (expiation) to restore the marriage and the couple’s old age, the Prophet gave Khawla a basket of dates to distribute as charity on Aws’s behalf.\nThere is a need to redefine the current quotas, marking a shift from musawat to adl. A formula must be established that factors in all variables alongside gender. For instance, a cap can be set on women belonging to major cities, and a minimum cap can be introduced for disabled and poor women. Redefined quotas will give a voice to hundreds and thousands of hitherto neglected women. It will also dent the prevalent practice of distribution of reserved seats as spoils of war among the female members of influential political families.\nMuhammad Hayat Lak is a lawyer.\nLaiba Imran is a law student at Lums.\nPublished in Dawn, July 3rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Pakistan Affairs / Gender Studies",
+    "topic": "Gender Justice, Women's Representation, and Quota Systems in Pakistan",
+    "whyMatters": "This article offers a critical analysis of Pakistan's reserved seats for women, linking the country's poor gender gap ranking to the ineffectiveness of current quota systems. It uniquely blends modern intersectionality theory with Islamic principles to propose concrete reforms for more equitable political representation.",
+    "summary": [
+      "Pakistan's current generic female quotas for reserved seats are ineffective, functioning as a 'plus-one' system for the political elite and failing to ensure inclusive representation for diverse women.",
+      "The existing quotas are based on 'musawat' (absolute mathematical equality), which incorrectly assumes all women are a unitary group and fails to account for power imbalances, contrary to Islamic principles of 'adl' (substantive justice).",
+      "Kimberle Crenshaw's concept of intersectionality, supported by Quranic teachings (Surah Hujarat), highlights that women's experiences are shaped by multiple intersecting identities beyond gender, rendering general categorization for quotas unjust.",
+      "The state is obligated by 'Maqasid al-Shariah' and the principle of 'Ad-darar yuzal' (harm must be prevented) to redefine quotas by incorporating variables like disability, rural status, and poverty, moving towards 'adl' to genuinely represent marginalized women."
+    ],
+    "facts": [
+      "In 2025, Pakistan ranked last (148th of 148 countries) on the World Economic Forum’s Global Gender Gap Index.",
+      "Pakistan's political parity score has dropped to 11 per cent.",
+      "As per Fafen’s data, in the 15th National Assembly, women’s seats appeared rather like an urban club; in the Punjab Assembly, 39 of the total 66 seats went to Lahore."
+    ],
+    "academicReferences": [
+      "Kimberle Crenshaw's 'Demarginalising the Intersection of Race and Sex'",
+      "The Constitution of Pakistan (guaranteeing reserved seats for women)",
+      "Maqasid al-Shariah (Objectives of Islamic Law)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Parity",
+        "type": "noun",
+        "definition": "The state or condition of being equal, especially regarding status or pay.",
+        "sentence": "Our political parity score has dropped to 11 per cent."
+      },
+      {
+        "word": "Ameliorate",
+        "type": "verb",
+        "definition": "To make (something bad or unsatisfactory) better.",
+        "sentence": "The principle of ‘Ad-darar yuzal’ obligates the state to devise plans to ameliorate the position of groups facing structural harm."
+      },
+      {
+        "word": "Jurisprudence",
+        "type": "noun",
+        "definition": "The theory or philosophy of law.",
+        "sentence": "Islamic jurisprudence distinguishes between absolute mathematical equality called ‘musawat’ and substantive and true justice, called ‘adl’ and ‘qist’."
+      },
+      {
+        "word": "Intersectionality",
+        "type": "noun",
+        "definition": "The interconnected nature of social categorizations such as race, class, and gender as they apply to a given individual or group, regarded as creating overlapping and interdependent systems of discrimination or disadvantage.",
+        "sentence": "Kimberle Crenshaw laid out the idea of intersectionality, arguing that gender is not the sole factor determining a woman’s life."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the core critique of current women's quotas in Pakistan according to the article?",
+        "options": [
+          "They are based on 'musawat' (absolute mathematical equality) rather than 'adl' (substantive justice), ignoring intersectional differences among women.",
+          "They provide too many seats for women, thereby diluting the representation of men.",
+          "They are unconstitutional as they do not explicitly mention disabled or rural women.",
+          "They primarily benefit women from religious minorities, neglecting the majority."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that current quotas are based on 'musawat' and incorrectly assume 'women' are a unitary group, failing to account for power imbalances and diverse experiences, which 'adl' would address, aligning with Islamic principles."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary failing of Pakistan's current generic female quotas for reserved seats, according to the article?",
+        "back": "They function as a 'plus-one' system for the political elite, benefiting women based on their last name and address rather than ability or plight, leading to non-inclusive representation for diverse women."
+      },
+      {
+        "front": "How does the article differentiate between 'musawat' and 'adl' in the context of gender justice?",
+        "back": "'Musawat' refers to absolute mathematical equality, which the current quotas exemplify, while 'adl' (and 'qist') signifies substantive and true justice, accounting for existing power imbalances and diverse needs."
+      },
+      {
+        "front": "What concept, introduced by Kimberle Crenshaw, does the article use to argue against treating 'women' as a unitary group?",
+        "back": "Intersectionality, which posits that gender intersects with other variables (age, physique, race, ethnicity, geography) to create unique lived experiences, making a general categorization for all women unjust."
+      },
+      {
+        "front": "According to Islamic principles cited in the article, what obligation does the state have regarding groups facing structural harm?",
+        "back": "The state is obligated by 'Maqasid al-Shariah' and the principle of 'Ad-darar yuzal' (harm must be prevented) to devise plans for public welfare (maslaha) that ameliorate the position of structurally harmed groups, including marginalized women."
+      }
+    ]
+  },
+  {
     "id": "curated-1783129463443-160",
     "title": "Rankings show priorities\n",
     "source": "Dawn",
@@ -702,6 +790,88 @@
       {
         "front": "What long-term strategy does the article suggest for defeating terrorism in Pakistan?",
         "back": "The article suggests sustained vigilance, adapting CT strategies, effective intelligence-based operations to prevent high-profile attacks, ensuring no internal safe havens for militants, and concerted, multipronged efforts."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783216223479-483",
+    "title": "Abuse cycle\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2012613/abuse-cycle",
+    "date": "2026-07-03",
+    "author": "none@none.com (Editorial)",
+    "content": "LULLED into a sense of false security by its own denial and apathy, Pakistan is a long way from achieving tangible solutions to the curse of child abuse. The state’s refusal to address the presence of this scourge, and the lifelong traumas associated with it, is a ticking time bomb for young generations. The 2025 Cruel Numbers report from Sahil scanned the grim circumstances our young are forced to navigate. Its numbers spelled out the systemic insensitivity towards their safety:at least 2,003 child sexual abuse cases were registered in the country. Punjab topped the list with 1,549, 330 in Sindh, 91 in KP, and a total of 33 in other areas. Meanwhile, over 4,200 children experienced sexual violence in 2024. Most incidents go unreported. As disturbing number of cases frequently appear in the media, a tragedy unfolds before us. Even so, child safety, despite censure from rulers and activists, helplines and laws to protect children from all violence, remains in shambles. Crimes against children are endemic because reforms in the criminal justice system are overdue and the conviction rate is pitiful.\nWhile violence is a reality for a billion of the world’s innocent who endure physical, emotional or sexual abuse annually, Pakistan is a paradox where there is a surfeit of laws to shield children. The NCCIA Punjab has now announced a dedicated cell to provide prompt registration, investigation and prosecution of cases involving women and children. But past promises have failed to bring about a reassessment of priorities. Horrific events — from the 2015 pornography scandal involving hundreds of boys and girls in Kasur to the rape and murder of little Zainab Ansari in 2018 and similarly despicable incidents — led to the Kasur Hamara Hai movement and a spate of alerts and legislations, including the Criminal Law Amendment in 2016 and the Anti-Rape Act. Yet a child’s innocence is still a disposable commodity. Laws and pledges may be momentary but the toll of abuse, shame and disregard is not. It imperils the stability and productivity of our youth. Exploitation also devastates mental and physical health, and jeopardises children’s academic future. Corrective actions entail protection and psychosocial support for victims and their families with awareness and education. Lastly, a callous police force and society silence survivors. The state must know this damage consumes generations.\nPublished in Dawn, July 3rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Pakistan Affairs / Current Affairs / Essay (Social Issues)",
+    "topic": "Child Protection, Abuse Cycle, and Criminal Justice System Reforms in Pakistan",
+    "whyMatters": "This article critically analyzes a pervasive social issue in Pakistan, child abuse, linking it to state apathy, systemic failures, and the need for criminal justice reform. Aspirants can use its facts and arguments to articulate nuanced answers on social problems, governance, human rights, and policy challenges in their examinations.",
+    "summary": [
+      "Pakistan is deeply entrenched in a child abuse crisis, largely due to the state's denial, apathy, and systemic insensitivity, evidenced by alarming statistics from reports like Sahil's 2025 Cruel Numbers.",
+      "Despite a 'surfeit of laws' and public outrage following horrific incidents (e.g., Kasur, Zainab), child safety remains inadequate because of overdue criminal justice reforms and a pitiful conviction rate.",
+      "The article highlights the profound and long-lasting consequences of child exploitation, which imperils the stability, productivity, mental/physical health, and academic futures of generations.",
+      "Effective corrective actions demand not only legislative improvements but also robust protection and psychosocial support for victims, extensive public awareness and education, and a transformation of the police force and society to overcome the culture of silence."
+    ],
+    "facts": [
+      "At least 2,003 child sexual abuse cases were registered in the country in 2025, according to Sahil's 'Cruel Numbers' report, with Punjab topping the list at 1,549 cases.",
+      "Over 4,200 children experienced sexual violence in 2024, with most incidents going unreported, indicating a much higher prevalence.",
+      "Significant legislations like the Criminal Law Amendment in 2016 and the Anti-Rape Act were introduced following high-profile cases, yet child safety remains 'in shambles' due to implementation failures."
+    ],
+    "academicReferences": [
+      "Sahil's '2025 Cruel Numbers report' on child sexual abuse in Pakistan",
+      "UN Convention on the Rights of the Child (UNCRC) (Article 19: Protection from all forms of violence)",
+      "Criminal Law (Second Amendment) Act, 2016 and Anti-Rape (Investigation and Trial) Act, 2021"
+    ],
+    "vocabulary": [
+      {
+        "word": "Scourge",
+        "type": "noun",
+        "definition": "A person or thing that causes great trouble or suffering.",
+        "sentence": "The state’s refusal to address the presence of this scourge, and the lifelong traumas associated with it, is a ticking time bomb."
+      },
+      {
+        "word": "Endemic",
+        "type": "adjective",
+        "definition": "(Of a disease or condition) regularly found among particular people or in a certain area.",
+        "sentence": "Crimes against children are endemic because reforms in the criminal justice system are overdue and the conviction rate is pitiful."
+      },
+      {
+        "word": "Surfeit",
+        "type": "noun",
+        "definition": "An excessive amount of something.",
+        "sentence": "Pakistan is a paradox where there is a surfeit of laws to shield children."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the 2025 Cruel Numbers report mentioned in the article, which province registered the highest number of child sexual abuse cases in Pakistan?",
+        "options": [
+          "A) Sindh",
+          "B) Khyber Pakhtunkhwa (KP)",
+          "C) Punjab",
+          "D) Balochistan"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Punjab topped the list with 1,549' cases out of the 2,003 registered cases."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core issue identified as contributing to the ongoing child abuse crisis in Pakistan, despite existing laws?",
+        "back": "State denial, apathy, systemic insensitivity, overdue criminal justice system reforms, and a pitiful conviction rate."
+      },
+      {
+        "front": "Name two specific legislative measures mentioned in the article that were enacted to protect children in Pakistan.",
+        "back": "The Criminal Law Amendment in 2016 and the Anti-Rape Act."
+      },
+      {
+        "front": "What are the significant long-term impacts of child exploitation on victims and society, as described in the article?",
+        "back": "Lifelong traumas, imperiled stability and productivity of youth, devastated mental and physical health, and jeopardized academic futures."
+      },
+      {
+        "front": "Besides legislative changes, what comprehensive measures does the article propose for addressing child abuse in Pakistan?",
+        "back": "Protection and psychosocial support for victims and families, awareness and education, and fostering a responsive police force and society."
       }
     ]
   },
