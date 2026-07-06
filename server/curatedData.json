@@ -1,5 +1,506 @@
 [
   {
+    "id": "curated-1783303668739-196",
+    "title": "Islamic banking\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013276/islamic-banking",
+    "date": "2026-07-06",
+    "author": "none@none.com (Editorial)",
+    "content": "THE roadmap for eliminating riba from Pakistan’s financial system from 2028 offers some clarity on how the government intends to implement the four-year-old Federal Shariat Court ruling. The policy direction itself was settled when the government embraced the court’s verdict by incorporating its deadline into the Constitution through the 26th Amendment, a move seen as part of a political bargain to secure the support of religious parties for the amendment. Uncertainty has persisted over how an economy deeply integrated with conventional banking and global capital can manage such a profound transition. By opting for a gradual, contract-respecting approach, the government has committed itself to honouring existing obligations until maturity. This preserves legal certainty, protects investor confidence and avoids financial disruption. The decision to allow most foreign-owned banks to continue operating hybrid models offering both conventional and Islamic banking services is also a step in the right direction as complete uniformity is neither practical nor desirable.\nThe roadmap is only the beginning. The challenge lies in executing it. Pakistan’s Islamic finance sector has expanded rapidly, but still lacks the depth, diversity and liquidity management tools to support an economy of this size. The government’s commitment to regular issuance of sukuk across different maturities addresses a big structural weakness of the sector. The proposal to develop a comprehensive register of federal assets is another important reform for sustained sukuk issuance and reduced reliance on the limited stock of assets currently available for Islamic financing. The initiative will demand transparency, accurate valuation and robust governance to safeguard the credibility of asset-backed instruments.\nHowever, the roadmap sidesteps an important debate among scholars, bankers and economists, centring on the lack of universal agreement on whether modern bank interest constitutes riba at all. Some argue that what is prohibited is exploitative lending and debt traps rather than every form of interest (return on the time value of money) on capital. Others agree with the FSC. Indeed, the coexistence of conventional and Islamic banking in Muslim-majority countries, and the relatively modest penetration of Islamic banking despite decades of policy support suggest that many still prefer a choice. The government’s own decision to allow foreign-owned banks to continue offering hybrid services implicitly recognises this reality. It is then difficult to justify denying the same flexibility to domestically owned banks. The government’s intention to seek Sharia-compliant external financing where ‘feasible’ is itself an implicit endorsement of personal choice. If financial stability and consumer choice warrant a hybrid or dual system, market preferences should be allowed to evolve naturally rather than through regulatory compulsion. If the aim is to build confidence in Islamic finance, competition and performance will prove more effective than compulsion.\nPublished in Dawn, July 6th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Economics / Pakistan Affairs",
+    "topic": "Islamic Banking and Financial System Transformation in Pakistan",
+    "whyMatters": "This article is crucial for understanding Pakistan's economic policy direction towards an interest-free financial system, its challenges, and the underlying socio-economic debates. Aspirants can quote it to demonstrate knowledge of financial reforms, constitutional amendments, and the interplay between religion and economy.",
+    "summary": [
+      "Pakistan's government has a roadmap for eliminating riba from its financial system by 2028, incorporating the Federal Shariat Court's ruling through the 26th Amendment.",
+      "The transition strategy involves a gradual, contract-respecting approach, honoring existing obligations and allowing foreign-owned banks to operate hybrid conventional and Islamic models to maintain stability and investor confidence.",
+      "Challenges for the rapidly expanding Islamic finance sector include lack of depth, diversity, and liquidity tools, addressed by commitments to regular sukuk issuance and a comprehensive federal asset register.",
+      "The roadmap sidesteps the scholarly debate on whether modern bank interest constitutes riba, implicitly acknowledging market preference for choice and suggesting that competition, not compulsion, should drive confidence in Islamic finance."
+    ],
+    "facts": [
+      "Deadline for eliminating riba from Pakistan's financial system: 2028.",
+      "Federal Shariat Court ruling on riba is four years old as of the article's publication.",
+      "The deadline was incorporated into the Constitution through the 26th Amendment.",
+      "Article published in Dawn on July 6th, 2026."
+    ],
+    "academicReferences": [
+      "Federal Shariat Court of Pakistan's Ruling on Riba",
+      "26th Constitutional Amendment of Pakistan",
+      "State Bank of Pakistan's Islamic Banking Policy/Roadmap for Riba-Free Economy"
+    ],
+    "vocabulary": [
+      {
+        "word": "Riba",
+        "type": "noun",
+        "definition": "An Arabic term often translated as 'interest' or 'usury,' prohibited in Islamic finance.",
+        "sentence": "The roadmap aims for the elimination of riba from Pakistan’s financial system by 2028."
+      },
+      {
+        "word": "Sukuk",
+        "type": "noun",
+        "definition": "Islamic financial certificates, similar to bonds, that comply with Sharia law, representing ownership in underlying assets.",
+        "sentence": "The government’s commitment to regular issuance of sukuk addresses a big structural weakness of the sector."
+      },
+      {
+        "word": "Hybrid models",
+        "type": "noun phrase",
+        "definition": "Business models that offer both conventional and Islamic banking services concurrently.",
+        "sentence": "The decision to allow most foreign-owned banks to continue operating hybrid models is a step in the right direction."
+      },
+      {
+        "word": "Compulsion",
+        "type": "noun",
+        "definition": "The action or state of being forced to do something; coercion.",
+        "sentence": "Market preferences should be allowed to evolve naturally rather than through regulatory compulsion."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary deadline set by the Pakistani government for eliminating riba from its financial system?",
+        "options": [
+          "2026",
+          "2028",
+          "2030",
+          "2032"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that the roadmap for eliminating riba offers clarity on implementation from 2028."
+      },
+      {
+        "question": "Which constitutional amendment incorporated the Federal Shariat Court's deadline for riba elimination?",
+        "options": [
+          "18th Amendment",
+          "21st Amendment",
+          "26th Amendment",
+          "25th Amendment"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions that the government incorporated the court’s deadline into the Constitution through the 26th Amendment."
+      },
+      {
+        "question": "What is identified as a significant structural weakness of Pakistan's Islamic finance sector?",
+        "options": [
+          "Lack of conventional banking integration",
+          "Excessive liquidity management tools",
+          "Limited depth, diversity, and liquidity management tools",
+          "Over-reliance on foreign investment"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that Pakistan’s Islamic finance sector still lacks the depth, diversity, and liquidity management tools."
+      },
+      {
+        "question": "What approach has the government adopted regarding existing financial obligations during the transition?",
+        "options": [
+          "Immediately nullifying all conventional contracts",
+          "Gradually phasing out all contracts within a year",
+          "Honouring existing obligations until maturity",
+          "Converting all existing contracts to Sharia-compliant ones instantly"
+        ],
+        "answerIndex": 2,
+        "explanation": "The government has committed itself to honouring existing obligations until maturity by opting for a gradual, contract-respecting approach."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the strategic approach adopted by the Pakistani government for the transition to an interest-free financial system to ensure legal certainty and investor confidence?",
+        "back": "The government is adopting a gradual, contract-respecting approach that honors existing obligations until maturity, thus preserving legal certainty and protecting investor confidence."
+      },
+      {
+        "front": "What key reforms are proposed to address the structural weaknesses of Pakistan's Islamic finance sector?",
+        "back": "The proposed reforms include regular issuance of sukuk across different maturities and the development of a comprehensive register of federal assets to support sustained sukuk issuance."
+      },
+      {
+        "front": "What significant debate among scholars, bankers, and economists does the roadmap for riba elimination sidestep?",
+        "back": "The roadmap sidesteps the debate on whether modern bank interest truly constitutes riba, with some arguing that only exploitative lending is prohibited, not all forms of interest."
+      },
+      {
+        "front": "Why does the article argue against regulatory compulsion in promoting Islamic finance in Pakistan?",
+        "back": "The article argues that competition and performance will prove more effective than compulsion in building confidence in Islamic finance, allowing market preferences to evolve naturally, as implicitly recognized by allowing foreign banks to offer hybrid models."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783303747771-350",
+    "title": "Prison reforms\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013275/prison-reforms",
+    "date": "2026-07-06",
+    "author": "none@none.com (Editorial)",
+    "content": "IF nothing else, it was good to see the four provincial chief executives sharing a common platform. The chief ministers of Punjab, Sindh, KP and Balochistan gathered last week for the National Conference on Prison Reforms, hosted by the Supreme Court. Together, they signed the Islamabad Declaration on Prison Reforms, committing to a coordinated national effort to reform provincial prison systems. They promised to reduce unnecessary incarceration by expanding access to bail, legal aid and non-custodial alternatives like probation and parole, particularly for vulnerable groups such as women, children and those detained for minor, poverty-related offences. They also resolved to review existing legal frameworks to align prison administration with constitutional and human rights standards, whilst increasing investment in healthcare, sanitation and safeguards against torture.\nBut while all these reforms read well on paper, will they actually be carried out, or have the chief ministers merely put their names to the document as a formality? Time will tell. There is a deeper irony, too, in the way the politicians grounded their advocacy for jail reforms in their own or other leaders’ experiences. CM Maryam Nawaz, for example, shared that her imprisonment ‘changed her forever’. CM Sohail Afridi highlighted the challenges faced by the PTI’s incarcerated chief, while demanding that reforms begin at Adiala Jail. It is doubtful that either leader has ever experienced what most ordinary Pakistanis do. Pakistan’s jails do not need to be experienced for one to understand what ails them. Our entire penal system is the product of a deeply flawed approach to human rights and dignity that only understands the logic of power and who wields it; a remnant of the colonial era, as the law minister so aptly put it. It is a system in which who gets punished and how severely still depend on how much power a person holds. The poor, the voiceless and the unconnected absorb its cruelties while the influential are spared. For prisons to see true reform, therefore, the national leadership must first decolonise their conceptions of power and learn to see and treat the weakest citizen as their equal. Such humility has traditionally been severely lacking in Pakistani politics, but till leaders come to terms with the inequalities and injustices they benefit from — and are therefore incentivised to perpetuate — there can be no meaningful change.\nPublished in Dawn, July 6th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Current Affairs / Governance",
+    "topic": "Prison Reforms, Human Rights, and Justice System in Pakistan",
+    "whyMatters": "This article provides critical insight into the state of prison reforms in Pakistan, highlighting both recent policy commitments and deep-seated systemic challenges. It is crucial for understanding governance issues, human rights abuses, and the legacy of colonialism within the Pakistani justice system, making it highly relevant for essays and analytical questions.",
+    "summary": [
+      "The provincial Chief Ministers signed the Islamabad Declaration on Prison Reforms, committing to a coordinated national effort to improve the provincial prison systems.",
+      "Key commitments include reducing unnecessary incarceration, expanding access to bail and legal aid, and investing in better healthcare, sanitation, and safeguards against torture, especially for vulnerable groups.",
+      "The article expresses skepticism regarding the actual implementation of these reforms, criticizing politicians for grounding advocacy in self-serving experiences and potentially treating commitments as mere formalities.",
+      "It argues that Pakistan's penal system is a colonial-era remnant, deeply flawed by power dynamics where the poor suffer disproportionately, and true reform requires leaders to decolonize their conception of power and treat all citizens equally."
+    ],
+    "facts": [
+      "The National Conference on Prison Reforms was hosted by the Supreme Court.",
+      "The Islamabad Declaration on Prison Reforms was signed by the chief ministers of Punjab, Sindh, KP, and Balochistan.",
+      "The proposed reforms specifically target vulnerable groups such as women, children, and those detained for minor, poverty-related offences."
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan (e.g., Articles 9, 10, 14, 25 related to human rights, dignity, and equality before law)",
+      "UN Standard Minimum Rules for the Treatment of Prisoners (Nelson Mandela Rules)",
+      "Reports by the Human Rights Commission of Pakistan (HRCP) on prison conditions and judicial reforms"
+    ],
+    "vocabulary": [
+      {
+        "word": "incarceration",
+        "type": "noun",
+        "definition": "the state of being confined in prison or held in custody.",
+        "sentence": "The declaration aims to reduce unnecessary incarceration by expanding access to bail and legal aid."
+      },
+      {
+        "word": "non-custodial alternatives",
+        "type": "noun phrase",
+        "definition": "punishments or measures that do not involve imprisonment, such as probation or parole.",
+        "sentence": "Expanding non-custodial alternatives like probation and parole is crucial for effective prison reform, especially for vulnerable groups."
+      },
+      {
+        "word": "penal system",
+        "type": "noun phrase",
+        "definition": "the system of laws, policies, and practices related to punishment for crimes.",
+        "sentence": "Our entire penal system is described as a product of a deeply flawed, colonial-era approach to human rights and dignity."
+      },
+      {
+        "word": "decolonise",
+        "type": "verb",
+        "definition": "to free a country or a system from colonial rule or influence; to challenge colonial ideas or structures.",
+        "sentence": "For true prison reform, the national leadership must first decolonise their conceptions of power."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as the fundamental reason for the deep-seated flaws in Pakistan's penal system, according to the article?",
+        "options": [
+          "A) Lack of funding for prison infrastructure",
+          "B) Absence of political will among Chief Ministers",
+          "C) A colonial-era approach to human rights and power dynamics",
+          "D) International pressure for reforms"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that 'Our entire penal system is the product of a deeply flawed approach to human rights and dignity that only understands the logic of power and who wields it; a remnant of the colonial era.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What were the primary commitments outlined in the Islamabad Declaration on Prison Reforms?",
+        "back": "Commitments included reducing unnecessary incarceration, expanding access to bail, legal aid, non-custodial alternatives, reviewing legal frameworks, and increasing investment in healthcare, sanitation, and safeguards against torture."
+      },
+      {
+        "front": "Why does the article express skepticism about the actual implementation of the announced prison reforms?",
+        "back": "The article doubts implementation due to politicians' self-serving advocacy, their potential to treat commitments as mere formalities, and their traditional lack of humility in addressing systemic inequalities they benefit from."
+      },
+      {
+        "front": "How does the article characterize the existing penal system in Pakistan regarding human rights and power?",
+        "back": "It characterizes the penal system as a colonial-era remnant, deeply flawed, understanding only the logic of power, where punishment severity depends on a person's influence, disproportionately affecting the poor and voiceless."
+      },
+      {
+        "front": "What fundamental shift in leadership perspective does the article propose for achieving meaningful prison reform?",
+        "back": "It proposes that national leadership must 'decolonise their conceptions of power' and learn to see and treat the weakest citizen as their equal, coming to terms with the inequalities they benefit from."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783302811151-525",
+    "title": "Security without safety",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013088/security-without-safety",
+    "date": "2026-07-05",
+    "author": "none@none.com (Muhammad Amir Rana)",
+    "content": "PAKISTAN has never enjoyed an ideal law-and-order situation. Ethnic conflicts, religiously motivated terrorism, tribal feuds, organised crime, political violence and weak policing have remained persistent features of the state. Over the last three decades, these challenges have evolved into a far more complex security landscape. Urban crime has expanded, organised criminal syndicates have become more sophisticated, terrorism and insurgencies have persisted and criminal and militant economies have increasingly overlapped.\nThe result is a multidimensional crisis that affects not only citizens’ security but also econo­mic growth, investment, social cohesion and state legitimacy. The most visible deterioration has occurred during the last five years. Major urban centres, once considered relatively insulated from conflict, are increasingly exposed to violent crime, extortion, targeted killings, cyber-enabled criminality and sporadic terrorist attacks. The traditional distinction between militancy and criminality is also becoming blurred as terrorist organisations increasingly rely on criminal networks for financing and logistics, while criminal gangs exploit conflict environments for profit.\nPakistan’s major cities continue to function economically, but perceptions of insecurity are growing. Vehicle theft, abductions, fraud, drug trafficking, sexual violence and organised robberies have become serious concerns. Kidnapping for ransom is again emerging as a significant challenge in Balochistan and KP, while Sindh and Punjab are witnessing similar trends.\nAt the same time, Pakistan’s policing system remains largely unchanged from the colonial structure inherited at independence. Successive governments have promised police reforms, yet political interference, administrative weakness and institutional neglect have prevented meaningful modernisation. The police continue to function as a political instrument rather than an autonomous public service institution.\nInstead of investing in accountable policing, the authorities are relying on coercive legislation.\nAs political institutions have weakened, civilian law-enforcement agencies have increasingly become subordinate to stronger security institutions. The priorities of these institutions naturally revolve around counterterrorism, insurgency, and national security threats. Consequently, ordinary policing, crime prevention, investigation and community safety receive limited attention.\nThis imbalance is producing troubling outco­mes. Instead of investing in accountable policing, professional investigations and local intelligence systems, governments increasingly rely on coercive legislation. The Punjab Control of Habi­t­u­­al Offenders and Anti-Social Behavior Bill, 2026, is a recent example of this trend. The proposed legislation grants extensive powers to executive committees dominated by police and intelligence officials to monitor, restrict and penalise individuals even without prior criminal convictions.\nOn one hand, the state seeks greater control over citizens’ social behaviour through expansive legal powers. On the other hand, organised criminal networks continue to flourish in areas such as the riverine belt of Punjab and Sindh, where successive governments have struggled to establish the writ of the state and, at times, have even negotiated with or pardoned criminal actors.\n    \nBalochistan presents perhaps the most complex manifestation of Pakistan’s law-and-order crisis. Militant organisations, including Baloch insurgent groups and the TTP, increasingly operate in overlapping geographical spaces despite their divergent ideological and political objectives. Their coexistence is facilitated by informal understandings, parallel economies and the extraction of financial resources, without directly challenging each other.\nQuetta has emerged as a particularly vulnerable urban centre. The city remains a target for terrorist and insurgent attacks while simultaneously experiencing the rise of criminal gangs involved in kidnappings, extortion and violent crime. Various perceptions surround these groups, including allegations that some consist of former Afghan security personnel coming here after political changes in Afghanistan. Whatever their origins, these groups have introduced another layer of insecurity in the provincial capital.\nEven more alarming is the security situation on highways connecting Quetta to the rest of the province and country. Despite heavy deployment within the city, major roads remain vulnerable to attacks, extortion and other criminal activity. Traders, transporters and mine owners have repeatedly protested against the deteriorating situation, demanding safe movement and effective state protection. The issue has become so serious that members of the provincial assembly have publicly stated that even ministers cannot safely travel to their constituencies.\nThe merger of the century-old Levies Force into the Balochistan Police represents one of the most significant institutional reforms undertaken in the province. The abolition of the distinction bet­w­e­en A and B areas was intended to establish a uniform system of law enforcement and stren­gthen the state’s writ. However, the transition has also created operational challenges. The Levies possessed deep local roots, intimate knowledge of tribal dynamics and strong community trust. Their disappearance has created intelligence and trust deficits in several rural areas. While the police believe the benefits of the merger will emerge over the longer term, weak institutional capacity, procedural differences, low conviction rates and limited resources have combined to produce temporary governance vacuums.\nKP faces a different but equally dangerous situation. Terrorist organisations, including the TTP, IS-K, the Gul Bahadur group, and various criminal networks, have increasingly penetrated urban areas through extortion, targeted violence and digital intimidation. Businessmen, politicians and wealthy individuals in cities such as Peshawar and Swat face extortion demands delivered through internet-based communications from cross-border sanctuaries.\nThe provincial government has attempted to strengthen specialised police units, expand Safe City projects, and seek additional federal support, but financial constraints continue to limit these efforts.\nThe experience of Azad Kashmir also offers important lessons. There, the police have mismanaged political and economic protests through coercive means. The excessive use of force, external deployments and the securitisation of political grievances transformed governance disputes into law-and-order crises.\nThe policy responses must also differ across provinces. Experts argue that in Balochistan, the priority should not be reversing the Levies merger but rather properly localising and civilianising the new policing structure while rebuilding community trust. Punjab requires greater accountability and specialisation within its expanding policing architecture. KP needs a clearer police-military operating framework that defines responsibilities and strengthens civilian law-enforcement capacities. Azad Kashmir requires political dialogue mechanisms to prevent governance disputes from escalating into security crises.\nUnless Pakistan places civilian policing and public safety at the centre of its security strategy, the gap between state power and citizen security will continue to widen.\nThe writer is a security expert.\nPublished in Dawn, July 5th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "Internal Security, Law and Order Challenges, and Policing Reforms in Pakistan",
+    "whyMatters": "This article does not directly address Pakistan's role in ECO or regional integration, therefore it is not relevant to the specified past exam question. However, it is critically important for understanding Pakistan's pervasive internal security challenges, weak policing structures, and their impact on governance and socio-economic stability, making it highly valuable for questions on national security, law enforcement reforms, and provincial challenges in Pakistan.",
+    "summary": [
+      "Pakistan's historic law-and-order issues have evolved into a complex multidimensional crisis, marked by blurred lines between militancy and criminality, impacting security, economy, social cohesion, and state legitimacy.",
+      "Major urban centers face growing insecurity from violent crime, extortion, targeted killings, and cyber-enabled criminality, while organised criminal syndicates and terrorist groups increasingly overlap.",
+      "Pakistan's colonial-era policing system remains unchanged, suffering from political interference and institutional neglect, with authorities prioritizing coercive legislation and stronger security institutions over accountable community policing.",
+      "Provincial challenges are distinct: Balochistan struggles with overlapping militant/criminal activities and operational issues post-Levies merger; KP faces urban penetration by terrorist and criminal networks; Azad Kashmir experiences security crises from mismanaged protests."
+    ],
+    "facts": [
+      "The most visible deterioration in law and order has occurred during the last five years.",
+      "The Punjab Control of Habitual Offenders and Anti-Social Behavior Bill, 2026, is cited as a recent example of coercive legislation.",
+      "Kidnapping for ransom is re-emerging as a significant challenge in Balochistan, KP, Sindh, and Punjab.",
+      "The merger of the century-old Levies Force into the Balochistan Police aimed to abolish 'A and B areas' distinction but created intelligence and trust deficits in rural areas."
+    ],
+    "academicReferences": [
+      "National Internal Security Policy (NISP), Government of Pakistan (e.g., 2014-2018 or subsequent iterations)",
+      "Police Order 2002, Government of Pakistan (for historical police reform attempts)",
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports (latest available for law-and-order overview)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Coercive",
+        "type": "adjective",
+        "definition": "Relating to or using force or threats.",
+        "sentence": "Instead of investing in accountable policing, the authorities are relying on coercive legislation."
+      },
+      {
+        "word": "Securitisation",
+        "type": "noun",
+        "definition": "The process of treating something as a security issue, giving it high priority and often military or intelligence involvement.",
+        "sentence": "The excessive use of force, external deployments and the securitisation of political grievances transformed governance disputes into law-and-order crises."
+      },
+      {
+        "word": "Writ of the state",
+        "type": "idiom",
+        "definition": "The authority and power of the government to enforce laws and maintain order within its territory.",
+        "sentence": "Organised criminal networks continue to flourish in areas where successive governments have struggled to establish the writ of the state."
+      },
+      {
+        "word": "Insulated",
+        "type": "adjective",
+        "definition": "Protected from something; separated from outside influences.",
+        "sentence": "Major urban centres, once considered relatively insulated from conflict, are increasingly exposed to violent crime."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified as a contributing factor to Pakistan's complex security landscape?",
+        "options": [
+          "Ethnic conflicts",
+          "Religiously motivated terrorism",
+          "Strong and accountable policing",
+          "Organised crime"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states 'weak policing' as a persistent feature, not strong and accountable policing."
+      },
+      {
+        "question": "The author criticizes the authorities for relying on what instead of investing in accountable policing?",
+        "options": [
+          "Community engagement programs",
+          "Coercive legislation",
+          "International police training",
+          "Cybersecurity frameworks"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Instead of investing in accountable policing, the authorities are relying on coercive legislation.'"
+      },
+      {
+        "question": "What was an immediate consequence of the merger of the Levies Force into the Balochistan Police?",
+        "options": [
+          "A significant increase in community trust across rural areas.",
+          "The complete eradication of militant organizations in Balochistan.",
+          "The creation of intelligence and trust deficits in several rural areas.",
+          "A dramatic improvement in conviction rates due to new procedures."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'Their disappearance has created intelligence and trust deficits in several rural areas.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary criticism leveled against Pakistan's policing system in the article?",
+        "back": "The policing system remains largely unchanged from its colonial structure, functioning as a political instrument rather than an autonomous public service, plagued by political interference, administrative weakness, and institutional neglect."
+      },
+      {
+        "front": "How does the article describe the blurring distinction between militancy and criminality?",
+        "back": "Terrorist organizations increasingly rely on criminal networks for financing and logistics, while criminal gangs exploit conflict environments for profit, creating an overlap that exacerbates the security crisis."
+      },
+      {
+        "front": "According to the article, what is the 'imbalance' producing troubling outcomes in Pakistan's security strategy?",
+        "back": "The imbalance is the reliance on coercive legislation and the subordination of civilian law-enforcement agencies to stronger security institutions (prioritizing national security threats), rather than investing in accountable policing, professional investigations, and local intelligence systems for public safety."
+      },
+      {
+        "front": "What specific policy recommendation is suggested for Punjab regarding its policing architecture?",
+        "back": "Punjab requires greater accountability and specialisation within its expanding policing architecture, rather than a focus on coercive legislation or subordination to stronger security institutions."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783303383352-683",
+    "title": "The annual test\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013082/the-annual-test",
+    "date": "2026-07-05",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN enters another monsoon season with little room for complacency. Last year’s rains claimed more than 1,000 lives, affected millions of people and left behind widespread destruction as floods, flash floods and landslides swept across the country. Homes were destroyed, roads and bridges washed away, crops damaged and communities cut off. Gilgit-Baltistan endured glacial lake outburst floods, while Punjab, KP, Sindh and Balochistan suffered heavy losses from intense showers. The damage extended beyond infrastructure, disrupting livelihoods and increasing pressure on already stretched public resources. Yet, despite these recurring disasters, Pakistan continues to rely too heavily on emergency relief instead of sustained preparedness. This year, the risks are mounting. Rapid glacier melt has already triggered flooding in parts of GB. The Met Office has, meanwhile, forecast above-normal rainfall this monsoon, warning of landslides in the northern regions and urban flooding in major cities. It has also cautioned that strong winds could damage electricity infrastructure, solar panels, trees and billboards.\nAgainst this backdrop, the prime minister’s review of monsoon preparedness is a welcome step. The decision to establish an Emergency Response Committee, hold weekly coordination meetings with the provinces, create an emergency relief fund, dispatch federal teams to all provinces, Azad Kashmir and GB, implement a flood mitigation roadmap, clear encroachments from flood pathways and mobilise all available administrative and technical resources reflects an awareness that disaster management cannot begin once floodwaters arrive. The additional allocation for major water infrastructure also acknowledges the need for longer-term investment. However, these decisions must be translated into action. Storm-water drains should be cleared before heavy rains begin, embankments and bridges inspected, rescue equipment and emergency shelters positioned in high-risk districts and early warning and evacuation systems put in place. Utility companies should inspect vulnerable transmission lines, local authorities should secure unstable billboards and hazardous trees and owners of rooftop solar systems should ensure mounting frames can withstand high winds. Local governments must be involved. Illegal construction on floodplains should be removed permanently. Pakistan cannot prevent every flood or landslide, but it can substantially reduce the loss of life and property if preparedness becomes a year-round priority rather than a seasonal exercise.\nPublished in Dawn, July 5th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Pakistan Affairs / Current Affairs / Environmental Science / Public Administration",
+    "topic": "Disaster Management, Climate Change Vulnerability, and Governance in Pakistan",
+    "whyMatters": "This article is crucial for competitive exams as it directly addresses Pakistan's recurring climate vulnerabilities and disaster management challenges, a frequent topic in Current Affairs and Pakistan Affairs. It provides critical insights into the government's preparedness strategies, highlighting the need for proactive measures over reactive relief efforts, essential for policy-oriented questions.",
+    "summary": [
+      "Pakistan faces severe, recurring monsoon-related disasters, causing significant loss of life, property, and livelihoods across all provinces and regions.",
+      "Despite these annual calamities, Pakistan's disaster response remains predominantly reactive, focusing on emergency relief rather than sustained, proactive preparedness.",
+      "Recent governmental initiatives, including the Prime Minister's review, establishment of an Emergency Response Committee, and a flood mitigation roadmap, are positive steps towards better preparedness.",
+      "Effective disaster management requires urgent, year-round implementation of preparedness measures, long-term infrastructure investment, clearance of encroachments, and robust local government involvement."
+    ],
+    "facts": [
+      "Last year’s rains claimed more than 1,000 lives and affected millions of people.",
+      "The Met Office has forecast above-normal rainfall for the upcoming monsoon, warning of landslides and urban flooding.",
+      "Rapid glacier melt has already triggered flooding in parts of Gilgit-Baltistan."
+    ],
+    "academicReferences": [
+      "National Disaster Management Act, 2010 (Pakistan's legal framework for disaster management)",
+      "Sendai Framework for Disaster Risk Reduction 2015-2030 (Global policy guide for DRR)",
+      "Pakistan's National Climate Change Policy 2012 (updated 2021) (National policy addressing climate vulnerabilities)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Complacency",
+        "type": "noun",
+        "definition": "a feeling of uncritical satisfaction with oneself or one's achievements.",
+        "sentence": "Pakistan enters another monsoon season with little room for complacency, given last year's devastating floods."
+      },
+      {
+        "word": "Encroachments",
+        "type": "noun",
+        "definition": "an intrusion on a person's territory, rights, or property; also, gradual intrusion or unlawful seizure.",
+        "sentence": "The flood mitigation roadmap emphasizes clearing encroachments from flood pathways to prevent future destruction."
+      },
+      {
+        "word": "Mitigation",
+        "type": "noun",
+        "definition": "the action of reducing the severity, seriousness, or painfulness of something.",
+        "sentence": "The government's decision to implement a flood mitigation roadmap reflects a commitment to reducing disaster impact."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as a primary reason for Pakistan's recurring heavy losses from monsoon disasters?",
+        "options": [
+          "Over-reliance on emergency relief instead of sustained preparedness.",
+          "Lack of accurate weather forecasting by the Met Office.",
+          "Insufficient international aid for disaster-stricken areas.",
+          "Absence of any governmental review of monsoon preparedness."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Yet, despite these recurring disasters, Pakistan continues to rely too heavily on emergency relief instead of sustained preparedness.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What key shift in disaster management approach does the article advocate for Pakistan?",
+        "back": "The article advocates for a shift from relying heavily on emergency relief to prioritizing sustained, year-round preparedness."
+      },
+      {
+        "front": "Name two specific regions/provinces mentioned in the article that suffered heavy losses from last year's monsoon.",
+        "back": "Gilgit-Baltistan (due to GLOFs) and provinces like Punjab, KP, Sindh, and Balochistan."
+      },
+      {
+        "front": "What is one critical measure the article suggests for immediate monsoon preparedness before heavy rains begin?",
+        "back": "Clearing storm-water drains, inspecting embankments and bridges, positioning rescue equipment, or establishing early warning and evacuation systems."
+      },
+      {
+        "front": "How does the article link illegal construction to disaster vulnerability?",
+        "back": "It states that illegal construction on floodplains should be removed permanently to substantially reduce the loss of life and property."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783303518696-170",
+    "title": "Who counts?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013086/who-counts",
+    "date": "2026-07-05",
+    "author": "none@none.com (Muna Khan)",
+    "content": "THE Committee to Protect Journalists has spent the war in Gaza producing the number everyone cites — 209 at last count. It is the figure that goes into headlines, into UN statements, into the columns of people like me who want a shorthand for a toll too large to itemise. It is also, CPJ now tells us, a number that just got smaller — 20 names have been removed from the list: eight because Hamas and Palestinian Islamic Jihad (PIJ) published obituaries claiming the dead as combatants, and 12 for reasons it hasn’t detailed.\nCPJ says it has always excluded anyone with evidence of direct participation in hostilities, consistent with international humanitarian law, under which journalists affiliated with non-state actors remain civilians unless they fight. CPJ’s CEO Jodie Ginsberg says the organisation is reviewing every name on its lists to make sure no one engaged in combat remains. That review is expected to finish this month.\nOnline, the removals were read as something else: a quiet redefinition of who counts as a journalist, timed to placate critics who have spent two years accusing dead Palestinian reporters of having been militants in disguise. CPJ has now pushed back. Recently, its board voted to affirm the organisation’s existing definition of a journalist and rejected claims that it planned to change it to exclude slain Palestinian and Lebanese press. Such allegations, board chair Jacob Weisberg said, undermine years of rigorous documentation and endanger the journalists still on the ground; the board, he added, stands fully with CPJ’s staff.\nThat may be a firmer answer than silence, and should be noted. But look at what it answers and what it doesn’t. The denial addresses the definition. It does not explain the 12 names removed without detail. And the number still moved because two armed groups decided, after the fact, to claim some of the dead as their own. Sit with that for a moment. Hamas and PIJ wrote obituaries honouring some men as fighters. CPJ had counted the same men as journalists. Both are, in effect, arguing over a corpse’s biography, and the corpse cannot object to either claim.\nA journalist in the midst of war is not a fixed identity.\nA journalist in the midst of war is not a fixed identity. The identity is a designated institution’s conferral, and institutions confer designations under pressure: from grief, from politics, from the people funding them, from the people threatening them. CPJ has been threatened from one direction for two years, accused of inflating a death toll to indict Israel. It is now also being pulled from another, by groups eager to count their dead as soldiers, because a soldier’s death serves a different story than a reporter’s.\nNone of this exonerates Israel, which has killed more journalists in this war than in any conflict CPJ has documented since 1992; it continues to deny international media entry into Gaza. It is Israel that created the conditions in which the obituaries became evidence in the first place: no foreign press on the ground, no independent verification possible, every fact about every death arriving through whichever party survived to tell it. CPJ has said this itself, repeatedly.\nWhich leaves the issue the board’s statement did not touch. Palestinian and Lebanese reporters who worked for government-funded outlets have had their status questioned. Israeli reporters embedded with the IDF, drawing on its briefings, sometimes wearing its uniform, have not. Ukrainian journalists at state-funded outlets have not. If proximity to a state or a military is grounds for scrutiny, the standard should run in every direction it can run. If it is not, CPJ should explain why eight Palestinian na­­mes came off the list anyway, and what happened to the other 12. Affir­ming a definition is not the same as showing it has been applied evenly.\nI do not know whether CPJ moved under pressure or to correct an ‘error’ once it was pointed out. Both are possible. For three decades CPJ has been the record-keeper journalists trust when no one else is counting, and that is precisely the problem: an institution whose reputation rests on consistency cannot afford even the appearance that its consistency bends, however briefly or unintentionally. The damage is not abstract. A reporter in danger, weighing whether to call CPJ for emergency assistance, for advocacy, for someone to say their name when a government will not, now has a new question: does the organisation’s protection follows principle or power?\nTwo hundred and nine became 189 in a week. This week’s statement defended the definition. It did not account for the campaign that made finding combatants so urgent all of a sudden, or for the names that vanished without explanation. Until it does, the omission will keep doing the work that the obituaries started.\nThe writer conducts writing workshops in Karachi.\nX: @LedeingLady\nPublished in Dawn, July 5th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-PAL",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Palestine conflict is a long-standing one on the United Nations table. Discuss its recent escalation since October 2023 and critically assess the big powers’ reaction to it."
+    },
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Current Affairs",
+    "topic": "Media Accountability, Narrative Control, and Verification Challenges in the Israel-Gaza Conflict",
+    "whyMatters": "This article offers a critical lens on the information war inherent in the Israel-Gaza conflict, revealing how casualty counts and definitions become contested terrain. It provides nuanced arguments regarding the challenge of independent verification and the politicization of data, which is essential for a comprehensive \"critically assess\" component of the specified exam question.",
+    "summary": [
+      "The Committee to Protect Journalists (CPJ) reduced its reported death toll of journalists in Gaza, removing 20 names, with reasons varying from posthumous claims by armed groups (Hamas/PIJ) of combatant status to unexplained removals.",
+      "CPJ maintains it adheres to international humanitarian law by excluding combatants, but the reclassification has sparked accusations of redefining \"journalist\" under pressure to placate critics.",
+      "The incident highlights the fluid and contested nature of a \"journalist's identity\" in a war zone, influenced by institutional pressures, funding, and the narratives different parties wish to promote.",
+      "The article argues that the controversy damages CPJ's reputation for consistency, raising questions about whether its protection follows principle or power, especially given Israel's restrictions on independent verification."
+    ],
+    "facts": [
+      "CPJ's initial count of journalists killed in Gaza was 209, later reduced to 189 after 20 names were removed.",
+      "Eight names were removed because Hamas and Palestinian Islamic Jihad (PIJ) published obituaries claiming the dead as combatants.",
+      "Israel has killed more journalists in the current conflict than in any other CPJ has documented since 1992."
+    ],
+    "academicReferences": [
+      "International Humanitarian Law (IHL) and the Geneva Conventions: Essential for understanding the protection of civilians and non-combatants in armed conflict.",
+      "Reporters Without Borders (RSF) Annual Reports: Provide crucial data and analysis on press freedom and journalist safety globally, particularly in conflict zones.",
+      "Edward S. Herman & Noam Chomsky, \"Manufacturing Consent: The Political Economy of the Mass Media\": Offers a theoretical framework for analyzing how media shapes public opinion and narratives in conflicts."
+    ],
+    "vocabulary": [
+      {
+        "word": "itemise",
+        "type": "verb",
+        "definition": "to list things separately, usually with details.",
+        "sentence": "The toll was too large to itemise, requiring a shorthand figure for public consumption."
+      },
+      {
+        "word": "placate",
+        "type": "verb",
+        "definition": "to make someone less angry or hostile, often by making concessions.",
+        "sentence": "The removals were read as an attempt to placate critics who accused dead Palestinian reporters of being militants."
+      },
+      {
+        "word": "exonerates",
+        "type": "verb",
+        "definition": "to clear someone from blame or guilt.",
+        "sentence": "None of this exonerates Israel, which has killed more journalists in this war than in any conflict CPJ has documented since 1992."
+      },
+      {
+        "word": "conferral",
+        "type": "noun",
+        "definition": "the act of granting a title, right, or degree.",
+        "sentence": "A journalist's identity in the midst of war is often an institution’s conferral, given under various pressures."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason the article critiques the Committee to Protect Journalists (CPJ) regarding its count of journalists killed in Gaza?",
+        "options": [
+          "CPJ's inconsistent application of its definition of a journalist in conflict zones.",
+          "CPJ's failure to document any journalist deaths before October 2023.",
+          "CPJ's explicit change in its definition of a journalist to exclude Palestinian reporters.",
+          "CPJ's refusal to acknowledge any journalists embedded with armed groups."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article's core critique is that CPJ, while denying a definition change, is perceived to have applied its definition inconsistently, especially concerning the removal of names without full explanation and the differing standards applied to various reporters (Palestinian vs. Israeli/Ukrainian state-funded outlets)."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core controversy surrounding CPJ's updated journalist casualty figures in the Gaza conflict?",
+        "back": "CPJ reduced its reported death toll by 20 names, citing posthumous claims by armed groups that some were combatants and other unexplained removals, leading to accusations of inconsistent application of its journalistic definition."
+      },
+      {
+        "front": "How does the article characterize the identity of a journalist in a war zone?",
+        "back": "As \"not a fixed identity,\" but rather a \"designated institution’s conferral,\" influenced by external pressures from grief, politics, funders, and threats."
+      },
+      {
+        "front": "What is the significance of Hamas and PIJ publishing obituaries claiming some of the dead as combatants?",
+        "back": "It transformed what CPJ considered journalists into combatants post-mortem, highlighting the struggle over narrative and the \"corpse's biography\" in the absence of independent verification."
+      },
+      {
+        "front": "What key challenge does the article identify regarding independent verification in the Gaza conflict?",
+        "back": "Israel's denial of entry to international media into Gaza creates conditions where no foreign press can independently verify facts, making every death account reliant on surviving parties and exacerbating the information war."
+      }
+    ]
+  },
+  {
     "id": "curated-1783128919486-343",
     "title": "Sindh’s NFC paradox\n",
     "source": "Dawn",
