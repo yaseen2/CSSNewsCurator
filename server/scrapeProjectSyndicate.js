@@ -61,7 +61,11 @@ async function scrapeProjectSyndicate() {
     
     const targetPages = [
       'https://www.project-syndicate.org/',
-      'https://www.project-syndicate.org/commentary'
+      'https://www.project-syndicate.org/archive',
+      'https://www.project-syndicate.org/section/economics',
+      'https://www.project-syndicate.org/section/politics-world-affairs',
+      'https://www.project-syndicate.org/section/environment-sustainability',
+      'https://www.project-syndicate.org/section/innovation-technology'
     ];
 
     const discoveredUrls = new Set();
