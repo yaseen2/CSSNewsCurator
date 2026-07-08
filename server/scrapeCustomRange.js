@@ -269,8 +269,8 @@ async function run() {
 
       if (keepPaginating) {
         pageNumber++;
-        if (pageNumber > 25) { // safety limit
-          console.log('[+] Safety limit of 25 listing pages reached. Stopping pagination.');
+        if (pageNumber > 60) { // safety limit
+          console.log('[+] Safety limit of 60 listing pages reached. Stopping pagination.');
           break;
         }
       }
