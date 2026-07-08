@@ -160,7 +160,10 @@ async function scrapeProjectSyndicate() {
                         'Untitled Article';
 
           // Find Author
-          const author = getText('a[rel="author"]') || 
+          const author = getText('a[href*="/columnist/"]') || 
+                         getText('.byline a') || 
+                         getText('.byline') || 
+                         getText('a[rel="author"]') || 
                          getText('.article-header__author') || 
                          getText('.article__author') || 
                          getText('.author-name') || 

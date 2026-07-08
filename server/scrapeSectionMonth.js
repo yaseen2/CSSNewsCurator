@@ -162,7 +162,13 @@ async function run() {
             };
 
             const title = getText('h1.article-header__title') || getText('h1.article__title') || getText('h1') || 'Untitled';
-            const author = getText('a[rel="author"]') || getText('.author-name') || 'Unknown Author';
+            const author = getText('a[href*="/columnist/"]') || 
+                           getText('.byline a') || 
+                           getText('.byline') || 
+                           getText('.author-name') || 
+                           getText('.article-header__author') || 
+                           getText('.article__author') || 
+                           'Unknown Author';
             const date = getText('.article-header__date') || getText('.article__pub-date') || getText('time') || '';
             const paras = getParagraphs(['.article__body-text p', '.article__content p', '.article__body p', 'article p']);
 
