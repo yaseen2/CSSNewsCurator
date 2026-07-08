@@ -355,7 +355,9 @@ async function run() {
 
     console.log('[+] Generating PDF layout using Puppeteer...');
     const printPage = await browser.newPage();
-    await printPage.goto(`file://${tempHtml}`, { waitUntil: 'networkidle0' });
+    await printPage.setDefaultNavigationTimeout(0);
+    await printPage.setDefaultTimeout(0);
+    await printPage.goto(`file://${tempHtml}`, { waitUntil: 'domcontentloaded', timeout: 0 });
     
     await printPage.pdf({
       path: pdfPath,
