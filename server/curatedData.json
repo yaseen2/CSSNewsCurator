@@ -1,5 +1,682 @@
 [
   {
+    "id": "curated-1783474039826-439",
+    "title": "Federation finance\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013526/federation-finance",
+    "date": "2026-07-07",
+    "author": "none@none.com (Dr Niaz Murtaza)",
+    "content": "FEDERATIONS devolve power constitutionally across state tiers. They ensure equity via fiscal transfers from rich to poor sub-units. Devolution makes power responsive. Equity cements national bonds despite diversity. Both together ensure peace and progress. Budgets help review both.\n\nWe give 57.5 per cent of federal taxes to the provinces. But once we count all revenues and provincial surpluses, the figure falls near 40pc, lower than in most large developing states. The transfers do raise equity as Balochistan’s per capita budget is now about Rs70,000 and Punjab’s about Rs45,000. But Balochistan is still the poorest unit after 16 years of devolution. We must study Australia’s unique system that ensures that each state has funds for similar services in line with local needs. Equity is also about which sub-units fund others. Rough data suggests only Sindh may be doing so (mainly due to Karachi). Punjab may be in deficit despite being the richest, biggest and strongest unit. So, the 82pc weight for population in NFC Awards must be cut in favour of poverty.\n\nOur centre, provinces and local bodies spend about 70pc, 25pc and 5pc of all state outlays. The mean federal share among peer states is about 50pc. So, we are among the less devolved states and our federal share is rising despite devolution. The centre’s own funds after provincial transfers just cover debt and defence outlays; it borrows 35-40pc more for other outlays.\n\nOur ratios of debt (45pc) and defence (15pc) spending in federal outlays exceed those of most of our peers but those of social outlays and tax-to-GDP are lower. Even so, the fiscal deficit and Rs1.7 trillion that the provinces gave up can be covered by raising GDP growth to generate more taxes. We must also cut some of the Rs5.8tr worth of tax exemptions and subsidies, the nearly Rs800 billion that loss-making state units bleed, and hundreds of billions of waste in state outlays. These inherent ills cause deficits. But, because they serve their interests, our rulers want to, instead, buck the global trend towards fiscal devolution.\n\nWe must raise more taxes progressively.\n\nFederal transfers fund about 80pc to 84pc of the budgets of Sindh, Punjab and Balochistan; 90pc of KP’s budget, and 95pc of the Gilgit-Baltistan and Azad Kashmir budgets. Hence, critics say the provinces don’t raise enough taxes. However, the biggest tax heads lie with the centre to enable transfers from rich to poor units. Hence, the funds going to the provinces aren’t really the centre’s own. This skewed revenue ratio is misleading. While some say it can be fixed by giving more tax heads to the provinces, this would sacrifice equity. Studies show provinces can raise Rs1-2tr more taxes via more effort; but the centre can raise Rs4-6tr more. Most provincial-level revenues come from indirect taxes — about 50pc from sales tax on services. So, nearly 65-70pc of revenues at all levels come via anti-poor, indirect levies. Agricultural taxes in land-rich Punjab and Sindh provide only 2-3pc of provincial revenues and 7-9pc in KP and Balochistan.\n\nSocial sectors (health, education, development, social protection, etc) consume around half of the provinces’ outlays. While a new World Bank report says that 75pc of the spending is for current costs such as salaries, many say that the salaries of direct service providers, including school and health staff, should be seen as programme costs. The value of these outlays is unclear as our social indicators haven’t improved much since 2008, more so in Sindh and Balochistan despite their higher per capita budgets.\n\nEven in big cities, our local bo­­dies don’t have sufficient taxat­ion and collection powers and their dependen­­ce on often opa­que provincial transfers is up to 90pc. Provincial entities often usurp their functions and funds. Lack of data constrains deeper analysis. Islamabad has the most fiscally devolved and functionally integrated system and its results show. Even then, it needs an elected set-up running development and other areas. Many states constitutionally protect the mandates, funds and functions of even local bodies.\n\nOur federation finances exhibit low efficiency, effectiveness and equity. To fix these gaps, we must raise more taxes progressively; improve the accountability and outcomes of all outlays via transparent data sharing; increase fiscal devolution and pro-poor outlays; tie federal transfers more closely to needs and outcomes; ensure all rich units contribute fairly; and constitutionally protect the mandates, funds and functions of local bodies. We need legitimate and empowered set-ups to effect such big changes.\n\nThe writer holds a PhD in political economy from the University of California, Berkeley, and has 25 years of grassroots to senior-level experience across 50 countries.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Pakistan Affairs / Economics / Public Administration",
+    "topic": "Fiscal Federalism, Devolution, and Financial Challenges in Pakistan",
+    "whyMatters": "This article critically analyzes Pakistan's fiscal federalism, highlighting inefficiencies in revenue sharing, inter-provincial equity, and local governance. It is crucial for understanding the structural economic challenges and proposed reforms pertinent to governance and economic stability in Pakistan.",
+    "summary": [
+      "Pakistan's fiscal devolution model grants provinces a lower share of total revenues (40%) compared to other large developing states, despite significant federal tax transfers.",
+      "The current NFC Award formula, heavily weighted towards population, fails to ensure equitable development outcomes, with richer provinces potentially in deficit while poorer ones remain underdeveloped.",
+      "The federal government maintains a disproportionately high share of total state outlays (70%) compared to international peers, leading to increasing debt and defense spending, while resisting greater fiscal devolution.",
+      "Ineffective provincial tax collection, over-reliance on anti-poor indirect taxes, and severely constrained local bodies contribute to low efficiency, effectiveness, and equity in the federation's finances."
+    ],
+    "facts": [
+      "Provinces receive 57.5% of federal taxes, but this figure falls to about 40% when all revenues and provincial surpluses are accounted for.",
+      "The centre, provinces, and local bodies spend approximately 70%, 25%, and 5% of all state outlays, respectively, with the federal share rising despite devolution.",
+      "Federal transfers fund 80-84% of the budgets for Sindh, Punjab, and Balochistan, 90% for KP, and 95% for Gilgit-Baltistan and Azad Kashmir."
+    ],
+    "academicReferences": [
+      "The 18th Constitutional Amendment of Pakistan (2010)",
+      "The National Finance Commission (NFC) Award",
+      "Public Expenditure and Financial Accountability (PEFA) Framework"
+    ],
+    "vocabulary": [
+      {
+        "word": "devolve",
+        "type": "verb",
+        "definition": "Transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
+        "sentence": "Federations devolve power constitutionally across state tiers to ensure responsive governance."
+      },
+      {
+        "word": "outlays",
+        "type": "noun",
+        "definition": "An amount of money spent on something.",
+        "sentence": "The centre's own funds after provincial transfers just cover debt and defence outlays."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary reason cited for the lack of improvement in social indicators despite significant provincial social sector outlays?",
+        "options": [
+          "Insufficient federal transfers to provinces.",
+          "A significant portion (75%) of spending is allocated to current costs like salaries, not direct programs.",
+          "Provinces prioritize infrastructure development over social services.",
+          "The World Bank report found social sector spending to be completely ineffective."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that 'a new World Bank report says that 75pc of the spending is for current costs such as salaries,' which impacts the effectiveness of social outlays despite higher per capita budgets in some provinces."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main critique regarding the current weight of population in NFC Awards?",
+        "back": "The 82% weight for population must be cut in favor of poverty to ensure more equitable distribution and better development outcomes across sub-units."
+      },
+      {
+        "front": "How does the federal government's share of total state outlays in Pakistan compare to its peer states?",
+        "back": "Pakistan's federal share (about 70%) significantly exceeds the mean federal share of about 50% in peer states, indicating it is among the less devolved states and its federal share is rising."
+      },
+      {
+        "front": "What are the key recommendations for improving Pakistan's federation finances, as suggested by the article?",
+        "back": "Raise progressive taxes; improve accountability via transparent data; increase fiscal devolution and pro-poor outlays; tie federal transfers to needs and outcomes; ensure all rich units contribute fairly; and constitutionally protect local bodies."
+      },
+      {
+        "front": "Why is the argument that provinces don't raise enough taxes considered misleading by the author?",
+        "back": "The biggest tax heads are with the center to enable rich-to-poor transfers, meaning the funds transferred to provinces aren't truly the center's 'own,' creating a skewed and misleading revenue ratio."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783473875533-555",
+    "title": "Political matters\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013528/political-matters",
+    "date": "2026-07-07",
+    "author": "none@none.com (Arifa Noor)",
+    "content": "A RECENT World Bank report has looked into the NFC Award post-18th Amendment and provided some interesting details. For instance, it has shown how the bulk of the money seems to have gone into expanding local bureaucracies in health and education. It notes that 80 per cent of provincial spending is recurrent spending (a fancy way of saying it goes towards salaries and similar expenditures). It also argues that higher spending hasn’t improved health and education indicators all that much. Among other issues, the report has pointed out the provinces’ failure to shape rules for the fair and institutionalised distribution of funds to the local level. Even where the rules are clear or formalised, fund distribution remains patchy and is dependent on the provincial government’s largesse.\n\nIn fact, the report points out that spending at the local government level had fallen from 10pc in 2005 to 5pc by 2011; it has remained stuck at this number. For the sake of contrast, India spends 12pc at the LG level, Nepal 24pc and China 74pc. In other words, regardless of when LGs were introduced in the provinces and whether or not elections were held regularly, they have remained limited financially. It seems as if the provinces which have jealously guarded their own share of the NFC from the centre have also protected it equally passionately from the local level.\n\nThe report mentions that because devolution did not expand further, the 18th Amendment has made the financial burden at the federal level excessive, while the provinces have little reason to improve governance or delivery. This is not to say, however, that the federal government is blameless; it has not made any effort to reduce its expenses and has, in fact, added to the salary bill, despite the devolution of a number of ministries to the provinces. The number of employees of the devolved ministries has stayed around 25,000 since the amendment was passed. The report says that employment in the non-devolved ministries has increased by 85pc. Both the federal and provincial levels have continued to hire at a breathtaking speed.\n\nThe report goes on to talk about problem areas such as the lack of accountability or the gap between taxation and revenue. It has focused on financial and delivery issues and not really discussed the political side of it for obvious reasons. But for those of us who understand very little economics and find politics easier, the 18th Amendment had an extraordinary effect on the politics of the country.\n\nThe 18th Amendment, which was aimed at boosting democracy, ended up weakening it in some ways.\n\nThe first rather obvious impact is that, other than Balochistan, the 18th Amendment consolidated the rule of three parties in the three provinces — the PTI in KP, the PPP in Sindh and the PML-N in Punjab. One can go so far as to say that the amendment has allowed the political parties to entrench themselves in their respective provinces by establishing patronage-based systems. This is why the only time there is a threat to their presence or ‘popularity’ is when there is a civil-military rift. This is why the 2018 election led to a change in Punjab. The point here is not to say that the people will never vote for change but just that the systems set up in each province will not yield easily to a change of parties.\n\nSecond, to some extent the 18th Amendment left the two traditional parties little reason to preserve their federal nature. Unlike the 1990s, when the PPP and PML-N strived hard to guard their political space outside their main provinces — the PML-N took an interest in Sindh and parts of the KP while the PPP was a significant player in KP and Punjab — the amendment simply shrank their political horizons.\n\nThe PPP is willing to make any compromise possible as long as it retains Sindh. Consider that the party has been unwilling to share funds with the former Fata region even though the security situation in KP can and will spill over into the rest of the country. The party’s efforts to mobilise in Punjab or KP since 2008 have been cosmetic and superficial. No one takes it seriously, not even the party’s own provincial leadership. The PML-N has behaved no differently, focusing federal spending on building road networks in Punjab or putting up a coal power plant in the province. Where it once had senior people leading the party in provinces such as Sindh, it now has no electable face present.\n\nIt is worth pointing out that this deliberate ‘shrinking’ also created the vacuum which led to the rise of the PTI; the voters wanting a choice in Sindh or Punjab had no option but to look for a third option because the older parties were no longer interested. This can be one factor behind the popularity of the PTI.\n\nThird, the amendment has also allowed all three parties to turn the provinces into fiefdoms. What this means is that MNAs and MPAs are now entirely dependent on the party ruling the province that they belong to. No longer can they survive with the assistance or support of a party that perhaps is not in a position to win the provincial assembly. This is evident in the manner in which anti-PPP pockets in Sindh have joined the party, as well as in the inability of any electable to survive outside the PTI umbrella in KP. This also means that the politicians are so dependent on the party that there can be no dissent or difference of opinion. Indeed, the 18th Amendment, which was aimed at strengthening democracy or provincial rights, ironically ended up weakening it in some ways.\n\nThis, however, is not meant to provide justification for the rollback of the amendment but to simply point out that the 18th Amendment should have been one moment in the journey towards devolution and better services — rather than the destination the political leadership wants it to be. The sooner they realise it and fix the problem, the better — before there is external intervention.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2022-FED",
+      "paper": "Pakistan Affairs",
+      "year": 2022,
+      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
+    },
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs",
+    "topic": "Federal Structure and 18th Amendment",
+    "whyMatters": "This article critically analyzes the fiscal and political implications of the 18th Amendment, providing essential arguments and data points for discussing its impact on Pakistan's federal structure and the reasons for recent criticisms. It offers a nuanced perspective on devolution and its unintended consequences for governance and democracy.",
+    "summary": [
+      "A World Bank report indicates that post-18th Amendment NFC Award funds primarily expanded provincial bureaucracies in health and education, with 80% of provincial spending being recurrent and higher spending not significantly improving indicators.",
+      "Provinces have largely failed to institutionalize fair fund distribution to local levels, leading to a significant drop in local government spending from 10% in 2005 to 5% by 2011, remaining stagnant.",
+      "The 18th Amendment led to an excessive financial burden at the federal level and reduced provincial incentives for governance improvement, while both federal and provincial governments continued rapid hiring, increasing non-devolved ministry employment by 85%.",
+      "Politically, the 18th Amendment consolidated the rule of major parties in their respective provinces, shrinking their federal outreach, fostering patronage systems, and turning provinces into 'fiefdoms' where political dissent is stifled."
+    ],
+    "facts": [
+      "80% of provincial spending post-18th Amendment is recurrent spending, primarily on salaries.",
+      "Local government spending in Pakistan fell from 10% in 2005 to 5% by 2011, compared to India (12%), Nepal (24%), and China (74%).",
+      "Employment in non-devolved federal ministries increased by 85% after the 18th Amendment, despite devolution of several ministries."
+    ],
+    "academicReferences": [
+      "World Bank Report on NFC Award post-18th Amendment (as cited in the article)",
+      "18th Amendment to the Constitution of Pakistan",
+      "National Finance Commission (NFC) Award"
+    ],
+    "vocabulary": [
+      {
+        "word": "Recurrent",
+        "type": "adjective",
+        "definition": "Occurring often or repeatedly; in finance, referring to expenses that are ongoing.",
+        "sentence": "The report highlights that 80 per cent of provincial spending is recurrent spending, primarily allocated to salaries."
+      },
+      {
+        "word": "Largesse",
+        "type": "noun",
+        "definition": "Generosity in bestowing money or gifts upon others.",
+        "sentence": "Fund distribution at the local level remains dependent on the provincial government's largesse rather than institutionalized rules."
+      },
+      {
+        "word": "Entrench",
+        "type": "verb",
+        "definition": "Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely.",
+        "sentence": "The amendment has allowed the political parties to entrench themselves in their respective provinces by establishing patronage-based systems."
+      },
+      {
+        "word": "Fiefdom",
+        "type": "noun",
+        "definition": "An area over which one dominant person or group has complete control.",
+        "sentence": "The amendment has allowed all three parties to turn the provinces into fiefdoms, where local politicians are entirely dependent on the ruling party."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was a significant financial consequence of the 18th Amendment regarding local governments?",
+        "options": [
+          "Local government spending significantly increased due to greater provincial autonomy.",
+          "Local government spending fell from 10% in 2005 to 5% by 2011 and remained stagnant.",
+          "Provinces successfully institutionalized fair fund distribution to local levels.",
+          "The federal government directly funded local governments after the amendment."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'spending at the local government level had fallen from 10pc in 2005 to 5pc by 2011; it has remained stuck at this number,' indicating a significant financial consequence."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How did the 18th Amendment impact political party consolidation in Pakistani provinces?",
+        "back": "It consolidated the rule of specific parties (PTI in KP, PPP in Sindh, PML-N in Punjab), allowing them to entrench themselves through patronage systems, and reducing the likelihood of significant change."
+      },
+      {
+        "front": "What were the financial and governance criticisms leveled against the 18th Amendment's implementation regarding federal and provincial spending?",
+        "back": "The amendment increased the federal financial burden, while provinces lacked incentive to improve governance. Both levels engaged in rapid hiring, with non-devolved ministry employment increasing by 85%, and provincial spending being 80% recurrent without commensurate improvements in health/education."
+      },
+      {
+        "front": "Explain how the 18th Amendment led to a 'shrinking' of political horizons for traditional parties like PPP and PML-N.",
+        "back": "Unlike the 1990s, these parties reduced their efforts to gain political space outside their main provinces, focusing almost exclusively on their strongholds (PPP in Sindh, PML-N in Punjab). This created a vacuum that facilitated the rise of new parties like PTI."
+      },
+      {
+        "front": "What is the article's concluding perspective on the 18th Amendment's role in Pakistan's journey towards devolution?",
+        "back": "The article argues that the 18th Amendment should be viewed as one moment in the journey towards devolution and better services, rather than the ultimate destination, implying that further reforms are necessary to fix its shortcomings."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783473794785-204",
+    "title": "Looking for an Alexander\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013527/looking-for-an-alexander",
+    "date": "2026-07-07",
+    "author": "none@none.com (Jawed Naqvi)",
+    "content": "SCORES of public intellectuals, former diplomats and erstwhile denizens of the deep state from India and Pakistan renewed a call recently for the resumption of peace talks and friendlier relations between their strained countries. They sought restoration of full diplomatic ties and reopening of trade routes with improved transportation links. They sought to make it easier to get visas to encourage and enable people from both countries to visit each other. The statement argued that continued tension hurts millions of young people. The activists asked leaders to put the welfare of the people ahead of conflict. What could be worthier than the charter of utterly reasonable demands for a more harmonious and integrated South Asia? It’s an increasingly overdue need.\n\nHowever, the call for peace came at a time when Pakistan had locked up the main opposition party in the person of its charismatic leader. India on its part has preferred a similar route but by locking out the opposition from its critical role inside and outside parliament. In a blow to the pit of popular will that could maim a democracy, India’s election commissioner is now handpicked by Prime Minister Narendra Modi, while the judiciary appears to have surrendered to his right-wing agenda. Similar undermining of democratic institutions has been observed in Pakistan. Therefore, the question compels to be posed. How many of the peaceniks have the wherewithal or the interest to change the domestic realities that deter peace, and how many see India-Pakistan peace as a possibility despite regressive governments in their corners?\n\nThere is a third category in my field of vision, one which prefers cross-border support for democracy in their troubled neighbourhood. Camaraderie of the people is most needed, according to this lot, to shore up democracy on both sides. There was indeed a time when Ayub Khan’s military regime saw Indians linking up with Pakistani masses to challenge the usurper. A popular poem by India’s Majrooh Sultanpuri harks to the time. Borrowed from mediaeval poet Kabir’s dohas, the lines expressed solidarity boldly with those fighting Ayub — “Jala ke mishal-i-jaa’n hum junoo’n sifaat chale/ Jo ghar ko aag lagae hamarey saath chale”. To clarify, Majrooh was also an ardent critic of Jawaharlal Nehru whom he described in a potent poem as a grovelling slave of the British Commonwealth. Majrooh spent time in jail for writing the poem but used the incarceration to pen unforgettable lyrics for a blockbuster movie of the 1950s, Andaz.\n\nThat there are two opposite views among progressive activists on this issue dawned on me the day I sped off from JNU in Delhi with Pakistan’s leftist poets Fahmida Riaz and Ahmed Faraz in my jeep to rescue them from a right-wing mob incensed by a poem Fahmida recited at the university mushaira. ‘Tum bilkul hum jaisey nikley’ would become hugely popular with progressive intellectuals across India. But Faraz was livid with Fahmida, saying she had got him involved in an event staged by leftist critics of the Vajpayee government, which had issued them their visas. Fahmida asserted that it was only by standing with the comrades in India and by fighting their battles with empathy and moral support jointly that one could hope for genuine peace. Both poets had fought dictatorships in Pakistan but took opposite positions on the question of democracy on the other side of the fence.\n\nOn the larger canvas of bilateral ties —or their absence — the call for peace seems an old one, but the circumstances are newly minted.\n\nOn the larger canvas of bilateral ties (or their absence) the call for peace seems an old one, but the circumstances are newly minted. India and Pakistan have been at daggers drawn virtually since their birth, but May 2025 was when Modi ordered air and missile strikes inside Pakistan and called it Operation Sindoor. India blamed Pakistan for the terror attack in Pahalgam in April last year. The military stand-off was touted as its revenge. The May 7-10 air and missile battles saw Pakistan responding robustly with its own Operation Bunyan um Marsoos, or impenetrable defence. It claimed downing several Indian warplanes with sophisticated China-made radars and air-to-air missiles. India’s defence minister denied losing any plane or personnel at the time though the government has now admitted to the death of at least six soldiers in the episode.\n\nFrom Pakistan’s perspective, India’s move to disregard or annul the Indus Waters Treaty poses an equally threatening existential challenge. When Shailendra Singh, a former high commissioner to Pakistan demanded after his retirement that India stop the Indus water flow into Pakistan, Dr Mubashir Hasan, the late public intellectual and water minister in Z.A. Bhutto’s cabinet, warned it would be an act of war. That warning still stands as Modi says the Operation Sindoor has been paused but not ended. Under the circumstances, what any peace activist may at best hope for is an armistice à la the Koreas where the 1950s war hasn’t technically ended. Nehru had helped bring about the continuing tense peace, but for better or worse, it has lasted.\n\nThe Pakistani component seeking peace with India has a better chance of kindling a public debate in their country on the issue of peace as opposed to Indians. As the cookie crumbles, the opposition in Pakistan still has support in the mainstream media, crucially the TV channels. In India, the washout seems complete, and the opposition uses online channels to express its views on domestic and foreign policies though peace with Pakistan is not quite their priority. The Shiv Sena and other members of the INDIA alliance are struggling to keep their heads above the nationalist current, politically speaking. Worse, the online channels they lean on are also being increasingly targeted, and laws are on the anvil to gag them.\n\nDo the peaceniks have anyone capable in their ranks to unravel the Gordian Knot of stubborn aloofness? In the Greek legend, it took Alexander the Great to do the needful. When he couldn’t untangle the knot, he cut it with a single stroke of his sword.\n\nThe writer is Dawn’s correspondent in Delhi.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Current Affairs / International Relations",
+    "topic": "India-Pakistan Relations: Challenges to Peace and Regional Integration",
+    "whyMatters": "This article is highly relevant for understanding the complex dynamics of India-Pakistan relations and the domestic political challenges hindering peace efforts in South Asia. However, it does not discuss the Economic Cooperation Organization (ECO) or Pakistan's historic role within it, making it irrelevant for the specific exam question provided on ECO.",
+    "summary": [
+      "A recent call for renewed peace talks between India and Pakistan by public intellectuals and former diplomats sought restoration of diplomatic ties, trade routes, and easier visas, emphasizing the welfare of millions of young people.",
+      "Domestic political realities in both India and Pakistan, characterized by the undermining of democratic institutions and suppression of opposition, are identified as major deterrents to peace efforts.",
+      "Progressive activists hold differing views on achieving peace, with some advocating for cross-border support for democracy to strengthen civil society, while others prioritize immediate bilateral peace despite regressive governments.",
+      "Recent military escalations (India's Operation Sindoor and Pakistan's Operation Bunyan um Marsoos in May 2025) and the threat to annul the Indus Waters Treaty highlight the heightened existential challenges, making a lasting peace akin to an armistice.",
+      "Prospects for initiating public debate on peace are considered better in Pakistan due to opposition support in mainstream media, whereas in India, the opposition faces a complete washout and increasing online censorship."
+    ],
+    "facts": [
+      "Scores of intellectuals and former diplomats from India and Pakistan called for peace talks, full diplomatic ties, trade, and easier visas.",
+      "India's military action in May 2025, dubbed 'Operation Sindoor', involved air and missile strikes inside Pakistan.",
+      "Pakistan responded with 'Operation Bunyan um Marsoos' (impenetrable defence), claiming to have downed Indian warplanes."
+    ],
+    "academicReferences": [
+      "C. Raja Mohan, 'India's Foreign Policy: A Grand Strategy for the 21st Century'",
+      "Ayesha Jalal, 'The Struggle for Pakistan: A Muslim Homeland and Global Problems'",
+      "Indus Waters Treaty (1960) - A critical agreement governing water sharing between India and Pakistan."
+    ],
+    "vocabulary": [
+      {
+        "word": "denizens",
+        "type": "noun",
+        "definition": "inhabitants or occupants of a particular place.",
+        "sentence": "Erstwhile denizens of the deep state from India and Pakistan renewed a call for peace talks."
+      },
+      {
+        "word": "wherewithal",
+        "type": "noun",
+        "definition": "the money or other means needed for a particular purpose.",
+        "sentence": "How many of the peaceniks have the wherewithal or the interest to change the domestic realities?"
+      },
+      {
+        "word": "incensed",
+        "type": "adjective",
+        "definition": "very angry; enraged.",
+        "sentence": "I sped off from JNU in Delhi to rescue them from a right-wing mob incensed by a poem."
+      },
+      {
+        "word": "armistice",
+        "type": "noun",
+        "definition": "an agreement made by opposing sides in a war to stop fighting for a certain time; a truce.",
+        "sentence": "What any peace activist may at best hope for is an armistice à la the Koreas."
+      },
+      {
+        "word": "Gordian Knot",
+        "type": "noun",
+        "definition": "a complex or intractable problem; a problem that seems impossible to solve.",
+        "sentence": "Do the peaceniks have anyone capable in their ranks to unravel the Gordian Knot of stubborn aloofness?"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as a major deterrent to peace efforts between India and Pakistan in the article?",
+        "options": [
+          "Lack of economic cooperation organizations like ECO",
+          "Absence of cultural exchange programs",
+          "Undermining of democratic institutions and suppression of opposition in both countries",
+          "Insufficient foreign aid from international bodies"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that 'Similar undermining of democratic institutions has been observed in Pakistan' and India has 'preferred a similar route but by locking out the opposition'."
+      },
+      {
+        "question": "What historical example is given to illustrate cross-border solidarity for democracy?",
+        "options": [
+          "Joint protests against the Indus Waters Treaty",
+          "Indian poets linking up with Pakistani masses to challenge Ayub Khan’s military regime",
+          "Coordinated economic boycotts against colonial powers",
+          "Collaborative efforts to establish the ECO"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions, 'There was indeed a time when Ayub Khan’s military regime saw Indians linking up with Pakistani masses to challenge the usurper. A popular poem by India’s Majrooh Sultanpuri harks to the time.'"
+      },
+      {
+        "question": "What was the name given by India to its air and missile strikes inside Pakistan in May 2025?",
+        "options": [
+          "Operation Bunyan um Marsoos",
+          "Operation Sindoor",
+          "Operation Pahalgam",
+          "Operation Alexander"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'May 2025 was when Modi ordered air and missile strikes inside Pakistan and called it Operation Sindoor.'"
+      },
+      {
+        "question": "According to the article, why are prospects for peace advocacy potentially better in Pakistan than in India?",
+        "options": [
+          "Pakistan has a more robust diplomatic corps.",
+          "The opposition in Pakistan still has support in the mainstream media, particularly TV channels.",
+          "India lacks public intellectuals advocating for peace.",
+          "Pakistan has never experienced military stand-offs with India."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'The Pakistani component seeking peace with India has a better chance of kindling a public debate in their country on the issue of peace as opposed to Indians. As the cookie crumbles, the opposition in Pakistan still has support in the mainstream media, crucially the TV channels.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the core demands put forth by intellectuals and activists for India-Pakistan peace?",
+        "back": "Restoration of full diplomatic ties, reopening of trade routes with improved transportation links, and easier visas to encourage cross-border visits."
+      },
+      {
+        "front": "How do domestic political situations in India and Pakistan impede peace efforts, according to the article?",
+        "back": "Both countries show signs of undermining democratic institutions, such as locking up/out opposition and compromising the judiciary/election commission, which deters peace initiatives."
+      },
+      {
+        "front": "Describe the contrasting views among progressive activists regarding cross-border democratic support versus bilateral peace.",
+        "back": "Some, like Fahmida Riaz, advocate for cross-border solidarity to strengthen democracy jointly. Others, like Ahmed Faraz, prefer focusing on bilateral relations, even with existing governments, without getting involved in the other country's internal political battles."
+      },
+      {
+        "front": "What does the author suggest is the best possible outcome for India-Pakistan relations given the current circumstances, and why?",
+        "back": "An armistice similar to the Koreas, where the war hasn't technically ended but a tense peace prevails, due to recent military escalations and existential threats like the Indus Waters Treaty dispute."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783474117486-485",
+    "title": "Cognitive erosion\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013523/cognitive-erosion",
+    "date": "2026-07-07",
+    "author": "none@none.com (Nazir A. Jogezai)",
+    "content": "THE current educational debate over the impact of generative artificial intelligence learning is because this technology is different from earlier AIs. The latter helped manage knowledge, summarise data and analyse and synthesise bulk information. GAI, with its advanced algorithmic architecture, generates new content in text, images and videos. It is easier, faster and accessible, which raises concerns about knowledge automation as GAI can produce information, solve problems and prompt learners to automate assignments. Dependence on automation harms cognitive capabilities.\n\nResearch affirms the correlation between GAI and cognitive erosion, weakening neural signals, reducing critical thinking scores and impairing independent recall. In the short term, GAI can enhance speed and efficiency. In the long run, it can diminish learners’ intent to learn, think critically, discover, solve real problems and make decisions. The education systems most prone to cognitive decline are those that promote cramming and learning by rote, and have poor teacher support and foundational learning.\n\nIn an exam-cramming culture, GAI becomes a convenient tool to produce summaries, answers and model essays. Students spend less time in idea generation; increased prompting and information production create an illusion of competence. The approach often weakens retention and comprehension. This knowledge ‘procurement’ is not conducive to real problem-solving as it was never deeply encoded.\n\nMemory-based education negates deeper learning — elaboration, connecting ideas, explaining causes, comparing alternatives and applying knowledge in new contexts. GAI use makes students memorise what machines produce, transitioning from rote learning to rote dependence. They may reproduce acceptable text but not know why the answer is correct, what assumptions it rests on, or how to challenge it. Their critical thinking, which depends on judging and evaluating claims, stands compromised.\n\nHuman agency must be prioritised over content coverage.\n\nMoreover, weak teacher support or poor collaborative learning between teachers and students has ample space for readily available help. GAI is appreciative, non-judgemental, non-threatening and instant. Additionally, poor foundational learning results in students struggling to read, write, comprehend and reason. In 2024, the World Bank noted high learning poverty. This means about 80 per cent of children in the later stages of primary school are not proficient in reading.\n\nWeak reading abilities then result in increased GAI usage to mask literacy issues. Later on, this leads to a false sense of proficiency that ultimately hampers long-term educational development.\n\nAll these fault lines make GAI an instrument more devastating for cognitive erosion than any other learning tool. As a solution, the exam system needs to be restructured so that board exams are included as the more analytical method. This will require rethinking standardised exams and making them school-based.\n\nOverloaded and content-heavy curricula and textbooks will always make GAI a first option as it makes learning far easier. Policies should, therefore, reduce heavy syllabi and move towards competence-centric curricula that explicitly reward explanation, argument, comparison and problem-solving.\n\nA shift that prioritises human agency over content coverage is vital. This should come with new skills such as AI literacy, data literacy and self-regulated learning.\n\nA system riddled with an unprofessional teaching force cannot benefit from GAI. That means the ri­­ght policy response is not to simply introduce AI but rather to professionalise teacher support for AI-mediated le­­arning. Outdated and old-fashioned instructional prof­e­ssional developm­ent has become a bu­­rden. It has to go beyond the implementation of a fixed syllabus. Teachers must act as informed designers of learning experiences that are tailored to cater to the diverse needs of students and incorporate effective strategies for GAI integration in the classroom.\n\nWe must ensure early-grade reading and numerical proficiency are top prioritie. We must restrict high-stakes GAI use in the lower grades until foundational skills are secure. GAI tools can be used moderately in schools to support local languages and age-appropriate reading levels, and to improve AI literacy with AI pedagogical and content knowledge.\n\nThe real threat is not GAI, but the education system’s flaws that compel students to rely on it.\n\nThe solution is not to restrict GAI but transform education through strengthened foundational skills, redesigned assessment and empowered and updated teachers who are curriculum developers so that GAI use encourages critical and independent learning.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Current Affairs / Education Policy / Essay / Public Administration",
+    "topic": "Impact of Generative AI on Education and Cognitive Skills; Reforming Education for the AI Era",
+    "whyMatters": "This article provides a critical analysis of the challenges and opportunities presented by Generative AI in education, which is crucial for civil service aspirants to understand emerging policy landscapes. It offers actionable recommendations for educational reform, vital for formulating informed arguments on human capital development and technological integration.",
+    "summary": [
+      "Generative AI (GAI) differs from earlier AIs by generating new content, leading to concerns about knowledge automation and potential harm to cognitive capabilities.",
+      "GAI use is correlated with cognitive erosion, impairing critical thinking, independent recall, and ultimately diminishing learners' intent to truly learn and solve problems.",
+      "Education systems characterized by cramming, rote learning, poor teacher support, and weak foundational skills are most vulnerable to the negative impacts of GAI.",
+      "The solution is not to restrict GAI, but to transform education through strengthened foundational skills, redesigned analytical assessments, reduced curricula, and professionalized teachers capable of integrating AI effectively."
+    ],
+    "facts": [
+      "GAI generates new content in text, images, and videos, unlike earlier AIs that managed and summarized existing knowledge.",
+      "In 2024, the World Bank noted high learning poverty, with about 80% of primary school children not proficient in reading.",
+      "GAI use in an exam-cramming culture can create an 'illusion of competence' by making knowledge procurement easy without deep encoding."
+    ],
+    "academicReferences": [
+      "UNESCO Recommendation on the Ethics of Artificial Intelligence (2021)",
+      "National Education Policy (e.g., relevant country's latest)",
+      "World Bank's 'Learning Poverty' Initiative and related reports"
+    ],
+    "vocabulary": [
+      {
+        "word": "Algorithmic architecture",
+        "type": "noun",
+        "definition": "The underlying design and structure of an algorithm, especially complex ones like those in advanced AI systems.",
+        "sentence": "GAI, with its advanced algorithmic architecture, generates new content in text, images and videos."
+      },
+      {
+        "word": "Cognitive erosion",
+        "type": "noun phrase",
+        "definition": "The gradual decline or weakening of mental abilities such as critical thinking, memory, and problem-solving skills.",
+        "sentence": "Research affirms the correlation between GAI and cognitive erosion, weakening neural signals, reducing critical thinking scores and impairing independent recall."
+      },
+      {
+        "word": "Human agency",
+        "type": "noun phrase",
+        "definition": "The capacity of individuals to act independently and to make their own free choices, especially in learning and problem-solving.",
+        "sentence": "A shift that prioritises human agency over content coverage is vital."
+      },
+      {
+        "word": "Foundational learning",
+        "type": "noun phrase",
+        "definition": "Basic and essential skills and knowledge (e.g., reading, writing, arithmetic) that form the basis for further education.",
+        "sentence": "Additionally, poor foundational learning results in students struggling to read, write, comprehend and reason."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT proposed as a solution to mitigate cognitive erosion caused by GAI?",
+        "options": [
+          "Restricting GAI use entirely in all educational settings.",
+          "Redesigning assessment systems to be more analytical and school-based.",
+          "Reducing content-heavy curricula and moving towards competence-centric approaches.",
+          "Professionalizing teacher support for AI-mediated learning."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'The solution is not to restrict GAI but transform education...' emphasizing reform rather than outright restriction. The other options are all proposed solutions."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary difference between Generative AI (GAI) and earlier forms of AI, as highlighted in the article?",
+        "back": "GAI generates new content (text, images, videos), while earlier AIs primarily helped manage knowledge, summarize data, and analyze existing information."
+      },
+      {
+        "front": "Which specific educational system flaws make students most prone to cognitive decline when using GAI?",
+        "back": "Systems that promote cramming and rote learning, have poor teacher support, and weak foundational learning (reading, writing, comprehension, reasoning)."
+      },
+      {
+        "front": "What key policy shift does the article advocate for regarding curriculum and learning objectives in the age of AI?",
+        "back": "It advocates for reducing heavy syllabi, moving towards competence-centric curricula that explicitly reward explanation, argument, comparison, and problem-solving, prioritizing human agency over content coverage."
+      },
+      {
+        "front": "What is identified as the 'real threat' regarding GAI in education, according to the author?",
+        "back": "The real threat is not GAI itself, but the existing flaws in the education system that compel students to rely on it excessively."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783474198785-381",
+    "title": "America at 250\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013522/america-at-250",
+    "date": "2026-07-07",
+    "author": "none@none.com (Editorial)",
+    "content": "THOUGH America’s 250th independence anniversary observed on Saturday is a significant milestone, the celebrations were overshadowed by events in Iran, as high officials from around the world, as well as millions of ordinary Iranians, gathered for Ayatollah Ali Khamenei’s funeral. It was an ironic reminder that America’s merits are often eclipsed by its disastrous foreign policy choices.\n\nDespite its immense wealth and global influence, instead of acting as a first among equals, the US frequently displays imperial arrogance, using its military might to intimidate sovereign nations. Unless there is a radical foreign policy rethink — a remote possibility under President Donald Trump — America’s contributions to the world will continue to be dwarfed by the damage it regularly inflicts overseas.\n\nDomestically, the US has come a long way from its 18th-century origins. It has witnessed the dispossession of Native Americans, the cruel indignities heaped on African slaves and their descendants, as well as blatant displays of racism. But over the past few decades, the US has built a relatively equal society, with world-class university education and technological innovations, to name a few of its contributions. Yet all the gains made are under threat, as the far right is making a strong comeback, while a country built by immigrants is now railing against those arriving from foreign shores.\n\nIn fact, there was nothing in Mr Trump’s speech to mark the occasion at Mt Rushmore that indicated a return to more inclusive politics. Instead, the US leader criticised communism in a speech seemingly plucked from the Cold War era. Mr Trump warned his fellow citizens of a new red tide that threatened to erase the ‘American way of life’, while also demonising immigrants. It seems the dark forces of the American hard right are ready to roll back all of the positives the US has achieved since the end of World War II — this time with official blessings.\n\nInternationally, nations around the world have, over the decades, not seen a very compassionate picture of America. Countries across Latin America and Asia have been bombed and invaded under various pretexts. The latest example of this gunboat diplomacy has been the Iran misadventure.\n\nFurthermore, many of Mr Trump’s supposedly ‘liberal’ Democratic predecessors have supported friendly strongmen in developing nations, as an insurance policy to stop communists and Islamists from taking power in these states. If America is to change this ignominious reputation — for which it has only itself to blame — it must shun the very exceptionalism that Mr Trump celebrates.\n\nThe US should behave like a responsible member of the international community, and respect the rights and red lines of sovereign states. Instead of ‘saving’ the world, America must heal itself internally, and address the numerous socioeconomic issues that continue to plague it.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "International Relations / Current Affairs / US History",
+    "topic": "US Foreign Policy and Domestic Challenges at 250",
+    "whyMatters": "This article provides a critical analysis of US foreign policy and domestic issues, offering a nuanced perspective beyond typical celebratory narratives. It equips aspirants with arguments to challenge American exceptionalism, crucial for essays and IR papers.",
+    "summary": [
+      "America's 250th independence anniversary celebrations were overshadowed by its foreign policy choices, marked by 'imperial arrogance' and 'gunboat diplomacy'.",
+      "Domestically, the US has progressed from historical injustices like Native American dispossession and slavery to a relatively equal society, but these gains are now threatened by the far-right's resurgence and anti-immigrant sentiment.",
+      "President Trump's speech at Mt Rushmore demonized immigrants and used Cold War-era rhetoric, signaling a potential rollback of post-World War II positive developments.",
+      "To redeem its 'ignominious reputation', the US must abandon its 'exceptionalism', respect sovereign nations, and focus on healing internal socioeconomic issues rather than 'saving' the world."
+    ],
+    "facts": [
+      "America observed its 250th independence anniversary on a Saturday (presumably July 4th, 2026).",
+      "The US has historically witnessed the dispossession of Native Americans and cruel indignities on African slaves and their descendants.",
+      "President Trump's speech marking the occasion was delivered at Mt Rushmore."
+    ],
+    "academicReferences": [
+      "The Tragedy of Great Power Politics by John Mearsheimer (for realist perspectives on imperial power)",
+      "UN Charter (for principles of sovereign equality and non-intervention)",
+      "Soft Power: The Means To Success In World Politics by Joseph S. Nye Jr. (to contrast with 'gunboat diplomacy')"
+    ],
+    "vocabulary": [
+      {
+        "word": "Eclipsed",
+        "type": "verb",
+        "definition": "To make something less important or noticeable by being much better, larger, or more important.",
+        "sentence": "The joy of the anniversary was eclipsed by the somber news from abroad."
+      },
+      {
+        "word": "Arrogance",
+        "type": "noun",
+        "definition": "An insulting way of thinking or behaving that comes from believing that you are better, smarter, or more important than other people.",
+        "sentence": "The article criticized the US for displaying imperial arrogance rather than acting as a first among equals."
+      },
+      {
+        "word": "Ignominious",
+        "type": "adjective",
+        "definition": "Deserving or causing public disgrace or shame.",
+        "sentence": "America must change its ignominious reputation by shunning exceptionalism and respecting other nations."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what key event overshadowed America's 250th independence anniversary celebrations?",
+        "options": [
+          "Ayatollah Ali Khamenei’s funeral in Iran",
+          "A major economic crisis",
+          "A severe natural disaster",
+          "The resignation of President Trump"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the celebrations were 'overshadowed by events in Iran, as high officials... gathered for Ayatollah Ali Khamenei’s funeral.'"
+      },
+      {
+        "question": "What does the article suggest is a primary driver of America's 'ignominious reputation' internationally?",
+        "options": [
+          "Its embrace of American exceptionalism",
+          "Its world-class university education",
+          "Its technological innovations",
+          "Its efforts to build a relatively equal society domestically"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'If America is to change this ignominious reputation... it must shun the very exceptionalism that Mr Trump celebrates.'"
+      },
+      {
+        "question": "Which domestic issues are mentioned as historical challenges the US has faced before building a 'relatively equal society'?",
+        "options": [
+          "Dispossession of Native Americans and African slavery",
+          "Climate change denial and gun violence",
+          "Economic recessions and political polarization",
+          "Urban decay and healthcare crises"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article lists 'the dispossession of Native Americans, the cruel indignities heaped on African slaves and their descendants, as well as blatant displays of racism.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article characterize US foreign policy despite its immense wealth and global influence?",
+        "back": "It frequently displays 'imperial arrogance' and uses military might to intimidate sovereign nations, engaging in 'gunboat diplomacy'."
+      },
+      {
+        "front": "What domestic achievements of the US are highlighted, and what threat do they currently face?",
+        "back": "The US has built a relatively equal society with world-class education and technological innovations, but these gains are threatened by the resurgence of the far-right and anti-immigrant sentiment."
+      },
+      {
+        "front": "What was the nature of President Trump's speech at Mt Rushmore regarding US politics and identity?",
+        "back": "It criticized communism in Cold War-era rhetoric, warned of a 'new red tide,' and demonized immigrants, indicating a move away from inclusive politics."
+      },
+      {
+        "front": "What is the article's main recommendation for the US to improve its international standing?",
+        "back": "The US must abandon its 'exceptionalism,' behave like a responsible international community member, respect sovereign rights, and address internal socioeconomic issues."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783474352762-657",
+    "title": "Misdirected justice\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013520/misdirected-justice",
+    "date": "2026-07-07",
+    "author": "none@none.com (Editorial)",
+    "content": "ACHILD will be tried in a court of law over January’s deadly Gul Plaza fire that claimed 72 lives, but not, it seems, the district administration, or the Karachi Metropolitan Corporation, the Sindh Building Control Authority, Civil Defence, the fire department or Rescue 1122. The charge-sheet filed in court by the investigating officer assigned to the case names only six persons — an 11-year-old child, his shopkeeper father and four members of the Gul Plaza Management Committee. No one else has been deemed responsible for the loss of dozens of lives and the more than 1,000 shops gutted in the fire. It is worth noting that the charge sheet was filed without the findings of the judicial commission that probed the incident included, and that it was turned down three times on previous occasions due to defects cited by the prosecution. However, a district prosecutor last week gave the investigating officer the go-ahead to ignore those objections and file the case.\n\nIt is worth asking why only shopkeepers and managers will be prosecuted, and not the regulators whose job it is to prevent exactly this kind of disaster. The defence counsel pointed this out in court, asking why various departments and regulators do not appear as the accused. A charge sheet built entirely around fire-safety violations, while excluding the bodies statutorily responsible for fire safety, seems like a gross attempt to scapegoat civilians while allowing those departments and officials who enabled this tragedy with their negligence and complacency to go scot-free. Karachi’s building safety failures are chronic and well-documented. The city is no stranger to preventable tragedies that keep occurring with alarming frequency due to regulatory failures. If the Gul Plaza prosecution too ends with a shopkeeper’s family bearing legal consequences while the SBCA, KMC and civil defence escape scrutiny, the case will have punished the easiest targets rather than the responsible ones. And, most alarmingly, nothing will have changed.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Pakistan Affairs / Current Affairs / Governance",
+    "topic": "Governance Failure and Accountability in Pakistan / Urban Safety and Regulatory Negligence / Flaws in the Justice System",
+    "whyMatters": "This article provides a real-world case study of governance failure, regulatory negligence, and the lack of accountability within state institutions, which are recurring themes in competitive exams. It offers critical insights into the justice system's shortcomings, making it highly relevant for analytical essays and questions on rule of law, public trust, and administrative reforms.",
+    "summary": [
+      "Only six individuals, including an 11-year-old child, his father, and four Gul Plaza management members, have been charged for the fire that claimed 72 lives and gutted over 1,000 shops.",
+      "Crucially, statutory regulatory bodies like the Karachi Metropolitan Corporation (KMC), Sindh Building Control Authority (SBCA), Civil Defence, and the fire department have been excluded from prosecution despite their roles in preventing such disasters.",
+      "The charge sheet was filed without incorporating the findings of the judicial commission that probed the incident and was previously rejected three times due to procedural defects.",
+      "The article asserts that this prosecution attempts to scapegoat civilians while allowing negligent government departments and officials responsible for chronic building safety failures in Karachi to escape accountability, perpetuating a cycle of preventable tragedies."
+    ],
+    "facts": [
+      "The Gul Plaza fire claimed 72 lives and gutted over 1,000 shops.",
+      "Only six persons, including an 11-year-old child, are named in the charge sheet.",
+      "The charge sheet was filed without including the findings of the judicial commission investigating the incident.",
+      "The charge sheet had been turned down three times previously due to cited defects before being given a go-ahead."
+    ],
+    "academicReferences": [
+      "Dr. Ishrat Husain's 'Governing the Ungovernable: Institutional Reforms in Pakistan' (Offers insights into systemic governance challenges and institutional weaknesses).",
+      "The Constitution of Pakistan, Article 9 (Right to Life and Liberty) and Article 4 (Right of individuals to be dealt with in accordance with law) (Fundamental rights implicated by state negligence and flawed justice).",
+      "UN Sendai Framework for Disaster Risk Reduction (Emphasizes the critical role of good governance, accountability, and multi-stakeholder responsibility in preventing disasters and building resilience)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Misdirected",
+        "type": "adjective",
+        "definition": "Aimed or guided wrongly; poorly focused.",
+        "sentence": "The article critiques the *misdirected* focus of the investigation, which targets civilians instead of the primary regulatory bodies."
+      },
+      {
+        "word": "Scapegoat",
+        "type": "verb",
+        "definition": "To blame a person or group unfairly for the mistakes or faults of others.",
+        "sentence": "The defence counsel argued that the prosecution was an attempt to *scapegoat* shopkeepers while shielding negligent officials."
+      },
+      {
+        "word": "Statutorily",
+        "type": "adverb",
+        "definition": "In accordance with, or required by, statute (a written law).",
+        "sentence": "The KMC and SBCA are *statutorily* responsible for enforcing building safety codes, including fire safety measures."
+      },
+      {
+        "word": "Complacency",
+        "type": "noun",
+        "definition": "A feeling of smug or uncritical satisfaction with oneself or one's achievements or situation, often combined with a lack of awareness of potential dangers.",
+        "sentence": "The tragedy was enabled by the *complacency* of departments that routinely failed to enforce safety regulations."
+      },
+      {
+        "word": "Chronic",
+        "type": "adjective",
+        "definition": "(Of a problem, illness, or habit) persisting for a long time or constantly recurring.",
+        "sentence": "Karachi's building safety failures are *chronic* and well-documented, leading to frequent preventable tragedies."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, who is primarily being held accountable for the Gul Plaza fire, despite the widespread regulatory failures mentioned?",
+        "options": [
+          "A) An 11-year-old child, his father, and Gul Plaza management.",
+          "B) The Karachi Metropolitan Corporation (KMC).",
+          "C) The Sindh Building Control Authority (SBCA).",
+          "D) The investigating officer who filed the charge sheet."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the charge sheet names only six persons, including an 11-year-old child, his shopkeeper father, and four members of the Gul Plaza Management Committee, while excluding regulatory bodies."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core criticism regarding accountability in the Gul Plaza fire investigation?",
+        "back": "The investigation is criticized for scapegoating civilians (an 11-year-old, his father, and shop managers) while excluding statutory regulatory bodies (KMC, SBCA, Civil Defence) whose negligence enabled the tragedy."
+      },
+      {
+        "front": "How does the article characterize the building safety situation in Karachi?",
+        "back": "Karachi's building safety failures are described as 'chronic and well-documented,' leading to 'preventable tragedies that keep occurring with alarming frequency' due to regulatory failures."
+      },
+      {
+        "front": "What is the significance of the charge sheet being filed without the judicial commission's findings?",
+        "back": "It suggests an incomplete or rushed legal process, potentially overlooking crucial evidence and systemic causes that a judicial inquiry might have uncovered, thereby undermining a thorough investigation."
+      },
+      {
+        "front": "What, according to the article, is the alarming consequence if the Gul Plaza prosecution only targets civilians and not negligent officials?",
+        "back": "The article warns that if only shopkeepers bear legal consequences while regulators escape scrutiny, 'nothing will have changed,' implying that the root causes of such tragedies will persist, and future disasters remain likely."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783473958413-324",
+    "title": "Ravi encroachments\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013521/ravi-encroachments",
+    "date": "2026-07-07",
+    "author": "none@none.com (Editorial)",
+    "content": "SUPARCO’S satellite imagery reveals the rapid expansion of Lahore into the floodplains of the Ravi river, with the natural flood corridors giving way to housing schemes and other urban infrastructure. What appears to be valuable real estate is, in fact, land that performs the vital function of absorption and dispersal of floodwaters during periods of sudden and high river flows. As this buffer disappears, the city’s exposure to flooding increases. Floodplains are an integral part of the river system. Encroachments in the form of housing schemes and other constructions constrict a river’s ability to absorb and convey excess water, especially during extreme rainfall or flood events. The Ravi presents an added challenge. Because its waters were allocated to India under the Indus Waters Treaty, the river downstream of the border is dry for much of the year, creating an impression that its floodplains are permanently available for development. But the river can swell rapidly during the monsoon or emergency flood releases. Since India has stopped sharing IWT-related flow data, careful management of the Ravi’s floodplains has become even more critical.\n\nThe problem extends far beyond the Ravi and Lahore. Across Pakistan, unchecked encroachments on floodplains and natural waterways have steadily increased the country’s vulnerability to flooding. It is invariably the poorest communities that bear the heaviest burden. Farmers cultivate flood-prone land because they have few alternatives, while low-income settlements emerge along riverbanks where land is cheap or simply occupied in the absence of effective regulation. Recurrent floods destroy crops, homes and livelihoods, trapping these communities in a cycle of poverty and displacement. Their vulnerability is the consequence of decades of weak land-use planning, poor enforcement and official neglect. Lahore adds a more concerning dimension: floodplains are being transformed not by necessity but by speculative real estate. Commercially driven expansion into the Ravi corridor along Lahore is placing high-value housing and infrastructure in areas vulnerable to flooding. RUDA, which controls new developments in the Ravi floodplains, claims its master plan is based on hydrological studies and modelling, but last year’s flooding in colonies under its control casts doubt on whether those assessments adequately account for increasingly erratic climate-driven flood risks or sudden releases by India. As climate change intensifies floods, satellite imagery warns that using natural floodplains for urban expansion will continue to exact a heavy cost.\n\nPublished in Dawn, July 7th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Pakistan Affairs",
+    "topic": "Indus Waters Treaty's Influence on River Management and Urban Vulnerability in Pakistan",
+    "whyMatters": "This article offers a practical case study linking the Indus Waters Treaty (IWT) to contemporary urban development and environmental challenges in Pakistan. It demonstrates how IWT provisions, specifically water allocation for the Ravi, contribute to a misperception of river floodplains, leading to vulnerable real estate development and increased flood risk, which is crucial for answering questions on water distribution and its consequences.",
+    "summary": [
+      "SUPARCO's satellite imagery reveals rapid urban expansion (housing schemes, infrastructure) into Ravi floodplains in Lahore, replacing natural flood corridors.",
+      "These encroachments on vital floodplains (which absorb and disperse floodwaters) significantly increase the city's exposure and vulnerability to flooding.",
+      "The Indus Waters Treaty (IWT) allocated Ravi waters to India, leaving the river dry downstream for much of the year, fostering a misconception that its floodplains are permanently available for development.",
+      "Weak land-use planning, poor enforcement, speculative real estate, and India's cessation of IWT-related flow data sharing, coupled with intensifying climate change, exacerbate flood risks and disproportionately affect poorer communities."
+    ],
+    "facts": [
+      "SUPARCO’s satellite imagery reveals rapid urban expansion into Ravi floodplains in Lahore.",
+      "The Ravi river waters were allocated to India under the Indus Waters Treaty (1960).",
+      "India has stopped sharing IWT-related flow data, making Ravi floodplain management more critical.",
+      "RUDA (Ravi Urban Development Authority) controls new developments in the Ravi floodplains."
+    ],
+    "academicReferences": [
+      "Indus Waters Treaty (1960)",
+      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports on Climate Change and Extreme Weather Events",
+      "Pakistan National Disaster Management Authority (NDMA) Flood Protection Plans and Policies"
+    ],
+    "vocabulary": [
+      {
+        "word": "Encroachments",
+        "type": "noun",
+        "definition": "Gradual intrusion or intrusion into another's territory, rights, or property; an instance of intruding on a person's territory, rights, or property.",
+        "sentence": "Unchecked encroachments on floodplains and natural waterways have steadily increased the country’s vulnerability to flooding."
+      },
+      {
+        "word": "Constrict",
+        "type": "verb",
+        "definition": "To make narrower, especially by encircling pressure.",
+        "sentence": "Encroachments in the form of housing schemes and other constructions constrict a river’s ability to absorb and convey excess water."
+      },
+      {
+        "word": "Speculative",
+        "type": "adjective",
+        "definition": "Based on conjecture rather than knowledge; involving high risk of loss in the hope of considerable gain.",
+        "sentence": "Lahore adds a more concerning dimension: floodplains are being transformed not by necessity but by speculative real estate."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "How did the Indus Waters Treaty (1960) indirectly contribute to urban development issues in the Ravi floodplains?",
+        "options": [
+          "By allocating Ravi waters to India, making the river dry for much of the year, thus giving a false impression of permanently available land.",
+          "By directly sanctioning urban development projects in flood-prone areas.",
+          "By restricting Pakistan's ability to build flood control infrastructure on the Ravi.",
+          "By mandating that Pakistan develop its floodplains to compensate for water losses."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states that because Ravi waters were allocated to India, the river is dry downstream for much of the year, 'creating an impression that its floodplains are permanently available for development.' This false perception encourages encroachment."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary natural function of river floodplains?",
+        "back": "River floodplains perform the vital function of absorption and dispersal of floodwaters during periods of sudden and high river flows, acting as a natural buffer for urban areas."
+      },
+      {
+        "front": "How has the Indus Waters Treaty (IWT) affected the perception of the Ravi river's floodplains in Pakistan?",
+        "back": "The IWT, by allocating the Ravi's waters to India, leaves the river dry downstream for much of the year, which creates a false impression that its floodplains are permanently available for development."
+      },
+      {
+        "front": "What additional challenge has arisen for managing the Ravi's floodplains due to India's actions?",
+        "back": "India has stopped sharing IWT-related flow data, which makes careful and effective management of the Ravi’s floodplains even more critical and challenging due to increased uncertainty regarding potential flood releases."
+      },
+      {
+        "front": "Beyond Lahore, who primarily bears the heaviest burden of unchecked encroachments on floodplains across Pakistan?",
+        "back": "Invariably, the poorest communities bear the heaviest burden, as they cultivate flood-prone land or establish low-income settlements along riverbanks due to limited alternatives and lack of effective regulation."
+      }
+    ]
+  },
+  {
     "id": "curated-1783389184694-59",
     "title": "Fiscal federalism\n",
     "source": "Dawn",
