@@ -13,6 +13,9 @@
     "axios": "^1.7.2",
     "rss-parser": "^3.13.0",
     "cheerio": "^1.0.0-rc.12",
-    "redis": "^4.6.15"
+    "redis": "^4.6.15",
+    "puppeteer": "^22.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }

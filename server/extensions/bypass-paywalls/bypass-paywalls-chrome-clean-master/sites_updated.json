@@ -1,0 +1,45 @@
+{
+  "Forbes": {
+    "domain": "forbes.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\.forbes\\.com\\/zephr\\/feature|\\.ampproject\\.org\\/v0\\/amp-access-.+\\.js)",
+    "cs_code": "[{\"cond\":\"div.halfway-hardwall-insertion-point\", \"rm_elem\":1}]",
+    "upd_version": "4.3.8.3"
+  },
+  "Freie Presse.de": {
+    "domain": "freiepresse.de",
+    "allow_cookies": 1,
+    "ld_archive_is": "div.default-paywall,div.upscore-paywall-placeholder|div#artikel-content",
+    "upd_version": "4.3.8.7"
+  },
+  "L'Humanité (removed))": {
+    "domain": "humanite.fr",
+    "allow_cookies": 1,
+    "nofix": 1,
+    "upd_version": "4.3.8.8"
+  },
+  "Marianne.net (removed))": {
+    "domain": "marianne.net",
+    "allow_cookies": 1,
+    "nofix": 1,
+    "upd_version": "4.3.8.4"
+  },
+  "The San Francisco Standard": {
+    "domain": "sfstandard.com",
+    "allow_cookies": 1,
+    "useragent": "googlebot",
+    "upd_version": "4.3.8.4"
+  },
+  "The Saturday Paper": {
+    "domain": "thesaturdaypaper.com.au",
+    "allow_cookies": 1,
+    "block_regex": "\\.thesaturdaypaper\\.com\\.au\\/api\\/tinypass\\.min\\.js",
+    "upd_version": "4.3.9.1"
+  },
+  "Weser-Kurier": {
+    "domain": "weser-kurier.de",
+    "allow_cookies": 1,
+    "block_regex": "\\.weser-kurier\\.de\\/assets\\/.+\\/wk-bundle\\.min\\.js",
+    "upd_version": "4.3.9.3"
+  }
+}

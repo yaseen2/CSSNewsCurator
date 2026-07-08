@@ -1,0 +1,71 @@
+name: Project Syndicate Digest
+
+on:
+  schedule:
+    # Runs daily at 2:00 AM UTC (7:00 AM PKT)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      target_month:
+        description: 'Target month to compile (format: YYYY-MM, e.g., 2026-07). Leave empty for current month.'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-compile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: server/package-lock.json
+
+      - name: Install System Dependencies for Puppeteer/Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb libgbm-dev libasound2 libnss3 libnspr4 libxss1 libasound2t64 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libpango-1.0-0 libcairo2
+
+      - name: Install Server Dependencies
+        run: |
+          cd server
+          npm install
+
+      - name: Run Scraper
+        run: |
+          cd server
+          # Run inside virtual framebuffer (XVFB) to support headful extension loading
+          xvfb-run --server-args="-screen 0 1280x1024x24" node scrapeProjectSyndicate.js
+
+      - name: Compile Monthly PDF Digest
+        run: |
+          cd server
+          # Compile the PDF digest for the target month
+          if [ "${{ github.event.inputs.target_month }}" != "" ]; then
+            node compileDigest.js "${{ github.event.inputs.target_month }}"
+          else
+            node compileDigest.js
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add server/projectSyndicateData.json digests/
+          
+          # Check if there are changes to commit
+          if git diff-index --quiet HEAD; then
+            echo "No new articles scraped or compiled today. Skipping commit."
+          else
+            git commit -m "chore: update Project Syndicate digest ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
