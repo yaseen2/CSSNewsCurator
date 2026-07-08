@@ -145,7 +145,10 @@ async function run() {
         const items = anchors
           .filter(a => {
             const href = a.href;
-            if (!href || !href.includes('/commentary/') || href.includes('/commentaries')) return false;
+            if (!href || href.includes('/commentaries')) return false;
+            const isCommentary = href.includes('/commentary/');
+            const isOnPoint = href.includes('/onpoint/');
+            if (!isCommentary && !isOnPoint) return false;
             // Exclude header, footer, sidebars, and trending lists
             if (a.closest('header') || a.closest('footer') || a.closest('.sidebar') || a.closest('.trending') || a.closest('.trending-commentaries')) return false;
             return true;

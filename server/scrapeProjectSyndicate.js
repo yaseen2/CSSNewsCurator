@@ -83,13 +83,13 @@ async function scrapeProjectSyndicate() {
           const anchors = Array.from(document.querySelectorAll('a'));
           return anchors
             .map(a => a.href)
-            .filter(href => href && href.includes('/commentary/') && !href.includes('/commentaries'));
+            .filter(href => href && (href.includes('/commentary/') || href.includes('/onpoint/')) && !href.includes('/commentaries'));
         });
 
         links.forEach(link => {
           // Normalize URL: remove query params / hash
           const cleanUrl = link.split('?')[0].split('#')[0].trim();
-          if (cleanUrl.startsWith('https://www.project-syndicate.org/commentary/')) {
+          if (cleanUrl.startsWith('https://www.project-syndicate.org/commentary/') || cleanUrl.startsWith('https://www.project-syndicate.org/onpoint/')) {
             discoveredUrls.add(cleanUrl);
           }
         });

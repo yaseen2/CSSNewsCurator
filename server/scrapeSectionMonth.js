@@ -105,7 +105,7 @@ async function run() {
         if (!container) return [];
         const anchors = Array.from(container.querySelectorAll('a'));
         const items = anchors
-          .filter(a => a.href && a.href.includes('/commentary/') && !a.href.includes('/commentaries'))
+          .filter(a => a.href && (a.href.includes('/commentary/') || a.href.includes('/onpoint/')) && !a.href.includes('/commentaries'))
           .map(a => ({
             url: a.href.split('?')[0].split('#')[0].trim(),
             title: a.getAttribute('aria-label') || a.textContent.trim() || ''
