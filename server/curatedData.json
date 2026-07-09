@@ -1,5 +1,608 @@
 [
   {
+    "id": "curated-1783560919970-827",
+    "title": "Making every rupee compound\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013745/making-every-rupee-compound",
+    "date": "2026-07-08",
+    "author": "none@none.com (Zafar Masud)",
+    "content": "PAKISTAN’S economic debate is trapped in a distracting quarrel — whether banks lend too much to government and too little to enterprise. Allocation matters, but it is not the binding constraint. On the State Bank’s consolidated estimates, with the share of development spending shrinking, a rupee of government spending now multiplies about 0.71 in output on average while a rupee of private investment returns 1.2 to 1.3. The private rupee works nearly twice as hard yet, strip out productivity — ie, the efficiency with which inputs become output — and even that collapses towards 1.0. Adjusted for our stalled productivity, no rupee in Pakistan truly compounds. We accumulate without amplifying.\n\nThe distinction is decisive. A rupee invested where productivity is rising earns more each year as workers learn and firms innovate; a rupee in a stagnant system merely buys more of the same. Pakistan’s productivity sits near 0.28 on comparable estimates, against India’s 0.48 and Sri Lanka’s 0.42, and the export scoreboard confirms it: Vietnam now ships over $400 billion in merchandise, more than 10 times ours, and Bangladesh’s garments alone exceed our total exports. These economies did not merely mobilise capital; they made it productive. That must be our organising principle — every reform tested against the question of whether it raises output per worker, per acre, per unit of energy, per rupee of credit. Against this backdrop, the following reforms are suggested:\n\nFirst, we must export discipline. A home market of 250 million with weak purchasing power cannot generate a compounding return, but tradables can. Pakistan’s exports are stuck near 10 per cent of GDP, while those of Vietnam approach 90pc, the difference being a relentless focus on global value chains, industrial parks and fast customs. The lesson is to narrow ruthlessly to tradables and a competitive offering of goods and services, with reliable energy for exporters and incentives paid against performance — in other words, foreign exchange actually earned.\n\nSecond, skills are infrastructure. Road or rail infrastructure without investing in skilled workers is mere concrete, multiplying the 0.6 multiplier of inert spending rather than the 1.5 return when human capital rides on it. Barely a tenth of Pakistan’s workforce holds a formal qualification, against roughly 26pc in Vietnam, which based its manufacturing surge on enterprise-designed technical training. The answer lies in a national skills compact: training designed by employers, part-funded by the state and measured by placement and wage gains. It would feature export-relevant centres in every district, funded via structures such as the Pakistan Skill Impact Bond.\n\nNo rupee in Pakistan truly compounds. We accumulate without amplifying.\n\nThird, technology must reach the firm. Most SMEs do not need cutting-edge innovation; basic digital tools can enhance their productivity. India’s digital public infrastructure now clears over 18bn real-time payments a month, formalising millions of small firms; Germany’s Mittelstand shows the same in reverse, with deep technology inside small companies. Punjab proves the model at home: Asaan Karobar puts interest-free, bank-financed credit on a card for traders who never qualified for a loan, while Apni Chhat Apna Ghar runs an end-to-end digital, interest-free mortgage-financed housing scheme with over 170,000 mortgages approved and more than 100,000 homes delivered.\n\nFourth, agriculture should be rebuilt around yield, not acreage. Our wheat yield, almost three tonnes a hectare, trails China’s at 5.8 and Egypt’s at 6.5, as our inputs are piled on without efficiency. India’s white revolution, built on cooperatives and cold chains, made that country the world’s largest milk producer. Punjab’s Kissan and Livestock Cards have already moved tens of billions of rupees of bank-financed inputs to farmers on a thin public guarantee — the rail on which precision inputs target productive output.\n\nFifth, finance must reward productivity over collateral. Banks prefer government paper and asset-backed lending because the economy is undocumented and enforcement weak, which is why sovereign exposure exceeds 60pc of assets, while private credit languishes at 13pc to 15pc of GDP, against nearly 50pc in India and over 100pc in Vietnam.\n\nThe remedy is information, not moral or regulatory pressures: digital tax, utility and supply-chain data turned into credit histories, alongside cash-flow lending, movable collateral registries and first-loss guarantees that move capital to bankable SMEs, farmers and women entrepreneurs. The Financial Data Exchange of the Pakistan Digital Authority’s WASL project could act as a bridge.\n\nSixth, incentives must turn away from rent. Real estate and undocumented commerce absorb the bulk of national savings while contributing a fraction to tax; this accumulated wealth keeps the multiplier below one, even as documented enterprise is taxed and idle wealth escapes. Vietnam and Malaysia channelled savings into export manufacturing, not land speculation; our equivalent is predictable taxation for formal firms, faster refunds for exporters and firmer taxation of unproductive rents.\n\nPakistan lacks neither capital nor talent; it lacks a system that forces capital to grow more intelligent over time and institutions that measure outcomes, not just expenditure.\n\nThe real reform is not to move the rupee from one pocket to another but to make every rupee carry more technology, skill, discipline and export capability. The door of private-sector credit opens the moment bankable propositions exist, but productivity is the key, and bankability is its reward. That is how nations compound, and that is what Pakistan must now learn to do.\n\nThe writer is senior banker and chairman of the Pakistan Banks Association.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Economics",
+    "topic": "Economic Productivity and Growth Reforms in Pakistan",
+    "whyMatters": "This article, while not directly addressing the history or framework of the Economic Cooperation Organization (ECO), is crucial for understanding Pakistan's future prospects within ECO or any regional integration. It outlines the fundamental internal economic challenges—specifically low productivity, weak export capacity, and inefficient finance—that severely limit Pakistan's ability to effectively leverage and benefit from regional economic cooperation initiatives.",
+    "summary": [
+      "Pakistan's economic growth is not compounding due to critically low productivity (0.28 multiplier), leading to mere accumulation without amplification.",
+      "Six core reforms are proposed to foster productivity: export discipline, skills infrastructure development, technology adoption by firms, yield-focused agriculture, finance rewarding productivity, and shifting incentives away from rent-seeking.",
+      "The article emphasizes a ruthless focus on tradables, global value chains, and performance-based incentives to improve Pakistan's stagnant export-to-GDP ratio.",
+      "Significant investment in human capital through employer-designed technical training and financial sector reforms (e.g., digital credit histories, cash-flow lending) are identified as critical for broad-based productivity gains."
+    ],
+    "facts": [
+      "A rupee of government spending multiplies about 0.71 in output, while private investment returns 1.2 to 1.3.",
+      "Pakistan’s productivity sits near 0.28, against India’s 0.48 and Sri Lanka’s 0.42.",
+      "Pakistan’s exports are stuck near 10pc of GDP, compared to Vietnam’s approach of 90pc.",
+      "Barely a tenth of Pakistan’s workforce holds a formal qualification, against roughly 26pc in Vietnam.",
+      "Sovereign exposure exceeds 60pc of bank assets, while private credit languishes at 13pc to 15pc of GDP (vs. India ~50pc, Vietnam >100pc)."
+    ],
+    "academicReferences": [
+      "Dani Rodrik's 'One Economics, Many Recipes: Globalization, Institutions, and Economic Growth'",
+      "Pakistan Economic Survey (latest year)",
+      "World Bank's Ease of Doing Business Report"
+    ],
+    "vocabulary": [
+      {
+        "word": "Compounding",
+        "type": "verb",
+        "definition": "To make something worse; to make something grow more complex or intense, especially in a financial sense, where returns are reinvested to generate further returns.",
+        "sentence": "The lack of productivity prevents Pakistan's economy from truly compounding, leading to stagnant growth."
+      },
+      {
+        "word": "Amplifying",
+        "type": "verb",
+        "definition": "To make something larger, louder, or more intense; to increase the size, volume, or significance of something.",
+        "sentence": "Pakistan needs to amplify its economic output per unit of input, rather than merely accumulating capital."
+      },
+      {
+        "word": "Binding constraint",
+        "type": "noun",
+        "definition": "A factor that limits the performance or potential of a system or process, being the most restrictive element.",
+        "sentence": "Low productivity, not capital allocation, is identified as the binding constraint on Pakistan's economic growth."
+      },
+      {
+        "word": "Tradables",
+        "type": "noun",
+        "definition": "Goods and services that can be traded internationally, distinguishing them from non-tradable goods and services.",
+        "sentence": "The suggested reforms emphasize a ruthless narrowing to tradables to boost Pakistan's export performance."
+      },
+      {
+        "word": "Mittelstand",
+        "type": "noun",
+        "definition": "Small and medium-sized enterprises (SMEs) in German-speaking countries, often family-owned and known for their specialization, innovation, and strong market position.",
+        "sentence": "Germany’s Mittelstand demonstrates the impact of deep technology integration within small companies on productivity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason stated for Pakistan's rupee not truly compounding?",
+        "options": [
+          "Low productivity and efficiency",
+          "Excessive government borrowing",
+          "Insufficient private investment",
+          "Lack of foreign direct investment"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Adjusted for our stalled productivity, no rupee in Pakistan truly compounds. We accumulate without amplifying.'"
+      },
+      {
+        "question": "Which reform is suggested to address the issue of finance not rewarding productivity?",
+        "options": [
+          "Increasing interest rates on government bonds",
+          "Implementing digital tax, utility, and supply-chain data for credit histories",
+          "Reducing regulatory pressures on banks",
+          "Mandating banks to lend more to SMEs"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article suggests, 'The remedy is information, not moral or regulatory pressures: digital tax, utility and supply-chain data turned into credit histories, alongside cash-flow lending...'"
+      },
+      {
+        "question": "According to the article, what is Pakistan's export percentage of GDP compared to Vietnam?",
+        "options": [
+          "Pakistan 10%, Vietnam 90%",
+          "Pakistan 20%, Vietnam 50%",
+          "Pakistan 5%, Vietnam 40%",
+          "Pakistan 15%, Vietnam 70%"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'Pakistan’s exports are stuck near 10 per cent of GDP, while those of Vietnam approach 90pc...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core economic problem in Pakistan identified by the author regarding national growth?",
+        "back": "The core problem is that no rupee in Pakistan truly compounds; the economy accumulates without amplifying due to stalled productivity, meaning inputs are not efficiently converted into output."
+      },
+      {
+        "front": "How does the article propose to improve Pakistan's export performance?",
+        "back": "By ruthlessly narrowing focus to tradables, concentrating on global value chains, developing industrial parks, implementing fast customs, ensuring reliable energy for exporters, and providing incentives based on performance (foreign exchange actually earned)."
+      },
+      {
+        "front": "What are the suggested reforms for the financial sector to move capital towards productivity instead of collateral?",
+        "back": "Reforms include using digital tax, utility, and supply-chain data to create credit histories, promoting cash-flow lending, establishing movable collateral registries, and providing first-loss guarantees to de-risk lending to SMEs, farmers, and women entrepreneurs."
+      },
+      {
+        "front": "What is the article's suggested approach to rebuilding agriculture?",
+        "back": "Agriculture should be rebuilt around yield, not acreage, focusing on precision inputs and efficiency. This includes initiatives like Kissan and Livestock Cards for bank-financed inputs, similar to India's white revolution models of cooperatives and cold chains."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783561231380-12",
+    "title": "Charity to social work\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013743/charity-to-social-work",
+    "date": "2026-07-08",
+    "author": "none@none.com (Rahbel Rahman-Tahir)",
+    "content": "PAKISTAN does not have a giving problem. Sunni Muslims in Pakistan pay over Rs619 billion in zakat annually, in addition to sadaqah and waqf endowments. Pakistanis give at mosques, through family networks and civil society organisations that have held communities together for decades. But charity is not social work.\n\nSocial work is a scientific discipline grounded in human behaviour, practised with mindfulness and critical reflection on power and privilege. It champions autonomy and dignity, not dependency. Zakat is a redistributive obligation meant to restore self-sufficiency, not establish need. Yet in practice, eligibility determination should be followed by structured follow-up — case management, referrals and ongoing check-ins that help someone move beyond recurring need.\n\nSocial work’s history is not one of progress but one of power. In Britain and the US, the profession grew out of framewo­rks that blurred the line between charity and control and between goodwill and au­­thority. Uncomfortable as that history is, we cannot build accountable, equitable systems without honestly confronting it.\n\nThe Elizabethan Poor Laws of 1601 determined that aid was reserved for the ‘deserving poor’ (women, children, elderly, disabled) while able-bodied men were punished for their poverty. This bias crossed into the US in 19th-century America through ‘friendly visitors’. These were largely privileged women who went door to door in poor and immigrant neighbourhoods, deciding who deserved help and how to assimilate them. Their visits disguised surveillance as kindness. In British India, similar philanthropy justified colonial rule. In all cases, relief was dictated by the ‘powerful’, with no input from recipients and little regard for harm.\n\nSocial work is not an act of goodwill; it is a profession.\n\nSocial work emerged in the US after decades of advocacy and institutional readiness. By 1952, the Council on Social Work Education had standardised curricula and accreditation nationwide. US-based social workers today are trained under nine core competencies covering ethics, diversity, human rights, research, policy and intervention at the individual, community and systems levels. They work in social service agencies, hospitals, schools, courts, child welfare, elder services and emergency response, as clinicians, case managers, programme developers and policy advocates.\n\nPakistan’s path has differed; not from lesser care but from missing infrastructure. After Partition, the country faced millions of refugees without a professional welfare system. In 1951, the government turned to the UN for help, resulting in emergency training courses focused on refugee care. These were triage responses, not academic programmes. Not until 1954 did the University of Punjab launch the country’s first postgraduate diploma in social work, followed by Karachi (1961), Balochistan (1974) and Peshawar (1978) — each relying heavily on Western curricula. Not until 2014 did human rights education and supervised fieldwork become mandatory.\n\nIn 2025, the Higher Education Commission released a nationally standardised, outcome-based curriculum developed by Pakistani academics from all four provinces. The BS requires 143 credit hours, four field placements, a supervised internship and a capstone project. The curriculum addresses Pakistan’s social realities, incorporates Islamic studies, and is rooted in local communities. This is not a borrowed framework translated; it is genuinely indigenous.\n\nCurriculum alone cannot close the gap. The public and many nonprofits still do not distinguish social work from cha­­rity work, and that is not a minor semantic differen­ce. Charity flows from goodwill. Social work is grounded in scie_nce that involves str­uctured assessment, evidence-based int­ervention, ethical accountability and a professional commitment to honest self-reflection. Without a national professional association, a licensing structure and an enforceable code of ethics, the field cannot regulate itself. Without these measures, the well-intentioned philanthropist of Pakistani civil society risks repeating the mistakes of that 19th-century friendly visitor, generous and well-meaning, but still operating within the very hierarchies they hoped to dismantle.\n\nPakistan has the generosity and an indigenous social work curriculum. It needs the institutional will across government, universities, and civil society to build a profession worthy of the people, built by Pakistanis for Pakistanis on the understanding that social work is not an act of goodwill; it is a profession. It is time we treated it as one.\n\nThe writer is an associate professor at Fordham University’s Graduate School of Social Service in New York.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Social Issues of Pakistan / Pakistan Affairs",
+    "topic": "The Professionalization of Social Work vs. Traditional Charity in Pakistan",
+    "whyMatters": "This article is crucial for understanding the distinction between traditional charity and professional social work, a key social issue in Pakistan. It provides historical context and highlights the institutional reforms needed to address social problems effectively.",
+    "summary": [
+      "Charity, though abundant in Pakistan (e.g., Rs619 billion in zakat), is distinct from social work, which is a scientific discipline focused on restoring self-sufficiency and upholding dignity.",
+      "Historically, social work in the West grew from power dynamics, blurring lines between charity and control (e.g., Elizabethan Poor Laws, 'friendly visitors'), a context that must be confronted for equitable systems.",
+      "Pakistan's social work infrastructure developed later than in the West, with academic programs starting in 1954 and mandatory human rights/fieldwork by 2014, leading to an indigenous, nationally standardized curriculum in 2025.",
+      "Despite the new curriculum, the professionalization of social work in Pakistan requires further institutional will, including a national professional association, a licensing structure, and an enforceable code of ethics to regulate the field."
+    ],
+    "facts": [
+      "Sunni Muslims in Pakistan pay over Rs619 billion in zakat annually.",
+      "The University of Punjab launched Pakistan’s first postgraduate diploma in social work in 1954.",
+      "In 2025, the Higher Education Commission (HEC) released a nationally standardized, outcome-based BS Social Work curriculum requiring 143 credit hours, four field placements, and a supervised internship."
+    ],
+    "academicReferences": [
+      "Higher Education Commission (HEC) of Pakistan, 'National Curriculum for BS Social Work (2025)'",
+      "Elizabethan Poor Laws of 1601 (historical context of welfare policies)",
+      "United Nations Development Programme (UNDP) reports on social welfare and capacity building in developing nations"
+    ],
+    "vocabulary": [
+      {
+        "word": "Autonomy",
+        "type": "noun",
+        "definition": "The right or condition of self-governance; freedom to act or function independently.",
+        "sentence": "Social work champions autonomy, helping individuals achieve self-sufficiency rather than fostering dependency."
+      },
+      {
+        "word": "Triage",
+        "type": "noun",
+        "definition": "The process of sorting and allocating aid on the basis of urgency and severity of condition.",
+        "sentence": "Early emergency training courses for social workers were triage responses, focused on immediate refugee care, not comprehensive academic programs."
+      },
+      {
+        "word": "Indigenous",
+        "type": "adjective",
+        "definition": "Originating or occurring naturally in a particular place; native.",
+        "sentence": "The 2025 HEC curriculum for social work is genuinely indigenous, rooted in Pakistan's social realities and local communities."
+      },
+      {
+        "word": "Accreditation",
+        "type": "noun",
+        "definition": "The official authorization or approval granted to an educational institution or program, indicating that it meets specified standards.",
+        "sentence": "By 1952, the Council on Social Work Education had standardized curricula and accreditation nationwide in the US."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental difference between charity and social work?",
+        "options": [
+          "Charity is based on goodwill, while social work is a scientific discipline grounded in structured assessment and ethical accountability.",
+          "Charity involves financial giving, whereas social work only focuses on non-monetary assistance.",
+          "Charity is only practiced by individuals, while social work is exclusively done by organizations.",
+          "Charity aims to establish need, while social work seeks to restore dependency."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Charity flows from goodwill. Social work is grounded in science that involves structured assessment, evidence-based intervention, ethical accountability and a professional commitment to honest self-reflection.' It also clarifies that social work champions autonomy and dignity, not dependency, and zakat is meant to restore self-sufficiency, not establish need."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the fundamental difference the article highlights between charity and social work?",
+        "back": "Charity stems from goodwill and addresses immediate needs, while social work is a scientific discipline grounded in structured assessment, evidence-based intervention, and ethical accountability, aiming for self-sufficiency."
+      },
+      {
+        "front": "How did the historical development of social work in the West, particularly in Britain and the US, differ from its ideal?",
+        "back": "It evolved from frameworks that often blurred the lines between charity and control, good will and authority, driven by power dynamics and biases (e.g., 'deserving poor,' 'friendly visitors')."
+      },
+      {
+        "front": "What key infrastructure development marked a significant step towards professionalizing social work education in Pakistan?",
+        "back": "The Higher Education Commission (HEC) released a nationally standardized, outcome-based BS Social Work curriculum in 2025, developed by Pakistani academics, incorporating local realities and Islamic studies."
+      },
+      {
+        "front": "Besides curriculum development, what does the article argue is still needed for social work to truly become a profession in Pakistan?",
+        "back": "A national professional association, a licensing structure, and an enforceable code of ethics are essential to regulate the field and prevent the repetition of historical mistakes of well-intentioned but unsupervised interventions."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783560744160-864",
+    "title": "Systemic failure\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013746/systemic-failure",
+    "date": "2026-07-08",
+    "author": "none@none.com (Zahid Hussain)",
+    "content": "THE spectacle of a number of cabinet ministers at an investment conference in Istanbul last week offers an insight into the current government’s perception of how to fix Pakistan’s problems. Of course, the inseparable duo of the prime minister and deputy PM was there too. The two may well have secured a place in the Guinness World Records for the most world tours undertaken together. They were apparently there to project Pakistan’s potential for foreign investment. No one denies the significance of such conferences for attracting foreign investment critical for economic growth. But the ministers’ presence at every conference will not, on its own, draw investor interest. What matters more is fixing things at home to create the environment and capacity for both domestic and foreign investment. Chaotic governance and inconsistent policies have been a major impediment in the way of any investment coming to the country.\n\nOver the past few years, Pakistan’s top leadership has addressed investment conferences in several regional countries, but there has not been much of a response. In fact, there has been a consistent decline in foreign direct investment. From a peak of $5-6 billion in 2007-08, there have been periods when FDI fell to $0.5bn. For an economy of its size — and being the fifth-largest country by population — that figure is strikingly low. By comparison, Vietnam, with one-third Pakistan’s population, pulls in $15-20bn annually.\n\nWe are made to believe that a tremendous opportunity for foreign investment exists and it is only a matter of time before investors will start lining up to do business here. A few years ago, while speaking to a gathering of businessmen in Islamabad, the army chief was reported to have said that the country could attract $100bn in foreign investment. This was echoed by some senior cabinet ministers. A federal minister even claimed that minerals worth $6 trillion lay in the former tribal areas. We also heard about the US interest in investing in rare earth minerals in Balochistan.\n\nA few years ago, we were also told that Saudi Arabia was ready to invest $25bn in various sectors. Indeed, many Saudi business delegations have visited Pakistan to explore investment opportunities here. A member of the former caretaker government who was present at one of the top meetings said Saudi officials told them they could not find any such opportunity. What they were pointing to was the lack of capacity — a major problem often cited by potential investors.\n\nChaotic governance and inconsistent policies continue to deter foreign investment in the country.\n\nIn fact, over the past few years, Pakistan has experienced an unprecedented wave of MNC exits, with major global brands closing operations, selling to local firms and withdrawing entirely. Each company may have its own reason and its exit may be part of a worldwide shift and not Pakistan-specific. But many do complain of the high cost of doing business in the country. Some of these MNCs, including American companies, had been here for decades.\n\nA senior American diplomat told me that, among other reasons, high corporate taxes and ever-changing policies were the main factors behind companies’ decision to wind up business here. In August 2024, the Pakistan Business Cou­ncil warned that repeated and prolonged internet disruptions were pushing MNCs to consider wrapping up business in the country. An unreliable digital infrastructure is incompatible with modern technology and service-sector operations.\n\nFrequent policy reversals and persistent economic and political instability deter foreign investors the most. Many cite the lack of administrative stability and bureaucratic hurdles, which make long-term planning difficult. Pakistan consistently ranks poorly on global ease-of-doing-business indices. Each high-profile exit triggers further loss of investor confidence. These problems cannot be resolved by high-level participation at international investment conferences; the focus must shift to addressing the issues impeding economic growth at home.\n\nForeign investment is directly linked to domestic investment. One cannot expect foreign capital to flow in while domestic investment is stagnant, even falling. Domestic private investment has fallen to a decades-low level, though there was a slight improvement last year. Total investment as a share of GDP has dropped from around 17 per cent in 2018 to roughly 13-14pc in 2023–24. We have the lowest savings rate in the region, which weighs on domestic investment. In such a situation, how can one hope for FDI to materialise?\n\nIn June 2023, the government established the Special Investment Facilitation Council, designed as a ‘single-window’ platform to coordinate investment promotion, cut through bureaucratic red tape and fast-track large projects. The civil-military body, led by a senior army officer, has the explicit purpose of facilitating investment from ‘friendly nations’, with particular emphasis on the GCC countries. The government claims the SIFC has secured roughly $27bn in pledges since its launch.\n\nBut there is a huge gap between pledges and actual investment. As the World Bank has noted, facilitation is not reform. The SIFC may accelerate deal-making; on its own, it cannot change investors’ perceptions shaped by inconsistent policies, bureaucratic bottlenecks, judicial delays and a flawed taxation system. However powerful it may be, the SIFC cannot convert pledges into sustained, broad-based FDI under the prevailing conditions.\n\nA perception is now being built that Pakistan’s newfound international prominence — driven by its role as a mediator in the US-Iran conflict and its geostrategic position — may bring a windfall in foreign investment. The multibillion-dollar FDI potential, as touted in official circles, does not exist, and it is best to shift our focus to resolving fundamental structural problems. That is better for the country.\n\nInvestment comes when economic fundamentals are strong, not because of a fleeting moment in the international limelight. More importantly, political uncertainty — driven by political volatility and weak judicial and democratic institutions — does not give investors the confidence required for long-term commitments. The political unrest and militant insurgency gripping the two major provinces, alongside tense eastern and western borders, reinforce perceptions of Pakistan as a fragile state. The government needs to focus on these systemic failures at home rather than basking in the international limelight.\n\nThe writer is an author and journalist.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Economics / Pakistan Affairs",
+    "topic": "Foreign Direct Investment (FDI) Challenges and Systemic Governance Failure in Pakistan",
+    "whyMatters": "This article provides a critical analysis of Pakistan's economic challenges, particularly in attracting investment, which is crucial for essays and analytical questions in Economics and Pakistan Affairs. It offers specific examples and data points to support arguments about governance, policy inconsistency, and the need for structural reforms, enabling students to construct well-informed responses.",
+    "summary": [
+      "Pakistan's high-level participation in international investment conferences is largely ineffective without simultaneously addressing fundamental domestic governance issues, inconsistent policies, and bureaucratic hurdles.",
+      "Despite optimistic claims, foreign direct investment (FDI) in Pakistan remains strikingly low compared to its potential and regional peers like Vietnam, with a consistent decline over the past few years.",
+      "Exaggerated official claims about vast investment potential often do not materialize due to a severe lack of capacity, high cost of doing business, and frequent policy reversals, leading to an unprecedented wave of MNC exits.",
+      "Initiatives like the Special Investment Facilitation Council (SIFC) focus on facilitation but cannot substitute for fundamental structural reforms, political stability, and strong institutions required to convert pledges into sustained, broad-based FDI."
+    ],
+    "facts": [
+      "Pakistan's FDI fell from a peak of $5-6 billion (2007-08) to as low as $0.5 billion at times, while Vietnam attracts $15-20 billion annually.",
+      "Domestic private investment has dropped to a decades-low level, and total investment as a share of GDP decreased from ~17% (2018) to roughly 13-14% (2023-24).",
+      "The Special Investment Facilitation Council (SIFC), launched in June 2023, has secured roughly $27 billion in pledges, though actual investment lags far behind."
+    ],
+    "academicReferences": [
+      "World Bank's Ease of Doing Business Report (relevant to Pakistan's poor rankings and bureaucratic hurdles)",
+      "Pakistan Economic Survey (for official statistics on investment, GDP, and economic indicators)",
+      "IMF Stand-By Arrangement (SBA) / Extended Fund Facility (EFF) documents (often detail structural reforms and governance conditionalities)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Spectacle",
+        "type": "noun",
+        "definition": "A visually striking performance or display.",
+        "sentence": "The ministers' presence at the investment conference was described as a mere spectacle without tangible domestic reforms."
+      },
+      {
+        "word": "Impediment",
+        "type": "noun",
+        "definition": "A hindrance or obstruction in doing something.",
+        "sentence": "Chaotic governance and inconsistent policies have been a major impediment to attracting any significant investment."
+      },
+      {
+        "word": "Deter",
+        "type": "verb",
+        "definition": "To discourage someone from doing something by instilling doubt or fear.",
+        "sentence": "Frequent policy reversals and political instability deter foreign investors the most from long-term commitments."
+      },
+      {
+        "word": "Unprecedented",
+        "type": "adjective",
+        "definition": "Never done or known before.",
+        "sentence": "Pakistan has recently experienced an unprecedented wave of multinational corporations (MNCs) exiting the country."
+      },
+      {
+        "word": "Windfall",
+        "type": "noun",
+        "definition": "A large amount of money received unexpectedly or by luck.",
+        "sentence": "The author dismisses the idea that Pakistan's newfound international prominence will bring a sudden windfall in foreign investment."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason why high-level participation in international investment conferences has not significantly boosted foreign investment in Pakistan?",
+        "options": [
+          "A) Pakistan's lack of interest in foreign investment opportunities.",
+          "B) Lack of capacity, chaotic governance, and inconsistent domestic policies.",
+          "C) A global economic slowdown affecting all emerging markets equally.",
+          "D) An insufficient number of international conferences attended by Pakistani officials."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'What matters more is fixing things at home to create the environment and capacity for both domestic and foreign investment. Chaotic governance and inconsistent policies have been a major impediment in the way of any investment coming to the country.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core argument the author makes regarding the effectiveness of high-level participation in international investment conferences for Pakistan?",
+        "back": "The author argues that high-level participation alone is insufficient; what truly matters is fixing domestic issues like chaotic governance, inconsistent policies, and bureaucratic hurdles to create an attractive environment for investment."
+      },
+      {
+        "front": "How does Pakistan's FDI performance compare to Vietnam, and what does this comparison highlight about Pakistan's investment appeal?",
+        "back": "Pakistan's FDI has plummeted from a peak of $5-6 billion to as low as $0.5 billion, while Vietnam, with one-third of Pakistan's population, attracts $15-20 billion annually, highlighting Pakistan's strikingly low and declining investment appeal due to systemic issues."
+      },
+      {
+        "front": "What role does domestic investment play in attracting foreign investment, according to the article?",
+        "back": "Foreign investment is directly linked to domestic investment; one cannot expect foreign capital to flow in when domestic investment is stagnant or falling, as this signals broader economic weakness and lack of confidence."
+      },
+      {
+        "front": "Why does the article suggest that initiatives like the Special Investment Facilitation Council (SIFC) might not be fully effective in the long run, despite its aims?",
+        "back": "The article states SIFC may accelerate deal-making but cannot replace fundamental reforms. It argues that facilitation is not reform and cannot change investors' perceptions shaped by inconsistent policies, bureaucratic bottlenecks, judicial delays, political instability, and a flawed taxation system."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783561082013-176",
+    "title": "Terrorism threat\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013740/terrorism-threat",
+    "date": "2026-07-08",
+    "author": "none@none.com (Editorial)",
+    "content": "THE surge in terrorist violence in Balochistan highlights the renewed threat confronting Pakistan. The martyrdom of at least nine policemen in Ziarat and the arrest of two alleged BLA operatives in Karachi on Tuesday, preceded by deadly violence near Quetta a day earlier, indicate that terrorist groups retain both the capability and intent to challenge the state’s writ.\n\nWhile security forces responded by killing 15 terrorists, the priority should be to determine whether groups that have traditionally operated independently are now cooperating operationally. Any evidence of tactical collaboration between the banned TTP and separatist outfits such as the BLA would mark a dangerous escalation.\n\nThe latest incidents also reinforce concerns that militancy is no longer confined to the remote districts of Balochistan and KP. The foiled plot in Karachi coming soon after the attack on Rangers personnel in the city is a reminder that urban centres could be the next targets.\n\nThe state’s counterterrorism strategy must anticipate a broader geographical spread of violence, instead of simply reacting after attacks have taken place. This places renewed emphasis on intelligence. While Pakistan’s security forces have repeatedly demonstrated their ability to neutralise militants once contact is established, preventing attacks before they take place remains the real measure of success.\n\nBetter coordination among intelligence agencies, provincial CT agencies, police and the military is critical. Human intelligence, surveillance, forensic capabilities and the ability to identify emerging networks deserve far greater investment if the state is to stay ahead of the terrorist groups. The broader regional dimension cannot be overlooked either.\n\nPakistan has consistently maintained that these elements enjoy sanctuary inside Afghanistan. Therefore, Islamabad is justified in maintaining pressure on Kabul to ensure that Afghan territory will not be used against Pakistan. The Afghan Taliban’s continued reluctance to act decisively against groups targeting Pakistan remains a central obstacle to regional security. Durable peace cannot be achieved while terrorist organisations retain safe havens across the border.\n\nOur ranking as the world’s most terrorism-affected country reflects the scale of the challenge confronting us. Pakistan’s response must go beyond kinetic operations. Military action remains necessary against armed groups that threaten the state, but it must be complemented by superior intelligence, stronger policing and sustained pressure on Afghanistan to dismantle terrorist sanctuaries.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2022-AFGH",
+      "paper": "Current Affairs",
+      "year": 2022,
+      "question": "The 2021 Taliban Takeover of Afghanistan presents regional and global challenges. Elaborate the anticipated policies of the Taliban government and the regional and global response."
+    },
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Current Affairs",
+    "topic": "Regional Security, Counter-Terrorism, and Pakistan-Afghanistan Relations Post-2021 Taliban Takeover",
+    "whyMatters": "This article is crucial for addressing the 'regional challenges' and 'regional response' aspects of the 2021 Taliban Takeover of Afghanistan. It explicitly details the escalating terrorism threat to Pakistan originating from sanctuaries in Afghanistan and highlights Pakistan's counterterrorism strategy and diplomatic pressure on the Afghan Taliban as a regional response.",
+    "summary": [
+      "Pakistan faces a renewed and escalating threat from terrorist groups, evidenced by a surge in violence in Balochistan and its potential spread to urban centers like Karachi.",
+      "A significant concern is the potential for tactical collaboration between traditionally independent terrorist groups like the TTP and separatist outfits such as the BLA.",
+      "The state's counterterrorism strategy needs to evolve from reactive kinetic operations to proactive, intelligence-driven prevention, demanding better inter-agency coordination and investment in human intelligence and forensic capabilities.",
+      "A central obstacle to regional security and durable peace is the Afghan Taliban's continued reluctance to act decisively against groups using Afghan territory as sanctuaries against Pakistan."
+    ],
+    "facts": [
+      "At least nine policemen were martyred in Ziarat due to terrorist violence.",
+      "Two alleged BLA operatives were arrested in Karachi, indicating a potential urban threat.",
+      "Pakistan is ranked as the world’s most terrorism-affected country, reflecting the scale of the challenge."
+    ],
+    "academicReferences": [
+      "Global Terrorism Index 2023 (Institute for Economics & Peace - IEP)",
+      "UN Security Council Resolution 2593 (2021) concerning Afghanistan post-Taliban takeover, calling on the Taliban to prevent the use of Afghan territory by terrorists.",
+      "Council on Foreign Relations Backgrounder: 'The Taliban: A Guide to the Insurgent Group' (for context on Taliban's policies and impact)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Martyrdom",
+        "type": "noun",
+        "definition": "The death of a person who is killed because of their religious or other beliefs. In a military context, often refers to a soldier killed in action, especially when seen as a sacrifice for their country.",
+        "sentence": "The article highlighted the martyrdom of nine policemen in Ziarat, underscoring the severe human cost of terrorism."
+      },
+      {
+        "word": "Kinetic operations",
+        "type": "noun (plural)",
+        "definition": "Military or security actions involving the use of force, such as combat engagements, airstrikes, or raids.",
+        "sentence": "The article argues that Pakistan's counterterrorism strategy needs to go beyond mere kinetic operations to include superior intelligence."
+      },
+      {
+        "word": "Sanctuary",
+        "type": "noun",
+        "definition": "A place of refuge or safety; in the context of terrorism, a safe haven where groups can operate, train, and plan without immediate threat.",
+        "sentence": "Pakistan consistently maintains that terrorist elements enjoy sanctuary inside Afghanistan, complicating regional security efforts."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as a central obstacle to durable regional peace, particularly concerning Afghanistan?",
+        "options": [
+          "A) The lack of advanced military technology in Pakistan's counterterrorism forces.",
+          "B) The Afghan Taliban’s continued reluctance to act decisively against groups targeting Pakistan.",
+          "C) The absence of international financial aid for Pakistan's security sector.",
+          "D) The historical ethnic tensions between Balochistan and Khyber Pakhtunkhwa."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'The Afghan Taliban’s continued reluctance to act decisively against groups targeting Pakistan remains a central obstacle to regional security.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary concern raised by the article regarding the nature of terrorist groups operating in Pakistan?",
+        "back": "The primary concern is the potential for tactical collaboration between traditionally independent groups like the TTP and separatist outfits such as the BLA."
+      },
+      {
+        "front": "How does the article suggest Pakistan's counterterrorism strategy should evolve to address the renewed threat?",
+        "back": "The strategy should shift from reactive kinetic operations to proactive, intelligence-driven prevention, with greater emphasis on inter-agency coordination and investment in intelligence capabilities."
+      },
+      {
+        "front": "What geographical shift in terrorist violence does the article highlight as a new concern for Pakistan?",
+        "back": "The article highlights the concern that militancy is no longer confined to remote districts but is now extending to urban centers, as seen in incidents in Karachi."
+      },
+      {
+        "front": "What diplomatic pressure does Pakistan maintain on Kabul concerning the regional dimension of terrorism?",
+        "back": "Pakistan is justified in maintaining pressure on Kabul to ensure that Afghan territory will not be used as a sanctuary or base for groups targeting Pakistan."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783561314917-626",
+    "title": "Football meddling\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013739/football-meddling",
+    "date": "2026-07-08",
+    "author": "none@none.com (Editorial)",
+    "content": "AFTER ending co-hosts America’s World Cup run in the last-16 stage, Belgium felt justice had been served. It was not only the Belgians who were celebrating after their 4-1 romp. Indeed, the rest of the football world, too, felt vindicated by America’s humiliation. “Overturn this,” said the Belgian football team on social media after their victory — a jibe directed at FIFA and US President Donald Trump, who had intervened to ensure his country’s striker Folarin Balogun was allowed to play in the game despite having been shown a red card in the previous match against Bosnia and Herzegovina. Mr Trump had lobbied for Balogun’s red card to be overturned, asking FIFA president Gianni Infantino — who was already under fire for his close association with the American president — to review the decision. FIFA eventually suspended the match ban — marking the first time since 1962 that punishment for a World Cup offence was put on hold during the tournament.\n\nMr Infantino’s position that Balogun’s suspension was the decision of an independent FIFA disciplinary committee did little to deflect the impression that the Americans were deliberately bending the rules. The European football governing body UEFA called the decision “unprecedented, incomprehensible and unjustifiable”. The Swiss Football Association questioned the credibility of the World Cup. While the Royal Belgian Football Association filed an appeal against FIFA’s decision to allow Balogun to play in the last-16 tie, the football body dismissed it on the grounds that since Belgium was not a party to the proceedings, it had no legal standing to take this action. On the field, Belgium’s celebrations mocked Mr Trump, with Romelu Lukaku joining his team-mates in the famous ‘Trump Dance’ after scoring their fourth goal in Seattle. Belgian fans chanted “FIFA mafia” during the game. Despite America’s exit, the furore over Mr Trump’s meddling refuses to die down. The incident has called into question FIFA’s neutrality. Mr Infantino must ensure that politics is not allowed to dictate decisions on the field.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "International Relations / Current Affairs / Ethics (Governance)",
+    "topic": "Political Interference in Global Sports Governance and Organizational Credibility",
+    "whyMatters": "This article highlights how political influence can undermine the autonomy and integrity of international organizations, a critical issue for understanding global governance challenges. It provides a concrete example of compromised neutrality, which aspirants can use to illustrate points on accountability and the rule of law in international affairs.",
+    "summary": [
+      "US President Donald Trump intervened with FIFA President Gianni Infantino to overturn a red card for American striker Folarin Balogun.",
+      "FIFA controversially suspended Balogun's match ban, marking the first such instance during a World Cup since 1962.",
+      "The decision provoked widespread condemnation from European football bodies like UEFA, Swiss FA, and Belgian FA, who questioned FIFA's neutrality and credibility.",
+      "The incident underscores the growing concern over political meddling in sports and FIFA's integrity under Infantino's leadership."
+    ],
+    "facts": [
+      "Folarin Balogun received a red card in a match against Bosnia and Herzegovina.",
+      "Belgium defeated America 4-1 in the last-16 stage of the World Cup.",
+      "It was the first time since 1962 that punishment for a World Cup offence was put on hold during the tournament."
+    ],
+    "academicReferences": [
+      "\"The Geopolitics of Sport: Power, Politics, and Global Governance\" (A relevant academic field/theme)",
+      "FIFA Code of Ethics and Disciplinary Regulations (The theoretical framework for fair play and governance)",
+      "United Nations Principles of Public Administration (Focuses on accountability, transparency, and integrity)"
+    ],
+    "vocabulary": [
+      {
+        "word": "meddling",
+        "type": "noun",
+        "definition": "Interfering in something that is not one's concern, in an unwelcome or intrusive way.",
+        "sentence": "The article discusses the impact of political meddling in sports affairs."
+      },
+      {
+        "word": "vindicated",
+        "type": "verb (past participle)",
+        "definition": "Cleared of accusation or suspicion; showed to be right or justified.",
+        "sentence": "The football world felt vindicated by America's humiliation after the controversial decision."
+      },
+      {
+        "word": "jibe",
+        "type": "noun",
+        "definition": "An insulting or mocking remark.",
+        "sentence": "The Belgian team's social media post was a jibe directed at FIFA and President Trump."
+      },
+      {
+        "word": "furore",
+        "type": "noun",
+        "definition": "An uproar or outburst of public excitement or anger.",
+        "sentence": "Despite America's exit, the furore over Mr Trump’s meddling refuses to die down."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What made FIFA's decision to suspend Folarin Balogun's match ban particularly controversial and unusual?",
+        "options": [
+          "It was the first time a red card was issued in a World Cup knockout stage.",
+          "It was the first time since 1962 that a punishment for a World Cup offence was put on hold during the tournament.",
+          "FIFA President Gianni Infantino had never before met with a US President.",
+          "The decision was announced just hours before the match, surprising everyone."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that this marked 'the first time since 1962 that punishment for a World Cup offence was put on hold during the tournament,' highlighting its unprecedented nature."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the primary concern raised by other football associations regarding FIFA's decision to allow Balogun to play?",
+        "back": "They questioned FIFA's neutrality and credibility, calling the decision 'unprecedented, incomprehensible and unjustifiable'."
+      },
+      {
+        "front": "How did the Belgian team and fans express their protest against the alleged political interference by Donald Trump?",
+        "back": "The team performed the 'Trump Dance' after scoring, and Belgian fans chanted 'FIFA mafia' during the game."
+      },
+      {
+        "front": "What specific action did US President Donald Trump take that sparked the controversy surrounding Folarin Balogun?",
+        "back": "He lobbied FIFA President Gianni Infantino to review and overturn the red card decision against Balogun."
+      },
+      {
+        "front": "According to the article, what broader issue did the incident call into question regarding FIFA?",
+        "back": "The incident called into question FIFA’s neutrality and raised concerns about politics dictating decisions on the field."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783560832628-562",
+    "title": "Backyard blues\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013742/backyard-blues",
+    "date": "2026-07-08",
+    "author": "none@none.com (Mahir Ali)",
+    "content": "FROM the Monroe Doctrine to its ‘Donroe’ variant, the US has regarded Latin America as its backyard, a vast protectorate whose resources — natural and human — must always remain available for exploitation to the regional hegemon that replaced European colonial powers more than a century ago. The Cuban revolution of 1959 posed the first insurmountable challenge to this trend. Five years earlier, the US had successfully deposed a reformist government in Guatemala (among the witnesses to this catastrophe was a young Argentinian doctor, Ernesto Guevara), just a year after thwarting democracy in Iran. The bearded rebels who had overthrown the Batista dictatorship in Cuba proved harder to dislodge — and, 67 years later, the US is still on the job.\n\nThe advent of Latin America’s ‘pink tide’ at the turn of the century, with the election of Hugo Chávez as Venezuela’s president took Washington by surprise, focused as it was at the time on Iraq and Afghanistan. Since then, a number of hopeful trends have been witnessed in the region, represented by figureheads such as Manuel Zelaya and Xiomara Castro in Honduras, Luiz Inácio Lula da Silva in Brazil, Michelle Bachelet and Gabriel Boric in Chile, arguably Néstor and Cristina Kirchner in Argentina, Gustavo Petro in Colombia, Evo Morales in Bolivia and, perhaps above all, the late José ‘Pepe’ Mujica in Uruguay.\n\nBefore long, Uruguay might be the only country on the continent that could be perceived as at least vaguely progressive. A dark tide has lately been creeping across the rest of the continent, facilitated by the regressive Trump regime’s open war against any trends it does not appreciate. The threats range from withholding investment and other funds unless any given electorate behaves according to the wishes of the ogre in the gilded Oval Office to dire vows of military retaliation if the serfs resist their overlord’s dictates.\n\nThe consequences range from the empowerment of Nasry Asfura in Honduras and José Antonio Kast in Chile to the impending inauguration of Abelardo De La Espriella in Colombia and Keiko Fujimori in Peru. They will join the likes of Nayib Bukele in El Salvador, Daniel Noboa in Ecuador, Rodrigo Paz in Bolivia and Argentina’s chainsaw-wielding showman Javier Milei. The trend towards authoritarian extremism was arguably spearheaded by Brazil’s Jair Bolsonaro, who is currently under house arrest for trying to foment a military coup following the 2022 election he lost to Lula. It remains to be seen whether Lula, now an octogenarian like Donald Trump, will win a fourth term in October, when his primary rival is expected to be Jair’s son Flávio Bolsonaro, who has been lobbying a receptive Trump.\n\nA dark tide has been creeping across much of South America.\n\nThere’s a common thread that stretches across the continent’s far-right revivalists, involving deregulation, privatisation and open markets, alongside a range of guarantees for international (ie, American but not Chinese) investors. China becoming the leading trading partner of major economies in Latin America disturbed the US, and it’s far from obvious whether that logical trend can easily be turned. But there’s also another key aspect. The most vociferous official criticism of the genocide in Gaza, now extended to the West Bank, has come from that part of the world, with Colombia’s Petro going to the laudable extent of breaking off diplomatic and trade ties with Israel. They will no doubt be restored under his reactionary successor.\n\nThat, too, threatens to become a continent-wide trend. It should come as no surprise that the level of hasbara exposed in the Honduras-gate leaks is merely a small example of what Is­­rael’s influence op­­erations are striving for in a region that is not its backyard. But having an overbearing godfather in the zone is obviously an adv­a­ntage. Zionist lob­by groups across the continent have de­­ployed the International Holocaust Rem­embrance Alliance’s absurd definition of antisemitism to legally entrap critics of the Israeli genocide.\n\nAmerica’s interests extend much further. It covets the region’s natural resources and threatens anyone who defends the economic sovereignty of its targets. There’s nothing new in that form of neocolonialism. The only difference is that now there are no holds barred. The emperor is voracious, and doesn’t care if anyone knows it. If his insatiable greed involves assassinating or kidnapping foreign heads of state, so be it. That becomes the new foreign policy.\n\nWho can say when a backlash will decisively emerge against the fascistic trend now rampant in South and Central America, although it eventually must. Across most nations, the divided left should be answerable for its serial woes. In many cases, though, there’s scope for hope that the US/Israeli-aided triumph of the far right will turn out to be short-lived, provided la lucha continua — the struggle carries on.\n\nPublished in Dawn, July 8th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Current Affairs",
+    "topic": "Regional Integration and External Influences (Comparative Case Study)",
+    "whyMatters": "While not directly about Pakistan or ECO, this article offers a vital comparative lens on how external hegemonic interests and internal political shifts can impede genuine regional integration. It illustrates the complex interplay of economic sovereignty, geopolitical competition, and ideological tides, providing an analogous framework to analyze similar challenges faced by other regional blocs like ECO.",
+    "summary": [
+      "The US has historically viewed Latin America as its 'backyard' for resource exploitation, a dominance challenged by the 1959 Cuban revolution and the subsequent 'pink tide' of progressive governments.",
+      "A 'dark tide' of right-wing authoritarianism is now sweeping across Latin America, fueled by US opposition to progressive trends and promoting deregulation, privatization, and open markets.",
+      "China's emergence as a leading trading partner in the region has disturbed the US, highlighting shifting global economic and political alignments.",
+      "Latin American nations have been vocal critics of the Israel-Gaza conflict, with some like Colombia taking drastic diplomatic steps, exposing a new dimension of geopolitical influence and 'hasbara' operations in the region."
+    ],
+    "facts": [
+      "The Cuban revolution of 1959 posed the first 'insurmountable challenge' to US dominance in Latin America.",
+      "The 'pink tide' began with Hugo Chávez's election in Venezuela at the turn of the century.",
+      "Jair Bolsonaro of Brazil is currently under house arrest for attempting to foment a military coup after losing the 2022 election.",
+      "Colombia’s Gustavo Petro broke off diplomatic and trade ties with Israel over the Gaza conflict.",
+      "China has become the leading trading partner of major economies in Latin America."
+    ],
+    "academicReferences": [
+      "Chomsky, Noam. Hegemony or Survival: America's Quest for Global Dominance. Metropolitan Books, 2003.",
+      "Stiglitz, Joseph E. Globalization and Its Discontents. W. W. Norton & Company, 2002.",
+      "Harvey, David. The New Imperialism. Oxford University Press, 2003."
+    ],
+    "vocabulary": [
+      {
+        "word": "Hegemon",
+        "type": "noun",
+        "definition": "A dominant state or power, especially one that leads a group of allies or controls a region.",
+        "sentence": "The US was described as the regional hegemon that replaced European colonial powers in Latin America."
+      },
+      {
+        "word": "Protectorate",
+        "type": "noun",
+        "definition": "A state that is controlled and protected by another, stronger one.",
+        "sentence": "The US has regarded Latin America as its backyard, a vast protectorate."
+      },
+      {
+        "word": "Pink tide",
+        "type": "noun",
+        "definition": "A political phenomenon in the early 21st century where left-wing governments gained power in various Latin American countries.",
+        "sentence": "The advent of Latin America’s ‘pink tide’ at the turn of the century took Washington by surprise."
+      },
+      {
+        "word": "Hasbara",
+        "type": "noun",
+        "definition": "(Hebrew) Public diplomacy or propaganda used by Israel to explain its policies and actions, often in controversial contexts.",
+        "sentence": "The level of hasbara exposed in the Honduras-gate leaks is merely a small example of what Israel’s influence operations are striving for."
+      },
+      {
+        "word": "Neocolonialism",
+        "type": "noun",
+        "definition": "The use of economic, political, cultural, or other pressures to control or influence other countries, especially former dependencies, without overt military presence.",
+        "sentence": "There’s nothing new in that form of neocolonialism, as America covets the region’s natural resources."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which event in 1959 did the article identify as the 'first insurmountable challenge' to US dominance in Latin America?",
+        "options": [
+          "The election of Hugo Chávez in Venezuela",
+          "The Cuban revolution",
+          "The overthrow of a reformist government in Guatemala",
+          "The US thwarting democracy in Iran"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'The Cuban revolution of 1959 posed the first insurmountable challenge to this trend.'"
+      },
+      {
+        "question": "What common economic thread is identified among Latin America's 'far-right revivalists'?",
+        "options": [
+          "Increased social welfare programs",
+          "Deregulation, privatization, and open markets",
+          "Strengthening ties with regional blocs like Mercosur",
+          "Promoting indigenous rights and land reforms"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article notes: 'There’s a common thread that stretches across the continent’s far-right revivalists, involving deregulation, privatisation and open markets, alongside a range of guarantees for international... investors.'"
+      },
+      {
+        "question": "Which country, according to the article, took the 'laudable extent' of breaking off diplomatic and trade ties with Israel over the Gaza conflict?",
+        "options": [
+          "Brazil",
+          "Chile",
+          "Colombia",
+          "Uruguay"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'Colombia’s Petro going to the laudable extent of breaking off diplomatic and trade ties with Israel.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core concept behind the US viewing Latin America as its 'backyard,' according to the article?",
+        "back": "It signifies the US regarding the region as a protectorate whose natural and human resources are primarily available for its exploitation as the regional hegemon."
+      },
+      {
+        "front": "How does the article characterize the shift from the 'pink tide' to the 'dark tide' in Latin America?",
+        "back": "The 'pink tide' represented a rise of left-leaning progressive governments, while the 'dark tide' signifies a return to right-wing authoritarianism, facilitated by US opposition and driven by neoliberal economic policies."
+      },
+      {
+        "front": "Besides US influence, what other major external power is noted for its increasing presence in Latin America?",
+        "back": "China, which has become the leading trading partner for major economies in the region, much to the US's disturbance."
+      },
+      {
+        "front": "How does the article link the current political trends in Latin America to the Israel-Gaza conflict?",
+        "back": "The region has shown significant official criticism of the conflict, with some countries like Colombia breaking ties with Israel, which is seen as a potential continent-wide trend and a target for Israeli influence operations."
+      }
+    ]
+  },
+  {
     "id": "curated-1783474039826-439",
     "title": "Federation finance\n",
     "source": "Dawn",
@@ -72,6 +675,94 @@
       {
         "front": "Why is the argument that provinces don't raise enough taxes considered misleading by the author?",
         "back": "The biggest tax heads are with the center to enable rich-to-poor transfers, meaning the funds transferred to provinces aren't truly the center's 'own,' creating a skewed and misleading revenue ratio."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783561401613-238",
+    "title": "Economic stabilisation without social progress",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2617016/economic-stabilisation-without-social-progress",
+    "date": "2026-07-07",
+    "author": "\n\t\t\t\tJazib Mumtaz\n\t\t\t",
+    "content": "The Economic Survey 2025-26 shows a considerable decline in Pakistan's socioeconomic situation between 2018-19 and 2024-25. Poverty rose from 21.9% to 28.9%, signifying a 32% increase in the poverty headcount, implying that a higher proportion of the population is unable to fulfil basic living standards. Income inequality also deteriorated, with the Gini coefficient rising from 28.4 to 32.7, representing a 15% increase and suggesting a more uneven distribution of income.\n\nPersistently high inflation has been a major contributing element to this downturn. The Consumer Price Index (CPI) increased by 125%, rising from 117.18 in 2018-19 to 264.03 in 2024-25, indicating that the overall price level more than doubled throughout the period. As prices climbed faster than incomes, household buying power fell dramatically. As a result, according to the planning commission, real income declines by 12% from Rs35,454 to Rs31,127, while real consumption also declines by 5% from Rs31,711 to Rs29,980, during the same period.\n\nOverall, rising inflation has reduced real earnings and consumption, contributed to higher poverty rates and increased income inequality. These patterns point to a reduction in household welfare and living standards, particularly for low- and middle-income groups, emphasising the need for policies aimed at price stability, income growth, job development and social protection.\n\nPro-poor spending remained an essential policy tool for safeguarding vulnerable communities and promoting inclusive growth. As per economic survey, pro-poor expenditure rose from Rs3,099 billion in 2018-19 to Rs4,256 billion in 2024-25, a 37% rise. Despite an increase in pro-poor spending, poverty and inequality have deteriorated during the same period. This reflects that the increase in spending was insufficient to compensate for the negative consequences of high inflation, slower economic growth, falling real earnings and diminished buying power. The substantial increase in consumer prices reduced the actual value of government spending and household incomes, restricting the efficiency of social welfare programs.\n\nThe labour market statistics paint a dismal picture. Pakistan's population grew from 216.1 million in 2018-19 to 252.1 million in 2024-25, a 17% rise. This population boom was followed by a considerable expansion of the labour force, which increased by 21% from 68.8 million to 83.1 million. The number of employed people likewise climbed by 21%, from 64.0 million to 77.2 million.\n\nDespite the growth in employment, unemployment grew by 25%, from 4.7 million unemployed people to 5.9 million. This shows that employment creation was insufficient to meet the rising labour force. As a result, the number of persons seeking job but unable to obtain it rose over time.\n\nEven among those who stayed working, rising prices reduced the real worth of income, lowering living standards and financial stability. These data indicate that job creation alone was insufficient to enhance welfare outcomes because employment growth did not coincide with adequate real income growth. High inflation, diminishing buying power and growing unemployment harmed household welfare, putting more families below the poverty line and widening income gaps.\n\nDespite the severity of these socioeconomic challenges, the Federal Budget 202627 falls short of providing a comprehensive strategy to address the underlying causes of rising poverty, inequality and declining household welfare. The budget places a strong emphasis on revenue mobilisation and fiscal consolidation, but it offers limited measures to safeguard real incomes, create significant job opportunities or promote widespread economic growth. Similarly, labour-intensive industries like manufacturing and SMEs which could absorb the expanding labour force and lower unemployment are not given much attention. The budget is unlikely to reverse the deteriorating trends in poverty, inequality and household welfare without focused interventions to reduce inflation, boost productivity, create high-quality jobs and bolster social safety nets.",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs",
+    "topic": "Socioeconomic Challenges of Economic Stabilization in Pakistan",
+    "whyMatters": "This article directly addresses the 'major economic challenges' faced by Pakistan, providing recent data and trends on poverty, inequality, and inflation. It also implicitly highlights areas for 'recommendations' by critiquing current policy approaches, making it highly relevant for answering the given exam question comprehensively.",
+    "summary": [
+      "Pakistan experienced a significant socioeconomic decline between 2018-19 and 2024-25, marked by a substantial increase in poverty (32%) and income inequality (15%), despite efforts toward economic stabilization.",
+      "Persistently high inflation, with the Consumer Price Index (CPI) increasing by 125%, severely eroded household purchasing power, leading to a 12% decline in real incomes and a 5% decline in real consumption.",
+      "Despite a 37% rise in pro-poor expenditure, its effectiveness was curtailed by high inflation, which reduced the real value of government spending and diminished the actual impact on household incomes and welfare.",
+      "The labor market faced significant challenges, including a 25% increase in unemployment and reduced real wages for the employed, indicating that job creation was insufficient to meet the expanding labor force and maintain living standards.",
+      "The Federal Budget 2026–27 is criticized for emphasizing revenue mobilization and fiscal consolidation without adequately providing a comprehensive strategy to address the underlying causes of rising poverty, inequality, and declining household welfare."
+    ],
+    "facts": [
+      "Poverty headcount increased by 32%, from 21.9% to 28.9%, between 2018-19 and 2024-25.",
+      "The Consumer Price Index (CPI) increased by 125%, from 117.18 to 264.03, doubling the overall price level between 2018-19 and 2024-25.",
+      "Unemployment in Pakistan rose by 25%, from 4.7 million to 5.9 million, during the period of 2018-19 to 2024-25."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (Annual Publication)",
+      "IMF Stand-by Arrangement (SBA) / Extended Fund Facility (EFF) Documents",
+      "United Nations Sustainable Development Goals (SDGs) Report - Goal 1 (No Poverty), Goal 8 (Decent Work and Economic Growth), Goal 10 (Reduced Inequalities)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Socioeconomic",
+        "type": "adjective",
+        "definition": "Relating to or concerned with the interaction of social and economic factors.",
+        "sentence": "The article highlights the deterioration of Pakistan's socioeconomic situation due to a combination of economic policies and social impacts."
+      },
+      {
+        "word": "Gini coefficient",
+        "type": "noun",
+        "definition": "A measure of statistical dispersion intended to represent the income inequality or wealth inequality within a nation or any other group of people.",
+        "sentence": "The rising Gini coefficient in Pakistan indicates a more uneven distribution of income among the population."
+      },
+      {
+        "word": "Fiscal consolidation",
+        "type": "noun",
+        "definition": "The process of reducing government budget deficits and accumulation of public debt through measures such as spending cuts and tax increases.",
+        "sentence": "The federal budget's emphasis on fiscal consolidation was criticized for potentially neglecting social protection and job creation initiatives."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary reason identified in the article for the significant decline in real incomes and consumption in Pakistan between 2018-19 and 2024-25?",
+        "options": [
+          "A) A decrease in pro-poor spending",
+          "B) Stagnant population growth",
+          "C) Persistently high inflation",
+          "D) An increase in labor force participation"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Persistently high inflation has been a major contributing element to this downturn... As prices climbed faster than incomes, household buying power fell dramatically,' leading to declines in real income and consumption."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main argument of the article regarding Pakistan's economic stabilization efforts in relation to social progress?",
+        "back": "The article argues that Pakistan achieved economic stabilization without corresponding social progress, leading to a significant deterioration in socioeconomic indicators like poverty and inequality."
+      },
+      {
+        "front": "How did high inflation impact household welfare in Pakistan, according to the article?",
+        "back": "High inflation eroded real incomes and consumption, significantly reducing household purchasing power and living standards, particularly for low- and middle-income groups."
+      },
+      {
+        "front": "What was the primary criticism of the Federal Budget 2026–27 mentioned in the article concerning socioeconomic challenges?",
+        "back": "The budget was criticized for focusing heavily on revenue mobilization and fiscal consolidation while lacking a comprehensive strategy for safeguarding real incomes, creating quality jobs, or bolstering social safety nets."
+      },
+      {
+        "front": "Despite an increase in pro-poor spending, why did poverty and inequality worsen in Pakistan?",
+        "back": "The article explains that the increase in pro-poor spending was insufficient to compensate for the negative effects of high inflation, slower economic growth, and diminished real buying power, thereby reducing the actual value and efficiency of welfare programs."
       }
     ]
   },
@@ -1547,6 +2238,135 @@
       {
         "front": "What specific policy recommendation is suggested for Punjab regarding its policing architecture?",
         "back": "Punjab requires greater accountability and specialisation within its expanding policing architecture, rather than a focus on coercive legislation or subordination to stronger security institutions."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783560607268-288",
+    "title": "Pak-India dialogue?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2013084/pak-india-dialogue",
+    "date": "2026-07-05",
+    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
+    "content": "FOR the past 10 years, India’s BJP government has adopted a policy of complete disconnect with Pakistan. Even people-to-people and sporting links have been stopped. During this period, India has carried out three kinetic aggressions against Pakistan: September 2016, February 2019 and May 2025. As South Asia witnesses deepening estrangement, the world has moved on. Far-reaching strategic shifts have affected the geopolitics of West Asia, Europe and East Asia. The US and Iran have fought a 40-day war and are now negotiating a peace settlement, helped by Pakistan and Qatar. The US and China have agreed to steer their competition towards “strategic stability”.\n\nFour major factors have bedevilled bilateral ties since 1947: mutual mistrust, the unresolved dispute over Jammu and Kashmir, India’s use of terrorism to malign Pakistan and New Delhi’s pursuit of regional dominance in South Asia. Most recently, India’s decision to suspend the Indus Waters Treaty (IWT) further marred relations between the two countries.\n\nHow does one go from conflict to dialogue? Since Pakistan and India remain embroiled in kinetic confrontations below a nuclear overhang, there is an urgent need to come up with ways to defuse tensions during crises. The two countries are technically still at war because Operation Sindoor launched by India in May 2025 has not formally ended. India also refuses to accept the role of third parties for conflict resolution. If another major crisis erupts, there could be serious implications for the people of both countries. Given that Pakistan and India possess lethal autonomous weapons like missiles and armed drones, and the reaction time is critically short, any potential conflict could spiral out of control.\n\nThe only channel of communications is the weekly telephonic call between the DGMOs of the two countries. So, it’s important that both states institute additional channels of communication to address crisis situations. For instance, they could put the national security advisers in regular contact. Another useful measure could be for high commissioners to return to their positions.\n\nThere’s an urgent need to find ways to defuse tensions during crises.\n\nBeyond crisis management, the two countries should think about installing dedicated backchannel links. One such backchannel evolved a four-point formula to resolve the Kashmir dispute in 2007. At this point in time, a dedicated backchannel on water sharing could be important. Since April 23, 2025, India has held the IWT in abeyance. Legally, it cannot unilaterally suspend the treaty. The Court of Arbitration has already ruled that India’s decision was illegal. Although India attributes the treaty’s suspension to alleged cross-border terrorism, the real reason seems to be its attempt to complete several projects on the three western rivers allocated to Pakistan and to force the latter to renegotiate the treaty.\n\nSince the lives and livelihoods of millions of Pakistanis depend on the Indus, Jhelum and Chenab, Pakistan has declared that any disruption or diversion of the waters would be dee-med an act of war. That means, the longer India continues with its plans to disrupt waters meant for Pakistan, the higher the chances of another major confrontation. As for India’s desire to renegotiate the treaty to factor in demographic and environmental considerations, it should first restore the IWT and then negotiate with Pakistan any suggested amendments that could be incorporated as an addendum to the treaty.\n\nOther possible measures to build mutual confidence could include the resumption of some people-to-people contacts, such as through pilgrimages, medical tr­­e­atment and di­­v­ided families’ re­­­-unions. South Asia’s climate vu­­lner­abi­lity is also an op­­portunity to work to­­g­ether for the com­­mon good. If the US sanctions on Iran are lift­­ed, India could review its earlier decision to pull out of the IPI gas pipeline. Likewise, TAPI has potential benefit for both countries. Suggestions have also been made for India to consider reviving Saarc — a forum which has traditionally provided avenues to defuse tensions and promote cooperation. India views Saarc as a platform where relatively smaller states team up to counter-balance India. If India does not shed this narrow viewpoint, Pakistan and Bangladesh might join hands with China to promote regional cooperation.\n\nSince the Modi government has taken a policy decision not to engage with Pakistan, the gulf is growing rapidly. In this situation, while keeping its doors open for dialogue, Pakistan has no choice but to remain prepared for any misadventure by New Delhi to possibly avenge India’s defeat in May 2025. Meanwhile, Pakistan needs to focus on its own economic security through better governance, continuity of economic policies and connectivity projects with friendly countries.\n\nThe writer is chairman of Sanober Institute.\n\nPublished in Dawn, July 5th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs",
+    "topic": "Indus Waters Treaty and India-Pakistan Relations",
+    "whyMatters": "This article is crucial for competitive exam students because it directly addresses the impacts of the Indus Waters Treaty (IWT) on India-Pakistan relations, detailing India's unilateral suspension of the treaty and Pakistan's strong reaction. It offers a contemporary perspective on how the IWT dispute exacerbates long-standing bilateral tensions, providing specific dates and legal challenges that can be quoted in answers.",
+    "summary": [
+      "India's BJP government has pursued a decade-long policy of complete disconnect with Pakistan, including kinetic aggressions and suspension of people-to-people contacts, while the global geopolitical landscape undergoes significant shifts.",
+      "Four major factors, including mutual mistrust, the Kashmir dispute, India's alleged use of terrorism against Pakistan, and its pursuit of regional dominance, continue to bedevil bilateral ties, with the recent unilateral suspension of the Indus Waters Treaty (IWT) further marring relations.",
+      "The article emphasizes the urgent need for enhanced communication channels and crisis management mechanisms, like regular contact between National Security Advisers or high commissioners, given the risk of escalation in kinetic confrontations under a nuclear overhang.",
+      "India's unilateral suspension of the IWT on April 23, 2025, is legally challenged (ruled illegal by the Court of Arbitration) and seen by Pakistan as an attempt to force renegotiation, with any disruption of waters meant for Pakistan deemed an act of war.",
+      "Beyond crisis management, the article suggests confidence-building measures like resuming people-to-people contacts, exploring regional cooperation through climate vulnerability initiatives, reviving the IPI/TAPI pipelines, and reconsidering SAARC, while Pakistan must remain prepared for misadventure and focus on its economic security."
+    ],
+    "facts": [
+      "India's BJP government has adopted a policy of complete disconnect with Pakistan for the past 10 years.",
+      "India carried out three kinetic aggressions against Pakistan: September 2016, February 2019, and May 2025 (Operation Sindoor).",
+      "India unilaterally suspended the Indus Waters Treaty (IWT) on April 23, 2025, a decision subsequently ruled illegal by the Court of Arbitration.",
+      "A backchannel in 2007 evolved a four-point formula to resolve the Kashmir dispute.",
+      "The article was published in Dawn on July 5th, 2026."
+    ],
+    "academicReferences": [
+      "Indus Waters Treaty (1960): The foundational bilateral agreement governing water distribution between Pakistan and India.",
+      "Simla Agreement (1972): A bilateral agreement between India and Pakistan that sought to normalize relations and resolve disputes peacefully.",
+      "United Nations Convention on the Law of the Non-Navigational Uses of International Watercourses (1997): Provides general principles for international watercourse management, offering a broader legal framework for water disputes."
+    ],
+    "vocabulary": [
+      {
+        "word": "Kinetic aggressions",
+        "type": "noun phrase",
+        "definition": "Military actions involving physical force or movement, as opposed to diplomatic or economic pressures.",
+        "sentence": "During this period, India has carried out three kinetic aggressions against Pakistan."
+      },
+      {
+        "word": "Bedevilled",
+        "type": "verb",
+        "definition": "To torment, trouble, or plague, often in a persistent or malicious way.",
+        "sentence": "Four major factors have bedevilled bilateral ties since 1947."
+      },
+      {
+        "word": "Nuclear overhang",
+        "type": "noun phrase",
+        "definition": "The pervasive threat or influence of nuclear weapons in a conflict or region, implying potential for catastrophic escalation.",
+        "sentence": "Since Pakistan and India remain embroiled in kinetic confrontations below a nuclear overhang, there is an urgent need to come up with ways to defuse tensions during crises."
+      },
+      {
+        "word": "In abeyance",
+        "type": "adjective phrase",
+        "definition": "In a state of temporary disuse or suspension.",
+        "sentence": "Since April 23, 2025, India has held the IWT in abeyance."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was India's primary alleged reason for suspending the Indus Waters Treaty (IWT)?",
+        "options": [
+          "Alleged cross-border terrorism.",
+          "To factor in demographic and environmental considerations.",
+          "To divert water for agricultural expansion in India.",
+          "Pakistan's refusal to renegotiate the treaty terms."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'Although India attributes the treaty’s suspension to alleged cross-border terrorism...'"
+      },
+      {
+        "question": "What is Pakistan's declared stance regarding any disruption or diversion of the Indus, Jhelum, and Chenab waters?",
+        "options": [
+          "It would be brought before the UN Security Council.",
+          "It would be considered a breach of international law.",
+          "It would be deemed an act of war.",
+          "It would result in economic sanctions against India."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Pakistan has declared that any disruption or diversion of the waters would be dee-med an act of war.'"
+      },
+      {
+        "question": "Which of the following communication channels is currently the 'only channel' between the two countries, as per the article?",
+        "options": [
+          "Weekly telephonic call between the DGMOs.",
+          "Regular contact between National Security Advisers.",
+          "High commissioners in their respective positions.",
+          "Backchannel links on water sharing."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article mentions, 'The only channel of communications is the weekly telephonic call between the DGMOs of the two countries.'"
+      },
+      {
+        "question": "What was the legal standing of India's decision to suspend the IWT, according to the article?",
+        "options": [
+          "It was legally permissible under a special clause.",
+          "It was deemed illegal by the Court of Arbitration.",
+          "It was supported by international consensus.",
+          "It was a temporary measure awaiting bilateral agreement."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Legally, it cannot unilaterally suspend the treaty. The Court of Arbitration has already ruled that India’s decision was illegal.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the four major factors that have historically bedevilled bilateral ties between Pakistan and India?",
+        "back": "Mutual mistrust, the unresolved dispute over Jammu and Kashmir, India's use of terrorism to malign Pakistan, and New Delhi’s pursuit of regional dominance in South Asia."
+      },
+      {
+        "front": "How has India's suspension of the Indus Waters Treaty (IWT) impacted Pakistan-India relations according to the article?",
+        "back": "It has further marred relations, with Pakistan viewing any disruption or diversion of waters as an act of war, increasing chances of major confrontation and highlighting India's perceived attempt to force renegotiation after a Court of Arbitration ruled the suspension illegal."
+      },
+      {
+        "front": "Beyond crisis management, what key area does the article suggest for installing dedicated backchannel links?",
+        "back": "Given India's unilateral suspension of the IWT, a dedicated backchannel on water sharing is suggested to resolve issues surrounding the treaty."
+      },
+      {
+        "front": "What specific measures does the article suggest to build mutual confidence between Pakistan and India?",
+        "back": "Resumption of people-to-people contacts (pilgrimages, medical treatment, family reunions), working together on climate vulnerability, India reviewing its decision on the IPI gas pipeline, exploring TAPI, and reviving SAARC as a forum for cooperation."
       }
     ]
   },
