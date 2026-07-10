@@ -1,5 +1,415 @@
 [
   {
+    "id": "curated-1783646872866-43",
+    "title": "The hardening state\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014028/the-hardening-state",
+    "date": "2026-07-09",
+    "author": "none@none.com (Khurram Husain)",
+    "content": "THE powers of the tax machinery are growing more strident but the recovery of actual revenue is getting harder and harder. The new production monitoring system rolled out by the FBR in the last fiscal might provide some technology-led direction to how these coercive powers can be down-blended with enhanced surveillance to yield something more intrusive but less punitive. But it cannot be the mainstay when thinking about the next generation of revenue measures the state must mobilise in order to escape the shrinking confines of its resource envelope.\n\nAsking for increased coercive powers for themselves is a standard operating principle for civil servants. In the tax bureaucracy, one can trace this demand back to the mid-1990s, and earlier too perhaps, when the tax authorities first got the powers of arrest. These powers were widened piecemeal through the years and had another layer added on top. This layer was surveillance. To some extent, surveillance powers were always vested with tax officers, but in 2008, they received a significant boost when powers of warrantless access and seizure of material as well as bank accounts were added on. And additionally, real-time access to data feeds from various government departments, including but not limited to Nadra, FIA, utilities, telecommunications and banks.\n\nTo a large extent, the enhancement of these powers was normal. The economy was growing in size and scope, technology was advancing, and the need to reach wider and deeper into the mass of economic activity over which the state presided was increasing. The powers of tax officialdom will necessarily evolve when we move from paper ledgers to computers to the internet to AI, and much of the enhancement of these powers was following this route.\n\nBut to another extent, it was not normal. Enhanced powers of enforcement and audit are a way to streamline tax administration and make it more effective. It is not a revenue plan. Pegging the next generation of revenues that the state requires urgently to enhanced powers of enforcement and audit is a mistake. And the mistake is made when the government of the day brings no policy vision of its own to the job. When this happens, the initiative naturally passes to the civil servants to come up with the ideas with which to meet the next generation of challenges facing the state.\n\nPegging the next generation of revenues that the state requires urgently to enhanced powers of enforcement and audit is a mistake.\n\nIn his first address to the nation after being elected prime minister, Imran Khan promised deep reform and said he would “start with the FBR”. But after floundering for months afterwards and having to replace his finance minister, sign on to an IMF programme and own a gruelling macroeconomic adjustment, the only “reform” he could offer was a vague promise to separate tax policy from tax administration. And even that diminutive promise was left substantially unfulfilled when they created an office for tax policy reform and staffed it with a handful of individuals, who were left to sit idle for days at a stretch.\n\nIt is no different today. It is hard to identify what vision the government has for raising the next generation of revenues. They committed to a path of what they called ‘tax deepening’ last year, which rested entirely on enhancing powers of enforcement, surveillance and audit for tax officialdom. But little was said about tax broadening. Along the way, they could present many successes that these enhanced powers might have helped them score, but they fell so far short of their revenue target committed at the start of the year, despite it being revised downward midstream, that it was near embarrassment.\n\nA revenue plan is not simply a list of all the things one is doing. It has to aim for reaching those incomes and transactions that currently escape the tax net. Over the years as the coercive powers of the tax bureaucracy have grown, they have failed to do this. They brought in powers of arrest in the 1990s. In the early 2000s they acquired powers to compel third-party data from banks, telcos, Nadra and utilities. In 2008, they enhanced these powers to acquire real-time access to these data feeds as well as powers of warrantless search and seizure. In 2013, they brought track and trace technology for specified goods. In 2015, they brought in barcodes. Finance Act 2020 amended Income Tax Section 175A to introduce a standing, real-time data-sharing mandate compelling Nadra (identity records), FIA and the Bureau of Emigration (international travel and entry/exit), provincial land record authorities (property records), Excise & Taxation departments (vehicle registration/ transfer), and all electricity and gas utilities (consumption and billing data, down to the level of who’s sharing a connection) to feed data continuously to FBR systems.\n\nIn 2022, they enabled Nadra to not just share data, but also compute “indicative income and tax liability” using AI, “or any other modern device”. In 2025, they enhanced the same section of the Income Tax Ordinance further, requiring banks to cross-match customer data against FBR-supplied algorithms for “high-risk persons” and report back with anomalies. The same Finance Act added Sales Tax Section 38B(5) allowing the commissioner to compel internet service providers, telecom companies, and the Pakistan Telecommunication Authority to hand over a subscriber’s IP-related information for a tax-fraud inquiry — extending the surveillance net to internet activity.\n\nThis is an abbreviated list. This trajectory in recent years makes for staggering reading. Yet the ratio of currency in circulation to bank deposits, one handy proxy for measuring the size of informal activity, remains stubbornly high, refusing to bow before these enhanced powers. Perhaps because these powers compel private sector actors to protect themselves accordingly. And the state is still reduced to seeking extraordinary interventions, like demanding a reverse flow of resources from the provinces, in order to square its fiscal equation. The hammer is not always a solution. And not every problem is a nail. Sometimes it takes a little mind, a little trust, and a little creativity to crack a tough nut.\n\nThe writer is a business and economy journalist.\n\nPublished in Dawn, July 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Economics / Public Administration / Pakistan Affairs",
+    "topic": "Fiscal Policy, Taxation Reforms, and the Informal Economy in Pakistan",
+    "whyMatters": "This article is crucial for understanding Pakistan's persistent fiscal challenges, the limitations of its tax administration (FBR), and the policy vacuum that often leads to ineffective revenue generation strategies. It highlights the critical distinction between enhanced enforcement powers and a comprehensive revenue plan, a key area for policy analysis in competitive exams.",
+    "summary": [
+      "The FBR's coercive powers, especially regarding surveillance and data access, have significantly increased over decades, yet actual revenue recovery remains challenging.",
+      "Relying solely on enhanced enforcement and audit powers for future revenue generation is a fundamental mistake, stemming from a lack of clear policy vision from the government.",
+      "Governments, including the one under Imran Khan, have consistently failed to present a coherent 'tax broadening' strategy, instead prioritizing 'tax deepening' through more intrusive powers.",
+      "Despite the staggering increase in surveillance capabilities and data mandates, the informal economy, as indicated by the high currency-in-circulation to bank deposits ratio, remains stubbornly resilient."
+    ],
+    "facts": [
+      "Tax authorities gained powers of arrest in the mid-1990s, with surveillance powers significantly boosted in 2008 to include warrantless access and real-time data feeds.",
+      "Finance Act 2020 amended Income Tax Section 175A for a continuous data-sharing mandate from various government departments (Nadra, FIA, utilities, etc.) to FBR.",
+      "In 2022, Nadra was enabled to compute 'indicative income and tax liability' using AI for the FBR, further extended in 2025 to banks for identifying 'high-risk persons'.",
+      "The ratio of currency in circulation to bank deposits is cited as a handy proxy for measuring the size of informal economic activity."
+    ],
+    "academicReferences": [
+      "Pakistan's IMF Programs (e.g., Extended Fund Facility, Stand-By Arrangement): Contextualizes the 'gruelling macroeconomic adjustment' and reliance on external financing, impacting fiscal policy.",
+      "National Finance Commission (NFC) Award: Relevant for understanding inter-provincial resource distribution and the call for 'reverse flow of resources from the provinces'.",
+      "Good Governance Principles (e.g., OECD Public Governance Reviews): Provides a framework to critique the FBR's institutional failures and lack of strategic policy vision in tax administration."
+    ],
+    "vocabulary": [
+      {
+        "word": "strident",
+        "type": "adjective",
+        "definition": "Loud and harsh; presenting a viewpoint forcefully, often unpleasantly so.",
+        "sentence": "The powers of the tax machinery are growing more strident."
+      },
+      {
+        "word": "down-blended",
+        "type": "verb (past participle)",
+        "definition": "Reduced in intensity or force, often by mixing or integrating with something else to make it milder or less direct.",
+        "sentence": "These coercive powers can be down-blended with enhanced surveillance to yield something more intrusive but less punitive."
+      },
+      {
+        "word": "coercive",
+        "type": "adjective",
+        "definition": "Relating to or using force or threats.",
+        "sentence": "The article discusses how coercive powers of the tax bureaucracy have grown over the years."
+      },
+      {
+        "word": "resource envelope",
+        "type": "noun",
+        "definition": "The total amount of financial or other resources available to an entity, such as a government, for a specific period or purpose.",
+        "sentence": "The state must mobilise new revenue measures to escape the shrinking confines of its resource envelope."
+      },
+      {
+        "word": "diminutive",
+        "type": "adjective",
+        "definition": "Extremely or unusually small.",
+        "sentence": "Even that diminutive promise was left substantially unfulfilled when they created an office for tax policy reform."
+      },
+      {
+        "word": "tax deepening",
+        "type": "noun",
+        "definition": "A strategy to increase tax collection from existing taxpayers or within existing taxable activities, often through increased enforcement or improved efficiency.",
+        "sentence": "They committed to a path of what they called 'tax deepening' last year, which rested entirely on enhancing powers of enforcement."
+      },
+      {
+        "word": "tax broadening",
+        "type": "noun",
+        "definition": "A strategy to expand the tax base by bringing new individuals, transactions, or economic sectors into the tax net.",
+        "sentence": "Little was said about tax broadening, despite the focus on enhanced enforcement powers."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary criticism against relying solely on enhanced enforcement powers for revenue generation?",
+        "options": [
+          "It is not a revenue plan and indicates a lack of policy vision.",
+          "It is too expensive to implement new technologies.",
+          "It leads to corruption within the tax bureaucracy.",
+          "It violates human rights too frequently."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Enhanced powers of enforcement and audit are a way to streamline tax administration and make it more effective. It is not a revenue plan. Pegging the next generation of revenues that the state requires urgently to enhanced powers of enforcement and audit is a mistake.'"
+      },
+      {
+        "question": "Which specific year did tax authorities receive a 'significant boost' in surveillance powers, including warrantless access and seizure of bank accounts?",
+        "options": [
+          "Mid-1990s",
+          "Early 2000s",
+          "2008",
+          "2020"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'in 2008, they received a significant boost when powers of warrantless access and seizure of material as well as bank accounts were added on.'"
+      },
+      {
+        "question": "What 'reform' did Imran Khan's government offer for the FBR after signing onto an IMF program, according to the article?",
+        "options": [
+          "Introduction of a new tax amnesty scheme.",
+          "A vague promise to separate tax policy from tax administration.",
+          "Complete overhaul of the FBR leadership.",
+          "Immediate broadening of the tax base."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article notes, 'the only “reform” he could offer was a vague promise to separate tax policy from tax administration.'"
+      },
+      {
+        "question": "What proxy does the article use to measure the size of informal economic activity?",
+        "options": [
+          "GDP growth rate",
+          "Foreign direct investment figures",
+          "Ratio of currency in circulation to bank deposits",
+          "Number of registered businesses"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, 'Yet the ratio of currency in circulation to bank deposits, one handy proxy for measuring the size of informal activity, remains stubbornly high.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why does the author argue that relying on enhanced enforcement and audit powers is a 'mistake' for revenue generation?",
+        "back": "The author argues it's a mistake because these powers are for streamlining administration, not a comprehensive revenue plan. It reflects a government's lack of a clear policy vision for generating future revenues."
+      },
+      {
+        "front": "What is the key distinction the article draws between 'tax deepening' and 'tax broadening'?",
+        "back": "'Tax deepening' focuses on increasing collection from existing taxpayers, often through enhanced enforcement. 'Tax broadening' aims to expand the overall tax base by bringing new individuals or economic activities into the tax net."
+      },
+      {
+        "front": "Despite the FBR's increasing surveillance and data access powers, why has the informal economy remained resilient, according to the article?",
+        "back": "The article suggests that these coercive powers compel private sector actors to protect themselves accordingly. It implies that a 'hammer' approach isn't always effective, requiring 'a little mind, a little trust, and a little creativity' instead."
+      },
+      {
+        "front": "How has technology been leveraged by the FBR for tax collection, and what is the author's implicit criticism of this approach?",
+        "back": "Technology has been used for real-time data access, track & trace, barcodes, and AI for computing indicative tax liabilities. The implicit criticism is that while technology evolves, it's primarily used for enhanced enforcement rather than a strategic policy to broaden the tax base effectively."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783646957341-598",
+    "title": "Rising economic prospects\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014029/rising-economic-prospects",
+    "date": "2026-07-09",
+    "author": "none@none.com (Ishrat Husain)",
+    "content": "ALTHOUGH it will take time for US-Iran negotiations to produce a durable peace deal, regional states have begun positioning themselves to benefit from the new economic opportunities that are likely to emerge. Anticipating greater regional integration, Türkiye, for example, has announced incentives to attract manufacturing investment.\n\nPakistan, too, is well placed to benefit. It has earned global goodwill for helping reduce regional tensions and supporting diplomatic efforts for peace. At home, the economy has reached an important inflection point. After restoring macroeconomic stability, the challenge now is to move towards investment-led, export-oriented and inclusive growth. The new budget seeks to balance fiscal discipline under the IMF programme with steps to ease business constraints and give relief to citizens — an aim that’s essential but not easy to fulfil.\n\nImplementation of the broader reform agenda is a sine qua non for availing emerging opportunities: improving security, making energy prices competitive, privatising SOEs, broadening the tax base while reducing compliant taxpayers’ burden, expediting regulatory reforms, investing in quality human capital, replacing generalised subsidies with targeted support, digitising the economy, reducing government size and boosting public institutions. Success depends less on announcing reforms and more on implementing them thro­ugh responsibilities, timelines and accountability.\n\nHere, we focus on how Pakistan should seize the economic opportunities arising from a regio­nal peace settlement. Some are asking how many billions of dollars Pakistan should receive for its constructive role. This is a mistaken approach. A country aspiring to dignity and self-reliance shouldn’t revert to the rentier-state model that’s weakened its economy. Indeed, we should gradually convert or repay the nearly $12 billion in friendly-country deposits supporting our foreign exchange reserves. We should build partnerships based on expanding trade, attracting investment for productive sectors (agriculture and industry) and acquiring technology and managerial expertise. Friendly states’ proposals must be judged against these goals. Implementation is critical. Agreements must be supported by measurable mi­­lestones, regular monitoring and effective coor­­dination, with the PM himself reviewing progress.\n\nIran, Türkiye and Saudi Arabia offer immediate economic opportunities.\n\nIran: A stable, economically revitalised Iran offers Pakistan enormous opportunities. Scholars like Vali Nasr and Nargis Bajoghli say that the emerging generation of Iran’s security and political leaders is technocratic and strategically nationalist rather than ideological. They know that prolonged economic stagnation is the greatest threat to political stability. Hence economic recovery is central to their national priorities. This change should facilitate stronger bilateral economic cooperation while helping improve border security.\n\nDuring President Masoud Pezeshkian’s recent visit, both countries agreed to raise bilateral trade from about $3bn to $10bn by 2028. Achieving this target needs close collaboration between the commerce ministry and private sector to identify products in which Pakistan enjoys a comparative advantage. Pakistan can expand exports of rice, meat, textile, surgical instruments, fruit and processed foods, while importing raw material and intermediate goods from Iran at competitive prices.\n\nOur engineering and logistics organisations should participate in Iran’s post-war reconstruction through commercial partnerships with Iranian firms. Skilled and semi-skilled workers whose wage costs are lower than those of their Iranian counterparts can contribute to reconstruction activities.\n\nIran’s opening of six trade routes to Central Asia and Azerbaijan is another opportunity. Pakistan should improve customs procedures, border infrastructure, logistics and road connectivity to benefit from these transit corridors. If sanctions on Iran’s energy exports are eased, Pakistan should replace informal fuel imports with transparent commercial purchases of discounted Iranian crude oil while developing strategic petroleum reserves at Gwadar. The six border markets should be fully operational to stimulate economic activity in Makran Division with SEZs supplying products for cross-border trade.\n\nPakistan must also revive talks on the Iran-Pakistan gas pipeline by aligning pricing with global benchmarks. Additional electricity imports from Iran can lessen power shortages in Gwadar and its environs. Collaboration in agriculture, pharmaceuticals, dairy technology and scientific research must be expanded.\n\nTürkiye: Pakistan and Türkiye are committed to increasing bilateral trade from $1bn to $5bn within three years. This needs active private-sector participation and removal of trade barriers. Türkiye’s internationally competitive construction companies can partner with Pakistani firms to undertake reconstruction projects in Iran. Pakistan should study Türkiye’s successful integration of defence industries with private manufacturing, which has generated technological innovation with a significant impact on manufacturing and a strengthened civilian industry.\n\nThe greatest opportunity may lie in attracting Turkish manufacturing investment. Major Turkish conglomerates such as Koç Holding, Sabancı Holding and Anadolu Group have extensive access to European markets. Their labour-intensive production of consumer electronics, household appliances and engineering goods could be partially relocated to Pakistan, allowing Turkish firms to benefit from competitive production costs while creating employment, exports and technology transfer for Pakistan.\n\nSaudi Arabia: Our highest investment priority should be the long-delayed petrochemical complex and modern refinery proposed by the Saudi crown prince during his 2021 visit. Feasibility studies have been completed; remaining administrative and financial obstacles must be removed. This project will transform the competitiveness of our downstream manufacturing industries, including automobiles, synthetic fibre, plastics, packaging, pharmaceuticals, fertilisers, electronics, paints and detergents, and reduce import dependence, boost exports and create value addition within Pakistan. A financing option is to convert Saudi Arabia’s deposits held by Pakistan into equity participation in the project to transform temporary financial support into long-term productive investment while boosting bilateral economic ties.\n\nFocused strategy: This agenda focuses on Iran, Türkiye and Saudi Arabia as they offer immediate opportunities. China, the US and other Gulf countries remain vital economic partners, but the current geopolitical transition provides exceptional prospects with these three countries. So, Pakistan shouldn’t measure its diplomatic success by the amount of financial help it receives. The real dividend of regional peace lies in expanding trade, attracting productive investment and acquiring technology. If these opportunities are pursued along with vigorous, disciplined implementation of the domestic reforms agenda, and with clear accountability, Pakistan can convert its enhanced global standing into durable economic growth and achieve greater regional integration.\n\nThe writer is a former World Bank country director for Central Asian Republics.\n\nPublished in Dawn, July 9th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Regional Economic Integration and Future Prospects",
+    "whyMatters": "This article provides a strategic roadmap for Pakistan's economic engagement with key regional partners, detailing specific opportunities and a shift towards self-reliance. It directly informs discussions on regional integration frameworks like the Economic Cooperation Organization (ECO) by outlining actionable bilateral and multilateral economic strategies, crucial for answering questions on Pakistan's future role.",
+    "summary": [
+      "Pakistan is shifting from a rentier-state model to an investment-led, export-oriented, and inclusive growth strategy, leveraging its enhanced regional standing for durable economic growth.",
+      "The article identifies Iran, Türkiye, and Saudi Arabia as immediate economic partners offering significant opportunities for expanding trade, attracting productive investment, and acquiring technology and managerial expertise.",
+      "Specific bilateral strategies include aiming for $10bn trade with Iran (rice, textiles, energy, reconstruction), attracting Turkish manufacturing investment (consumer electronics, household appliances), and developing a Saudi-backed petrochemical complex.",
+      "Success hinges on rigorous implementation of a comprehensive domestic reform agenda, including improving security, competitive energy prices, privatizing SOEs, broadening the tax base, and investing in quality human capital, supported by clear accountability."
+    ],
+    "facts": [
+      "Pakistan and Iran have agreed to raise bilateral trade from approximately $3bn to $10bn by 2028.",
+      "Pakistan and Türkiye are committed to increasing bilateral trade from $1bn to $5bn within three years.",
+      "Saudi Arabia's Crown Prince proposed a long-delayed petrochemical complex and modern refinery in Pakistan during his 2021 visit."
+    ],
+    "academicReferences": [
+      "Vali Nasr and Nargis Bajoghli (Scholars on Iranian politics and economy mentioned in the article)",
+      "IMF Programme (Guiding Pakistan's macroeconomic stability and fiscal discipline, as mentioned)",
+      "Economic Cooperation Organization (ECO) Charter (Provides the framework for regional economic integration among members, including Pakistan, Iran, and Türkiye)"
+    ],
+    "vocabulary": [
+      {
+        "word": "inflection point",
+        "type": "noun",
+        "definition": "A moment when significant change occurs; a turning point.",
+        "sentence": "After restoring macroeconomic stability, the economy has reached an important inflection point, ready for investment-led growth."
+      },
+      {
+        "word": "sine qua non",
+        "type": "noun",
+        "definition": "An essential condition; a thing that is absolutely necessary.",
+        "sentence": "Implementation of the broader reform agenda is a sine qua non for availing emerging opportunities from regional peace."
+      },
+      {
+        "word": "rentier-state",
+        "type": "noun",
+        "definition": "A state that derives a substantial portion of its national revenues from renting out indigenous resources to external clients, often leading to weakened domestic economies.",
+        "sentence": "A country aspiring to dignity and self-reliance shouldn’t revert to the rentier-state model that’s weakened its economy."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified as a core domestic reform essential for Pakistan to avail emerging regional economic opportunities, according to the article?",
+        "options": [
+          "A) Privatizing State-Owned Enterprises (SOEs)",
+          "B) Broadening the tax base while reducing compliant taxpayers’ burden",
+          "C) Replacing generalized subsidies with targeted support",
+          "D) Expanding the size and scope of government institutions"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article explicitly states 'reducing government size and boosting public institutions' as a reform, not expanding the size and scope of government institutions. Options A, B, and C are all mentioned as crucial domestic reforms."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is Pakistan's core economic strategy shift highlighted in the article, moving away from a traditional model?",
+        "back": "Pakistan is moving away from a 'rentier-state' model towards an investment-led, export-oriented, and inclusive growth strategy, focusing on dignity and self-reliance."
+      },
+      {
+        "front": "Identify two immediate regional partners Pakistan should prioritize for economic opportunities according to the article and state a key opportunity for each.",
+        "back": "Iran (e.g., expanding trade to $10bn, participating in post-war reconstruction) and Türkiye (e.g., attracting manufacturing investment for consumer electronics, household appliances)."
+      },
+      {
+        "front": "Besides expanding trade and attracting productive investment, what third key economic dividend does the article emphasize as a benefit from regional peace for Pakistan?",
+        "back": "Acquiring technology and managerial expertise, crucial for industrial and agricultural development."
+      },
+      {
+        "front": "What does the article identify as the 'sine qua non' for Pakistan to effectively leverage emerging regional economic opportunities, particularly concerning domestic policy?",
+        "back": "Vigorous, disciplined, and accountable implementation of the broader domestic reform agenda, rather than just announcing reforms."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783647112927-748",
+    "title": "Costly food\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014024/costly-food",
+    "date": "2026-07-09",
+    "author": "none@none.com (Editorial)",
+    "content": "THE recent decline in diesel and LPG prices should have brought some relief to consumers struggling with high food prices. Instead, households continue to pay exorbitant rates for vegetables, wheat flour and other kitchen essentials. The failure of lower transport costs to translate into cheaper food again exposes the inefficiencies and distortions that plague Pakistan’s retail markets. Some of the increases are understandable. Tomato prices have surged because supplies are currently short due to seasonal factors. However, seasonal factors do not explain why retail rates remain elevated across a broader range of commodities despite a substantial reduction in fuel costs. Diesel prices have fallen by nearly a quarter since early May, while LPG prices have dropped sharply from their recent peak. If transport costs were promptly passed on when fuel became more expensive, consumers are entitled to expect similar adjustments when fuel prices decline. That has clearly not happened. The reasons are widely known.\n\nTransporters have been reluctant to reduce freight charges, wholesalers and retailers continue to maintain generous margins, and weak market oversight has allowed these practices to persist. Price increases are transmitted rapidly through the supply chain; price reductions rarely are. This asymmetry has been a defining structural feature of our retail economy for too long. The continued rise in wheat flour prices is of particular concern. As Pakistan’s staple food, flour has a direct bearing on the food security of low-middle-income households. But consumers still have to pay higher prices. In Karachi, the Sindh government’s reported measures against hoarding and profiteering have failed to bring down retail rates. The failure of such interventions in lowering prices raises questions about their effectiveness, and the quality of enforcement. Declining petroleum prices alone cannot shield consumers from inflation when markets remain poorly regulated. The authorities must ensure that reductions in input costs are reflected in retail prices through stronger competition, better market monitoring and greater transparency in freight charges and wholesale pricing. Equally important is long-term investment in storage, logistics and agricultural marketing to reduce shortages. Consumers should not have to wonder why every increase in fuel prices reaches the market immediately while every decrease disappears along the supply chain. Unless this disconnect is addressed, falling petroleum prices will remain a headline achievement with little meaning for ordinary households.\n\nPublished in Dawn, July 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Pakistan Affairs / Economics / Governance",
+    "topic": "Market Inefficiencies, Inflation, Food Security, and Governance Failures in Pakistan's Supply Chain",
+    "whyMatters": "This article offers a contemporary case study of inflation and market failures in Pakistan, crucial for understanding economic challenges and their impact on daily life. It also provides actionable policy recommendations for governance, useful for analytical essays and current affairs questions related to economic reforms and food security.",
+    "summary": [
+      "Despite significant declines in diesel and LPG prices, consumers in Pakistan continue to face exorbitant food prices, indicating a failure of lower transport costs to translate into cheaper kitchen essentials.",
+      "This disconnect is primarily attributed to transporters' reluctance to reduce freight charges, wholesalers and retailers maintaining generous profit margins, and inadequate market oversight by authorities, creating a structural asymmetry where price increases are rapid but reductions are not.",
+      "The persistent rise in wheat flour prices, a staple food, is a major concern for food security among low-middle-income households, with local government interventions against hoarding and profiteering proving ineffective.",
+      "Addressing these issues requires immediate measures like stronger competition, better market monitoring, and greater transparency in pricing, alongside long-term investments in storage, logistics, and agricultural marketing to mitigate shortages."
+    ],
+    "facts": [
+      "Diesel prices have fallen by nearly a quarter since early May.",
+      "LPG prices have dropped sharply from their recent peak.",
+      "The article was published in Dawn on July 9th, 2026."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (Annual Report by Ministry of Finance, Pakistan) - For data and analysis on inflation, agriculture, and market structures.",
+      "IMF Country Reports for Pakistan - For insights into structural issues, governance challenges, and policy recommendations for economic stability.",
+      "World Bank Reports on Pakistan's Agriculture and Supply Chain Efficiency - Addressing logistics, storage, and market distortions.",
+      "UN Sustainable Development Goal 2: Zero Hunger - Provides a broader global context for food security challenges and policy goals."
+    ],
+    "vocabulary": [
+      {
+        "word": "Exorbitant",
+        "type": "adjective",
+        "definition": "Excessively high (of a price or amount).",
+        "sentence": "Instead, households continue to pay exorbitant rates for vegetables, wheat flour and other kitchen essentials."
+      },
+      {
+        "word": "Distortions",
+        "type": "noun",
+        "definition": "Changes that make something inaccurate or misleading; economic imbalances.",
+        "sentence": "The failure of lower transport costs to translate into cheaper food again exposes the inefficiencies and distortions that plague Pakistan’s retail markets."
+      },
+      {
+        "word": "Asymmetry",
+        "type": "noun",
+        "definition": "Lack of symmetry or equality between parts; imbalance.",
+        "sentence": "Price increases are transmitted rapidly through the supply chain; price reductions rarely are. This asymmetry has been a defining structural feature of our retail economy for too long."
+      },
+      {
+        "word": "Profiteering",
+        "type": "noun",
+        "definition": "The act of making excessive or unfair profits, especially on essential goods during a shortage.",
+        "sentence": "In Karachi, the Sindh government’s reported measures against hoarding and profiteering have failed to bring down retail rates."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT identified as a primary reason for the failure of lower fuel prices to reduce food costs in Pakistan?",
+        "options": [
+          "Transporters' reluctance to reduce freight charges.",
+          "Wholesalers and retailers maintaining generous profit margins.",
+          "Weak market oversight by regulatory authorities.",
+          "A sudden increase in global crude oil prices."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article explicitly states that diesel and LPG prices have declined, making 'a sudden increase in global crude oil prices' an incorrect reason for food prices *not* falling. The other options are directly cited as reasons for the price disconnect."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What key economic disconnect does the article highlight regarding fuel and food prices in Pakistan?",
+        "back": "The disconnect where declining fuel (diesel, LPG) prices do not translate into lower retail food costs for consumers, unlike how fuel price increases are immediately passed on."
+      },
+      {
+        "front": "Name two primary actors in the supply chain blamed for preventing the reduction of food prices despite lower transport costs.",
+        "back": "Transporters (reluctant to reduce freight charges) and wholesalers/retailers (maintaining generous profit margins)."
+      },
+      {
+        "front": "What is the 'structural feature' of Pakistan's retail economy that the article points out regarding price changes?",
+        "back": "The asymmetry where price increases are transmitted rapidly through the supply chain, but price reductions rarely are."
+      },
+      {
+        "front": "Besides stronger regulation and competition, what long-term investments does the article suggest to address food price instability and shortages?",
+        "back": "Long-term investment in storage, logistics, and agricultural marketing."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783647192977-765",
+    "title": "Unliveable city\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014023/unliveable-city",
+    "date": "2026-07-09",
+    "author": "none@none.com (Editorial)",
+    "content": "IT comes as no surprise. Karachi — Pakistan’s largest city, its financial engine and home to over 20m people — has been recognised globally as one of the most unliveable cities in the world. According to the Economist Intelligence Unit’s 2026 Global Liveability Index, Karachi ranks 170th out of 173 cities surveyed worldwide. Only Tripoli, Dhaka and Damascus rank lower — Damascus, a city still clawing its way out of a civil war. Sadly, that is the company Karachi now keeps. The overall score given to Karachi, 43 out of 100, places it just three points above the threshold of what the EIU defines as acceptable conditions. On stability, Karachi scores just 20 out of 100 — a score that it shares with war-ravaged Damascus. The metric, which is a measure of the prevalence of petty and violent crime, the threat of terrorism, civil unrest and conflict, is one of the heaviest-weighted categories in the entire index, worth a quarter of a city’s total score.\n\nOn education, Karachi scores a much more respectable 75 out of 100. This contrast is what underlines the city’s despair. Karachi has functioning schools, real institutions and human capital that continue to be undermined almost entirely by the failure of its governing authorities to guarantee citizens’ physical security and civic order. Even on healthcare (54) and infrastructure (52), Karachi gets scores that are mediocre, but survivable. It is insecurity, primarily, that has made it an undesirable place to live in, according to the EIU. One wonders whether those ruling the city will take note of these figures or continue to try and drown out all criticism with denial. The citizenry cannot be expected to go on living with this sense of insecurity forever. Anyone residing in Karachi will testify that the city’s policing is generally inept and mostly unhelpful. Even something as basic as reporting a crime can be a nightmare unless one knows the ‘right’ people. Things cannot continue like this. Karachi needs administrative intervention, and it needs it urgently.\n\nPublished in Dawn, July 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs / Current Affairs / Governance & Public Policy",
+    "topic": "Urban Governance, Liveability, and Security Challenges in Pakistan (Case Study: Karachi)",
+    "whyMatters": "This article provides critical, current data on urban liveability in Pakistan, directly relevant to questions on governance, security, and socio-economic challenges. Aspirants can quote the EIU index and specific scores to substantiate arguments on administrative failures and their impact on urban centers.",
+    "summary": [
+      "Karachi, Pakistan’s largest city and financial hub, is globally recognized as one of the most unliveable cities, ranking 170th out of 173 cities in the EIU's 2026 Global Liveability Index.",
+      "The primary reason for Karachi's dismal ranking is its extremely low score on 'stability' (20/100), which measures crime, terrorism, civil unrest, and conflict, aligning it with war-torn Damascus.",
+      "Paradoxically, Karachi scores much higher on 'education' (75/100), highlighting that its human capital and institutions are severely undermined by the failure of governing authorities to ensure physical security and civic order.",
+      "The article urgently calls for administrative intervention to address the pervasive insecurity and inept policing that make Karachi an undesirable place to live, stressing that citizens cannot endure this state indefinitely."
+    ],
+    "facts": [
+      "Karachi ranks 170th out of 173 cities surveyed globally in the Economist Intelligence Unit’s 2026 Global Liveability Index.",
+      "Karachi received an overall score of 43 out of 100, just three points above the EIU's threshold for acceptable conditions.",
+      "On stability, Karachi scored only 20 out of 100, a score it shares with war-ravaged Damascus, reflecting high prevalence of crime, terrorism, and civil unrest."
+    ],
+    "academicReferences": [
+      "World Bank. (Ongoing). *Urban Development and Resilience Reports for South Asia*.",
+      "Government of Pakistan. (Relevant Year). *National Urban Policy Framework*.",
+      "United Nations Sustainable Development Goal 11: *Sustainable Cities and Communities*."
+    ],
+    "vocabulary": [
+      {
+        "word": "unliveable",
+        "type": "adjective",
+        "definition": "Not suitable or good enough to live in; extremely unpleasant or difficult to live in.",
+        "sentence": "The dire conditions due to pollution and insecurity have made the city virtually unliveable for many residents."
+      },
+      {
+        "word": "undermined",
+        "type": "verb",
+        "definition": "To gradually make (someone or something) less strong or effective.",
+        "sentence": "The lack of consistent policy implementation has consistently undermined efforts to improve public services."
+      },
+      {
+        "word": "inept",
+        "type": "adjective",
+        "definition": "Having or showing no skill; clumsy.",
+        "sentence": "The new manager proved to be completely inept at handling team conflicts, leading to widespread dissatisfaction."
+      },
+      {
+        "word": "civic order",
+        "type": "noun",
+        "definition": "The state of public safety and social stability within a city or community, maintained through law and governance.",
+        "sentence": "Maintaining civic order is paramount for economic prosperity and citizens' quality of life."
+      },
+      {
+        "word": "threshold",
+        "type": "noun",
+        "definition": "A point or level beyond which something will happen, be activated, or change.",
+        "sentence": "The city's pollution levels have crossed the acceptable threshold, necessitating urgent environmental action."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the EIU's 2026 Global Liveability Index, what is the primary factor contributing to Karachi's low liveability ranking?",
+        "options": [
+          "Stability (prevalence of crime, terrorism, civil unrest)",
+          "Education (access to quality institutions)",
+          "Healthcare (availability and quality of medical services)",
+          "Infrastructure (quality of roads, public transport, utilities)"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that Karachi's low score on 'stability' (20 out of 100) is the heaviest-weighted category and the primary reason for its undesirable ranking, despite relatively better scores in other areas like education."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does Karachi's high score in education contrast with its overall liveability ranking?",
+        "back": "Karachi's respectable education score (75/100) indicates the presence of functioning institutions and human capital, but this potential is undermined by the severe lack of physical security and civic order."
+      },
+      {
+        "front": "What does Karachi's stability score of 20 out of 100 signify according to the article?",
+        "back": "This score, shared with war-ravaged Damascus, measures the prevalence of petty and violent crime, the threat of terrorism, civil unrest, and conflict, indicating extreme insecurity."
+      },
+      {
+        "front": "Why is the issue of 'instability' in Karachi particularly significant for its liveability ranking?",
+        "back": "Stability is one of the heaviest-weighted categories in the EIU index, accounting for a quarter of a city's total score, making its low score a dominant factor in Karachi's overall poor ranking."
+      },
+      {
+        "front": "What urgent measure does the article recommend for improving Karachi's liveability?",
+        "back": "The article calls for urgent administrative intervention to guarantee citizens' physical security and civic order, and to address the inept and unhelpful policing."
+      }
+    ]
+  },
+  {
     "id": "curated-1783560919970-827",
     "title": "Making every rupee compound\n",
     "source": "Dawn",
@@ -9556,287 +9966,6 @@
         ],
         "answerIndex": 1,
         "explanation": "The article suggests implementing national UAV regulations, investing in jamming systems, and tightening borders to stop smuggling of drone components."
-      }
-    ]
-  },
-  {
-    "id": "curated-1781897141746-70",
-    "title": "A tentative peace\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2008488/a-tentative-peace",
-    "date": "2026-06-17",
-    "author": "none@none.com (Zahid Hussain)",
-    "content": "IN a dramatic turn of events, the US and Iran have agreed on a framework for peace talks. While the details of the deal, reached after months of intense backchannel negotiations mediated by Pakistan and supported by other regional countries, have yet to be made public, this development has raised hopes of ending an irrational war that the US has lost. The tentative pact provides a space of 60 days to conclude a comprehensive peace agreement that remains a significant challenge. There’s still a long way to go before such an agreement is reached.\n    \nThere has been a noticeable shift in President Donald Trump’s previously aggressive tone; however, several complex issues need to be addressed during this period. These include deferred nuclear talks, the future governance of the Strait of Hormuz, the release of frozen Iranian assets and the lifting of the sanctions on Iran. Meanwhile, Israel’s refusal to participate in the process and its ongoing invasion of Lebanon could undermine peace negotiations.\nBringing the two adversaries to the negotiating table has been a challenging diplomatic task for Pakistan. Support from regional countries has significantly helped Pakistan in this painstaking process. Although no breakthrough occurred during the first round of peace talks, known as the Islamabad Talks, held in April, the meeting helped diplomatic channels remain open. Pressure was also placed on the Trump administration by the Gulf countries to end the war, which has profoundly impacted the region. Building trust between the two sides remains a significant challenge.\n    \nRegardless of the outcome of the peace talks, it is clear that the US has lost yet another war of its choosing. Operation Epic Fury, jointly launched by the Trump administration and Israel against Iran on Feb 28, failed to achieve any of its shifting objectives. Despite relentless bombings that wiped out much of Iran’s military infrastructure and eliminated key civil and military leaders, the operation failed to force Iran to capitulate. The US blockade of Iranian ports, intended to strangle the country economically, also proved ineffective.\nIt is clear that the US has lost yet another war of its choosing.\nTrump miscalculated Iran’s resilience; it was not to be the easy victory he expected, similar to Venezuela. As a result, he had no choice but to agree to a framework for peace talks that were not on his terms, seemingly conceding many of Iran’s demands. Even the nuclear issue, which was presented as the justification for the attack on Iran, has been deferred to upcoming negotiations, effectively aiming to restore the pre-war status quo. Despite its losses, Iran has emerged much stronger from the conflict, and has become a symbol of defiance.\n    \nA weakened Trump is now left to fight a political battle at home. The highly unpopular and irrational war has divided his support base between anti-interventionists and hawks, who feel disappointed by the peace negotiations. The economic costs of the conflict, evidenced by rising inflation, have further driven down his approval ratings to a historical low.\nMeanwhile, the war has alienated Washington’s Western allies, who have refused to support what they describe as an illegal conflict. The economies of these countries have been severely impacted, and recovery will take a long time, even with the potential end of hostilities.\n    \nHowever, the most significant challenge for the Trump administration is how to prevent Israel, which initially pushed the US into this war, from undermining the peace negotiations. On the day the US-Iran deal was announced, Israel escalated its bombing campaign in Lebanon, claiming that the provisions of the agreement did not apply to it. The cessation of hostilities in Lebanon is reportedly a crucial part of the MoU; however, Israeli Prime Minister Benjamin Netanyahu stated that the country would continue to occupy parts of Lebanon.\nSeveral Israeli government ministers have publicly denounced the agreement. National Security Minister Itamar Ben-Gvir argued that Israel should not accept it and called for the military to continue demolishing houses in southern Lebanon and push back the residents. Finance Minister Bezalel Smotrich stated that the deal was detrimental to the world. Some media reports indicated that Trump exchanged harsh words during his conversation with Netanyahu. However, given Israel’s influence over America’s power structure, a rupture in relations between the two allies seems unlikely. Israel continues to pose the biggest threat to peace in the Middle East.\n    \nThe war has dramatically altered regional geopolitics, straining US relations with its Arab and Gulf allies, who have borne the brunt of Iran’s retaliatory strikes on American military bases in their countries. These nations were entirely dependent on Washington for security but found themselves unprotected as Israel’s security was America’s main priority. While some of these countries initially supported the US-Israel war on Iran, their perspective shifted due to the security and economic costs they incurred.\nTrump’s recent statement that the US would, if necessary, act as a paid police force for the Middle East, reflects his typical business and transactional mindset. In an interview with the New York Times, he suggested making the US “the guardian of the Middle East” in exchange for 20 per cent of the region’s revenues, effectively proposing a mercenary role for America. The Gulf countries have already been paying billions of dollars to Washington for security, but this approach has not been effective.\nTrump’s latest proposal may prompt these countries to explore alternative regional security arrangements. There are already signs of rapprochement between Iran and the Gulf countries in the post-war regional landscape, which could be a positive development for regional peace and for preventing future conflicts.\nThe latest US-Iran deal has opened channels for meaningful dialogue starting in Geneva this week and is aimed at resolving a conflict that has serious global implications. It is indeed a victory for diplomacy. The Strait of Hormuz has now been opened for shipping, and the lifting of the US naval blockade has begun to ease restrictions on sea traffic from Iran. The pressure on the global economy has eased, yet the process remains tentative, with many obstacles still in the way.\nThe writer is an author and journalist.\nzhussain100@yahoo.com\nX: @hidhussain\nPublished in Dawn, June 17th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "International Relations / Pakistan Affairs",
-    "topic": "US-Iran Relations, Regional Geopolitics, and Pakistan's Diplomatic Role",
-    "whyMatters": "This article provides an insightful analysis of a hypothetical, yet plausible, significant shift in US-Iran relations and its regional implications, offering valuable context for understanding international diplomacy and conflict resolution.",
-    "summary": [
-      "The US and Iran have agreed on a framework for peace talks after months of backchannel negotiations, mediated by Pakistan, raising hopes for ending a protracted conflict.",
-      "Key issues to be resolved include nuclear talks, the Strait of Hormuz, frozen assets, and sanctions, while Israel's stance poses a significant challenge to the peace process.",
-      "The article asserts that the US has lost the war of its choosing, with Operation Epic Fury failing to achieve its objectives, forcing President Trump into a peace deal not on his terms.",
-      "The conflict has strained US relations with regional allies and altered geopolitics, with potential for Iran and Gulf countries to forge new regional security arrangements."
-    ],
-    "facts": [
-      "The peace talks framework provides a 60-day period to conclude a comprehensive agreement.",
-      "Operation Epic Fury was jointly launched by the Trump administration and Israel against Iran on February 28th.",
-      "On the day the US-Iran deal was announced, Israel escalated its bombing campaign in Lebanon."
-    ],
-    "academicReferences": [
-      "While specific academic citations are absent, the analysis aligns with studies on US foreign policy in the Middle East and the dynamics of proxy conflicts.",
-      "The article implicitly refers to concepts of 'hybrid warfare' and 'strategic stability' in its discussion of Operation Epic Fury and nuclear deferrals.",
-      "The geopolitical shifts discussed echo themes found in analyses of 'US global dominance' and the rise of 'multipolarity'."
-    ],
-    "vocabulary": [
-      {
-        "word": "tentative",
-        "type": "adjective",
-        "definition": "not certain or fixed; provisional",
-        "sentence": "A tentative peace framework has been agreed upon, with a limited time to finalize a comprehensive deal."
-      },
-      {
-        "word": "adversaries",
-        "type": "noun",
-        "definition": "one's opponent in a contest, conflict, or dispute",
-        "sentence": "Bringing the two adversaries, the US and Iran, to the negotiating table was a challenging diplomatic task."
-      },
-      {
-        "word": "capitulate",
-        "type": "verb",
-        "definition": "cease to resist an opponent or unwelcome demand; surrender",
-        "sentence": "The operation failed to force Iran to capitulate despite relentless bombings."
-      },
-      {
-        "word": "ostracized",
-        "type": "verb",
-        "definition": "exclude (someone) from a society or group",
-        "sentence": "The war has alienated Washington’s Western allies, who describe the conflict as illegal."
-      },
-      {
-        "word": "rapprochement",
-        "type": "noun",
-        "definition": "the re-establishing of friendly relations between countries",
-        "sentence": "There are signs of rapprochement between Iran and the Gulf countries in the post-war regional landscape."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary role attributed to Pakistan in the US-Iran peace talks?",
-        "options": [
-          "Mediator",
-          "Sponsor",
-          "Observer",
-          "Enforcer"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that Pakistan mediated the backchannel negotiations between the US and Iran."
-      },
-      {
-        "question": "Which of the following is NOT listed as a complex issue needing to be addressed in the US-Iran peace negotiations?",
-        "options": [
-          "Deferred nuclear talks",
-          "Future governance of the Strait of Hormuz",
-          "Economic sanctions on Israel",
-          "Release of frozen Iranian assets"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article lists deferred nuclear talks, the Strait of Hormuz, and frozen Iranian assets as key issues. Economic sanctions on Israel are not mentioned as a part of the US-Iran deal."
-      },
-      {
-        "question": "According to the article, what was the outcome of 'Operation Epic Fury'?",
-        "options": [
-          "It failed to achieve its objectives.",
-          "It successfully forced Iran to capitulate.",
-          "It led to the immediate lifting of sanctions on Iran.",
-          "It significantly bolstered Trump's approval ratings."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that the operation 'failed to achieve any of its shifting objectives' and 'failed to force Iran to capitulate'."
-      }
-    ],
-    "examOutline": {
-      "question": "Analyze the shifting regional geopolitics in the Middle East following a hypothetical US-Iran conflict, focusing on the role of Pakistan and the challenges to achieving sustainable peace.",
-      "outline": [
-        "I. Introduction: Thesis statement on the transformative impact of the US-Iran conflict and peace talks on Middle Eastern geopolitics, highlighting Pakistan's mediation role and the fragility of the current peace framework.",
-        "II. The Genesis of the Conflict and Failed US Strategy: Examination of 'Operation Epic Fury', its stated and unstated objectives, and the miscalculation of Iranian resilience, establishing the US's 'lost war' narrative.",
-        "III. Pakistan's Diplomatic Endeavor and Regional Dynamics: Analysis of Pakistan's role in mediating US-Iran negotiations, the support from regional countries, and the 'Islamabad Talks' as a diplomatic channel.",
-        "IV. Key Challenges to Peace and Israeli Obstructionism: Detailed breakdown of the issues hindering comprehensive peace (nuclear talks, Hormuz, sanctions, assets) and the significant threat posed by Israel's aggressive stance and independent military actions.",
-        "V. Geopolitical Repercussions and Future Security Arrangements: Discussion on strained US-Arab relations, the potential for new regional security alliances between Iran and Gulf states, and Trump's 'mercenary' proposal for US security guarantees.",
-        "VI. Conclusion: Reiteration of the tentative nature of peace, the victory for diplomacy, and the long road ahead, emphasizing the fundamental shifts in regional power dynamics and the imperative for sustained de-escalation and trust-building."
-      ]
-    }
-  },
-  {
-    "id": "curated-1781897227891-411",
-    "title": "Iran’s remaining two vows\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2008235/irans-remaining-two-vows",
-    "date": "2026-06-16",
-    "author": "none@none.com (Jawed Naqvi)",
-    "content": "AS Iran braces to change the global landscape of war and peace, of imperial conquest and its nemesis in a people who refuse to be afraid of dying for their nation’s self-respect, for their abiding pride in a mesmeric culture of poetry, inclusion and reflection, where do its friends and foes go from here? An all but signed agreement for permanent peace with the US promises to leave Israel out in the cold, and with it its sympathisers. That leaves room for future trouble, of course. But Iran has shown it has the wherewithal to figure out the cure.\nFor now, the peace deal would be a shot in the arm for BRICS whose summit, contrarily, a rightward-bound Israel-hugging India is to hold in September. But what is in store for Pakistan and its Saudi allies whose endeavours for the peace deal, overtly and covertly, may fall short of Iran’s larger vision of a multicultural Palestinian state in lieu of Zionist Israel, in which its Jewish, Muslim and Christian communities live as equal partners as they had done for centuries, not as superiors and inferiors as proposed by colonialism? Isn’t that the equation each one of the communities strives for in its abode in Europe and America? What will become of India’s Hindutva project of majoritarianism in a world in which its sheet anchors in racist Israel, and to an extent the MAGA-bound US, struggle to fend off Iran’s two remaining deadly vows?\n    \nOf the four clenched-fisted promises that Iranians learnt to state collectively during Ayatollah Khomeini’s early consolidation of power, the West applauded two and even egged them on with fulsome support. “Marg bar Shauravi” translated as “death to the USSR”. “Marg bar Saddam” was a united cry for “death to Saddam Hussain” at the Friday prayer congregations at the Tehran University. In a Macbeth-like turn of events, however, as if to fulfil the witches’ prophecy in the Shakespeare tragedy, Saddam’s death was instigated not by Iran but by the Western occupiers of Iraq who had recently supplied him with chemical weapons to use against revolutionary Iran.\nThe more macabre the deaths of its enemies, the more the West exults in its malodorous worldview. The pictures they cherish of the gruesome murder at their bidding of Che Guevara, Najibullah, Muammar Qadhafi and Nicolae Ceausescu were circulated as cruel Roman emperors did with the heads of the rebels hoisted on poles. Qadhafi’s barbaric murder got a laugh out of Hillary Clinton. They cut Che Guevara’s hands after his execution in Bolivia in 1967, and the fingerprints taken from them were used to verify his identity. The severed hands were preserved in formaldehyde and sent to Buenos Aires, Argentina, while the fingerprints were promptly matched in Washington, D.C. Iran denied the world the perverse pleasure of putting a frame around the revered body of its slain Supreme Leader. And that’s the abiding lesson of the war: self-respect.\nOf the four clenched-fisted promises that Iranians learnt to state collectively, the West applauded two.\nAs for the USSR, the West courted a perpetually drunk Boris Yeltsin to avenge Moscow’s glee at its defeat in Vietnam. Then Soviet troops followed their quarry in an error of judgement and waded straight into a merciless Kabul. With Saddam dead and the USSR dismantled, two of Iran’s vows were met, for which Iranians never fail to claim divine help. The remaining two oaths target the US and Israel, the “Great Satan” and “Little Satan”, respectively. But “death to Israel” or “death to America” were never meant as exhortations that the people inhabiting the countries should expire collectively. The dismantling of US imperialism like the one being carried out in Donald Trump’s face with his MAGA base splitting vertically, and a globally isolated Israel in which Zionism has become its bane instead of an asset, could be much of what was ever desired by Khomeini’s Iran.\nWhere do India and Pakistan stand in the equation? I had been sceptical of the Pew survey of the time claiming that when the world, from Europe to Asia, through Africa and back home in America, had put George W. Bush in the doghouse for his invasion of Iraq, Indians overwhelmingly cheered for the US president. It’s not a surprise, therefore, when idols are carved of Trump today and he is worshipped in propitiating rituals in the presence of the god of fire. The early example came from the top. Prime minister Manmohan Singh hugged Bush publicly in New Delhi and professed to him his affection while reminding him of how much he was loved in India. A communist leader lost patience and ticked off Singh, telling him to speak for himself.\nBut the silly collective behaviour wasn’t about Bush or his invasion of Iraq; ignore here the fact that Saddam Hussein, who Bush had had executed was the rare Arab leader to back India in its Kashmir dispute with Pakistan. Indians who stand with the Hindutva ideology of blindly close ties with Israel are enthralled by Benjamin Netanyahu who they see as a supremo commanding the ability to gather rich intelligence needed to track and assassinate rival leaders and their military commanders at will. Indian admirers forget that the Israelis are keeping an eye on them too, through Pegasus spyware and other potent contraptions. Remember too that Israel plied the Epstein scam to lure political leaders, which spared nobody.\nAs for Pakistan, after its well-deserved glory as the key mediator to end the world’s most devastating military confrontation in decades, it would do well to explain to itself primarily its participation in Donald Trump’s imperialist racket to usurp the Gaza Strip for a riviera to be built by his son-in-law. Pakistan maintains that its involvement is strictly focused on humanitarian aid, stabilising a ceasefire, and preventing the permanent displacement of Palestinians. That’s an onerous task to shoulder. How is it planning to throw Trump off the scent? Perhaps the peace deal will take care of that?\nThe writer is Dawn’s correspondent in Delhi.\njawednaqvi@gmail.com\nPublished in Dawn, June 16th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2025-BRICS",
-      "paper": "Current Affairs",
-      "year": 2025,
-      "question": "Discuss the emergence of SCO and BRICS as a challenge to American politico-economic dominance in world politics. What measures can be taken by the US to counter them?"
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Current Affairs",
-    "topic": "BRICS/SCO expansion vs US global dominance, Iranian foreign policy",
-    "whyMatters": "The article provides insights into Iran's evolving foreign policy and its implications for global power dynamics, particularly concerning the US and its allies, which is crucial for understanding the challenges to American dominance discussed in the context of BRICS and SCO.",
-    "summary": [
-      "Iran is seeking permanent peace with the US, which could leave Israel isolated, impacting regional stability and potentially aligning with BRICS' interests.",
-      "The article critiques India's rightward shift and its ties with Israel, contrasting it with Iran's vision of a multicultural Palestinian state and questioning Pakistan's alignment with US-led initiatives.",
-      "It analyzes Iran's historical 'four vows' during Ayatollah Khomeini's era, noting the West's support for 'death to the USSR' and 'death to Saddam,' while the remaining two vows target the US and Israel, interpreted as dismantling US imperialism and isolating Israel.",
-      "The piece questions Pakistan's participation in US-led initiatives concerning Gaza and suggests that the Iran-US peace deal might influence Pakistan's strategic positioning."
-    ],
-    "facts": [
-      "The article mentions a forthcoming BRICS summit in September.",
-      "It refers to the execution of Che Guevara in 1967, Najibullah, Muammar Qadhafi, and Nicolae Ceausescu.",
-      "It references Donald Trump's MAGA movement and his son-in-law's involvement in a Gaza Strip project.",
-      "It mentions the Pegasus spyware used by Israelis."
-    ],
-    "academicReferences": [
-      "US and its allies' geopolitical strategies",
-      "Iran's foreign policy and regional influence",
-      "Geopolitical implications of BRICS and SCO expansion"
-    ],
-    "vocabulary": [
-      {
-        "word": "nemesis",
-        "type": "noun",
-        "definition": "a formidable and long-standing rival or opponent.",
-        "sentence": "Iran's enduring pride in its culture serves as a nemesis to imperial ambitions."
-      },
-      {
-        "word": "wherewithal",
-        "type": "noun",
-        "definition": "the money needed for a particular purpose.",
-        "sentence": "Iran has shown it has the wherewithal to figure out the cure for geopolitical challenges."
-      },
-      {
-        "word": "contrarily",
-        "type": "adverb",
-        "definition": "in an opposite manner; on the contrary.",
-        "sentence": "BRICS' summit is being held contrarily to Israel's alignment with a rightward-bound India."
-      },
-      {
-        "word": "macabre",
-        "type": "adjective",
-        "definition": "disturbing and horrifying because of involvement with or depiction of death and injury.",
-        "sentence": "The article describes the West's exultation in macabre deaths of political opponents."
-      },
-      {
-        "word": "exhortations",
-        "type": "noun",
-        "definition": "an act or strongly urging someone toward a desired action or outcome.",
-        "sentence": "The calls for 'death to Israel' were not meant as literal exhortations for collective demise."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which two of Ayatollah Khomeini's 'clenched-fisted promises' did the West initially applaud and support?",
-        "options": [
-          "Death to the USSR and Death to Saddam Hussein",
-          "Death to America and Death to Israel",
-          "Death to Communist regimes and Death to Fascism",
-          "Death to Imperialism and Death to Colonialism"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the West applauded and supported 'Marg bar Shauravi' (death to the USSR) and 'Marg bar Saddam' (death to Saddam Hussein)."
-      }
-    ],
-    "examOutline": {
-      "question": "Discuss the emergence of SCO and BRICS as a challenge to American politico-economic dominance in world politics. What measures can be taken by the US to counter them?",
-      "outline": [
-        "I. Introduction: Acknowledge the shifting global order and the rise of non-Western blocs like SCO and BRICS challenging US hegemony. Briefly introduce Iran's evolving foreign policy as a case study in this dynamic.",
-        "II. The Challenge Posed by BRICS and SCO: Analyze how these blocs, through economic cooperation, expanded membership, and alternative financial mechanisms, present a significant challenge to US dominance. Discuss their collective assertion on global issues.",
-        "III. Iran's Strategic Role and its Impact: Detail Iran's position, its historical grievances (e.g., 'four vows'), and its potential peace deal with the US. Explain how this impacts regional stability, Israel's standing, and the interests of BRICS nations.",
-        "IV. India and Pakistan's Geopolitical Calculus: Examine the divergent paths of India (aligning with Israel/US) and Pakistan (mediator role, potential shift due to Iran deal) in the context of US dominance and rising blocs.",
-        "V. US Counter-Strategies: Discuss potential measures the US could employ, such as strengthening alliances (QUAD, AUKUS), economic incentives, diplomatic engagement with emerging powers, and addressing internal divisions within the US that undermine its global standing.",
-        "VI. Conclusion: Reiterate the evolving nature of global power and the need for the US to adapt its strategies to a multipolar world order where blocs like BRICS and SCO exert increasing influence."
-      ]
-    }
-  },
-  {
-    "id": "embrace-of-nessus-2026",
-    "title": "The embrace of Nessus",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/1857140",
-    "date": "2026-06-04",
-    "author": "Khurram Husain",
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs / Economics",
-    "topic": "IMF Constraints and Budgeting under Deficits",
-    "content": "The recent national budget planning for the fiscal year 2026-27 illustrates the restrictive economic environment Pakistan is forced to navigate under its current IMF structural programs. Development spending, historically the primary vehicle for building public infrastructure and boosting job creation, has been severely squeezed. Under IMF-mandated fiscal consolidation policies, the government is restricted from running expansionary deficits, meaning any public expenditure must be strictly backed by domestic revenue collection. Consequently, the fiscal space for federal development programs has shrunk to historical lows, shifting the burden onto provincial governments whose resources are already overstretched. The title metaphor refers to the mythical shirt of Nessus—a gift that binds and burns the wearer—symbolizing how IMF assistance, while preventing a catastrophic balance of payments default, traps the state in a cycle of austerity. Furthermore, this dynamic restricts the government's ability to maintain public support, as it forces the withdrawal of power and fuel subsidies while expanding indirect taxation. In the long run, escaping this structural trap requires shifting from a consumption-led, debt-funded model to a productivity-led, export-driven model. The way forward remains difficult, requiring structural taxation of untaxed sectors like retail and real estate to expand the tax-to-GDP ratio beyond the current precarious levels.",
-    "whyMatters": "Crucial for Pakistan Affairs and Economics papers. Explains how IMF structural benchmarks affect national budgeting, taxation, and federal-provincial resource distribution.",
-    "summary": [
-      "The 2026-27 federal budget reflects the severe fiscal constraints imposed by the IMF structural program.",
-      "IMF-mandated fiscal consolidation has severely reduced federal development spending, compromising long-term growth.",
-      "Austerity requirements, such as removing energy subsidies and increasing indirect taxes, create intense domestic political pressure.",
-      "Escaping the debt trap requires expanding the tax net to retail and real estate while transitioning to export-oriented productivity."
-    ],
-    "facts": [
-      "The IMF program restricts expansionary deficits, capping development spending in the 2026-27 budget.",
-      "Austerity measures include cutting energy subsidies and increasing tax collection on domestic consumption.",
-      "Federal development funds have reached historical lows relative to total government expenditures."
-    ],
-    "vocabulary": [
-      {
-        "word": "Consolidation",
-        "type": "noun",
-        "definition": "The action or process of combining several financial holdings or stabilizing budgets into a single, cohesive, and balanced state.",
-        "sentence": "The government's fiscal consolidation measures helped stabilize the currency but restricted public investments."
-      },
-      {
-        "word": "Austerity",
-        "type": "noun",
-        "definition": "Difficult economic conditions created by government measures to reduce public expenditure and increase taxes.",
-        "sentence": "Strict austerity guidelines imposed by international lenders led to protests over rising utility costs."
-      },
-      {
-        "word": "Metaphor",
-        "type": "noun",
-        "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
-        "sentence": "The 'embrace of Nessus' serves as a tragic metaphor for assistance programs that lead to economic bondage."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What metaphor does the author use to describe the restrictive nature of IMF financial assistance?",
-        "options": [
-          "The Sword of Damocles",
-          "The Shirt of Nessus",
-          "The Achilles' Heel",
-          "The Sisyphean Rock"
-        ],
-        "answerIndex": 1,
-        "explanation": "The author uses 'the embrace of Nessus' (the shirt of Nessus) as a metaphor for aid that prevents default but burns the recipient with strict austerity rules."
-      },
-      {
-        "question": "How does the IMF program impact development spending in the 2026-27 budget?",
-        "options": [
-          "It mandates doubling infrastructure spending",
-          "It prohibits any spending outside of military programs",
-          "It severely restricts and squeezes development funds to meet deficit benchmarks",
-          "It transfers all development funds to foreign contractors"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that under IMF-mandated fiscal consolidation policies, development spending has been severely squeezed to limit the fiscal deficit."
-      },
-      {
-        "question": "According to the article, what is required to escape the structural debt trap in the long run?",
-        "options": [
-          "Immediately declaring national default",
-          "Transitioning from debt-funded consumption to productivity and export-driven growth",
-          "Relying entirely on central bank money printing",
-          "Nationalizing the textile manufacturing industry"
-        ],
-        "answerIndex": 1,
-        "explanation": "The author concludes that escaping the trap requires shifting from a consumption-led, debt-funded model to a productivity-led, export-driven economic model."
       }
     ]
   }
