@@ -1,5 +1,551 @@
 [
   {
+    "id": "curated-1783991848720-304",
+    "title": "Beyond Gen Z aura\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014976/beyond-gen-z-aura",
+    "date": "2026-07-13",
+    "author": "none@none.com (Arooj Waheed Dar)",
+    "content": "GEN Z, the generation that introduced us to ‘skibidi’ and ‘6-7’, now makes up a massive share of Pakistan’s youth population. Born between 1997 and 2012, they are currently navigating the transition from adolescence to adulthood, shaping trends and public discourse through online platforms. However, despite all their ‘rizz’, the economic reality of these young Pakistanis is far from giving ‘main character energy’. Their integration into the education system and labour market remains limited and uneven, raising concerns about their long-term economic prospects and the country’s ability to harness its demographic dividend.\n\nThe latest Labour Force Survey 2024-25 shows that nearly three-fourths of the population aged 15-29 is not enrolled in any formal educational programme. Predictably, literacy levels remain low, with nearly a quarter of the segment unable to read or write simple statements with understanding. This educational exclusion poses serious long-term implications for their overall productivity and employability.\n\nBeyond ‘aura farming’, these young Pakistanis have few productive endeavours to engage in. Access to skills development opportunities remains particularly weak with nearly nine out of 10 young individuals reporting having never received any form of vocational, technical or professional training. Due to the lack of structured programmes, many resort to unpaid and informal apprenticeships with limited prospects of progression.\n\nIn the absence of effective transitions from learning to work, large segments of the youth population are absorbed into informal, low-productivity activities that offer neither stability nor upward mobility. According to data, only about one-fifth of the young population is engaged in paid work. The nature of jobs available is also highly concerning as most of the work does not qualify as decent employment. A large share of this population is engaged in informal agricultural work, or employed in small, unregistered private enterprises.\n\nPolicymakers must give serious consideration to youth pathways.\n\nMore than 80 per cent of these young workers are employed without any written contract, and nearly a quarter work on a daily-wage basis. According to data, more than three-fourths work beyond the 48-hour workweek, with some even working up to 98 hours. This translates into an average of 14 hours a day, seven days a week. Despite such long working hours, returns remain low, with nearly 94pc earning less than the minimum wage of Rs37,000 per month. In many cases, workers are exposed to hazardous conditions, and routinely endure physical and verbal abuse, while wage payments are often delayed.\n\nAmong the working youth, the benefits of economic participation are unevenly distributed in favour of males. Females account for only about 13pc of the employed youth population, highlighting the persistence of social and cultural norms that constrain women’s access to economic opportunities. Despite the perception of this cohort as the most ‘woke’ generation to date, data shows that many of the barriers faced by women in previous generations remain firmly embedded today, highlighting the urgency for targeted policy action.\n\nThe role of social and cultural norms in defining gender roles is further reflected in labour market participation, where the proportion of females seeking paid work is roughly half that of males.\n\nWith a NEET (Not in Employment, Education, or Training) rate of 54pc, policymakers must give serious consideration to youth pathw­ays beyond token schemes and rhe­toric. Rather than reflecting a lack of willingness am­­­ong young pe­­ople to engage productively, this figure points to­­wards the abs­e­nce of viable cha­nnels for quality training, and a smooth transition into decent employment.\n\nUltimately, this is not merely a youth issue, but a structural one rooted in a persistent lack of prioritisation, underinvestment in human capital, and weak alignment across relevant government departments, particularly provincial education, skills development, labour and youth departments. While many provincial policies and schemes are designed in the name of youth development, they are backed neither by budgets, nor political will. An effective response would require centring youth development across public policy design and implementation, with particular focus on decent employment generation.\n\nBriefly, as long as marginal returns to public expenditure are measured in votes and political popularity, social sectors will remain underfunded and fragmented, risking the loss of an entire generation.\n\nThe writer is a development economist and policy consultant.\n\nPublished in Dawn, July 13th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-YOUTH",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Pakistan is considered to be the fifth-largest youth bulge country in the world. Given this youth bulge, deliberate on ways forward for Sustainable Economic Development in Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Pakistan Affairs",
+    "topic": "Youth Bulge, Human Capital Development, and Sustainable Economic Development in Pakistan",
+    "whyMatters": "This article critically analyzes the challenges faced by Pakistan's youth bulge, providing crucial data and highlighting structural issues. It directly addresses the 'ways forward for Sustainable Economic Development' by outlining problems in education, skills, employment, and gender equality, offering clear policy implications for competitive exam students.",
+    "summary": [
+      "Pakistan's large Gen Z population faces severe economic exclusion, marked by limited integration into education and the formal labor market.",
+      "Widespread educational exclusion and a significant lack of skills development limit youth productivity and force many into unproductive, informal apprenticeships.",
+      "The majority of employed youth are in unstable, low-productivity, informal jobs, often with exploitative working conditions, long hours, and wages below the minimum.",
+      "Deep-rooted gender disparities persist, with female youth significantly underrepresented in paid work due to socio-cultural norms, despite the generation's 'wokeness' perception.",
+      "A high NEET rate (54%) signals systemic failures in providing quality training and smooth transitions to decent employment, stemming from underinvestment and fragmented policy.",
+      "Sustainable economic development requires policymakers to prioritize youth development, centring decent employment generation and aligning government departments with adequate budgets and political will."
+    ],
+    "facts": [
+      "Nearly three-fourths (approx. 75%) of 15-29 year olds are not enrolled in formal education.",
+      "Approximately 9 out of 10 young individuals (90%) have never received vocational, technical, or professional training.",
+      "Only about one-fifth (20%) of the young population is engaged in paid work, with nearly 94% earning less than the minimum wage of Rs37,000 per month.",
+      "The NEET (Not in Employment, Education, or Training) rate for Pakistani youth is 54%.",
+      "Females account for only about 13% of the employed youth population."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (Annual publication by the Ministry of Finance, Government of Pakistan)",
+      "UNDP Human Development Report (Global report with focus on Youth Development Index for countries)",
+      "International Labour Organization (ILO) Decent Work Agenda (Global policy framework on labor standards)",
+      "National Youth Policy of Pakistan (Relevant government policy document, e.g., 2008 or subsequent updates)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Demographic dividend",
+        "type": "noun",
+        "definition": "The economic growth potential that can result from shifts in a population's age structure, mainly when the share of the working-age population is larger than the non-working-age share.",
+        "sentence": "Harnessing Pakistan's demographic dividend requires significant investment in youth education and employment."
+      },
+      {
+        "word": "Employability",
+        "type": "noun",
+        "definition": "The combination of factors and skills that enable individuals to gain and maintain employment and progress within the workplace.",
+        "sentence": "Low access to skills development severely impacts the employability of Pakistan's youth."
+      },
+      {
+        "word": "NEET",
+        "type": "acronym, noun",
+        "definition": "Not in Employment, Education, or Training; a term used to describe young people who are disengaged from both work and learning.",
+        "sentence": "Pakistan's high NEET rate of 54% underscores a systemic failure in youth integration."
+      },
+      {
+        "word": "Aura farming",
+        "type": "slang, noun",
+        "definition": "In the context of the article, cultivating an appealing public image, often online, without necessarily engaging in substantive or productive activities.",
+        "sentence": "The article suggests that beyond 'aura farming', young Pakistanis have few productive endeavors to engage in."
+      },
+      {
+        "word": "Underinvestment",
+        "type": "noun",
+        "definition": "Insufficient or inadequate investment in a particular area or sector.",
+        "sentence": "Persistent underinvestment in human capital is a key structural issue impacting youth development."
+      },
+      {
+        "word": "Marginal returns to public expenditure",
+        "type": "noun phrase",
+        "definition": "The additional benefit or output gained from an additional unit of public spending.",
+        "sentence": "When marginal returns to public expenditure are measured in votes, social sectors often remain underfunded."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What percentage of young Pakistanis (age 15-29) are *not* enrolled in any formal educational program?",
+        "options": [
+          "Nearly three-fourths",
+          "Approximately half",
+          "About one-fifth",
+          "Less than one-tenth"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'nearly three-fourths of the population aged 15-29 is not enrolled in any formal educational programme.'"
+      },
+      {
+        "question": "What is the NEET rate reported for Pakistani youth in the article?",
+        "options": [
+          "13%",
+          "20%",
+          "54%",
+          "94%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions, 'With a NEET (Not in Employment, Education, or Training) rate of 54pc, policymakers must give serious consideration to youth pathw­ays.'"
+      },
+      {
+        "question": "According to the article, what is a significant barrier to women's access to economic opportunities among the youth?",
+        "options": [
+          "Lack of digital literacy skills",
+          "Persistence of social and cultural norms",
+          "Unwillingness to seek paid work",
+          "Higher educational attainment among males"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Females account for only about 13pc of the employed youth population, highlighting the persistence of social and cultural norms that constrain women’s access to economic opportunities.'"
+      },
+      {
+        "question": "What percentage of working youth reportedly earn less than the minimum wage of Rs37,000 per month?",
+        "options": [
+          "Less than 10%",
+          "About 25%",
+          "Nearly 50%",
+          "Nearly 94%"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article states, 'returns remain low, with nearly 94pc earning less than the minimum wage of Rs37,000 per month.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the primary economic challenges faced by Pakistan's Gen Z, as highlighted in the article?",
+        "back": "They experience limited integration into education and the labor market, low literacy, lack of skills development, and absorption into informal, low-productivity work with poor conditions and low wages."
+      },
+      {
+        "front": "How does educational exclusion impact the long-term prospects of Pakistani youth?",
+        "back": "It leads to low overall productivity and employability, pushing them into unpaid apprenticeships or informal, unstable jobs with limited progression."
+      },
+      {
+        "front": "What does the article identify as the root cause of the structural issues affecting youth development in Pakistan?",
+        "back": "A persistent lack of prioritization, underinvestment in human capital, and weak alignment across relevant government departments (education, skills, labor, youth)."
+      },
+      {
+        "front": "What specific policy shifts does the article recommend for effectively addressing the youth bulge and fostering sustainable economic development?",
+        "back": "Centering youth development across public policy design and implementation, with a particular focus on decent employment generation, backed by budgets and political will, moving beyond token schemes."
+      },
+      {
+        "front": "What is the significance of the 54% NEET rate in Pakistan?",
+        "back": "It points towards the absence of viable channels for quality training and a smooth transition into decent employment, rather than a lack of willingness among young people to be productive."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783991714590-798",
+    "title": "Thousand-day war\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014978/thousand-day-war",
+    "date": "2026-07-13",
+    "author": "none@none.com (Maleeha Lodhi)",
+    "content": "ISRAEL’S genocidal war on Gaza has now exceeded a thousand days. It continues despite the ceasefire brokered by the US last October. Death and destruction have been on an epic scale. More than 73,000 Palestinians have been killed, including over 21,000 children. Thousands remain missing. Gaza lies in ruins with 80 per cent of it devastated. Over 200 journalists have been deliberately targeted and killed by the Israeli army. Israel has expanded its control of more territory in Gaza, ignoring UN warnings that “this increases deadly risks for Palestinians”.\n\nThe humanitarian crisis in Gaza is still catastrophic. Even as Israeli strikes continue in violation of the ceasefire, the world has moved on — its focus fixed instead on the US-Iran conflict and talks for a negotiated deal. Regional powers too have pulled away. Gaza has been relegated to the sidelines. This has left the peace plan in limbo and disarray.\n\nNow Hamas is trying to change that and seize the attention of the international community. Last week, it announced it would transfer power in Gaza, where it was a de facto government for two decades, to a committee of technocrats. Called the National Committee for the Administration of Gaza (NCAG), this transitional body of Palestinian technocrats was established in January under President Donald Trump’s peace plan. It was meant to assume governance in the Strip and work under the supervision of the Board of Peace (BoP). This, along with a gradual withdrawal of Israeli troops, Hamas’s disarmament and the Strip’s demilitarisation was to take place in the second phase of Trump’s 20-point plan. The first phase involved the exchange of Israeli hostages for Palestinian prisoners.\n\nNone of this happened. The NCAG was given no resources and remains stuck in Cairo in the face of Israeli opposition to its entry into Gaza. The international stabilisation force has yet to be deployed. The BoP has remained mostly inert and advanced little on any front. It has been mired in legal and political problems with the official fund for the Board having no cash. In an appalling move, the BoP announced last week that the UN agency for Palestinian refugees, UNRWA, “has no place in the new Gaza”. The Palestinian leadership condemned this as elimination of the refugee question. The Board also plans a ‘closed’ pilot ‘humanitarian zone’ in southern Gaza ostensibly to accommodate thousands of ‘vetted’ Palestinians. This controversial move is widely seen as incompatible with international humanitarian law and amounting to forced displacement of the population.\n\nWith the US-Iran confrontation dragging on prospects are dim for progress on the Gaza plan.\n\nHamas says it will relinquish governance “to remove any pretexts for the occupation, which continues its aggression and war of extermination”. With this, the Palestinian resistance group disbanded its governing body. The aim is to mount pressure on Israel, expose the impediments it has placed in the path of any forward movement and kick-start the stalled peace process by pushing the BoP to move. Israel has dismissed Hamas’s announcement. Its foreign minister dubbed it “a trick” to avoid disarming.\n\nThe Board has taken note of it but said its assessment “will be guided by actions, not promises”. It added that all weapons in Gaza should be under the control of the NCAG. Hamas didn’t say anything about giving up weapons. It had made it clear from the very start it would only do that when Israel delivers on its commitment to withdraw from Gaza and end its occupation. Hamas also insists a Palestinian administration must be in place before it considers disarming. Disarmament cannot happen unless a civilian Palestinian authority is up and running in Gaza because otherwise who does Hamas hand over weapons to?\n\nIsrael now occupies around 60pc of Gaza. Recently, Israeli Prime Minister Benjamin Netanyahu ordered his military to seize 70pc of the Strip. Meanwhile, Israel’s Defence Minister Israel Katz declared Israeli forces would remain in what he described as “security zones” in Gaza for an indefinite period, with no timetable for withdrawal.\n\nThe move by Hamas may be symbolic but it can easily be tested by allowing the transitional 13-member Palestinian technocratic committee, headed by Ali Shaath, to enter Gaza and take over the enclave’s day-to-day governance. It is Israel that is blocking that. Talks in Cairo have taken place between Palestinian factions including Hamas and BoP representatives, as well as mediators Qatar and Turkiye. But the Hamas-Israel deadlock continues over implementation of the second phase of the peace plan.\n\nWhat happens next depends on several factors. The most important is how engaged and interested the Trump administration is in pushing the Gaza plan forward. For now, it is entirely preoccupied with the latest flare-up of tensions with Iran. The US and Iran traded military strikes last week and Washington rescinded the licence allowing sales of Iranian oil. Trump declared the ceasefire with Iran is over. But he also said talks will continue. Nevertheless, the US-Iran Memorandum of Understanding hangs in the balance. Trump’s impatience, Iran’s hardened position after Ayatollah Ali Khamenei’s funeral and the clash over control of the Strait of Hormuz are contributing to the escalation of tensions. This won’t revive Washington’s focus on Gaza. The longer the US-Iran confrontation drags on, attention will be diverted from Gaza.\n\nThere is also the question of how much the US is prepared to press Israel to comply with its commitments under the plan. So far it has turned a blind eye to Israeli expansion of areas in its control and its continuing destruction of Gaza. Statements from Washington demand Hamas should disarm but say nothing about the almost daily Israeli strikes on Gaza, obstruction of humanitarian assistance or the gradual Israeli withdrawal from the enclave. The US also said nothing as Israel carried out de facto annexation of the West Bank, conducted deadly raids and engaged in ethnic cleansing of the Bedouin and herding communities. With Netanyahu facing re-election in fall amid dwindling public support, this makes him even less willing to push ahead with the peace plan.\n\nThese developments are undermining the prospects for advancement on the Gaza plan. Once again, Palestinians were promised peace, but instead got death, destruction and endless suffering.\n\nThe writer is a former ambassador to the US, UK and UN.\n\nPublished in Dawn, July 13th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs",
+    "topic": "Gaza conflict, regional dynamics, and US foreign policy",
+    "whyMatters": "While this article provides crucial insights into the ongoing Israel-Gaza conflict, US foreign policy, and regional dynamics in the Middle East, it is not relevant for directly addressing the given past exam question on 'Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration.' Students should leverage this article for questions explicitly focusing on international relations, Middle East conflicts, or US foreign policy, not for topics pertaining to Pakistan's regional economic cooperation with ECO.",
+    "summary": [
+      "Israel's 'genocidal war' on Gaza has exceeded a thousand days, resulting in epic death and destruction, with the world's focus now shifted to the US-Iran conflict.",
+      "The humanitarian crisis in Gaza remains catastrophic, with 80 percent of the Strip devastated and continued Israeli strikes despite a brokered ceasefire.",
+      "Hamas announced its intention to transfer governance in Gaza to a committee of technocrats (NCAG) to pressure Israel and reactivate the stalled peace process.",
+      "The Trump-era peace plan for Gaza remains in limbo due to Israeli obstruction, lack of international resources for transitional bodies like NCAG and BoP, and US preoccupation with escalating tensions with Iran."
+    ],
+    "facts": [
+      "More than 73,000 Palestinians have been killed in Gaza, including over 21,000 children, and over 200 journalists have been deliberately targeted and killed.",
+      "Gaza lies in ruins with 80 percent of it devastated, and Israel now occupies around 60% of the territory, with plans to seize 70%.",
+      "The National Committee for the Administration of Gaza (NCAG), a transitional body established in January, remains stuck in Cairo due to Israeli opposition to its entry into Gaza."
+    ],
+    "academicReferences": [
+      "Maleeha Lodhi, 'Thousand-day war,' Dawn, July 13, 2026.",
+      "United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) reports on the humanitarian situation in Gaza.",
+      "International Humanitarian Law (e.g., Geneva Conventions) regarding protection of civilians and prohibitions on forced displacement."
+    ],
+    "vocabulary": [
+      {
+        "word": "genocidal",
+        "type": "adjective",
+        "definition": "relating to or involving genocide, the deliberate killing of a large number of people from a particular nation or ethnic group.",
+        "sentence": "The article describes Israel's war on Gaza as a 'genocidal war' due to its scale of death and destruction."
+      },
+      {
+        "word": "relegated",
+        "type": "verb",
+        "definition": "consign or dismiss to an inferior rank or position.",
+        "sentence": "With the world's focus on the US-Iran conflict, Gaza has been relegated to the sidelines of international attention."
+      },
+      {
+        "word": "impediments",
+        "type": "noun",
+        "definition": "a hindrance or obstruction in doing something.",
+        "sentence": "Hamas aims to expose the impediments Israel has placed in the path of any forward movement for peace."
+      },
+      {
+        "word": "annexation",
+        "type": "noun",
+        "definition": "the action of annexing something, especially territory.",
+        "sentence": "The US said nothing as Israel carried out de facto annexation of the West Bank, undermining peace prospects."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, why did Hamas announce it would transfer power in Gaza to a committee of technocrats?",
+        "options": [
+          "To remove any pretexts for Israeli occupation and aggression.",
+          "To comply with UN Security Council resolutions.",
+          "To facilitate immediate disarmament as per the peace plan.",
+          "To gain control over the international stabilization force."
+        ],
+        "answerIndex": 0,
+        "explanation": "Hamas stated its aim was 'to remove any pretexts for the occupation, which continues its aggression and war of extermination,' and to mount pressure on Israel and kick-start the stalled peace process."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the primary reasons cited for the catastrophic humanitarian crisis in Gaza?",
+        "back": "The article attributes the crisis to Israel’s genocidal war, continued strikes, 80% devastation of Gaza, and obstruction of humanitarian assistance."
+      },
+      {
+        "front": "What role was the National Committee for the Administration of Gaza (NCAG) intended to play under Trump's peace plan?",
+        "back": "The NCAG was meant to assume governance in the Strip as a transitional body of Palestinian technocrats, working under the supervision of the Board of Peace."
+      },
+      {
+        "front": "Why is the peace plan for Gaza currently stalled, according to the author?",
+        "back": "The peace plan is stalled due to Israeli obstruction (blocking NCAG entry, continued occupation), lack of resources for the Board of Peace, and the Trump administration's preoccupation with the escalating US-Iran confrontation."
+      },
+      {
+        "front": "How does the author characterize the international community's attention towards the Gaza conflict?",
+        "back": "The author states that the world has 'moved on,' with its focus fixed instead on the US-Iran conflict, leading to Gaza being 'relegated to the sidelines.'"
+      }
+    ]
+  },
+  {
+    "id": "curated-1783992162014-965",
+    "title": "Toxic staple\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014972/toxic-staple",
+    "date": "2026-07-13",
+    "author": "none@none.com (Editorial)",
+    "content": "A RECENT article published in Dawn has shed light on the challenges being faced by Sindh’s chilli farmers, whose crops are being ravaged by climate change and water stress. Extreme weather, including intense heatwaves during critical growth stages of the crop and unpredictable monsoon patterns, has resulted in frequent damage to crops. Drought stress, in particular, is cited as a key factor in the growth of Aspergillus flavus on cultivated crops. It is a fungus that produces aflatoxin B1, which is reported to be found at extremely elevated levels in Pakistan’s chilli produce. For perspective, the European Union allows a maximum of five micrograms per kilogram of aflatoxin in dried chillies; in Pakistan, studies have found that ground and crushed chilli products being used in kitchens nationwide routinely have concentrations of about 80 micrograms per kilo. This makes it a seriously overlooked public health concern: aflatoxin is a Group 1 carcinogen, the highest category of known cancer-causing agents.\n\nThe problem is so severe that some brands reportedly sell chilli products with the ‘only for consumption in Pakistan’ label on them. The fact that they can do so is a cause for alarm. For a known cancer-causing agent to be present in high concentrations in a product used by almost everyone on a daily basis speaks to the lack of concern and understanding of regulators tasked with ensuring consumer safety. Though various bodies exist to regulate food safety, it seems the job is not approached with the scientific vigour it requires. Poor nutrition or unregulated food quality is not just a health risk; it is an economic one. Comprehensive standards must be drawn up to regulate the quality of, at the very least, the ingredients used regularly in local cuisine to prevent a future healthcare crisis. Farmers must not be left to fend for themselves, but coached on better food safety standards. It is imperative that action is taken soon.\n\nPublished in Dawn, July 13th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs / Current Affairs / Environmental Science / Public Administration / Economics",
+    "topic": "Climate Change, Food Security & Public Health / Regulatory Failure & Governance in Pakistan",
+    "whyMatters": "This article highlights the multi-faceted impact of climate change on agriculture, directly linking it to a severe public health crisis in Pakistan. It is crucial for understanding systemic failures in food safety regulation and the urgent need for comprehensive policy interventions.",
+    "summary": [
+      "Sindh's chilli farmers face significant crop damage due to climate change, including heatwaves and unpredictable monsoons, leading to drought stress.",
+      "Drought stress fosters the growth of Aspergillus flavus, a fungus producing aflatoxin B1, a Group 1 carcinogen, found at alarmingly high levels in Pakistan's chilli products.",
+      "Pakistan's chilli products contain aflatoxin levels significantly exceeding international standards (e.g., 80 µg/kg vs. EU's 5 µg/kg), posing a major, overlooked public health threat.",
+      "Regulatory bodies in Pakistan are failing to ensure consumer safety, necessitating the immediate formulation of comprehensive food quality standards and farmer education to prevent a future healthcare crisis and economic repercussions."
+    ],
+    "facts": [
+      "The European Union allows a maximum of five micrograms per kilogram (5 µg/kg) of aflatoxin in dried chillies.",
+      "Studies in Pakistan found ground and crushed chilli products routinely have aflatoxin concentrations of about 80 micrograms per kilo (80 µg/kg).",
+      "Aflatoxin B1 is classified as a Group 1 carcinogen, the highest category of known cancer-causing agents."
+    ],
+    "academicReferences": [
+      "United Nations Sustainable Development Goals (SDG 2: Zero Hunger, SDG 3: Good Health and Well-being, SDG 13: Climate Action)",
+      "Codex Alimentarius Commission guidelines for food contaminants and toxins",
+      "Pakistan's National Climate Change Policy (2012) and Climate Change Act (2017)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Ravaged",
+        "type": "verb",
+        "definition": "Severely damaged or devastated.",
+        "sentence": "Sindh's chilli crops are being ravaged by climate change and water stress."
+      },
+      {
+        "word": "Imperative",
+        "type": "adjective",
+        "definition": "Of vital importance; crucial.",
+        "sentence": "It is imperative that action is taken soon to address the food safety crisis."
+      },
+      {
+        "word": "Carcinogen",
+        "type": "noun",
+        "definition": "A substance or agent that causes cancer.",
+        "sentence": "Aflatoxin is a Group 1 carcinogen, posing a serious health risk."
+      },
+      {
+        "word": "Vigour",
+        "type": "noun",
+        "definition": "Effort, energy, and enthusiasm.",
+        "sentence": "The job of regulating food safety requires scientific vigour, which seems to be lacking."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary factor cited in the article for the growth of Aspergillus flavus on cultivated chilli crops?",
+        "options": [
+          "Excessive rainfall",
+          "Pesticide overuse",
+          "Drought stress",
+          "Genetic modification"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Drought stress, in particular, is cited as a key factor in the growth of Aspergillus flavus on cultivated crops.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core public health concern associated with aflatoxin B1 in Pakistani chilli products?",
+        "back": "Aflatoxin B1 is a Group 1 carcinogen, meaning it is a known cancer-causing agent, and its presence at extremely elevated levels in a daily staple poses a severe public health risk."
+      },
+      {
+        "front": "How do aflatoxin levels in Pakistan's chilli products compare to European Union standards?",
+        "back": "Pakistan's chilli products routinely contain about 80 micrograms per kilo of aflatoxin, vastly exceeding the European Union's maximum allowed level of five micrograms per kilogram."
+      },
+      {
+        "front": "What does the article suggest as immediate actions to address the food safety issue for farmers and regulators?",
+        "back": "The article calls for drawing up comprehensive standards to regulate food quality, especially for local cuisine ingredients, coaching farmers on better food safety standards, and taking swift action due to regulatory oversight."
+      },
+      {
+        "front": "Beyond health risks, what other significant concern does poor nutrition or unregulated food quality present for a nation like Pakistan?",
+        "back": "Besides being a health risk, poor nutrition or unregulated food quality is also highlighted as an economic risk, potentially leading to a future healthcare crisis with broader societal implications."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783991928731-532",
+    "title": "Justice imperilled\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014973/justice-imperilled",
+    "date": "2026-07-13",
+    "author": "none@none.com (Editorial)",
+    "content": "THE Human Rights Commission of Pakistan and the International Federation for Human Rights have raised concerns about Pakistan’s justice system. Their report argues that corruption is no longer limited to a few dishonest officials but has become part of the way the system works, weakening the courts’ independence and denying people equal access to justice. Based on interviews with lawyers, former judges, journalists and civil society representatives, it describes problems at every stage of the legal process. Bribes are allegedly demanded to register police cases, move investigations, obtain court documents and bring hearings forward. Huge case backlogs and unclear procedures make such practices easier, while ordinary litigants are often left with little choice but to pay. The report says favouritism and nepotism are widespread, with family ties, personal connections and professional networks often taking precedence over merit. More worrying is its finding that recent constitutional changes affecting judicial appointments and removals, together with allegations of interference by powerful institutions, have weakened the courts’ ability to act independently. The report concludes that corruption has become so widespread that it may now amount to systemic, even grand, corruption, with serious consequences for the rule of law and the protection of basic rights.\n\nThe report’s most important message is that corruption in the justice system is about far more than bribes. It affects whether people receive a fair hearing and whether they believe the courts will treat everyone equally. When cases are delayed, influenced or appear to favour the well-connected, public confidence suffers, and those with the least money and influence pay the highest price. The report also finds that existing systems for investigating misconduct have done little to prevent wrongdoing or win public trust. It further warns that the lack of legal protection for whistleblowers discourages people from exposing corruption. Some of its recommendations, especially its call to repeal the 26th and 27th constitutional amendments, will divide opinion. But many others should attract broader support. Assigning cases through transparent rules, publishing court fees and hearing schedules online, requiring judges to declare their assets, investigating complaints promptly and protecting whistleblowers would all make the courts more open and accountable. Public confidence cannot be restored through promises alone. It will return when Pakistanis are convinced that justice depends on the law rather than on money, influence or political pressure.\n\nPublished in Dawn, July 13th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs / Governance / Current Affairs / Essay",
+    "topic": "Judicial Independence, Corruption, and Rule of Law in Pakistan",
+    "whyMatters": "This article offers a critical analysis of systemic corruption in Pakistan's justice system, providing concrete issues and reform proposals. Aspirants can leverage these insights to enrich their essays and analytical answers on governance challenges, judicial reforms, and the rule of law.",
+    "summary": [
+      "A joint report by the Human Rights Commission of Pakistan (HRCP) and the International Federation for Human Rights (IFHR) highlights systemic corruption within Pakistan's justice system, compromising judicial independence and equal access to justice.",
+      "Corruption pervades every stage of the legal process, from police case registration and investigations to obtaining court documents and expediting hearings, often exacerbated by huge case backlogs and unclear procedures.",
+      "Beyond bribes, the report identifies widespread favouritism, nepotism, recent constitutional changes affecting judicial appointments, and alleged interference by powerful institutions as key factors weakening judicial independence.",
+      "The article concludes that this extensive corruption amounts to 'systemic, even grand, corruption,' with severe implications for the rule of law, public confidence, and the protection of fundamental human rights."
+    ],
+    "facts": [
+      "The concerns about Pakistan's justice system were raised in a joint report by the Human Rights Commission of Pakistan (HRCP) and the International Federation for Human Rights (IFHR).",
+      "The report suggests that corruption has become so widespread that it may now constitute 'systemic, even grand, corruption.'",
+      "Key recommendations include repealing the 26th and 27th constitutional amendments, protecting whistleblowers, and implementing transparent rules for case assignment and fee publication."
+    ],
+    "academicReferences": [
+      "Report: Human Rights Commission of Pakistan & International Federation for Human Rights, 'Justice in Peril: Corruption, Independence, and Accountability in Pakistan's Justice System' (as described in the article).",
+      "Constitutional Documents: 26th and 27th Constitutional Amendments of Pakistan.",
+      "International Law: United Nations Convention Against Corruption (UNCAC)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Imperilled",
+        "type": "adjective",
+        "definition": "Endangered; at risk of being harmed or destroyed.",
+        "sentence": "The article's title 'Justice imperilled' accurately reflects the state of the justice system described in the report."
+      },
+      {
+        "word": "Litigants",
+        "type": "noun",
+        "definition": "People involved in a lawsuit, either as a plaintiff or defendant.",
+        "sentence": "Ordinary litigants are often left with little choice but to pay bribes to navigate the complex legal process."
+      },
+      {
+        "word": "Nepotism",
+        "type": "noun",
+        "definition": "The practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.",
+        "sentence": "The report finds that favouritism and nepotism are widespread, often taking precedence over merit in judicial matters."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT a primary reason for the weakened judicial independence in Pakistan?",
+        "options": [
+          "Allegations of interference by powerful institutions.",
+          "Recent constitutional changes affecting judicial appointments.",
+          "Widespread favouritism and nepotism.",
+          "Lack of international funding for judicial infrastructure."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article specifically mentions interference by powerful institutions, recent constitutional changes, and widespread favouritism/nepotism as factors weakening judicial independence. It does not mention the lack of international funding for judicial infrastructure."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary concern raised by the HRCP and IFHR report regarding Pakistan's justice system?",
+        "back": "The report highlights systemic corruption that undermines judicial independence and denies equal access to justice to the people."
+      },
+      {
+        "front": "How does corruption manifest at different stages of the legal process, as detailed in the article?",
+        "back": "Bribes are allegedly demanded for police case registration, investigations, obtaining court documents, and expediting hearings, often facilitated by backlogs and unclear procedures."
+      },
+      {
+        "front": "What broader impact does corruption in the justice system have beyond financial transactions, as emphasized by the article?",
+        "back": "It erodes public confidence, affects whether people receive a fair hearing, makes justice appear biased towards the well-connected, and ultimately imperils the rule of law and basic rights."
+      },
+      {
+        "front": "Name three specific recommendations mentioned in the article that aim to make the courts more open and accountable.",
+        "back": "Assigning cases through transparent rules, publishing court fees and hearing schedules online, requiring judges to declare their assets, and protecting whistleblowers."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783991632045-547",
+    "title": "World Bank’s ‘magical discovery’\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014977/world-banks-magical-discovery",
+    "date": "2026-07-13",
+    "author": "none@none.com (Shahid Kardar)",
+    "content": "BARELY had the dust settled on the IMF’s insipid report on governance than the World Bank launched, with much fanfare, its latest prescription — this time on fiscal federalism. The bank’s report presents itself as a fresh diagnosis of Pakistan’s malfunctioning intergovernmental system, when actually there is little that is either new or thought-provoking about it.\n\nIn fact, the report comes across as an overwhelmingly technocratic exercise. It catalogues institutional weaknesses, distils lessons from selected federations and decentralised systems, and recommends clearer expenditure assignments, stronger provincial revenue mobilisation, NFC Award reforms, more transparent fiscal transfers, effective intergovernmental coordination and empowered local governments (LG). In principle, few would disagree. The problem is that the report treats the recommendations as technical solutions to what are essentially political problems, thus displaying only a superficial appreciation of Pakistan’s political economy, the constitutional agreement underpinning federal-provincial ties and the political bargaining that has shaped the country’s fiscal architecture. Its framework assumes that improved technical arrangements can create the political conditions necessary for their success. In reality, these conditions are prerequisites, not outcomes, of institutional reform. Political incentives shape institutions, not vice-versa.\n\nThe report rightly criticises Islamabad’s lavish spending on devolved subjects, resulting in wasteful duplication, blurred accountability and widening fiscal imbalances. Yet it hardly examines the incentives that extend this encroachment into provincial domains. The answer lies not in administrative confusion but in the political economy: preserving patronage networks, protecting bureaucratic empires and career paths, federal accommodation of donor-funded projects to support the balance of payments, and keeping influence over sectors assigned to other tiers of government.\n\nThe provinces aren’t blameless either. They have shown little enthusiasm for empowering LGs and are unwilling to undertake politically costly taxation of their own bases because their annual fiscal surpluses have to be transferred to finance federal deficits. These are deliberate political incentives and not technical oversights. Yet incentives receive only passing attention because they do not easily fit into the technocratic narrative.\n\nFor decades, the World Bank championed decentralisation. Now that narrative has changed.\n\nThe World Bank’s own intellectual journey is revealing. For decades, it championed decentralisation as the pathway to greater accountability, stronger provincial ownership and better public services. It welcomed the 18th Amendment and made available resources to assist the provinces to manage their expanded mandate. Now that Pakistan faces acute fiscal stress, the narrative has changed; decentralisation is being portrayed as a source of fragmentation, duplication and macroeconomic instability. Both propositions contain some elements of truth. What the report never explains is how an arrangement once celebrated as a democratic and developmental breakthrough has become a principal source of fiscal dysfunction. Nor does it ask the uncomfortable question: whether the bank’s own advice had underestimated the institutional and political prerequisites necessary for successful decentralisation.\n\nFor decades, the World Bank has been among the most active actors in Pakistan’s development landscape. It has poured billions of dollars through structural adjustment programmes, the Social Action Programme, governance reforms, public expenditure reviews, tax administration projects, institutional strengthening initiatives and countless technical assistance missions, advising, financing, monitoring and evaluating virtually every major sector of the economy. Few institutions can claim to have exercised comparable influence over Pakistan’s public policy. Yet throughout this prolonged engagement the bank rarely confronted the constitutional contradictions and structural flaws in Pakistan’s fiscal architecture as binding constraints on the effectiveness of the very programmes it financed — the success of which depended upon institutional arrangements whose weaknesses it now presents as startling discoveries.\n\nIt appears to have stumbled on to the weaknesses in expenditure assignments, revenue authority and intergovernmental fiscal transfers, presenting them as though they were newly emerging threats. But these weaknesses were never consistently elevated as central policy concerns during decades of intensive engagement. They did not emerge overnight. They were embedded in the system all along.\n\nSo, when the report cites poor learning outcomes, weak health indicators, inefficient public spending and deteriorating service delivery as evidence that fiscal federalism requires urgent correction, it is inadvertently delivering an indictment of a development model in which the World Bank itself was a central participant. Nor are these revelations path-breaking to anyone familiar with Pakistan’s policy debates. Domestic economists, constitutional experts, numerous policy commissions and successive NFC deliberations have highlighted the tension between expenditure decentralisation and revenue centralisation. None of this was hidden. None of it emerged suddenly.\n\nDevelopment is undeniably difficult. External institutions cannot engineer political settlements or constitutional consensus. A federation is not a corporation whose success can be measured solely through efficiency indicators and fiscal ratios. Pakistan’s federal structure emerged from a political compact intended to address long-standing provincial grievances and perceptions of excessive centralisation. Any assessment that emphasises administrative and fiscal efficiency while relegating political considerations to the margins will produce an incomplete diagnosis.\n\nTo be fair, the report occasionally acknowledges these political dimensions. Yet they remain peripheral. The implicit message remains that better formulas, stronger coordination bodies and mechanisms, and improved fiscal rules will somehow overcome problems rooted in political power, constitutional history and distrust between governments. The report’s technical observations are generally sound. Pakistan does need clearer expenditure responsibilities, stronger provincial revenue effort, transparent fiscal transfers, effective LGs and more coherent intergovernmental coordination. But none of these reforms will survive unless they alter the incentives that have frustrated every previous reform attempt.\n\nThis is where the report falls short. It implicitly presents its diagnosis as a novel discovery while avoiding any serious self-reflection. A credible assessment would have included a chapter titled, ‘What we got wrong’. After decades of advising governments, financing reforms, evaluating institutions and shaping public policy, the World Bank should ask itself how an institution so deeply involved in the country’s development arrived so late to a conclusion that Pakistanis had identified all along.\n\nThe writer is a former governor of the State Bank.\n\nPublished in Dawn, July 13th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2022-FED",
+      "paper": "Pakistan Affairs",
+      "year": 2022,
+      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
+    },
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Pakistan Affairs",
+    "topic": "Fiscal Federalism, the 18th Amendment, and Political Economy of Decentralization in Pakistan",
+    "whyMatters": "This article provides a critical perspective on the challenges of fiscal federalism in Pakistan, directly linking to the post-18th Amendment context. It enables students to analyze the underlying political economy driving criticisms against decentralization and federal-provincial fiscal relations.",
+    "summary": [
+      "The World Bank's latest report on fiscal federalism in Pakistan is criticized as overly technocratic, failing to appreciate the deep-rooted political economy, constitutional agreements, and political bargaining that shape the country's fiscal architecture.",
+      "The report treats its recommendations as technical solutions to what are fundamentally political problems, ignoring that political conditions are prerequisites for successful institutional reform, not mere outcomes.",
+      "The article highlights a significant shift in the World Bank's narrative, from previously championing decentralization (including the 18th Amendment) as a developmental breakthrough, to now portraying it as a source of fragmentation and macroeconomic instability amidst fiscal stress.",
+      "It argues that the World Bank, despite decades of deep involvement and influence in Pakistan's development, presents long-standing structural flaws and constitutional contradictions as 'magical discoveries' without adequate self-reflection on its own past advice.",
+      "Both the federal government (for lavish spending on devolved subjects driven by patronage and bureaucratic interests) and provinces (for reluctance to empower local governments and undertake politically costly taxation) are implicated in perpetuating these fiscal issues through deliberate political incentives."
+    ],
+    "facts": [
+      "The 18th Constitutional Amendment (2010) expanded provincial mandates and was initially welcomed by institutions like the World Bank for promoting decentralization.",
+      "The World Bank's report identifies issues like unclear expenditure assignments, weak provincial revenue mobilization, NFC Award reforms, and ineffective local governments as requiring urgent correction.",
+      "Federal government's continued spending on devolved subjects is attributed to preserving patronage networks, protecting bureaucratic empires, and accommodating donor-funded projects to support the balance of payments.",
+      "Provinces have shown little enthusiasm for empowering local governments and are unwilling to undertake politically costly taxation because annual fiscal surpluses are often transferred to finance federal deficits.",
+      "Domestic economists, constitutional experts, numerous policy commissions, and successive National Finance Commission (NFC) deliberations have consistently highlighted the tension between expenditure decentralization and revenue centralization."
+    ],
+    "academicReferences": [
+      "The 1973 Constitution of Pakistan (especially Articles related to Federal Structure and Financial Relations, e.g., Articles 140A, 160)",
+      "The 18th Constitutional Amendment, 2010 (specific provisions on provincial autonomy, decentralization, and fiscal powers)",
+      "National Finance Commission (NFC) Award Reports (e.g., 7th NFC Award for its impact on intergovernmental fiscal transfers)",
+      "World Bank reports on Public Expenditure Reviews and Fiscal Federalism in Pakistan (for contextual analysis and critique)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Insipid",
+        "type": "adjective",
+        "definition": "Lacking vigor or interest; dull or bland.",
+        "sentence": "The IMF’s insipid report on governance provided little new or thought-provoking analysis."
+      },
+      {
+        "word": "Technocratic",
+        "type": "adjective",
+        "definition": "Relating to or characterized by the dominance of technocrats; expertise-driven, often overlooking political or social aspects.",
+        "sentence": "The World Bank report came across as an overwhelmingly technocratic exercise, ignoring the underlying political economy."
+      },
+      {
+        "word": "Encroachment",
+        "type": "noun",
+        "definition": "Intrusion on a person's territory, rights, or property.",
+        "sentence": "The article criticized Islamabad’s lavish spending on devolved subjects, extending its encroachment into provincial domains."
+      },
+      {
+        "word": "Indictment",
+        "type": "noun",
+        "definition": "A formal accusation or a strong indication that a policy or system is wrong or blameworthy.",
+        "sentence": "The report’s findings inadvertently delivered an indictment of a development model in which the World Bank itself was a central participant."
+      },
+      {
+        "word": "Relegating",
+        "type": "verb",
+        "definition": "Assigning to a lower or less important position, place, or condition.",
+        "sentence": "Any assessment that emphasizes administrative and fiscal efficiency while relegating political considerations to the margins will produce an incomplete diagnosis."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary criticism leveled against the World Bank's report on fiscal federalism in Pakistan?",
+        "options": [
+          "It primarily offers technocratic solutions to what are fundamentally political problems.",
+          "It fails to provide any recommendations for improving intergovernmental coordination.",
+          "It overemphasizes the role of the 18th Amendment in fiscal instability.",
+          "It praises the current state of provincial revenue mobilization."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article repeatedly states that the report treats recommendations as technical solutions to political problems, demonstrating a superficial appreciation of Pakistan's political economy."
+      },
+      {
+        "question": "According to the article, what was the World Bank's stance on decentralization prior to Pakistan's acute fiscal stress?",
+        "options": [
+          "It consistently warned against decentralization as a source of instability.",
+          "It championed decentralization as a pathway to greater accountability and provincial ownership.",
+          "It remained neutral, offering no specific advice on decentralization.",
+          "It advocated for greater centralization of fiscal powers."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'For decades, it championed decentralisation as the pathway to greater accountability, stronger provincial ownership and better public services. It welcomed the 18th Amendment...'"
+      },
+      {
+        "question": "The article suggests that federal encroachment into provincial domains on devolved subjects is driven by which primary factors?",
+        "options": [
+          "Administrative confusion and lack of technical expertise.",
+          "Preserving patronage networks, protecting bureaucratic empires, and accommodating donor-funded projects.",
+          "A desire to strictly adhere to the constitutional division of powers.",
+          "Lack of clarity in expenditure assignments from the 18th Amendment."
+        ],
+        "answerIndex": 1,
+        "explanation": "The author states the answer lies 'not in administrative confusion but in the political economy: preserving patronage networks, protecting bureaucratic empires and career paths, federal accommodation of donor-funded projects...'"
+      },
+      {
+        "question": "What crucial element does the article argue the World Bank's report lacks after decades of involvement in Pakistan's development?",
+        "options": [
+          "Detailed recommendations for NFC Award reforms.",
+          "A comprehensive analysis of global federations.",
+          "A chapter titled 'What we got wrong', indicating serious self-reflection.",
+          "Statistical data on provincial revenue mobilization."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article concludes by stating: 'A credible assessment would have included a chapter titled, 'What we got wrong'. After decades of advising governments... the World Bank should ask itself...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article critique the World Bank's shift in narrative regarding decentralization in Pakistan, particularly concerning the 18th Amendment?",
+        "back": "The article highlights that the WB previously championed decentralization and the 18th Amendment for accountability and provincial ownership, but now, amid fiscal stress, portrays it as a source of instability, without acknowledging its own role in promoting it."
+      },
+      {
+        "front": "What does the article identify as the fundamental flaw in the World Bank's report concerning the proposed solutions for Pakistan's fiscal federalism?",
+        "back": "The report offers technical solutions to problems that are inherently political, overlooking the necessity of altering political incentives, which are prerequisites for successful institutional reform, not outcomes."
+      },
+      {
+        "front": "According to the article, what political economy factors drive both federal encroachment into provincial domains and provincial reluctance to empower local governments?",
+        "back": "Federal encroachment is driven by patronage, bureaucratic protection, and donor project accommodation, while provinces resist empowering LGs and taxing their bases due to political costs and the need to finance federal deficits."
+      },
+      {
+        "front": "How does the article implicate the World Bank in the very 'discoveries' it now presents regarding Pakistan's fiscal architecture?",
+        "back": "It argues that the WB, despite decades of deep engagement and financing reforms, failed to consistently address or elevate these long-standing constitutional contradictions and structural flaws as central policy concerns until now."
+      }
+    ]
+  },
+  {
     "id": "curated-1783905940839-363",
     "title": "Balochistan security crisis\n",
     "source": "Dawn",
@@ -78,6 +624,89 @@
       {
         "front": "What strategic logic underpins the insurgent groups' targeting of commercial and critical infrastructure assets in Balochistan?",
         "back": "Such attacks are intended to increase economic costs, reinforce narratives of resource exploitation, discourage external investment, and undermine public confidence in the state's ability to provide essential services and security."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783992241368-736",
+    "title": "Against the noise\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014789/against-the-noise",
+    "date": "2026-07-12",
+    "author": "none@none.com (Muna Khan)",
+    "content": "THE TV was on in the background when the finance minister delivered his budget speech. The usual noise: opposition members on their feet, slogans, desk-thumping. I wasn’t listening. Then two words cut through it: ‘sanitary pads’. I put down what I was doing; the government was removing the tax on sanitary products.\n\nThe finance minister had said ‘sanitary pads’ on the floor of the National Assembly, on live television, with the ease of a man reading out grain prices. The information minister then hailed the decision.\n\nI thought immediately of my late editor, Tahir Mirza. In 2024, I wrote in this space about the complaints we received when a sanitary pad advertisement ran on the back page of a mid-week magazine I edited at this paper. Readers had written in. Colleagues had raised eyebrows. Mirza sahib took the calls in his stride. People need time to accept change, he said.\n\nThe noise in the Assembly hasn’t changed. The comfort with which those two words were said has.\n\nThe change did not come from government enlightenment. It was dragged in. In February, a colleague interviewed Mahnoor Omer, the young lawyer who took the government to court over the tax in September last year. She called Omer inspiring. Time Magazine thought so too when they named her one of their women of the year. She led an incredible awareness campaign.\n\nTwo decades ago, the fight was an advertisement on the back page of a magazine. Now it is a petition in the Lahore High Court. The battlefield moved from the newsroom to the courtroom, and it won. Mirza sahib had said people need time to accept change. The time, it turns out, was two decades.\n\nThe tax is gone but the shame at the counter remains.\n\nBut watch what happens at the counter. The tax is gone, and still the shopkeeper reaches for the brown paper bag the moment a woman picks up a packet of pads. Some stores keep the bags stacked beside the shelf, ready, so the wrapping can be done quickly. As if the transaction itself must be shortened. As if shame has a duration, and the kindest thing anyone can do is reduce it.\n\nThe finance minister can say the word in parliament. The object still cannot be seen crossing a counter. That is the distance between a word winning and a woman winning. And even this is the story of the woman who reached the counter at all.\n\nHere the numbers turn cold. A 2024 study by Unicef and WaterAid found that only 12 per cent of women and girls in Pakistan use commercially produced pads. The rest manage with cloth and improvised materials, many without clean water or a private toilet.\n\nFor the woman who was never at the counter, the tax cut changes nothing. You cannot discount your way to a customer who could not enter the shop.\n\nEven for the women who can, the arithmetic is unfinished. The 18pc sales tax was removed, and the government also announced the removal of customs duty on imported sanitary pads. However, concerns remain about duties on some imported raw materials used by local manufacturers, which could continue to affect prices. Campaigners call the exemption a drop in the ocean.\n\nAnd there is a warning from elsewhere: when Malawi scrapped its taxes on menstrual products, shelf prices did not move. The saving vanished somewhere between the treasury and the counter.\n\nIt has been a week since our exemption took effect. I’ll be checking whether the price of a packet has dropped by 18pc. Because, to reiterate: the brown paper bag is still at the checkout. The shopkeeper still reaches for it unasked. The shame still has its little rituals, and no budget line abolishes those.\n\nAnd something else has not changed: the silence. The same speech that removed the tax on sanitary pads removed it on contraceptives. Almost no one has mentioned it. There were no celebrations, no headlines, no interviews. Perhaps because contraception has not yet found its Mahnoor Omer.\n\nConsider what the airwaves tell us. Pemra allows ads confined to hours when few are watching, in language so carefully policed it can barely say what it is selling. No brand wants to build a campaign that can be taken off air by a complaint.\n\nSo, the provinces run their gentle messages about family planning and child spacing, and the products themselves go unnamed. This is how silence works in Pakistan. The word is allowed, technically, somewhere, after hours, in terms vague enough to offend no one and inform no one.\n\nSanitary pads escaped that fate because someone said the word plainly, again and again, until a finance minister could say it too. Contraception is still waiting for someone to say it against the noise.\n\nThe writer runs writing workshops in Karachi.\n\nPublished in Dawn, July 12th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Pakistan Affairs / Social Issues / Gender Studies",
+    "topic": "Gender Equality, Menstrual Health, and Social Taboos in Pakistan",
+    "whyMatters": "This article highlights the complex interplay between policy, social norms, and public health in Pakistan. Aspirants must understand how societal taboos impede policy effectiveness and the role of sustained advocacy in driving change.",
+    "summary": [
+      "The removal of sales tax on sanitary pads in Pakistan, though a positive policy change, was a result of sustained advocacy and legal action, not government initiative.",
+      "Despite the policy change, social shame and stigma surrounding menstrual products persist, evidenced by practices like the use of brown paper bags at checkout counters.",
+      "The economic benefit of the tax exemption is uncertain due to potential issues with duties on raw materials for local manufacturers and historical precedents of savings not reaching consumers.",
+      "Contraceptives, despite also receiving tax exemptions, remain in widespread silence and taboo, lacking the public advocacy and discourse that propelled sanitary pads into the national conversation."
+    ],
+    "facts": [
+      "The government removed an 18% sales tax and customs duty on imported sanitary pads.",
+      "Mahnoor Omer, a young lawyer, initiated legal action against the tax on sanitary products in September (implied 2025, given article date of 2026).",
+      "A 2024 study by Unicef and WaterAid found that only 12% of women and girls in Pakistan use commercially produced pads.",
+      "Malawi's experience showed that removing taxes on menstrual products did not lead to a drop in shelf prices."
+    ],
+    "academicReferences": [
+      "UN Sustainable Development Goal 3: Good Health and Well-being and Goal 5: Gender Equality",
+      "Pakistan National Health Policy (latest version relevant to reproductive health and hygiene)",
+      "Global Gender Gap Report (World Economic Forum) – for contextual understanding of gender disparities in Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "Enlightenment",
+        "type": "noun",
+        "definition": "The act of gaining or imparting knowledge, understanding, or insight; intellectual or spiritual awakening.",
+        "sentence": "The change did not come from government enlightenment; it was dragged in by persistent advocacy."
+      },
+      {
+        "word": "Reiterate",
+        "type": "verb",
+        "definition": "To say something again or a number of times, typically for emphasis or clarity.",
+        "sentence": "Because, to reiterate: the brown paper bag is still at the checkout."
+      },
+      {
+        "word": "Improvised",
+        "type": "adjective",
+        "definition": "Created and performed spontaneously or without preparation; made or arranged from whatever is available.",
+        "sentence": "The rest manage with cloth and improvised materials, many without clean water or a private toilet."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the primary driver for the tax removal on sanitary pads, according to the article?",
+        "options": [
+          "Government's proactive decision based on an internal review.",
+          "Sustained legal action and awareness campaigns led by activists.",
+          "International pressure from donor organizations.",
+          "Economic downturn necessitating tax reforms."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'The change did not come from government enlightenment. It was dragged in. In February, a colleague interviewed Mahnoor Omer, the young lawyer who took the government to court over the tax... She led an incredible awareness campaign.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the 'distance between a word winning and a woman winning' as described in the article regarding sanitary pads?",
+        "back": "The finance minister can say 'sanitary pads' in parliament (word winning), but the persistent social shame at the counter, symbolized by the unasked-for brown paper bag, means women are not yet fully winning."
+      },
+      {
+        "front": "According to the article, what significant challenge remains even after the tax exemption on sanitary pads?",
+        "back": "The deeply ingrained social shame and stigma associated with purchasing menstrual products, leading to rituals like using brown paper bags, persist despite policy changes."
+      },
+      {
+        "front": "How does the article compare the current status of sanitary pads versus contraceptives in terms of public discourse and policy impact?",
+        "back": "Sanitary pads have gained public discourse and policy change due to sustained advocacy. Contraceptives, despite a similar tax exemption, remain largely in silence and taboo, lacking a similar public champion."
+      },
+      {
+        "front": "What potential issue does the article raise regarding the economic impact of the tax exemption on sanitary pads, referencing Malawi?",
+        "back": "The article warns that the price reduction might not reach consumers due to duties on raw materials for local manufacturers and the possibility of savings vanishing 'somewhere between the treasury and the counter,' as seen in Malawi."
       }
     ]
   },
@@ -1015,6 +1644,100 @@
       {
         "front": "What are some of the daily struggles faced by ordinary residents of Karachi, as depicted in the article?",
         "back": "Daily struggles include intense heat, frequent power outages, severe water shortages, persistent corruption, dug-up and garbage-rutted roads, and constant traffic congestion."
+      }
+    ]
+  },
+  {
+    "id": "curated-1783992015050-596",
+    "title": "Beyond headcounts\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2014557/beyond-headcounts",
+    "date": "2026-07-11",
+    "author": "none@none.com (Editorial)",
+    "content": "WORLD Population Day has traditionally prompted discussions on population growth and fertility rates. This year’s theme, ‘Realising the hopes and aspirations of young people — today and for the future’, invites a different conversation. It reminds governments that population policy should begin not with numbers, but with people.\n\nThe aim is not simply to influence how many children are born, but to ensure that every young person has the opportunity to make informed choices about education, employment, marriage and parenthood. Experience shows that these choices are closely linked to access to healthcare, quality education, economic security and gender equality. When such conditions improve, demographic outcomes improve as well.\n\nPopulation policy, therefore, is ultimately about expanding people’s choices rather than merely managing population trends. That shift in perspective is particularly relevant for Pakistan. Public debate often revolves around census figures, fertility rates and warnings about a rapidly expanding population. While these are valid concerns, they risk obscuring a basic question: are Pakistan’s young people able to realise their aspirations? For millions, the answer remains no.\n\nThe barriers begin early and reinforce one another. Children who leave school prematurely face diminished prospects, while young adults enter a labour market that cannot offer enough stable, productive employment. Many women continue to encounter obstacles to education, healthcare and participation in decisions that shape their own futures. Reproductive healthcare and family planning services remain unevenly available, especially in underserved communities, limiting informed choice rather than expanding it. Aspirations are constrained long before adulthood by poverty, unequal opportunity and weak public services.\n\nThese shortcomings represent failures of governance whose effects extend beyond individuals to families, communities and the country’s long-term development. The resulting costs lie in not just lost economic potential, but also in diminished public trust, widening inequality and the sense among many young Pakistanis that opportunity lies elsewhere.\n\nThere is also a danger in viewing population solely through the lens of numbers. Governments become preoccupied with fertility targets, growth rates and census projections, while losing sight of the lives behind the statistics. Young people do not aspire to improve demographic indicators; they aspire to complete their education, secure work, choose when to marry, decide freely whether and when to have children, and build a stable future. Their hopes should be seen as practical benchmarks against which public policy itself is measured.\n\nPopulation policy should be judged by the extent to which it enlarges those freedoms. If Pakistan succeeds in doing so, healthier demographic trends are likely to follow. If it does not succeed, no amount of concern over rising numbers will compensate for opportunities never created.\n\nPublished in Dawn, July 11th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Social Issues / Governance",
+    "topic": "Population Policy, Youth Development & Aspirations, Human Capital, Governance Challenges",
+    "whyMatters": "This article offers a critical paradigm shift in understanding population policy, emphasizing human development and informed choices over mere numerical control. It's crucial for understanding the multidimensional challenges Pakistan faces in realizing its demographic dividend and for formulating policy proposals in essays and analytical questions.",
+    "summary": [
+      "Traditional population discussions focus on numbers; the article advocates for a shift, viewing population policy as beginning with people and their aspirations rather than just statistics.",
+      "Effective population policy aims to expand informed choices for young people in education, employment, marriage, and parenthood, recognizing these are closely linked to healthcare, quality education, economic security, and gender equality.",
+      "Pakistan's preoccupation with census figures and fertility rates risks obscuring fundamental governance failures that directly constrain youth aspirations, leading to lost economic potential, inequality, and public distrust.",
+      "The true measure of population policy success lies in its ability to enlarge individual freedoms and opportunities, as healthier demographic trends are a natural consequence of such empowerment."
+    ],
+    "facts": [
+      "World Population Day traditionally prompts discussions on population growth and fertility rates.",
+      "The article mentions the current World Population Day theme as ‘Realising the hopes and aspirations of young people — today and for the future’.",
+      "Pakistan often focuses public debate on census figures, fertility rates, and warnings about a rapidly expanding population."
+    ],
+    "academicReferences": [
+      "UNFPA State of World Population Report (annual reports discussing population trends, youth, and development)",
+      "Pakistan Vision 2025 (national development framework outlining goals for human capital development, health, and education)",
+      "Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well-being), SDG 4 (Quality Education), SDG 5 (Gender Equality), and SDG 8 (Decent Work and Economic Growth)"
+    ],
+    "vocabulary": [
+      {
+        "word": "demographic outcomes",
+        "type": "noun phrase",
+        "definition": "Results or changes observed in population characteristics like birth rates, death rates, age structure, and migration patterns.",
+        "sentence": "When conditions like healthcare and education improve, demographic outcomes tend to improve as well."
+      },
+      {
+        "word": "obscuring",
+        "type": "verb",
+        "definition": "Making something unclear, difficult to see, or understand; hiding something from view.",
+        "sentence": "The focus on numbers risks obscuring the basic question of whether young people can realize their aspirations."
+      },
+      {
+        "word": "diminished prospects",
+        "type": "noun phrase",
+        "definition": "Reduced chances or opportunities for future success, growth, or positive development.",
+        "sentence": "Children who leave school prematurely face diminished prospects in the competitive labor market."
+      },
+      {
+        "word": "preoccupied",
+        "type": "adjective",
+        "definition": "Constantly thinking or worrying about something, to the exclusion of other things; engrossed.",
+        "sentence": "Governments often become preoccupied with fertility targets, losing sight of the lives behind the statistics."
+      },
+      {
+        "word": "enlarges",
+        "type": "verb",
+        "definition": "Makes something bigger or more extensive; increases its scope, size, or importance.",
+        "sentence": "Population policy should be judged by the extent to which it enlarges those freedoms and opportunities."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental shift required in population policy for countries like Pakistan?",
+        "options": [
+          "From managing population numbers to expanding people's choices and aspirations.",
+          "From individual choices to strict government fertility targets.",
+          "From focusing on youth to prioritizing the elderly population.",
+          "From local solutions to solely international aid programs."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly argues that population policy 'should begin not with numbers, but with people' and is 'ultimately about expanding people’s choices rather than merely managing population trends.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article redefine the primary goal of population policy?",
+        "back": "It shifts the goal from merely influencing birth numbers to ensuring young people have opportunities for informed choices across education, employment, marriage, and parenthood."
+      },
+      {
+        "front": "What key areas of development are intrinsically linked to improving demographic outcomes, according to the article?",
+        "back": "Access to healthcare, quality education, economic security, and gender equality."
+      },
+      {
+        "front": "What are the main 'failures of governance' highlighted by the article that hinder youth aspirations in Pakistan?",
+        "back": "Premature school leaving, an inadequate labor market, obstacles for women in education/healthcare/decision-making, and uneven access to reproductive healthcare."
+      },
+      {
+        "front": "What is the danger of viewing population policy solely 'through the lens of numbers'?",
+        "back": "Governments become preoccupied with fertility targets and growth rates, losing sight of individual lives and aspirations, leading to lost economic potential, diminished public trust, and widening inequality."
       }
     ]
   },
@@ -9294,768 +10017,6 @@
       {
         "front": "What urgent action does the article recommend to address Islamabad's urban planning crisis?",
         "back": "The government should end the delay, notify the commission tasked with updating the master plan, and begin preparing a modern blueprint informed by expert input and current realities."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782353345962-473",
-    "title": "A budget to forget\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010169/a-budget-to-forget",
-    "date": "2026-06-23",
-    "author": "none@none.com (Dr Niaz Murtaza)",
-    "content": "STATE budgets mustn’t mirror boring finance ledgers that merely balance revenues and outlays. They must embody strong strategy scripts that show vividly how the state will drive progress. But reading ours is painful as one goes through over 100 unrelated petty measures that don’t add up to a gripping vision for progress. Clearly, progress isn’t a goal to pursue for our elite hybrid rulers but a prospect to fear, as it harms their dubious wealth and power. So, the new status quo federal budget makes the rich richer, the poor poorer, and the IMF and big lobbies happier. It defers yet again the state reforms and societal restructuring we urgently need to thrive. Our rulers dread them and so fail on most key aims of good budgets.\nThe document meets the fiscal balance aim with a deficit target of 3.6 per cent of GDP (against 7-8pc till recently) but via heist and spin. It expropriates surpluses from meek provinces to force them to cut spending by nearly 20pc, mainly uplift funds. This effectively cuts their NFC share from 57.5pc to 46pc and the share in total federal funds to only 34pc if we add federal non-tax funds, which are raised mostly in provinces. This covert heist, despite the 4pc cut in debt outlays from last year because of large interest rate cuts, was due to a fall in State Bank profits too, a rise in defence outlays after the 2025 war with India, tax relief, and the aim to avoid new taxes.\nSome had hopes that growing Saudi defence ties would help with rising defence outlays. Rulers could also raise taxes on undertaxed sectors and cut waste, subsidies and state units’ losses, instead. As these steps hurt the elites, those in power cut uplift funds at all levels. Had these funds been used well there could have been less poverty and more progress. The total revenue aim is part spin as we usually miss it. So, we may have a mini-budget taxing mainly the masses or more cuts in uplift funds. There is no real increase in the revenue aim from last year over inflation, and so the tax-to-GDP ratio remains near 11pc, which is low even regionally. So, the budget fails on the fiscal expansion and devolution aims.\n    \nOn the fiscal equity aim, the ratio of direct and indirect (that harm the poor most) taxes is 49:51pc against 37:63pc just three years ago. But tax progressivity rose much less because new direct taxes fell on already overtaxed sectors and persons and not undertaxed retail and other sectors. The former now get tax relief but by cutting uplift outlays. Experts think the new retail tax scheme may fail like many past ones, given missing political will. Indirect taxes and the petroleum levy, which is an indirect tax too, still rose by Rs3 trillion in three years. So, their burden on the poor keeps rising.\nClearly, progress isn’t a goal to pursue for our rulers.\nTo drive economic progress, industrial and export sectors will receive — besides the ongoing interest rate cuts — tariff cuts on raw materials, tax relief and SME facilitation measures. But some of them yielded few gains earlier while even new measures may fail if the rollout remains weak. Industrial policy measures — such as special zones and directed credit, industrial upgrading funds and R&D support — that had helped the Asian Tigers the most are missing. Support for agriculture, despite its many problems, and IT, despite its huge potential, is weak. So, jobs and export revenue increases remain uncertain.\nOn the social progress goal, health and education spending ratios to GDP remain flat from last year and much lower than those of most Asian peers. The BISP budget rises in real terms but may not dent rising poverty that now affects over 40pc of the people under the new World Bank count. Raising poverty outlays a bit when structural drivers are rising due to state policies is like throwing a band-aid at a growing, self-inflicted wound. Climate change is a huge threat for the poor but a minor priority in the budget, with no new programmes.\nFinally, the document lists many measures for budget efficiency and transparency in tax collection. But many of them have had limited success previously, while new measures may fail due to weak rollout. Oddly, there is no attempt to improve the expenditure side across the four main heads: debt, defence, development and delivery.\nSo, the budget maintains the status quo while giving the illusion of reform and fails on almost all aims. It’s a budget to forget in terms of its banal details but not a budget to forgive for its overall lack of ambition, elite bias and assault on provincial autonomy.\nThe writer holds a PhD in political economy from the University of California, Berkeley, and has 25 years of grassroots to senior-level experience across 50 countries.\nmurtazaniaz@yahoo.com\nX: @NiazMurtaza2\nPublished in Dawn, June 23rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Economics / Pakistan Affairs / Current Affairs",
-    "topic": "Fiscal Policy Analysis, Economic Inequality, and Federal-Provincial Relations",
-    "whyMatters": "This article offers a critical, expert analysis of the federal budget, highlighting its failures in promoting progress, equity, and provincial autonomy. It provides specific arguments and data points crucial for aspirants to understand the socio-economic challenges and policy shortcomings in the country.",
-    "summary": [
-      "The budget is critiqued for lacking a strategic vision for progress, instead serving elite interests and maintaining the status quo, making the rich richer and the poor poorer.",
-      "Fiscal balance is achieved through 'heist and spin,' expropriating provincial surpluses and cutting uplift funds, thereby weakening devolution and provincial autonomy.",
-      "The budget fails on fiscal equity by increasing the burden of indirect taxes on the poor and not genuinely expanding the tax base, while tax relief goes to already overtaxed sectors.",
-      "It lacks robust measures for industrial, export, social (health, education), and climate progress, leading to uncertain job growth and persistent poverty, affecting over 40% of the population."
-    ],
-    "facts": [
-      "The budget targets a fiscal deficit of 3.6 per cent of GDP, achieved partly by effectively cutting provinces' NFC share from 57.5pc to 46pc.",
-      "The tax-to-GDP ratio remains near 11pc, which is low even regionally, with no real increase in revenue aim from last year over inflation.",
-      "The ratio of direct and indirect taxes is 49:51pc against 37:63pc just three years ago, with indirect taxes (including petroleum levy) rising by Rs3 trillion in three years.",
-      "Poverty now affects over 40pc of the people under the new World Bank count, despite a real-term rise in the BISP budget."
-    ],
-    "academicReferences": [
-      "IMF Stand-By Arrangement (SBA) / Extended Fund Facility (EFF) reports",
-      "National Finance Commission (NFC) Award and its constitutional provisions (Article 160)",
-      "Daron Acemoglu and James A. Robinson's 'Why Nations Fail: The Origins of Power, Prosperity, and Poverty'"
-    ],
-    "vocabulary": [
-      {
-        "word": "Expropriate",
-        "type": "verb",
-        "definition": "To take property from its owner for public use or benefit, or to take for one's own use without permission.",
-        "sentence": "The state's decision to expropriate provincial funds was heavily criticized for undermining devolution."
-      },
-      {
-        "word": "Outlays",
-        "type": "noun",
-        "definition": "An amount of money spent on something; expenditures.",
-        "sentence": "Despite large interest rate cuts, debt outlays remained a significant portion of the federal budget."
-      },
-      {
-        "word": "Progressivity",
-        "type": "noun",
-        "definition": "The quality of being progressive, especially in taxation, where the rate increases with the income or wealth of the taxpayer.",
-        "sentence": "The article questions the true progressivity of the tax system, noting that new direct taxes fell on already overtaxed sectors."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, which of the following is NOT a stated failure of the current budget?",
-        "options": [
-          "Weakening of provincial autonomy",
-          "Lack of strategic vision for progress",
-          "Significant increase in health and education spending",
-          "Failure to genuinely expand the tax base"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that health and education spending ratios to GDP remain flat from last year, not significantly increased. The other options are directly mentioned as failures."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article characterize the federal budget's approach to achieving fiscal balance?",
-        "back": "The article describes it as achieved through 'heist and spin,' specifically by expropriating surpluses from provinces and forcing cuts in their uplift funds."
-      },
-      {
-        "front": "What is the article's main criticism regarding the budget's impact on economic inequality?",
-        "back": "The budget makes the rich richer and the poor poorer by increasing the burden of indirect taxes and failing to genuinely tax undertaxed sectors."
-      },
-      {
-        "front": "What specific 'Asian Tiger' industrial policies are noted as missing from the current budget?",
-        "back": "Policies such as special zones, directed credit, industrial upgrading funds, and R&D support are highlighted as missing."
-      },
-      {
-        "front": "What is the author's overall assessment of the budget's ambition and long-term impact?",
-        "back": "The author concludes it's 'a budget to forget in terms of its banal details but not a budget to forgive for its overall lack of ambition, elite bias, and assault on provincial autonomy.'"
-      }
-    ]
-  },
-  {
-    "id": "curated-1782439508167-328",
-    "title": "New GB government\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010165/new-gb-government",
-    "date": "2026-06-23",
-    "author": "none@none.com (Editorial)",
-    "content": "WITH the newly elected lawmakers of the Gilgit-Baltistan Assembly taking oath on Monday, the PPP looks set to head the region’s government, securing the support of the PML-N and IPP members as well. During the recent elections the people of GB defied the usual trend of electing the same party that is in power in Islamabad, instead putting their confidence in the PPP. Now the latter will have to live up to the people’s considerable expectations where good governance and reform are concerned, as the region has, over the past few years, been rocked by major protests triggered by local dissatisfaction. Along with the fresh mandate, PPP chief Bilawal Bhutto-Zardari, while delivering his budget speech in the National Assembly last week, called for representation of GB and Azad Kashmir in Pakistan’s legislature. The latter proposal needs careful thought, in order to deliver on popular demands in both regions, while ensuring that Pakistan’s case is not compromised vis-à-vis the Kashmir dispute with India.\nWhere good governance is concerned, lack of it has sparked discontent in GB and AJK — both sensitive regions. In GB, the regional legislature needs to be empowered to tackle maximum possible issues, with Islamabad overseeing only limited subjects. Locals have protested against taxation and the withdrawal of subsidies, as well as extended power outages. The incoming administration will have to tackle these — and other — issues to the voters’ satisfaction. As for representation in Pakistan’s legislature, does the PPP have a plan on how to go about it? In the past, there had been talk of granting provisional provincial status to GB until the Kashmir issue is resolved. Perhaps this proposal can be revisited, or perhaps Pakistan’s lawmakers and GB representatives can put their heads together for fresh ideas. The solution could grant GB a voice in how it is run within Pakistan’s parliament, while at the same time not harming the country’s case with regard to Kashmir.\nPublished in Dawn, June 23rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 81,
-    "paper": "Pakistan Affairs / Governance / Current Affairs",
-    "topic": "Regional Autonomy, Governance Challenges, and the Kashmir Dispute in Gilgit-Baltistan",
-    "whyMatters": "This article is crucial for understanding contemporary governance challenges and proposed reforms in sensitive regions of Pakistan. It highlights the intricate interplay between domestic political dynamics, regional aspirations, and the complex Kashmir dispute, providing essential context for policy discussions.",
-    "summary": [
-      "The PPP has formed a government in Gilgit-Baltistan (GB), defying the trend of electing the party in power in Islamabad, and securing support from PML-N and IPP.",
-      "The new GB government faces significant public expectations for good governance and reforms to address local dissatisfaction over issues like taxation, subsidies, and power outages.",
-      "PPP chief Bilawal Bhutto-Zardari advocates for representation of both GB and Azad Kashmir (AJK) in Pakistan's legislature, a proposal requiring careful thought to balance popular demands with Pakistan's stance on the Kashmir dispute.",
-      "The article suggests revisiting the idea of granting provisional provincial status to GB or exploring new mechanisms to provide GB a voice in Pakistan's parliament without compromising the country's position on Kashmir."
-    ],
-    "facts": [
-      "The newly elected lawmakers of the Gilgit-Baltistan Assembly took oath on Monday, setting the stage for the PPP-led government.",
-      "The people of GB 'defied the usual trend of electing the same party that is in power in Islamabad,' instead putting their confidence in the PPP.",
-      "Local dissatisfaction in GB has been triggered by major protests against issues such as taxation, withdrawal of subsidies, and extended power outages."
-    ],
-    "academicReferences": [
-      "Gilgit-Baltistan Empowerment and Self-Governance Order 2009 (or subsequent orders like the GB Order 2018)",
-      "18th Amendment to the Constitution of Pakistan (for the principle of provincial autonomy and devolution)",
-      "UN Security Council Resolutions on Kashmir (context for the broader Kashmir dispute)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Defied",
-        "type": "verb",
-        "definition": "Openly resist or refuse to obey.",
-        "sentence": "The people of GB defied the usual political trend by electing an opposition party."
-      },
-      {
-        "word": "Mandate",
-        "type": "noun",
-        "definition": "The authority to carry out a policy or course of action, given by the electorate to a party or candidate.",
-        "sentence": "The incoming administration has a fresh mandate to address the region's long-standing issues."
-      },
-      {
-        "word": "Provisional",
-        "type": "adjective",
-        "definition": "Arranged or existing for the present, possibly to be changed later.",
-        "sentence": "Past discussions included granting provisional provincial status to GB until the Kashmir issue is resolved."
-      },
-      {
-        "word": "Compromised",
-        "type": "verb",
-        "definition": "To cause (something, such as one's reputation or an agreement) to be vulnerable or open to question.",
-        "sentence": "The proposal must ensure that Pakistan's case is not compromised vis-à-vis the Kashmir dispute with India."
-      },
-      {
-        "word": "Legislature",
-        "type": "noun",
-        "definition": "The legislative body of a country or state; a body of people with the power to make and change laws.",
-        "sentence": "Bilawal Bhutto-Zardari called for representation of GB and Azad Kashmir in Pakistan’s legislature."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What significant trend did the people of Gilgit-Baltistan defy in their recent elections?",
-        "options": [
-          "Electing a party different from the one in power in Islamabad.",
-          "Electing the same party as in power in Islamabad.",
-          "Electing an independent candidate as Chief Minister.",
-          "Electing a coalition of nationalist parties."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that 'the people of GB defied the usual trend of electing the same party that is in power in Islamabad, instead putting their confidence in the PPP.'"
-      },
-      {
-        "question": "What is one key proposal made by PPP chief Bilawal Bhutto-Zardari regarding GB and AJK?",
-        "options": [
-          "Granting them full provincial status immediately.",
-          "Reducing their current legislative powers.",
-          "Seeking their representation in Pakistan’s legislature.",
-          "Holding a referendum on their independence."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions Bilawal Bhutto-Zardari 'called for representation of GB and Azad Kashmir in Pakistan’s legislature.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary expectation for the new PPP government in Gilgit-Baltistan?",
-        "back": "To deliver good governance and reforms to address local dissatisfaction over issues like taxation, subsidies, and power outages."
-      },
-      {
-        "front": "What balance must be struck regarding representation for GB and AJK in Pakistan's legislature?",
-        "back": "To deliver on popular demands in both regions while ensuring Pakistan's case is not compromised vis-à-vis the Kashmir dispute."
-      },
-      {
-        "front": "What past proposal regarding Gilgit-Baltistan's status is suggested for revisiting?",
-        "back": "Granting provisional provincial status to GB until the Kashmir issue is resolved."
-      },
-      {
-        "front": "What are some specific issues causing local dissatisfaction in Gilgit-Baltistan, as mentioned in the article?",
-        "back": "Taxation, withdrawal of subsidies, and extended power outages."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782439647423-518",
-    "title": "Emergency left and right\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010171/emergency-left-and-right",
-    "date": "2026-06-23",
-    "author": "none@none.com (Jawed Naqvi)",
-    "content": "HER Emergency rule was two months old when Indira Gandhi was poring over a traditional speech she would deliver at the Mughal-era Red Fort. It was Aug 15, India’s Independence Day, an occasion to make everything seem normal while left-wing and right-wing opponents languished in her prisons. Just then she was handed the message of Mujibur Rahman’s assassination by Bangladesh military officers two hours ago. She remained calm at the turn of events and decided to strictly withhold the information in her nationwide broadcast.\nTo revisit the 21-month-long Emergency with the hindsight of 12 years of Narendra Modi’s rule, let’s loiter a little in the manner of today’s drones to reconnoitre the hotspots of the time. What we are likely to see is that the geopolitics of that decade was indeed notably fluid. The East-West chessboard was in flourish. In 1973, Salvador Allende was murdered in a CIA-sponsored military coup in Chile. The USSR got a leg up with the Arab oil embargo the same year targeting sympathisers of Israel and the US. In India, 1973 set off the start of a Maidan movement of sorts. In Gujarat, RSS-backed students went on a rampage known as the ‘Navnirman Andolan’. It would be joined soon by students in Bihar who included Lalu Yadav and Nitish Kumar. They formed a largely north India-based campaign under the stewardship of Jaiprakash Narayan, seen by many as a Gandhian pretender. He called on the military and police to disobey all “illegal orders” by Mrs Gandhi. This didn’t surprise her as it was happening two short years after she riled Henry Kissinger and Richard Nixon over her 1971 stand-off with Pakistan.\n    \nFirmly in the Soviet camp now, and increasingly reviled in Western media, Mrs Gandhi was experiencing the unfolding of an all-too-familiar script. Matters came to a head when on June 12, 1975, a high court judge ordered her removal from power over a hitherto unheard of charge against a sitting prime minister — that she had used the services of the public works department of her government to erect a podium for an election rally four years ago. The bizarre court order arrived in the same year when Mujib would be murdered with his family. Also, on April 30, 1975, Vietnam inflicted one of America’s worst humiliations abroad as Americans flocked to the roof of the US embassy in Saigon in a melee to catch the last helicopter flying out from there. America’s humiliation in Saigon was not going to be taken lying down.\nThe chessboard was fraught. Even as Mrs Gandhi ended the Emergency and lost the April 1977 election she hoped to win, Gen Ziaul Haq was going to stage a coup across the border on July 5, 1977 against an Indira Gandhi-like populist leader to take charge of Pakistan. Indian rulers that succeeded Mrs Gandhi, including some RSS-groomed ministers, steadfastly refused to ask Zia to spare Z.A. Bhutto’s life. For that favour and more, Zia anointed Indian prime minister Morarji Desai with Pakistan’s highest civilian award.\nIt’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency and Narendra Modi’s 12 years in power.\nIt’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency, which marks its 51st anniversary on Thursday, and Narendra Modi’s 12 years in power he celebrated on June 9. A growing view sees the Modi era of “an undeclared emergency” as manifestly more stifling than the short-lived curbs on civil liberties Mrs Gandhi had imposed. Many leaders from the left to the right were jailed, while at least one right-wing party, the Shiv Sena, and one leftist group, the pro-Soviet Communist Party of India, supported the prime minister’s reasons for the measure she broadcast to the nation a day after suspending civil liberties and arresting many of her opponents. Modi, on the other hand, sees no need to explain anything to anyone.\nWithout getting into a ‘two legs bad, four legs good’ comparison of George Orwell’s animals, suffice it to say that Mrs Gandhi stood against the very forces that are in power today, including powerful businesses shoring up the Hindu revivalist government. Her ideological point of departure was born way before any judge sought to unseat her, however, and at least two years before her 1971 stand-off with Pakistan.\n    \nThe split in the Indian National Congress in 1969 was witness to the left-right divide that continues to stalk India today. Her 10-point programme was in fact unveiled at a Congress summit in May 1967. That programme bears recall since the older, right-wing Congress leaders fiercely opposed her radical moves. The 10 points that catalysed the split were: social control of banks — bringing banking institutions under strict government regulation; nationalisation of general insurance thereby transferring the control of a key social asset to the state; nationalisation of export and import trade, implying state regulation and takeover of foreign trade; curbs on monopolies thereby limiting the concentration of economic power and business monopolies; limits on urban income and property, which set a ceiling on urban wealth to reduce economic disparities; public distribution of food grains to ensure the availability of basic food to the needy at reasonable prices; better implementation of land reforms to usher radical changes to agricultural land distribution; provision of house-sites to the rural poor, thus guaranteeing land for housing to marginalised rural communities; abolition of privy purses to end the special financial privileges and titles of former princely rulers; and removal of unearned increments in urban land values to prevent profiteering from urban real estate speculation.\nThese socialist policies earned her the support of an influential section of communists led by S.A. Dange, Mohan Kumara Mangalam and Mohit Sen. But another section of the left, at key moments of history, preferred to support Hindu nationalists as conduits against the Congress. Mrs Gandhi jailed the erring comrades for 21 months. Modi has uprooted them altogether, leaving them to tilt at the windmills, to see allies against fascism as foes.\nThe writer is Dawn’s correspondent in Delhi.\njawednaqvi@gmail.com\nPublished in Dawn, June 23rd, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 80,
-    "paper": "Current Affairs / South Asian Studies",
-    "topic": "Indian Emergency (1975-77), Geopolitics of 1970s, and Comparisons with Contemporary Indian Politics",
-    "whyMatters": "This article does not directly address Pakistan's historic role in the Economic Cooperation Organization (ECO), regional integration frameworks, or ECO's future prospects for Pakistan. Its focus is entirely on Indian political history, particularly Indira Gandhi's Emergency and its comparison with Narendra Modi's rule, with only tangential references to Pakistan concerning the 1971 stand-off and General Ziaul Haq's coup.",
-    "summary": [
-      "Indira Gandhi's 21-month Emergency (1975-1977) was implemented amidst significant geopolitical fluidity and mounting domestic political opposition, including the Mujibur Rahman assassination in Bangladesh.",
-      "The 1970s were marked by global events like the CIA-sponsored coup in Chile, the Arab oil embargo, and America's defeat in Vietnam, alongside domestic Indian challenges such as the Navnirman Andolan and Jaiprakash Narayan's movement.",
-      "The Emergency was triggered by a High Court order on June 12, 1975, finding Indira Gandhi guilty of minor election irregularities, leading her to suspend civil liberties and jail opponents.",
-      "The article draws parallels between Indira Gandhi's Emergency and Narendra Modi's 12 years in power, with some viewing the Modi era as a more stifling \"undeclared emergency.\"",
-      "Indira Gandhi's ideological stance, rooted in her socialist 10-point programme unveiled in 1967 and catalyzing the 1969 Congress split, positioned her against powerful business interests and the Hindu revivalist forces now in power."
-    ],
-    "facts": [
-      "Indira Gandhi's Emergency lasted 21 months, from June 1975 to March 1977.",
-      "Mujibur Rahman was assassinated on August 15, 1975, the same day Indira Gandhi delivered her Independence Day speech.",
-      "The High Court judge ordered Indira Gandhi's removal from power on June 12, 1975, for using public works department services for an election rally podium.",
-      "The fall of Saigon, marking America's defeat in Vietnam, occurred on April 30, 1975.",
-      "General Ziaul Haq staged a coup in Pakistan on July 5, 1977, shortly after Indira Gandhi ended the Emergency and lost elections.",
-      "Indira Gandhi's 10-point programme, which led to the 1969 Congress split, was unveiled in May 1967."
-    ],
-    "academicReferences": [
-      "Cold War Geopolitics: The \"East-West chessboard\" of the 1970s (e.g., US-Soviet rivalry, non-alignment's challenges).",
-      "Authoritarianism and Emergency Powers: Comparative study of state control and civil liberties suspension (e.g., critiques of Indira Gandhi's Emergency, theories of democratic backsliding).",
-      "Indian Political History and Socialism: The ideological foundations and impact of Indira Gandhi's socialist policies (e.g., nationalisation, land reforms, abolition of privy purses).",
-      "Populism in South Asia: Analysis of leadership styles and mass movements in India and Pakistan (e.g., Indira Gandhi, Z.A. Bhutto, Narendra Modi)."
-    ],
-    "vocabulary": [
-      {
-        "word": "languished",
-        "type": "verb",
-        "definition": "To suffer a prolonged period of difficulty, hardship, or neglect.",
-        "sentence": "Left-wing and right-wing opponents languished in her prisons during the Emergency."
-      },
-      {
-        "word": "reconnoitre",
-        "type": "verb",
-        "definition": "To make a military observation of a region to locate an enemy or ascertain strategic features (used metaphorically here to mean 'survey').",
-        "sentence": "Let's loiter a little in the manner of today’s drones to reconnoitre the hotspots of the time."
-      },
-      {
-        "word": "fraught",
-        "type": "adjective",
-        "definition": "Causing or affected by great anxiety or stress; full of (something undesirable).",
-        "sentence": "The chessboard was fraught, reflecting the tense global political environment."
-      },
-      {
-        "word": "steadfastly",
-        "type": "adverb",
-        "definition": "In a loyal, faithful, or unwavering manner.",
-        "sentence": "Indian rulers that succeeded Mrs Gandhi steadfastly refused to ask Zia to spare Z.A. Bhutto’s life."
-      },
-      {
-        "word": "catalysed",
-        "type": "verb",
-        "definition": "Caused or accelerated a process or reaction.",
-        "sentence": "The 10 points that catalysed the split were: social control of banks, nationalisation of general insurance, and others."
-      },
-      {
-        "word": "unearned increments",
-        "type": "noun phrase",
-        "definition": "Increase in the value of property or assets due to external factors rather than effort or investment by the owner.",
-        "sentence": "Abolition of privy purses and removal of unearned increments in urban land values were part of her radical agenda."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary reason cited by the High Court judge for ordering Indira Gandhi's removal from power in June 1975?",
-        "options": [
-          "She had used government public works department services to erect a podium for an election rally.",
-          "She was found guilty of massive electoral fraud and ballot stuffing.",
-          "She had ordered the assassination of political opponents.",
-          "She violated constitutional provisions regarding emergency powers."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that she was ordered removed over the charge that she had used the services of the public works department of her government to erect a podium for an election rally four years ago."
-      },
-      {
-        "question": "Which two Indian political leaders, later prominent, were mentioned as students involved in the Bihar campaign under Jaiprakash Narayan during the 1970s?",
-        "options": [
-          "Lalu Yadav and Nitish Kumar",
-          "Atal Bihari Vajpayee and L.K. Advani",
-          "Sonia Gandhi and Rahul Gandhi",
-          "Arvind Kejriwal and Mamata Banerjee"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly mentions: 'It would be joined soon by students in Bihar who included Lalu Yadav and Nitish Kumar.'"
-      },
-      {
-        "question": "Indira Gandhi's 10-point programme, which catalyzed the split in the Indian National Congress in 1969, primarily focused on what type of policies?",
-        "options": [
-          "Neoliberal economic reforms and privatization",
-          "Socialist policies aimed at state control and reducing economic disparities",
-          "Promotion of Hindu nationalist ideology and cultural revival",
-          "Alliance building with Western capitalist blocs"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article details points like 'social control of banks,' 'nationalisation of general insurance,' 'curbs on monopolies,' and 'limits on urban income and property,' all characteristic of socialist policies."
-      },
-      {
-        "question": "Which major global event, marking a significant US humiliation abroad, occurred in April 1975, the same year as the High Court order against Indira Gandhi?",
-        "options": [
-          "The assassination of Mujibur Rahman in Bangladesh",
-          "The CIA-sponsored military coup in Chile",
-          "The fall of Saigon and American withdrawal from Vietnam",
-          "The Arab oil embargo targeting Israel and the US"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Also, on April 30, 1975, Vietnam inflicted one of America’s worst humiliations abroad as Americans flocked to the roof of the US embassy in Saigon...'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the duration of Indira Gandhi's Emergency rule in India?",
-        "back": "21 months, from June 1975 to March 1977."
-      },
-      {
-        "front": "How did Indira Gandhi react to the news of Mujibur Rahman's assassination on India's Independence Day in 1975?",
-        "back": "She remained calm and decided to strictly withhold the information during her nationwide broadcast."
-      },
-      {
-        "front": "According to the article, what key ideological point separated Indira Gandhi from the forces currently in power in India?",
-        "back": "Her socialist policies, particularly the 10-point programme, aimed at state control of key economic sectors and reducing disparities, standing against powerful businesses shoring up the Hindu revivalist government."
-      },
-      {
-        "front": "What event immediately followed Indira Gandhi ending the Emergency and losing the April 1977 election, across the border in Pakistan?",
-        "back": "Gen Ziaul Haq staged a coup on July 5, 1977, against an 'Indira Gandhi-like populist leader' (Z.A. Bhutto) in Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782525932041-268",
-    "title": "Careless people\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010172/careless-people",
-    "date": "2026-06-23",
-    "author": "none@none.com (Arifa Noor)",
-    "content": "THE new telecom bill has caused a storm in a teacup. These days it seems it’s being discussed more than the budget, though far less than Iran, the US and the blessed talks. But a local scandal will always trump foreign policy for hacks in the country. Many of us are just thrilled that like many other stories this has also not been declared a red line — in other words an issue better left unaddressed. TV these days has more no-go areas than the Karachi of yesteryears.\nSo for those who may have not paid attention, the government has put together a bill, which if passed, would have allowed telecom companies to lay fibre cable and put up towers wherever they wanted. Citizens, property owners and housing societies would have had little option of saying no. It is a power similar to the ones usually enjoyed by governments to acquire land.\nThe draft gave the companies the right to access public and private properties to install towers and lay fibre cables. The owner cannot refuse to provide access; and owners can even be fined for obstruction or delay.\nAccording to the bill, “the licensee shall seek the approval of the owner, lessee, or tenant of the relevant property, land, or premises for the proposed mode of execution through registered mail and courier service”.\nOnce the telecom bill caught the media’s attention, everyone started evading responsibility.\nThe licensee can send a reminder in 15 days if there’s no reply, and a month after the first letter, the request will be assumed to have been approved. In the case of public land and housing societies and in the case of individuals, it will be referred to the ‘appropriate’ government, rather than a court. Though why anyone needs to be worried about the courts these days is intriguing.\nEqually serious are the fines involved. The government has the power to fine anyone for obstructing or delaying telecom access. But, there is no definition of what comprises obstruction or delay.\nThe bill has also given the power to appoint the chairman of the authority to the prime minister, while originally this rested with the ministry.\nThe government has explained this bill by arguing that it wants to encourage the expansion of internet infrastructure throughout the country. There is not enough internet coverage in the country, according to IT Minister Shaza Fatima herself, who said on television that only two per cent of households enjoy internet which is not phone dependent. And this needs to be addressed, she explained.\nIt is worth asking here if internet penetration is even a concern for a country where internet and cellular services are periodically switched off to deal with political and other situations, and where social media platforms have been slowed down or blocked to deal with dissenting opinions. But let’s leave these silly issues aside, for who wants the young people in parts of Balochistan or Azad Kashmir to have such services till they learn to behave themselves? Instead, let’s focus on the draft law and the well-behaved government officials and parliamentarians for the time being.\nBut now that I have diverged, it can also be pointed out that those so concerned about the quality of coverage don’t seem to ask any questions about the progress on the provision of 5G services. Or does one need more towers before that can be provided?\nAnyway, one day before the budget, the bill was passed by the National Assembly and sent to the Senate where objections were raised. Some media reports claim the objections were raised by some PTI senators but the heavy lifting is said to have been done by PPP’s Palwasha Khan in the Senate committee. And once the story caught the attention of the media, it seems as if everyone is trying to evade responsibility.\nAccording to Dawn, Amin ul Haque, who was head of the National Assembly committee that approved this bill, acknowledged that the inclusion of towers in provisions for laying fibre cables had been “overlooked by the members during the final sitting”. If such phenomenal mistakes can be attributed to an oversight, one can only wonder what these parliamentarians are being paid for.\nEveryone else is following the same rulebook. The IT minister who has been roundly criticised for this draft, and rightly so, appeared on Geo News in what appeared to be a bid to clarify the matter and ended up confusing it further, for she essentially accepted the clauses were problematic and needed more work. She kept pointing out the virtues of democracy and how laws would be made with consensus while conceding there were problems with the draft. But where was this democracy when the bill was passed in the National Assembly? Even Palwasha Khan who gave an interview to Neo TV was not forthcoming when asked how her party had let the law be passed in the National Assembly. She called it ‘kotaahi’ (negligence) and said the party was now fixing the problem in the Senate.\n    \nThe blame, however, can be apportioned further. After all, this bill was introduced by the government so the cabinet must have given its approval. As did the law ministry. What was their role in this? Similarly, the PTI must also share some of the blame for having abandoned the committees, allowing the PPP and PML-N to dominate this process. Though at this stage it is hard to believe any of the parliamentarians have the people’s interest at heart.\nIn the absence of this information, the worst is being assumed that some of the members in parliament or officials were paid off to let the bill pass. Rumours to this effect are doing the rounds on social media and television. To many, the fact that some telco officials are defending this draft lends credence to these rumours.\nThe government has now formed a committee of the very people who caused this mess to resolve the matter behind closed doors. This may resolve the immediate issue and produce a better draft but will it ever reveal who was responsible for the scandal, and whether more than just negligence was at play?\nThe writer is a journalist.\nPublished in Dawn, June 23rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Pakistan Affairs / Governance & Public Policy",
-    "topic": "Telecommunication Policy, Legislative Process, and Public Interest",
-    "whyMatters": "This article is crucial for understanding the complexities of legislative drafting, the balance between national development goals and fundamental rights, and the accountability of political institutions. It provides a real-world example of governance failures and the challenges of ensuring transparency and public interest in policy-making.",
-    "summary": [
-      "A controversial new telecom bill, passed by the National Assembly, would grant telecom companies extensive rights to install infrastructure on public and private properties, overriding property owners' consent.",
-      "The bill allows companies to lay cables and erect towers with minimal approval processes, threatening fines for 'obstruction' without clear definitions, and transferring the authority's chairman appointment to the Prime Minister.",
-      "The government justified the bill as essential for internet infrastructure expansion, but critics highlight the contradiction with frequent internet shutdowns and censorship practices in the country.",
-      "The legislative process was marred by alleged 'oversight' and 'negligence' by parliamentarians, with political parties and ministries evading responsibility, raising suspicions of corruption and lack of public interest."
-    ],
-    "facts": [
-      "Only two per cent of households in the country enjoy internet that is not phone dependent.",
-      "The draft telecom bill allowed requests for access to be 'assumed approved' if no reply was received within one month, after an initial letter and a 15-day reminder.",
-      "The power to appoint the chairman of the telecom authority was shifted from the ministry to the Prime Minister by the bill.",
-      "The bill was passed by the National Assembly but faced significant objections in the Senate, particularly from PPP's Palwasha Khan."
-    ],
-    "academicReferences": [
-      "The Constitution of Pakistan (Article 8, 23, 24: Fundamental Rights, particularly property rights)",
-      "Telecommunication (Re-organization) Act, 1996 (Foundational law governing telecom sector)",
-      "Pakistan Electronic Crimes Act (PECA), 2016 (Relevant to internet control and censorship discussions)"
-    ],
-    "vocabulary": [
-      {
-        "word": "storm in a teacup",
-        "type": "idiom",
-        "definition": "A lot of fuss about something that is not important.",
-        "sentence": "The media coverage made a storm in a teacup out of a minor political disagreement."
-      },
-      {
-        "word": "red line",
-        "type": "noun",
-        "definition": "A limit or boundary that should not be crossed; an issue better left unaddressed due to sensitivity.",
-        "sentence": "Discussing military spending is often considered a red line in public debates."
-      },
-      {
-        "word": "evading responsibility",
-        "type": "verb phrase",
-        "definition": "Avoiding or escaping blame or duty.",
-        "sentence": "After the project failed, everyone started evading responsibility for the mistakes."
-      },
-      {
-        "word": "roundly criticised",
-        "type": "adverb + verb",
-        "definition": "Severely and thoroughly criticized by many people.",
-        "sentence": "The minister was roundly criticised for her poorly thought-out policy."
-      },
-      {
-        "word": "kotaahi",
-        "type": "noun (Urdu)",
-        "definition": "Negligence, oversight, lapse.",
-        "sentence": "The senator admitted that the passage of the bill was due to 'kotaahi' from her party."
-      },
-      {
-        "word": "apportioned",
-        "type": "verb",
-        "definition": "To divide and distribute, especially blame or responsibility, proportionally.",
-        "sentence": "The blame for the financial crisis was apportioned among several departments."
-      },
-      {
-        "word": "lends credence",
-        "type": "verb phrase",
-        "definition": "Makes something seem more believable or credible.",
-        "sentence": "The sudden resignation of the CEO lends credence to the rumors of mismanagement."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which body initially passed the controversial telecom bill?",
-        "options": [
-          "A. The Senate",
-          "B. The National Assembly",
-          "C. The Ministry of IT",
-          "D. The Prime Minister's Cabinet"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'the bill was passed by the National Assembly and sent to the Senate where objections were raised.'"
-      },
-      {
-        "question": "According to the IT Minister, what percentage of households in the country enjoy non-phone-dependent internet?",
-        "options": [
-          "A. Five per cent",
-          "B. Ten per cent",
-          "C. Two per cent",
-          "D. Fifteen per cent"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article quotes the IT Minister stating, 'only two per cent of households enjoy internet which is not phone dependent.'"
-      },
-      {
-        "question": "What power did the bill transfer from the ministry to the Prime Minister?",
-        "options": [
-          "A. Approving telecom licenses",
-          "B. Setting internet tariffs",
-          "C. Appointing the chairman of the telecom authority",
-          "D. Fining telecom companies"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'The bill has also given the power to appoint the chairman of the authority to the prime minister, while originally this rested with the ministry.'"
-      },
-      {
-        "question": "What term did PPP's Palwasha Khan use to describe her party's failure to prevent the bill's passage in the National Assembly?",
-        "options": [
-          "A. Negligence",
-          "B. Oversight",
-          "C. Kotaahi",
-          "D. All of the above"
-        ],
-        "answerIndex": 2,
-        "explanation": "Palwasha Khan 'called it ‘kotaahi’ (negligence) and said the party was now fixing the problem in the Senate.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What were the primary powers the new telecom bill sought to grant to telecom companies regarding infrastructure installation?",
-        "back": "The bill would have allowed telecom companies to lay fibre cable and put up towers wherever they wanted, accessing public and private properties with little option for owners to refuse, and even fining them for obstruction or delay."
-      },
-      {
-        "front": "How did the bill propose to handle a property owner's non-response to a request for access by a telecom licensee?",
-        "back": "If there was no reply to the initial request and a subsequent reminder within 15 days, the request would be assumed to have been approved a month after the first letter."
-      },
-      {
-        "front": "What apparent contradiction did the author highlight regarding the government's stated aim of expanding internet infrastructure?",
-        "back": "The author questioned the sincerity of expanding internet penetration when internet and cellular services are periodically switched off, and social media platforms are slowed or blocked to control political situations and dissenting opinions."
-      },
-      {
-        "front": "Who was specifically credited with doing 'heavy lifting' in raising objections to the bill in the Senate committee?",
-        "back": "PPP’s Palwasha Khan was credited with doing the 'heavy lifting' in raising objections in the Senate committee."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782353586191-989",
-    "title": "A costly cut\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2009893/a-costly-cut",
-    "date": "2026-06-22",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN is confronting a growing climate threat at precisely the moment it has reduced spending on the institutions tasked with managing it. The decision to cut the climate ministry’s PSDP allocation from Rs3.5bn to Rs2.48bn is difficult to justify given the challenges ahead.\nClimate risks are increasing and public investment should reflect that reality. Suparco has identified 130 potentially dangerous glacial lakes in Pakistan’s northern regions, with downstream communities exposed to the risk of glacial lake outburst floods. While only 24 of these lakes are currently unfrozen and under observation, the findings show that our glaciers are under increasing stress.\nRising temperatures are accelerating glacial melt in a country that contains one of the largest concentrations of ice outside the polar regions. The concern extends beyond the immediate flood danger. As glaciers retreat, the long-term reliability of river flows that sustain agriculture, hydropower generation and drinking water supplies comes into question.\n    \nThen there is the climate outlook. Suparco has warned that El Niño conditions may bring weaker monsoon rainfall, more frequent heatwaves, drought conditions and warmer winters. Such shifts threaten crop yields, livestock production and water availability. Extreme heat already imposes economic costs through lost labour productivity, increased energy demand and mounting public health burdens. Droughts can damage food security and raise inflationary pressures, while erratic rainfall continues to expose vulnerable communities to both flooding and water shortages.\n    \nClimate change is increasingly a fiscal challenge. Governments are forced to divert scarce resources towards emergency relief, reconstruction and compensation instead of development priorities. Repeated climate shocks discourage investment, disrupt supply chains and place additional strain on an economy already grappling with tight public finances. Our experience in recent years demonstrates how quickly climate shocks can overwhelm public resources.\nThe devastating floods of 2022 caused losses estimated at over $30bn and left a recovery bill that continues to burden public finances. The lesson is that preparedness costs less than reconstruction. Investments in climate monitoring, early warning systems, resilient infrastructure and disaster management are not discretionary expenditures. They are economic safeguards.\nThe budget debate also raises questions about priorities. Senator Sherry Rehman was right to question why climate spending is being cut while hundreds of billions of rupees continue to flow towards loss-making SOEs. At a time when climate-related hazards are multiplying, reducing support for adaptation and resilience amounts to a costly policy error. Pakistan cannot control global emissions trends, but it can strengthen its capacity to cope with their consequences. That requires sustained funding, stronger institutions and long-term planning.\nThe country’s climate vulnerabilities are becoming more visible with each passing year. Ignoring them today will prove more expensive tomorrow.\nPublished in Dawn, June 22nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change Impact on Water Resources and National Security",
-    "whyMatters": "This article directly addresses the severe implications of climate change on Pakistan's water resources, detailing threats like glacial melt and erratic monsoons. It provides crucial data and arguments to explain *why* water scarcity will intensify, forming a strong basis for discussing its potential to strain inter-provincial harmony.",
-    "summary": [
-      "Pakistan is reducing its climate ministry's budget despite growing climate threats, indicating a costly policy error.",
-      "Accelerated glacial melt in northern regions threatens the long-term reliability of vital river flows for agriculture, hydropower, and drinking water supplies.",
-      "Forecasted El Niño conditions promise weaker monsoons, increased heatwaves, and droughts, exacerbating water scarcity and impacting agricultural yields.",
-      "Climate change imposes substantial fiscal burdens through disaster relief and reconstruction, making proactive investment in preparedness an economic safeguard."
-    ],
-    "facts": [
-      "Climate ministry’s PSDP allocation cut from Rs3.5bn to Rs2.48bn.",
-      "Suparco identified 130 potentially dangerous glacial lakes in Pakistan's northern regions, with 24 currently unfrozen and under observation.",
-      "The devastating floods of 2022 caused losses estimated at over $30bn and continue to burden public finances."
-    ],
-    "academicReferences": [
-      "SUPARCO (Pakistan Space & Upper Atmosphere Research Commission) Reports on Glacial Lake Outburst Floods (GLOFs) and climate monitoring.",
-      "Pakistan's National Climate Change Policy (2012, with subsequent updates) for strategic frameworks.",
-      "Indus Waters Treaty (1960) and its contemporary challenges amidst changing hydrological patterns due to climate change."
-    ],
-    "vocabulary": [
-      {
-        "word": "confronting",
-        "type": "verb",
-        "definition": "facing and dealing with (a problem or difficulty)",
-        "sentence": "Pakistan is confronting a growing climate threat at precisely the moment it has reduced spending."
-      },
-      {
-        "word": "discretionary",
-        "type": "adjective",
-        "definition": "available for use at the discretion of the user; optional",
-        "sentence": "Investments in climate monitoring, early warning systems, and resilient infrastructure are not discretionary expenditures."
-      },
-      {
-        "word": "vulnerabilities",
-        "type": "noun",
-        "definition": "the state of being exposed to the possibility of being attacked or harmed, either physically or emotionally",
-        "sentence": "The country’s climate vulnerabilities are becoming more visible with each passing year."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary long-term concern regarding glacial retreat in Pakistan?",
-        "options": [
-          "Increased tourism opportunities in northern areas",
-          "Long-term reliability of river flows for key sectors",
-          "Expansion of forest cover in mountainous regions",
-          "Reduced energy demand due to cooler temperatures"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'As glaciers retreat, the long-term reliability of river flows that sustain agriculture, hydropower generation and drinking water supplies comes into question.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the main critique leveled against Pakistan's government regarding its climate spending decisions?",
-        "back": "The government is criticized for cutting the climate ministry’s PSDP allocation from Rs3.5bn to Rs2.48bn despite increasing climate threats, which is considered a costly policy error."
-      },
-      {
-        "front": "How does glacial retreat specifically threaten Pakistan's core sectors like agriculture and energy?",
-        "back": "Glacial retreat jeopardizes the long-term reliability of river flows that are crucial for sustaining agriculture, generating hydropower, and providing drinking water supplies."
-      },
-      {
-        "front": "What fiscal challenge does climate change increasingly pose to governments, according to the article?",
-        "back": "Climate change forces governments to divert scarce resources towards emergency relief, reconstruction, and compensation instead of development priorities, thereby burdening public finances."
-      },
-      {
-        "front": "What key argument did Senator Sherry Rehman make regarding Pakistan's budgetary priorities concerning climate change?",
-        "back": "She questioned why climate spending is being cut while hundreds of billions of rupees continue to flow towards loss-making State-Owned Enterprises (SOEs), emphasizing that preparedness costs less than reconstruction."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782440266907-486",
-    "title": "Peace by piece\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2009897/peace-by-piece",
-    "date": "2026-06-22",
-    "author": "none@none.com (Maleeha Lodhi)",
-    "content": "WITH the signing of a memorandum of understanding between the US and Iran, an interim deal has been agreed. In what will be a two-step peace process the first phase freezes the war by extending the ceasefire for another 60 days. It commits Iran to open the Strait of Hormuz and the US to end its blockade. That process is already underway. But the hard part lies ahead as the second phase has to address the nuclear file and other thorny issues. If reaching a preliminary agreement proved so difficult, negotiating a comprehensive settlement will be tougher, especially with Israel’s malign presence looming in the background.\nAfter four months of war, both sides wanted an exit ramp from the fighting. President Donald Trump seemed to want it more. Domestic political and economic pressure mounted on him, especially the fear that higher oil prices and inflation would hit American consumers and damage the US economy. This, as mid-term Congressional elections loomed with an unpopular war and the Republican party increasingly divided.\n    \nMoreover, continuing the conflict did not seem to bring Trump closer to any of his ever-changing objectives. If regime change was a core objective, the war failed to achieve that. More bombs would not have secured that outcome or his other stated aims. Around 40 times in 90 days Trump claimed “a deal is imminent”. This reflected his desperation for one as well as the constant effort to calm markets and drive down oil prices. The economic consequences of the Strait of Hormuz’s prolonged closure had begun to weigh heavily on Washington.\nIran was prepared to play the long game, especially as its control of the Strait of Hormuz gave it crucial strategic leverage. Its retaliatory attacks on US bases and energy infrastructure in Gulf countries raised the costs of war for America, its regional allies and the global economy. Tehran used the economic weapon to full effect. But there were limits to this strategy because of the substantial losses Iran also faced. Its ailing economy came under severe stress by reduced access to oil markets, restrictions on shipping and higher inflation. Another round of war heightened the economic risks. Having attained the upper hand in the conflict, a deal made sooner rather than later made more sense when Tehran’s negotiating position was relatively strong. Iran had already emerged as a symbol of defiance.\nThe US was unable to achieve its objectives both on the battlefield and negotiating table.\nThe deal ending the four-month war shows the failure of military force. The war imposed by the US and Israel did not compel Iran to surrender and accept terms dictated by them. A militarily weaker country under sanctions was able to hold out because of what the US has historically underestimated — the power of nationalism. While the US waged a war of choice with unclear objectives, for Iran it was an existential challenge. The will to survive powered by nationalist sentiment proved decisive in Tehran’s ability to resist aggression.\n    \nThe broader question raised by this is about the limits of military power. The might-is-right paradigm is being challenged in an era where big powers can’t get their own way because modern warfare has levelled the ground between them and smaller countries. Military superiority does not guarantee dominance or victory, as exemplified by America’s operation Epic Fury, Russia’s unwon war against Ukraine and India’s aggression against Pakistan last year.\nWhether the tentative US-Iran truce is followed by lasting peace depends on how issues deferred to the next stage of negotiations are tackled. This involves a 60-day, extendable period to reach agreement on Iran’s nuclear programme and sanctions relief for Tehran. But before that, Lebanon remains an obstacle if Israel, opposed to the US-Iran deal, continues its military rampage there. While the MoU says Lebanon is part of the “immediate and permanent termination of military operations on all fronts”, Israel seems intent on playing a spoiler.\nThe nuclear negotiations will of course be the key to a permanent settlement. Iran has already reaffirmed it will not “procure or develop nuclear weapons” in the 14-point MoU. The document also refers to agreement to resolve the stockpiled enriched uranium issue in the talks ahead. It holds out the option to resolve it by down-blending (diluting) the material on site under the IAEA’s supervision. This is what Iran offered all along despite Trump’s frequent declarations that the “nuclear dust” will be removed from Iran. Negotiations will also have to find common ground on the duration of a moratorium on enrichment of nuclear fuel. Sanctions relief will be tied to accord on these issues.\nThe MoU is a testament to US inability to accomplish its objectives both on the battlefield and the negotiating table. It sets out multiple concessions that Iran secured with Washington abandoning many of its red lines. This is reflected in Trump’s defensive remarks during his press conference at the G7 meeting. Iran can keep some ballistic missiles, which he had vowed to destroy, because other regional countries have them. He also said Iran could have its own nuclear programme because “other adjoining states have it”. Iran will receive waivers for oil exports immediately after signing of the MoU and before nuclear talks begin. As for the release of billions of dollars of Iran’s frozen funds, Trump said “We have taken a lot of their money, it’s not our money” and has to be returned. But he made it clear that the funds will be released in return for “good behaviour” by Iran and implementation of the MoU. The document also sets out a pathway for substantial financing for Iran’s reconstruction. Significantly, Iran’s support for its regional allies doesn’t figure in the MoU.\nThe deal got swift international applause. But its future remains uncertain. First comes the test of implementation. Will both sides honour the MoU? Then come the technical talks to hammer out a lasting settlement. As the gap between the two sides remains wide, negotiations may be long-drawn-out. For now, the deal has widened the rift between the US and Israel with America’s leaders rebuking the Israelis for their criticism of the agreement and Trump even taking a public swipe at Benjamin Netanyahu. Israel is already defying the latest ceasefire in Lebanon. But it is unlikely that its efforts to sabotage the interim deal will succeed.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, June 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "International Relations / Current Affairs / US Foreign Policy",
-    "topic": "US-Iran Relations, Geopolitics of the Middle East, Limits of Military Power, Diplomacy and Conflict Resolution",
-    "whyMatters": "This article offers a contemporary case study of conflict resolution and the complexities of international diplomacy, essential for understanding global power shifts. It critically analyzes the limitations of military force and the impact of domestic pressures on foreign policy decisions.",
-    "summary": [
-      "An interim US-Iran deal (MoU) has been reached after a four-month war, initiating a two-phase peace process aimed at de-escalation and future comprehensive settlement.",
-      "Both the US (due to domestic pressure, economic concerns, and failure to achieve objectives) and Iran (leveraging strategic assets but facing economic strain) sought an exit from the protracted conflict.",
-      "The article highlights the failure of military force to compel Iran's surrender, underscoring the decisive power of nationalism in a militarily weaker country's resistance against aggression.",
-      "The MoU reflects significant US concessions, signaling Washington's inability to achieve its red lines, though the path to lasting peace remains uncertain amidst Israeli opposition and the complexities of technical negotiations."
-    ],
-    "facts": [
-      "The US-Iran interim deal (MoU) was signed after four months of war, with the first phase extending the ceasefire for 60 days.",
-      "Iran committed to opening the Strait of Hormuz, and the US agreed to end its blockade as part of the initial phase.",
-      "The second phase of negotiations involves a 60-day, extendable period to address Iran’s nuclear program and sanctions relief, with Iran reaffirming it will not 'procure or develop nuclear weapons'."
-    ],
-    "academicReferences": [
-      "Treaty on the Non-Proliferation of Nuclear Weapons (NPT)",
-      "Zbigniew Brzezinski's 'The Grand Chessboard' (for geopolitical analysis)",
-      "United Nations Charter (principles of conflict resolution and state sovereignty)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Malign",
-        "type": "adjective",
-        "definition": "Evil in nature or effect; malevolent.",
-        "sentence": "Especially with Israel’s malign presence looming in the background."
-      },
-      {
-        "word": "Existential",
-        "type": "adjective",
-        "definition": "Relating to existence; fundamental or relating to the most basic aspects of life.",
-        "sentence": "For Iran it was an existential challenge."
-      },
-      {
-        "word": "Paradigm",
-        "type": "noun",
-        "definition": "A typical example or pattern of something; a model.",
-        "sentence": "The might-is-right paradigm is being challenged in an era where big powers can’t get their own way."
-      },
-      {
-        "word": "Down-blending",
-        "type": "verb",
-        "definition": "The process of diluting a concentrated material, often referring to nuclear material to reduce its enrichment level.",
-        "sentence": "It holds out the option to resolve it by down-blending (diluting) the material on site under the IAEA’s supervision."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary domestic pressure President Trump faced, according to the article, that increased his desire for a deal?",
-        "options": [
-          "Fear that higher oil prices and inflation would hit American consumers and damage the US economy.",
-          "Pressure from allies to end the conflict quickly.",
-          "A desire to secure an unprecedented Nobel Peace Prize.",
-          "Concerns over the rising number of US military casualties."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'Domestic political and economic pressure mounted on him, especially the fear that higher oil prices and inflation would hit American consumers and damage the US economy,' as a key motivator for Trump."
-      },
-      {
-        "question": "According to the article, what factor did the US historically underestimate in Iran's ability to resist aggression?",
-        "options": [
-          "Its advanced military technology.",
-          "The power of nationalism.",
-          "Its strategic alliances with other major powers.",
-          "Its vast natural resources beyond oil."
-        ],
-        "answerIndex": 1,
-        "explanation": "The text states, 'A militarily weaker country under sanctions was able to hold out because of what the US has historically underestimated — the power of nationalism.'"
-      },
-      {
-        "question": "Which of the following was NOT among the immediate US concessions to Iran mentioned in the MoU?",
-        "options": [
-          "Iran can keep some ballistic missiles.",
-          "Iran will receive waivers for oil exports immediately.",
-          "Iran's support for its regional allies does not figure in the MoU.",
-          "The US committed to a complete withdrawal of its forces from the Middle East."
-        ],
-        "answerIndex": 3,
-        "explanation": "The article lists the retention of ballistic missiles, immediate oil export waivers, and the omission of regional allies' support in the MoU as concessions. There is no mention of a complete US military withdrawal from the Middle East."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What did the 'Peace by piece' article identify as a key reason for the US's inability to achieve its objectives in the conflict with Iran?",
-        "back": "The US's failure to compel Iran to surrender was due to its underestimation of the power of nationalism in Iran, which fueled its will to survive against an 'existential challenge'."
-      },
-      {
-        "front": "How did the article characterize the broader implications of the US-Iran conflict's outcome regarding military power?",
-        "back": "It highlighted the limits of military power, challenging the 'might-is-right' paradigm by demonstrating that military superiority no longer guarantees dominance or victory for big powers in modern warfare."
-      },
-      {
-        "front": "What specific concession related to Iran's nuclear program was mentioned as an option for resolving the stockpiled enriched uranium issue in the upcoming talks?",
-        "back": "The option to resolve the issue by down-blending (diluting) the material on site under the IAEA’s supervision, which Iran had offered all along."
-      },
-      {
-        "front": "According to the article, what was the immediate international reaction to the US-Iran deal, and what significant rift did it widen?",
-        "back": "The deal received swift international applause but widened the rift between the US and Israel, with America's leaders rebuking Israelis for their criticism."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782439800034-235",
-    "title": "Guarded access\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2009892/guarded-access",
-    "date": "2026-06-22",
-    "author": "none@none.com (Editorial)",
-    "content": "ONE of the government’s ‘novel’ proposals to snag tax evaders has collided with some harsh realities. On Friday, the National Assembly’s Standing Committee on Finance and Revenue rejected a budgetary proposal to grant the FBR direct access to citizens’ bank account data, with committee members warning of potential misuse. They had good reasons to be sceptical. Data security is not one of the strong suits of Pakistan’s government bodies, and the thought that the personal financial details of high-net-worth individuals could leak out to the public and, potentially, land in the hands of criminal elements or be abused by corrupt officials would give any policymaker pause. Lawmakers would also have considered the fact that the FBR already has considerable coercive powers, yet those have not yielded the level of compliance promised, so why risk citizens’ financial privacy as well? At the same time, however, the proposal should not be dismissed outright. Pakistan’s tax-to-GDP ratio has stubbornly hovered in single digits, lagging well behind regional peers. According to the FBR, it has no information regarding roughly 800,000 account holders sitting on enormous sums, who currently exist entirely outside the tax net. They must be made to pay.\nThe FBR’s case for cross-referencing bank data with tax returns is, in principle, sound. However, given the authority’s own weaknesses, the FBR cannot and should not be given direct and unfettered access to bank account data without strong safeguards in place to prevent leakage and abuse. It appears that the FBR is content with accessing this data through the State Bank as an intermediary: lawmakers can ensure that the proposed mechanism is made more restrictive and subject to strict independent oversight. Critically, even where the State Bank acts as intermediary, access to an individual’s account data should only be triggered where there is credible and specific evidence that the account holder is concealing income or evading tax — not as a routine fishing exercise across the broader depositor base. Secondly, the FBR must demonstrate to and assure lawmakers that it is strengthening its data protection capabilities and policies, and detail what measures it will take to prevent and penalise misuse of information. The FBR’s proposal is not an inherently bad one. Instead of outright rejecting it and ending the discussion there, lawmakers should revisit their decision and lay down the conditions in which it could possibly be reconsidered.\nPublished in Dawn, June 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / Economics",
-    "topic": "Tax Reforms, Fiscal Policy, and Data Governance in Pakistan",
-    "whyMatters": "This article delves into the critical challenges of tax collection, data privacy, and governance reforms in Pakistan, which are recurring themes in competitive exams. Understanding the proposed solutions and the balancing act between state authority and citizen rights is crucial for comprehensive answers on public finance and institutional effectiveness.",
-    "summary": [
-      "The FBR's proposal for direct access to citizens' bank account data was rejected by the National Assembly's Standing Committee due to severe concerns about data security and potential misuse.",
-      "Despite the rejection, the underlying issue of Pakistan's stubbornly low single-digit tax-to-GDP ratio and 800,000 untaxed high-net-worth individuals necessitates new measures to broaden the tax net.",
-      "The article argues that while direct, unfettered FBR access is problematic, the proposal should not be dismissed outright and could be reconsidered with robust safeguards.",
-      "Key safeguards suggested include using the State Bank as an intermediary, triggering access only upon credible evidence of tax evasion (not broad fishing expeditions), and the FBR demonstrating strengthened data protection capabilities."
-    ],
-    "facts": [
-      "The National Assembly’s Standing Committee on Finance and Revenue rejected the FBR’s budgetary proposal for direct access to bank account data.",
-      "Pakistan's tax-to-GDP ratio persistently hovers in single digits, significantly lagging behind regional peers.",
-      "The FBR estimates approximately 800,000 high-net-worth account holders operate entirely outside the tax net."
-    ],
-    "academicReferences": [
-      "IMF Country Report on Pakistan (e.g., latest Article IV Consultation Report), focusing on fiscal policy and revenue mobilization.",
-      "Pakistan's Income Tax Ordinance, 2001 (and subsequent Finance Acts and amendments) for legal context of FBR's powers.",
-      "Proposed Digital Rights and Data Protection Bill (Pakistan) for understanding the legislative efforts towards citizen data privacy."
-    ],
-    "vocabulary": [
-      {
-        "word": "snag",
-        "type": "verb",
-        "definition": "to catch, seize, or acquire, often unexpectedly or with difficulty.",
-        "sentence": "The government's new policy aims to snag tax evaders by implementing stricter financial oversight."
-      },
-      {
-        "word": "coercive",
-        "type": "adjective",
-        "definition": "relating to or using force or threats.",
-        "sentence": "The FBR already possesses considerable coercive powers, yet tax compliance remains low."
-      },
-      {
-        "word": "skeptical",
-        "type": "adjective",
-        "definition": "not easily convinced; having doubts or reservations.",
-        "sentence": "Lawmakers were highly skeptical of the FBR's proposal given the government's track record on data security."
-      },
-      {
-        "word": "unfettered",
-        "type": "adjective",
-        "definition": "released from restraint or inhibition; unrestricted.",
-        "sentence": "Granting the FBR unfettered access to bank data without strong safeguards is highly risky."
-      },
-      {
-        "word": "intermediary",
-        "type": "noun",
-        "definition": "a person or organization that acts as a link between parties to bring about an agreement or reconciliation.",
-        "sentence": "It appears that the FBR is content with accessing this data through the State Bank as an intermediary."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary reason cited by the National Assembly's Standing Committee for rejecting the FBR's direct access proposal?",
-        "options": [
-          "Concerns over data security and potential misuse.",
-          "The FBR already possesses sufficient coercive powers.",
-          "The proposal would not effectively address the low tax-to-GDP ratio.",
-          "The State Bank of Pakistan refused to act as an intermediary."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that committee members warned of potential misuse and highlighted that data security is not a strong suit of Pakistan's government bodies, leading to the rejection."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What fundamental problem does the FBR's bank data access proposal aim to address, and why is it significant for Pakistan?",
-        "back": "The proposal aims to address Pakistan's stubbornly low, single-digit tax-to-GDP ratio and bring approximately 800,000 high-net-worth individuals, currently outside the tax net, into the tax system. This is significant for improving national revenue and fiscal stability."
-      },
-      {
-        "front": "What were the main objections raised by lawmakers against granting the FBR direct and unfettered access to citizens' bank account data?",
-        "back": "Lawmakers objected primarily due to concerns about data security, the potential for personal financial details to leak to criminal elements or be abused by corrupt officials, and the FBR's existing, underutilized coercive powers."
-      },
-      {
-        "front": "According to the article, what key conditions should be met if the FBR's proposal for accessing bank data is reconsidered to mitigate risks?",
-        "back": "The conditions include using the State Bank as an intermediary, ensuring access is triggered only by credible and specific evidence of tax evasion (not routine 'fishing'), and the FBR demonstrating strengthened data protection capabilities and policies."
-      },
-      {
-        "front": "Why does the article suggest that the FBR's proposal, despite its flaws, should not be dismissed outright by lawmakers?",
-        "back": "The article argues that the proposal's core principle of cross-referencing bank data with tax returns is sound and necessary to tackle the critical issue of widespread tax evasion and a low tax-to-GDP ratio, which negatively impacts national development."
       }
     ]
   }
