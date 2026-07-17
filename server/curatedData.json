@@ -1,5 +1,582 @@
 [
   {
+    "id": "curated-1784251395143-635",
+    "title": "Pakistan’s Ground Zero\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015802/pakistans-ground-zero",
+    "date": "2026-07-16",
+    "author": "none@none.com (Ali Tauqeer Sheikh)",
+    "content": "GILGIT-BALTISTAN has emerged as Pakistan’s climate ground zero. For decades, the country’s climate emergency was narrated from its floodplains: Sindh’s submerged villages, Punjab’s swollen tributaries, the 2010 and 2022 disasters. These were the consequences of a deeper story. The origin has abruptly moved upstream. GB is no longer the water tower that occasionally leaks. It is where the Indus system’s first disasters now begin, not where they arrive.\n\nHeatwaves once confined to Sindh’s cities and Punjab’s plains now reach the Upper Indus Basin (UIB). In June 2026 alone, the Met Office issued its second Glof (glacial lake outburst flood) alert of the month, warning that sustained high temperatures across GB and KP were accelerating glacier and snowfield melt to the point that existing lakes were expanding and new ones forming in real time.\n\nThis follows a pattern of near-annual escalation: in August 2025, a Glof from the Shishper glacier tore through Hassanabad Nullah in Hunza, severing the Karakoram Highway, in the highest-volume event since 2018. Each year now sets its own benchmark.\n\nUnderneath the visible flooding sits a less visible mechanism. Central Karakoram’s glaciers are not simply shrinking the way the Himalayan glaciers to their east are; some have been stable or even advancing since 1990 — a documented anomaly.\n\nBut stability at the surface has not meant stability underneath. Meltwater cuts channels through the ice itself, moving downward by gravity, forming englacial tunnels that destabilise glaciers from within even where their outward mass looks intact.\n\nThat is why river discharge from central Karakoram basins rose through 1985-2010 even as the glaciers appeared, by satellite, to hold steady. The lakes are the visible symptom; the tunnels are the mechanism; community displacement is the result. Pakistan currently counts 3,044 glacial lakes, with some 36 formally classified as hazardous and likely to affect over 7.1 million people.\n\nPrecipitation is changing structurally, in step with temperatures. Snow consolidates into firn, and firn into ice, a process called firnification, but now there’s less time for the process: more runs off as meltwater first, so the basin draws down its snowpack faster than it replenishes. High-altitude western UIB stations like Shendure, Yasin, Ziarat, Rattu, Chilas and Shigar, show a statistically significant rise in monsoon precipitation at elevation.\n\nClimate models project the monsoon extending north and northwest into the UIB, with a rising share of the basin’s precipitation falling as rain rather than snow. The monsoon, once a lowland event arriving after the high-altitude melt season had run its course, is beginning to overlap it. Rain on an already melting snowpack accelerates run-off.\n\nWe have a flood regime that no longer respects Pakistan’s disaster-response calendar.\n\nThe consequence is a flood regime that no longer respects Pakistan’s disaster-response calendar or its fourth national flood protection plan (2018-2028). Glofs and monsoon floods, once sequential risks with distinct seasons and targets, are becoming concurrent and compounding, a different planning problem entirely.\n\nDebris and mudslides change the underlying ecology in ways ordinary flooding does not: a riverine flood leaves silt, while a flow carrying boulders and glacial till causes irreversible loss and damage to the ecosystem. Buner and Lower Dir showed this in August 2025, when flash floods carried boulders flattening neighbourhoods and leaving survivors standing on rubble that used to be farmland.\n\nThere is ‘non-economic loss and damage’, the central pillar of the global loss and damage discourse. It shows up in the erosion of proud local heritage of grafting glaciers. GB is home to more than 50 languages and dialects, including Domaaki and Wakhi, classified by Unesco as critically endangered, and Burushaski, a language spoken nowhere else on earth. These survive orally, in valleys now being depopulated by flood damage and outmigration, so every displaced household moves further from the people who still speak the language at home.\n\nThe same is true of the region’s archaeological record: more than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor between Hunza and Shatial, carved by the traders and pilgrims who passed through GB on the Silk Route. The 2022 floods destroyed a significant share of the inscribed rock surfaces at the Thalpan site near Chilas. What remains is not protected by any Unesco listing. It is protected by distance and isolation, both of which are now being removed.\n\nGB is not the first place in the Himalayan region to witness this kind of disaster, and need not build its response method from scratch. On June 15, 2021, a glacial lake called Pemdan in Nepal breached in the Melamchi-Indrawati watershed north of Kathmandu. The breach destabilised a landslide dam downstream; the combined debris flow, over 10 metres deep in places, displaced hundreds of people and severed the water supply serving much of Kathmandu.\n\nResearch at ICIMOD has argued that no single hazard model would have caught it: reconstructing the event required integrating satellite data, hydrodynamic modelling, and machine learning to trace how the outburst, the dam failure and the rainfall interacted.\n\nIn GB’s case, a compound hazard is two risks overlapping in time — monsoon rainfall coinciding with the melt season. A cascading hazard triggers the next in sequence: a heatwave leading to Glof and then debris flow, which causes displacement, outward migration, eroded livelihoods and a shortened tourism season central to GB’s cash economy. Melamchi was both at once, and so is GB now.\n\nResponse infrastructure is becoming maladaptive: 250 engineering structures and 284 early warning systems installed across GB and KP since 2017, built against a threat that arrived in one form at a time. It is now being asked to hold out against two or more hazards and needs to scale to the pace of lake formation rather than trail it.\n\nClearly, hazard modelling needs to move towards the joint, cascade-aware approach rather than treating Glofs, monsoon shifts and landslide risks as separate problems for separate agencies. The alternative: keep treating GB’s disasters as remote and isolated events, until the water arrives.\n\nThe writer represents Pakistan on the Board of Fund for Responding to Loss and Damage.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Current Affairs",
+    "topic": "Climate Change Impacts, Disaster Management, and Environmental Security in Pakistan (Gilgit-Baltistan)",
+    "whyMatters": "This article is crucial for civil service aspirants as it highlights Pakistan's escalating climate vulnerability, particularly in Gilgit-Baltistan, detailing specific threats like GLOFs, changing monsoon patterns, and their socio-economic impacts. While *not directly relevant* to the provided question on ECO and regional integration, its content is highly pertinent for questions on climate change, disaster management, environmental policy, and national security in Pakistan.",
+    "summary": [
+      "Gilgit-Baltistan (GB) has emerged as Pakistan's climate 'ground zero,' with climate disasters now originating upstream in the Indus system, rather than just arriving in the floodplains.",
+      "Heatwaves are accelerating glacier melt and GLOF formation, driven by internal destabilization (englacial tunnels) even in seemingly stable glaciers, threatening millions.",
+      "Precipitation patterns are structurally changing, with more monsoon rain extending into the Upper Indus Basin, overlapping the melt season and intensifying run-off.",
+      "The convergence of GLOFs and monsoon floods creates compound, cascading hazards that render Pakistan's current disaster response calendar and infrastructure maladaptive, necessitating a new, integrated approach."
+    ],
+    "facts": [
+      "In June 2026 alone, the Met Office issued its second GLOF alert due to sustained high temperatures across GB and KP.",
+      "Pakistan counts 3,044 glacial lakes, with 36 formally classified as hazardous and likely to affect over 7.1 million people.",
+      "More than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor; the 2022 floods destroyed a significant share at the Thalpan site near Chilas."
+    ],
+    "academicReferences": [
+      "International Centre for Integrated Mountain Development (ICIMOD) research on compound and cascading hazards in mountainous regions.",
+      "Pakistan's Fourth National Flood Protection Plan (2018-2028), highlighted as increasingly maladaptive to new flood regimes.",
+      "Intergovernmental Panel on Climate Change (IPCC) Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC) for global context on glacier melt and GLOFs."
+    ],
+    "vocabulary": [
+      {
+        "word": "Englacial",
+        "type": "adjective",
+        "definition": "Within or embedded in a glacier.",
+        "sentence": "Meltwater forms englacial tunnels that destabilise glaciers from within even where their outward mass looks intact."
+      },
+      {
+        "word": "Firnification",
+        "type": "noun",
+        "definition": "The process by which snow compacts and recrystallizes into firn, a dense, granular snow, and eventually into glacial ice.",
+        "sentence": "Snow consolidates into firn, and firn into ice, a process called firnification, but now there’s less time for the process."
+      },
+      {
+        "word": "Maladaptive",
+        "type": "adjective",
+        "definition": "Poorly adapted; not providing appropriate adjustment to the environment or situation.",
+        "sentence": "Response infrastructure is becoming maladaptive: 250 engineering structures and 284 early warning systems installed across GB and KP since 2017."
+      },
+      {
+        "word": "Petroglyphs",
+        "type": "noun",
+        "definition": "Ancient art etched or carved into rock, often found at archaeological sites.",
+        "sentence": "More than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor between Hunza and Shatial."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason identified in the article for glaciers appearing stable or advancing on the surface while still contributing to increased river discharge?",
+        "options": [
+          "Increased snowfall at higher altitudes.",
+          "Formation of englacial tunnels causing internal destabilization.",
+          "Reduced evaporation rates from glacier surfaces.",
+          "Expansion of existing glacial lakes through surface melt."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Meltwater cuts channels through the ice itself, moving downward by gravity, forming englacial tunnels that destabilise glaciers from within even where their outward mass looks intact.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What shift in Pakistan's climate emergency narrative does the article highlight regarding Gilgit-Baltistan?",
+        "back": "GB is now presented as the 'ground zero' where climate disasters originate upstream, rather than merely being the downstream recipient of floods."
+      },
+      {
+        "front": "How does the article explain the 'less visible mechanism' beneath the visible flooding from glaciers?",
+        "back": "Despite some Central Karakoram glaciers appearing stable or advancing externally, meltwater forms englacial tunnels, destabilizing them from within and increasing river discharge."
+      },
+      {
+        "front": "What is the critical change in precipitation patterns affecting the Upper Indus Basin (UIB) as described in the article?",
+        "back": "Climate models project the monsoon extending north and northwest into the UIB, with a rising share of precipitation falling as rain rather than snow, often overlapping the high-altitude melt season."
+      },
+      {
+        "front": "Why does the article suggest Pakistan's current disaster response infrastructure is becoming 'maladaptive'?",
+        "back": "The infrastructure was built for sequential risks, but GB now faces concurrent and compounding hazards (e.g., GLOFs and monsoon floods), requiring a joint, cascade-aware approach."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784251630797-281",
+    "title": "Recruiting for peace\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015796/recruiting-for-peace",
+    "date": "2026-07-16",
+    "author": "none@none.com (Mohammad Ali Babakhel)",
+    "content": "CRITICAL aspects of the militancy challenge — recruiting professional talent and addressing training gaps — are often overlooked. Militants keep pace with technological changes, but LEAs, rooted in histories where colonial powers established police forces to enforce compliance rather than serve the public, are reluctant to accept change. Recruitment standards should align with security, sociopolitical and cultural dynamics. Police departments adhere to a numerical model, when they need both numerical and technology-driven models.\n\nConstables make up a significant part of the police force. Before Police Order 2002, recruitment focused mainly on physical fitness, allowing illiterate candidates to join. But the demand for educated constables has increased. Each province has its own hiring criteria. Earlier at the district SP’s discretion, post-PO 2002, constables’ recruitment was assigned to senior officers’ teams. To ensure transparency, KP outsourced entry test to NTS but could not attract the needed talent. Pakistan’s police forces recruit mainly at the constable, ASI and ASP level; provinces rarely recruit DSPs and inspectors directly. Focusing on physical tests, hiring may overlook intelligence, ethics, judgement and psychological testing.\n\nPO 2002 mentions ‘recruitment’ seven times; the KP Police Act 14 times. Article 27 outlines the IGP’s recruitment-related powers. Article 160 details the National Police Management Board’s authority to recommend recruitment standards to the government. A provincial subject, recruitment is done as per local needs. Federal-provincial collaboration can leverage federal and international help. Many potential constables live in rural areas, with little access to information on recruitment processes; thus, hiring drives must maximise outreach through mass and social media. Globally, assessments are shifting towards computer-based testing that may improve transparency, with candidates identified through biometrics. CBT can save travel costs.\n\nRecruitment delays cause vacancy shortfalls, driven by bureaucratic red tape and coordination gaps between recruiting units and training academies. Sometimes diversity quotas for women and minorities aren’t met, especially in Balochistan, KP and other provincial rural areas. Transparency can limit political meddling, corruption and nepotism. Standardised recruitment needs online registration, biometrics, facial recognition, electronic height measurement, CBT, medical examinations by an independent board, psychological evaluations, standardised aptitude and personality tests and ethics training in selection processes.\n\nImpartial recruitment in police is essential.\n\nIndependent observers on police recruitment boards is recommended. Third-party oversight will boost credibility; targeted drives will encourage women, minorities and educated youth, bringing diversity in police ranks. Implementing anonymous answer-sheet coding, putting merit lists online and instituting grievance redressal mechanisms will improve the police image. Hiring ASPs via the combined FPSC-conducted CSS exam needs review.\n\nRecruitment criteria must require no criminal record, strong character references, physical fitness, background vetting, written tests and interviews. In professional forces, officers have at least one to three years of academic and practical training in police academies and are on probation before full appointment. The average training duration of six months for constables in Pakistan isn’t enough to ensure effective training in human rights and community policing. The focus remains on arms and obedience. The focus on physical standards risks ove­rlooking intellectual and psychological aspects; co­­g­nitive dimensions such as deduction, reasoning, written comprehension, emotional stability, socialisation, safety orientation, teamwork, etc are important.\n\nFinland hires officers through a competitive exam requiring a police degree. Norway requires a three-year police university education, and passing psychological and physical tests. Germany requires academic qualifications, success in aptitude tests, and physical and psychological screening. Japanese recruitment exams focus on merit, character assessment and community engagement. Singapore focuses on integrity screening, fitness and leadership assessment. The UK prioritises education, vetting, medical, fitness and competence assessments. A specialised police recruitment unit must handle hiring. Before recruitment, it must work with educational institutions to attract the top talent with a passion for public service.\n\nA professional police service starts with an impartial recruitment process, making reform essential not only for an effective criminal justice system but also to uphold order and security.\n\nThe writer is a security analyst and author of Pakistan: In Between Extremism and Peace.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Governance & Public Policy / Internal Security",
+    "topic": "Police Reforms & Recruitment Challenges in Pakistan",
+    "whyMatters": "This article critically analyzes the systemic shortcomings in police recruitment, directly impacting internal security and governance in Pakistan. Aspirants must understand these issues and proposed reforms to offer informed policy solutions in their exams and demonstrate a grasp of public administration challenges.",
+    "summary": [
+      "Law Enforcement Agencies (LEAs) struggle to recruit professional talent and address training gaps, failing to keep pace with evolving militancy and technological changes due to historical resistance to change.",
+      "Current police recruitment primarily focuses on physical fitness and numerical models, overlooking critical aspects like intelligence, ethics, judgment, and psychological testing, leading to a shortage of educated and capable personnel.",
+      "Significant bureaucratic delays, lack of transparency, political meddling, and failure to meet diversity quotas plague the recruitment process, necessitating standardized, technology-driven reforms.",
+      "International best practices emphasize higher academic qualifications, comprehensive psychological evaluations, longer training durations, and specialized recruitment units, which Pakistan's police forces currently lack."
+    ],
+    "facts": [
+      "Before Police Order 2002, recruitment for constables primarily focused on physical fitness, allowing illiterate candidates.",
+      "The average training duration for constables in Pakistan is six months, deemed insufficient for effective training in human rights and community policing.",
+      "Police Order 2002 mentions 'recruitment' seven times, and the KP Police Act mentions it 14 times, highlighting legislative attention to the process.",
+      "Provinces, particularly Balochistan and KP, often fail to meet diversity quotas for women and minorities in police recruitment, especially in rural areas."
+    ],
+    "academicReferences": [
+      "Police Order 2002 (Pakistan)",
+      "National Internal Security Policy (NISP) of Pakistan (e.g., 2014-2018)",
+      "Constitution of Pakistan (Articles related to fundamental rights, provincial autonomy, and public services)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Militancy",
+        "type": "noun",
+        "definition": "The use of violent methods, often by a group, to achieve political aims.",
+        "sentence": "The article highlights the critical aspects of the militancy challenge that LEAs face."
+      },
+      {
+        "word": "Compliance",
+        "type": "noun",
+        "definition": "The act of obeying a rule or order.",
+        "sentence": "Colonial police forces were established to enforce compliance rather than serve the public."
+      },
+      {
+        "word": "Biometrics",
+        "type": "noun",
+        "definition": "Unique physical and behavioral characteristics (like fingerprints or facial patterns) used for identification.",
+        "sentence": "Globally, assessments are shifting towards computer-based testing, with candidates identified through biometrics."
+      },
+      {
+        "word": "Nepotism",
+        "type": "noun",
+        "definition": "The practice among people with power or influence of favoring relatives or friends, especially by giving them jobs.",
+        "sentence": "Transparency in recruitment can limit political meddling, corruption, and nepotism."
+      },
+      {
+        "word": "Grievance Redressal",
+        "type": "noun",
+        "definition": "The process of addressing and resolving complaints or dissatisfactions.",
+        "sentence": "Instituting grievance redressal mechanisms will improve the police image."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a key historical reason for the reluctance of Law Enforcement Agencies (LEAs) in Pakistan to accept change in recruitment and training methods?",
+        "options": [
+          "A) Lack of sufficient financial resources and modern infrastructure.",
+          "B) Their historical roots in colonial powers establishing police forces to enforce compliance rather than serve the public.",
+          "C) Strong resistance from existing police unions against any procedural modifications.",
+          "D) The absence of clear legislative mandates for recruitment reforms until recent years."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that LEAs are 'rooted in histories where colonial powers established police forces to enforce compliance rather than serve the public,' which contributes to their reluctance to accept change."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental shift does the article suggest is needed in the police recruitment model, beyond a purely numerical approach?",
+        "back": "The article advocates for a shift towards a model that integrates both numerical and technology-driven approaches, incorporating assessments of intelligence, ethics, judgment, and psychological aspects."
+      },
+      {
+        "front": "Why is the current average training duration for constables in Pakistan considered insufficient according to the article?",
+        "back": "The average six-month training duration is deemed insufficient to ensure effective training in crucial areas like human rights and community policing, with the focus remaining on arms and obedience."
+      },
+      {
+        "front": "How can transparency be enhanced in the police recruitment process to mitigate issues like political meddling and corruption?",
+        "back": "Transparency can be enhanced through online registration, biometrics, anonymous answer-sheet coding, publishing merit lists online, establishing grievance redressal mechanisms, and involving independent observers on recruitment boards."
+      },
+      {
+        "front": "Beyond physical fitness, what cognitive and emotional dimensions does the article emphasize should be assessed during police recruitment?",
+        "back": "The article highlights the importance of assessing cognitive dimensions such as deduction, reasoning, written comprehension, emotional stability, socialization, safety orientation, and teamwork."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784252105902-823",
+    "title": "Deadly lapses\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015794/deadly-lapses",
+    "date": "2026-07-16",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN has investigated too many HIV outbreaks over the past decade to still be surprised by the causes. The latest findings linked to Karachi’s Valika Hospital are only the newest indication that the country’s healthcare system continues to fall short on one of its most basic obligations: keeping patients safe. More than 10,500 people living around the hospital have now been screened, with 120 testing positive for HIV, while official inquiries have confirmed 78 infected children and six deaths. The Sindh government’s decision to continue screening, provide treatment at public expense and set up a long-term fund for affected children is welcome. But these steps respond to the consequences rather than the cause. The findings reveal many failures, including poor adherence to infection-control protocols, improper handling of single-use medical equipment, weak supervision and shortages of essential supplies. Infectious disease specialists have also cautioned that similar lapses have been detected beyond one hospital, including in some private clinics. The problem is not simply what happened at Valika Hospital, but what it says about the wider state of infection control in Pakistan.\n\nNone of this is new. The 2019 Ratodero outbreak, in which hundreds of children contracted HIV, also exposed unsafe injection practices, poor sterilisation, weak oversight and inadequate regulation. Yet years later, many of the same shortcomings continue to surface. Pakistan cannot afford to keep investigating preventable outbreaks while failing to eliminate their causes. Those found responsible at Valika Hospital should face transparent departmental and, where warranted, criminal proceedings. More importantly, the government must immediately conduct independent infection-control audits of public and private healthcare facilities, backed by regular unannounced inspections and meaningful penalties for violations. Safe injection practices, proper biomedical waste disposal and adequate supplies of single-use equipment must be enforced without exception. Mandatory infection-control training for healthcare workers, competency assessments, stronger surveillance systems capable of detecting unusual infection clusters early, and tougher regulation of clinics and laboratories should be national priorities. Public awareness campaigns should also encourage HIV testing while combating the stigma that often discourages people from seeking treatment. Patients should never have to fear that a visit to a hospital or clinic could expose them to a lifelong, entirely preventable disease.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Social Issues / Public Administration / Current Affairs",
+    "topic": "Public Health Crisis: Systemic Lapses in Healthcare Infection Control in Pakistan",
+    "whyMatters": "This article critically analyzes recurring failures within Pakistan's healthcare system regarding patient safety and infection control, making it crucial for discussions on governance, public health policy, and social issues. It provides concrete examples and actionable policy recommendations relevant for analytical questions on national challenges and their solutions.",
+    "summary": [
+      "Pakistan's healthcare system consistently fails in its basic obligation of keeping patients safe, leading to preventable HIV outbreaks due to poor infection control protocols.",
+      "Incidents like the Valika Hospital outbreak (Karachi) and the 2019 Ratodero outbreak exemplify recurring systemic issues, including unsafe injection practices, weak supervision, and inadequate supplies.",
+      "Current government responses often address the consequences (screening, treatment, funds) rather than tackling the fundamental causes and underlying systemic failures.",
+      "Urgent and comprehensive reforms are necessary, including independent infection-control audits, stringent enforcement of protocols, mandatory staff training, robust surveillance systems, and tougher regulation of healthcare facilities."
+    ],
+    "facts": [
+      "More than 10,500 people screened around Valika Hospital, with 120 testing positive for HIV.",
+      "Official inquiries linked to Valika Hospital confirmed 78 infected children and six deaths.",
+      "The 2019 Ratodero outbreak involved hundreds of children contracting HIV due to unsafe injection practices and poor sterilisation."
+    ],
+    "academicReferences": [
+      "National Health Vision 2025 (Pakistan's national health policy document detailing strategic goals for healthcare improvement).",
+      "World Health Organization (WHO) Guidelines on Infection Prevention and Control (international best practices and recommendations for healthcare facilities).",
+      "Pakistan Economic Survey (annual government report providing data on health sector expenditure, infrastructure, and human resources)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Lapses",
+        "type": "noun",
+        "definition": "temporary failures of concentration, memory, or judgment; or errors/mistakes.",
+        "sentence": "The latest HIV outbreak was attributed to serious lapses in infection-control protocols at the hospital."
+      },
+      {
+        "word": "Adherence",
+        "type": "noun",
+        "definition": "obedience to a rule, commitment, or belief.",
+        "sentence": "Poor adherence to infection-control guidelines was identified as a critical failure contributing to the outbreak."
+      },
+      {
+        "word": "Surveillance",
+        "type": "noun",
+        "definition": "close observation, especially of a suspected person or group. In a public health context, the systematic collection, analysis, interpretation, and dissemination of health data.",
+        "sentence": "Stronger surveillance systems are crucial for detecting unusual infection clusters early and preventing widespread outbreaks."
+      },
+      {
+        "word": "Stigma",
+        "type": "noun",
+        "definition": "a mark of disgrace associated with a particular circumstance, quality, or person.",
+        "sentence": "Public awareness campaigns should combat the social stigma that often discourages people with HIV from seeking timely treatment."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified in the article as a recurring cause of HIV outbreaks in Pakistan's healthcare system?",
+        "options": [
+          "Poor adherence to infection-control protocols",
+          "Shortages of essential supplies",
+          "Weak supervision of medical staff",
+          "High cost of HIV treatment medicines"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article explicitly mentions poor adherence, shortages of supplies, and weak supervision as causes. While HIV treatment costs are a factor for patients, the article notes the Sindh government provides treatment at public expense and does not list the high cost of medicines as a *cause* of outbreaks, but rather a *consequence* that the government addresses."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary criticism leveled against Pakistan's healthcare system regarding patient safety, as highlighted by the article?",
+        "back": "The system consistently fails in its basic obligation of keeping patients safe, leading to preventable HIV outbreaks due to systemic lapses in infection control."
+      },
+      {
+        "front": "How does the article characterize the effectiveness of current government responses to past HIV outbreaks, such as the one at Valika Hospital?",
+        "back": "Government responses often address the consequences (screening, treatment) rather than tackling the underlying causes and systemic failures that lead to the outbreaks."
+      },
+      {
+        "front": "What specific systemic failures are repeatedly cited as causes for HIV outbreaks, including the 2019 Ratodero incident and the recent Valika Hospital cases?",
+        "back": "Poor adherence to infection-control protocols, improper handling of single-use medical equipment, weak supervision, and shortages of essential supplies."
+      },
+      {
+        "front": "Beyond departmental and criminal proceedings, what immediate governmental actions are proposed to prevent future HIV outbreaks nationwide?",
+        "back": "Independent infection-control audits of all facilities, regular unannounced inspections, meaningful penalties for violations, mandatory infection-control training, stronger surveillance, and tougher regulation of clinics and laboratories."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784251944815-634",
+    "title": "Beware of gifts\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015798/beware-of-gifts",
+    "date": "2026-07-16",
+    "author": "none@none.com (F.S. Aijazuddin)",
+    "content": "NATIONS should never join blocs whose acronym ends with the letter ‘o’ — Seato, Cento, Nato. It is an invitation to collective suicide. Seato and Cento were dissolved in 1977 and 1979 respectively, while Nato is in the throes of debilitating disintegration. Turkiye has been a member of Nato since 1952 and was a member of Cento since its inception as the Baghdad Pact in 1955. It lay too far west to join an East-centric Seato. Turkiye has the second-largest military within Nato. The Nato secretary general described it as among the world’s best. Despite that, it has never been admitted into that other Western club — the European Union.\n\nTurkiye’s President Recep Tayyip Erdogan acted as host at the last meeting of Nato leaders over July 7-8 in Ankara. He could have impressed his colleagues with a display of Turkiye’s military prowess and a grand parade. Instead, he chose to give them a portable reminder: a box containing a Magnum revolver engraved with the name of the recipient and six live bullets.\n\nCanadian Prime Minister Mark Carney’s modest gift of maple syrup, by comparison, seemed “undermatched”. EU President Ursula von der Leyen thanked Erdogan, telling him that the revolver would be “decommissioned and donated to a military museum”.\n\nOthers left the weapons with their embassies in Ankara. The Polish president, Karol Nawrocki, took his gun home but cautiously. He remembered that in December 2022, Poland’s police chief had brought back to Warsaw a gift from the Ukraine — an anti-tank grenade launcher. It exploded in his office, injuring him and causing extensive damage to his headquarters.\n\nGifts exchanged between leaders have a long tradition.\n\nGifts exchanged between leaders have a long tradition. The East India Company, for example, kept a list of presents given and received, often recycling them between rulers.\n\nIn 1972, at the Indo-Pak summit in Shimla, Zulfikar Ali Bhutto presented Indian prime minister Indira Gandhi with an embroidered Sindhi cap and a block-printed ajrak. She reciprocated by ensuring that he had a stock of his favourite cigars in his bedroom. Later, president Gen Ziaul Haq hoped to sweeten Mrs Gandhi by giving her bottles of lychee juice. She found his gift (and him) “too sour”.\n\nDuring A.B. Vajpayee’s bus yatra in 1999, he gave Nawaz Sharif a collection of his Hindi poetry, translated into English. Sharif reciprocated with vintage CDs of South Asian musicians. In 2014, prime minister Nawaz Sharif attended Narendra Modi’s inauguration as PM. They exchanged gifts as if it was Mother’s Day. Modi gave a shawl for Sharif’s elderly mother and Sharif responded with a white sari for Modi’s mother. In December 2015, Modi surprised Nawaz Sharif by making an unscheduled stop in Lahore. He brought for him a pink Rajasthani turban and another shawl for Sharif’s mother.\n\nThe late Pervez Musharraf and Modi never warmed to each other. That chill has continued into Shehbaz Sharif’s prime minister-ship. He is finding that it will take more than saris or lychee juice to mollify Modi.\n\nIt will also take more than conferences in Islamabad, or impassioned legal arguments in the press, for PM Modi to open the sluice gates and allow Pakistan its contractual share of river waters. Pakistan and India have been locked since 1947 in a dispute over Jammu & Kashmir. The UN has pro­ved ineffective as a peace-broker. Hope­fu­lly, it will not take another 79 years for the parties to implement a fraying UN resolution.\n\nMeanwhile, it is clear that PM Modi has no interest in losing his constituencies within India by conc­eding water to Pak­i­stan. Is there any way he can be brought to the negotiating table to discuss the Indus Waters Treaty, or to im­­­plant a replacement? If and when such negotiations take pla­ce, Pakistan as the lower riparian will be in the weaker position. As the upp­er riparian, India looks down, both physically and metaphorically, from what it perceives as its natural position, a commanding height. River waters have a number of interested parties who coexist because they need to. In our case, the most significant party is less India and Pakistan than China. From the uppermost riparian — the Tibetan plateau — China controls the waters flowing through Indian states and Indian-held territory into Azad Kashmir, Gilgit-Baltistan and mainland Pakistan. China has always taken a long view of Pakistan’s future, beyond the myopic vision of Pakistan’s revolving-door rulers. The future China sees for Pakistan is not of a parched wasteland but a viable, arable agro-economy — a potential bread and rice basket for the region.\n\nPakistan should persuade China to use its clout to be included in any new Indus waters sharing arrangement. Of all China’s past beneficences, notably the HMC, HFF and HEC projects at Taxila and now CPEC, that would be China’s most enduring gift to Pakistan.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "International Relations / Pakistan Affairs",
+    "topic": "Diplomacy, Water Disputes, and Regional Geopolitics (Pakistan-India-China)",
+    "whyMatters": "This article offers critical insights into the symbolic nature of diplomatic gifts, the historical context of India-Pakistan relations, and the unresolved Indus Waters Treaty. Aspirants can use its arguments to analyze international relations, water scarcity issues, and the evolving role of China in South Asian geopolitics.",
+    "summary": [
+      "The article critically views military blocs ending in 'o' (SEATO, CENTO, NATO) as invitations to 'collective suicide,' citing the dissolution of two and the 'debilitating disintegration' of NATO.",
+      "Diplomatic gifts, while traditional, carry significant symbolic weight and can be controversial or dangerous, exemplified by Erdogan's Magnum revolvers and the Polish incident with a grenade launcher.",
+      "Historical gift exchanges between Indian and Pakistani leaders, from Bhutto-Gandhi to Modi-Sharif, reflect varying diplomatic warmth but often fail to resolve entrenched issues like Kashmir or water disputes.",
+      "The unresolved Indus Waters Treaty dispute highlights Pakistan's weaker position as the lower riparian against India's commanding upper riparian stance, an impasse complicated by India's domestic political considerations.",
+      "China, as the uppermost riparian controlling waters from the Tibetan plateau, is presented as a crucial actor that could leverage its influence to secure a new Indus water-sharing arrangement, ensuring Pakistan's future as an arable agro-economy."
+    ],
+    "facts": [
+      "SEATO and CENTO were dissolved in 1977 and 1979 respectively.",
+      "Turkiye joined NATO in 1952 and CENTO (as the Baghdad Pact) in 1955, hosting the July 7-8 NATO leaders' meeting.",
+      "The Indus Waters Treaty dispute between Pakistan and India is mentioned alongside the Jammu & Kashmir conflict, ongoing since 1947.",
+      "Past Sino-Pak projects mentioned include HMC, HFF, HEC at Taxila, and the ongoing CPEC.",
+      "The Polish police chief's gift of an anti-tank grenade launcher exploded in his office in December 2022."
+    ],
+    "academicReferences": [
+      "Indus Waters Treaty (1960)",
+      "United Nations Security Council Resolutions on Jammu & Kashmir (e.g., UNSC Resolution 47, 1948)",
+      "Andrew Small, \"The China-Pakistan Axis: Asia's New Geopolitics\" (for Sino-Pak relations and CPEC)",
+      "Daniel Haines, \"Indus Basin Waters: The Politics of River Sharing\" (for detailed analysis of water politics)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Debilitating",
+        "type": "adjective",
+        "definition": "Causing serious weakness or impairment.",
+        "sentence": "Nato is in the throes of debilitating disintegration."
+      },
+      {
+        "word": "Undermatched",
+        "type": "adjective",
+        "definition": "Inferior or less impressive when compared to something else.",
+        "sentence": "Canadian Prime Minister Mark Carney’s modest gift of maple syrup, by comparison, seemed 'undermatched'."
+      },
+      {
+        "word": "Mollify",
+        "type": "verb",
+        "definition": "To appease or reduce the severity of (something); to soften.",
+        "sentence": "He is finding that it will take more than saris or lychee juice to mollify Modi."
+      },
+      {
+        "word": "Riparian",
+        "type": "adjective",
+        "definition": "Relating to or situated on the banks of a river.",
+        "sentence": "As the upper riparian, India looks down, both physically and metaphorically, from what it perceives as its natural position."
+      },
+      {
+        "word": "Beneficences",
+        "type": "noun",
+        "definition": "Acts of kindness or charity; gifts or donations.",
+        "sentence": "Of all China’s past beneficences, notably the HMC, HFF and HEC projects at Taxila and now CPEC, that would be China’s most enduring gift to Pakistan."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which two military blocs, criticized by the author for ending in 'o', were dissolved by 1979?",
+        "options": [
+          "A) NATO and CENTO",
+          "B) SEATO and CENTO",
+          "C) SEATO and NATO",
+          "D) CENTO and Warsaw Pact"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Seato and Cento were dissolved in 1977 and 1979 respectively.'"
+      },
+      {
+        "question": "What unusual gift did Turkish President Recep Tayyip Erdogan present to NATO leaders?",
+        "options": [
+          "A) Rare Turkish carpets",
+          "B) Engraved Magnum revolvers with live bullets",
+          "C) Custom-made military uniforms",
+          "D) Historical Ottoman coins"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions Erdogan chose to give them 'a box containing a Magnum revolver engraved with the name of the recipient and six live bullets'."
+      },
+      {
+        "question": "According to the article, what is China's perceived strategic position regarding the Indus Waters, making it a potentially crucial actor?",
+        "options": [
+          "A) A neutral observer",
+          "B) The uppermost riparian controlling waters from the Tibetan plateau",
+          "C) A major aid donor to India",
+          "D) A lower riparian dependent on Pakistani goodwill"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'From the uppermost riparian — the Tibetan plateau — China controls the waters flowing through Indian states and Indian-held territory into Azad Kashmir, Gilgit-Baltistan and mainland Pakistan.'"
+      },
+      {
+        "question": "Which Indian Prime Minister, according to the article, exchanged gifts with Nawaz Sharif 'as if it was Mother’s Day'?",
+        "options": [
+          "A) Indira Gandhi",
+          "B) Atal Bihari Vajpayee",
+          "C) Narendra Modi",
+          "D) Manmohan Singh"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, 'In 2014, prime minister Nawaz Sharif attended Narendra Modi’s inauguration as PM. They exchanged gifts as if it was Mother’s Day.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's primary critique regarding military blocs whose acronyms end with 'o'?",
+        "back": "The author views them as invitations to 'collective suicide' prone to debilitating disintegration, citing SEATO and CENTO's dissolution and NATO's current struggles."
+      },
+      {
+        "front": "How does President Erdogan's gift to NATO leaders illustrate the complexities and potential misinterpretations of diplomatic exchanges?",
+        "back": "Erdogan's gift of engraved Magnum revolvers was seen as controversial; some decommissioned it, others left it at embassies, highlighting how a symbolic gesture can be viewed as threatening or inappropriate."
+      },
+      {
+        "front": "What is India's perceived strategic advantage over Pakistan in the Indus Waters Treaty dispute, according to the article?",
+        "back": "India is the 'upper riparian,' giving it a physical and metaphorical commanding height and a stronger negotiating position, allowing it to control water flow to Pakistan."
+      },
+      {
+        "front": "What long-term vision does China have for Pakistan, and how does the author suggest China could contribute to this vision through the Indus Waters Treaty?",
+        "back": "China envisions Pakistan as a 'viable, arable agro-economy' (a potential bread and rice basket). The author suggests China could use its clout as the 'uppermost riparian' to be included in a new water-sharing arrangement, making it an 'enduring gift'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784252026454-329",
+    "title": "AJK violence\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015795/ajk-violence",
+    "date": "2026-07-16",
+    "author": "none@none.com (Editorial)",
+    "content": "SINCE early June, Azad Kashmir has been on tenterhooks, with routine life severely disturbed, as the regional administration seeks to quell the protests of the now proscribed Joint Awami Action Committee, a coalition of political and civil society groups.\n\nViolent confrontations have claimed some 30 lives of both security personnel and protesters since last month. Rawalakot, the focal point of the protest movement, has been under curfew for about six weeks.\n\nThe JAAC’s demands have focused on governance issues and economic concerns, with most being accepted by the authorities. But its call for the abolition of seats in the AJK legislature for refugees from India-held Kashmir has created a deadlock. Violent clashes on Tuesday resulted in at least nine deaths. Yesterday, the JAAC launched its ‘long march’ on Muzaffarabad.\n\nThe primary concern of all stakeholders should be the restoration of calm in AJK. Too many valuable lives — of both LEAs and civilians — have been lost, and while violent elements must be prosecuted by the state, the only way out of this imbroglio is through the political process.\n\nOfficials say that some JAAC activists have been armed. However pressing the JAAC considers its demands, armed action against the state cannot be tolerated and those involved in attacks on LEAs must face the law. For the moment though, temperatures must be brought down, and the authorities and the JAAC must show flexibility and engage each other instead of hardening their respective positions.\n\nThe authorities have valid concerns about the JAAC’s mode of protest and some of its demands; however, they should talk to the group instead of trying to crush it — a reaction that has often backfired in the past. On its part, the JAAC must communicate its demands in a peaceful manner, and recognise that constitutional issues, such as the question of refugee seats, can only be settled in the legislature and not on the streets.\n\nIt is incumbent on political actors within AJK and Pakistan to step up efforts for a negotiated solution to this crisis. In AJK yesterday, PPP chief Bilawal Bhutto-Zardari proposed a truth and reconciliation commission for settling the matter, while the Jamaat-i-Islami has formed a ‘peace jirga’ in an attempt to mediate between the AJK administration and the JAAC.\n\nThe PTI has similarly called for a multiparty moot to develop a ‘national consensus’, especially with regard to the regional polls scheduled for later this month. It goes without saying that fair elections require a peaceful atmosphere and a level playing field for all contenders.\n\nRather than using only administrative and security tools to deal with the situation, the government must keep political channels open with the JAAC and carefully listen to their demands so that normal life can resume in AJK as soon as possible.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Pakistan Affairs / Current Affairs",
+    "topic": "Internal Security and Governance Challenges in Azad Kashmir",
+    "whyMatters": "This article is crucial for understanding contemporary internal security challenges, state-society relations, and conflict resolution mechanisms within Pakistan's federal structure. Aspirants can analyze the government's response to civil unrest and the role of political actors in de-escalating crises in sensitive regions.",
+    "summary": [
+      "Azad Kashmir has been gripped by violent protests led by the Joint Awami Action Committee (JAAC) since early June, leading to approximately 30 casualties and imposing curfews in areas like Rawalakot.",
+      "A major deadlock persists over the JAAC's demand to abolish legislative seats reserved for refugees from India-held Kashmir, despite authorities accepting most other governance and economic concerns.",
+      "The article emphasizes the urgent need for a political process, dialogue, and flexibility from both the AJK administration and the JAAC to restore calm, condemning armed action while also calling for state accountability and prosecution of violent elements.",
+      "Major Pakistani political parties, including PPP, Jamaat-i-Islami, and PTI, have actively proposed solutions such as a truth and reconciliation commission, peace jirgas, and multiparty moots to foster a negotiated settlement and ensure peaceful elections."
+    ],
+    "facts": [
+      "Approximately 30 lives (security personnel and protesters) have been lost since last month due to violent confrontations in AJK.",
+      "Rawalakot, a focal point of the protest movement, has been under curfew for about six weeks.",
+      "Violent clashes on one specific Tuesday resulted in at least nine deaths."
+    ],
+    "academicReferences": [
+      "Constitution of Azad Jammu and Kashmir, 1974 (for AJK's governance structure and refugee seats)",
+      "National Internal Security Policy (NISP) of Pakistan (for state response to internal unrest and security threats)",
+      "United Nations High Commissioner for Refugees (UNHCR) Mandate (for the broader context of refugee issues and rights)"
+    ],
+    "vocabulary": [
+      {
+        "word": "tenterhooks",
+        "type": "noun",
+        "definition": "a state of suspense or anxiety",
+        "sentence": "Since early June, Azad Kashmir has been on tenterhooks, with routine life severely disturbed."
+      },
+      {
+        "word": "quell",
+        "type": "verb",
+        "definition": "to put an end to (a rebellion or other disorder), typically by the use of force",
+        "sentence": "The regional administration seeks to quell the protests of the now proscribed Joint Awami Action Committee."
+      },
+      {
+        "word": "imbroglio",
+        "type": "noun",
+        "definition": "a difficult, confusing, or embarrassing situation",
+        "sentence": "The only way out of this imbroglio is through the political process."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary demand of the JAAC that has created a deadlock with AJK authorities?",
+        "options": [
+          "Abolition of seats in the AJK legislature for refugees from India-held Kashmir",
+          "Immediate resignation of the current AJK government",
+          "Reduction in electricity and food prices across AJK",
+          "Grant of full provincial status to Azad Kashmir within Pakistan"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the JAAC's 'call for the abolition of seats in the AJK legislature for refugees from India-held Kashmir has created a deadlock.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary cause of the ongoing deadlock between the JAAC and AJK authorities, according to the article?",
+        "back": "The JAAC's demand for the abolition of seats in the AJK legislature reserved for refugees from India-held Kashmir."
+      },
+      {
+        "front": "What is the article's main recommendation for resolving the AJK crisis and restoring calm?",
+        "back": "Engaging in a political process, dialogue, and flexibility between the authorities and the JAAC, instead of relying solely on administrative and security tools."
+      },
+      {
+        "front": "How have major Pakistani political parties like PPP, Jamaat-i-Islami, and PTI proposed to address the AJK unrest?",
+        "back": "They have suggested initiatives such as a truth and reconciliation commission, a peace jirga, and a multiparty moot to develop a negotiated solution and national consensus."
+      },
+      {
+        "front": "What is the article's stance on armed action during protests, even if demands are pressing?",
+        "back": "Armed action against the state cannot be tolerated, and those involved in attacks on law enforcement agencies must face the law, regardless of the importance of the protesters' demands."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784251709385-169",
+    "title": "Doomed tax initiative\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015793/doomed-tax-initiative",
+    "date": "2026-07-16",
+    "author": "none@none.com (Editorial)",
+    "content": "THE FBR’s draft simplified tax regime for small shopkeepers is the latest in a long line of attempts to persuade Pakistan’s vast retail sector to enter the tax net. By offering a turnover-based tax of just 1pc, exemptions from routine audits, withholding tax obligations and mandatory digital invoicing, the government hopes to make compliance more attractive. Yet there is little reason to believe this initiative will succeed where countless others have failed. Pakistan’s retail sector has remained one of the country’s largest untaxed or undertaxed segments despite repeated experiments under both military and civilian governments. Successive administrations have introduced fixed tax schemes, presumptive taxes, negotiated settlements and voluntary arrangements, each promising to broaden the tax base without provoking confrontation with traders. The outcome has been remarkably consistent: negligible compliance.\n\nThe reasons are political. Traders enjoy organisational strength and political influence. Their ability to shut down markets across the country has repeatedly forced governments to dilute reforms or abandon enforcement. Every retreat has reinforced the belief that organised resistance eventually secures concessions. This has weakened the state’s credibility and encouraged a culture of negotiated compliance rather than compliance under the law. The latest proposal follows the same pattern. Although not formally described as one, it bears all the characteristics of another tax amnesty. The state is again offering generous concessions. These are substantial incentives for a sector that has historically contributed nothing to national revenues. The question is, why would traders who have ignored repeated tax efforts comply now. Almost every trader will continue to view non-compliance as the cheaper option, while penalties will be difficult to impose due to fear of losing their support. Pakistan cannot broaden its tax base through voluntary schemes alone. It requires political will to enforce tax laws impartially and resist pressure from powerful lobbies. If anything, the proposed scheme is likely to deliver even less, leaving our narrow tax base largely unchanged.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Economics / Governance",
+    "topic": "Tax Reforms, Revenue Mobilization, and Political Economy of Taxation in Pakistan",
+    "whyMatters": "This article critically analyzes Pakistan's persistent failure to broaden its tax base, highlighting systemic governance challenges and political economy issues. It provides crucial insights into why tax reforms repeatedly falter, offering a strong basis for answering questions on economic policy, state capacity, and public finance.",
+    "summary": [
+      "The FBR's draft simplified tax regime, offering a 1% turnover-based tax and exemptions, is the latest attempt to bring Pakistan's vast retail sector into the tax net.",
+      "Despite numerous past attempts under various governments (fixed, presumptive taxes, negotiated settlements), the retail sector remains one of the largest untaxed or undertaxed segments.",
+      "The primary reasons for consistent failure are political: traders' organizational strength and political influence repeatedly force governments to dilute reforms or abandon enforcement, weakening state credibility.",
+      "The current proposal, resembling another tax amnesty, is unlikely to succeed without genuine political will to enforce tax laws impartially and resist pressure from powerful lobbies, as non-compliance is still perceived as the cheaper option."
+    ],
+    "facts": [
+      "The proposed simplified tax regime for small shopkeepers offers a turnover-based tax of just 1%.",
+      "Pakistan's retail sector is described as one of the country's largest untaxed or undertaxed segments.",
+      "The retail sector has historically contributed \"nothing\" to national revenues, according to the article."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (for official data on tax collection, fiscal policy, and sector-wise contributions)",
+      "IMF Stand-by Arrangement (SBA) / Extended Fund Facility (EFF) Reports on Fiscal Reforms in Pakistan (for external perspectives and policy recommendations)",
+      "Studies on the Political Economy of Taxation in Developing Countries (e.g., works by Musgrave, Bird, or specific analyses on rent-seeking and state-society relations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "tax net",
+        "type": "noun",
+        "definition": "The system or framework of taxation; the collective body of taxpayers or economic activities brought under tax regulation.",
+        "sentence": "The government aims to expand the tax net by including previously untaxed segments of the economy."
+      },
+      {
+        "word": "presumptive taxes",
+        "type": "noun",
+        "definition": "Taxes levied on an assumed or estimated income, turnover, or other base, rather than on detailed actual accounts, often used for small businesses or informal sectors.",
+        "sentence": "Successive administrations have introduced fixed tax schemes and presumptive taxes to broaden the tax base."
+      },
+      {
+        "word": "dilute reforms",
+        "type": "verb",
+        "definition": "To weaken the effectiveness, impact, or strictness of proposed changes or improvements.",
+        "sentence": "Traders' ability to shut down markets has repeatedly forced governments to dilute reforms."
+      },
+      {
+        "word": "tax amnesty",
+        "type": "noun",
+        "definition": "A limited-time opportunity offered by a government for a specified group of taxpayers to pay overdue taxes, often with reduced penalties or interest, without facing prosecution.",
+        "sentence": "Although not formally described as one, the latest proposal bears all the characteristics of another tax amnesty."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason for the repeated failure of tax initiatives targeting Pakistan's retail sector?",
+        "options": [
+          "A) Lack of modern digital infrastructure for tax collection.",
+          "B) Insufficient financial incentives offered to small shopkeepers for compliance.",
+          "C) The political influence and organized resistance from traders.",
+          "D) A persistent lack of clear and simplified tax laws by the FBR."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'The reasons are political. Traders enjoy organisational strength and political influence. Their ability to shut down markets across the country has repeatedly forced governments to dilute reforms or abandon enforcement.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core characteristic of the FBR's latest proposed tax regime for small shopkeepers mentioned in the article?",
+        "back": "It is a simplified, turnover-based tax of just 1%, offering exemptions from routine audits, withholding tax, and mandatory digital invoicing."
+      },
+      {
+        "front": "Why does the article argue that past tax initiatives in Pakistan's retail sector have consistently failed to broaden the tax base?",
+        "back": "They failed primarily due to political reasons, stemming from the organized strength and political influence of traders who actively resist enforcement and secure concessions."
+      },
+      {
+        "front": "How has the consistent resistance from traders impacted the state's credibility regarding tax enforcement in Pakistan, according to the article?",
+        "back": "It has weakened the state’s credibility, reinforcing the belief that organized resistance secures concessions and encouraging a culture of negotiated compliance rather than compliance under law."
+      },
+      {
+        "front": "What does the article suggest is essential for Pakistan to broaden its tax base effectively, beyond relying on voluntary schemes or amnesties?",
+        "back": "It requires genuine political will to enforce tax laws impartially and consistently, coupled with the ability to resist pressure from powerful lobbies."
+      }
+    ]
+  },
+  {
     "id": "curated-1784164982780-796",
     "title": "Beyond declarations\n",
     "source": "Dawn",
@@ -78,6 +655,128 @@
       {
         "front": "How does the article suggest Pakistan's leadership of the OIC conference should truly be measured?",
         "back": "It should be measured by tangible results like more girls completing education, more women entering leadership positions, and more families benefiting from empowerment, rather than just speeches or communiqués."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784251792950-902",
+    "title": "Taxing retailers",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2618445/taxing-retailers-2",
+    "date": "2026-07-15",
+    "author": "\n\t\t\t\teditorial\n\t\t\t",
+    "content": "The government's endeavour to bring in retailers with a favourable tax slab is appreciated. The intention is not only to ease complex accounting processes - as around three million retailers countrywide are currently untaxed - but also to bolster the exchequer with a decent turnover. The recent proposal introduces a voluntary income tax regime for small shopkeepers, offering them exemptions from audits, withholding taxes, and mandatory digital invoicing.\n\nTraders should take this as a bonanza offer to become part of the formal economy. Individual retailers with an annual turnover of up to Rs200 million will have the option to pay an income tax equal to 1% of their gross turnover, or a minimum fixed tax of Rs25,000, even if taxes already deducted at source exceed their liability. This proposal offers a clear path forward; the FBR must ensure robust enforcement, and shopkeepers who evade compliance must be taken to task.\n\nAll previous efforts to bring wholesalers and retailers into the tax net were politically jaundiced. This has taken a toll on the economy, as major revenue earners were coddled at the expense of national development. It is ironic that the salaried class pays a staggering income tax of over Rs630 billion, whereas corporate entities, real estate, and traders thrive on the premise of their nuisance value. As Pakistan is supposed to meet a tax target of Rs15.264 trillion this fiscal - a 17.6% increase over the previous year - all these holy cows must finally face the knife.\n\nRetailers are currently obligated to pay an 18% standard sales tax on consumer goods and a 1% income tax on their annual turnover. It is problematic that a segment constituting roughly 19% of the GDP contributes less than 3% of all collected direct taxes. Tax reforms are indispensable if the economy is to sustain itself. It is high time to do away with tax rebates, SROs, and subsidies, allowing performing sectors to combine their synergies to help the country make ends meet.\n\nWhile encouraging retailers to pay a lump sum, the government has made a major concession by overlooking receipt digitisation. This must be treated as a one-time waiver only.",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Economics / Current Affairs (Pakistan)",
+    "topic": "Tax Reforms, Economic Formalization, and Fiscal Policy in Pakistan",
+    "whyMatters": "While this article does not directly address the Economic Cooperation Organization (ECO) question, it is crucial for understanding Pakistan's ongoing domestic economic challenges and government efforts towards fiscal reform and revenue mobilization. It provides critical context on the informal economy and taxation disparities, themes frequently tested in Economics and Current Affairs papers regarding Pakistan's internal economic stability and policy.",
+    "summary": [
+      "The government has introduced a new voluntary income tax regime for small shopkeepers, offering exemptions from audits, withholding taxes, and mandatory digital invoicing, primarily to formalize the economy and increase tax revenue from around three million untaxed retailers.",
+      "Individual retailers with an annual turnover up to Rs200 million can opt to pay an income tax equal to 1% of their gross turnover or a minimum fixed tax of Rs25,000.",
+      "The article criticizes past politically motivated failures to tax retailers and highlights the unsustainable disparity where the salaried class pays over Rs630 billion in income tax while corporate entities, real estate, and traders often evade their fair share.",
+      "It underscores the indispensability of tax reforms, noting that retailers, despite constituting 19% of the GDP, contribute less than 3% of direct taxes, and advocates for eliminating tax rebates, SROs, and subsidies."
+    ],
+    "facts": [
+      "Approximately three million retailers countrywide are currently untaxed.",
+      "Retailers, constituting roughly 19% of the GDP, contribute less than 3% of all collected direct taxes.",
+      "Pakistan's tax target for the current fiscal year is Rs15.264 trillion, a 17.6% increase over the previous year.",
+      "The salaried class pays a staggering income tax of over Rs630 billion."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (Latest Edition)",
+      "IMF Staff Report for Pakistan (Recent Article IV Consultation)",
+      "Federal Board of Revenue (FBR) Annual Report"
+    ],
+    "vocabulary": [
+      {
+        "word": "endeavour",
+        "type": "noun",
+        "definition": "an attempt to achieve a goal",
+        "sentence": "The government's endeavour to bring retailers into the tax net is appreciated."
+      },
+      {
+        "word": "bolster",
+        "type": "verb",
+        "definition": "to support or strengthen",
+        "sentence": "The intention is not only to ease processes but also to bolster the exchequer with a decent turnover."
+      },
+      {
+        "word": "exchequer",
+        "type": "noun",
+        "definition": "the national treasury",
+        "sentence": "New tax revenues will help bolster the national exchequer."
+      },
+      {
+        "word": "bonanza",
+        "type": "noun",
+        "definition": "a situation or event that creates a sudden increase in wealth, good fortune, or profits",
+        "sentence": "Traders should take this as a bonanza offer to become part of the formal economy."
+      },
+      {
+        "word": "jaundiced",
+        "type": "adjective",
+        "definition": "affected by prejudice, resentment, or cynicism",
+        "sentence": "All previous efforts to bring wholesalers and retailers into the tax net were politically jaundiced."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary goal of the government's new tax proposal for retailers?",
+        "options": [
+          "To bring untaxed retailers into the formal economy and increase tax revenue.",
+          "To offer substantial tax rebates to all small shopkeepers.",
+          "To eliminate all sales taxes for consumer goods.",
+          "To mandate digital invoicing for all retail transactions immediately."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states the intention is to ease complex accounting processes for untaxed retailers and bolster the exchequer."
+      },
+      {
+        "question": "Which of the following is NOT an exemption offered under the new voluntary income tax regime for small shopkeepers?",
+        "options": [
+          "Exemption from audits.",
+          "Exemption from withholding taxes.",
+          "Exemption from mandatory digital invoicing.",
+          "Exemption from the 18% standard sales tax on consumer goods."
+        ],
+        "answerIndex": 3,
+        "explanation": "The proposal offers exemptions from audits, withholding taxes, and mandatory digital invoicing, but retailers are still obligated to pay an 18% standard sales tax on consumer goods."
+      },
+      {
+        "question": "According to the article, what is the approximate percentage of Pakistan's GDP contributed by retailers, and what is their contribution to direct taxes?",
+        "options": [
+          "19% of GDP, contributing less than 3% of direct taxes.",
+          "3% of GDP, contributing less than 19% of direct taxes.",
+          "1% of GDP, contributing 18% of direct taxes.",
+          "18% of GDP, contributing 1% of direct taxes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that retailers 'constituting roughly 19% of the GDP contributes less than 3% of all collected direct taxes'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core objective behind the government's recent tax proposal for retailers?",
+        "back": "To bring around three million untaxed retailers into the formal economy, simplify accounting processes, and bolster the national exchequer with increased revenue."
+      },
+      {
+        "front": "What are the key concessions offered to small shopkeepers under the voluntary income tax regime?",
+        "back": "Exemptions from audits, withholding taxes, and mandatory digital invoicing."
+      },
+      {
+        "front": "How does the article characterize past efforts to bring wholesalers and retailers into the tax net?",
+        "back": "They were politically jaundiced, leading to major revenue earners being coddled at the expense of national development."
+      },
+      {
+        "front": "What significant disparity in tax contributions does the article highlight regarding the salaried class versus retailers and other segments?",
+        "back": "The salaried class pays over Rs630 billion in income tax, while retailers (19% of GDP) contribute less than 3% to direct taxes, and corporate entities, real estate, and traders often thrive by leveraging their 'nuisance value'."
       }
     ]
   },
@@ -213,6 +912,88 @@
       {
         "front": "How does the article connect the issue of water security to broader implications for governance and long-term resilience?",
         "back": "It highlights that poor land-use planning, environmental degradation, and encroachment magnify disaster impacts, necessitating stronger institutions, better governance, and political will to prioritize long-term resilience over short-term expediency."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784251549569-924",
+    "title": "Red scare redux\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015548/red-scare-redux",
+    "date": "2026-07-15",
+    "author": "none@none.com (Mahir Ali)",
+    "content": "A SPECTRE seems to be haunting the US president. A few days ago, Reuters calculated that Donald Trump had invoked communism 81 times in his utterances and outbursts over the past two weeks. This included citing it as a bigger threat to America than both the world wars and 9/11. He has kept it up since then. Just this past weekend, he declared on his Truth Social platform: “I would often say in Speeches, and otherwise, America will never be a Socialist Country, and I was 100% correct, the Dumocrats skipped Socialism, and went all the way down to Communism. AMERICA WILL NEVER BE A COMMUNIST COUNTRY!”\n\nInterpreting Trump’s rants has become a full-time occupation for some, and there’s an emerging consensus that the Republican Party descended yet again into its anti-communist comfort zone after a bunch of candidates backed by the Democratic Socialists of America (DSA) won last month’s primaries, with the phenomenon echoed from Wisconsin to California.\n\nThe DSA is not ‘communist’ by any stretch of the imagination, but the word ‘socialism’ no longer inspires fear among growing segments of the American electorate. A decade ago, thanks mainly to Bernie Sanders, it briefly became the most googled word in the US. Many among those who looked it up apparently didn’t find the definitions or explanations offensive or undesirable. No wonder the Democratic Party establishment, dedicated to neoliberalism on the economic front and a neoconservative worldview, twice thwarted Sanders’ chances in the presidential primaries. Bernie might actually have trumped Donald in 2016, unlike Hillary Clinton, who has lately rightly been pilloried for backing Trump’s ridiculous plans for Gaza.\n\nSpeaking of which, it is hard to overestimate the effect that the Israeli genocide has had on the consciousness — and conscience — of American voters, some of whom have realised that their tax dollars were paying for some of the most abominable atrocities witnessed in the 21st century. One doesn’t need to be a socialist or a Marxist to be appalled by the slaughter of infants. As Francesca Hong, the DSA candidate running for governor of Wisconsin, puts it: “Voters understand that a politician unwilling to fight against the massacre of children abroad (which we’re funding), they won’t stand up for folks back home.”\n\nRepublicans have again retreated into their anti-red comfort zone.\n\nThat’s not communism, it’s common sense. Public opinion in the US has been shifting against its leading Middle Eastern partner in crimes against humanity. Like its American counterpart, the Israeli regime no longer bothers to disguise its fangs. America’s 20th-century history shows that its reactionary politicians have relied on red scares before, notably following each of the world wars. Trump, who is old enough to remember the McCarthyite era, was mentored by Roy Cohn, the obnoxious lawyer who helped to send Ethel and Julius Rosenberg to the electric chair in 1953. The trouble for Trump is that the threat that could be conjured up while the Soviet Union still existed is hard to repeat. Anyone under 40 is unlikely to recall that particular bogeyman, and China’s emergence as an economic challenge has been based on what could be described as capitalism with Confucian characteristics. Besides, it’s an enviable success story, while Vladimir Putin’s Russia is worshipped as a role model by the religious right in Trump’s diminishing base.\n\nAt the same time, the Republicans can hardly afford to focus on a tanking economy or detested foreign policy as potential vote-winners. The DSA, on the other hand, has the example of Zohran Mam­dani to pr­o­ffer. Unlike most other politicians, the New York may­or has sou­ght, with some success, to implement his electoral promises. This does not involve throwing up barricades or storming any variant of the Bastille, but improvements in transport, housing, childcare and affordability. Who could possibly object to such initiatives amid the worst levels of wealth disparity in a nation where class differences have expanded since the Reagan era, with little relief from the Clinton and Obama presidencies that followed.\n\nPolling evidence suggests that the latest effort to conjure up a red scare might resonate with the MAGA core but tends to be disdained by the independent voters who make all the difference in elections — particularly the young who have no memory of the Cold War. The Trump regime, not surprisingly, continues simultaneously to make various other efforts to thwart the prospects of fair contests in the November midterms, including gerrymandering and the removal of officials who might question its antics. There is no prospect of a nationwide progressive earthquake, but even small tremors here and there would provide scope for the kind of hope that both the Republican and Democratic establishments wish to strangle.\n\nPublished in Dawn, July 15th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "International Relations / Political Science / Current Affairs",
+    "topic": "US Domestic Politics, Ideological Shifts, and Foreign Policy Implications",
+    "whyMatters": "This article critically analyzes the resurgence of 'red scare' rhetoric in US politics, offering insights into historical parallels, evolving public opinion, and the challenges faced by established political parties. It helps aspirants understand the complex interplay between domestic political strategies, economic inequalities, and foreign policy stances, particularly in the context of contemporary global events.",
+    "summary": [
+      "Donald Trump has significantly ramped up his anti-communist rhetoric, frequently invoking the term and presenting it as a greater threat to America than major historical events like the World Wars and 9/11.",
+      "The Republican Party is retreating into its anti-communist comfort zone, a reaction to the growing success of Democratic Socialists of America (DSA) candidates and the decreasing fear of 'socialism' among a segment of the American electorate.",
+      "The ongoing Israeli-Gaza conflict has profoundly impacted American voters' consciousness, leading many to question their government's funding of perceived atrocities and influencing their views on politicians' integrity.",
+      "The effectiveness of traditional 'red scare' tactics is diminishing due to changing demographics (younger voters unfamiliar with the Cold War), China's economic model (described as 'capitalism with Confucian characteristics'), and its status as an enviable success story."
+    ],
+    "facts": [
+      "Donald Trump invoked communism 81 times in his utterances and outbursts over a two-week period recently.",
+      "A decade ago, 'socialism' briefly became the most googled word in the US, largely influenced by Bernie Sanders's political rise.",
+      "Roy Cohn, who mentored Trump, helped to send Ethel and Julius Rosenberg to the electric chair in 1953 during the McCarthyite era."
+    ],
+    "academicReferences": [
+      "Richard Hofstadter, \"The Paranoid Style in American Politics\" (for understanding historical patterns of political paranoia and scapegoating in the US).",
+      "David Harvey, \"A Brief History of Neoliberalism\" (for contextualizing the economic ideologies of the Democratic Party establishment and the rise of wealth disparity).",
+      "Noam Chomsky, \"Hegemony or Survival: America's Quest for Global Dominance\" (for critical analysis of US foreign policy, interventionism, and its global impact)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Spectre",
+        "type": "noun",
+        "definition": "A ghost; something widely feared as a possible unpleasant or dangerous occurrence.",
+        "sentence": "A spectre seems to be haunting the US president, as he frequently invokes the threat of communism."
+      },
+      {
+        "word": "Pilloried",
+        "type": "verb",
+        "definition": "Attacked or ridiculed publicly.",
+        "sentence": "Hillary Clinton has lately been pilloried for backing Trump’s controversial plans for Gaza."
+      },
+      {
+        "word": "Gerrymandering",
+        "type": "noun",
+        "definition": "The practice of manipulating the boundaries of an electoral constituency so as to favor one party or class.",
+        "sentence": "The Trump regime's efforts to thwart fair contests in the November midterms include various tactics, such as gerrymandering."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary reason for the diminishing effectiveness of 'red scare' tactics in contemporary US politics?",
+        "options": [
+          "A) The Republican Party has adopted more moderate political stances, making such rhetoric less credible.",
+          "B) Younger voters are unfamiliar with the Cold War era, and China's economic model is seen as a success rather than a communist threat.",
+          "C) The Democratic Party has successfully rebranded socialism as a mainstream, non-threatening ideology.",
+          "D) Public opinion universally supports socialist policies, rendering anti-communist appeals irrelevant."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that 'Anyone under 40 is unlikely to recall that particular bogeyman, and China’s emergence as an economic challenge has been based on what could be described as capitalism with Confucian characteristics.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's central argument regarding Donald Trump's recent invocation of communism?",
+        "back": "Trump has intensified his anti-communist rhetoric, portraying it as a greater threat than historical crises like world wars and 9/11, and claiming Democrats have become communist."
+      },
+      {
+        "front": "How does the article explain the Democratic Party establishment's opposition to Bernie Sanders despite his brief popularity?",
+        "back": "The Democratic Party establishment, dedicated to neoliberalism and a neoconservative worldview, thwarted Sanders because his socialist ideas, while gaining public acceptance, challenged their foundational ideologies."
+      },
+      {
+        "front": "What significant global event does the article highlight as profoundly impacting American voters' consciousness and conscience?",
+        "back": "The Israeli genocide in Gaza, which has led many American voters to realize their tax dollars are funding atrocities, influencing their political views on politicians' willingness to fight injustice."
+      },
+      {
+        "front": "Besides changing demographics, what other factor does the article cite as weakening the impact of a 'red scare' related to China?",
+        "back": "China's economic success is based on 'capitalism with Confucian characteristics,' making it an 'enviable success story' rather than a traditional communist bogeyman for younger generations."
       }
     ]
   },
@@ -9167,814 +9948,6 @@
       {
         "front": "What critical challenges does the article identify in Pakistan's ability to translate its grand geoeconomic visions into reality?",
         "back": "Challenges include: reduced Chinese enthusiasm for Gwadar and CPEC due to security concerns, bureaucratic red tape, and most importantly, the lack of concrete plans and vision to assess future prospects, highlighting a gap between dreaming and strategic implementation."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782612881089-761",
-    "title": "The same reflex\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011284/the-same-reflex",
-    "date": "2026-06-28",
-    "author": "none@none.com (Muna Khan)",
-    "content": "THIRTEEN years ago, a young woman was gang-raped on a moving bus in Delhi, assaulted with a rod, and left to die. The case became a generational reckoning. Mass protests. New laws. The death penalty, eventually, for four of her attackers. The world watched India promise itself it would never let this happen again.\nIt happened again — and again. Last month, in a village in Bihar’s Begusarai district, a mother of four was gang-raped in her own home, assaulted with objects, one of which — a bullet casing — she carried to the hospital herself as evidence because no one else seemed inclined to look for it. According to the BBC, her husband said police initially refused to file a complaint. A private clinic turned her away. It took days, and her own collapsing body, before anyone treated what had happened to her as the emergency it was.\nI confess to a kind of foolishness. I had let myself believe that executing the culprits in 2020 meant something had shifted — that fear, finally, had been instilled where it needed to be. It hadn’t. More than 30,000 rape cases are still recorded in India every year. Most go unreported. The ones that surface do so not because the system worked, but because something about them — a video, a bullet casing, a particularly grotesque detail — broke through the numbness.\nPakistan has its own version of this same, exhausting lesson — most recently, the years it took the Supreme Court to exhaust Zahir Jaffer’s appeals for beheading Noor Mukadam in 2021.\nAnti-rape laws exist. But the crime doesn’t stop.\nEven as I write this, the list keeps growing. A three-year-old girl was found dead in Karachi, hours after she went missing while playing outside her home; police have confirmed evidence of sexual assault. Weeks earlier, in Jhang, a 17-year-old first-year college student was abducted, gang-raped, and died after being brought to a hospital unconscious. The investigations for both are still underway.\nThat gap between what the law promises and what it delivers is not the exception. It is the rule.\nAt a Senate human rights committee hearing last November, the national conviction rate for gender-based violence was put at around five per cent. In certain categories, it falls to 0.5pc. For domestic violence, 1.3pc.\nThese are not the numbers of a system struggling at the margins. They are the numbers of a system that does not, in any meaningful sense, prosecute this category of crime. Pakistan has the laws. It does not have the follow-through.\nSo, it should not have surprised me to read what happened this week when a woman in Karachi described, in a Facebook post, being threatened with rape at her own front door.\nShe had ordered groceries. The delivery rider later called, said he was in debt, asked for money. She declined to keep taking his calls. The next morning he showed up at her house, banged on her door, and sent her a message threatening rape. She had been fully covered when she answered her door the day before — head to toe, as she put it, anticipating exactly the question that was coming.\nThe question came anyway. In the comments under her post, the conversation did not settle on the man who had threatened her. It settled on her. The interrogation of her choices began almost instantly, with more energy and more specificity than anything directed at the man who had threatened to rape her for refusing to pay him.\nIt would be easy to call this a Pakistan problem, or an India problem — to draw the borders tight enough that the rot stays on the other side of them. That instinct, the othering, the quiet relief of ‘this isn’t us’, is its own kind of denial. It lets a society look at a number like 5pc and feel implicated by nothing.\nBut the pattern doesn’t respect borders. A mother in Begusarai is failed by a police station that won’t file her complaint. A woman in Karachi is failed by a comment section that interrogates her instead of the man banging on her door. Two countries, two languages, two entirely different incidents — and the same reflex, doing the same work: move the question away from what he did, and onto what she should have done differently to deserve not having it done to her.\nI don’t think hanging four men in Delhi fixed this. I don’t think one upheld death sentence in Islamabad fixes it either. Punishment, when it finally lands, can look like justice and still leave the machinery that failed to prevent the crime completely untouched. None of that requires a verdict to fix. It requires someone to stop asking why she opened the door, and start asking why we keep needing her to explain that she did.\nThe writer conducts writing workshops in Karachi.\nX: @LedeingLady\nPublished in Dawn, June 28th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Current Affairs / Gender Studies / Pakistan Affairs",
-    "topic": "Systemic Failures in Combating Gender-Based Violence in South Asia",
-    "whyMatters": "This article offers a critical comparative analysis of legal and societal responses to gender-based violence in India and Pakistan, highlighting the deep-seated systemic failures and victim-blaming culture. Aspirants can use its arguments to demonstrate a nuanced understanding of socio-legal challenges and the limitations of punitive measures alone.",
-    "summary": [
-      "Despite severe penalties and legal reforms, gender-based violence persists at high rates in both India and Pakistan, indicating a failure of the legal system to deter crime.",
-      "The official reporting and conviction rates for gender-based violence in Pakistan are alarmingly low (e.g., 5% overall, 1.3% for domestic violence), suggesting a systematic inability to prosecute these crimes meaningfully.",
-      "A pervasive 'same reflex' exists across borders, wherein the focus shifts from the perpetrator's actions to interrogating the victim's choices, thus perpetuating victim-blaming and hindering justice.",
-      "The article argues that mere punishment, even the death penalty, does not address the underlying 'machinery' of systemic failure and societal attitudes that allow such crimes to occur and go unaddressed."
-    ],
-    "facts": [
-      "More than 30,000 rape cases are recorded in India every year, with most going unreported.",
-      "Pakistan's national conviction rate for gender-based violence is approximately five per cent, falling to 0.5pc in certain categories.",
-      "The conviction rate for domestic violence in Pakistan stands at a mere 1.3pc."
-    ],
-    "academicReferences": [
-      "UN Women 'Ending Violence against Women' Reports (for global context on legal and societal challenges)",
-      "Human Rights Watch/Amnesty International Reports on Women's Rights in South Asia (for specific regional analysis)",
-      "The Protection Against Harassment of Women at the Workplace Act, 2010 (Pakistan) / Criminal Law (Amendment) Act, 2013 (India) (for relevant legal frameworks)"
-    ],
-    "vocabulary": [
-      {
-        "word": "generational reckoning",
-        "type": "noun phrase",
-        "definition": "A period when a society confronts and re-evaluates fundamental issues, often leading to significant changes.",
-        "sentence": "The Delhi gang-rape case became a generational reckoning, forcing India to confront its deep-seated issues regarding women's safety."
-      },
-      {
-        "word": "numbness",
-        "type": "noun",
-        "definition": "A state of emotional insensitivity or lack of reaction, often due to repeated exposure to distressing events.",
-        "sentence": "The author suggests that only particularly grotesque details break through the public numbness surrounding rampant violence."
-      },
-      {
-        "word": "implicated",
-        "type": "verb",
-        "definition": "To show someone to be involved in a crime or wrongdoing; to be affected or concerned by something.",
-        "sentence": "The low conviction rates mean society can look at the numbers and feel implicated by nothing, avoiding responsibility."
-      },
-      {
-        "word": "reflex",
-        "type": "noun",
-        "definition": "An action performed automatically and without conscious thought; in this context, an ingrained societal reaction.",
-        "sentence": "The 'same reflex' across both countries involves shifting blame from the perpetrator to the victim."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary argument the author makes about the effectiveness of punishment in addressing gender-based violence?",
-        "options": [
-          "Punishment, even the death penalty, has failed to fix the underlying systemic issues and societal attitudes.",
-          "The death penalty is the only effective deterrent but is not applied consistently.",
-          "New laws have successfully instilled fear and reduced crime, especially in India.",
-          "Societal reactions are improving, but legal frameworks are lagging behind."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that hanging four men in Delhi didn't fix the problem and that punishment 'can look like justice and still leave the machinery that failed to prevent the crime completely untouched.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the author identify as the 'same reflex' observed in both Indian and Pakistani societies regarding gender-based violence?",
-        "back": "The 'same reflex' is the tendency to move the question away from what the perpetrator did and onto what the victim should have done differently to avoid the incident."
-      },
-      {
-        "front": "According to the article, why do most rape cases in India go unreported, even with high numbers recorded annually?",
-        "back": "Most cases go unreported because the system fails to work effectively; only particularly shocking details like a video or evidence breaking through the numbness lead to reporting."
-      },
-      {
-        "front": "What do the low conviction rates for gender-based violence in Pakistan (e.g., 5% overall) imply about its legal system?",
-        "back": "They imply that Pakistan's legal system, 'in any meaningful sense, does not prosecute this category of crime' and lacks the necessary follow-through, despite having the laws."
-      },
-      {
-        "front": "Beyond punishment, what does the author suggest is necessary to truly fix the issue of gender-based violence and systemic failures?",
-        "back": "The author suggests fixing the 'machinery that failed to prevent the crime' and to 'stop asking why she opened the door, and start asking why we keep needing her to explain that she did.'"
-      }
-    ]
-  },
-  {
-    "id": "curated-1782698991613-355",
-    "title": "Guardians or captors: the two faces of humanity",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011285/guardians-or-captors-the-two-faces-of-humanity",
-    "date": "2026-06-28",
-    "author": "none@none.com (Athar Minallah)",
-    "content": "ON May 26, 2026, an elephant named Happy died at the Bronx Zoo in New York after more than 50 years in captivity and over two decades in effective solitude. Her death marked the end of a difficult life, but it also invites reflection on a legal and moral journey that connected a captive elephant in New York to a constitutional courtroom in Islamabad.\nTo understand Happy’s significance, it is necessary to begin not with animals, but with human beings.\nWhen I assumed office as chief justice of the Islamabad High Court (IHC) in 2018, one of my foremost concerns was ensuring that the court remained accessible to the vulnerable. Soon, the court became a forum for petitions involving enforced disappearances, arbitrary detention, suppression of dissent, persecution of journalists and abuse of state authority.\n    \nThese cases exposed a paradox at the heart of human society. The same intellect that enables justice and compassion can also be used to dominate and oppress. Authority entrusted for public good can become an instrument of suffering when left unchecked. Yet they also reinforced a foundational principle of constitutionalism: the law exists to protect the vulnerable from the abuse of power.\nAs these cases accumulated, a deeper question emerged: Why do human beings possess rights? The answer appeared straightforward. Every human being possesses life. Regardless of status, identity or circumstance, no life is inherently more valuable than another. Human dignity and equality arise from that simple truth. But another question followed. Is life valuable because it is human, or because it is life?\nWhy should life be treated differently when it exists in a non-human form?\nWhile this question was taking shape, three unusual petitions came before the court. One concerned Kaavan, an elephant confined for decades in Islamabad’s Murghazar Zoo. Another involved a black bear. A third related to the cruel treatment of stray dogs. A simple fact became unavoidable. They all possessed life. Like human beings, they experienced fear, pain, distress and deprivation. Their capacity to suffer arose from the same foundation that gives meaning to human rights: the possession of life itself.\nIt was at this stage that I encountered the case of Happy. Born in Asia around 1970, Happy was captured as a calf, separated from her family, and transported to the US. In 1977, she was placed in the Bronx Zoo, where she ultimately spent decades in isolation despite belonging to a species defined by deep social bonds.\n    \nHer confinement became the subject of litigation brought by the Nonhuman Rights Project, which asked courts in New York to consider whether an elephant could be entitled to liberty through a writ of habeas corpus. Although relief was denied, the case marked a turning point in legal discourse. Serious constitutional arguments were advanced on behalf of a non-human being seeking freedom, forcing courts and society to confront assumptions long taken for granted.\nThe arguments advanced on Happy’s behalf reinforced a conviction already forming in my mind: rights cannot depend upon resemblance to human beings. If rights depend upon intelligence, autonomy or cognitive capacity, then many human beings would fall outside their protection at different stages of life. Human rights are grounded in something more universal — life. Why, then, should life be treated differently when it exists in a non-human form?\nHappy’s case also highlighted the limitations of existing law. Her confinement was recognised as an ethical concern, yet no remedy was granted. Recognition without remedy is incomplete justice. When a court acknowledges the existence of injustice and yet fails to provide an effective remedy, it ceases to be merely a passive observer and beco­mes complicit in the perpetuation of that injustice.\n    \nWhen the IHC later addressed the case of Kaavan and 878 other animals confined in the Murghazar Zoo, it was not sufficient merely to acknowledge their suffering. Their rights had to be given practical effect. Kaavan was transferred to a sanctuary in Cambodia. Bears were relocated to Jordan. Hundreds of animals were moved to appropriate facilities, and the Murghazar Zoo was ultimately closed. These outcomes were not driven by emotions. They were grounded in a legal principle: if life has intrinsic value, then every living being has interests deserving protection. The law cannot recognise suffering in one living being while remaining indifferent to identical suffering in another merely because of species.\nHappy never came to Pakistan. She never app­e­ared before the IHC. Yet her case travelled across continents and contributed to a jurisprudence that restored liberty to hundreds of captive animals.\nHappy’s story forces us to confront two competing visions of humanity. One is the vision of dominion. It treats other living beings as objects to be used, confined or controlled. The other is the vision of stewardship. It recognises that power carries responsibility and that intelligence imposes an obligation of care rather than a licence for domination.\nThroughout my judicial experience, whether in cases involving human suffering or the confinement of animals, I encountered the same underlying question: how should power be exercised? The answer defines not only constitutionalism, but civilisation itself.\n    \nThere is also an irony that should not be overlooked. In the Global South, Kaavan and 878 other non-human beings were granted liberty through judicial intervention and transferred to environments consistent with their welfare and dignity.\nHappy, whose case inspired legal debate across jurisdictions and helped shape that jurisprudence, remained confined in a zoo in the Global North. She endured years of isolation and captivity and ultimately died without experiencing the freedom that so many argued she deserved. The contrast reminds us that progress is not measured by geography, wealth, or institutional prestige, but by the willingness to translate recognition of suffering into meaningful protection. Most importantly, Happy reminds us that humanity itself remains on trial. Every act of cruelty becomes evidence against us, while every act of compassion becomes evidence in our favour.\nAs the judge who authored the Murghazar jurisprudence, I can say that Happy played a significant role in shaping my understanding of rights. Most important; it reminded a constitutional court that its gravest failure would not be its inability to perceive injustice, but its unwillingness to remedy it. Her case made the IHC the first in human history to do what was hitherto unimaginable.\nHer physical life has ended, but her influence endures. Happy’s story is ultimately about conscience. It is about whether power will be used to dominate or to protect, and whether humanity will remain captors — or become guardians.\nThe writer is a former judge of the Supreme Court of Pakistan.\nPublished in Dawn, June 28th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Constitutional Law / Jurisprudence / Ethics",
-    "topic": "Evolution of Rights Jurisprudence, Animal Rights, and the Ethical Exercise of Power",
-    "whyMatters": "This article offers a unique judicial perspective on the universal grounding of rights, extending beyond human beings to all life forms. It is crucial for understanding the evolving concept of constitutionalism and the moral imperative of state institutions to protect the vulnerable, regardless of species.",
-    "summary": [
-      "The author observes a paradox: human intellect capable of justice can also oppress, and unchecked authority can become an instrument of suffering, emphasizing that law must protect the vulnerable.",
-      "The core argument for rights is grounded in the intrinsic value of 'life itself,' asserting that the capacity to suffer makes all living beings deserving of protection, transcending species boundaries.",
-      "Recognition of injustice by a court without providing an effective remedy is deemed incomplete justice, as it makes the court complicit in the perpetuation of that injustice.",
-      "Happy's story forces humanity to confront two competing visions: 'dominion' (treating other beings as objects) versus 'stewardship' (power carrying responsibility for care), ultimately questioning how power is exercised."
-    ],
-    "facts": [
-      "Happy, an elephant, died on May 26, 2026, at the Bronx Zoo after over 50 years in captivity and two decades in solitude.",
-      "The Islamabad High Court (IHC), under the author's leadership, granted liberty to Kaavan and 878 other animals from Murghazar Zoo, relocating them to sanctuaries and eventually closing the zoo.",
-      "The IHC became the first court in human history to extend a rights-based jurisprudence to hundreds of captive non-human beings, inspired partly by Happy's case."
-    ],
-    "academicReferences": [
-      "Constitutionalism and the Rule of Law (fundamental principles underpinning judicial activism for rights)",
-      "Peter Singer's 'Animal Liberation' (a foundational philosophical text for animal rights based on sentience and suffering)",
-      "Writ of Habeas Corpus (a legal instrument, as applied by the Nonhuman Rights Project for Happy, demonstrating the evolving application of legal remedies)"
-    ],
-    "vocabulary": [
-      {
-        "word": "paradox",
-        "type": "noun",
-        "definition": "a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
-        "sentence": "The article highlights the paradox of human intellect, capable of both immense justice and profound oppression."
-      },
-      {
-        "word": "jurisprudence",
-        "type": "noun",
-        "definition": "the theory or philosophy of law; a legal system.",
-        "sentence": "Happy's case contributed to a new jurisprudence that restored liberty to hundreds of captive animals."
-      },
-      {
-        "word": "complicit",
-        "type": "adjective",
-        "definition": "involved with others in an activity that is unlawful or morally wrong.",
-        "sentence": "When a court acknowledges injustice but fails to provide a remedy, it becomes complicit in its perpetuation."
-      },
-      {
-        "word": "stewardship",
-        "type": "noun",
-        "definition": "the job of supervising or taking care of something, such as an organization or property.",
-        "sentence": "The vision of stewardship recognizes that power carries responsibility and an obligation of care."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What foundational principle did the Islamabad High Court (IHC) judgment on animal rights establish, as described by the author?",
-        "options": [
-          "A) Rights are contingent on cognitive capacity.",
-          "B) Life's intrinsic value grants interests deserving protection, regardless of species.",
-          "C) Animal welfare is solely an ethical concern, not a legal one.",
-          "D) Courts are passive observers in matters of injustice."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that the IHC's judgment was grounded in the legal principle that if life has intrinsic value, then every living being has interests deserving protection, irrespective of species."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What paradox at the heart of human society did the author observe in early cases at the IHC?",
-        "back": "The same intellect enabling justice can dominate, and unchecked authority can cause suffering, exposing humanity's dual nature."
-      },
-      {
-        "front": "What crucial question did Happy's case and the Nonhuman Rights Project force courts to confront regarding non-human beings?",
-        "back": "Whether an elephant could be entitled to liberty through a writ of habeas corpus, challenging long-held assumptions about who can possess rights."
-      },
-      {
-        "front": "According to the author, why is 'recognition without remedy' considered incomplete justice by a court?",
-        "back": "Because when a court acknowledges injustice but fails to provide an effective remedy, it ceases to be a passive observer and becomes complicit in that injustice."
-      },
-      {
-        "front": "What are the 'two competing visions of humanity' highlighted by Happy's story concerning the exercise of power?",
-        "back": "The vision of dominion, which treats other living beings as objects, and the vision of stewardship, which recognizes power as carrying responsibility and an obligation of care."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782699141280-295",
-    "title": "Tourism trade imbalance",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2615306/tourism-trade-imbalance",
-    "date": "2026-06-27",
-    "author": "\n\t\t\t\teditorial\n\t\t\t",
-    "content": "We have been told for decades that Pakistan's breathtaking landscapes are the envy of the region and a potential tourism juggernaut, but a recent report by the Federation of Pakistan Chambers of Commerce and Industry (FPCCI) delivers a sobering reality check. In 2024, Pakistan earned $1.15 billion from foreign tourists while its citizens spent an estimated $2.4 billion abroad. This $1.25 billion deficit is a stark indictment of a sector that is failing to realise its vast potential.\n\nThe numbers are disappointing on multiple levels. Despite contributing nearly 5.9% to GDP and supporting 4.7 million jobs, tourism accounts for just 2.9% of Pakistan's total exports. This pales in comparison to other regional countries, with Pakistan languishing at 101st on the WEF's Travel and Tourism Development Index, far behind India (39th) and the UAE (18th). The FPCCI report identifies familiar complex visa regimes, fragmented governance, inadequate infrastructure and weak international promotion as the main factors restricting tourism.\n\nPakistan's assets are undeniable - the Karakoram range contains some of the most attractive peaks for mountaineers, the Kartarpur Corridor attracted over 45,000 Sikh Indian pilgrims in 2025 despite border tensions, and our Indus Valley Civilisation sites and Buddhist heritage sites are without comparison. But assets alone do not generate revenue.\n\nThe government must treat tourism as an economic priority if it wants to counter the trend of tourism exports dwarfing imports. Experts have suggested that Pakistan work on visa reforms, such as e-visas, which would make tourism easier for modern travellers. They insist certification and standard-setting for foreign tourism-related businesses should become a federal subject to ensure consistency - tourism was devolved under the 18th Amendment, and provinces quickly created their own differing standards that have led to extreme confusion for foreign tourists who try to book experiences on their own, without travel agents.",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Current Affairs",
-    "topic": "Tourism Sector Challenges and Economic Impact",
-    "whyMatters": "This article provides a critical analysis of Pakistan's tourism sector, highlighting a significant trade imbalance and systemic issues hindering its potential. While it does not directly address Pakistan's role in the Economic Cooperation Organization (ECO) or its future prospects, it offers valuable insights into a sector where effective regional policies and collaboration could potentially contribute to broader economic integration.",
-    "summary": [
-      "Pakistan faces a significant tourism trade deficit of $1.25 billion in 2024, earning $1.15 billion from foreign tourists while its citizens spent $2.4 billion abroad.",
-      "Despite possessing undeniable assets like the Karakoram range and ancient heritage sites, Pakistan's tourism sector underperforms due to complex visa regimes, fragmented governance, inadequate infrastructure, and weak international promotion.",
-      "Pakistan lags significantly behind regional peers, ranking 101st on the WEF's Travel and Tourism Development Index, compared to India (39th) and the UAE (18th).",
-      "To counter this trend, the government must prioritize tourism as an economic sector, implementing reforms such as e-visas and federalizing certification and standard-setting for tourism-related businesses, which were devolved under the 18th Amendment."
-    ],
-    "facts": [
-      "In 2024, Pakistan earned $1.15 billion from foreign tourists, while its citizens spent $2.4 billion abroad, creating a $1.25 billion deficit.",
-      "Tourism contributes nearly 5.9% to Pakistan's GDP and supports 4.7 million jobs, yet accounts for only 2.9% of total exports.",
-      "Pakistan ranks 101st on the WEF's Travel and Tourism Development Index, significantly behind India (39th) and the UAE (18th)."
-    ],
-    "academicReferences": [
-      "Federation of Pakistan Chambers of Commerce and Industry (FPCCI) Report on Tourism Sector (2024)",
-      "18th Amendment to the Constitution of Pakistan (regarding devolution of tourism)",
-      "World Economic Forum's (WEF) Travel and Tourism Development Index"
-    ],
-    "vocabulary": [
-      {
-        "word": "juggernaut",
-        "type": "noun",
-        "definition": "A huge, powerful, and overwhelming force or institution.",
-        "sentence": "Pakistan's breathtaking landscapes are considered a potential tourism juggernaut, but its potential remains unrealized."
-      },
-      {
-        "word": "indictment",
-        "type": "noun",
-        "definition": "A formal accusation or a strong indication that something is wrong or bad.",
-        "sentence": "The $1.25 billion deficit is a stark indictment of a sector failing to realize its vast potential."
-      },
-      {
-        "word": "languishing",
-        "type": "verb",
-        "definition": "To suffer from being forced to remain in an unpleasant place or situation.",
-        "sentence": "Pakistan is languishing at 101st on the WEF's Travel and Tourism Development Index."
-      },
-      {
-        "word": "devolved",
-        "type": "verb",
-        "definition": "To transfer (power or authority) to a lower level, especially from central government to local or regional administration.",
-        "sentence": "Tourism was devolved under the 18th Amendment, leading to fragmented standards."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was Pakistan's tourism trade deficit in 2024, according to the FPCCI report?",
-        "options": [
-          "$1.15 billion",
-          "$2.4 billion",
-          "$1.25 billion",
-          "$5.9 billion"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states Pakistan earned $1.15 billion and citizens spent $2.4 billion, resulting in a $1.25 billion deficit."
-      },
-      {
-        "question": "Which of the following is NOT identified as a main factor restricting tourism in Pakistan?",
-        "options": [
-          "Complex visa regimes",
-          "Fragmented governance",
-          "Excessive government investment",
-          "Weak international promotion"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article identifies complex visa regimes, fragmented governance, inadequate infrastructure, and weak international promotion as restricting factors, not excessive investment."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary economic challenge highlighted for Pakistan's tourism sector?",
-        "back": "The primary challenge is a significant tourism trade imbalance, with citizens spending considerably more abroad ($2.4 billion) than the country earns from foreign tourists ($1.15 billion), resulting in a $1.25 billion deficit."
-      },
-      {
-        "front": "How does Pakistan's tourism development compare to its regional peers according to the WEF Index?",
-        "back": "Pakistan ranks 101st on the WEF's Travel and Tourism Development Index, significantly lagging behind regional countries like India (39th) and the UAE (18th)."
-      },
-      {
-        "front": "What are the key structural issues identified by the FPCCI report hindering tourism growth?",
-        "back": "The FPCCI report identifies complex visa regimes, fragmented governance, inadequate infrastructure, and weak international promotion as key structural issues."
-      },
-      {
-        "front": "What policy recommendations are suggested to boost Pakistan's tourism sector?",
-        "back": "Recommended policy reforms include working on visa reforms (e.g., e-visas) and making certification and standard-setting for foreign tourism-related businesses a federal subject to ensure consistency, reversing issues caused by devolution under the 18th Amendment."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782526109403-104",
-    "title": "Dams on Chenab — a target?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010916/dams-on-chenab-a-target",
-    "date": "2026-06-26",
-    "author": "none@none.com (Ahmer Bilal Soofi)",
-    "content": "INDIA is fast-tracking at least four major hydro projects on the upper stretches of the Chenab, including Pakal Dul, Kiru, Kwar, Ratle and the massive Sawalkote project. Tenders have been issued. Several private consultants and contracting companies have entered the process, such as Afcon Infrastructure, Bharat Heavy Electricals, Andritz Hydro, Patel Engineering and others.\n    \nA legal question often asked by our think tanks is: can Pakistan carry out a strike against any dam, pondage or water tunnel that India says it will construct on the Chenab? The question is raised in the context of the very specific protection accorded to dams, dykes and similar sites during armed conflict under Article 56 of Additional Protocol I to the Geneva Conventions of 1949.\nThe reply is simple: such a structure, though civilian property, loses its protection rights when it is itself being used as a tool to achieve the military objective of subjugating a lower riparian. In this case, civilian infrastructure under construction, like a dam, is no longer protected because it is being built for military purposes.\nIndia’s openly owned narrative will help Pakistan argue successfully that the dams on the Chenab are being made with stated belligerent intent. For instance, India’s own minister for water resources, C.R. Patil, recently said “It is certain, not a single drop of water will go [to Pakistan] in the coming years”. This statement reflects the Indian government’s policy position. Neither recalled nor corrected by India’s foreign ministry or the Prime Minister’s Office, these remarks leave no doubt about India’s belligerent intent and hostile action, accompanied by its position that Operation Sindoor is not over.\nAccording to its version, holding the Indus Waters Treaty (IWT) in abeyance is one of several belligerent actions it can take during this ongoing self-declared war. Thus, an armed conflict situation continues between Pakistan and India.\nIndia is not holding back its belligerent actions and is continuing to wagewar through multiple means on Pakistan, including through its proxies launched from Afghanistan. This was the backdrop to the water minister’s statement, which is in line with Prime Minister Narendra Modi’s decision to divert water and prevent it from flowing to the lower riparian.\nIt is an outright threat to Pakistan that forceful means will be employed to deny Pakistanis their right to agriculture and subsistence. That’s how measures to prevent the construction of dams or diversion tunnels by India are justified under the well-known right of anticipatory self-defence. Pakistan will thus be justified if it chooses to act within the parameters of international law, or jus ad bellum, to take all necessary measures to stop, delay or fully prevent any such construction.\nBy holding the IWT in abeyance, India itself has withdrawn the traditional protection accorded to dams and dykes.\nHowever, let’s also see whether under jus in bello the dam can enjoy traditional protection during an armed conflict launched and continued by India. Article 56(1) of Additional Protocol I states that “works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attacks cause the release of dangerous forces and consequent severe losses among the civilian population”.\nA careful reading shows that while the protection is in general terms, there is an exception where the protected dam itself is likely to function or is actually functioning to achieve the enemy’s military objective. That is exactly the case for Pakistan.\nThis is further clarified in the same article where Para 56(2) intimates us that the special protection “shall cease (a) for a dam or dyke only if it is used for other than its normal functions in regular, significant and direct support of military operations and if such attack is the only feasible way to terminate support”.\nArticle 52 of Additional Protocol 1 likely underpinned the position of Pakistan’s defence minister when he stated that the construction of a dam would be considered an act of war and that Pakistan would respond. Its description of military objectives would certainly include any hydro project “which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralisation, in the circumstances ruling at the time, offers a definite military advantage”.\n    \nAs mentioned, India links the dam’s construction to the military objective of punishing Pakistan. Had it planned to build any dam pursuant to the IWT, then Pakistan could not have objected to its purpose. Ironically, by holding the treaty in abeyance, India itself has withdrawn the traditional protection accorded to dams and dykes in the law of war since it has declared that its construction is linked to achieving a military objective against Pakistan.\nIn preventing the construction of these controversial dams and other hydro projects, Pakistan seeks a military advantage that would reduce and degrade the capacity of the Indian army and Indian government to break the will of the people of Pakistan. Briefly then, what international law indicates is that even if India does not undertake a ground attack, the retention or delayed release of water to inflict damage on Pakistan’s agriculture, in fact, its entire food chain is reason enough to prevent such weaponised construction.\nDams are protected sites in any armed conflict on the basis of the principle that, in case they are hit, they release dangerous forces that destroy civilians and civilian property. If Article 56 is construed in light of the literal principle of interpretation, then a pondage or dam that is yet to be filled with water is not governed by the protection, as there is no dangerous force that may be unleashed if an empty dam or dam under construction is destroyed. From the point of commencing construction till its pondage is filled with water, the under-construction dam does not acquire protection under Additional Protocol 1 — a fact that is not likely to be lost on this country’s military planners.\nThe writer is an advocate of the Supreme Court and a former caretaker law minister.\nPublished in Dawn, June 26th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-IWT",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Indus Waters Treaty and Water Disputes between Pakistan and India",
-    "whyMatters": "This article provides a critical contemporary legal and political analysis of India's dam construction on the Chenab River in the context of the Indus Waters Treaty (IWT). It helps students understand the complex interplay between water distribution, international law, and bilateral relations, offering arguments Pakistan might employ to address perceived violations or threats.",
-    "summary": [
-      "India is fast-tracking multiple hydro projects on the Chenab River with stated belligerent intent, aiming to deny water to lower riparian Pakistan.",
-      "Under international law (Additional Protocol I, Geneva Conventions), dams, though civilian, lose protection if used as tools for military objectives against a lower riparian, justifying Pakistan's potential actions.",
-      "India's explicit statements and its stance of holding the IWT in abeyance are cited as evidence of belligerent intent, providing a basis for Pakistan to invoke anticipatory self-defence.",
-      "An under-construction or empty dam, lacking the potential to release dangerous forces, may not be afforded the traditional protection under Article 56 of Additional Protocol I, a crucial detail for military planners."
-    ],
-    "facts": [
-      "India is fast-tracking at least four major hydro projects on the upper stretches of the Chenab, including Pakal Dul, Kiru, Kwar, Ratle, and the massive Sawalkote project.",
-      "India's minister for water resources, C.R. Patil, stated: “It is certain, not a single drop of water will go [to Pakistan] in the coming years”.",
-      "Key international legal instruments cited are Article 56 and Article 52 of Additional Protocol I to the Geneva Conventions of 1949."
-    ],
-    "academicReferences": [
-      "Additional Protocol I to the Geneva Conventions of 1949 (specifically Articles 56 and 52)",
-      "Indus Waters Treaty (IWT) of 1960",
-      "Jus ad bellum (international law on the legality of resorting to war) / Jus in bello (international humanitarian law)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Riparian",
-        "type": "adjective",
-        "definition": "Relating to or located on the banks of a river or stream.",
-        "sentence": "As a lower riparian state, Pakistan is highly dependent on the water flows from upstream India."
-      },
-      {
-        "word": "Belligerent",
-        "type": "adjective",
-        "definition": "Hostile and aggressive, engaged in a war or conflict.",
-        "sentence": "The article portrays India's actions and statements as reflecting a belligerent intent against Pakistan."
-      },
-      {
-        "word": "Abeyance",
-        "type": "noun",
-        "definition": "A state of temporary disuse or suspension.",
-        "sentence": "By holding the Indus Waters Treaty in abeyance, India itself has complicated the legal framework for water sharing."
-      },
-      {
-        "word": "Jus ad bellum",
-        "type": "noun phrase",
-        "definition": "The set of criteria that are to be consulted before engaging in war; Latin for 'right to war'.",
-        "sentence": "Pakistan's actions to prevent dam construction would be justified under jus ad bellum if it falls within international law parameters of anticipatory self-defence."
-      },
-      {
-        "word": "Jus in bello",
-        "type": "noun phrase",
-        "definition": "The law that governs the way in which warfare is conducted; Latin for 'justice in war'.",
-        "sentence": "The article also considers whether under jus in bello, a dam can enjoy traditional protection during an armed conflict launched by India."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, under what circumstances does a dam lose its protection rights during armed conflict as per Article 56 of Additional Protocol I?",
-        "options": [
-          "A) When it is used as a tool to achieve a military objective of subjugating a lower riparian.",
-          "B) When it is located in a militarily sensitive zone.",
-          "C) When it is privately owned and not government property.",
-          "D) When it is designed to produce electricity for civilian use."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'such a structure, though civilian property, loses its protection rights when it is itself being used as a tool to achieve the military objective of subjugating a lower riparian.'"
-      },
-      {
-        "question": "Which of the following is NOT explicitly mentioned as one of the major hydro projects India is fast-tracking on the Chenab River?",
-        "options": [
-          "A) Pakal Dul",
-          "B) Kiru",
-          "C) Mangla",
-          "D) Ratle"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article lists Pakal Dul, Kiru, Kwar, Ratle, and Sawalkote. Mangla Dam is on the Jhelum River, not the Chenab."
-      },
-      {
-        "question": "What is the significance of the Indian Minister for Water Resources, C.R. Patil's statement, 'It is certain, not a single drop of water will go [to Pakistan] in the coming years,' according to the article?",
-        "options": [
-          "A) It demonstrates India's commitment to water-sharing agreements.",
-          "B) It signals a new phase of cooperation on water management.",
-          "C) It reflects India's belligerent intent and policy position against Pakistan.",
-          "D) It indicates a temporary measure due to water scarcity in India."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that this statement 'reflects the Indian government’s policy position' and 'leave no doubt about India’s belligerent intent and hostile action.'"
-      },
-      {
-        "question": "According to the article's interpretation of Article 56, when does an under-construction dam *not* acquire protection under Additional Protocol I?",
-        "options": [
-          "A) Before its pondage is filled with water.",
-          "B) If it is primarily for irrigation purposes.",
-          "C) If it is built with international funding.",
-          "D) If it is less than 50% complete."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article argues that 'a pondage or dam that is yet to be filled with water is not governed by the protection, as there is no dangerous force that may be unleashed if an empty dam or dam under construction is destroyed.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article link India's dam construction on the Chenab to a 'military objective'?",
-        "back": "The article cites India's 'openly owned narrative' and explicit statements by its Water Resources Minister, C.R. Patil, indicating an intent to deny water to Pakistan, which it interprets as a military objective of subjugating a lower riparian."
-      },
-      {
-        "front": "What is the article's core argument regarding the protection of dams under international law (Additional Protocol I) if they are used for military purposes?",
-        "back": "The article argues that dams, though civilian property, lose their protection under Article 56 of Additional Protocol I when used as a tool to achieve military objectives, such as subjugating a lower riparian through water denial."
-      },
-      {
-        "front": "How does India's alleged 'holding the IWT in abeyance' impact the traditional protection accorded to dams, according to the article?",
-        "back": "The article argues that by holding the IWT in abeyance, India itself has withdrawn the traditional protection accorded to dams and dykes under the law of war, especially since it links dam construction to achieving a military objective."
-      },
-      {
-        "front": "What is the critical distinction the article makes regarding the protection of an under-construction dam under Additional Protocol I?",
-        "back": "The article posits that an under-construction or empty dam, before its pondage is filled with water, may not acquire protection under Additional Protocol I because there are no 'dangerous forces' to be unleashed, thus not meeting the literal interpretation of Article 56."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782526261021-515",
-    "title": "Up in smoke\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010904/up-in-smoke",
-    "date": "2026-06-26",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN is watching an epidemic unfold as the menace of narcotic abuse hits every fourth household in Karachi alone. From a transit passage, the country is now a leading consumer state. A 2022 UN report estimated that 7.6m people were addicts in Pakistan. Recent figures suggest a shocking 9m, with thousands added annually. The curse permeates race, status and ethnicity. It saturates posh private schools as severely as it does public colleges and indigent sections. A 2022 ANF-related survey found that 53pc of university students have experienced drugs, with almost a third confessing recent use. Heroin, cocaine, synthetic drugs and tranquillisers are passed on with troubling speed. Indeed, the drug cloud is the result of neglecting both international conventions and domestic laws.\nOn the International Day against Drug Abuse and Illicit Trafficking, the World Drug Report says the number of drug users stands at “nearly 316m” globally. Pakistan has several fronts to tackle. First, it must treat addiction as a mental health and medical concern, not a moral flaw. Stigma and punitive attitudes force victims to disappear, leaving dealers free to peddle their poison. Second, corruption in law enforcement has only resulted in ineffective crackdowns, while scarce resources often dampen honest action. The scenario worsens when drug cartels, busted by police and the ANF, are rarely convicted. Only swift trials will ensure that the fear of punishment prevails. Additionally, border security must be fortified in Balochistan and KP where traffickers operate without fear. Third, every institution should frame narcotic policies supported by random testing, counselling and timely rehab referrals. Provincial education and health departments need to ensure anti-drug modules exist in curricula with easy access to mental healthcare. A rehabilitation framework comprising support groups and sanatoriums promise to cauterise the scourge. It must be remembered that addiction rips through victims to engulf families and communities.\nPublished in Dawn, June 26th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Current Affairs / Pakistan Affairs / Social Issues / Ethics",
-    "topic": "Drug Abuse in Pakistan: Causes, Consequences, and Policy Recommendations",
-    "whyMatters": "This article provides critical, up-to-date statistics and a multi-faceted analysis of the drug epidemic in Pakistan, essential for essays and analytical questions on social problems. It offers actionable policy recommendations that demonstrate a well-rounded understanding of governance and social welfare for competitive exams.",
-    "summary": [
-      "Pakistan is facing a severe drug abuse epidemic, transforming from a transit country to a leading consumer state with an estimated 9 million addicts, affecting all socioeconomic strata, including a significant percentage of university students.",
-      "The persistence of the drug menace is attributed to the neglect of international conventions and domestic laws, pervasive corruption in law enforcement, weak border security in regions like Balochistan and KP, and ineffective judicial processes leading to rare convictions of drug cartels.",
-      "A fundamental shift is needed to treat addiction as a mental health and medical concern, rather than a moral flaw, to reduce stigma and encourage victims to seek help instead of disappearing from the system.",
-      "A comprehensive national strategy requires fortifying border security, implementing swift trials for traffickers, developing institution-wide anti-narcotic policies with random testing and counselling, and integrating anti-drug modules into educational curricula alongside accessible mental healthcare and rehabilitation frameworks."
-    ],
-    "facts": [
-      "A 2022 UN report estimated 7.6 million drug addicts in Pakistan, with recent figures suggesting an increase to 9 million.",
-      "A 2022 ANF-related survey revealed that 53% of university students in Pakistan have experienced drugs, and nearly a third confessed recent use.",
-      "Globally, the World Drug Report indicates the number of drug users stands at 'nearly 316 million'."
-    ],
-    "academicReferences": [
-      "UN Conventions on Narcotic Drugs (e.g., Single Convention of 1961, Convention on Psychotropic Substances of 1971, UN Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances of 1988)",
-      "World Drug Report (published annually by the United Nations Office on Drugs and Crime - UNODC)",
-      "International Day against Drug Abuse and Illicit Trafficking"
-    ],
-    "vocabulary": [
-      {
-        "word": "menace",
-        "type": "noun",
-        "definition": "a person or thing that is likely to cause harm; a threat or danger",
-        "sentence": "PAKISTAN is watching an epidemic unfold as the menace of narcotic abuse hits every fourth household in Karachi alone."
-      },
-      {
-        "word": "permeates",
-        "type": "verb",
-        "definition": "spread throughout (something); pervade",
-        "sentence": "The curse permeates race, status and ethnicity."
-      },
-      {
-        "word": "indigent",
-        "type": "adjective",
-        "definition": "poor; needy",
-        "sentence": "It saturates posh private schools as severely as it does public colleges and indigent sections."
-      },
-      {
-        "word": "cauterise",
-        "type": "verb",
-        "definition": "to stop the spread of something undesirable, as if by burning it away",
-        "sentence": "A rehabilitation framework comprising support groups and sanatoriums promise to cauterise the scourge."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a key reason for the ineffective crackdowns on drug cartels in Pakistan?",
-        "options": [
-          "A) Insufficient international funding for anti-drug operations",
-          "B) Corruption in law enforcement leading to rare convictions",
-          "C) A lack of public awareness campaigns about drug abuse",
-          "D) The absence of dedicated anti-narcotics forces"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'corruption in law enforcement has only resulted in ineffective crackdowns, while scarce resources often dampen honest action. The scenario worsens when drug cartels, busted by police and the ANF, are rarely convicted.'"
-      },
-      {
-        "question": "What paradigm shift does the article recommend for addressing drug addiction?",
-        "options": [
-          "A) Imposing harsher penalties for drug users and dealers",
-          "B) Treating addiction as a mental health and medical concern, not a moral flaw",
-          "C) Establishing more punitive rehabilitation centers",
-          "D) Focusing solely on religious teachings to combat addiction"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'First, it must treat addiction as a mental health and medical concern, not a moral flaw. Stigma and punitive attitudes force victims to disappear...'"
-      },
-      {
-        "question": "Which two Pakistani provinces are specifically highlighted as needing fortified border security to curb drug trafficking?",
-        "options": [
-          "A) Sindh and Punjab",
-          "B) Khyber Pakhtunkhwa (KP) and Balochistan",
-          "C) Gilgit-Baltistan and Azad Kashmir",
-          "D) Punjab and Balochistan"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article recommends: 'Additionally, border security must be fortified in Balochistan and KP where traffickers operate without fear.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core transformation Pakistan has undergone regarding the global drug trade, as highlighted in the article?",
-        "back": "Pakistan has transformed from primarily being a transit passage for drugs to becoming a leading consumer state."
-      },
-      {
-        "front": "According to the article, why do punitive attitudes hinder efforts to combat drug addiction?",
-        "back": "Punitive attitudes and stigma force victims to disappear from the system, preventing them from seeking help and allowing dealers to continue operating freely."
-      },
-      {
-        "front": "What institutional-level policy changes does the article suggest for educational and health departments?",
-        "back": "Provincial education and health departments need to ensure anti-drug modules exist in curricula with easy access to mental healthcare and a rehabilitation framework."
-      },
-      {
-        "front": "What role do 'swift trials' play in the article's proposed strategy to combat drug cartels?",
-        "back": "Swift trials are crucial to ensure that the fear of punishment prevails, as currently, drug cartels are rarely convicted despite being busted, thus diminishing deterrence."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782525407027-227",
-    "title": "Why do nations fail?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010917/why-do-nations-fail",
-    "date": "2026-06-26",
-    "author": "none@none.com (Zafar Mirza)",
-    "content": "THEY fail when they exclude people from effectively participating in the political process — that is, when a powerful minority takes over the government and creates a system, including laws, for its own benefit and not for the people at large. The extension of this political exclusion is economic exclusion — in other words, when the powerful and rich minority create extractive economic institutions, whereby they shield and perpetuate their own economic interests by extracting wealth from the national resources and from the people at large.\nThis is the central argument of an influential book Why Nations Fail: the Origins of Power, Prosperity and Poverty by Turkish-American economist Daron Acemoglu and British-American economist and political scientist James Robinson. Both are from the Massachusetts Institute of Technology. They, along with Simon Johnson, shared the 2024 Nobel Prize for their work on institutions and prosperity. Their scholarship is now known as the New Institutional School in economics.\nThere are few books which have captured my imagination like this one. The reason, of course, is the situation in Pakistan. Their institutional reform theory and daily life in the country makes the book essential reading for those of us who can read and write. Especially those who think they have been bestowed with the mystical power to read and understand all the problems of a complex society like ours and know how to fix it!\nIt is one of the books on my bedside table. The current budget announcement and the depressing discussions around it made me go back to it to appreciate its economic and historical discourse and to once again try to understand why we are failing, and what needs to be done to exit this downward vicious spiral we are caught in — knowingly, deliberately, explicitly and shamelessly.\nThose who established pluralistic political systems and inclusive economic institutions prospered.\nA week ago, Waqar Wadho wrote an excellent article on these pages titled ‘Inefficient by design’ in which he also began with Daron Acemoglu and James Robinson and their theory of inefficient institutions. He made the profound observation that the “puzzle of persistent underdevelopment dissolves once you accept the premise that groups holding political power choose policies, not to maximise aggregate welfare, but to transfer resources from the rest of society to themselves”. He then expands on the example of the recent petroleum levy.\nI tweeted his article as a ‘must read’ and then received a message from our respected reformist Dr Ishrat Husain, who reminded me of his 2018 book Governing the Ungovernable with the subtitle Institutional Reforms for Democratic Governance.\nChapter 16 of Dr Husain’s book is titled ‘Restructuring Key Institutions’, in which he also bases his analysis and recommendations on Why Nations Fail? Something very well-articulated in the beginning of this chapter is: “Just as reforming economic institutions without changing the political equilibrium may not improve the institutional equilibrium, and therefore changing de jure power while leaving the sources of de facto power intact, may have little impact on economic performance. It is because even if de jure and de facto power change, those who acquire the power in the new political equilibrium may themselves not have the correct incentives”.\nIn the 500-plus pages Why Nations Fail? the authors begin by disproving all the popular theories regarding why some nations excel more than others. Is it geography, or weather, or culture, or religion, or knowledge? One by one they dispense with each by providing convincing examples of some countries that, while being neighbours with the same geography, history, culture, religion, etc, have, politically and economically, developed very differently.\nThere was one Korea until 1953. Today, South Korea is one of the 10 fastest-growing economies in Asia with a $35,000-$40,000 per capita income, while North Korea is among the poorest countries in the continent with $700-$2,000 per capita. South Korea has regularly conducted elections and has become an inclusive society in terms of political participation and equal economic opportunity for its citizens, which has bred innovation and technology. North Korea has had single-party rule for over 70 years, which is also single-family rule. In 1970, South Korea’s per capita income was $250-$300 while Pakistan’s was $180-$200.\nThere is also the case of Nogales, Arizona, and Nogales, Sonora, only divided by a fence and a road. The former falls in the US and the latter in Mexico. There are huge differences in incomes and social indicators between the two because they have developed different political and economic institutions. Closer to home, comparisons of social and many economic indicators between Pakistan and Bangladesh are instructive. Not that everything is milk and honey in Bangladesh but this comparison is most relevant. In 1971, per capita income in West Pakistan was $180-$200 and in East Pakistan $90-$130. Today, it is $2,500-$2,800 in Bangladesh and $1,600-$1,800 in Pakistan. Adult literacy in East Pakistan in 1971 was 15-20 per cent and West Pakistan 20-25pc. Today, it is 75-77pc in Bangladesh and 60-62pc in Pakistan.\nAfter rejecting these ill-founded theories, the authors come back to institutions and provide detailed examples of the rise and fall of nations from all continents, and from mediaeval times to date. It is an amazing historical survey of economic development or the lack of it. Those who established pluralistic political systems and inclusive economic institutions prospered with the proverbial rising ocean lifting all the boats and those who could not take this path, became poorer, albeit with a rich elite, which was also not sustainable in the longer run.\nOnce pluralistic political institutions are established, inclusive economic institutions follow. The central government has to ensure the rule of law, inclusive lawmaking and universal property rights including time-bound intellectual property rights. All this spur competition, which leads to technological development and innovation, and local and foreign investment. This in a nutshell is the story of the rise of Britain, starting with the Magna Carta in 1215, which curtailed the powers of king in favour of the barons, and the glorious revolution of 1688 when parliament prevailed over the monarch. The Industrial Revolution was born out of these institutions, and the rest is history.\nThe writer is a former SAPM on health with ministerial status, adjunct professor of health systems and president of the Pakistan Association of Lifestyle Medicine.\nzedefar@gmail.com\nPublished in Dawn, June 26th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Economics / Political Science / Governance / Pakistan Affairs",
-    "topic": "Institutional Failure, Inclusive Institutions, and National Development",
-    "whyMatters": "This article introduces the Nobel Prize-winning theory of Acemoglu and Robinson on why nations fail, attributing it to extractive institutions. It provides a crucial framework for analyzing Pakistan's socio-economic challenges and understanding the prerequisites for prosperity in competitive exams.",
-    "summary": [
-      "Nations fail when powerful minorities establish politically exclusive systems, creating laws and governance structures for their own benefit rather than for the general populace.",
-      "Political exclusion extends to economic exclusion, where dominant groups create extractive economic institutions to perpetually shield their interests and extract wealth from national resources and citizens.",
-      "Conversely, nations prosper by establishing pluralistic political systems and inclusive economic institutions that ensure broad participation, rule of law, universal property rights, and foster competition, innovation, and investment.",
-      "The authors of 'Why Nations Fail' systematically disprove alternative theories for national success (geography, culture, religion, knowledge), asserting that institutions are the primary determinants of prosperity."
-    ],
-    "facts": [
-      "South Korea's current per capita income: $35,000-$40,000 (vs. North Korea's $700-$2,000).",
-      "Bangladesh's current per capita income: $2,500-$2,800 (vs. Pakistan's $1,600-$1,800).",
-      "Bangladesh's current adult literacy rate: 75-77% (vs. Pakistan's 60-62%)."
-    ],
-    "academicReferences": [
-      "Daron Acemoglu and James Robinson's 'Why Nations Fail: The Origins of Power, Prosperity, and Poverty' (foundational text of the New Institutional School).",
-      "Dr. Ishrat Husain's 'Governing the Ungovernable: Institutional Reforms for Democratic Governance' (applies institutional theory to Pakistan).",
-      "The New Institutional School in economics (awarded the 2024 Nobel Prize to Acemoglu, Robinson, and Johnson for their work)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Extractive",
-        "type": "adjective",
-        "definition": "Designed to extract or take resources, often unfairly, for the benefit of a select few.",
-        "sentence": "The powerful and rich minority create extractive economic institutions, whereby they shield and perpetuate their own economic interests by extracting wealth from the national resources."
-      },
-      {
-        "word": "Pluralistic",
-        "type": "adjective",
-        "definition": "Characterized by the presence and acceptance of many different groups, interests, or beliefs within a society or government.",
-        "sentence": "Those who established pluralistic political systems and inclusive economic institutions prospered."
-      },
-      {
-        "word": "Perpetuate",
-        "type": "verb",
-        "definition": "To make something continue indefinitely or keep something going over time.",
-        "sentence": "They shield and perpetuate their own economic interests by extracting wealth from the national resources."
-      },
-      {
-        "word": "Dispense with",
-        "type": "phrasal verb",
-        "definition": "To get rid of or do without something.",
-        "sentence": "One by one they dispense with each by providing convincing examples."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to Acemoglu and Robinson, which of the following is the primary reason for national failure?",
-        "options": [
-          "A) Adverse geographical conditions",
-          "B) Predominant religious beliefs",
-          "C) Exclusive political and economic institutions",
-          "D) Lack of natural resources"
-        ],
-        "answerIndex": 2,
-        "explanation": "The central argument of 'Why Nations Fail' is that political and economic exclusion, leading to extractive institutions, is the primary cause of national failure, not geography, culture, or religion."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core distinction between 'extractive' and 'inclusive' institutions as discussed in the article?",
-        "back": "Extractive institutions are designed by a powerful minority to concentrate wealth and power for their own benefit, while inclusive institutions allow broad participation, enforce rule of law, and provide equal opportunities for all citizens, fostering innovation and prosperity."
-      },
-      {
-        "front": "How do the authors of 'Why Nations Fail' address alternative theories for national prosperity like geography, culture, or religion?",
-        "back": "They disprove these theories by providing comparative examples of geographically, culturally, or religiously similar countries (e.g., North/South Korea, Nogales US/Mexico) that have developed vastly differently due to their distinct political and economic institutions."
-      },
-      {
-        "front": "According to the article, what key elements follow the establishment of pluralistic political institutions and contribute to a nation's prosperity?",
-        "back": "Once pluralistic political institutions are established, inclusive economic institutions follow, ensuring the rule of law, inclusive lawmaking, and universal property rights (including intellectual property rights), which spur competition, technological development, innovation, and investment."
-      },
-      {
-        "front": "Provide two real-world comparisons mentioned in the article that illustrate the impact of institutional differences on national development.",
-        "back": "The article compares South Korea and North Korea, showing stark differences in per capita income and societal inclusiveness due to their institutional divergence post-1953. It also compares Nogales, Arizona (USA) and Nogales, Sonora (Mexico), separated by a fence but with vastly different social and economic indicators due to differing institutions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782525617948-653",
-    "title": "Missing the mark\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010905/missing-the-mark",
-    "date": "2026-06-26",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S commitment to the SDGs is routinely reaffirmed, but the gap between promises and progress continues to widen. A meeting between First Lady Aseefa Bhutto-Zardari and the UN country team highlighted priorities such as public health, nutrition, education, climate resilience and women’s empowerment — areas where progress is urgently needed. Yet, with fewer than four years remaining until the 2030 deadline, Pakistan is off-track on many of the goals it pledged to achieve. Cooperation with the UN is valuable, but Pakistan cannot rely on international partners to compensate for weak governance and inconsistent implementation at home. The SDGs are benchmarks for improving lives, not just global commitments. Polio is the clearest example. Despite decades of vaccination campaigns, billions of rupees in spending and sustained foreign aid, we remain one of only two countries where the disease is still endemic. The UN has warned that the coming year will be decisive, but technology alone will not suffice. AI may improve outreach, but it cannot replace routine immunisation, effective local administration, community trust or political resolve. Similar shortcomings persist elsewhere. Around 41pc of Pakistani children suffer from stunting, maternal anaemia remains widespread, adolescent pregnancies continue to endanger mothers and infants, and millions still lack access to quality education and healthcare.\nThese failures reflect a broader inability to translate policy into results. Climate change is placing pressure on strained public services, while poverty, gender inequality and poor sanitation continue to undermine development. Pakistan should therefore treat the SDGs as the foundation of national policymaking rather than as commitments revisited during high-level meetings. Federal and provincial governments must coordinate more effectively, strengthen local institutions and ensure that development spending produces measurable outcomes instead of political dividends. Reliable data, monitoring and sustained investment in health, education and nutrition are essential. International agencies can provide expertise and support, but they cannot substitute for domestic leadership. Missing the SDG targets would mean condemning another generation of Pakistanis to preventable disease, chronic malnutrition and persistent inequality. Can the state deliver the essentials? Pakistan still has time to answer that question in the affirmative, but only if urgency replaces complacency.\nPublished in Dawn, June 26th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / Current Affairs / Governance / Social Issues",
-    "topic": "Sustainable Development Goals (SDGs) in Pakistan: Challenges and Way Forward",
-    "whyMatters": "This article offers a critical analysis of Pakistan's progress on Sustainable Development Goals (SDGs), highlighting key challenges such as weak governance and implementation gaps. It provides concrete examples of failures in critical sectors, which are essential for forming nuanced arguments in essays and analytical questions related to national development and international commitments.",
-    "summary": [
-      "Pakistan routinely reaffirms commitment to SDGs, but progress remains significantly off-track, with a widening gap between promises and implementation.",
-      "The country cannot solely rely on international partners or technology (like AI) to compensate for weak domestic governance, inconsistent implementation, and lack of political resolve.",
-      "Specific failures are evident in public health (polio endemicity, child stunting, maternal health), education, and climate resilience, reflecting a broader inability to translate policy into measurable results.",
-      "The article advocates for treating SDGs as the foundation of national policymaking, demanding effective federal-provincial coordination, stronger local institutions, reliable data, and sustained domestic investment rather than political dividends."
-    ],
-    "facts": [
-      "Fewer than four years remain until the 2030 deadline for achieving SDGs.",
-      "Pakistan is one of only two countries where polio remains endemic despite decades of vaccination campaigns and foreign aid.",
-      "Approximately 41% of Pakistani children suffer from stunting, and maternal anaemia is widespread."
-    ],
-    "academicReferences": [
-      "United Nations Development Programme (UNDP) Human Development Report (latest edition)",
-      "Paris Agreement on Climate Change (2015)",
-      "Pakistan Vision 2025 document (Chapter on Social Sector Development)"
-    ],
-    "vocabulary": [
-      {
-        "word": "reaffirmed",
-        "type": "verb",
-        "definition": "To state again strongly; confirm.",
-        "sentence": "The government reaffirmed its commitment to poverty alleviation during the summit."
-      },
-      {
-        "word": "endemic",
-        "type": "adjective",
-        "definition": "Regularly found among a particular people or in a certain area.",
-        "sentence": "Malaria is still endemic in many tropical regions, posing a constant health threat."
-      },
-      {
-        "word": "stunting",
-        "type": "noun",
-        "definition": "The impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation.",
-        "sentence": "Addressing child stunting requires a multi-sectoral approach, including improved nutrition and healthcare."
-      },
-      {
-        "word": "complacency",
-        "type": "noun",
-        "definition": "A feeling of uncritical satisfaction with oneself or one's achievements.",
-        "sentence": "The team's complacency led to a shocking defeat against a supposedly weaker opponent."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT identified in the article as a key factor to achieve SDG targets in Pakistan?",
-        "options": [
-          "Stronger local institutions",
-          "Increased reliance on international aid",
-          "Effective federal and provincial coordination",
-          "Sustained investment in health, education, and nutrition"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that Pakistan cannot rely on international partners to compensate for domestic issues, implying that increased reliance on aid is not a solution but a dependency, while emphasizing the need for domestic leadership, coordination, and investment."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism leveled against Pakistan's approach to SDG commitments?",
-        "back": "The primary criticism is the widening gap between routine reaffirmation of commitments and actual on-ground progress, reflecting a failure to translate policy into measurable results."
-      },
-      {
-        "front": "How does the article suggest Pakistan should reframe its approach to the SDGs?",
-        "back": "Pakistan should treat the SDGs as the foundation of national policymaking, rather than merely commitments revisited during high-level meetings."
-      },
-      {
-        "front": "What specific examples does the article provide to illustrate Pakistan's failure in public health?",
-        "back": "Polio remaining endemic, 41% of children suffering from stunting, widespread maternal anaemia, and adolescent pregnancies endangering mothers and infants."
-      },
-      {
-        "front": "According to the article, what is crucial for development spending to be effective?",
-        "back": "Development spending must produce measurable outcomes instead of merely political dividends, supported by reliable data, monitoring, and sustained investment in key sectors."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782526022317-386",
-    "title": "Unintended consequences\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2010907/unintended-consequences",
-    "date": "2026-06-26",
-    "author": "none@none.com (Quatrina Hosain)",
-    "content": "THE illegal and ill-advised US and Israeli war in Iran has apparently led to a major rethink in Arab capitals as they examine the post-ceasefire scenario. Iranian President Masoud Pezeshkian gave the first public hint of a new, embryonic security architecture emerging for West Asia and the Middle East during his recent state visit to Pakistan.\nCalling for a ‘united front’ of Muslim nations, he elaborated on extending a “hand of friendship” and a new regional security structure. His statement follows a series of diplomatic moves and countermoves after the war in Iran left a security vacuum in the region, particularly in the Gulf Cooperation Council (GCC) states.\nThe political and military dynamic in the region is moving at its own pace, separate from the sporadic and fractious negotiations between the US and Iran, taking shape in the form of quiet discussions between regional players. A regional security architecture comprising Pakistan, Iran, Turkiye, the GCC, and Egypt, perhaps later extending to Turkmenistan, Uzbekistan, Jordan and others, would be a historic paradigm shift in the geopolitical landscape.\nThe thaw in relations between Iran and the Gulf Arab states comes after decades of mutual hostility, but it is clear that Saudi Arabia has paved the way for the warming ties. Iran repeatedly struck US bases across the region, wholly or partially destroying major facilities, as well as damaging civilian infrastructure, but maintained it was responding to military attacks launched from US bases in the GCC countries.\nA new regional security architecture may be in the offing.\nThe US has not revealed the extent of the damage to radars, communications hubs, aircraft and other key facilities, but it was soon evident that US forces, that had established a foothold in the region after the 1990 Iraqi invasion of Kuwait, were now acting as lightning rods drawing Iranian drone and missile fire, instead of being a security shield. And the US supplied Israel with substantial air defence missiles, perhaps leading to resentment from the GCC that they were left partially unprotected.\nPolitical concerns are also heightened and have led to the establishment of the R4 (Regional 4) in the early days of the war, comprising Pakistan, Turkiye, Saudi Arabia and Egypt. The group has already met four times, indicating urgency and commitment.\nPakistan has been the epicentre of the regional push for a ceasefire between Iran and the US and appears to have assumed a quiet role in reshaping the post-war regional order. In addition to extensive diplomatic outreach, there were also two unique visits by military leaders to Pakistan just days before the formal signing of the Islamabad Memorandum of Understanding.\nOn June 9, Gen Rodolphe Haykal, Commander of Lebanon’s Armed Forces met Field Marshal Asim Munir, followed two days later by Gen Metin Tokel, Commander of Turkiye’s Land Forces. Field Marshal Munir also visited Iran at least twice during the war, meeting the political leadership and the Iranian military high command.\nBut it has been growing anger at Israel’s continuing savagery in Gaza and the West Bank, the invasion of Lebanon, its threats to other countries, and the relentless pushing of its ideological imperative of establishing Greater Israel that has forced the Gulf States, Turkiye and other nations in the Middle East to accept that Israel is actively undermining regional stability.\nIt is clear the US can no longer contain or control Israel. And President Donald Trump’s bizarre atte­m­pt to link peace negotiations with Arab countries sig­ning the Abraham Accords likely tip­ped the balance and forced Arab countries to reassess their position.\nA new regional security bloc wou­ld likely meet fie­rce resistance from the US, Europe, Israel and India. But it is clear that if any effort is going to be made to finally create a Muslim bloc with teeth, unlike the somewhat hapless Organisation of Islamic Cooperation, the time is now.\nPakistan already has signed a bilateral defence pact with Saudi Arabia. A critical component of any future regional pact would have to be underpinned by trust. The powerful bond between Iran and Pakistan and Islamabad’s steady ties with the GCC could well help break down decades of hostility towards Tehran which has emerged as a powerful actor despite the savage two wars it has faced within the span of nine months.\nA collective regional security pact would finally address the rogue state of Israel that has consistently been the root of instability, war and economic crises. Its crimes against humanity in Gaza and the West Bank have been tolerated for too long. At the end of the day, the question of Palestine will always determine the future of the Middle East and West Asia.\nThe writer is a former AFP bureau chief who hosts her own podcast.\nX: @QuatrinaHosain\nPublished in Dawn, June 26th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 79,
-    "paper": "International Relations / Pakistan Affairs",
-    "topic": "Emerging Geopolitical Order in West Asia & Middle East; Pakistan's Role in Regional Security Architecture",
-    "whyMatters": "This article offers a contemporary analysis of a potential paradigm shift in Middle Eastern geopolitics, crucial for understanding evolving regional alliances and power dynamics. It highlights Pakistan's quiet but significant diplomatic role in shaping a new security architecture, making it highly relevant for questions on Pakistan's foreign policy and regional influence.",
-    "summary": [
-      "The US and Israeli war in Iran has prompted a major rethinking in Arab capitals, leading to the potential formation of a new, embryonic security architecture in West Asia and the Middle East.",
-      "A thaw in relations between Iran and Gulf Arab states, particularly Saudi Arabia, is paving the way for a regional security bloc possibly including Pakistan, Turkiye, GCC, and Egypt.",
-      "Pakistan has emerged as a central, quiet actor, facilitating diplomatic outreach and playing a key role in reshaping the post-war regional order.",
-      "Growing anger at Israel's actions in Gaza, the West Bank, and Lebanon, coupled with the US's perceived inability to control Israel, is a primary driver for regional players to form a united Muslim front."
-    ],
-    "facts": [
-      "The R4 group, comprising Pakistan, Turkiye, Saudi Arabia, and Egypt, has met four times, indicating urgency and commitment.",
-      "Iranian President Masoud Pezeshkian gave the first public hint of a new regional security architecture during his state visit to Pakistan.",
-      "Pakistan has signed a bilateral defence pact with Saudi Arabia, which could be a critical component of any future regional security arrangement."
-    ],
-    "academicReferences": [
-      "F. Gregory Gause III, \"The International Relations of the Persian Gulf\" (for understanding regional power dynamics).",
-      "Charter of the Organisation of Islamic Cooperation (OIC) (relevant for comparison to a 'Muslim bloc with teeth').",
-      "UN Security Council Resolutions on the Israeli-Palestinian conflict (e.g., 242, 338, or recent resolutions concerning Gaza)."
-    ],
-    "vocabulary": [
-      {
-        "word": "embryonic",
-        "type": "adjective",
-        "definition": "in an early stage of development; not yet fully formed.",
-        "sentence": "Iranian President Masoud Pezeshkian gave the first public hint of a new, embryonic security architecture emerging for West Asia and the Middle East."
-      },
-      {
-        "word": "fractious",
-        "type": "adjective",
-        "definition": "(typically of children or animals) irritable and quarrelsome; difficult to control.",
-        "sentence": "The political and military dynamic in the region is moving at its own pace, separate from the sporadic and fractious negotiations between the US and Iran."
-      },
-      {
-        "word": "imperative",
-        "type": "noun",
-        "definition": "an essential or urgent thing.",
-        "sentence": "It has been growing anger at Israel’s continuing savagery...and the relentless pushing of its ideological imperative of establishing Greater Israel that has forced the Gulf States...to accept that Israel is actively undermining regional stability."
-      },
-      {
-        "word": "hapless",
-        "type": "adjective",
-        "definition": "(especially of a person) unfortunate.",
-        "sentence": "If any effort is going to be made to finally create a Muslim bloc with teeth, unlike the somewhat hapless Organisation of Islamic Cooperation, the time is now."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which Iranian President gave the first public hint of a new regional security architecture emerging for West Asia and the Middle East?",
-        "options": [
-          "Masoud Pezeshkian",
-          "Hassan Rouhani",
-          "Ebrahim Raisi",
-          "Mahmoud Ahmadinejad"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'Iranian President Masoud Pezeshkian gave the first public hint of a new, embryonic security architecture...'"
-      },
-      {
-        "question": "The R4 group, formed in the early days of the war, comprises which of the following nations?",
-        "options": [
-          "Iran, Turkiye, Saudi Arabia, Egypt",
-          "Pakistan, Turkiye, Saudi Arabia, Egypt",
-          "Pakistan, Iran, Turkiye, GCC",
-          "US, Israel, Saudi Arabia, Egypt"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Political concerns are also heightened and have led to the establishment of the R4 (Regional 4)...comprising Pakistan, Turkiye, Saudi Arabia and Egypt.'"
-      },
-      {
-        "question": "According to the article, what has consistently been identified as the root of instability, war, and economic crises in the Middle East and West Asia?",
-        "options": [
-          "US foreign policy",
-          "The rogue state of Israel",
-          "Iranian nuclear ambitions",
-          "Internal Arab rivalries"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'A collective regional security pact would finally address the rogue state of Israel that has consistently been the root of instability, war and economic crises.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary catalyst prompting Arab capitals to rethink their post-ceasefire scenario and consider a new regional security architecture?",
-        "back": "The illegal and ill-advised US and Israeli war in Iran, which exposed US forces as 'lightning rods' rather than a security shield, and increased resentment among GCC states due to perceived partial protection."
-      },
-      {
-        "front": "Describe Pakistan's diplomatic role in the emerging post-war regional order, according to the article.",
-        "back": "Pakistan has assumed a quiet, central role as the 'epicentre' of the regional push for a ceasefire, engaging in extensive diplomatic outreach, high-level military visits, and strengthening bilateral defense pacts (e.g., with Saudi Arabia) to help reshape the order."
-      },
-      {
-        "front": "How has Israel's conduct contributed to the re-evaluation of regional alliances and the potential formation of a Muslim bloc?",
-        "back": "Israel's continuing actions in Gaza and the West Bank, invasion of Lebanon, threats to other countries, and the ideological push for 'Greater Israel' have convinced Gulf States and other nations that Israel is actively undermining regional stability, and the US can no longer control it."
-      },
-      {
-        "front": "What does the article suggest about the effectiveness of a potential new 'Muslim bloc with teeth' compared to the Organisation of Islamic Cooperation?",
-        "back": "The article implies that a new bloc would be more effective and decisive ('with teeth') compared to the 'somewhat hapless Organisation of Islamic Cooperation,' indicating a desire for a more robust and unified front against regional challenges."
       }
     ]
   }
