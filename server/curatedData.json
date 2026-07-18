@@ -1,5 +1,355 @@
 [
   {
+    "id": "curated-1784337568820-58",
+    "title": "Barren reforms\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016094/barren-reforms",
+    "date": "2026-07-17",
+    "author": "none@none.com (Editorial)",
+    "content": "PRIME Minister Shehbaz Sharif’s assertion that agriculture and livestock hold the key to Pakistan’s quick economic revival is spot-on. The sector contributes almost a quarter of GDP, employs well over a third of the labour force and remains the largest source of livelihoods. Livestock alone accounts for more than 60pc of agriculture’s value addition, while Pakistan ranks among the world’s largest milk producers, and possesses considerable untapped potential in both milk and meat exports.\n\nFew sectors offer comparable opportunities to generate growth, reduce poverty, improve food security and earn foreign exchange simultaneously. But the PM’s declaration that the economy can be revived within a year through agriculture highlights the gap between ambition and policy execution. The agricultural crisis has never been about the absence of potential. It is the consequence of decades of policy neglect and inconsistency, institutional decay and distorted incentives.\n\nWhile successive governments have acknowledged the sector’s importance, budgetary allocations, research spending, extension services, water management, market reforms and investment priorities have not reflected that recognition. The current year’s federal and provincial budgets are no exception. Despite repeated references to economic transformation, agriculture barely figures in official priorities. This contradiction is becoming increasingly costly.\n\nPakistan now imports billions of dollars’ worth of food and raw materials for its textile and clothing industry, and its food exports have weakened over time. This is eroding precious foreign exchange at a time when the economy remains dependent on external financing. Rising production costs, unpredictable pricing, market manipulation, inadequate storage and weak value chains continue to undermine farmers’ incomes. Farmers are expected to increase production while bearing risks that neither markets nor public policy adequately mitigate.\n\nMr Sharif’s emphasis on technology, AI, disease control and value addition must be lauded. Yet technology cannot compensate for dysfunctional policy. Farmers will not invest simply because AI is introduced into agriculture if fertilisers remain expensive, energy costs continue to rise, water becomes increasingly scarce and markets fail to offer remunerative prices. With industry struggling and exports stagnating, agriculture remains one of the few sectors capable of driving inclusive growth.\n\nBut this demands actual reforms. It requires strengthening research, developing indigenous vaccines, improving traceability systems, correcting market distortions, expanding rural credit, investing in climate resilience, enhancing irrigation efficiency and creating incentives for private investment across agricultural value chains.\n\nEvery government promises to transform agriculture; few are willing to undertake the reforms needed to achieve that aim. Declarations that agriculture can revive the economy will remain aspirational so long as the authorities continue to avoid policy reforms.\n\nPublished in Dawn, July 17th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-AGRI",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Having the largest irrigation system in the world, the land of the sub-continent served as the main food supply basket for the British power for more than a century, but now Pakistan has to import food commodities. Discuss in detail the causes of this agricultural decline."
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs",
+    "topic": "Agricultural Decline and Food Security in Pakistan",
+    "whyMatters": "This article directly addresses the causes of agricultural decline in Pakistan, linking historical potential to current challenges, making it highly relevant for answering questions on food security and economic mismanagement. It provides a critical analysis of policy failures and proposes concrete reforms, crucial for a nuanced competitive exam answer.",
+    "summary": [
+      "Despite agriculture and livestock being critical for Pakistan's economic revival, decades of policy neglect, institutional decay, and distorted incentives have led to a severe agricultural crisis.",
+      "Budgetary allocations, research spending, and market reforms have consistently failed to reflect the acknowledged importance of the agricultural sector, leading to increased food imports and weakened food exports.",
+      "Rising production costs, unpredictable pricing, market manipulation, and inadequate infrastructure undermine farmers' incomes, while public policy fails to mitigate these significant risks.",
+      "Technology and AI alone cannot resolve the agricultural crisis; actual structural reforms in research, water management, market correction, and climate resilience are essential to achieve inclusive growth."
+    ],
+    "facts": [
+      "Agriculture contributes almost a quarter of Pakistan's GDP and employs well over a third of the labour force.",
+      "Livestock alone accounts for more than 60% of agriculture’s value addition in Pakistan.",
+      "Pakistan now imports billions of dollars’ worth of food and raw materials for its textile and clothing industry."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (latest edition) - Chapter on Agriculture",
+      "World Bank Report: 'Pakistan’s Water Economy: Running Dry' (or similar reports on water management)",
+      "National Climate Change Policy of Pakistan (2012, updated periodically)"
+    ],
+    "vocabulary": [
+      {
+        "word": "spot-on",
+        "type": "adjective",
+        "definition": "Exactly right; accurate.",
+        "sentence": "The Prime Minister's assessment of the agricultural sector was spot-on, yet policy execution lagged."
+      },
+      {
+        "word": "remunerative",
+        "type": "adjective",
+        "definition": "Providing financial reward; profitable.",
+        "sentence": "Farmers need remunerative prices for their produce to invest in modern farming techniques."
+      },
+      {
+        "word": "mitigate",
+        "type": "verb",
+        "definition": "To make less severe, serious, or painful.",
+        "sentence": "Public policy should aim to mitigate the risks borne by farmers, such as unpredictable market prices."
+      },
+      {
+        "word": "dysfunctional",
+        "type": "adjective",
+        "definition": "Not operating normally or properly.",
+        "sentence": "Technology cannot compensate for a dysfunctional policy framework in agriculture."
+      },
+      {
+        "word": "aspirational",
+        "type": "adjective",
+        "definition": "Having or characterized by a strong desire to achieve something high or great; relating to or denoting a hope or ambition.",
+        "sentence": "Declarations of agricultural transformation remain aspirational without concrete policy reforms."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is identified as the primary reason for Pakistan's agricultural crisis, despite its potential?",
+        "options": [
+          "Absence of technology and AI in farming",
+          "Decades of policy neglect and inconsistency",
+          "Lack of farmer interest in modern methods",
+          "Frequent natural disasters and climate change alone"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that the crisis is a 'consequence of decades of policy neglect and inconsistency, institutional decay and distorted incentives,' not primarily the absence of technology."
+      },
+      {
+        "question": "According to the article, what is a significant consequence of the neglect of the agricultural sector for Pakistan's economy?",
+        "options": [
+          "Increased self-sufficiency in food production",
+          "A stronger balance of payments due to increased exports",
+          "Erosion of precious foreign exchange due to food imports",
+          "Improved livelihoods for the majority of the labor force"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Pakistan now imports billions of dollars’ worth of food... This is eroding precious foreign exchange at a time when the economy remains dependent on external financing.'"
+      },
+      {
+        "question": "Which statement best summarizes the article's stance on the role of technology (AI, disease control) in agricultural revival?",
+        "options": [
+          "Technology is the ultimate solution to all agricultural problems.",
+          "Technology can only be effective if coupled with functional policies and market reforms.",
+          "Introducing AI is sufficient to encourage farmers to invest.",
+          "Disease control is the single most important technological intervention needed."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article argues, 'technology cannot compensate for dysfunctional policy. Farmers will not invest simply because AI is introduced into agriculture if fertilisers remain expensive... and markets fail to offer remunerative prices.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why are PM's agricultural revival claims seen as ambitious despite the sector's significant potential?",
+        "back": "The claims are seen as ambitious because the agricultural crisis stems from decades of policy neglect, inconsistent budgetary allocations, institutional decay, and distorted incentives, which are not addressed by mere declarations."
+      },
+      {
+        "front": "What are the primary economic consequences of decades of policy neglect in Pakistan's agriculture, as outlined in the article?",
+        "back": "The primary economic consequences include Pakistan becoming a net importer of billions of dollars worth of food and raw materials, erosion of precious foreign exchange, and weakened food exports."
+      },
+      {
+        "front": "According to the article, why is technology alone insufficient to address Pakistan's agricultural crisis?",
+        "back": "Technology alone is insufficient because it cannot compensate for dysfunctional policies. Farmers won't invest if fundamental issues like expensive fertilizers, rising energy costs, water scarcity, and unremunerative market prices persist."
+      },
+      {
+        "front": "What concrete reforms does the article demand to achieve inclusive growth through agriculture in Pakistan?",
+        "back": "The article demands strengthening research, developing indigenous vaccines, improving traceability, correcting market distortions, expanding rural credit, investing in climate resilience, enhancing irrigation efficiency, and creating incentives for private investment."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784337419433-478",
+    "title": "Strategic sanity\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016097/strategic-sanity",
+    "date": "2026-07-17",
+    "author": "none@none.com (Khurram Abbas)",
+    "content": "THE Stockholm International Peace Research Institute has published its Yearbook 2026. SIPRI assesses that India has now operationally deployed 12 out of 190 nuclear warheads on a single nuclear-powered ballistic missile submarine conducting deterrence patrols. This is a major strategic shift: for decades, New Delhi had stored its warheads and delivery systems separately, a deliberate posture designed to prevent accidental use. This shift in nuclear posture will have far-reaching implications for strategic stability in South Asia.\n\nWhile Pakistan’s Foreign Office has shown no surprise over the development, strategic thinkers in Islamabad have focused on certain issues. First, the shift in India’s nuclear posture has raised concerns about New Delhi’s declared no-first use policy. Indian Defence Minister Rajnath Singh publicly cast doubts on India’s long-standing nuclear NFU policy during an August 2019 visit to Pokhran. This aligns with the BJP’s 2014 election manifesto that promised to “study in detail India’s nuclear doctrine, and revise and update it, to make it relevant to challenges of current times”. Hence, India’s actions suggest a profound shift from NFU to ‘strategic ambiguity’ in New Delhi’s nuclear policy.\n\nSecond, while the number of deployed nuclear warheads may vary, India’s strategic posture shows aggressive intent. Since 2016, ties between India and Pakistan have been viewed largely through the lens of crisis escalation and political tensions. In the absence of structural dialogue, this altered strategic posture of New Delhi has understandably set off alarm bells in Islamabad.\n\nThird, the development has compressed the crisis response window. Already, South Asia is witnessing accelerated crisis response due to AI-enabled command systems. New Delhi’s sea-based nuclear deterrence, with operational nuclear warheads can further increase the risk of miscalculation, accidental escalation and perhaps forced pre-emption in a nuclearised environment. Moreover, the primary challenge of deploying nuclear weapons at sea relates to the problem of command and control. Delegating authority to a submarine commander at sea could lead to the risk of unauthorised or accidental use.\n\nIn this hostile environment, the best, most practical option for Pakistan and India remains the resumption of dialogue.\n\nSimilarly, India’s strategic thinkers are largely referring to their country’s sea-based nuclear posture to deter Chinese threats. However, this argument stands in contrast to the current geopolitical environment and trajectory of Sino-India ties. Sino-India ties have improved significantly since the Modi-Xi Kazan summit in 2024. The two sides have signed a landmark border patrol agreement and improved bilateral trade of over $150 billion in 2026. On the contrary, India-Pakistan relations are going through the worst phase of their history in view of the absence of direct trade, a downgraded diplomatic presence in each other’s capitals, frequent armed hostilities and people-to-people disengagement. Islamabad believes that New Delhi is using China to please the West in the context of the US-China competition at the global level. Moreover, India has not publicly announced a bifurcated or separate deterrence posture or command-and-control framework for China and Pakistan. In fact, Islamabad believes that the operational deployment of New Delhi’s nuclear warheads is meant to circumvent Pakistan’s full spectrum deterrence. New Delhi, through these measures, is primarily challenging Pakistan’s traditional deterrence policy.\n\nAlthough Islamabad does not want to get drawn into another arms race, the altered strategic realities will likely compel it to take several precautionary diplomatic and security measures, which may risk another arms surge in the region. Mor­eover, one of the more worrisome factors is that New Delhi’s sea-based nuclear capability coupled with operational nuclear warheads might incentivise Indian policymakers to engage in more frequent low-level crises or coercive diplomacy at the conventional level because of New Delhi’s confidence in ‘assured second-strike’ capability.\n\nFrom Pakistan’s perspective, the international community has not taken serious note of this shift in India’s strategic posture. This is why, if the situation worsens and the pressure increases, Islamabad may see no option but to deploy nuclear warheads across its entire vector to deter India’s aggressive strategic posture. Similarly, the operational asymmetry will become more visible in the naval domain between Islamabad and New Delhi. Keeping in view the huge cost of naval nuclearisation, Islamabad will likely broaden and deepen its naval cooperation with likeminded friendly countries to fill the operational asymmetrical gap. Moreover, emerging technologies and semi-autonomous weapons systems have further given Isla­mabad options to improve its naval capabilities.\n\nIn this hostile environment, the best, most practical option for both sides remains the resumption of dialogue and ensuring stringent implementation of nuclear-related CBMs to minimise concerns related to the misinterpretation of intentions. Renewed dialogue between India and Pakistan on nuclear-related CBMs can help clarify intentions and reduce the chance of accidental or inadvertent escalation. The last round of dialogue related to conventional and nuclear-related CBMs between India and Pakistan was held in 2012.\n\nWhile there is significant appetite in Islamabad to engage with New Delhi for meaningful dialogue on all outstanding issues and ensure smooth implementation of nuclear-related CBMs, the BJP-led NDA government’s policy of no structural dialogue with Pakistan remains a major stumbling block. From 2016 to 2026, two main trends can summarise Pakistan-India ties. First, the two sides have been witnessing an era of eroding bilateralism, where already settled issues such as the Indus Waters Treaty have become victims of political tensions and right-wing populism. If this trend of erosion of bilateral ties continues, it could ultimately hit other settled issues including nuclear-related CBMs. Second, every military crisis from 2016 to 2025 has been bigger and broader in scale and scope.\n\nIn order to reverse these two trends, it is important for New Delhi and Islamabad to re-engage in meaningful dialogue. Ultimately, strategic thinkers and policymakers in New Delhi must understand the primary concept of armed conflict bet­ween two nuclear states, ie, victory is impossible and defeat is unthinkable, hence strategic sanity must prevail for the sake of peace in South Asia.\n\nThe writer is a strategic analyst of international security. The views expressed are his own.\n\nPublished in Dawn, July 17th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs",
+    "topic": "Nuclear Deterrence and Strategic Stability in South Asia",
+    "whyMatters": "While this article is not relevant to the specified past exam question on the Economic Cooperation Organization (ECO) as it exclusively discusses nuclear deterrence and strategic stability in South Asia, it is crucial for questions concerning India-Pakistan geopolitical tensions and regional security dynamics. Students can leverage its detailed analysis of nuclear policy shifts and their implications to address broader international relations or current affairs questions on South Asian security.",
+    "summary": [
+      "India has shifted its nuclear posture by operationally deploying nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN), moving away from its traditional stance of separately storing warheads and delivery systems.",
+      "This strategic shift raises significant concerns about India's no-first-use (NFU) policy, with actions by the Indian Defence Minister and BJP manifesto aligning towards 'strategic ambiguity' in its nuclear doctrine.",
+      "Pakistan views India's altered strategic posture as aggressive, increasing the risk of miscalculation, accidental escalation, and forced pre-emption, especially given compressed crisis response windows and challenges in command and control for sea-based nuclear assets.",
+      "Despite India's narrative of deterring China, Pakistan believes the operational deployment of nuclear warheads is primarily aimed at circumventing its full spectrum deterrence, compelling Islamabad to consider precautionary diplomatic and security measures.",
+      "The article emphasizes that the best option for both India and Pakistan is the resumption of dialogue and stringent implementation of nuclear-related Confidence Building Measures (CBMs) to ensure strategic sanity, although India's current policy obstructs such engagement."
+    ],
+    "facts": [
+      "SIPRI Yearbook 2026 assesses India has operationally deployed 12 out of 190 nuclear warheads on a SSBN.",
+      "Indian Defence Minister Rajnath Singh publicly cast doubts on India’s NFU policy during an August 2019 visit to Pokhran.",
+      "The BJP’s 2014 election manifesto promised to “study in detail India’s nuclear doctrine, and revise and update it”.",
+      "Sino-India ties saw improved bilateral trade of over $150 billion in 2026 after the Modi-Xi Kazan summit in 2024.",
+      "The last round of dialogue related to conventional and nuclear-related CBMs between India and Pakistan was held in 2012."
+    ],
+    "academicReferences": [
+      "SIPRI (Stockholm International Peace Research Institute) Yearbooks (Authoritative source for global security and arms control data).",
+      "Ashley J. Tellis, 'India's Nuclear Deterrent: Pokhran II and the Next Generation' (Key work on Indian nuclear doctrine).",
+      "C. Raja Mohan, 'Crossing the Rubicon: The Shaping of India’s New Foreign Policy' (Relevant for understanding India's strategic shifts and foreign policy).",
+      "Non-Proliferation Treaty (NPT) & Comprehensive Nuclear-Test-Ban Treaty (CTBT) (Foundational international treaties relevant to nuclear policy discourse)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Deterrence",
+        "type": "noun",
+        "definition": "The action or policy of discouraging an action or event through instilling doubt or fear of the consequences.",
+        "sentence": "The operational deployment of nuclear warheads on SSBNs is a strategic move to enhance sea-based nuclear deterrence."
+      },
+      {
+        "word": "Strategic ambiguity",
+        "type": "noun phrase",
+        "definition": "A deliberate policy of not stating publicly whether one country would come to the aid of another if attacked, or regarding the precise nature of its strategic intentions.",
+        "sentence": "India's actions suggest a profound shift from a clear NFU policy to 'strategic ambiguity' in its nuclear doctrine."
+      },
+      {
+        "word": "Pre-emption",
+        "type": "noun",
+        "definition": "The act of taking action before an anticipated event to prevent it, especially in a military context.",
+        "sentence": "New Delhi’s sea-based nuclear deterrence can increase the risk of miscalculation and perhaps forced pre-emption in a nuclearised environment."
+      },
+      {
+        "word": "Bilateralism",
+        "type": "noun",
+        "definition": "The conduct of political, economic, or cultural relations between two sovereign states.",
+        "sentence": "The two sides have been witnessing an era of eroding bilateralism, where already settled issues have become victims of political tensions."
+      },
+      {
+        "word": "CBMs (Confidence Building Measures)",
+        "type": "noun",
+        "definition": "Actions taken to reduce tensions, build trust, and clarify intentions between nations, especially in military or security contexts.",
+        "sentence": "Renewed dialogue between India and Pakistan on nuclear-related CBMs can help clarify intentions and reduce the chance of accidental escalation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to SIPRI Yearbook 2026, what major strategic shift has India made regarding its nuclear warheads?",
+        "options": [
+          "A) Increased its total number of nuclear warheads to 500.",
+          "B) Operationally deployed nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN).",
+          "C) Decommissioned all its land-based nuclear missile systems.",
+          "D) Publicly declared a revised no-first-use policy without any ambiguity."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'SIPRI assesses that India has now operationally deployed 12 out of 190 nuclear warheads on a single nuclear-powered ballistic missile submarine conducting deterrence patrols.'"
+      },
+      {
+        "question": "What policy shift is suggested by India's actions regarding its nuclear doctrine, according to the article?",
+        "options": [
+          "A) A reaffirmation of its strict no-first-use (NFU) policy.",
+          "B) A move from NFU to 'strategic ambiguity'.",
+          "C) The adoption of a 'launch-on-warning' posture.",
+          "D) A policy of complete nuclear disarmament."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'Hence, India’s actions suggest a profound shift from NFU to ‘strategic ambiguity’ in New Delhi’s nuclear policy.'"
+      },
+      {
+        "question": "From Pakistan's perspective, what is the primary objective of New Delhi's operational deployment of nuclear warheads, despite India's claims of deterring China?",
+        "options": [
+          "A) To improve trade relations with Pakistan.",
+          "B) To circumvent Pakistan’s full spectrum deterrence.",
+          "C) To secure a permanent seat on the UN Security Council.",
+          "D) To establish a joint nuclear command with China."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions: 'In fact, Islamabad believes that the operational deployment of New Delhi’s nuclear warheads is meant to circumvent Pakistan’s full spectrum deterrence.'"
+      },
+      {
+        "question": "What is identified as the best, most practical option for both India and Pakistan in the current hostile environment?",
+        "options": [
+          "A) Escalating naval capabilities and developing more advanced weapons systems.",
+          "B) Seeking increased military alliances with global powers.",
+          "C) Resumption of dialogue and stringent implementation of nuclear-related CBMs.",
+          "D) Imposing strict economic sanctions on each other."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article repeatedly emphasizes: 'In this hostile environment, the best, most practical option for Pakistan and India remains the resumption of dialogue' and 'ensuring stringent implementation of nuclear-related CBMs'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What significant nuclear posture shift by India is reported by SIPRI 2026, and what was India's previous stance?",
+        "back": "India has operationally deployed nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN); previously, it stored warheads and delivery systems separately to prevent accidental use."
+      },
+      {
+        "front": "How has India's Defence Minister and the BJP's election manifesto contributed to concerns about India's no-first-use (NFU) policy?",
+        "back": "Defence Minister Rajnath Singh publicly doubted the NFU policy in 2019, aligning with the BJP's 2014 manifesto promise to revise and update India's nuclear doctrine."
+      },
+      {
+        "front": "According to the article, why does Pakistan believe India's sea-based nuclear deployment challenges its deterrence policy, despite India's claims of deterring China?",
+        "back": "Pakistan believes the deployment is primarily meant to circumvent its full spectrum deterrence, arguing that India has not announced a bifurcated deterrence posture for China and Pakistan, and Sino-India ties have improved."
+      },
+      {
+        "front": "What are the two main negative trends characterizing Pakistan-India ties from 2016 to 2026, as per the article?",
+        "back": "An era of eroding bilateralism, where settled issues like the Indus Waters Treaty are affected by political tensions, and every military crisis becoming larger in scale and scope."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784337726643-158",
+    "title": "Déjà vu",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2618638/deja-vu-1",
+    "date": "2026-07-16",
+    "author": "\n\t\t\t\tShahzad Chaudhry\n\t\t\t",
+    "content": "I am reviewing my writings from the past eighteen years these days to compile them for a forthcoming book on Pakistan's fight against terror and wars in Afghanistan. It pains me to note we haven't progressed at all from where and how we were when these lines were first written and appeared in the press. Just last week, an Apex Committee meeting was held in Quetta under the chairmanship of the country's prime minister, attended by the ministers of the federal and provincial cabinets. The Field Marshal, too, was present, as was the mandate when these committees were first conceived in 2014. The recommendations and directions echoed what has been repeatedly advocated since. I share excerpts from my writings from the time, in italics, with dates next to each.\n\nOne, Osama, Mullah Omar and Haqqani, arrived in Pakistan from Afghanistan – they weren't nestled here from the start. Second, the Pakistani military had a war imposed on it, not of its making – Pakistan owned another country's war despite intense domestic opposition to it. Third, the war spawned its own heinous sublets when splinter groups assembled under the banner of the TTP, threatened Pakistan's state and society, and continue to do so. Fourth, Pakistani troops deployed in FATA equal the cumulative force of 48 nations fighting the same extended adversary in Afghanistan. Five, the operations in Swat, South Waziristan and continuing battles in Aurakzai and Khyber agencies of FATA; frequent forays into Pakistan by the TTP fugitives from their Afghan havens; and a sprinkling of unilateral American assaults, all but form the operational environment engaging the Pakistani military without relent. (12 June 2012)\n\nAs the Pakistani army clears North Waziristan, it has set into motion a process where full-spectrum counterinsurgency actions will need to be implemented. These will include  accompanying political, social, economic and legal measures that should revert notional and ideological control to the state of Pakistan. Politics and the military will need to interleave appropriately to deliver a wholesome response over the long term. It is politics alone that must deliver abiding solutions to problems that have political roots. A good model is Swat, both for its omissions and commissions. After the military regained control following a testing operation, the follow-up action remained unattended. Civilian administration returned after much reluctance, fearful of the militants. Political leadership returned with cosmetic visits only, without dealing with the more complex socio-political and socioeconomic domains that would have needed clear-cut policies, including resource allocation and implementation mechanisms to achieve intended objectives. Little was done to convince people of their government's commitment to serve their needs and provide safety. (November 2014).\n\n(The Apex Committee meeting in Quetta on 9 July 2026, twelve years later, reiterated these points with the requisite vehemence.)\n\nTerrorism is akin to softening the battlefield before a full-on assault in the shape of an insurgency. Hence, the compulsion to win the hearts and minds of the people, along with beating terror. When two ideologies are competing to take control of a target group, it remains important for the state to convince the target group that their stakes lie with the state. These must include political, social, and economic integration and, even more importantly, a sense that their safety and security remain the vital responsibility of the state.\n\nEconomic support to the FATA region entails a more deliberate study and planning. It will need to strengthen the resident economy, building around what suits the local businessmen. A controlled duty structure specific to the frequently traded items can gradually bring the trade under a legalised framework. It is always useful to build on existing parameters. Infrastructure, schools and hospitals are the most essential and visible avenues of building the communities of FATA, and will give them a sense of integration with the rest of Pakistan. Extension of security and law enforcement to ensure preservation of life and property will be the key to maintaining a social structure with equal opportunity and equal responsibility.\n\nThere is a dire need for a policy for the governments in Pakistan to declare a few geographical zones as zones of development. A FATA Fund for both internal and external endowments and aid programmes must be created for a period, perhaps ten years, where the state must be an equal contributor. Similar zones of development could also be considered for Balochistan. Both FATA and Balochistan will need special allocations to realise an accelerated pace of development to bring these regions to the same level as the rest of Pakistan. A Constitutional provision must ensure adherence for a fixed period to such a plan by successive governments.\n\nPakistan's current travails of a full-blown insurgency in FATA and another in Balochistan, with its national cohesion under serious stress, may be sourced partly because of fallacious policies and partly to external influences that continue to destabilise Pakistan and weaken its potential as a nation. In a competitive regional environment, aggressive insurrection through surreptitious means is the established norm. Each nation in the region thus has always been known to possess strong and active national intelligence outfits. Proxy conflicts are a fact of life.\n\nIf India alleges Pakistani intelligence to be involved in Kashmir, as does Afghanistan for its own long years of duress as a nation embroiled in a debilitating war of terror, Pakistan too holds long-standing complaints against Indian Intelligence for its role in supporting an insurgency in Balochistan, and of the Afghan and Indian intelligence together for their joint role in fostering and sustaining the insurgency in FATA. Given Afghanistan's precarious situation on Pakistan's western borders, the need for effective and diverse intelligence capacity for Pakistan becomes an even bigger existential imperative.\n\nIndia's nexus with Western entities in Afghanistan is a godsend for them, where, after a rather barren period till 2002, they find an opportunity to sustain a formidable footprint. That this enables them to extend their operations into Pakistan, particularly Balochistan, goes without saying. India's ultimate objective is to weaken Pakistani state structures to a point where the shell might stay, but the inside is hollow. (November 2014.)\n\nThe army is deep into a war that it can only win – the opposite, calamitous for the state and its people. It's only natural for it to seek and know that the political government stands behind it with (full) support. The police, the civilian intelligence agencies, the administration that continues to have a dominating hold over the urban and rural life in the length and breadth of Pakistan, and the mandarins that sit in control over the various elements of power in Pakistan's governance structures will all have to stand to be counted in this hour of judgment over Pakistan's future. (26 Dec 2014)\n\nTwo decades later, remarkably little has changed. It makes it doubly hurtful.",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "Internal Security, Counter-Terrorism Strategies, and Geopolitical Challenges in Pakistan",
+    "whyMatters": "This article, while not addressing the Economic Cooperation Organization (ECO) or regional economic integration, is crucial for understanding Pakistan's persistent internal security challenges, counter-terrorism strategies, and complex geopolitical influences. Aspirants can leverage its insights on governance, military-civilian coordination, and regional proxy conflicts to excel in Current Affairs and Pakistan Affairs papers.",
+    "summary": [
+      "Pakistan's fight against terror and wars in Afghanistan reflects a lack of significant progress over nearly two decades, with historical challenges and advocated solutions repeatedly resurfacing.",
+      "Effective counter-insurgency requires comprehensive political, social, economic, and legal measures alongside military action, with civilian administration and political leadership playing a crucial role in winning public trust and delivering solutions.",
+      "Addressing insurgencies in regions like FATA and Balochistan necessitates declaring special development zones, creating dedicated funds with state contribution, and enacting constitutional provisions for sustained development to ensure integration.",
+      "External influences and proxy conflicts, particularly from alleged Indian and Afghan intelligence involvement, are perceived to exacerbate internal security challenges in Balochistan and FATA, emphasizing the need for robust intelligence capacity."
+    ],
+    "facts": [
+      "Apex Committee meetings, designed to address national security, have reiterated similar recommendations for counter-terrorism since their conception in 2014.",
+      "As of 2012, Pakistani troops deployed in FATA equaled the cumulative force of 48 nations fighting the same extended adversary in Afghanistan.",
+      "The article highlights a recurring cycle of policy recommendations, noting that little has changed between 2012/2014 and an Apex Committee meeting speculated for 2026."
+    ],
+    "academicReferences": [
+      "C. Christine Fair, \"Fighting to the End: The Pakistan Army's Way of War\" (for understanding military strategy)",
+      "National Internal Security Policy (NISP) 2014-2018 (for policy frameworks on counter-terrorism)",
+      "United Nations Global Counter-Terrorism Strategy (for international best practices and context)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Conceived",
+        "type": "verb",
+        "definition": "Form an idea or plan in the mind",
+        "sentence": "The Apex Committees were first conceived in 2014 to address national security challenges."
+      },
+      {
+        "word": "Heinous",
+        "type": "adjective",
+        "definition": "Utterly odious or wicked",
+        "sentence": "The war spawned its own heinous sublets when splinter groups assembled under the banner of the TTP."
+      },
+      {
+        "word": "Travails",
+        "type": "noun",
+        "definition": "Painful or laborious effort; struggles",
+        "sentence": "Pakistan's current travails of a full-blown insurgency in FATA and another in Balochistan are a serious concern."
+      },
+      {
+        "word": "Surreptitious",
+        "type": "adjective",
+        "definition": "Kept secret, especially because it would not be approved of",
+        "sentence": "Aggressive insurrection through surreptitious means is the established norm in a competitive regional environment."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the author, what was a significant omission in the follow-up actions after the military operation in Swat?",
+        "options": [
+          "A) An increase in unilateral American assaults.",
+          "B) The immediate withdrawal of all military forces.",
+          "C) Comprehensive political, social, economic, and legal measures by civilian administration.",
+          "D) A complete cessation of all trade activities in the region."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author specifically notes that after the military operation in Swat, the follow-up action remained unattended, with civilian administration and political leadership failing to address the complex socio-political and socio-economic domains comprehensively."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's primary concern regarding Pakistan's fight against terror and wars in Afghanistan over the past two decades?",
+        "back": "The author's primary concern is the lack of significant progress, noting that challenges and advocated solutions have repeatedly resurfaced without lasting change."
+      },
+      {
+        "front": "Beyond military action, what comprehensive measures does the article suggest are necessary for successful counter-insurgency, using Swat as an example?",
+        "back": "It suggests accompanying political, social, economic, and legal measures, including robust civilian administration, dedicated political leadership, and addressing socio-economic domains with clear policies and resource allocation."
+      },
+      {
+        "front": "What specific policy recommendations does the author make to integrate and develop regions like FATA and Balochistan?",
+        "back": "Recommendations include declaring geographical zones of development, creating dedicated funds (like a FATA Fund), ensuring state contributions, and enacting constitutional provisions for sustained adherence to development plans."
+      },
+      {
+        "front": "How does the article frame the role of external intelligence agencies in Pakistan's internal security challenges?",
+        "back": "The article asserts that external influences, particularly from Indian and Afghan intelligence, are perceived to support and sustain insurgencies in Balochistan and FATA through proxy conflicts, necessitating stronger Pakistani intelligence capacity."
+      }
+    ]
+  },
+  {
     "id": "curated-1784251395143-635",
     "title": "Pakistan’s Ground Zero\n",
     "source": "Dawn",
@@ -573,6 +923,99 @@
       {
         "front": "What does the article suggest is essential for Pakistan to broaden its tax base effectively, beyond relying on voluntary schemes or amnesties?",
         "back": "It requires genuine political will to enforce tax laws impartially and consistently, coupled with the ability to resist pressure from powerful lobbies."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784337330846-229",
+    "title": "Caution: danger ahead\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2015800/caution-danger-ahead",
+    "date": "2026-07-16",
+    "author": "none@none.com (Khurram Husain)",
+    "content": "THERE are many reasons to be bullish about Pakistan these days, not least the hard-fought stability in the external sector following a few years of near-catastrophic depletion of reserves. But there are now a growing number of reasons to be concerned about the underlying fragility of it all.\n\nThe stability is real. There is no doubt about that. A wall of high repayment obligations that first loomed into view back in February 2021 and remained persistently high since then has finally started to come down. They not only met all these obligations and paid down their debt, but also bui­lt reserves through it all — organically — and not borrowed reserves.\n\nThe return of stability to Pak­istan’s external sector after the near catastr­ophic volatility of 2021-2023 is one for the history books. The most ferocious inflationary fire in our history was doused. The most precarious foreign exchange reserves position was rebuilt. The most runaway fiscal train wreck was returned to surpl­uses on its primary balance. The state saved itself well.\n\nBut in order to do so it wrecked the livelihoods of its own people and nearly choked its own economy to death. Inflows were — in fact still are — diverted ruthlessly to state coffers. Interest rates were hiked to historic highs that were unthinkable even a few years ago.\n\nTaxes weighed like a millstone around the necks of firms and wealth creators. Nobody was allowed to make money or breathe too freely during the years the state was busy rebuilding its accounts. That’s the stability they now tell us is their signature success.\n\nAdmittedly, nobody wanted to see the instability persist. And now that it has been surmounted, at least to the extent that inflation no longer ravages the land and reserves no longer teeter on the edge of a cliff, it is worth asking whether it has not returned in some other form. Beneath the floor that feels solid, can we feel powerful forces moving?\n\nWith rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire.\n\nSome of the persistent instability can now be seen in the growing disaffection of populations along the periphery of Pakistan’s heartland of central Punjab and upper Sindh. This is a disturbing trend and must be taken very seriously. To the extent that it has economic roots, the growing struggle that day-to-day life has become for the common citizenry can be said to lie at the heart of it.\n\nA population immersed in deprivation and misery is more amenable to the message of movements and parties that preach rebellion or advocate the politics of disruption and division. None of the parties fomenting rebellion, disruption or division on Pakistan’s periphery these days can be said to be the carrier of progressive or even pro-people politics. But they are all reaping a harvest of hate that has been nurtured and fertilised with deprivation.\n\nThe other reason to be concerned is the return of hostilities between Iran and the US, though it remains my view that this will prove to be another short-lived flare-up in what is turning out to be a long-drawn-out, gruelling test of nerves between the two adversaries. It is possible this could drag out for months. The problem for Pakistan is that the leadership here has been heavily invested in reaping the dividends from their diplomatic efforts, and those efforts are taking a long time to bear fruit.\n\nAt the heart of the matter is Iran’s unwillingness to let go of the Strait of Hormuz. They had decided very early in this conflict that they would rather see a return to hostilities than bargain on easing their hold on the strait. With the latest flare-up, they have proved this point. Whatever settlement eventually ends this war, it will see Iran in control of the waterway, with full rights on who gets to transit and on what terms. For a moment it seemed that the Trump administration had reconciled itself to this reality. But the flare-up proves otherwise.\n\nWith rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire. The hard-fought stability they tout as their success rescued the state from the throes of its own non-viability. But now instability has returned and is churning up growing numbers of people and leading them to gather around messages that the state would prefer to stamp out with violence. And the much-vaunted peace dividend has been pushed into a more distant future while there are no organic drivers of growth at home.\n\nThis is where the danger lies. The stability we have today was purchased with suppressed demand, and suppressed demand cannot be a permanent state of affairs. Sooner or later, the economy, along with the people, must be allowed to breathe again. And the moment that happens, the old appetites will reawaken — for imports, for credit, for dollars.\n\nThe state has built no shock absorbers for that moment. Reserves look healthy against the drought of recent years, but measure them against the import bill of an economy growing at even four per cent and the picture changes quickly. And should the flare-up in the Gulf drag on, and oil prices catch fire the way freight and insurance rates already have, the arithmetic changes quicker still.\n\nThe rulers face a choice they would rather not acknowledge. They can hold the economy in its induced coma indefinitely, and watch the harvest of hate on the periphery grow richer with each passing season. Or they can release their grip and risk squandering the stability they paid for with the people’s livelihoods.\n\nNone of these are palatable. Hence the situation is now best described as a quagmire. What they cannot do is continue to celebrate. The floor beneath their feet may feel solid, yes. But the ground below it is moving.\n\nThe writer is a business and economy journalist.\n\nPublished in Dawn, July 16th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 75,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's Economic Stability, Balance of Payments, and Structural Challenges",
+    "whyMatters": "This article directly addresses the core causes of Pakistan's 'Balance-of-Payments' constraint, detailing how temporary stability was achieved and why it remains fragile. It critically evaluates the sustainability of current economic policies and their long-term impact on foreign exchange reserves and future growth.",
+    "summary": [
+      "Pakistan achieved hard-fought external sector stability (doused inflation, rebuilt reserves, primary balance surplus) after a near-catastrophic period from 2021-2023.",
+      "This stability was purchased at a severe cost, including wrecked livelihoods, a choked economy due to historic interest rates and heavy taxes, and suppressed demand.",
+      "Beneath this fragile stability, new forms of instability are emerging, such as growing public discontent and disaffection in peripheral regions, and geopolitical risks like the Iran-US flare-up affecting global trade.",
+      "The current stability is unsustainable as it relies on suppressed demand; releasing economic activity without building shock absorbers will reawaken appetites for imports and credit, quickly threatening reserves and creating a policy quagmire."
+    ],
+    "facts": [
+      "Pakistan experienced 'near-catastrophic depletion of reserves' and 'ferocious inflationary fire' during 2021-2023.",
+      "Interest rates were hiked to 'historic highs' and taxes 'weighed like a millstone' on firms to achieve economic stability.",
+      "Reserves are currently 'healthy against the drought of recent years' but would quickly change against 'the import bill of an economy growing at even four per cent'."
+    ],
+    "academicReferences": [
+      "IMF Stand-By Arrangement (SBA) Reports for Pakistan (regularly detail BoP challenges and conditionalities).",
+      "Pakistan Economic Survey (annual publication, provides official data and analysis on economic performance and challenges).",
+      "World Bank Pakistan Development Updates (offer independent assessments of Pakistan's economic situation and reform priorities)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Bullish",
+        "type": "adjective",
+        "definition": "Optimistic about future prospects, especially concerning the economy.",
+        "sentence": "THERE are many reasons to be bullish about Pakistan these days, not least the hard-fought stability in the external sector."
+      },
+      {
+        "word": "Catastrophic",
+        "type": "adjective",
+        "definition": "Involving or causing sudden great damage or suffering.",
+        "sentence": "The return of stability to Pakistan’s external sector after the near catastrophic volatility of 2021-2023 is one for the history books."
+      },
+      {
+        "word": "Quagmire",
+        "type": "noun",
+        "definition": "An awkward, complex, or hazardous situation.",
+        "sentence": "With rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire."
+      },
+      {
+        "word": "Palatable",
+        "type": "adjective",
+        "definition": "(Of an action or proposal) acceptable or satisfactory.",
+        "sentence": "None of these are palatable. Hence the situation is now best described as a quagmire."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental unsustainability of Pakistan's recently achieved economic stability?",
+        "options": [
+          "It relies too heavily on foreign aid and loans.",
+          "It was purchased with suppressed domestic demand, which cannot be a permanent state.",
+          "The government is actively trying to increase import dependency.",
+          "It failed to control inflation effectively over the long term."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'The stability we have today was purchased with suppressed demand, and suppressed demand cannot be a permanent state of affairs,' indicating its inherent unsustainability."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the primary cost Pakistan paid to achieve its recent external sector stability?",
+        "back": "The stability was achieved by wrecking the livelihoods of its own people, nearly choking the economy with historic interest rates, heavy taxes, and ruthless diversion of inflows to state coffers, leading to suppressed demand."
+      },
+      {
+        "front": "How does the article link the current stability to a potential future Balance-of-Payments crisis?",
+        "back": "The stability is based on suppressed demand; once the economy is allowed to 'breathe again,' old appetites for imports, credit, and dollars will reawaken, quickly straining reserves if no structural 'shock absorbers' have been built."
+      },
+      {
+        "front": "What emerging domestic instability does the article highlight despite the economic stabilization efforts?",
+        "back": "Growing discontent and disaffection among populations along Pakistan's periphery, fueled by deprivation and misery, which makes them amenable to messages of rebellion and disruption."
+      },
+      {
+        "front": "Beyond domestic economic factors, what geopolitical risk does the author identify as a threat to Pakistan's economic outlook?",
+        "back": "The return of hostilities between Iran and the US, particularly regarding Iran's control over the Strait of Hormuz, which could escalate oil prices, freight, and insurance rates, impacting Pakistan's import bill and reserves."
       }
     ]
   },
@@ -9580,374 +10023,6 @@
       {
         "front": "Explain the article's argument that military superiority no longer guarantees dominance or victory in today's world.",
         "back": "The article argues that modern warfare, utilizing drones, missiles, and asymmetrical strategies, has leveled the ground between stronger and weaker countries, as evidenced by the failure of military force to compel surrender in conflicts like the US/Israel-Iran war or Russia's war against Ukraine."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782785159109-917",
-    "title": "Audit or ritual?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011516/audit-or-ritual",
-    "date": "2026-06-29",
-    "author": "none@none.com (Editorial)",
-    "content": "THE AGP’s latest audit report of federal civil accounts is a detailed record of governance failures and institutional collapse. The numbers are staggering, but the deeper failure is cultural. Trillions sit in unrecovered loans. Billions were lost because regulators forgot to charge late fees. If not deliberate, these are embarrassingly elementary failures. No ministry is being outwitted by complex fraud. Monthly reports go unfiled. Collected taxes never reach the treasury. Bank accounts remain open past legal deadlines. Routine tasks are left undone. Sadly, the ministries and other government entities do not respond to the audit paras. The Economic Affairs Division ignored audit observations on Rs1.9tr in liabilities. The Cabinet Division repeatedly refused to answer for Rs75bn in parliamentarians’ schemes. This shows that non-response has been normalised. Departments have learned that ignoring oversight carries no real consequence. That calculation, repeated across institutions, is the deeper crisis.\nThe FBR’s Rs117.8bn in under-realised super tax represents the tax authority failing at its only fundamental purpose. Unrecovered duties compound the same pattern within the same institution. Energy sector findings are equally troubling. Distribution companies ran without internal audits for two full years. Dasu Hydropower’s costs overran by 257pc. Neelum-Jhelum has sat dormant since May 2024, with inquiries still incomplete. These are not project management lapses in any ordinary sense. They represent billions committed, then lost, with accountability treated as optional. The NDMA holds nearly Rs11bn in relief stock with zero inventory system. All 20 findings from the audit went unaddressed. A disaster management body cannot account for its own emergency reserves. Passco recorded Rs21.34bn in losses across four years. Another Rs257bn in wheat receivables remain unrecovered. It renders the agency technically insolvent. Everyone knows the solution. Nobody applies it. The Public Accounts Committee will now convene. Explanations will be offered. The next audit report will confirm that this year’s recommendations were ignored. The audit cycle has become pure ritual. Bureaucrats have figured out that non-compliance carries no meaningful cost. The report ultimately reveals a bureaucracy where rules are optional, oversight is ceremonial and accountability never formally concludes. This is a system that has learned to absorb scrutiny without being changed by it. The question is whether anyone in power intends to look into it.\nPublished in Dawn, June 29th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "Public Administration / Pakistan Affairs / Economics / Current Affairs",
-    "topic": "Governance Failures, Public Sector Accountability, and Audit Inefficiency in Pakistan",
-    "whyMatters": "This article provides concrete examples and a critical analysis of deep-rooted governance issues and systemic failures in public accountability within Pakistan. Aspirants can use it to support arguments on administrative reforms, state capacity, and economic challenges in essay, current affairs, and public administration papers.",
-    "summary": [
-      "The Auditor General of Pakistan's report highlights widespread governance failures and institutional collapse across federal civil accounts, marked by staggering financial losses.",
-      "A pervasive culture of non-response to audit observations has been normalized across government entities, indicating that ignoring oversight carries no meaningful consequences.",
-      "Significant financial losses are attributed to elementary failures like unrecovered loans, unfiled reports, and uncharged late fees, rather than complex fraud, pointing to a deeper cultural and systemic crisis.",
-      "The audit cycle has devolved into a mere ritual, where bureaucracy has learned to absorb scrutiny without being changed by it, as non-compliance incurs no significant cost."
-    ],
-    "facts": [
-      "The Economic Affairs Division ignored audit observations on Rs1.9tr in liabilities.",
-      "The FBR recorded Rs117.8bn in under-realised super tax, failing its fundamental purpose.",
-      "Dasu Hydropower's costs overran by 257pc, while Neelum-Jhelum has been dormant since May 2024 with incomplete inquiries.",
-      "NDMA holds nearly Rs11bn in relief stock with zero inventory system, and all 20 audit findings went unaddressed."
-    ],
-    "academicReferences": [
-      "Robert Klitgaard's 'Controlling Corruption' (conceptual framework for addressing governance failures)",
-      "National Accountability Bureau (NAB) Ordinance 1999 (relevant to accountability mechanisms)",
-      "Public Accounts Committee (PAC) Reports (direct oversight body mentioned in the article)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Staggering",
-        "type": "adjective",
-        "definition": "Extremely surprising, shocking, or impressive.",
-        "sentence": "The sheer amount of unrecovered loans and lost funds presented a staggering figure in the audit report."
-      },
-      {
-        "word": "Paras",
-        "type": "noun",
-        "definition": "Short for paragraphs; often used in audit reports to refer to specific observations or findings.",
-        "sentence": "Sadly, the ministries and other government entities do not respond to the audit paras, indicating a lack of accountability."
-      },
-      {
-        "word": "Dormant",
-        "type": "adjective",
-        "definition": "Temporarily inactive or inoperative.",
-        "sentence": "The Neelum-Jhelum project has sat dormant since May 2024, raising concerns about project management."
-      },
-      {
-        "word": "Insolvent",
-        "type": "adjective",
-        "definition": "Unable to pay debts owed; bankrupt.",
-        "sentence": "Passco's accumulated losses and unrecovered receivables render the agency technically insolvent."
-      },
-      {
-        "word": "Ritual",
-        "type": "noun",
-        "definition": "A prescribed order of performing religious or other rites; here, a routine performed without genuine purpose or effect.",
-        "sentence": "The article suggests that the entire audit cycle has become a pure ritual, lacking any real impact on bureaucratic practices."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as the 'deeper crisis' behind the governance failures?",
-        "options": [
-          "A) Complex financial fraud schemes by high-ranking officials",
-          "B) A pervasive lack of technical expertise among public sector employees",
-          "C) The normalization of non-response to audit observations, indicating no real consequences for ignoring oversight",
-          "D) Insufficient funding and resources for the Auditor General of Pakistan's office"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'Departments have learned that ignoring oversight carries no real consequence. That calculation, repeated across institutions, is the deeper crisis.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the article's core assertion about the current state of the audit cycle in Pakistan?",
-        "back": "The audit cycle has become a pure ritual, where bureaucrats avoid accountability without meaningful cost, and the system absorbs scrutiny without implementing change."
-      },
-      {
-        "front": "According to the article, what is the primary nature of financial losses in federal accounts, and what does this signify?",
-        "back": "Losses stem from embarrassingly elementary failures like unrecovered loans and unfiled reports, rather than complex fraud, signifying a deeper cultural and institutional breakdown."
-      },
-      {
-        "front": "How does the article characterize the response of government entities to audit observations?",
-        "back": "Government entities, including the Economic Affairs and Cabinet Divisions, normalize non-response to audit paras, showing they've learned that ignoring oversight has no real consequences."
-      },
-      {
-        "front": "What specific example highlights the FBR's failure at its fundamental purpose?",
-        "back": "The FBR's failure is highlighted by Rs117.8bn in under-realised super tax and unrecovered duties, indicating it is not fulfilling its primary role of tax collection."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782785450488-201",
-    "title": "‘Missing’ LGs\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011517/missing-lgs",
-    "date": "2026-06-29",
-    "author": "none@none.com (Editorial)",
-    "content": "ACROSS the world, successful civic governance is made possible through effective, responsive local bodies, which are closest to the voter. However in Pakistan, the third tier is the most neglected within the structure of governance.\nInterestingly, military strongmen have held regular LG polls under their watch, while supposedly democratic set-ups have dithered, creating various obstacles in the smooth functioning of local bodies. The third tier is again under the spotlight, with coalition partners PPP and PML-N taunting each other over the state of LGs in the provinces they rule.\n    \nPPP chief Bilawal Bhutto-Zardari had recently, in the National Assembly, dared the PML-N to hold LG polls in Punjab and Islamabad “within 90 days”. Punjab has been without an elected third tier since December 2021 due to frequent changes in the provincial LG law. In response, PML-N leader Saad Rafique said local polls should not be held in Punjab as per Sindh’s pattern. What has emerged from this verbal jousting is the promise from the Sindh government to hold local polls next year.\nBeyond political bickering, the episode exposes the structural gaps that have prevented the holding of regular LG polls in Pakistan and, consequently, the establishment of effective local bodies running cities and towns smoothly.\n    \nLocal elections cannot be held as per the whims of provincial ruling parties. There should be a clearly defined timeline for such polls, and well-defined criteria detailing the LGs’ powers. Though the Constitution’s Article 140-A does mention the LG system, experts are of the view that greater clarity is needed in the nation’s basic document to ensure that provincial governments cannot shirk their duty to hold regular polls. This can be achieved through a constitutional amendment.\nBesides a firm election schedule, the powers of the LGs must also be defined. For example, while Sindh has held two local polls over the last decade, the provincial LG law leaves much to be desired. Key civic bodies — such as building control, solid waste management and water and sewerage — are managed by the provincial administration. Even the mayor of a megacity like Karachi is seen to be playing second fiddle to the provincial government and its bureaucracy.\nFor successful LGs in Pakistan, clear constitutional guidelines need to be complemented by progressive provincial LG laws that devolve power to the local level. Moreover, each jurisdiction requires tailored solutions — the civic problems of Turbat and Tando Allahyar are vastly different to what Lahore and Karachi experience. Additionally, each local administration must have the financial and administrative tools to resolve its own problems without having to plead its case before the bureaucracy.\nAll parties are guilty of blocking LG reform. They must set aside their narrow interests and work together to bring grassroots democracy to the tehsil and UC level.\nPublished in Dawn, June 29th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs / Current Affairs / Governance and Public Policy",
-    "topic": "Local Governance and Devolution in Pakistan",
-    "whyMatters": "This article is crucial for understanding the persistent structural issues plaguing local governments in Pakistan, a key area in governance reform. Aspirants must grasp the historical paradoxes and constitutional remedies proposed for effective grassroots democracy.",
-    "summary": [
-      "Pakistan's third tier of governance (Local Governments) is severely neglected, hindering effective civic governance despite its global importance.",
-      "A notable paradox exists where military regimes often held regular LG polls, while democratic setups have historically dithered and created obstacles.",
-      "Structural gaps preventing effective LGs include the absence of defined timelines for elections, unclear powers, and a lack of financial and administrative autonomy.",
-      "Proposed solutions involve a constitutional amendment for greater clarity in Article 140-A, implementation of progressive provincial LG laws that devolve power, and tailored solutions for diverse local jurisdictions."
-    ],
-    "facts": [
-      "Punjab has been without an elected third tier since December 2021 due to frequent changes in provincial LG law.",
-      "Sindh has held only two local polls over the last decade, despite a constitutional mandate for LGs.",
-      "The Constitution's Article 140-A mentions the LG system, but experts argue it requires greater clarity to ensure regular polls."
-    ],
-    "academicReferences": [
-      "Constitution of Pakistan (specifically Article 140-A on Local Government)",
-      "18th Amendment to the Constitution of Pakistan (enhancing provincial autonomy and its implications for local governance)",
-      "Theory of Decentralization and Subsidiarity (principles underpinning effective local governance)"
-    ],
-    "vocabulary": [
-      {
-        "word": "dithered",
-        "type": "verb",
-        "definition": "hesitated or been indecisive",
-        "sentence": "Democratic set-ups have dithered in holding regular LG polls, creating various obstacles in the smooth functioning of local bodies."
-      },
-      {
-        "word": "jousting",
-        "type": "noun",
-        "definition": "verbal sparring or competition, typically between opposing parties",
-        "sentence": "What has emerged from this verbal jousting between coalition partners is the promise from the Sindh government to hold local polls next year."
-      },
-      {
-        "word": "devolve",
-        "type": "verb",
-        "definition": "transfer or delegate (power or responsibility) to a lower level, especially from central government to local or regional administration",
-        "sentence": "For successful LGs in Pakistan, clear constitutional guidelines need to be complemented by progressive provincial LG laws that devolve power to the local level."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary structural gap that has prevented the holding of regular LG polls in Pakistan?",
-        "options": [
-          "Lack of clearly defined timelines for elections and LG powers.",
-          "Absence of political parties at the local level.",
-          "Excessive foreign interference in local affairs.",
-          "Low voter turnout in LG elections."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'There should be a clearly defined timeline for such polls, and well-defined criteria detailing the LGs’ powers,' as a critical structural gap."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the global importance of effective local bodies for civic governance?",
-        "back": "They are the third tier of governance, closest to the voter, enabling effective and responsive civic governance."
-      },
-      {
-        "front": "What paradox does the article highlight regarding LG elections in Pakistan's history?",
-        "back": "Military strongmen have often held regular LG polls, while supposedly democratic set-ups have historically hesitated or created obstacles."
-      },
-      {
-        "front": "What key change does the article suggest for Article 140-A of the Constitution to ensure regular LG polls?",
-        "back": "A constitutional amendment is needed to provide greater clarity in Article 140-A, ensuring provincial governments cannot shirk their duty."
-      },
-      {
-        "front": "Beyond constitutional amendments, what two types of tools are essential for successful LGs to resolve their own problems?",
-        "back": "Each local administration must have the financial and administrative tools to resolve its own problems without appealing to provincial bureaucracy."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782612430622-176",
-    "title": "Climate budget\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011282/climate-budget",
-    "date": "2026-06-28",
-    "author": "none@none.com (Aisha Khan)",
-    "content": "AS Pakistan navigates intense climate vulnerability, the federal budget for FY26-27 allocates Rs2.478 billion to the Ministry of Climate Change and Environmental Coordination under the Public Sector Development Programme (PSDP). While this allocation signals a policy acknowledgement of environmental threats, an objective examination reveals a disconnect between financial inputs and tangible outcomes. By analysing funding lines (afforestation, capacity building and urban strategies) against realities on the ground, we can evaluate whether these public funds serve genuine ecological preservation or merely fuel profit loops.\nThe centrepiece of the ministry’s portfolio is the ‘Upscaling Green Pakistan Prog­r­amme’, consuming Rs2.335bn (over 94 per cent of the budget). On paper, massive tree plantation drives are laudable. However, evaluating this expenditure requires looking beyond the number of saplings planted to assess the broader ecosystem.\nPakistan suffers from one of the highest rates of deforestation in Asia, driven by timber mafias, unregulated urban sprawl and agricultural conversion. While the government spends billions planting fragile saplings, mature forests which possess superior carbon sequestration capacities, established root systems for flood mitigation and rich biodiversity are cut down at alarming rates. A sapling takes decades to replicate the ecological services of a single mature tree. By failing to halt deforestation, the state is effectively emptying a sinking boat with a thimble.\nWithout strict survival-rate audits, afforestation drives risk becoming cyclical commercial operations where dead saplings are repeatedly replaced using public funds, benefiting commercial interest groups while yielding negligible long-term ecological returns.\nFederal spending on climate action has generally declined.\nThe remaining budget lines follow a similar pattern of administrative expenditure outstripping concrete outcomes. The ‘Green Skills for Sustainable Development’ initiative, allocated Rs51.6 million, aims to train youth for eco-friendly jobs. However, without a structural shift in Pakistan’s economy to create green industries, training programmes remain isolated workshops. The output becomes a certified but underemployed cohort, turning the allocation into a public relations metric rather than an economic transformation tool.\nSimilarly, Rs50m is earmarked for the ‘Formulation of the National Urban Strategy and Guidelines’ to prevent urban flooding. Pakistan already possesses an abundance of policy documents, frameworks and strategy papers. Funding yet another guideline document while municipalities lack basic financial resources to upgrade drainage systems, stop wetland encroachment or enforce building codes is an analytical failure.\nGiven the country’s repeated exposure to floods, droughts, heatwaves, and glacial hazards, the budget remains small compared to the scale of climate risks. For strengthening coping capacity, it will be important that future budgets place greater emphasis on adaptation and resilience alongside mitigation and tree-planting initiatives.\nA review of the climate change ministry’s PSDP allocations over the past five years shows that despite growing climate risks and stronger international commitments, federal development spending on climate action has generally declined in real terms.\nInflation in Pakistan has remained elevated during much of the period from 2022 to 2026. Even if the ministry’s budget had remained constant, its purchasing power would have declined. Instead, the nomi-nal PSDP allocation itself has fallen from Rs9.6bn in FY 2022-23 to Rs2.48bn in FY 2026-27. In real terms, therefore, federal climate development spe­­nding appears to have contracted sig-nificantly.\nThe federal ministry’s allocation rem­ains an important signal of national priorities, and a declining PSDP trend suggests that climate governance is increasingly expected to rely on external finance and cross-sectoral spending rather than a growing dedicated federal climate budget.\nFrom the perspective of climate governance, the budget is heavily weighted towards an ecosystem with comparatively limited resources dedicated to adaptation planning, climate resilience infrastructure, early warning systems and climate risk management.\nFor a country with growing risks, transparency is essential to determine whether its climate budget is genuinely mitigating a national emergency, or simply operating as a subsidised mechanism for elite enrichment. True climate resilience is not built on unverified metrics but proven by an outcome-based financial model. This will require us to shift to independent public audits, open-data monitoring and decentralised accountability.\nThe writer is a climate policy analyst.\naisha@csccc.org.pk\nPublished in Dawn, June 28th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Governance and Budgeting in Pakistan",
-    "whyMatters": "This article is crucial for competitive exam students as it provides a critical analysis of Pakistan's federal climate budget, exposing systemic failures in climate governance and resource allocation. It indirectly highlights the nation's unpreparedness to address multifaceted climate challenges, including those impacting water resources and potentially exacerbating inter-provincial harmony, despite nominal policy acknowledgments.",
-    "summary": [
-      "The federal budget for FY26-27 allocates Rs2.478 billion to the Ministry of Climate Change, with over 94% (Rs2.335bn) dedicated to the 'Upscaling Green Pakistan Programme'.",
-      "Current afforestation efforts are deemed ineffective as they fail to halt ongoing deforestation by timber mafias and urban sprawl, relying on fragile saplings while mature forests are lost.",
-      "Other initiatives like 'Green Skills for Sustainable Development' and 'National Urban Strategy' are criticized for focusing on administrative expenditure and policy formulation without structural economic shifts or ground-level financial resources for implementation.",
-      "Federal development spending on climate action has declined significantly in real terms over the past five years, indicating a shift towards reliance on external finance and cross-sectoral spending rather than a dedicated federal climate budget."
-    ],
-    "facts": [
-      "FY26-27 federal budget allocation for Ministry of Climate Change and Environmental Coordination under PSDP: Rs2.478 billion.",
-      "Share of 'Upscaling Green Pakistan Programme' in the climate budget: Rs2.335 billion (over 94%).",
-      "Nominal PSDP allocation for climate action declined from Rs9.6 billion in FY 2022-23 to Rs2.48 billion in FY 2026-27."
-    ],
-    "academicReferences": [
-      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports (for global scientific consensus and impacts)",
-      "Pakistan's National Climate Change Policy (2012) and National Adaptation Plan (NAP) (for national policy context and gaps)",
-      "Economic Survey of Pakistan [relevant year] (for budgetary context, inflation figures, and PSDP allocations)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Afforestation",
-        "type": "noun",
-        "definition": "The establishment of a forest or stand of trees in an area where there was no previous tree cover.",
-        "sentence": "The government's afforestation drives aim to increase forest cover, but critics argue they are insufficient without tackling deforestation."
-      },
-      {
-        "word": "Carbon sequestration",
-        "type": "noun",
-        "definition": "The process of capturing and storing atmospheric carbon dioxide, typically in forests, soil, or geological formations, to mitigate climate change.",
-        "sentence": "Mature forests offer superior carbon sequestration capacities compared to newly planted saplings."
-      },
-      {
-        "word": "Mitigation",
-        "type": "noun",
-        "definition": "Actions taken to reduce or prevent the emission of greenhouse gases and to limit the long-term global warming potential.",
-        "sentence": "The article suggests that current budget allocations are heavily weighted towards mitigation efforts like tree-planting, with less emphasis on adaptation."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is identified as a primary reason for the ineffectiveness of Pakistan's afforestation drives, according to the article?",
-        "options": [
-          "Massive timber mafias and unregulated urban sprawl leading to simultaneous deforestation.",
-          "Lack of public interest in participating in tree plantation campaigns.",
-          "Insufficient budget allocation for purchasing saplings.",
-          "Overemphasis on planting non-native tree species."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that Pakistan suffers from one of the highest rates of deforestation, driven by timber mafias and unregulated urban sprawl, which negates the impact of afforestation drives."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism regarding the 'Upscaling Green Pakistan Programme' despite its significant budget allocation?",
-        "back": "The program is criticized for focusing on planting fragile saplings while failing to halt rampant deforestation of mature forests, leading to negligible long-term ecological returns without strict survival-rate audits."
-      },
-      {
-        "front": "How has federal development spending on climate action changed in real terms over the past five years, according to the article?",
-        "back": "Federal development spending on climate action has significantly declined in real terms over the past five years, with nominal PSDP allocation falling from Rs9.6bn in FY 2022-23 to Rs2.48bn in FY 2026-27."
-      },
-      {
-        "front": "What is the article's main concern regarding initiatives like 'Green Skills for Sustainable Development' and 'National Urban Strategy'?",
-        "back": "The concern is that these initiatives involve administrative expenditure and policy formulation (e.g., training, guidelines) without structural economic shifts or providing basic financial resources at the municipal level for concrete outcomes, making them PR metrics rather than transformation tools."
-      },
-      {
-        "front": "What is proposed in the article to ensure genuine climate resilience and accountability for climate budget spending?",
-        "back": "The article proposes a shift to independent public audits, open-data monitoring, and decentralized accountability to ensure the climate budget genuinely mitigates national emergencies rather than merely operating as a subsidized mechanism for elite enrichment."
-      }
-    ]
-  },
-  {
-    "id": "curated-1782698839329-791",
-    "title": "Dreaming of connectivity\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2011286/dreaming-of-connectivity",
-    "date": "2026-06-28",
-    "author": "none@none.com (Muhammad Amir Rana)",
-    "content": "GWADAR has long remained Pakistan’s geoeconomic dream.\nWhenever officialdom thinks of extracting economic advantage from geopolitics, Gwadar is the first image that comes to mind. Yet the port has not realised its promised potential, and the adjoining economic zone still awaits investors.\nPakistan’s facilitation of the Tehran-Washing­ton contact generated cautious optimism about a possible geoeconomic opening with Iran. Under the 2008 bilateral agreement on international road transport of passengers and goods, Pakistan has already offered Iran multiple trade routes, including Gwadar-Gabd, Karachi/Port Qasim-Ormara-Pasni-Gabd, Karachi/Port Qasim-Khuz­dar-Dalbandin-Taftan, and extended corridors lin­­king Gwadar, Turbat, Panjgur, Khuzdar, Quet­­ta and Taftan. If used, these routes can reduce logistics costs and reconnect Makran with regional trade flows.\n    \nSoon after Iranian President Masoud Pezeshkian’s visit to Islamabad, the FBR introduced procedures allowing cross-stuffing of Iran-bound cargo at Pakistan’s seaports and off-dock terminals. The move is expected to benefit Gwadar, Makran and Pakistan’s border trade with Iran.\nIt can be assumed that such facilitation featured in bilateral discussions. Iran has used the Strait of Hormuz as geopolitical leverage, but chokepoints also impacted Iran as the US naval blockade was costing Iran $500 million daily, resulting in billions in lost oil revenues in just the first few weeks of the tightening restrictions.\nThe Gulf crisis has reminded all regional states of the need to diversify trade routes. Iran, already facing regional and global constraints, needs alt­e­rnative corridors; Pakistan is geographically plac­­ed to provide them. This opportunity can also be­­nefit Pakistan.\nYet, Pakistan is part of emerging alignments in West Asia that may not always sit comfortably with deeper economic cooperation with Iran. Still, in a region covered in strategic haze, Pakistan’s advantage lies in keeping its options open, building corridors and allowing economics to create space when politics is constrained.\nPakistan’s growing economic engagement with Iran is driven by strategic considerations.\nApart from rapidly changing West Asian geopolitics, Pakistan’s growing economic engagem­ent with Iran is driven by several strategic considerations. Afghanistan remains the first; the need for a more controlled border regime in the context of the Baloch insurgency the second; the long-delayed gas pipeline the third; and the search for alternative routes to Central Asia the fourth.\nFor decades, Afghanistan appeared to be Pakistan’s natural gateway to Central Asia. However, terrorism and deteriorating relations with Kabul have pushed this ambition to the background. Rawalpindi has lost patience with the security situation across the western border, and, if not abandoned, the dream of reaching Central Asia through Afghanistan has at least been placed on the back-burner.\nInterestingly, Pakistan’s strategic community has repeatedly produced grand ideas capable of energising the power elite. Since the Soviet withdrawal from Afghanistan, and even during the war itself, Pakistan envisioned expanding its economic, energy, defence and political relations with Central Asia. Numerous transnational energy and trade corridors were proposed, yet few materialised.\nPerhaps Uraan Pakistan is another manifestation of this tendency. The federal government’s National Economic Transformation Plan (2024-29) seeks to place Pakistan on the path to a trillion-dollar economy by 2035 and a higher-income economy by 2047. Within the current power structure, a new strategic vision is echoing. It is titled ‘Three Routes to the World’.\nThe first, the Blue-Gold Corridor, links Gwadar to Central Asia through Chagai, Herat and Tashkent, offering the shortest land route to the region and a potential corridor for minerals and agriculture. The second connects Gwadar to Mashhad through Iran, relying on existing Iranian infrastructure and offering the fastest and least expensive option. The third, the CPEC-China route, stretches from Gwadar to Kashgar via Islamabad, linking the port to China’s western regions and giving Gwadar renewed strategic relevance in an increasingly uncertain region.\n    \nSuch visions look good in PowerPoint presentations, but many may not have the capacity to see the constraints and evolve a plan to implement the idea. The power elite is not ready to acknowledge that the Chinese now have reduced enthusiasm for Gwadar and even for CPEC because of security concerns, bureaucratic red tape-ism, and, most importantly, the lack of plans and vision to assess future prospects for the venture.\nThere is a gap between dreaming and thinking big. The former may involve conceiving grand ideas, but the latter requires plans, institutions and sustained strategies to transform those ideas into reality.\nPerhaps the roots of this tendency to dream lie deep in the psychology of Pakistan’s power and intellectual elites. They continue to believe that Pakistan was primarily the product of poet-philosopher Muhammad Iqbal’s imagination, yet they remain hesitant to appreciate the pragmatism of the country’s founder Mohammad Ali Jin­nah. From Iqbal, they extract utopianism; from Jinnah, they borrow only fragments of realism.\nDreamers possess a certain luxury. When one dream shatters, another can easily replace it. Yet the strategic vision that dominates sections of the power elite often fails to complement the country’s geoeconomic ambitions. Forget India, with whom Pakistan’s political leadership once envisioned expanding trade and economic cooperation. Afghanistan presents a more revealing case.\nFollowing the Taliban takeover in 2021, Pakis­tani strategists became optimistic about connectivity with Central Asia through Afghanistan. Central Asian states also appeared receptive to the idea. However, terrorism intervened. Pakistan’s failure to persuade the Taliban to curb the TTP and other terrorist groups gradually transformed optimism into frustration.\nIslamabad has not only put aside the idea of reaching Central Asia via Afghanistan, but has also distanced itself from its former partner, the Afghan Taliban.\nIran has now emerged as an alternative gateway to Central Asia. Strategists are no longer merely discussing this option; they have begun implementing it, as evidenced by the first cargo shipments to Uzbekistan via Iranian territory.\nThe future of West Asian geopolitics remains uncertain, and Pakistan’s place in the emerging regional order is yet to be determined. One can only hope that, in pursuit of new opportunities, Pakistan does not abandon yet another dream, the one now described as the Blue-Gold Corridor.\nThe writer is a security analyst.\nPublished in Dawn, June 28th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Current Affairs",
-    "topic": "Geoeconomics, Regional Connectivity & Integration",
-    "whyMatters": "This article, while not directly mentioning ECO, is highly relevant for understanding Pakistan's contemporary geoeconomic ambitions, regional integration challenges, and future prospects for trade connectivity with Central Asia and Iran, which are core objectives of ECO. It provides critical context on alternative routes and strategic considerations shaping Pakistan's engagement within regional frameworks like ECO.",
-    "summary": [
-      "Gwadar's potential as Pakistan's geoeconomic dream remains largely unfulfilled, with the port and economic zone awaiting significant investment and realization.",
-      "Pakistan is increasingly pivoting towards Iran as a crucial alternative gateway for regional trade, especially for reaching Central Asia, due to deteriorating relations and security concerns with Afghanistan.",
-      "The 'Three Routes to the World' vision — Blue-Gold Corridor, Gwadar-Mashhad via Iran, and CPEC-China route — outlines Pakistan's grand strategy for enhancing regional connectivity.",
-      "Despite grand visions, Pakistan faces significant hurdles in implementation, including security concerns, bureaucratic inefficiencies, reduced Chinese enthusiasm for CPEC/Gwadar, and a persistent gap between dreaming big and strategic execution."
-    ],
-    "facts": [
-      "Pakistan offered Iran multiple trade routes under the 2008 bilateral agreement on international road transport of passengers and goods.",
-      "The FBR introduced procedures allowing cross-stuffing of Iran-bound cargo at Pakistani seaports, expected to benefit Gwadar and border trade with Iran.",
-      "Pakistan's National Economic Transformation Plan (2024-29) aims for a trillion-dollar economy by 2035 and a higher-income economy by 2047, underpinned by the 'Three Routes to the World' vision."
-    ],
-    "academicReferences": [
-      "Economic Cooperation Organization (ECO) Vision 2025: A framework document outlining regional trade and connectivity goals.",
-      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics': For understanding CPEC's broader strategic context.",
-      "SCO (Shanghai Cooperation Organization) Declarations on Regional Economic Cooperation: Context for Central Asian connectivity initiatives."
-    ],
-    "vocabulary": [
-      {
-        "word": "Geoeconomic",
-        "type": "adjective",
-        "definition": "Relating to the use of economic tools to achieve geopolitical objectives.",
-        "sentence": "Gwadar represents Pakistan's primary geoeconomic dream, aiming to leverage its geographical position for economic advantage."
-      },
-      {
-        "word": "Cross-stuffing",
-        "type": "noun",
-        "definition": "The process of transferring cargo from one shipping container or mode of transport to another, often at a border or port.",
-        "sentence": "The FBR's new procedures allowing cross-stuffing of Iran-bound cargo are expected to streamline trade logistics."
-      },
-      {
-        "word": "Chokepoints",
-        "type": "noun",
-        "definition": "Narrow channels or passages, such as straits, where maritime traffic is concentrated, making them strategically important but vulnerable.",
-        "sentence": "The Strait of Hormuz is a critical chokepoint, whose geopolitical leverage and vulnerability impact regional trade flows."
-      },
-      {
-        "word": "Utopianism",
-        "type": "noun",
-        "definition": "The belief in or pursuit of a state in which everything is perfect; impractical idealism.",
-        "sentence": "The article suggests that Pakistan's power elite often extracts utopianism from poet-philosopher Muhammad Iqbal rather than practical realism."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT one of Pakistan's 'Three Routes to the World' vision mentioned in the article?",
-        "options": [
-          "Blue-Gold Corridor linking Gwadar to Central Asia",
-          "Gwadar to Mashhad through Iran",
-          "Gwadar to Kabul via Afghanistan",
-          "CPEC-China route from Gwadar to Kashgar"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions the Blue-Gold Corridor, Gwadar-Mashhad through Iran, and the CPEC-China route. The route via Afghanistan is explicitly stated to be on the 'back-burner' due to security concerns, not part of the current 'Three Routes' vision."
-      },
-      {
-        "question": "According to the article, what is a primary reason for Pakistan's increasing economic engagement with Iran?",
-        "options": [
-          "A long-standing cultural affinity between the two nations",
-          "The need for alternative routes to Central Asia due to issues with Afghanistan",
-          "Pressure from the United States to normalize trade relations",
-          "Iran's abundance of mineral resources sought by Pakistan"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'the search for alternative routes to Central Asia' is a key strategic consideration driving Pakistan's engagement with Iran, especially as Afghanistan has become problematic."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What strategic reasons, besides changing West Asian geopolitics, are driving Pakistan's growing economic engagement with Iran?",
-        "back": "Key reasons include: Afghanistan (border control and terrorism), the need for a more controlled border regime in the context of the Baloch insurgency, the long-delayed gas pipeline, and the search for alternative routes to Central Asia."
-      },
-      {
-        "front": "What are the core components of Pakistan's 'Three Routes to the World' vision for connectivity?",
-        "back": "The vision comprises: 1) The Blue-Gold Corridor (Gwadar to Central Asia via Chagai, Herat, Tashkent), 2) Gwadar to Mashhad through Iran (utilizing existing infrastructure), and 3) The CPEC-China route (Gwadar to Kashgar via Islamabad)."
-      },
-      {
-        "front": "Why has Pakistan's ambition to reach Central Asia through Afghanistan been put on the 'back-burner'?",
-        "back": "This ambition has been sidelined primarily due to persistent terrorism and deteriorating relations with Kabul, leading to Pakistan losing patience with the security situation across its western border."
-      },
-      {
-        "front": "What critical challenges does the article identify in Pakistan's ability to translate its grand geoeconomic visions into reality?",
-        "back": "Challenges include: reduced Chinese enthusiasm for Gwadar and CPEC due to security concerns, bureaucratic red tape, and most importantly, the lack of concrete plans and vision to assess future prospects, highlighting a gap between dreaming and strategic implementation."
       }
     ]
   }
