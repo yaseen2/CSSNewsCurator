@@ -1,5 +1,634 @@
 [
   {
+    "id": "curated-1784510695716-458",
+    "title": "Safety by design\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016634/safety-by-design",
+    "date": "2026-07-19",
+    "author": "none@none.com (Asad Baig)",
+    "content": "IN a Los Angeles courtroom, Kaley G.M., 20, described a childhood consumed by social media. She began using YouTube at six and Instagram at nine. On one occasion, she said, she spent 16 hours on Instagram. By 10, she had uploaded 240 videos and created nine other accounts to like and comment on. She told jurors that the platforms disrupted her sleep, education and friendships, and worsened anxiety, depression and body-image problems.\n\nMeta and Google argued that her difficulties had other causes, including bullying and a troubled home life. Her lawyers instead focused on platform design: autoplay, infinite feeds and notifications intended to keep users engaged. After more than 40 hours of deliberations, the jury found both companies negligent.\n\nWhat made the verdict historic was that it emerged from the first US jury trial of its kind, holding the companies responsible not for material posted by users, but for the design and operation of the platforms themselves.\n\nKaley’s case was not an isolated tragedy. In 2024, Mark Zuckerberg was confronted in the US Senate by parents holding photographs of children who had died after being exploited or harmed online. Turning towards them, he apologised.\n\nThe harms extend far beyond addiction. Social media gives predators direct access to children, allowing grooming, sexual exploitation and sextortion to begin through a message, a compliment or a fake friendship. Children are also exposed to cyberbullying, self-harm content, violent material and impossible standards of beauty. Sleep, education and real relationships are displaced by endless scrolling.\n\nThe danger is not simply that children see harmful content. It is that the platforms are built to keep them there.\n\nThe danger is not simply that children see harmful content. It is that the platforms are built to keep them there.\n\nYet the platforms have known about these dangers for years. Their response has been moderation, reporting tools, parental controls and age limits. It has failed. Harmful material continues to slip through, predators return under new accounts, and children routinely bypass age restrictions.\n\nThe failure is increasingly difficult to disguise.\n\nIn 2024, the US Federal Trade Commission found that major platforms had failed to provide adequate safeguards for children and teenagers.\n\nIn 2026, European regulators preliminarily found that Meta had failed to stop children under 13 from using Instagram and Facebook, while Ofcom reported that 73 per cent of UK children aged 11 to 17 had encountered at least one form of harmful content online in the preceding four weeks. Platform accountability has delivered promises after scandal, rather than protection before harm.\n\nThis record has pushed governments towards prohibition. Australia became the first country to require platforms to take reasonable steps to prevent children under 16 from holding accounts. The rules took effect in December 2025. Britain has since announced plans for a similar measure, expected to come into force in spring 2027, alongside restrictions on livestreaming and contact between children and strangers.\n\nPakistan is moving in the same direction. A resolution submitted to the Punjab Assembly seeks a nationwide restriction on social media accounts for children under 16 without verified parental consent. It asks the federal government to legislate, the PTA to enforce age checks and platforms to remove harmful content more quickly.\n\nA ban offers a simple answer to a frightening problem. Its political value, however, may be greater than its protective value. It allows governments to appear decisive while avoiding the harder work of enforcement, platform accountability and sustained child protection.\n\nPakistan’s economic, linguistic and administrative inequalities make it difficult to enforce any uniform age-verification system fairly. Identity checks, facial-age estimation and parental verification could create new privacy and exclusion risks. Children may still bypass the system by entering a false date of birth or using an adult’s account.\n\nEven stronger regulatory systems are struggling. In July 2026, researchers created 50 Australian accounts declaring their users to be exactly 16. None was asked to verify that claim. The test did not prove that openly underage users could register, but showed how heavily enforcement depends on platforms identifying false ages and deciding when verification is necessary.\n\nA blanket restriction may also give parents a false sense of security. Once assured that children cannot use Instagram or TikTok, families may assume that the danger has disappeared. In reality, children may simply move into less visible spaces, including WhatsApp and Telegram groups, Discord servers, gaming communities and platforms such as Roblox. The risk does not disappear. It becomes harder to see.\n\nEducation must therefore be part of the response. The government should invest in sustained digital-safety programmes for parents, teachers and children, helping families recognise grooming, sextortion, cyberbullying and compulsive use, and understand where to seek help. Parents cannot protect children from risks they have never been taught to identify.\n\nPakistan therefore needs something more demanding than a ban. Platforms should be req­u­ired to make children’s accounts private by def­ault, limit contact from strangers, prohibit behavioural advertising to minors, redesign recommendation systems and respond rapidly to grooming and sexual exploitation. Reporting and parental-control tools must work in Urdu and regional languages, while independent audits should test whether these protections actually work.\n\nPakistan can build on its contribution to global cyber governance. It supported a legally binding UN Convention against Cybercrime and participated actively in negotiations on capacity building, technology transfer and international cooperation. The convention is not a platform-accountability framework, but Pakistan’s involvement shows that it can help shape global digital rules rather than merely receive them.\n\nThe more relevant opportunity lies in the Global Digital Compact. It calls for a safer digital environment for children and for platform policies on online child sexual exploitation and abuse to be monitored and reviewed. Pakistan should use this forum, together with other developing countries, to demand common safety standards, greater transparency and meaningful consequences for companies that repeatedly fail children.\n\nThe goal should not be to pretend that children can be removed from the digital world. It should be to make the digital world answerable for what it does to them.\n\nThe writer is the founder of Media Matters for Democracy.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Current Affairs / Governance / Social Issues",
+    "topic": "Digital Safety, Platform Accountability, and Child Protection",
+    "whyMatters": "This article does not address the specific past exam question regarding Pakistan's role in the Economic Cooperation Organization (ECO) or regional integration. However, it is highly pertinent for Current Affairs, Governance, and Social Issues papers, providing critical insights into global digital governance, social media platform accountability, and child protection in the digital age, a major contemporary challenge.",
+    "summary": [
+      "Social media platform designs, featuring autoplay, infinite feeds, and notifications, are engineered to maximize user engagement, leading to significant harms like addiction, anxiety, depression, and body image issues in children, as evidenced by a historic US jury verdict.",
+      "Despite awareness of these dangers, existing platform safeguards (moderation, reporting tools, parental controls) have proven ineffective, leading to a global push for stricter government regulation and platform accountability, with countries like Australia and the UK implementing age restrictions.",
+      "While blanket age restrictions are politically appealing, they pose significant enforcement challenges, especially in countries like Pakistan with socio-economic inequalities, and may create a false sense of security, driving children to less visible online spaces.",
+      "A more effective strategy for Pakistan involves mandating platform redesigns (e.g., private-by-default accounts for minors, limited stranger contact), prohibiting behavioral advertising to minors, localizing safety tools, conducting independent audits, investing in digital safety education, and actively shaping global digital rules through forums like the Global Digital Compact."
+    ],
+    "facts": [
+      "Kaley G.M., 20, described spending 16 hours on Instagram at age 10, leading to a historic US jury verdict finding Meta and Google negligent.",
+      "In 2026, Ofcom reported that 73% of UK children aged 11-17 had encountered at least one form of harmful content online in the preceding four weeks.",
+      "Australia became the first country to require platforms to take reasonable steps to prevent children under 16 from holding accounts, with rules taking effect in December 2025."
+    ],
+    "academicReferences": [
+      "Global Digital Compact (referenced in the article as a relevant international forum)",
+      "UN Convention on the Rights of the Child (UNCRC) (Foundational international law on child protection, relevant to the article's themes)",
+      "EU Digital Services Act (DSA) (A significant regulatory framework for online platforms, relevant to platform accountability discussed in the article)"
+    ],
+    "vocabulary": [
+      {
+        "word": "negligent",
+        "type": "adjective",
+        "definition": "failing to take proper care over something",
+        "sentence": "The jury found both companies negligent for the design and operation of their platforms."
+      },
+      {
+        "word": "prohibition",
+        "type": "noun",
+        "definition": "the action of forbidding something, or a law or order forbidding something",
+        "sentence": "This record has pushed governments towards prohibition, such as age restrictions on social media accounts."
+      },
+      {
+        "word": "predators",
+        "type": "noun",
+        "definition": "people who seek to exploit or harm others, especially children",
+        "sentence": "Social media gives predators direct access to children, allowing grooming and exploitation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the significance of Kaley G.M.'s case against Meta and Google?",
+        "options": [
+          "It was the first US jury trial holding companies responsible for platform design and operation, not just user-posted content.",
+          "It resulted in the largest financial settlement ever against social media companies.",
+          "It led to a nationwide ban on social media for minors in the US.",
+          "It forced social media companies to implement universal age verification systems immediately."
+        ],
+        "answerIndex": 0,
+        "explanation": "The verdict was historic because it emerged from the first US jury trial of its kind, holding companies responsible for the design and operation of the platforms themselves, not just content."
+      },
+      {
+        "question": "According to the article, what is a primary limitation of a blanket restriction (e.g., age ban) on children's social media use?",
+        "options": [
+          "It is too expensive to implement globally.",
+          "It can give parents a false sense of security, leading children to less visible online spaces.",
+          "It violates children's right to freedom of expression.",
+          "It requires platforms to develop entirely new technologies that are not yet available."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that a blanket restriction may give parents a false sense of security, as children may simply move into less visible spaces, making the risk harder to see."
+      },
+      {
+        "question": "What does the article suggest as a more demanding and effective approach for Pakistan regarding children's digital safety?",
+        "options": [
+          "Immediately banning all social media for children under 18.",
+          "Requiring platforms to make children's accounts private by default, limit stranger contact, and prohibit behavioral advertising to minors.",
+          "Delegating all digital safety responsibilities solely to parents and schools.",
+          "Developing its own national social media platform exclusively for children."
+        ],
+        "answerIndex": 1,
+        "explanation": "Pakistan needs 'something more demanding than a ban,' specifically requiring platforms to make children’s accounts private by default, limit contact from strangers, prohibit behavioural advertising to minors, and redesign recommendation systems."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental shift did the US jury trial involving Kaley G.M. represent in holding social media companies accountable?",
+        "back": "The trial shifted accountability from user-posted content to the inherent design and operational features of the platforms themselves (e.g., autoplay, infinite feeds)."
+      },
+      {
+        "front": "Why does the article argue that existing platform safeguards like moderation and parental controls have largely failed?",
+        "back": "These tools have failed because harmful material continues to slip through, predators return under new accounts, and children routinely bypass age restrictions, as demonstrated by various regulatory findings."
+      },
+      {
+        "front": "What are the key components of a more robust digital safety strategy for children in Pakistan, beyond a simple ban?",
+        "back": "It includes mandating platform redesigns (private-by-default accounts, limited stranger contact, no behavioral advertising for minors), localized reporting tools, independent audits, digital safety education, and active participation in global digital governance."
+      },
+      {
+        "front": "How can Pakistan leverage its role in global cyber governance to enhance digital safety for children?",
+        "back": "Pakistan can use forums like the Global Digital Compact, together with other developing countries, to demand common safety standards, greater transparency, and meaningful consequences for platforms that repeatedly fail children."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784510778985-700",
+    "title": "Destination Pakistan\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016635/destination-pakistan",
+    "date": "2026-07-19",
+    "author": "none@none.com (Muhammad Amir Rana)",
+    "content": "PAKISTAN’S power elite, particularly those within the security structures, has rarely lacked confidence, maintaining an optimism that ground realities seldom justify. Over the decades, the sources of this self-assurance have shifted, from military might to the country’s critical geopolitical location, and now to physical resources, chief among them the critical minerals concentrated in the turbulent province of Balochistan.\n\nWhat remains constant is not the source of hope, but the elite’s persistent unwillingness to reconcile it with Pakistan’s actual sociological, political and economic indicators, which tell a far less reassuring story.\n\nThe power elite might not have been surprised by the European Commission’s latest report on the implementation of the GSP-Plus, which flagged certain compliance issues. This latest assessment comes at a time when Pakistani exporters enjoy preferential access to the European market in return for implementing 27 international conventions covering human rights, labour rights, environmental protection, climate action and good governance.\n\nThe European Union, which counts Pakistan among the top beneficiaries of its Generalised Scheme of Preferences Plus, emphasised that the country would have to overcome certain shortcomings to qualify under the revised framework.\n\nThe EU report will hardly impact the power elite’s attitude towards its record on human rights, the rule of law, justice, freedom of the press, and democracy, as it appears to neither believe in these values nor see democracy as a system that best suits the country. Its sources of inspiration lie elsewhere: China and the Gulf monarchies fascinate Pakistan’s elites far more, and their authoritarian developmentalism seems more viable to them. Against this backdrop, they keep treating the population as subjects rather than citizens with constitutional rights.\n\nFor the power elite, compliance with Western frameworks, including GSP-Plus, regimes like FATF, and conditions imposed by the IMF is merely a tool. They believe that through such mechanisms, the West seeks to manoeuvre developing countries and keep them subservient. Consequently, they half-heartedly try to fulfil the minimum compliance requirements to keep the West engaged and to secure their economic, and more importantly, geopolitical and strategic relevance in Western capitals.\n\nPerhaps this arrangement suits the Western nations as well, allowing them to satisfy their own constituencies that, at the very least, the country is trying to adhere to international human rights norms.\n\nThe EU report will hardly impact the power elite’s approach to rights and the rule of law.\n\nThe power elite’s optimism is the real obstacle to building a functional democracy in Pakistan. They believe the country can score exceptionally well on economic and social indicators while following authoritarian models, and that electoral cycles every four to five years break the momentum of progress. What they fail to realise is that most autocracies fail, succumbing to severe corruption, economic collapse and human flight.\n\nStable authoritarian states, such as China and Singapore, have built highly professional, well-compensated, and competitive civil services, where public policy is executed by skilled technocrats rather than political appointees, a feature that Pakistan’s own model completely misses.\n\nThe power elite does not care about the political, social or security-related apprehensions the international community holds regarding Pakistan, not even those of the autocracies and monarchies it admires most.\n\nPakistan continues to struggle on the global stage, ranking 91st on the Fragile States Index. Categorised under the ‘Alert’ bracket, the country is wedged between Eritrea and Uganda.\n\nAcross major global governance, stability, and human rights indices, Pakistan’s performance reflects a challenging environment marked by heightened security vulnerabilities and political volatility.\n\nThe Global Terrorism Index paints an even grimmer picture, placing Pakistan at the very top as the nation most impacted by terrorism globally, followed by Burkina Faso at number two.\n\nPakistan has been combating terrorism and political violence for the last two and a half decades. This prolonged struggle makes it a unique case; other nations that were once heavily ravaged by similar forms of violence, such as Syria, Iraq and Afghanistan, have long since seen relative improvements in their indicators.\n\nSimilarly, Pakistan’s standing on the Freedom in the World index is unsurprising, with a low score of 32 out of 100 and further decline expected. In this landscape, civil liberties remain an alien concept. Pakistan ranks worse than Guinea-Bissau (which is also rated ‘Partly Free’ but scores one point higher). Meanwhile, Angola is struggling just to catch up with Pakistan’s failing metrics. Naturally, a country struggling across all major social and political indicators cannot perform well on the rule of law. On the WJP Rule of Law Index, Pakistan ranks a dismal 130th out of 143 nations globally.\n\nAccording to the Economist Intelligence Unit’s Democracy Index, Pakistan recently underwent a significant downgrade, dropping out of the ‘Hybrid Regime’ category to be explicitly classified as an ‘Authoritarian Regime’. While the country has ideologically converged with the authoritarian models its elites idealise, it continues to fail at improving its basic economic and social indicators.\n\nUltimately, across all major global evaluations, Pakistan shares statistical boundaries with nations undergoing severe structural crises, military-backed administrations, or acute civil conflicts. While its legal, constitutional framework technically grants it slightly better civic space scores, such as a ‘Partly Free’ status in Freedom in the World data, which places it above authoritarian Algeria, the practical realities of high terrorism rates, state fragility and restricted democratic participation place it on par with heavily securitised states.\n\nHowever, statistics, indicators and warnings by the EU are not going to change the minds of the power elite, as they still live under the illusion that the harder and more authoritarian the state becomes, the more resilient and strong the nation will grow. But what is a nation for them? Should a select segment of the elites or a common citizen too reserve the right to be part of the nation?\n\nThe writer is a security analyst.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Pakistan Affairs / Current Affairs / Governance & Public Policy / International Relations",
+    "topic": "Pakistan's Governance Crisis: Elite Mindset, Authoritarianism, and International Compliance",
+    "whyMatters": "This article critically analyzes the Pakistani power elite's governance philosophy and its implications for the nation's democratic, social, and economic progress. It provides strong arguments and statistical evidence crucial for competitive exam essays and analytical questions on Pakistan's internal challenges and external perceptions.",
+    "summary": [
+      "Pakistan's power elite harbors an unjustified optimism, failing to reconcile it with the nation's dire sociological, political, and economic indicators.",
+      "The elite prefers authoritarian developmental models inspired by China and Gulf monarchies over democratic values, treating the populace as subjects rather than citizens.",
+      "Compliance with Western frameworks (GSP-Plus, FATF, IMF) is strategically employed as a tool to maintain geopolitical relevance, not as a genuine commitment to reforms.",
+      "Pakistan consistently performs poorly across major global indices, including the Fragile States Index, Global Terrorism Index, Freedom in the World, Rule of Law Index, and Democracy Index, reflecting deep systemic issues."
+    ],
+    "facts": [
+      "Pakistan ranks 91st on the Fragile States Index, falling into the ‘Alert’ bracket and positioned between Eritrea and Uganda.",
+      "Globally, Pakistan is the nation most impacted by terrorism, according to the Global Terrorism Index, preceding Burkina Faso.",
+      "The Economist Intelligence Unit’s Democracy Index recently downgraded Pakistan from a ‘Hybrid Regime’ to an ‘Authoritarian Regime’."
+    ],
+    "academicReferences": [
+      "Ayesha Jalal, \"The State of Martial Law: The Origins of Pakistan's Political Economy of Defence\"",
+      "European Commission GSP-Plus reports / FATF grey/black list reports",
+      "Universal Declaration of Human Rights (UDHR) / International Covenant on Civil and Political Rights (ICCPR)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Reconcile",
+        "type": "verb",
+        "definition": "To make compatible or consistent.",
+        "sentence": "The government struggled to reconcile its economic policies with the needs of the common people."
+      },
+      {
+        "word": "Geopolitical",
+        "type": "adjective",
+        "definition": "Relating to politics, especially international relations, as influenced by geographical factors.",
+        "sentence": "Pakistan's geopolitical location has long been a source of both advantage and vulnerability."
+      },
+      {
+        "word": "Authoritarian developmentalism",
+        "type": "noun phrase",
+        "definition": "A political-economic model where a strong, centralized state prioritizes economic growth and development, often suppressing political freedoms and democratic institutions.",
+        "sentence": "The elite's fascination with authoritarian developmentalism suggests a preference for control over democratic participation."
+      },
+      {
+        "word": "Technocrats",
+        "type": "noun",
+        "definition": "Skilled experts, especially in a particular field, who are part of a ruling elite or government.",
+        "sentence": "Stable authoritarian states often rely on highly professional technocrats to execute public policy efficiently."
+      },
+      {
+        "word": "Subservient",
+        "type": "adjective",
+        "definition": "Prepared to obey others unquestioningly.",
+        "sentence": "The power elite believes the West seeks to keep developing countries subservient through conditional aid."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the power elite's primary motivation for complying with Western frameworks like GSP-Plus and FATF?",
+        "options": [
+          "To genuinely implement international human rights norms.",
+          "To satisfy their own constituencies within Pakistan.",
+          "To secure economic, geopolitical, and strategic relevance in Western capitals.",
+          "To transition Pakistan into a functional democracy."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that for the power elite, compliance is merely a tool to keep the West engaged and to secure their economic, geopolitical, and strategic relevance in Western capitals."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental disconnect does the article highlight regarding Pakistan's power elite?",
+        "back": "The elite's persistent optimism and unwillingness to reconcile it with Pakistan’s actual sociological, political, and economic indicators."
+      },
+      {
+        "front": "Which models of governance do Pakistan's elites find more inspiring than Western democracy, according to the article?",
+        "back": "Authoritarian developmentalism models from China and the Gulf monarchies."
+      },
+      {
+        "front": "How does the article characterize Pakistan's ranking on the Global Terrorism Index compared to other nations?",
+        "back": "Pakistan ranks as the nation most impacted by terrorism globally, followed by Burkina Faso."
+      },
+      {
+        "front": "What is the key flaw in the power elite's belief that authoritarianism leads to national strength, as per the author?",
+        "back": "They fail to realize that most autocracies succumb to severe corruption, economic collapse, and human flight, unlike stable authoritarian states with professional civil services."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784511025897-355",
+    "title": "Gulf escalation\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016629/gulf-escalation",
+    "date": "2026-07-19",
+    "author": "none@none.com (Editorial)",
+    "content": "THE Islamabad MoU, and the broader US-Iran ceasefire this document is supposed to underpin, is unravelling before our eyes.\n\nFollowing a recent escalation, Washington and Tehran have been trading fire across the Gulf, with each round more intense than the last. The US has struck locations in Iran, while Tehran has responded in kind by hitting targets in the GCC states allied with the US, as well as in Iraq, Jordan and Syria. Both sides have hit civilian sites, including water plants.\n\nThe immediate trigger for hostilities was Iran’s demand that only its ‘approved’ route be used for transit of the Strait of Hormuz. Its attacks on ships using ‘unauthorised’ routes invited an American military response.\n\nApparently, both sides were reading the MoU’s clause regarding the vital strait differently. Yet beyond Hormuz, Israel’s attacks in Lebanon have also put great strain on the MoU.\n\nAs of Saturday, the MoU seemed all but dead, as Iran’s deputy foreign minister has said his country is “no longer implementing” its commitments as per the document.\n\nThe threat of the war restarting and the conflict expanding is very real.\n\nThe US attacks have failed to deter the Iranians while there is talk of a possible American ground invasion. This idea must be dropped immediately, as it would prove to be an unmitigated disaster, and torpedo any chance of peace, however remote, that exists today.\n\nFurthermore, Yemen’s pro-Iran Houthis have threatened to close the Bab al-Mandeb strait — another key chokepoint for global trade — in case the conflict expands. The effect this would have on the global economy would be brutal.\n\nTherefore, to prevent further bloodshed and a new global economic shockwave, all regional states and members of the international community should redouble their efforts to revive the ceasefire.\n\nThe Pakistani and Chinese foreign ministers have called for an immediate return to dialogue. There is great wisdom in their words. Other states, such as Egypt and Turkiye, as well as Qatar, should also try and bring the belligerents back to the table.\n\nThis entirely preventable war is the result of hubris and arrogance; it was launched by the US and Israel, who thought they could knock out the Iranian system in a few days or weeks. Clearly, their assumptions were delusional.\n\nThe US particularly finds itself in a quagmire, standing at the precipice of another ‘forever war’ as midterms loom in November. It has few good options before it. Rather than sink deeper in the Iranian quicksand, the US should halt hostilities immediately.\n\nIran, too, must silence its guns. It is time the US realised that Iran sees the conflict as an ‘existential war’, as its parliament Speaker has observed. The only way to prevent a catastrophic regional conflagration is for both to return to the negotiating table.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Current Affairs",
+    "topic": "Gulf Geopolitics and Regional Stability",
+    "whyMatters": "While this article provides critical insights into ongoing Gulf geopolitical tensions, it offers no specific information or analysis regarding the Economic Cooperation Organization (ECO) or Pakistan's historic role and future prospects within it. Therefore, it is directly unhelpful for addressing the specified past exam question, which focuses exclusively on ECO.",
+    "summary": [
+      "The Islamabad MoU and the US-Iran ceasefire are unravelling, with Washington and Tehran engaging in increasingly intense trade of fire across the Gulf and broader region.",
+      "The immediate trigger was Iran's demand for exclusive use of its 'approved' route through the Strait of Hormuz, leading to attacks on ships and subsequent American retaliation.",
+      "Beyond Hormuz, Israel’s attacks in Lebanon have further strained the MoU, with Iran announcing it is no longer implementing its commitments, raising the threat of a wider war.",
+      "The article warns against an American ground invasion of Iran, highlights the potential closure of the Bab al-Mandeb strait by Houthis, and calls for international efforts by states like Pakistan, China, Egypt, Turkiye, and Qatar to revive dialogue and prevent a global economic shockwave."
+    ],
+    "facts": [
+      "The conflict involves US strikes in Iran and Iranian responses targeting GCC states, Iraq, Jordan, and Syria, including civilian sites.",
+      "Iran demanded that only its 'approved' route be used for transit of the Strait of Hormuz, triggering hostilities.",
+      "Yemen’s pro-Iran Houthis have threatened to close the Bab al-Mandeb strait if the conflict expands, posing a threat to global trade."
+    ],
+    "academicReferences": [
+      "The Treaty on the Non-Proliferation of Nuclear Weapons (NPT) - relevant for understanding global proliferation concerns in a volatile region.",
+      "Stephen Walt, 'Taming American Power: The Global Response to U.S. Primacy' - offers perspective on US foreign policy challenges and international reactions.",
+      "Mohammad Javad Zarif, 'The Global Implications of Iran's Foreign Policy' - although not a specific title, referencing a key Iranian diplomat's perspective adds depth to understanding Iran's motivations."
+    ],
+    "vocabulary": [
+      {
+        "word": "unravelling",
+        "type": "verb",
+        "definition": "disintegrating or falling apart; ceasing to be effective",
+        "sentence": "The Islamabad MoU and the broader US-Iran ceasefire is unravelling before our eyes."
+      },
+      {
+        "word": "chokepoint",
+        "type": "noun",
+        "definition": "a point of congestion or obstruction, especially in a military or logistical sense",
+        "sentence": "The Bab al-Mandeb strait is another key chokepoint for global trade."
+      },
+      {
+        "word": "belligerents",
+        "type": "noun",
+        "definition": "nations or parties engaged in a war or conflict",
+        "sentence": "Other states should try and bring the belligerents back to the table."
+      },
+      {
+        "word": "quagmire",
+        "type": "noun",
+        "definition": "a soft boggy area of land that gives way underfoot; a difficult, precarious, or entrapping situation",
+        "sentence": "The US particularly finds itself in a quagmire, standing at the precipice of another ‘forever war’."
+      },
+      {
+        "word": "conflagration",
+        "type": "noun",
+        "definition": "an extensive fire that destroys a great deal of land or property; a large, disastrous conflict",
+        "sentence": "The only way to prevent a catastrophic regional conflagration is for both to return to the negotiating table."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the immediate trigger for the renewed hostilities between the US and Iran, according to the article?",
+        "options": [
+          "Iran's demand for only its 'approved' route through the Strait of Hormuz.",
+          "Israel's attacks in Lebanon.",
+          "US drone strikes on Iranian oil facilities.",
+          "The assassination of a senior Iranian general."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states: 'The immediate trigger for hostilities was Iran’s demand that only its ‘approved’ route be used for transit of the Strait of Hormuz.'"
+      },
+      {
+        "question": "Which of the following straits is explicitly mentioned as a key chokepoint for global trade that the Houthis have threatened to close?",
+        "options": [
+          "Strait of Malacca",
+          "Strait of Gibraltar",
+          "Bab al-Mandeb strait",
+          "Suez Canal"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions: 'Yemen’s pro-Iran Houthis have threatened to close the Bab al-Mandeb strait — another key chokepoint for global trade — in case the conflict expands.'"
+      },
+      {
+        "question": "Which countries are mentioned as having called for an immediate return to dialogue regarding the Gulf conflict?",
+        "options": [
+          "Pakistan and China",
+          "Egypt and Turkiye",
+          "Qatar and Saudi Arabia",
+          "Iraq and Jordan"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states: 'The Pakistani and Chinese foreign ministers have called for an immediate return to dialogue.'"
+      },
+      {
+        "question": "The article attributes the current conflict in part to 'hubris and arrogance' from which parties?",
+        "options": [
+          "Iran and Houthis",
+          "US and Israel",
+          "GCC states and Jordan",
+          "Pakistan and China"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'This entirely preventable war is the result of hubris and arrogance; it was launched by the US and Israel, who thought they could knock out the Iranian system in a few days or weeks.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary indicator, according to the article, that the US-Iran ceasefire and the Islamabad MoU are failing?",
+        "back": "The ongoing and escalating trade of fire across the Gulf, with both sides striking targets, including civilian sites."
+      },
+      {
+        "front": "Beyond the Strait of Hormuz, what other regional development has put significant strain on the US-Iran ceasefire?",
+        "back": "Israel's attacks in Lebanon."
+      },
+      {
+        "front": "What severe consequence does the article predict for the global economy if the conflict expands and the Bab al-Mandeb strait is closed?",
+        "back": "It would cause a brutal and new global economic shockwave."
+      },
+      {
+        "front": "What does the article identify as the perceived nature of the conflict from Iran's perspective, as observed by its parliament Speaker?",
+        "back": "Iran sees the conflict as an 'existential war'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784510945297-753",
+    "title": "Looming monsoon\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016628/looming-monsoon",
+    "date": "2026-07-19",
+    "author": "none@none.com (Editorial)",
+    "content": "THE monsoon season is here. The Pakistan Meteorological Department has issued a nationwide alert for widespread, heavy to very heavy rainfall from July 18 to July 25 as a dual weather system engulfs the country. Arabian Sea monsoon currents will meet a westerly disturbance over this period, and the adverse weather conditions this confluence creates will be a national challenge. It is hoped that the authorities are prepared. They have much to act on. With the weeklong warning handed down by the PMD, any failure to protect lives and infrastructure would be a failure of governance, not an ‘act of nature’. In the north, the PMD has warned of landslides and flash floods, which means mountainous communities risk being entirely cut off. In the urban centres of Lahore, Islamabad, Rawalpindi, Peshawar, Sialkot, Multan and Faisalabad, expected heavy rainfall between July 20 and 23 threatens severe urban flooding. In other places, windstorms could jeopardise solar infrastructure, billboards and weak housing structures. The district administrations should deploy targeted, localised disaster mitigation strategies without waiting for provincial directives.\n\nThe PMD has also issued a specific alert for solar installations. With the massive boom in residential solar installations in Pakistan over recent years, this is a highly relevant warning, and the PMD must be commended for highlighting it. Citizens who have installed solar panels on their rooftops must now ensure that the panels are properly bolted down and secured and do not present a risk to themselves or others. In the absence of formal regulations around installations, each citizen is responsible for their own safety and also for the safety of those living around them — though that regulatory gap is itself something the authorities should move to close. The PMD warning should also prod the national and provincial disaster management authorities to start mobilising even in areas that will not be affected by the current spell. Monsoon after monsoon, preventable disasters have occurred due to the authorities’ inability to anticipate crises. Storm drains need to be cleaned, electrical grids must be secured, rescue machinery should be pre-positioned, and proper evacuation protocols put in place well before the first cloudburst. These measures must be undertaken all over the country in earnest. The time to act is now.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Pakistan Affairs / Governance & Public Policy",
+    "topic": "Disaster Management, Climate Resilience, and Governance Failures in Pakistan",
+    "whyMatters": "This article provides a timely case study on disaster preparedness, highlighting critical governance failures and the need for proactive measures in Pakistan. Competitive exam aspirants can use this to illustrate points on public administration, environmental policy, and the role of institutions in mitigating climate change impacts.",
+    "summary": [
+      "The Pakistan Meteorological Department (PMD) has issued a nationwide alert for heavy monsoon rainfall from July 18-25, caused by a dual weather system combining Arabian Sea monsoon currents and a westerly disturbance.",
+      "The impending monsoon poses diverse threats, including landslides and flash floods in mountainous regions, severe urban flooding in major cities (Lahore, Islamabad, Rawalpindi, Peshawar, Sialkot, Multan, Faisalabad), and windstorm damage to infrastructure.",
+      "The editorial strongly criticizes potential governance failures, asserting that any inability to protect lives and infrastructure despite the weeklong warning constitutes a failure of governance, not an 'act of nature'.",
+      "It advocates for immediate, localised disaster mitigation strategies, proactive measures like cleaning storm drains and securing electrical grids, and addressing the regulatory gap for residential solar installations."
+    ],
+    "facts": [
+      "The Pakistan Meteorological Department (PMD) issued a nationwide alert for widespread, heavy to very heavy rainfall from July 18 to July 25.",
+      "The adverse weather conditions are attributed to a dual weather system where Arabian Sea monsoon currents will meet a westerly disturbance.",
+      "Specific urban centers warned of severe urban flooding between July 20 and 23 include Lahore, Islamabad, Rawalpindi, Peshawar, Sialkot, Multan, and Faisalabad."
+    ],
+    "academicReferences": [
+      "National Disaster Management Authority (NDMA) Act, 2010 (Pakistan)",
+      "Sendai Framework for Disaster Risk Reduction 2015-2030",
+      "National Climate Change Policy of Pakistan (2012, revised 2021)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Looming",
+        "type": "adjective",
+        "definition": "appearing as a shadowy, often menacing, form; about to happen.",
+        "sentence": "The *looming* monsoon season demanded immediate attention from authorities."
+      },
+      {
+        "word": "Confluence",
+        "type": "noun",
+        "definition": "a flowing together of two or more things; the junction of two rivers.",
+        "sentence": "The adverse weather conditions are a result of the *confluence* of Arabian Sea monsoon currents and a westerly disturbance."
+      },
+      {
+        "word": "Jeopardise",
+        "type": "verb",
+        "definition": "put (someone or something) into a situation in which there is a danger of loss, harm, or failure.",
+        "sentence": "Windstorms could *jeopardise* solar infrastructure, billboards, and weak housing structures."
+      },
+      {
+        "word": "Proactive",
+        "type": "adjective",
+        "definition": "(of a person or action) creating or controlling a situation rather than just responding to it after it has happened.",
+        "sentence": "The editorial urges authorities to be *proactive* in disaster mitigation rather than waiting for crises to occur."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as a significant factor contributing to the current monsoon's adverse weather conditions?",
+        "options": [
+          "A) A single strong cyclonic storm originating in the Bay of Bengal.",
+          "B) The interaction of Arabian Sea monsoon currents with a westerly disturbance.",
+          "C) Unusually high temperatures causing rapid glacier melt in the north.",
+          "D) Extensive deforestation leading to altered rainfall patterns."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Arabian Sea monsoon currents will meet a westerly disturbance over this period, and the adverse weather conditions this confluence creates will be a national challenge.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What key distinction does the article draw regarding the cause of potential disasters during the monsoon season?",
+        "back": "The article argues that any failure to protect lives and infrastructure, given the PMD's weeklong warning, would be a 'failure of governance, not an ‘act of nature’'."
+      },
+      {
+        "front": "Beyond government actions, what specific responsibility does the article highlight for citizens, especially concerning recent developments?",
+        "back": "Citizens with rooftop solar installations are responsible for ensuring their panels are properly bolted down and secured, especially in the absence of formal regulations."
+      },
+      {
+        "front": "What types of specific hazards are warned for mountainous communities and major urban centers, respectively?",
+        "back": "Mountainous communities face risks of landslides and flash floods, while urban centers like Lahore, Islamabad, and Rawalpindi are threatened by severe urban flooding."
+      },
+      {
+        "front": "What concrete, proactive measures does the article suggest for national and provincial disaster management authorities, even in areas not immediately affected?",
+        "back": "Authorities should clean storm drains, secure electrical grids, pre-position rescue machinery, and establish proper evacuation protocols well before any cloudburst."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784510863545-644",
+    "title": "America at 250\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016631/america-at-250",
+    "date": "2026-07-19",
+    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
+    "content": "EVEN a cursory look at America’s history of 250 years can leave the observer in awe. For 250 years, America has been a continuous constitutional democracy. For 130 years, it has been the world’s largest economy. For 81 years, it has been the most powerful force the world has seen. Since the late 19th century, it has led in global innovation, manufacturing and technology. Its universities are the envy of the world. How did the US achieve such remarkable success in its 250-year journey? To understand, let us turn to the basics.\n\nFifty-six delegates from 13 American colonies met in Philadelphia on July 4, 1776, to sever links with the British Empire and sign the Declaration of Independence drafted mainly by Thomas Jefferson. The Declaration introduced to the new country the sublime idea that “all men are created equal” and are endowed with the unalienable right to life, liberty and the pursuit of happiness. It asserted that governments derive their just powers from the consent of the governed. These were revolutionary ideas for a time when empires, monarchies, colonists and dictatorships ruled much of the world, with practically no respect for the rights of the governed.\n\nEleven years later, in 1787, America’s founding fathers met in Philadelphia to adopt a constitution, drafted primarily by James Madison. It set out three basic parameters under which the nascent state of USA would be governed: a democratic system predicated on participatory governance; free-market capitalism; and freedom of religion, speech, the press, and assembly. The enabling environment thus created led to unprecedented economic development and phenomenal growth in media, sports, entertainment and education. America became the land of opportunities to which people from around the world flocked.\n\nThe journey of 250 years had its share of challenges too. The foundational divide in American society was over race and slavery, which led to a civil war between the Union and Confederacy (1861-1865). Even after slavery was abolished, there remained institutional segregation and a struggle for equal rights. The country has also muddled through a political divide between urban liberals and rural conservatives, with differences over taxation, immigration and the scope of the federal government. Economically, income inequalities have grown. The 10 richest Americans have more than the combined wealth of the bottom half of all American households.\n\nThe journey of 250 years has had its share of challenges.\n\nIn foreign policy, America has oscillated between isolationism and global engagement. It spent the first 100 years or so of its life (1787-1898)avoiding alliances as it focused on economic growth and westward expansion with the widely held belief (manifest destiny) that the US was divinely ordained to extend its territories across North America. The 1823 Monroe Doctrine sought to establish the Western Hemisphere as America’s sphere of influence and warned European powers to stop further colonisation. In the next 50 years or so, until the end of World War II, the US took a more active role in world affairs, pursuing the Wilsonian idea of spreading democracy across the world. In the next 50 years (1945-2001), the US championed a rules-based world order based on democracy, capitalism and the containment of communism. It facilitated Europe’s reconstruction through the Marshall Plan, helped establish Nato, World Bank, IMF and the UN and entered into a Cold War with the Soviet Union that ended with the dissolution of the latter in 1991. A brief era of globalisation ensued with the US model of liberal democracy and market economies becoming the gold standard.\n\nAfter 9/11, the Bush doctrine of pre-emptive military int­erv­entions enta­n­gled America in dis-tant wars in Afg­ha­nistan and Iraq. As a mul­tipolar world app­ea­red, the US pivoted its policies to Asia in 2011, and entered into a strategic competition with rising China. With Donald Trump’s pre­sidency, American ideals have yielded to pragmatism; the US seems to be returning to the Monroe Doctrine. Trump has weakened the transatlantic alliance with Europe, retreated from support to Ukraine and started a war with Iran at Israel’s behest, drawing a popular backlash.\n\nOn balance, America produced a governance model that nurtured a culture of excellence, innovation and entrepreneurship. It was a melting pot that absorbed millions of immigrants who enriched it. However, with the onset of Trump’s ‘America First’ policy and rising sentiment against immigrants, the US could lose its international appeal. While America’s ideals of yesteryears served as a beacon of hope for all nations, its interventionist face today is creating a global disorder that is bringing in instability, protracted conflicts and a shift in global balance of power.\n\nThe writer is chairman, Sanober Institute, Islamabad and a former Pakistan ambassador to the US.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "International Relations / Current Affairs",
+    "topic": "Evolution of US Foreign Policy and its Global Impact",
+    "whyMatters": "This article provides a concise overview of key phases in US history, internal dynamics, and foreign policy shifts over 250 years. Aspirants can use its analysis to understand the foundational principles of the US, its global role, and the current challenges it faces, allowing for well-rounded answers in IR and Current Affairs papers.",
+    "summary": [
+      "America's 250-year journey is marked by its continuous constitutional democracy, economic dominance, and global leadership in innovation, having been the world's largest economy for 130 years.",
+      "The nation's success is attributed to foundational ideas from the Declaration of Independence (equality, unalienable rights, government by consent) and the Constitution's establishment of participatory governance, free-market capitalism, and fundamental freedoms.",
+      "Despite its achievements, the US has faced significant internal challenges, including the foundational divide over race and slavery leading to a civil war, persistent institutional segregation, political polarization between urban liberals and rural conservatives, and growing income inequalities.",
+      "US foreign policy has oscillated from early isolationism (Monroe Doctrine) to active global engagement (Wilsonian democracy, post-WWII rules-based order, Cold War containment) and more recently to pragmatism and 'America First' policies, which the author suggests contribute to global disorder."
+    ],
+    "facts": [
+      "America has been a continuous constitutional democracy for 250 years.",
+      "For 130 years, the US has been the world's largest economy, and for 81 years, the most powerful global force.",
+      "Fifty-six delegates from 13 American colonies met in Philadelphia on July 4, 1776, to sign the Declaration of Independence, drafted mainly by Thomas Jefferson."
+    ],
+    "academicReferences": [
+      "Graham Allison's 'Destined for War: Can America and China Escape Thucydides's Trap?' (Relevant to US-China strategic competition)",
+      "US Declaration of Independence (1776) / US Constitution (1787)",
+      "Marshall Plan / Monroe Doctrine"
+    ],
+    "vocabulary": [
+      {
+        "word": "cursory",
+        "type": "adjective",
+        "definition": "hasty and therefore not thorough or detailed",
+        "sentence": "Even a cursory look at America’s history of 250 years can leave the observer in awe."
+      },
+      {
+        "word": "sublime",
+        "type": "adjective",
+        "definition": "of such excellence, grandeur, or beauty as to inspire great admiration or awe",
+        "sentence": "The Declaration introduced to the new country the sublime idea that 'all men are created equal'."
+      },
+      {
+        "word": "predicated",
+        "type": "verb",
+        "definition": "based or established on",
+        "sentence": "It set out three basic parameters under which the nascent state of USA would be governed: a democratic system predicated on participatory governance."
+      },
+      {
+        "word": "oscillated",
+        "type": "verb",
+        "definition": "moved or swung back and forth at a regular speed",
+        "sentence": "In foreign policy, America has oscillated between isolationism and global engagement."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "The core idea introduced by the Declaration of Independence, as mentioned in the article, regarding government powers is:",
+        "options": [
+          "Governments derive their just powers from divine right.",
+          "Governments derive their just powers from the consent of the governed.",
+          "Governments derive their just powers from economic prosperity.",
+          "Governments derive their just powers from military strength."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'It asserted that governments derive their just powers from the consent of the governed.' (Paragraph 2)"
+      },
+      {
+        "question": "Which of the following best describes the evolution of US foreign policy as discussed in the article?",
+        "options": [
+          "Consistent adherence to isolationism throughout its history.",
+          "A continuous pursuit of global democracy since its inception.",
+          "Oscillation between isolationism, active global engagement, and recent pragmatism.",
+          "Exclusive focus on economic expansion with no foreign policy involvement."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article clearly states, 'In foreign policy, America has oscillated between isolationism and global engagement' and details different phases including the Monroe Doctrine, Wilsonian ideas, rules-based order, and Trump's pragmatism."
+      },
+      {
+        "question": "The foundational divide in American society that led to a civil war (1861-1865) was primarily over what issue?",
+        "options": [
+          "Taxation and trade policies with Europe.",
+          "Religious freedom and state separation.",
+          "Race and slavery.",
+          "Suffrage rights for women."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'The foundational divide in American society was over race and slavery, which led to a civil war between the Union and Confederacy (1861-1865).'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What core principles, established in 1776 and 1787, are credited for America's initial success?",
+        "back": "The Declaration of Independence introduced 'all men are created equal,' unalienable rights, and government by consent. The Constitution established participatory governance, free-market capitalism, and fundamental freedoms (religion, speech, press, assembly)."
+      },
+      {
+        "front": "How did the US shift its foreign policy approach after the end of World War II until 2001?",
+        "back": "It championed a rules-based world order based on democracy, capitalism, and containment of communism, facilitating Europe's reconstruction (Marshall Plan), establishing institutions (NATO, WB, IMF, UN), and engaging in the Cold War."
+      },
+      {
+        "front": "What internal challenges has America faced throughout its 250-year journey, according to the article?",
+        "back": "Challenges include the foundational divide of race and slavery (Civil War), persistent institutional segregation, a political divide between urban liberals and rural conservatives, and growing income inequalities."
+      },
+      {
+        "front": "How has US foreign policy evolved since 9/11, and what is the author's overall assessment of its current global impact?",
+        "back": "Post-9/11, the Bush doctrine led to pre-emptive military interventions. A pivot to Asia in 2011 initiated strategic competition with China. Under Trump, ideals yielded to pragmatism ('America First'), weakening alliances. The author suggests its interventionist face today is creating global disorder and instability."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784511173648-207",
+    "title": "Closing one file\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016627/closing-one-file",
+    "date": "2026-07-19",
+    "author": "none@none.com (Editorial)",
+    "content": "ABDUL Rashid Wani was stopped by Indian soldiers near his home in Srinagar in July 1997. He never returned. Nearly three decades later, a court has confirmed that he was murdered in military custody and that his body was disposed of. For Wani’s family, the ruling ends years of official denial but not the pain of never recovering his remains. For countless other families across India-held Kashmir, even this measure of acknowledgement has yet to arrive. Human rights groups estimate that around 8,000 people have disappeared since 1989, while investigations into thousands of unmarked graves identified years ago remain unfinished.\n\nWani’s death certificate closes one chapter. But what of the larger story? After New Delhi revoked Article 370 in 2019, the region was subjected to an unprecedented communications blackout, mass detentions and the dissolution of the Jammu and Kashmir Human Rights Commission before its work on alleged abuses could be completed. In 2020, three labourers killed in Shopian were presented as terrorists until an inquiry found that soldiers had exceeded their powers. The imprisonment of human rights defenders and journalists has deepened concerns over the narrowing space for independent scrutiny. Following the Pahalgam attack in April 2025, authorities again responded with sweeping detentions and the demolition of homes linked to alleged militants, prompting criticism from international rights groups over collective punishment and due process. All these events point to the same unresolved problem: extraordinary powers exercised with little independent oversight. Police have sought permission to prosecute security personnel in cases involving serious alleged abuses, yet such approval has never been granted. Wani’s case is therefore important not only because it records the fate of one missing man. It also exposes how difficult it remains for families in occupied Kashmir to obtain truth, accountability and, ultimately, closure.\n\nPublished in Dawn, July 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "International Relations / Current Affairs",
+    "topic": "Human Rights Abuses and Lack of Accountability in Indian Illegally Occupied Jammu & Kashmir (IIOJK)",
+    "whyMatters": "This article provides specific examples and recent timeline details regarding human rights violations in IIOJK, essential for substantiating arguments in essays on the Kashmir dispute or human rights. It highlights the systemic issues of denial and lack of accountability, offering critical points for analysis on international law and governance failures.",
+    "summary": [
+      "The individual case of Abdul Rashid Wani, murdered in military custody after decades of denial, highlights the systemic issue of enforced disappearances in IIOJK.",
+      "Human rights groups estimate approximately 8,000 disappearances since 1989, with thousands of unmarked graves remaining uninvestigated, indicating a widespread pattern of abuse.",
+      "Post-2019, New Delhi's actions in IIOJK, including communications blackouts, mass detentions, and the dissolution of the Human Rights Commission, further constricted avenues for justice and scrutiny.",
+      "The persistent problem in IIOJK is the exercise of extraordinary powers by security forces with minimal independent oversight, making truth and accountability extremely difficult for victims' families."
+    ],
+    "facts": [
+      "Abdul Rashid Wani was stopped in July 1997 and confirmed murdered in military custody nearly three decades later.",
+      "Human rights groups estimate around 8,000 people have disappeared in IIOJK since 1989, and thousands of unmarked graves remain uninvestigated.",
+      "India revoked Article 370 in 2019, followed by an unprecedented communications blackout, mass detentions, and the dissolution of the Jammu and Kashmir Human Rights Commission."
+    ],
+    "academicReferences": [
+      "Report of the Office of the United Nations High Commissioner for Human Rights on the Situation of Human Rights in Kashmir (multiple editions)",
+      "International Covenant on Civil and Political Rights (ICCPR) - particularly Articles 6, 7, 9, 10, 14, and 17 relevant to life, liberty, fair trial, and privacy.",
+      "Amnesty International / Human Rights Watch reports on Kashmir",
+      "Geneva Conventions (specifically the Fourth Geneva Convention regarding the protection of civilians in occupied territory)",
+      "UN Security Council Resolutions on Jammu and Kashmir (e.g., UNSC Resolution 47)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Revoked",
+        "type": "verb",
+        "definition": "To officially cancel or withdraw a right, document, or privilege.",
+        "sentence": "After New Delhi revoked Article 370 in 2019, the region was subjected to an unprecedented communications blackout."
+      },
+      {
+        "word": "Unprecedented",
+        "type": "adjective",
+        "definition": "Never having happened or existed before.",
+        "sentence": "After New Delhi revoked Article 370 in 2019, the region was subjected to an unprecedented communications blackout."
+      },
+      {
+        "word": "Scrutiny",
+        "type": "noun",
+        "definition": "Critical observation or examination.",
+        "sentence": "The imprisonment of human rights defenders and journalists has deepened concerns over the narrowing space for independent scrutiny."
+      },
+      {
+        "word": "Collective punishment",
+        "type": "noun",
+        "definition": "The punishment of a group of people for the actions of a few individuals, often without due process.",
+        "sentence": "Authorities again responded with sweeping detentions and the demolition of homes linked to alleged militants, prompting criticism from international rights groups over collective punishment and due process."
+      },
+      {
+        "word": "Due process",
+        "type": "noun",
+        "definition": "Fair treatment through the normal judicial system, especially as a citizen's entitlement.",
+        "sentence": "Authorities again responded with sweeping detentions and the demolition of homes linked to alleged militants, prompting criticism from international rights groups over collective punishment and due process."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what significant action did New Delhi take in 2019 that impacted the human rights situation in IIOJK?",
+        "options": [
+          "Initiated a new peace dialogue with local leaders.",
+          "Revoked Article 370, leading to a communications blackout and dissolution of the Human Rights Commission.",
+          "Increased funding for human rights investigations.",
+          "Withdrew all security personnel from the region."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'After New Delhi revoked Article 370 in 2019, the region was subjected to an unprecedented communications blackout, mass detentions and the dissolution of the Jammu and Kashmir Human Rights Commission.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core unresolved problem identified in the article regarding the exercise of power by security forces in IIOJK?",
+        "back": "The exercise of extraordinary powers by security forces with little independent oversight, making truth, accountability, and closure extremely difficult for victims' families."
+      },
+      {
+        "front": "How does the case of Abdul Rashid Wani serve as an example of a broader issue in IIOJK?",
+        "back": "Wani's confirmed murder in military custody, after decades of denial, exemplifies the widespread issue of enforced disappearances and the extreme difficulty for families to obtain truth and justice in the region."
+      },
+      {
+        "front": "What measures taken by authorities following the Pahalgam attack in April 2025 drew criticism from international rights groups?",
+        "back": "Sweeping detentions and the demolition of homes linked to alleged militants, which were criticized as collective punishment and a denial of due process."
+      },
+      {
+        "front": "Beyond individual cases, what systemic issue does the article highlight regarding human rights violations in IIOJK, particularly post-1989?",
+        "back": "The systemic issue of approximately 8,000 enforced disappearances since 1989 and thousands of uninvestigated unmarked graves, indicative of widespread human rights abuses and lack of accountability."
+      }
+    ]
+  },
+  {
     "id": "curated-1784424070892-364",
     "title": "Afghanistan’s lost peace\n",
     "source": "Dawn",
@@ -9448,565 +10077,6 @@
       {
         "front": "Why did researchers in the 2023 study separate the results between women interviewed alone and those interviewed in the presence of a family member or others?",
         "back": "They did this to accurately assess women's true views on wife-beating, as they found women felt significant pressure to express acceptance when they believed they were being overheard, leading to reduced discrepancy in private interviews."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783389519489-331",
-    "title": "Rich and poor\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012615/rich-and-poor",
-    "date": "2026-07-03",
-    "author": "none@none.com (Aasim Sajjad Akhtar)",
-    "content": "ONE of the most remarkable narrative shifts of recent times is the almost complete disappearance of the ‘global middle class’ from public discourse. It was only a few years ago that Pakistan was being celebrated, alongside other non-Western societies, as home to a rapidly growing and highly prosperous middle class with globalised tastes and aspiration. What seemed like an irresistible historical force has turned out largely to be a myth. The rather more familiar tale of the rich getting richer and the poor getting poorer is back. Many who might still self-identify as middle class have, in fact, fallen rapidly back down the class ladder.\nLet us recount the original claim about the global middle class. It was birthed in the early 2000s, when the Musharraf dictatorship was at its zenith. Its primary drivers were a cheap credit boom fuelled by recently privatised commercial banks, and a wave of remittances in the post 9/11 period. The result was a consumption boom that suggested significant social mobility.\nFor the lucky — or what neoliberal ideologues would call the more enterprising — enhanced class and status position were consolidated through investment in land or other financial assets, success in upgrading small businesses, or educational certification that bumped families into white-collar professional brackets.\nBut most who benefited from the initial consumption boom never managed to secure permanent and regular income flows. Indeed, the more common story is one of growing indebtedness, increasingly limited returns on educational investments and multiple family members seeking informal, temporary work to make ends meet.\nThe system ensures that most middle-class aspirants don’t make it.\nToday, even donors like the World Bank and IMF who told tales of ‘structural reform’ in the 2000s and 2010s opine that consumption booms never produce sustained social mobility. They shed crocodile tears about increases in poverty and inequality, and insist on ‘inclusive growth’ to accompany ‘macroeconomic stability’. The big words mean nothing to most working people who are sold the proverbial dream of middle-class mobility only to discover that you can be very enterprising but only a limited few are lucky enough to rise consistently up the class ladder.\nThe non-Western ‘global middle class’ subject that eats out regularly, can buy a corner plot in a gated housing scheme and the newest sedan, and go on holiday twice a year is largely a figment of the neoliberal ideological imagination. The fact that a few live out this life in metropolitan centres tells us only that most of Pakistan’s 250 million people are increasingly immiserated.\nThe bursting of the ‘global middle-class’ bubble is even more stark in neighbouring India. The BJP once coined the phrase ‘India shining’ to lend weight to the myth that 300m Indians had graduated into the middle class. Today, many well-educated Indian youth feel economically suffocated and politically disenfranchised enough to be running political campaigns like the Cockroach Janta Party that expose the myth of a highly prosperous country.\nThis is not a doom-and-gloom narrative. It is an empirically informed analysis of recent history. Postcolonial capitalism in Pakistan, India and many other parts of the non-Western world, especially regions that experience massive youth bulges, produces inequality by design. Most young working people are indoctrinated to believe in the myth of individual mobility even though wealth accumulates at the top whilst nameless masses are dispossessed of their limited means.\nThe notion that anyone who works hard enough can become ‘middle class’ is certainly a very po­­werful ideology, and can be hege­monic in particular historical circumstances. Take the European and North American heartlands of the capitalist world-system after the end of World War II, where a wide cross-section of society enjoyed meaningful class mobility during the so-called Golden Age of Western societies. The ‘rich’ countries were, of course, feeding off imperialist transfers of wealth from the rest of the world. Yet they, too, have now suffered sustained stagnation which means that young generations of even the educated ‘middle class’ can no longer expect their lives to be more prosperous than their parents.\nBriefly, the rich stay rich because they have power and control economic resources. They sell the myth that the poor remain poor because they are at best not enterprising enough and at worst lazy. Some middle-class aspirants ‘from below’ do make it, and become ideological poster-children for the system. But the system ensures most do not make it; they become cannon fodder for hateful politics, mostly pivoting around a virulent state nationalism that vilifies the ‘other’ within. The slide into barbarism quickens with each iteration of the story.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, July 3rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Sociology / Economics / Pakistan Affairs",
-    "topic": "Social Inequality, Class Mobility, and Economic Development Myths",
-    "whyMatters": "This article offers a critical, empirically informed perspective on socio-economic realities in Pakistan and the non-Western world, challenging prevalent narratives of middle-class growth. Quoting it demonstrates analytical depth on issues of inequality, neoliberal policies, and the structural causes of poverty, crucial for high-scoring answers.",
-    "summary": [
-      "The narrative of a rapidly growing 'global middle class' in non-Western societies, including Pakistan, is largely a myth driven by temporary consumption booms, not sustained social mobility.",
-      "The initial boom in Pakistan during the early 2000s was fueled by cheap credit and remittances, primarily leading to increased indebtedness rather than permanent income flows for most aspirants.",
-      "Institutions like the World Bank and IMF have shifted their rhetoric but still promote policies that result in growing inequality by design, especially in postcolonial capitalist economies with large youth populations.",
-      "The powerful ideology of individual mobility, suggesting hard work guarantees middle-class status, serves to maintain a system where wealth concentrates at the top, often leading to political disillusionment and hateful nationalism when aspirations fail."
-    ],
-    "facts": [
-      "The 'global middle class' narrative emerged in the early 2000s during the Musharraf dictatorship, driven by cheap credit and post-9/11 remittances.",
-      "The 'India shining' campaign propagated the myth of 300 million Indians joining the middle class, a claim now challenged by movements like the 'Cockroach Janta Party'.",
-      "The article notes that Pakistan's 250 million people are increasingly immiserated despite the existence of a few affluent individuals in metropolitan centers."
-    ],
-    "academicReferences": [
-      "Neoliberalism (economic ideology critiqued in the article)",
-      "Dependency Theory / World-Systems Theory (explains wealth transfer from periphery to core)",
-      "Gini Coefficient (a standard measure of income inequality)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Narrative shifts",
-        "type": "noun phrase",
-        "definition": "Significant changes in the dominant understanding or public discourse of a topic.",
-        "sentence": "One of the most remarkable narrative shifts of recent times is the almost complete disappearance of the ‘global middle class’ from public discourse."
-      },
-      {
-        "word": "Neoliberal ideologues",
-        "type": "noun phrase",
-        "definition": "Proponents of policies that prioritize market freedom, privatization, and reduced government spending.",
-        "sentence": "For the lucky — or what neoliberal ideologues would call the more enterprising — enhanced class and status position were consolidated through investment in land or other financial assets."
-      },
-      {
-        "word": "Immiserated",
-        "type": "adjective",
-        "definition": "Reduced to a state of poverty or great distress; impoverished.",
-        "sentence": "The fact that a few live out this life in metropolitan centres tells us only that most of Pakistan’s 250 million people are increasingly immiserated."
-      },
-      {
-        "word": "Hegemonic",
-        "type": "adjective",
-        "definition": "Exercising leadership or dominance, especially by one group or state over others.",
-        "sentence": "The notion that anyone who works hard enough can become ‘middle class’ is certainly a very powerful ideology, and can be hegemonic in particular historical circumstances."
-      },
-      {
-        "word": "Cannon fodder",
-        "type": "noun",
-        "definition": "Individuals viewed as mere resources to be used up or sacrificed, especially in a conflict or system.",
-        "sentence": "But the system ensures most do not make it; they become cannon fodder for hateful politics, mostly pivoting around a virulent state nationalism that vilifies the ‘other’ within."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what were the primary drivers of the consumption boom that initially suggested social mobility in Pakistan during the early 2000s?",
-        "options": [
-          "Cheap credit from privatised banks and post-9/11 remittances",
-          "Foreign direct investment and export growth",
-          "Significant government social welfare programs and land reforms",
-          "A boom in the IT sector and widespread educational reforms"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'Its primary drivers were a cheap credit boom fuelled by recently privatised commercial banks, and a wave of remittances in the post 9/11 period.'"
-      },
-      {
-        "question": "How does the author characterize the impact of postcolonial capitalism in regions like Pakistan and India, especially those with massive youth bulges?",
-        "options": [
-          "It inherently produces inequality by design, concentrating wealth at the top",
-          "It universally fosters widespread social mobility and prosperity",
-          "It consistently leads to a large, stable global middle class",
-          "It is a temporary phase that eventually leads to equitable distribution of wealth"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'Postcolonial capitalism in Pakistan, India and many other parts of the non-Western world, especially regions that experience massive youth bulges, produces inequality by design.'"
-      },
-      {
-        "question": "What is the author's critique regarding the shift in rhetoric from institutions like the World Bank and IMF from 'structural reform' to 'inclusive growth'?",
-        "options": [
-          "The big words mean nothing to working people and fail to produce sustained social mobility",
-          "The new rhetoric genuinely reflects effective policy changes leading to poverty reduction",
-          "It signals a complete rejection of neoliberal ideologies in favor of socialist policies",
-          "It acknowledges the success of the previous 'structural reform' policies"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article says, 'The big words mean nothing to most working people who are sold the proverbial dream of middle-class mobility only to discover that you can be very enterprising but only a limited few are lucky enough to rise consistently up the class ladder.'"
-      },
-      {
-        "question": "What does the article suggest is a consequence for most middle-class aspirants who do not 'make it' within the system?",
-        "options": [
-          "They often become cannon fodder for hateful politics and virulent state nationalism",
-          "They are successfully integrated into stable white-collar professions",
-          "They become poster-children for the system's success",
-          "They form new, politically empowered class movements to challenge inequality"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article concludes, 'But the system ensures most do not make it; they become cannon fodder for hateful politics, mostly pivoting around a virulent state nationalism that vilifies the ‘other’ within.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What did the author identify as the primary, yet unsustainable, drivers behind the perception of a growing middle class in Pakistan during the early 2000s?",
-        "back": "Cheap credit from privatized commercial banks and a wave of remittances in the post-9/11 period."
-      },
-      {
-        "front": "According to the article, what is the fundamental critique of the 'global middle class' concept in non-Western societies?",
-        "back": "It is largely a myth, a 'figment of the neoliberal ideological imagination,' failing to translate consumption booms into sustained social mobility for most."
-      },
-      {
-        "front": "How does the article explain the inherent production of inequality in postcolonial capitalist economies, particularly in regions with large youth populations?",
-        "back": "It states that inequality is produced 'by design' in such systems, where wealth accumulates at the top while the majority are dispossessed of their limited means."
-      },
-      {
-        "front": "What negative social and political consequences does the article link to the failure of the 'individual mobility' myth for most middle-class aspirants?",
-        "back": "It leads to growing indebtedness, economic suffocation, political disenfranchisement, and makes individuals 'cannon fodder for hateful politics' often centered on virulent state nationalism."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783042567656-741",
-    "title": "Re-reading the water treaty\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012355/re-reading-the-water-treaty",
-    "date": "2026-07-02",
-    "author": "none@none.com (Ali Tauqeer Sheikh)",
-    "content": "TWO senior officials, one each from Pakistan and India, have laid their arguments before an international readership. Dr. P.K. Saxena, former Indian Commissioner for Indus Waters, published a two-part indictment of the Indus Waters Treaty in May 2026, now circulating through Indian embassies worldwide. Syed Mehar Ali Shah, Pakistan’s serving commissioner, replied in Dawn on June 16. Both men know the IWT’s text better than most people today. Read together, their exchange is the most technically precise public debate on the Indus since the IWT was signed. It is also, ultimately, a debate between two officials who are both looking backwards. The rivers they are arguing over are not the rivers that existed in 1960.\nWhat India has argued: Saxena’s argument rests on a single, blunt thesis: India negotiated in good faith and paid for it for 65 years. Pakistan delayed acceptance of the 1954 World Bank proposal by four years, developing new uses on the western rivers throughout, and walked away with 80 per cent of the system’s water. India then wrote a cheque for £62 million to finance the infrastructure that made Pakistan’s allocation work. No other upper riparian has surrendered the larger share of a river system and then paid the downstream state to use it.\n    \nThe operational grievance is just as direct. Every major Indian hydropower project on the western rivers, Baglihar, Kishenganga, Pakal Dul, Tulbul, has faced prolonged Pakistani challenge. Pakistan privately acknowledged flood-moderation benefits of these projects while publicly blocking them, then packaged the obstruction as a water war narrative and marketed it internationally against a state that had not committed a single treaty violation in 65 years, including through three wars. A treaty, Saxena concludes, cannot hold when one party bears all the obligations and the other collects all the benefits. Abeyance is not the wrong decision at the wrong time. It is the only decision the arithmetic permits.\nHow Pakistan has argued: Shah’s rebuttal sharply legal, rests on one correction applied five times: Saxena starts with known facts and draws the wrong conclusion.\nEven as claims are disputed, climate change is disrupting ecosystems and monsoon cycles.\nThe 80-20 split is real. The inference is false. Pakistan does not control the western rivers before they enter its territory. The IWT exists because in April 1948, India stopped the taps to Pakistan at a critical agricultural moment. The IWT replaced that upstream discretion with a binding legal obligation. Pakistan’s 80pc is not a gift. It is a protected entitlement against the precise threat Saxena’s abeyance position now revives.\nPakistan’s four-year delay was due diligence, not obstruction. Pakistan was abandoning historical dependence on the eastern rivers and needed to know if the western rivers could physically carry the load. A paper allocation that left canals dry would not have been a settlement. Indian financial contribution was not charity either. It was the price India paid to gain unrestricted use of the eastern rivers, while Pakistan bore the cost of rebuilding an entire irrigation system from scratch.\n    \nOn design restrictions, Shah’s answer is the most direct in the exchange. Upstream states can manipulate downstream flows. Downstream states cannot return the favour. Restrictions on pondage, spillways and storage are not punishments. They are what makes a downstream entitlement physically real.\nOn obstruction, the August 2025 Award on General Issues and the May 2026 Supplemental Award on Pondage settle the point: treaty constraints come first. A project is not lawful because it suits India. It must conform to what India signed. The Court of Arbitration confirmed Pakistan’s objections were legally grounded, not political.\nThe weaponisation charge has reversed direction. Chenab flows at Marala swung from 78,276 cusecs to 1,527 in May 2025 with no rainfall to explain it. They fell to 870 cusecs in December. In May 2026, Marala dropped from 21,887 to 5,689 within a single event window. Pakistan wrote to India each time. India then announced the diversion of Chenab into Beas. Pakistan’s fear of weaponisation is no longer hypothetical. It is documented.\nThe rebuttal wins the legal argument. On every point where Saxena presents a historical claim as a legal conclusion, Shah dismantles the leap, arguing that the IWT is a settlement of competing rights and existential vulnerabilities. The international courts have been saying so consistently since 2023. Winning the legal argument, however, does not automatically win the political argument. The political battle is now moving in international capitals.\nUnchartered waters: Both Saxena and Shah are exceptional practitioners of the law as it was written in 1960. That is precisely the challenge. The treaty they are defending or dismantling divides a river system that assumed stable, predictable flows from a Himalayan watershed that has since lost roughly a quarter of its perennial ice cover. The upper Indus Basin is running hotter, faster and less predictably. The articles don’t contain the word ‘climate’ and do not ask what happens to the arithmetic when the resource itself is structurally changing. It is the claims that are being disputed even as climate change disrupts ecosystems and monsoon cycles.\nWhat they should be talking about: What they should be talking about is climate-proofing the treaty and it starts with a different premise: the Indus Basin is a shared ecological system on which the food security of roughly 300 million people on both sides of the border depends, and it is under physical stress that no treaty revision, no arbitral award and no abeyance declaration can address unilaterally.\nThree conversations are overdue: resuscitating the Permanent Indus Commission with real-time data, not paper exchanges, because a single glacial outburst flood moves billions of cubic metres within hours; recognising that the 1960 design constraints were built for a Himalayan environment that no longer exists; accepting that the delta depletion, groundwater exhaustion and sediment loss accumulating across the basin are shared liabilities, not bilateral grievances.\nClimate change is the third commissioner. It attends no meetings, files no objections and honours no awards. It is, however, already rewriting the treaty. The only question is whether the two parties act before it finishes.\nThe writer is a climate expert.\nPublished in Dawn, July 2nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-IWT",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Indus Waters Treaty (IWT) and India-Pakistan Water Relations",
-    "whyMatters": "This article offers a contemporary and critical analysis of the Indus Waters Treaty (IWT) through a debate between former Indian and serving Pakistani water commissioners. It equips students with both historical perspectives and forward-looking challenges, particularly climate change, crucial for nuanced answers on water politics and regional cooperation.",
-    "summary": [
-      "The article reviews a public debate between former Indian Commissioner Dr. P.K. Saxena and Pakistan's serving Commissioner Syed Mehar Ali Shah, highlighting their retrospective arguments on the Indus Waters Treaty (IWT).",
-      "Saxena argues India negotiated in good faith, paid Pakistan £62 million, and has consistently faced Pakistani obstruction on hydropower projects on western rivers, concluding that 'abeyance' of the treaty is necessary.",
-      "Shah counters that Pakistan's 80% water share is a protected entitlement, not a gift, and India's payment was the price for unrestricted use of eastern rivers, asserting that Pakistan's objections to projects were legally grounded and citing documented instances of India's 'weaponization' of water flows.",
-      "The author concludes that both officials are debating an outdated 1960 treaty in a radically changed climate, emphasizing the need to climate-proof the IWT by recognizing the Indus Basin as a shared ecological system under severe stress and addressing shared liabilities collaboratively."
-    ],
-    "facts": [
-      "India paid £62 million to finance the infrastructure for Pakistan's allocation of western river waters under the IWT.",
-      "The Indus Waters Treaty (1960) established an 80-20 split, granting Pakistan 80% of the Indus system's water.",
-      "The Himalayan watershed, the source of the Indus, has lost roughly a quarter of its perennial ice cover, impacting the treaty's original assumptions about stable flows."
-    ],
-    "academicReferences": [
-      "Indus Waters Treaty (1960)",
-      "World Bank Proposal (1954) on Indus Water Sharing",
-      "Court of Arbitration Awards (e.g., August 2025 Award on General Issues; May 2026 Supplemental Award on Pondage)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Indictment",
-        "type": "noun",
-        "definition": "A formal accusation or a strong condemnation of something.",
-        "sentence": "Dr. P.K. Saxena's article was described as a two-part indictment of the Indus Waters Treaty."
-      },
-      {
-        "word": "Abeyance",
-        "type": "noun",
-        "definition": "A state of temporary disuse or suspension.",
-        "sentence": "Saxena concluded that abeyance of the treaty was the only decision the arithmetic permitted."
-      },
-      {
-        "word": "Riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the banks of a river or stream.",
-        "sentence": "No other upper riparian has surrendered the larger share of a river system and then paid the downstream state."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary criticism the article's author levels against both Indian and Pakistani officials' current debate on the IWT?",
-        "options": [
-          "They are ignoring the legal precedents set by international courts.",
-          "They are primarily focused on historical grievances rather than current realities like climate change.",
-          "They are not involving enough international stakeholders in the discussion.",
-          "They lack technical understanding of the treaty's original text."
-        ],
-        "answerIndex": 1,
-        "explanation": "The author explicitly states that both officials are 'looking backwards' and are 'defending or dismantling' a treaty that assumed stable flows from a Himalayan watershed which 'no longer exists' due to climate change, which they 'should be talking about'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is Dr. P.K. Saxena's core argument for India's grievance against the Indus Waters Treaty?",
-        "back": "Saxena argues India negotiated in good faith, paid Pakistan for its water infrastructure, and has consistently faced unjustified Pakistani obstruction on its hydropower projects, leading to a situation where India bears all obligations and Pakistan collects all benefits."
-      },
-      {
-        "front": "How does Syed Mehar Ali Shah counter the claim that Pakistan's 80% water share is a 'gift'?",
-        "back": "Shah counters that Pakistan's 80% share is a protected entitlement, not a gift, resulting from the IWT replacing India's upstream discretion with binding legal obligations after India stopped taps in 1948. India's financial contribution was the price for unrestricted use of eastern rivers."
-      },
-      {
-        "front": "What is the article's main point about the 'unchartered waters' concerning the IWT?",
-        "back": "The 'unchartered waters' refer to the fundamental challenge that the IWT was designed for a predictable Himalayan environment that no longer exists due to climate change, which has significantly altered river flows and ice cover, rendering the treaty's assumptions outdated."
-      },
-      {
-        "front": "According to the author, what three key conversations are 'overdue' to address the challenges to the IWT?",
-        "back": "The three overdue conversations are: resuscitating the Permanent Indus Commission with real-time data, recognizing that 1960 design constraints are obsolete given the changed Himalayan environment, and accepting shared liabilities for basin-wide issues like delta depletion and groundwater exhaustion."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783042366884-549",
-    "title": "World Bank and NFC Award\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012354/world-bank-and-nfc-award",
-    "date": "2026-07-02",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "A RATHER damning indictment of the seventh NFC Award has just been published by the World Bank in a study titled Strengthening Fiscal Federalism in Pakistan. The study plugs a crucial gap in our understanding of the impact that the NFC Award has had on the state’s ability to function and deliver social services. The findings are not flattering for the performance of the provincial governments across Pakistan, since 2009.\nIn typical World Bank style, the authors generously pepper the report with observations about the strengths that the NFC Award has brought, noting it “provides predictability and protects provincial revenue shares”, “supports provincial autonomy” and is “consensus-based”. Then it pivots, usually with “[h]owever, from a technical perspective…” to the critical commentary.\n    \nThe critical vocabulary is notably blunt for a World Bank document: the mechanism rests on “an arbitrarily determined pool of resources … distributed … based on multiple factors with again arbitrarily determined weights”; the seventh Award produced “windfall gains to provinces”; “financing has not followed function”; and the indicator weights “reflected a negotiated outcome rather than application of a clear legal or technical framework”. The Award, it says, has been “a material contributor” to the “structural federal fiscal deficit”.\nThe frankness here makes for refreshing reading given how the policy conversation tends to be so risk averse in our country as to devolve into platitudes. And then come the material observations. The authors start by observing that the award led to an increase in transfers to the provinces of around two percentage points of GDP — from an average of 3.2 per cent of GDP over FY02-09 to 5.1pc over FY10-24. This is huge. So the next question to ask is what did the provinces do with all this money? And here comes the rub.\nA new report shows how our fiscal-federalism problems are not, at root, technical failures to be fixed with better systems.\nThe bulk of the increased resources were consumed by an increased wage and pension bill, and rising administrative overheads. Roughly 82pc of the incremental resources transferred over FY09-23 were absorbed by current expenditure. The recurrent share of consolidated provincial spending rose from about 60pc in FY09 to over 80pc by FY24. In real terms, salaries rose around 250pc and pensions around 330pc over FY09-23, while development spending grew only around 60pc and remains around 20pc of the total. Some of this was due to the expansion of the workforce in education and health due to which the expansion in the wage bill of these sectors lead the others, implying some material investment in schools and healthcare facilities.\nBut where are the results from these investments? Take education. The report notes that there is no relationship between increased spending and improved outcomes. Sindh and Balochistan increased their real, per capita education spending the most since FY09 (350pc and 650pc respectively) yet both provinces saw declines in net enrolment and adult literacy, critical indicators in the education sector. KP was an outlier where its real, per capita spending on education did not increase in these years, but its net enrolment rate went up 2pc and adult literacy rose by nine points.\n    \nThese are headline numbers only. The authors deploy a series of sophisticated techniques to measure the impact of this incremental spending, as well as what drove allocation decisions for each provincial government. Different techniques yield slight differences in the results, but some findings keep popping up. KP comes out as a star performer, achieving the most with the least resource inputs during this time period. Sindh and Balochistan lag across the board. Higher spending yields consistently worse outcomes, from education to poverty alleviation. Allocations are not targeted; they are not driven by need. The single most important variable governing allocations is the previous year’s spending, not deprivation.\nThe report finds that provincial governments have been more interested in preserving discretionary authority in spending decisions than they are in bringing about improved socioeconomic outcomes or in targeting delivery from available spending. In a somewhat bold section (given how squeamish the World Bank tends to be when touching on political matters) they go to some lengths to show that Pakistan’s fiscal-federalism problems are not, at root, technical failures to be fixed with better systems — they are the predictable product of an incentive structure in which controlling money is a source of political power, so the people who hold that power have little reason to give it up. A number of “governance failures” are then seen as features of a system that seems to be designed to build and maintain ruling coalitions, not necessarily in the sense of coalitions between political parties, but coalitions of networks embedded within the provincial government apparatus and society at large. This is something shared across the provinces.\nThe findings of the report must now be responded to by the provincial authorities. Each one should now present its response, especially to the findings in the report about their specific province. Silence in the face of these disclosures must be read as agreement with the findings.\nHere are my own thoughts. The report tells us nothing about whether these results would have been materially better if the federal government were in charge of performing these functions instead. So there is no case here for reversing the NFC Award. There is a case, however, for further downward devolution, and strengthening accountability in the provincial governments. Accountability means electoral accountability, and not supra statal bodies overseeing other state bodies. The results also don’t break the period down into smaller segments so that we could see whether there was a period during which provincial governments had begun to deliver but then later went off track.\nThe provincial governments have become the seats of embattled, civilian power in this country. Much of the political economy the report picks up is a function of this. To get them to return their focus to the electorate, there is a need to make them accountable to their voters all over again. That is the way forward.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, July 2nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs / Economics / Governance & Public Policy",
-    "topic": "Fiscal Federalism, NFC Award, Provincial Autonomy and Governance Challenges in Pakistan",
-    "whyMatters": "This article provides a critical, evidence-based analysis of the impact of the 7th NFC Award on provincial fiscal management and service delivery. It is essential for understanding the complexities of decentralization and governance failures in Pakistan, offering insights for essay writing and current affairs discussions.",
-    "summary": [
-      "The 7th NFC Award led to a substantial increase in financial transfers to provinces (around 2 percentage points of GDP), significantly boosting their revenue shares.",
-      "Despite increased transfers, the bulk of these incremental resources (approximately 82%) were absorbed by current expenditures, primarily wage and pension bills, rather than productive development spending.",
-      "The World Bank study found no direct correlation between increased provincial spending and improved outcomes in key social sectors like education for most provinces (e.g., Sindh and Balochistan), with Khyber Pakhtunkhwa (KP) identified as an outlier achieving better results with less resource input.",
-      "The report posits that Pakistan's fiscal-federalism challenges are not merely technical failures but are rooted in political incentive structures where control over money is a source of power, leading to 'governance failures' designed to maintain ruling coalitions."
-    ],
-    "facts": [
-      "Provincial transfers increased from an average of 3.2% of GDP (FY02-09) to 5.1% (FY10-24) after the 7th NFC Award.",
-      "Roughly 82% of the incremental resources transferred to provinces over FY09-23 were absorbed by current expenditure (wage and pension bills, administrative overheads).",
-      "Sindh and Balochistan increased real, per capita education spending by 350% and 650% respectively since FY09, yet both provinces saw declines in net enrolment and adult literacy."
-    ],
-    "academicReferences": [
-      "World Bank study: 'Strengthening Fiscal Federalism in Pakistan'",
-      "7th National Finance Commission (NFC) Award (2009)",
-      "18th Constitutional Amendment (2010)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Indictment",
-        "type": "noun",
-        "definition": "A formal accusation or strong indication that something is wrong or flawed.",
-        "sentence": "A RATHER damning indictment of the seventh NFC Award has just been published by the World Bank..."
-      },
-      {
-        "word": "Arbitrarily",
-        "type": "adverb",
-        "definition": "In a way that is based on random choice or personal whim, rather than any reason or system.",
-        "sentence": "...mechanism rests on 'an arbitrarily determined pool of resources…distributed…based on multiple factors with again arbitrarily determined weights'..."
-      },
-      {
-        "word": "Platitudes",
-        "type": "noun",
-        "definition": "A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.",
-        "sentence": "...the policy conversation tends to be so risk averse in our country as to devolve into platitudes."
-      },
-      {
-        "word": "Squeamish",
-        "type": "adjective",
-        "definition": "Easily made to feel sick, disgusted, or shocked, especially by unpleasant sights or discussions.",
-        "sentence": "In a somewhat bold section (given how squeamish the World Bank tends to be when touching on political matters) they go to some lengths..."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the World Bank study, which of the following best describes the primary use of the incremental resources transferred to provinces after the 7th NFC Award?",
-        "options": [
-          "Significant investment in development projects and infrastructure.",
-          "Substantial increases in wage bills, pensions, and administrative overheads.",
-          "Reduction of provincial debt and fiscal deficits.",
-          "Establishment of new social service programs targeting deprivation."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that 'The bulk of the increased resources were consumed by an increased wage and pension bill, and rising administrative overheads. Roughly 82pc of the incremental resources transferred over FY09-23 were absorbed by current expenditure.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the primary impact of the 7th NFC Award on provincial financial resources, according to the World Bank study?",
-        "back": "It led to a significant increase in transfers to provinces, from an average of 3.2% of GDP (FY02-09) to 5.1% (FY10-24)."
-      },
-      {
-        "front": "How did provincial governments primarily utilize the increased financial resources received after the 7th NFC Award?",
-        "back": "The bulk (around 82%) of the incremental resources were absorbed by current expenditure, specifically increased wage and pension bills, rather than development spending."
-      },
-      {
-        "front": "What did the World Bank study find regarding the relationship between increased provincial spending and outcomes in sectors like education?",
-        "back": "For most provinces (e.g., Sindh, Balochistan), increased per capita spending in education did not lead to improved outcomes; in some cases, outcomes like net enrolment and adult literacy declined."
-      },
-      {
-        "front": "According to the World Bank report, what is the fundamental root cause of Pakistan's fiscal-federalism problems?",
-        "back": "The problems are not merely technical failures but predictable products of an incentive structure where controlling money is a source of political power, leading to 'governance failures' designed to maintain ruling coalitions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783042700172-721",
-    "title": "Encroachment risks\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012349/encroachment-risks",
-    "date": "2026-07-02",
-    "author": "none@none.com (Naseer Memon)",
-    "content": "REGIONAL weather forecasts indicate that El Niño conditions may influence the coming monsoons. International meteorological forums anticipate excessive heat spells and below-normal rainfall, especially in Pakistan’s plains. However, this forecast does not rule out the possibility of occasional cloudbursts that generate torrential spates in the highlands and urban flooding in the plains. Similarly, excessive heat can melt snow at a faster pace in the mountains, which will swell the rivers. The Met Office has issued warnings of glacial lake outburst floods during heatwaves.\nThe lessons of the catastrophic floods of 2022 and 2025 need to be recalled. Encroachments on riverbeds and the blockage of natural waterways intensified those floods. Dried-up streams and stretches of riverbeds, as well as seasonal nullahs, frequently mistaken for empty land, are often occupied by illegal housing societies, crops, roads and squatters. Floodplains are seized for large-scale cropping, and cordoned off by illegally erected embankments. Over time, makeshift shelters are built, forming haphazard settlements. In urban areas, clumsily located residential and commercial neighbourhoods encroach on rainwater streams, open nullahs and arterial drains. In mountainous areas, new houses and recreational facilities are built on the path of natural streams. These encroachments narrow waterways, and devastation ensues when the floods reclaim their natural paths after several years.\nThe population on these waterways continues to expand exponentially. Green patches on spatial maps are steadily being replaced with shades of brown. Land in the peripheries of the villages and towns is converted from green cover to real estate. A study conducted by Syed Khurram Shahzad of Bahauddin Zakariya University, Multan, revealed that between 1980 and 2020, some 12,450 square kilometres, or 18.7 per cent, of Pakistan’s natural floodplains were lost to agricultural and urban land use. The percentage had climbed from 1.2pc in the 1980s to 7.5pc in the 2010s. According to the research, Punjab accounted for the largest share (45pc) of total encroachment. The Ravi and Chenab river basins were marked as intensively encroached areas. The peri-urban areas of Lahore and Faisalabad saw a 320pc expansion in the urbanisation of floodplains. Sindh accounted for 32pc of the encroachment, mostly as agricultural and informal settlements. The research estimated that 6.2 million people lived directly on encroached floodplains, with another 12.8m settled slightly further but within the zones inundated during floods.\nLast year, Punjab experienced calamitous transboundary floods. Encroachments on the Ravi and Chenab rivers and urban nullahs aggravated the intensity of the deluge, exposing the governance mess of decades. The Ravi overflowed its banks, flooding thoughtlessly built elite housing societies on the outskirts of Lahore. Urban drainage in Sialkot, Narowal, Gujranwala and several other cities was affected by encroachments. High-level officials, including the prime minister, attributed much of the devastation caused by the floods in Sialkot to encroachments on natural water channels. The PM announced a national campaign against haphazard construction around rivers, watercourses and streams. The authorities often issue resolute statements when disasters wreak havoc, but their words seldom see action as floods subside.\nThe lessons of 2022 and 2025 must be recalled.\nPrior to last year’s floods, a Senate standing committee was informed that encroachments along Punjab’s rivers and waterways had increased, with a staggering 800 new cases reported as of February 2025. A re­­­presentative of the Federal Flood Com­mission failed to su­­b­­stantiate his claim that all encroachm­ents had been remo­ved before August 2024. Suparco data indicated that no major encroachments had been removed after August 2024.\nIn November 2025, the committee vented its frustration over the lack of coordination among the water resources ministry, line agencies and the provincial governments regarding the removal of encroachments along riverbanks and nullahs. The committee was told that 897 encroachments had still not been cleared. Provincial data presented to the committee showed that Punjab had removed 1,790 out of 2,687 encroachments, Sindh had removed six out of 164, and KP had removed 126 out of 377. No encroachments were removed in Balochistan. The authorities adopt a lax attitude as the removal of encroachments has political implications. So-called actions are announced only for public consumption.\nThere’s virtually no time left before the next monsoons commence. The authorities should clear the waterways immediately before a deluge sweeps away homes, roads, bridges, dykes and standing crops.\nThe writer is senior adviser on water governance at the Sustainable Development Policy Institute.\nnaseer_memon@sdpi.org\nPublished in Dawn, July 2nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change Impacts on Water Resources, Urban Flooding, and Governance in Pakistan",
-    "whyMatters": "This article directly addresses how global climate change, via phenomena like El Niño and extreme heat, exacerbates water resource challenges like floods and GLOFs in Pakistan. It further highlights how varied provincial responses and governance failures regarding encroachments on waterways can implicitly strain inter-provincial harmony concerning disaster management and resource allocation.",
-    "summary": [
-      "Climate change indicators, such as El Niño conditions and excessive heat, are forecasted to intensify monsoon patterns, leading to severe floods, cloudbursts, and glacial lake outburst floods (GLOFs) in Pakistan.",
-      "Extensive encroachments on natural waterways, including riverbeds, nullahs, and floodplains, by illegal housing, agriculture, and infrastructure are identified as the primary reason for aggravated flood devastation in both urban and rural areas.",
-      "Pakistan has lost significant natural floodplains to urban and agricultural expansion (18.7% between 1980-2020), particularly in Punjab (45%) and Sindh (32%), rendering millions vulnerable to inundation.",
-      "Despite recurring catastrophic floods and official warnings, authorities demonstrate a lax attitude towards removing encroachments due to political implications, hindering effective disaster preparedness and coordinated response across provinces."
-    ],
-    "facts": [
-      "Between 1980 and 2020, 12,450 sq km (18.7%) of Pakistan's natural floodplains were lost to agricultural and urban land use.",
-      "Punjab accounted for 45% of total encroachment on floodplains, while Sindh accounted for 32%, mostly for agricultural and informal settlements.",
-      "An estimated 6.2 million people live directly on encroached floodplains, with an additional 12.8 million settled within zones inundated during floods."
-    ],
-    "academicReferences": [
-      "Syed Khurram Shahzad, Bahauddin Zakariya University, Multan: Research on floodplain loss in Pakistan (1980-2020).",
-      "National Disaster Management Authority (NDMA) Reports: Annual Disaster Reports and Flood Contingency Plans of Pakistan.",
-      "Pakistan's National Climate Change Policy (2012, updated 2021): Strategies for adaptation and mitigation against climate change impacts on water resources."
-    ],
-    "vocabulary": [
-      {
-        "word": "Torrential",
-        "type": "adjective",
-        "definition": "Falling in copious, destructive floods; flowing in a rushing, violent stream.",
-        "sentence": "The region braced for torrential rains as the monsoon season began, increasing the risk of urban flooding."
-      },
-      {
-        "word": "Haphazard",
-        "type": "adjective",
-        "definition": "Lacking any obvious principle of organization; done without careful planning.",
-        "sentence": "The haphazard construction of settlements on natural waterways significantly contributed to the flood devastation."
-      },
-      {
-        "word": "Deluge",
-        "type": "noun",
-        "definition": "A severe flood; a great rush of water.",
-        "sentence": "The authorities warned residents to prepare for an unprecedented deluge as the river swelled to dangerous levels."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as the primary reason for the intensified devastation caused by floods in Pakistan?",
-        "options": [
-          "Below-normal rainfall forecasts",
-          "Insufficient international meteorological forums",
-          "Extensive encroachments on natural waterways",
-          "Lack of snowmelt in mountainous regions"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'Encroachments on riverbeds and the blockage of natural waterways intensified those floods' and repeatedly highlights how 'devastation ensues when the floods reclaim their natural paths' due to these obstructions."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How do predicted El Niño conditions and excessive heat, influenced by global climate change, impact Pakistan's water resources according to the article?",
-        "back": "They are expected to intensify monsoons, leading to below-normal rainfall in plains but also occasional cloudbursts, torrential spates, urban flooding, faster snowmelt swelling rivers, and glacial lake outburst floods (GLOFs)."
-      },
-      {
-        "front": "What specific evidence does the article provide regarding the loss of Pakistan's natural floodplains due to land use changes?",
-        "back": "A study revealed that between 1980-2020, 12,450 sq km (18.7%) of Pakistan's natural floodplains were lost to agricultural and urban land use, with Punjab accounting for 45% and Sindh 32% of total encroachment."
-      },
-      {
-        "front": "In what ways do encroachments on natural waterways exacerbate the impact of climate-induced floods, as detailed in the article?",
-        "back": "Encroachments narrow waterways, block natural paths of water, and lead to the construction of haphazard settlements and infrastructure in flood-prone areas, causing widespread devastation when floods reclaim their natural courses."
-      },
-      {
-        "front": "How does the article implicitly suggest that the issue of encroachments could affect inter-provincial harmony in Pakistan regarding water resource management?",
-        "back": "It shows disparate provincial efforts in removing encroachments (e.g., Punjab removed 1790, Sindh 6, KP 126, Balochistan 0), and highlights a lack of coordination between federal and provincial authorities, which can lead to blame games and disputes over disaster responsibility and resource allocation during climate crises."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783042911069-306",
-    "title": "Lahore tragedy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012347/lahore-tragedy",
-    "date": "2026-07-02",
-    "author": "none@none.com (Editorial)",
-    "content": "THE death of 14 children in the roof collapse of a private tuition centre in Lahore has plunged the entire country into mourning. The victims, most of them less than nine years, had gathered for extra lessons in what should have been a safe environment. Instead, they became victims of a disaster that was totally preventable. A criminal case has been registered against the owners of the tuition centre and the contractor carrying out the repair work on the roof that caved in. But limiting responsibility to the owners and contractor risks overlooking a much larger and more serious failure. Where were the city authorities whose responsibility it is to enforce construction regulations, inspect unsafe structures and ensure that buildings being used by the public meet basic safety standards? Accountability cannot stop with private individuals when public institutions, too, have badly failed in their duty.\nThis tragedy is not an isolated incident. Pakistan has witnessed a long list of similar disasters caused by unsafe buildings, weak regulations and official negligence. Karachi, in particular, has repeatedly seen residential and commercial buildings collapse, killing dozens of people over the years. Time after time, investigations point to the same underlying problems: illegal construction, unauthorised additions to existing structures, poor-quality materials, weak engineering standards and the complete disregard of building bylaws. The reality is that building regulations are routinely flouted with little fear of consequences. Structures are often erected or altered without approvals or inspections. Existing buildings are modified far beyond their original design capacity. Officials responsible for oversight either look the other way or fail to enforce the law. As cities expand rapidly, and often haphazardly, such buildings increasingly become death traps waiting for the next accident. Every major building collapse is followed by expressions of grief, promises of transparent investigations and assurances that those responsible will be punished. Yet little changes. The deaths of these children should force policymakers to confront the deeper crisis of urban governance. Strict enforcement of building codes, regular audits of older buildings and accountability of regulatory authorities will never become a priority unless we have an effective, elected local government system. The children who lost their lives in Lahore deserved better from everyone entrusted with their safety. Unless we end the culture of impunity surrounding unsafe construction and regulatory failures, this will not be the last tragedy of its kind.\nPublished in Dawn, July 2nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs / Current Affairs / Governance",
-    "topic": "Urban Governance, Public Safety, and Regulatory Failures",
-    "whyMatters": "This article highlights critical issues of urban governance, public safety, and accountability in Pakistan, making it highly relevant for essays and analytical questions on administrative failures and disaster prevention. Aspirants can quote it to exemplify systemic problems in regulatory enforcement and the need for robust local government.",
-    "summary": [
-      "A tragic roof collapse at a private tuition center in Lahore killed 14 children, exposing severe public safety failures.",
-      "The article argues that responsibility extends beyond private owners and contractors to city authorities and public institutions for failing to enforce construction regulations and inspect unsafe structures.",
-      "This incident is not isolated, reflecting a pattern of illegal construction, weak regulations, poor materials, and official negligence seen across Pakistan, particularly in Karachi.",
-      "The core solution proposed is strict enforcement of building codes, regular audits, accountability of regulatory bodies, and the establishment of an effective, elected local government system."
-    ],
-    "facts": [
-      "14 children died in the roof collapse of a private tuition centre in Lahore.",
-      "Most of the victims were less than nine years old.",
-      "The article was published in Dawn on July 2nd, 2026."
-    ],
-    "academicReferences": [
-      "18th Amendment to the Constitution of Pakistan (for devolution of powers to local governments)",
-      "National Building Code of Pakistan (NBCP) 2007 (or latest version) (for regulatory standards)",
-      "Sendai Framework for Disaster Risk Reduction (2015-2030) (for global policy on disaster prevention and resilience)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Plunged",
-        "type": "verb",
-        "definition": "To fall or drop straight down at high speed; to be suddenly cast into a particular state.",
-        "sentence": "The death of 14 children in the roof collapse of a private tuition centre in Lahore has plunged the entire country into mourning."
-      },
-      {
-        "word": "Flouted",
-        "type": "verb",
-        "definition": "Openly disregard (a rule, law, or convention).",
-        "sentence": "The reality is that building regulations are routinely flouted with little fear of consequences."
-      },
-      {
-        "word": "Haphazardly",
-        "type": "adverb",
-        "definition": "In a manner lacking any obvious principle of organization.",
-        "sentence": "As cities expand rapidly, and often haphazardly, such buildings increasingly become death traps waiting for the next accident."
-      },
-      {
-        "word": "Impunity",
-        "type": "noun",
-        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
-        "sentence": "Unless we end the culture of impunity surrounding unsafe construction and regulatory failures, this will not be the last tragedy of its kind."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as a fundamental underlying issue contributing to recurring building collapses in Pakistan?",
-        "options": [
-          "Lack of an effective, elected local government system.",
-          "Over-reliance on foreign construction technology.",
-          "Excessive focus on aesthetic design over structural integrity.",
-          "Absence of private contractors in the construction sector."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states: 'Strict enforcement of building codes... will never become a priority unless we have an effective, elected local government system.' This points to a systemic governance issue as a fundamental cause."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the article identify as the 'much larger and more serious failure' beyond the tuition centre owners and contractor?",
-        "back": "The failure of city authorities and public institutions to enforce construction regulations, inspect unsafe structures, and ensure public safety standards."
-      },
-      {
-        "front": "List the recurring underlying problems cited for building collapses in Pakistan, according to the article.",
-        "back": "Illegal construction, unauthorised additions, poor-quality materials, weak engineering standards, and complete disregard of building bylaws and official negligence."
-      },
-      {
-        "front": "What specific actions does the article suggest for policymakers to confront the crisis of urban governance?",
-        "back": "Strict enforcement of building codes, regular audits of older buildings, and accountability of regulatory authorities."
-      },
-      {
-        "front": "What systemic reform does the article link to making building safety a priority?",
-        "back": "Establishing an effective, elected local government system."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783043293513-121",
-    "title": "Data policy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012345/data-policy",
-    "date": "2026-07-02",
-    "author": "none@none.com (Editorial)",
-    "content": "THE draft ‘Data Governance Policy’, released by the IT ministry recently, is a welcome step towards modernising the state’s data management. However, the success of the policy will depend less on the principles it has ambitiously outlined and more on the legal, institutional and administrative reforms that must accompany it. As seen in the debate surrounding tax authorities’ bid to directly access and cross-match citizens’ banking information, data is becoming an increasingly important tool for the government as it attempts to improve service delivery, formulate better policies and regulate the digital economy. However, data-led decision-making is not possible without a coherent framework governing who can access public-sector data and under what conditions.\nConcerns over data privacy are bound to arise, as was seen in the banking data case. Encouragingly, this draft policy appears to address such concerns. It gets much right: it establishes that the government is a custodian rather than the owner of public data, seeks privacy safeguards built into data collection, transmission and sharing mechanisms, wants open access to data and responsible data sharing, etc. It also promises citizens meaningful rights over personal data. However, these principles must be enforced through legal force. In the absence of a personal data protection law, which the policy acknowledges has yet to be legislated, the questions of what happens if the promised rights are denied, who the people can appeal to, which courts will enforce the policy, and which regulator will investigate data-related complaints, among many others, remain unanswered. There is also the matter of institutional capacity. Are our institutions adequately equipped and technically capable of implementing and adhering to this policy? Are they sufficiently independent? Whose oversight will they operate under? These are all important points that the government must address. In recent years, Pakistan has announced many ambitious digital initiatives without frameworks to support them. This policy should not be another entry on that list.\nPublished in Dawn, July 2nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 84,
-    "paper": "Public Administration / Governance",
-    "topic": "Digital Governance & Data Policy Reforms",
-    "whyMatters": "Aspirants can quote this article to critique government digital initiatives, discuss the complexities of data governance, and emphasize the need for comprehensive legal and institutional reforms in Pakistan's public sector. It provides a current example of policy challenges in modernizing state data management and protecting citizen privacy.",
-    "summary": [
-      "The draft 'Data Governance Policy' is a welcome step towards modernizing state data management, but its success hinges on accompanying legal, institutional, and administrative reforms.",
-      "Data is becoming an increasingly important tool for government to improve service delivery, formulate policies, and regulate the digital economy, necessitating a coherent framework.",
-      "The policy correctly establishes principles such as the government being a data custodian, built-in privacy safeguards, open access, and citizen rights over personal data.",
-      "Despite its principles, the policy's effectiveness is severely hampered by the absence of a legislated personal data protection law and significant concerns over institutional capacity, independence, and oversight."
-    ],
-    "facts": [
-      "The IT ministry recently released the draft 'Data Governance Policy'.",
-      "Concerns over data privacy have arisen in Pakistan, notably in the debate regarding tax authorities' access to citizens' banking information.",
-      "The draft 'Data Governance Policy' explicitly acknowledges the current absence of a personal data protection law in the country."
-    ],
-    "academicReferences": [
-      "General Data Protection Regulation (GDPR) - European Union",
-      "UN E-Government Development Index Report (UNDESA)",
-      "Pakistan's Prevention of Electronic Crimes Act (PECA), 2016"
-    ],
-    "vocabulary": [
-      {
-        "word": "Custodian",
-        "type": "noun",
-        "definition": "A person or group responsible for taking care of or protecting something.",
-        "sentence": "The draft policy establishes the government as a **custodian** rather than the owner of public data."
-      },
-      {
-        "word": "Coherent",
-        "type": "adjective",
-        "definition": "Logical and consistent; forming a united, consistent, or meaningful whole.",
-        "sentence": "Data-led decision-making is not possible without a **coherent** framework governing data access and conditions."
-      },
-      {
-        "word": "Legislated",
-        "type": "verb",
-        "definition": "Enacted or made into law by a legislative body.",
-        "sentence": "The policy acknowledges that a personal data protection law has yet to be **legislated**."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the primary impediment to the full success of the draft 'Data Governance Policy' despite its outlined principles?",
-        "options": [
-          "A) Lack of ambitious principles in the policy itself.",
-          "B) Absence of a legislated personal data protection law and adequate institutional capacity.",
-          "C) Unwillingness of citizens to share personal data with the government.",
-          "D) Insufficient technical infrastructure for data collection."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that success depends less on principles and more on accompanying legal, institutional, and administrative reforms, specifically highlighting the absence of a personal data protection law and issues with institutional capacity, independence, and oversight."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the two main factors, beyond its outlined principles, that will determine the success of the draft 'Data Governance Policy'?",
-        "back": "Its success will depend on the accompanying legal, institutional, and administrative reforms, particularly the legislation of a personal data protection law and the development of adequate institutional capacity."
-      },
-      {
-        "front": "According to the draft policy, what is the government's established role concerning public data?",
-        "back": "The government is established as a custodian of public data, not its owner, implying a responsibility to protect it."
-      },
-      {
-        "front": "What crucial legal framework, acknowledged by the policy, is currently missing and hinders its effective enforcement and the protection of citizen rights?",
-        "back": "A personal data protection law is yet to be legislated, leaving questions about rights denial, appeals, court enforcement, and regulatory oversight unanswered."
-      },
-      {
-        "front": "Beyond legal frameworks, what other significant challenge does the article highlight for the effective implementation of the data policy?",
-        "back": "The challenge of institutional capacity, including whether institutions are adequately equipped, technically capable, sufficiently independent, and operating under proper oversight."
       }
     ]
   }
