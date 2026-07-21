@@ -1,5 +1,644 @@
 [
   {
+    "id": "curated-1784597098131-436",
+    "title": "China’s AI wave\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016895/chinas-ai-wave",
+    "date": "2026-07-20",
+    "author": "none@none.com (Huma Yusuf)",
+    "content": "ARTIFICIAL intelligence (AI) means different things to different people: risk and opportunity, job losses and job creation, energy waste and economic growth, climate disaster and future of the planet. Debates on the shape of AI governance are equally fraught. \nThat debate became more interesting recently with the launch of the World AI Cooperation Organisation in Shanghai. Chinese President Xi Jinping made the geopolitical implications of global AI governance explicit at the launch, calling for multilateral cooperation on AI, and rejecting AI dominance by one country (this appeared to be a barb at the US; recall comments last year by the White House AI policy adviser at the India AI Summit, prioritising US ‘dominance’ of AI through the global use of the American AI stack).\nXi’s attendance at the moot highlights how central AI now is to China’s diplomatic and industrial strategies. Seeing a gap created by US isolationism and heavy-handed protectionism, China has stepped in. It is advocating for countries to share technologies, amplify capacity building efforts and, most importantly, coalesce around shared demands for global AI governance.\nThe rallying cry is particularly targeted towards emerging economies in the Global South. With WAICO’s launch, Beijing has positioned itself as an AI ‘godfather’, happy to dole out gifts and advice to smooth the AI journeys of its less technologically advanced or poorly resourced partners. Pakistan on Friday joined 29 other countries as founding members of the organisation.\nWhy is Beijing seeking to hold the pen on AI?\nWhy is Beijing, which has for so long shied away from global leadership, seeking to hold the pen on AI? For one, the winner of the AI race will reap both economic and political benefits. Beijing has seen this with the Digital Silk Road Initiative, under which China has exported 5G networks and surveillance tech around the world, creating reliance on Chinese companies’ know-how and influence over user governments.\nChina now wants to step up investment in AI infrastructure — including semi-conductor chips and the critical minerals supply chain that underpins them — and build Global South dependence on Chinese AI infrastructure and technologies, ensuring its economic prospects for the decades ahead. While it has some catching up with the US to do in the chip space, it is well-positioned, due to its outsized energy infrastructure, to fuel AI dominance.\nThe other reason is ideological. China recalls when it alone stood behind the Great Firewall, while the world celebrated the idea of a democratic, open internet. Those days are gone, as nations ranging from large democracies such as the US and India to tin-pot dictatorships all clamp down on net freedoms, frequently impose internet shutdowns and install surveillance systems. With AI, Beijing is pushing for state-dominated, highly regulated AI systems.\nWAICO is expected to build consensus on AI standards and governance in line with China’s vision for state-centric AI, and use the group’s influence to sway global AI governance and policies ultimately established through UN frameworks.\nBefore Pakistan is fully swept away by the Chinese AI wave, it should clarify its own AI priorities and demands of global AI governance. The National Artificial Intelligence Policy, 2025, recognises the importance of AI for the country’s digital — and so economic — transformation. Parts of the policy, such as investment in AI infrastructure funded by dedicated funds and capacity building through the AI Seekho programme, aimed at training a million people, align with WAICO’s collaborative approach.\nBoth Pakistan and China are also aligned in demands for strong regulation regarding the securitisation of AI, and the responsible management of dual-use risks. Through WAICO, the countries’ level of alignment or departure on this topic will be clarified. China will likely focus its attention on potential for the US to deploy AI in a military context, with little heed for global norms or rules. Meanwhile, Pakistan will remain preoccupied with scenarios in which non-state actors such as militant groups increasingly adopt AI, whether for propaganda purposes, or to deploy AI-enabled drones in attacks against state security targets.\nBut Pakistan’s policy also calls for domestic AI infrastructure, strong cybersecurity and data sovereignty, aspirations that may not sit comfortably with China’s plan to export its AI tools and technologies, creating dependencies. More importantly, Pakistan’s policy acknowledges the importance of data privacy, ethical and inclusive AI, and human rights in AI applications. Will growing alignment with China’s AI vision mean forgoing the emphasis on digital rights? In this scenario, irrespective of who wins the AI race, we all lose. \nThe writer is a political and integrity risk analyst.\nX: @humayusuf\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "International Relations / Current Affairs / Science & Technology / Pakistan Affairs",
+    "topic": "Global AI Governance, China's Tech Diplomacy, and Pakistan's AI Policy",
+    "whyMatters": "This article is crucial for understanding the evolving geopolitical landscape of AI, highlighting China's assertive role in shaping global tech governance and its implications for developing nations like Pakistan. It also provides insights into the potential trade-offs Pakistan faces in balancing technological advancement with principles of data sovereignty and human rights.",
+    "summary": [
+      "China is actively positioning itself as a leader in global AI governance through initiatives like the World AI Cooperation Organisation (WAICO), challenging US dominance and advocating for multilateral cooperation.",
+      "Beijing's pursuit of AI leadership is driven by both economic benefits, aiming to create global dependence on its AI infrastructure, and an ideological vision for state-dominated, highly regulated AI systems.",
+      "China targets emerging economies in the Global South, offering technological assistance and advice, with Pakistan notably joining WAICO as a founding member.",
+      "While Pakistan aligns with China on some aspects of AI governance, such as regulating dual-use risks, its national policy emphasizes data sovereignty, privacy, ethical AI, and human rights, which may conflict with China's export-driven approach."
+    ],
+    "facts": [
+      "The World AI Cooperation Organisation (WAICO) was launched in Shanghai.",
+      "Pakistan joined 29 other countries as a founding member of the World AI Cooperation Organisation (WAICO).",
+      "Pakistan's National Artificial Intelligence Policy, 2025, includes investment in AI infrastructure and capacity building through programs like AI Seekho, aimed at training a million people."
+    ],
+    "academicReferences": [
+      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics' (for broader strategic context)",
+      "UN Secretary-General's report 'Our Common Agenda' (for global governance frameworks)",
+      "IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems (for ethical AI principles)"
+    ],
+    "vocabulary": [
+      {
+        "word": "fraught",
+        "type": "adjective",
+        "definition": "full of (usually unpleasant) things such as problems or dangers",
+        "sentence": "Debates on the shape of AI governance are equally fraught, highlighting complex challenges."
+      },
+      {
+        "word": "moot",
+        "type": "noun",
+        "definition": "a meeting for discussion or debate",
+        "sentence": "President Xi’s attendance at the moot emphasized AI's centrality to China’s strategies."
+      },
+      {
+        "word": "coalesce",
+        "type": "verb",
+        "definition": "to come together to form one mass or whole",
+        "sentence": "China is advocating for countries to coalesce around shared demands for global AI governance."
+      },
+      {
+        "word": "securitisation",
+        "type": "noun",
+        "definition": "the action or process of treating something, like technology, as a security concern or threat",
+        "sentence": "Pakistan and China are aligned in demands for strong regulation regarding the securitisation of AI, particularly its military applications."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a primary motivation for China's push for global AI leadership, as mentioned in the article?",
+        "options": [
+          "To reap economic and political benefits and establish dependence on its AI infrastructure.",
+          "To achieve military superiority over Russia.",
+          "To promote a completely open and unregulated internet model globally.",
+          "To primarily focus on humanitarian AI applications in the Global North."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states China seeks economic and political benefits from winning the AI race, creating reliance on its technologies and influence over user governments, similar to its Digital Silk Road Initiative."
+      },
+      {
+        "question": "Which organization did Pakistan join as a founding member, related to global AI cooperation?",
+        "options": [
+          "Digital Silk Road Initiative",
+          "World AI Cooperation Organisation (WAICO)",
+          "Global AI Ethics Alliance",
+          "US-India AI Summit"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Pakistan on Friday joined 29 other countries as founding members of the organization [WAICO].'"
+      },
+      {
+        "question": "What aspect of Pakistan's National Artificial Intelligence Policy, 2025, might conflict with China's AI strategy, according to the article?",
+        "options": [
+          "Investment in AI infrastructure.",
+          "Capacity building through programs like AI Seekho.",
+          "Demands for strong regulation regarding dual-use AI risks.",
+          "Emphasis on data privacy, ethical AI, and human rights in AI applications."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article highlights that Pakistan's policy acknowledges the importance of data privacy, ethical and inclusive AI, and human rights, aspirations that may not sit comfortably with China’s plan to export AI tools creating dependencies."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is China's stated position on global AI governance, specifically regarding the dominance of a single country?",
+        "back": "China advocates for multilateral cooperation on AI and rejects AI dominance by any one country, which is seen as a critique of the US."
+      },
+      {
+        "front": "How does China intend to leverage its AI infrastructure investments to secure economic prospects for decades ahead?",
+        "back": "China plans to invest in AI infrastructure, including semi-conductor chips and critical minerals, to build Global South dependence on its AI technologies and ensure long-term economic prospects."
+      },
+      {
+        "front": "What ideological shift in global internet freedoms does China observe, which aligns with its vision for state-dominated AI?",
+        "back": "China notes that nations, ranging from large democracies to dictatorships, are increasingly clamping down on net freedoms and installing surveillance systems, thereby dissolving the previous global ideal of an open internet and enabling its push for state-centric AI."
+      },
+      {
+        "front": "Identify a key area of potential divergence between Pakistan's National AI Policy and China's AI vision, as highlighted by the article.",
+        "back": "Pakistan's policy emphasizes domestic AI infrastructure, strong cybersecurity, data sovereignty, data privacy, ethical AI, and human rights, which may conflict with China's strategy of exporting its AI tools and creating dependencies."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784597180655-868",
+    "title": "Unmasking stability\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016903/unmasking-stability",
+    "date": "2026-07-20",
+    "author": "none@none.com (Editorial)",
+    "content": "THREE reports last Friday — a widening food trade gap, return to a current account deficit, and the government’s shift to daily fuel pricing amid renewed Gulf tensions — reveal how fragile Pakistan’s external sector remains, despite the recent macroeconomic stabilisation.\nThe headline current account deficit of just $139m in FY26 appears reassuring. But the composition of the external account tells an uncomfortable story: Pakistan avoided a large deficit not because it exported more, but because expats sent home $41.6bn. Without those remittances, the external account would have deteriorated sharply. Exports remained largely stagnant. Goods exports declined, while the modest increase in services exports merely offset part of the loss. Meanwhile, imports stayed elevated, producing a merchandise trade deficit exceeding $35bn.\n    \nThe deterioration in agricultural trade is particularly worrying. Pakistan, an agrarian economy, saw food imports rise nearly 12pc to over $9bn while raw food exports plunged almost 30pc. Rice exports fell sharply. Vegetable exports collapsed by more than half, reflecting the disruption of trade with Afghanistan, once a major regional market. Pakistan was also forced to import unprecedented quantities of sugar after exporting the commodity only months earlier. Edible oil imports continued to rise.\nBesides exposing structural weaknesses in agricultural planning, export diversification and food security, these figures also highlight the costs of inconsistent policy decisions that alternately encourage exports and imports of the same commodity under the influence of powerful business lobbies. Increased tensions in the Gulf are exacerbating matters. Pakistan imports roughly three quarters of its energy needs. Higher oil prices inflate the import bill, worsen inflationary pressures and further strain foreign exchange reserves. The decision to shift to daily fuel pricing is in response to this challenge. More frequent adjustments are expected to improve transparency and better reflect international market movements.\nWhether daily pricing enhances market efficiency or creates uncertainty will depend on regulatory oversight. The government’s simultaneous stress on EVs shows that it is aware that Pakistan cannot indefinitely remain hostage to imported petrol. However, energy transition policies require consistent incentives and investment certainty, not whimsical reversals. The broader lesson is that stabilisation has bought Pakistan time but not resilience. Record remittances cannot compensate for weak exports, rising food import dependence and vulnerability to imported energy shocks. External shocks continue to expose the same weaknesses.\nSustainable external stability requires a growth model driven by export competitiveness, agricultural productivity, indigenous energy sources and policy consistency. Remittance inflows and administrative management of recurring crises can do only so much.\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's External Sector Challenges and Export Performance",
+    "whyMatters": "This article directly addresses Pakistan's chronic Balance-of-Payments issues and the critical role of export performance, providing recent data and specific examples. It offers a strong analytical framework and current evidence to answer exam questions on economic stability and challenges.",
+    "summary": [
+      "The article highlights the fragility of Pakistan's external sector despite recent stabilization efforts, evidenced by a widening food trade gap and a return to a current account deficit.",
+      "Pakistan's avoidance of a larger deficit is primarily due to record remittances, as exports remain largely stagnant while imports stay elevated, leading to a significant merchandise trade deficit.",
+      "The agricultural sector shows alarming deterioration, with rising food imports and plunging raw food exports, exposing structural weaknesses and the costs of inconsistent policy decisions.",
+      "The country's heavy reliance on energy imports and vulnerability to global oil price shocks further strain foreign exchange reserves and exacerbate inflationary pressures."
+    ],
+    "facts": [
+      "Headline current account deficit: $139m in FY26.",
+      "Expats' remittances: $41.6bn.",
+      "Merchandise trade deficit: exceeding $35bn.",
+      "Food imports: rose nearly 12% to over $9bn.",
+      "Raw food exports: plunged almost 30%.",
+      "Pakistan imports roughly three quarters of its energy needs."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (Annual Government Report)",
+      "IMF Stand-by Arrangement (SBA) Reports",
+      "World Bank Pakistan Development Update"
+    ],
+    "vocabulary": [
+      {
+        "word": "macroeconomic stabilisation",
+        "type": "noun",
+        "definition": "The process of restoring an economy to a state of balance, often after periods of high inflation or deficits.",
+        "sentence": "The government implemented fiscal policies aimed at macroeconomic stabilisation to curb inflation."
+      },
+      {
+        "word": "agrarian economy",
+        "type": "noun",
+        "definition": "An economy where agriculture is the primary sector and main source of income.",
+        "sentence": "Despite being an agrarian economy, Pakistan faces challenges in ensuring food security for its population."
+      },
+      {
+        "word": "whimsical reversals",
+        "type": "noun",
+        "definition": "Sudden and arbitrary changes in policy or direction.",
+        "sentence": "Investors are often wary of the government's whimsical reversals in economic policy, which deter long-term investment."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary reason Pakistan avoided a larger current account deficit in FY26, according to the article?",
+        "options": [
+          "Record remittances from expats",
+          "Significant increase in goods exports",
+          "Decrease in overall imports",
+          "Substantial foreign direct investment"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Pakistan avoided a large deficit not because it exported more, but because expats sent home $41.6bn.'"
+      },
+      {
+        "question": "Which of the following agricultural trade trends is described as particularly worrying in the article?",
+        "options": [
+          "A sharp increase in rice exports",
+          "A decline in edible oil imports",
+          "A rise in food imports coupled with a plunge in raw food exports",
+          "Stable vegetable exports despite regional disruptions"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Pakistan, an agrarian economy, saw food imports rise nearly 12pc to over $9bn while raw food exports plunged almost 30pc.'"
+      },
+      {
+        "question": "According to the article, what is a key requirement for achieving sustainable external stability for Pakistan?",
+        "options": [
+          "A growth model driven by export competitiveness and agricultural productivity",
+          "Increased administrative management of recurring crises",
+          "Greater reliance on foreign aid and loans",
+          "Continued high levels of remittances from overseas Pakistanis"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article concludes, 'Sustainable external stability requires a growth model driven by export competitiveness, agricultural productivity, indigenous energy sources and policy consistency.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does Pakistan's external account composition reveal underlying fragilities despite a low headline current account deficit?",
+        "back": "The low deficit is primarily due to record expat remittances ($41.6bn), masking stagnant exports and elevated imports, which would otherwise lead to a sharp deterioration."
+      },
+      {
+        "front": "What specific vulnerabilities does the article highlight regarding Pakistan's agricultural sector and food security?",
+        "back": "A significant rise in food imports (over $9bn) coupled with a sharp decline in raw food exports (30% plunge), exposing structural weaknesses and inconsistent policy decisions."
+      },
+      {
+        "front": "How does Pakistan's energy dependence contribute to the fragility of its external sector and economic stability?",
+        "back": "Importing three-quarters of its energy needs, Pakistan is highly vulnerable to global oil price hikes, which inflate the import bill, worsen inflation, and strain foreign exchange reserves."
+      },
+      {
+        "front": "What long-term strategy does the article propose for Pakistan to achieve sustainable external stability beyond relying on remittances and crisis management?",
+        "back": "A growth model driven by export competitiveness, agricultural productivity, indigenous energy sources, and consistent policy implementation."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784597329001-128",
+    "title": "Zero-dose alert\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016899/zero-dose-alert",
+    "date": "2026-07-20",
+    "author": "none@none.com (Editorial)",
+    "content": "ALTHOUGH Pakistan recently announced its first National Vaccine Policy, it will take time before the immunity gap can be plugged. After clinical and epidemiological data exposed the country’s “catastrophically high volume of zero-dose children” in the WHO’s Eastern Mediterranean Region, with immunisation systems bypassing 651,000 infants, the Pakistan Medical Association has declared a national public health emergency, warning against the large-scale resurgence of preventable childhood mortality. Wild outbreaks now threaten the region as the inoculation interruption has breached the threshold needed to preserve herd immunity. New WHO data says Sudan, Yemen, Afghanistan, Pakistan and Somalia hold 90pc of all unvaccinated children. While Sudan, Yemen and Somalia are war-ravaged, the deep rot in Pakistan’s health infrastructure, and the government’s failure to reach every child, drive its presence on this list.\nThe immunisation crisis carries great economic costs for both families and the fragile healthcare system. A patchy strategy has undermined efficiency, leaving supervision, procurement and distribution to operate in a vacuum. Children go without doses due to poor outreach and information, delivery lapses, weak follow-up, and more critically, no information, or worse, misinformation. The government is responsible for thousands of children not receiving even the first dose of the diphtheria-tetanus-pertussis vaccine. Corruption, a weakened Expanded Programme on Immunisation, the inability to reach rural recesses, and the persistent failure to battle vaccine hesitancy are at the core of this emergency. Routine vaccination needs to be treated as a non-negotiable national concern achieved through GIS-mapped demographics so that no child misses a shot. Admittedly, climate events, population growth and displacement hinder vaccination efforts, particularly for children in crisis-affected zones. While transparency and accountability play a crucial role in preventing duplication and delays, only robust routine systems can reduce the risk.\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs / Social Issues / Governance",
+    "topic": "Pakistan's Immunisation Crisis: Causes, Consequences, and Governance Failures",
+    "whyMatters": "This article highlights critical governance failures and public health challenges in Pakistan, offering data points and policy considerations crucial for essays on social issues, health policy, and administrative reforms. It provides a real-world case study for analyzing systemic weaknesses and potential solutions in national development.",
+    "summary": [
+      "Pakistan faces a national public health emergency due to a 'catastrophically high volume of zero-dose children,' with immunisation systems bypassing 651,000 infants.",
+      "The crisis is primarily driven by a deep rot in health infrastructure, government's failure to reach every child, corruption, a weakened Expanded Programme on Immunisation (EPI), and persistent vaccine hesitancy.",
+      "This immunisation gap threatens a large-scale resurgence of preventable childhood mortality, leading to wild outbreaks and significant economic costs for both families and the fragile healthcare system.",
+      "Addressing the emergency requires treating routine vaccination as a non-negotiable national concern, implemented through robust routine systems, GIS-mapped demographics, transparency, and accountability."
+    ],
+    "facts": [
+      "Pakistan's immunisation systems bypass 651,000 infants, leading to a 'catastrophically high volume of zero-dose children'.",
+      "Pakistan is among five countries (Sudan, Yemen, Afghanistan, Somalia) that hold 90% of all unvaccinated children globally.",
+      "The Pakistan Medical Association has declared a national public health emergency due to the large-scale resurgence of preventable childhood mortality."
+    ],
+    "academicReferences": [
+      "National Vaccine Policy of Pakistan (2026)",
+      "WHO/UNICEF Joint Reporting Form (JRF) on Immunization",
+      "Sustainable Development Goal 3 (SDG 3): Good Health and Well-being"
+    ],
+    "vocabulary": [
+      {
+        "word": "Plugged",
+        "type": "verb",
+        "definition": "To fill or stop up (a gap or hole).",
+        "sentence": "it will take time before the immunity gap can be plugged."
+      },
+      {
+        "word": "Resurgence",
+        "type": "noun",
+        "definition": "An increase or revival after a period of little activity, popularity, or occurrence.",
+        "sentence": "warning against the large-scale resurgence of preventable childhood mortality."
+      },
+      {
+        "word": "Herd immunity",
+        "type": "noun",
+        "definition": "Indirect protection from an infectious disease that happens when immunity is present in a sufficiently high proportion of the population.",
+        "sentence": "the inoculation interruption has breached the threshold needed to preserve herd immunity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT listed as a core reason for Pakistan's immunisation crisis?",
+        "options": [
+          "A) Deep rot in health infrastructure",
+          "B) Persistent failure to battle vaccine hesitancy",
+          "C) Shortage of vaccine supply in urban centers",
+          "D) Corruption and a weakened Expanded Programme on Immunisation (EPI)"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions 'inability to reach rural recesses' and 'poor outreach' but does not specifically identify 'shortage of vaccine supply in urban centers' as a core reason. The other options are explicitly stated as causes."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary indicator of Pakistan's immunisation crisis mentioned in the article?",
+        "back": "The 'catastrophically high volume of zero-dose children,' specifically 651,000 infants bypassed by immunisation systems."
+      },
+      {
+        "front": "Besides war-torn nations, what are the main systemic causes identified for Pakistan's presence on the list of countries with the highest unvaccinated children?",
+        "back": "Deep rot in health infrastructure, the government's failure to reach every child, corruption, a weakened EPI, and persistent failure to battle vaccine hesitancy."
+      },
+      {
+        "front": "What key policy approach does the article suggest for ensuring comprehensive routine vaccination coverage in Pakistan?",
+        "back": "Treating routine vaccination as a 'non-negotiable national concern' achieved through GIS-mapped demographics."
+      },
+      {
+        "front": "How does the article link the immunisation crisis to economic costs?",
+        "back": "It states that the crisis 'carries great economic costs for both families and the fragile healthcare system'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784596855155-492",
+    "title": "Three-front challenge\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016898/three-front-challenge",
+    "date": "2026-07-20",
+    "author": "none@none.com (Maleeha Lodhi)",
+    "content": "PAKISTAN’S ruling elites have long regarded the country’s geographical location as a strategic asset enabling it to project itself as a significant regional player and bolster its geopolitical position. But location cuts both ways. It has also been a liability.\nFew countries have faced the headwinds from their geography as Pakistan. An overbearing and hostile eastern neighbour, contested borders inherited from colonialism, unresolved Kashmir dispute, volatile neighbourhood and a western neighbour roiled by strife and foreign interventions, all combined to create a permanent security dilemma. That dilemma drove the country’s enduring search for stability. Pakistan’s long-standing strategic nightmare was having to confront two ‘hot fronts’ simultaneously. The imperative to avert this shaped its strategic thinking, security policy and strategy.\n    \nThe tyranny of geography always weighed heavily on the country. That has not changed. What has changed is the scale and gravity of the threat. Pakistan now faces a three-front security challenge — from India on its eastern frontier, from cross-border terror attacks emanating from Afghanistan and unrest, terrorism and militant violence at home.\nThe most troubling aspect of the internal security situation is that never before have two of Pakistan’s provinces been so destabilised at the same time. In the past, both saw violence. But it was localised, confined to specific areas, not province-wide. Never before did Azad Jammu and Kashmir erupt with violent public protests as being witnessed today. The use of coercion and strong-arm official actions have only worsened the situation.\nThe arc of Pakistan’s security threats keeps expanding.\nThe spike in militant attacks across KP and Balochistan continues. In the first six months of 2026 there were over 200 terrorist attacks almost entirely by the Tehreek-i-Taliban Pakistan in KP, with 300 people killed. The areas of attacks have expanded, which shows a worrying increase in the outlawed group’s reach. Balochistan saw more than 100 attacks in the same period, mostly by the Balochistan Liberation Army. The militant, separatist group has also demonstrated greater reach and diversified its targets. They range from railway tracks, gas pipelines, state buildings and foreign investment projects to the non-Baloch settler population. Meanwhile, the rising number of TTP attacks in the Pakhtun areas of Balochistan indicates its theatre of operations has expanded much beyond KP — even as far as Karachi as the recent attack on the Rangers headquarters reveals.\nBalochistan has for decades been in crisis and stricken by insurgencies. But the cumulative effect of the failure to address its troubles has left the province completely alienated from the centre. Balochistan’s problem is fundamentally political. People have long felt disenfranchised, with their basic demands ignored. Anger among youth at the province’s exclusion, lack of a legitimate political process and the state’s constant branding of Baloch nationalists and non-violent dissident groups as traitors have all played into the crisis. This has provided fertile ground for outside interference, which has increased in recent years. Instead of pursuing political solutions, the state’s managers have relied mostly on military operations and use of force to deal with the unrest. This has only deepened public disaffection and driven more people into the arms of extremist forces.\n    \nIn KP, governed by the opposition PTI, the security challenge is compounded by the fact that the federal and provincial governments are at loggerheads. They also diverge on how to deal with militancy. The mistrust between the local population and security forces remains a major impediment in the fight against terrorism. The response to militant violence is predicated primarily on kinetic means absent meaningful efforts to win community support. Yet effective counter-insurgency rests heavily on trust.\nAJK is facing unrest and a virtual public revolt, with the region paralysed by violent protests. This political crisis had been brewing for the past several years. Alienation grew with a governance system run from Islamabad, which also failed to address AJK’s economic problems including youth joblessness. Resultantly, a broad-based coalition of civil society and political groups, the Joint Awami Action Committee (JAAC) emerged to press its economic and political demands.\nDespite the authorities’ earlier accommodation of some economic grievances, they later banned the committee and used force to deal with the situation. They failed to see the serious implications of losing Kashmiri hearts and minds for Pakistan’s position on India-occupied Kashmir. Already prominent leaders from occupied Kashmir are voicing concern over the loss of life in AJK. The stand-off continues between protesters and law enforcers with no end in sight to the crisis. The issue of reserved refugee seats lies at the heart of the protests. JAAC demands their abolition as they are manipulated by the powers that be to make and unmake governments. With elections looming, there is no resolution yet.\nThe threats to Pakistan’s security from its two external fronts remain clear and present. In the east, Pakistan faces an Indian government that routinely hurls threats. Having suspended the Indus Waters Treaty last year, it says it will not allow a single drop from ‘India’s rivers’ to enter Pakistan. Other than weaponising water, India is significantly upgrading its military capabilities and has embarked on a major rearmament programme. More alarmingly, India is now putting its nuclear arsenal in deployment mode. It has mated 12 nuclear warheads to missiles and operationally deployed them, according to the Swedish think tank SIPRI. This is a dangerous departure from the posture of recessed deterrence adopted by India and Pakistan, by which they keep warheads and launchers in separate locations. This aims to ensure a long fuse in a crisis. The undeclared shift in India’s nuclear policy will have destabilising consequences for strategic stability, forcing Pakistan to respond to this emerging threat.\nThe western frontier remains exceedingly unstable. Relations with Afghanistan are frozen while the border has been closed and trade suspended since October 2025 when deadly clashes took place between the two neighbours. Hostilities erupt from time to time with Pakistan launching air strikes against militant targets across the border. Islamabad has sought to mount pressure and raise the costs for Kabul for its unwillingness to move against the TTP. But so far, this has not produced the outcome Pakistan wants.\nOver the decades evolving security dilemmas pushed Pakistan to become a security state, prioritising defence over economic development, social services, democracy and other policy concerns. Despite the trade-off, it still struggles to secure itself. From hot borders to insurgencies at home, the arc of Pakistan’s security threats continues to widen.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2025-NEIG",
+      "paper": "Current Affairs",
+      "year": 2025,
+      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences."
+    },
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Evolving Security Landscape and Regional Challenges",
+    "whyMatters": "This article is highly relevant as it directly addresses Pakistan's strategic relations with India and Afghanistan, detailing current security challenges. It provides scholarly evidence and current events (as of 2026) to support arguments on external and internal threats, crucial for a high-scoring answer in the Current Affairs paper.",
+    "summary": [
+      "Pakistan's geographical location, historically a strategic asset, has evolved into a liability, escalating from a traditional \"two hot fronts\" security dilemma to a contemporary \"three-front challenge.\"",
+      "The \"three-front challenge\" now encompasses an assertive India on the eastern border, persistent cross-border terror attacks emanating from Afghanistan, and unprecedented internal unrest, terrorism, and militant violence across Khyber Pakhtunkhwa (KP), Balochistan, and Azad Jammu and Kashmir (AJK).",
+      "Internal challenges are primarily rooted in deep political alienation, governance failures, and the state's reliance on kinetic means rather than political solutions, fostering widespread public disaffection and providing fertile ground for extremist forces.",
+      "External threats are intensifying, marked by India's aggressive posture, military buildup, weaponization of water, and a destabilizing shift to operational deployment of nuclear warheads, alongside frozen relations and ongoing cross-border militant activities from Afghanistan."
+    ],
+    "facts": [
+      "Over 200 terrorist attacks occurred in KP in the first six months of 2026, almost entirely by the Tehreek-i-Taliban Pakistan (TTP), resulting in 300 deaths.",
+      "Balochistan experienced over 100 attacks in the same period, predominantly by the Balochistan Liberation Army (BLA), targeting infrastructure, state buildings, foreign investment projects, and non-Baloch settlers.",
+      "India has operationally deployed 12 nuclear warheads mated to missiles, according to SIPRI, marking a dangerous departure from the posture of recessed deterrence.",
+      "The border between Pakistan and Afghanistan has been closed, and trade suspended since October 2025, following deadly clashes."
+    ],
+    "academicReferences": [
+      "SIPRI Yearbook (e.g., SIPRI Yearbook 2026 for nuclear arms control and disarmament data)",
+      "Andrew Small, \"The China-Pakistan Axis: Asia's New Geopolitics\" (context for CPEC targets in Balochistan)",
+      "Maleeha Lodhi's own published analyses on Pakistan's foreign policy and security challenges"
+    ],
+    "vocabulary": [
+      {
+        "word": "Headwinds",
+        "type": "noun",
+        "definition": "A force or influence that makes progress more difficult.",
+        "sentence": "Few countries have faced the headwinds from their geography as Pakistan."
+      },
+      {
+        "word": "Roiled",
+        "type": "verb",
+        "definition": "Made (a liquid) turbid or muddy; also, disturbed or agitated (someone or something).",
+        "sentence": "A western neighbour roiled by strife and foreign interventions."
+      },
+      {
+        "word": "Imperative",
+        "type": "noun",
+        "definition": "A matter of vital or urgent importance.",
+        "sentence": "The imperative to avert this shaped its strategic thinking."
+      },
+      {
+        "word": "Kinetic means",
+        "type": "noun phrase",
+        "definition": "Relying on or involving motion, specifically referring to the use of military force or combat operations.",
+        "sentence": "The response to militant violence is predicated primarily on kinetic means."
+      },
+      {
+        "word": "Recessed deterrence",
+        "type": "noun phrase",
+        "definition": "A nuclear doctrine where warheads and launchers are kept separate to ensure a longer fuse in a crisis, avoiding immediate escalation.",
+        "sentence": "This is a dangerous departure from the posture of recessed deterrence adopted by India and Pakistan."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what constitutes Pakistan's \"three-front security challenge\"?",
+        "options": [
+          "A) India, China, and Iran.",
+          "B) India, cross-border terror from Afghanistan, and internal unrest.",
+          "C) The US, Russia, and internal economic issues.",
+          "D) Climate change, water scarcity, and demographic pressure."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, \"Pakistan now faces a three-front security challenge — from India on its eastern frontier, from cross-border terror attacks emanating from Afghanistan and unrest, terrorism and militant violence at home.\""
+      },
+      {
+        "question": "Which two regions are described as being destabilized at the same time in an unprecedented manner?",
+        "options": [
+          "A) Sindh and Punjab.",
+          "B) Balochistan and Sindh.",
+          "C) KP and Balochistan.",
+          "D) Punjab and AJK."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, \"never before have two of Pakistan’s provinces been so destabilised at the same time... The spike in militant attacks across KP and Balochistan continues.\""
+      },
+      {
+        "question": "What significant change in India's nuclear policy is highlighted as destabilizing by the article?",
+        "options": [
+          "A) Developing a new generation of nuclear weapons.",
+          "B) Increasing its nuclear arsenal significantly.",
+          "C) Shifting from recessed deterrence to operational deployment of warheads.",
+          "D) Threatening first use of nuclear weapons against Pakistan."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, \"More alarmingly, India is now putting its nuclear arsenal in deployment mode. It has mated 12 nuclear warheads to missiles and operationally deployed them... This is a dangerous departure from the posture of recessed deterrence.\""
+      },
+      {
+        "question": "What is identified as a fundamental problem underlying the crisis in Balochistan?",
+        "options": [
+          "A) Lack of natural resources.",
+          "B) Linguistic differences with the center.",
+          "C) Political alienation and disenfranchisement.",
+          "D) Excessive foreign investment."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, \"Balochistan’s problem is fundamentally political. People have long felt disenfranchised, with their basic demands ignored.\""
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How has Pakistan's geographical location historically shaped its security dilemma, according to the article?",
+        "back": "Historically, Pakistan's location, particularly having an overbearing eastern neighbor (India) and a volatile western neighbor (Afghanistan), created a \"two hot fronts\" security dilemma, driving its enduring search for stability and shaping its strategic thinking."
+      },
+      {
+        "front": "What new dimensions constitute Pakistan's current \"three-front security challenge\"?",
+        "back": "The current challenge includes India on the eastern frontier, cross-border terror attacks from Afghanistan (primarily TTP), and internal unrest, terrorism, and militant violence within Pakistan, notably in KP, Balochistan, and AJK."
+      },
+      {
+        "front": "Detail the specific security challenges Pakistan faces from India as described in the article.",
+        "back": "India poses challenges through routine threats, weaponizing water (suspension of Indus Waters Treaty), significant military rearmament, and, most critically, a dangerous shift in its nuclear policy to operational deployment of warheads mated to missiles, departing from recessed deterrence."
+      },
+      {
+        "front": "How do internal issues in Balochistan and AJK contribute to Pakistan's broader security dilemma?",
+        "back": "Internal issues stem from deep political alienation, lack of legitimate political processes, governance failures (Islamabad-run system in AJK), and reliance on force over political solutions, creating fertile ground for militancy and outside interference, thereby expanding the arc of security threats at home."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784597014895-843",
+    "title": "Flood data gap\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016901/flood-data-gap",
+    "date": "2026-07-20",
+    "author": "none@none.com (Editorial)",
+    "content": "HAVING endured one of its worst floods last year — triggered by intense monsoons and compounded by sudden water releases into the Chenab and Ravi from across the border — Punjab is preparing for ‘high floods’ this year, even though the situation has been normal so far. The decision signifies that flood management is being shaped by caution rather than data and certainty. The caution stems from a critical information gap created by India’s continued withholding of upstream river-flow data following its unilateral and illegal suspension of the Indus Waters Treaty. In such circumstances, where early warning systems are deprived of vital upstream data, preparing for the worst is a prudent course of action. Flood forecasting is essential for saving lives and limiting damage. Accurate and timely information gives the authorities enough time to evacuate vulnerable communities, strengthen embankments, manage reservoirs and protect critical infrastructure. When upstream river-flow data is unavailable, officials have to rely on estimates and alternative sources, making flood forecasts less accurate and reducing the time available to respond. As climate change brings more frequent and intense extreme weather events, such uncertainty only increases the risks for communities living along the country’s rivers. That any country would put tens of thousands of lives at risk in pursuit of political leverage is deeply regrettable.\nThat said, we must also realise our own flood management shortcomings. The devastating floods of recent years have exposed persistent weaknesses in early warning systems, coordination among government agencies, land-use planning and the unchecked encroachment of the floodplains. Despite repeated promises of reform, these gaps remain. It is therefore encouraging to see the provincial authorities adopting a more proactive approach this year by preparing for a worst-case scenario and taking precautionary measures to reduce the risks faced by vulnerable communities. Preparing for the worst is a sensible response to uncertainty. But emergency planning cannot become a substitute for building a stronger, more resilient flood management system. As climate change makes extreme weather more frequent and severe, Pakistan must invest in stronger flood defences and modern forecasting systems to better protect lives and livelihoods. At the same time, it should continue to expose the humanitarian consequences of the Indian government’s decision to withhold vital upstream river-flow data that has created great risks for millions of people living downstream.\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2020-CLIM",
+      "paper": "Pakistan Affairs",
+      "year": 2020,
+      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
+    },
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Pakistan Affairs",
+    "topic": "Climate Change, Water Security, and Regional Cooperation",
+    "whyMatters": "This article is highly relevant as it explicitly connects global climate change to increased intensity of flood events, directly impacting Pakistan's water resources through destructive deluges. It also implicitly highlights challenges to regional cooperation by discussing the critical need for transparent water data sharing, which, if absent at the international level, could further complicate inter-provincial resource management under climate stress.",
+    "summary": [
+      "Punjab is preparing for 'high floods' due to a critical information gap caused by India's withholding of upstream river-flow data, forcing a cautious rather than data-driven approach to flood management.",
+      "India's unilateral and illegal suspension of the Indus Waters Treaty (IWT) has deprived Pakistan's early warning systems of vital upstream data, making flood forecasts less accurate and reducing response time.",
+      "Climate change is increasing the frequency and intensity of extreme weather events, amplifying flood risks for communities along Pakistan's rivers, making timely and accurate flood forecasting even more crucial for saving lives.",
+      "Despite external challenges, Pakistan also faces its own persistent weaknesses in flood management, including early warning systems, inter-agency coordination, land-use planning, and floodplain encroachment, necessitating investment in resilient infrastructure."
+    ],
+    "facts": [
+      "Punjab is preparing for ‘high floods’ this year, having endured one of its worst floods last year, triggered by intense monsoons and sudden water releases from across the border.",
+      "India's continued withholding of upstream river-flow data follows its unilateral and illegal suspension of the Indus Waters Treaty.",
+      "Climate change brings more frequent and intense extreme weather events, increasing risks for communities living along rivers."
+    ],
+    "academicReferences": [
+      "Indus Waters Treaty (1960)",
+      "United Nations Framework Convention on Climate Change (UNFCCC) / Paris Agreement (for global climate context)",
+      "Pakistan's National Climate Change Policy (for national strategies on water and climate)"
+    ],
+    "vocabulary": [
+      {
+        "word": "compounded",
+        "type": "verb",
+        "definition": "make something bad even worse; intensify.",
+        "sentence": "Last year's floods were compounded by sudden water releases into the Chenab and Ravi from across the border."
+      },
+      {
+        "word": "unilateral",
+        "type": "adjective",
+        "definition": "performed by or affecting only one person, group, or country involved in a particular situation, without the agreement of another or the others.",
+        "sentence": "India's unilateral suspension of the Indus Waters Treaty has created a critical information gap for flood forecasting."
+      },
+      {
+        "word": "prudent",
+        "type": "adjective",
+        "definition": "acting with or showing care and thought for the future.",
+        "sentence": "In circumstances where early warning systems are deprived of vital upstream data, preparing for the worst is a prudent course of action."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason cited in the article for Punjab's 'high floods' preparation being shaped by caution rather than data and certainty?",
+        "options": [
+          "A) A sudden increase in monsoon intensity due to climate change.",
+          "B) India's continued withholding of upstream river-flow data.",
+          "C) Lack of adequate financial resources for modern forecasting systems.",
+          "D) Poor coordination among provincial government agencies."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'The caution stems from a critical information gap created by India’s continued withholding of upstream river-flow data following its unilateral and illegal suspension of the Indus Waters Treaty.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article link climate change to flood risk in Pakistan?",
+        "back": "The article states that climate change brings more frequent and intense extreme weather events, which increases flood risks for communities living along Pakistan's rivers."
+      },
+      {
+        "front": "What specific international agreement is mentioned as being suspended, impacting flood management in Pakistan?",
+        "back": "The Indus Waters Treaty (IWT) is mentioned as being unilaterally and illegally suspended by India, leading to the withholding of vital upstream river-flow data."
+      },
+      {
+        "front": "Besides external factors, what domestic shortcomings in flood management does the article highlight for Pakistan?",
+        "back": "The article points out persistent weaknesses in early warning systems, coordination among government agencies, land-use planning, and unchecked encroachment of the floodplains."
+      },
+      {
+        "front": "What comprehensive approach does the article suggest Pakistan adopt for future flood management, beyond emergency planning?",
+        "back": "Pakistan must invest in stronger flood defenses, modern forecasting systems, and build a more resilient flood management system, while also exposing the humanitarian consequences of data withholding."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784596934441-386",
+    "title": "Poverty and inequality\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2016897/poverty-and-inequality",
+    "date": "2026-07-20",
+    "author": "none@none.com (Umair Javed)",
+    "content": "The release of the Household Integrated Economic Survey and Pakistan Social and Living Standards Measurement data presents a clearer picture of poverty and economic distress in Pakistan. This data has appeared after a gap of nearly six years, during which several important events and shocks took place.\nIn 2018-19, the country had to go through a painful macroeconomic adjustment to counteract the yawning current account deficit left behind by the then departing PML-N government. Between 2020 and 2021, the global economy faced massive contraction on account of the Covid-19 pandemic. The expansionary policies designed to mitigate this contraction then led to increased inflation and monetary tightening the world over, which dried up dollar liquidity and raised commodity prices.\nDuring this cycle, the PTI government pursued ill-advised growth via the expansion of domestic consumption, which once again increased imports and reintroduced another balance-of-payments crisis. That crisis, coupled with the global oil price shock, sent Pakistan into its worst inflationary period in decades; it took an extraordinarily painful stabilisation period to tame the cost spiral, though at the cost of growth and any notion of increased prosperity. This precarious stability is threatened once more by regional geopolitical events.\n    \nGiven the frequency of shocks — self-inflicted and external/global in nature — and the painful adjustments needed to fight them off, it is little surprise that poverty rates have gone up in the country. The government’s own poverty estimates narrate an increase of seven per cent between 2018-19 (21.8pc) and 2024-25 (28.9). Rural areas were impacted more, reporting an 8pc increase, compared to 6pc for urban areas.\nWe’re stuck in a doom-loop of low growth, recurrent stabilisation, and half-hearted attempts at poverty alleviation.\nLikely for the first time ever on record, average household inflation-adjusted incomes and consumption actually fell during two successive survey cycles. In real terms, households on average are both earning less and consuming less than six years ago. Stretch that back to 10 years, and the numbers remain flat. In other words, Pakistan has witnessed a lost decade in both incomes and consumption.\n    \nOn its own, this story is distressing enough. For a country of 250 million with a young and large labour force, enhancing shared prosperity should be the central plan of economic policymaking. Instead, we’re stuck in a doom-loop of low growth, recurrent stabilisation, and half-hearted attempts at poverty alleviation.\nBut what makes it worse is that there is a creeping inequality story that is becoming more apparent via data and anecdotes.\nBy now, it is clear that the story of the past decade is of economic slowdown interspersed with outright stagnation. The recently released survey data adds the increase in poverty to this story too. But what about the fact that growth has actually not been zero during this time? The average annual growth rate from the past six years is around 3pc. And yet poverty has gone up during this time.\nAs my colleague Dr Ali Hasanain and several others have noted, these two parallel trends (low but positive average growth and increased poverty) show that the benefits of even anaemic growth are being accrued to a narrower sliver of the population.\nIf the gain from all economic growth was distributed equitably, we would not see a real-term decline in average incomes or consumption and an increase in the poverty rate (using a fixed threshold). Breaking the income and consumption data by quintile predictably shows that the lowest quintiles have seen greater erosion compared to the upper ones. However, it’s the missing top 10pc or so that is likely benefiting from the growth that has taken place.\nIn large-scale consumption and income surveys, it is standard practice to assume that the top 10pc of the distribution is unlikely to be captured by standard sampling frames. These are richer households in smaller elite communities that are both a very small fraction of the overall urban landscape and are less likely to entertain door-to-door survey requests.\nGiven the absence of these households from the data, we don’t know what the impact of the past six years (or the past 10) has been on their incomes and consumption patterns. For those at the very top (the top 1pc to 5pc), there may have been a slowdown in income and consumption growth, but probably not an absolute decline.\nThe basis for this speculative assessment is the classic distinction between asset-owning households and non-asset owning households. Keeping farmland, livestock, and personal residence aside, most Pakistanis are asset poor. They especially do not have access to assets that can be used to generate rents, profits, dividends, or any other form of capital income.\nDuring periods of high inflation (especially coupled with devolution), asset owners may see a temporary erosion in the real value of their assets, but this is often mitigated by the rise in interest rates, which ultimately benefit net savers.\nThink about some of the other steps taken by governments in the recent past. Concessional finance for employers is a direct subsidy to owners of capital. The real estate amnesty scheme/package from 2021 helped spur growth in the construction sector but it had the (likely intended) effect of raising land values of urban residential and commercial real estate, owned by a small sliver of the population. Even shocks are experienced differently — higher energy prices have been offset by high-income households through access to low-tax solar products and now new energy vehicles.\nIn recent months, various forms of conspicuous consumption in big urban centres — expensive real estate, leisure opportunities, coffee shops and restaurants — provide anecdotal evidence of an increasingly bifurcated economy. Combined with the statistical picture shared earlier, prognosis of a k-shaped economy might seem speculative right now, but the signs are all pointing in that direction.\nThe writer teaches politics and sociology at Lums.\nX: @umairjav\nPublished in Dawn, July 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs",
+    "topic": "Poverty, Inequality, and Economic Challenges in Pakistan",
+    "whyMatters": "This article directly addresses major economic challenges faced by Pakistan, such as rising poverty, economic stagnation, and increasing inequality. It provides specific data points and analytical frameworks like the 'doom-loop' and 'k-shaped economy' that are crucial for a high-scoring answer on economic issues and for suggesting informed recommendations.",
+    "summary": [
+      "Pakistan has experienced a significant increase in poverty (7% rise) and widespread economic distress, exacerbated by frequent macroeconomic shocks and policy missteps over the past six years.",
+      "The country is caught in a 'doom-loop' of low growth, recurrent stabilization, and declining real household incomes and consumption, indicating a 'lost decade' for average citizens.",
+      "Despite some positive average growth (around 3%), benefits are not equitably distributed, leading to a 'creeping inequality' where gains accrue to a narrower, wealthier segment, often the uncaptured top 10%.",
+      "Evidence suggests a developing 'k-shaped economy' where asset-owning households (benefiting from policies like concessional finance, real estate amnesties, and interest rate hikes) thrive, while the majority of asset-poor households face economic erosion."
+    ],
+    "facts": [
+      "Pakistan's poverty rate increased by 7% between 2018-19 (21.8%) and 2024-25 (28.9%).",
+      "Rural areas were impacted more, reporting an 8% increase in poverty, compared to 6% for urban areas.",
+      "Average annual economic growth rate from the past six years is around 3%, yet poverty has gone up during this period."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (latest edition)",
+      "IMF/World Bank Country Reports on Pakistan",
+      "UNDP Human Development Report (Pakistan specific data)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Yawning",
+        "type": "adjective",
+        "definition": "Wide open; gaping, often implying a large, difficult-to-bridge gap.",
+        "sentence": "In 2018-19, the country had to go through a painful macroeconomic adjustment to counteract the yawning current account deficit."
+      },
+      {
+        "word": "Mitigate",
+        "type": "verb",
+        "definition": "To make less severe, serious, or painful.",
+        "sentence": "The expansionary policies designed to mitigate this contraction then led to increased inflation."
+      },
+      {
+        "word": "Bifurcated",
+        "type": "adjective",
+        "definition": "Divided into two branches or parts.",
+        "sentence": "Various forms of conspicuous consumption in big urban centres provide anecdotal evidence of an increasingly bifurcated economy."
+      },
+      {
+        "word": "Conspicuous",
+        "type": "adjective",
+        "definition": "Attracting notice or attention, often due to being showy or obvious.",
+        "sentence": "In recent months, various forms of conspicuous consumption in big urban centres provide anecdotal evidence."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was the approximate increase in Pakistan's poverty rate between 2018-19 and 2024-25?",
+        "options": [
+          "5%",
+          "6%",
+          "7%",
+          "8%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that the government’s own poverty estimates narrate an increase of seven per cent between 2018-19 (21.8pc) and 2024-25 (28.9)."
+      },
+      {
+        "question": "The article refers to a 'lost decade' for Pakistan regarding which economic indicators?",
+        "options": [
+          "Exports and Imports",
+          "Public Debt and Foreign Reserves",
+          "Incomes and Consumption",
+          "Inflation and Interest Rates"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Pakistan has witnessed a lost decade in both incomes and consumption.'"
+      },
+      {
+        "question": "What is the primary reason suggested for rising poverty despite positive average economic growth in Pakistan?",
+        "options": [
+          "Lack of foreign investment",
+          "Unequitable distribution of growth benefits",
+          "High population growth",
+          "Excessive government spending"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article notes, 'these two parallel trends (low but positive average growth and increased poverty) show that the benefits of even anaemic growth are being accrued to a narrower sliver of the population.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What does the article identify as the 'doom-loop' that Pakistan is currently stuck in?",
+        "back": "Pakistan is stuck in a 'doom-loop' characterized by low growth, recurrent stabilization efforts, and half-hearted attempts at poverty alleviation, leading to a stagnation in real incomes and consumption."
+      },
+      {
+        "front": "How does the article explain the observed 'creeping inequality' despite positive, albeit low, economic growth?",
+        "back": "Creeping inequality is explained by the fact that the benefits of even anaemic growth are primarily accruing to a narrower, wealthier segment of the population, specifically the asset-owning households and the top 10% not captured in surveys, while average incomes decline."
+      },
+      {
+        "front": "Describe the 'k-shaped economy' prognosis made in the article regarding Pakistan's economic situation.",
+        "back": "The 'k-shaped economy' prognosis suggests that different segments of society experience economic shocks and policies differently: asset owners and the elite benefit or maintain their wealth, while the majority of asset-poor households face declining real incomes and increased poverty, leading to a bifurcated economy."
+      },
+      {
+        "front": "Identify two types of government policies mentioned in the article that primarily benefit asset-owning households.",
+        "back": "Two policies that benefited asset-owning households are concessional finance for employers (a direct subsidy to owners of capital) and the real estate amnesty scheme from 2021, which spurred growth in construction and raised urban land values."
+      }
+    ]
+  },
+  {
     "id": "curated-1784510695716-458",
     "title": "Safety by design\n",
     "source": "Dawn",
@@ -9462,621 +10101,6 @@
       {
         "front": "What key policy recommendations does the article propose for the IT ministry to address the digital gender gap?",
         "back": "The IT ministry should consider handset-financing schemes targeted at women, digital literacy programs designed for women's constraints, and efforts to change attitudes around gatekeeping women's internet access."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783128666678-225",
-    "title": "Unfinished business\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012614/unfinished-business",
-    "date": "2026-07-03",
-    "author": "none@none.com (Editorial)",
-    "content": "THE landmark 18th Amendment and seventh NFC Award radically reshaped Pakistan’s fiscal federalism by transferring greater powers and financial resources to the provinces so that authority would eventually flow closer to citizens through local governments.\nSixteen years later, a new World Bank report, Strengthening Fiscal Federalism in Pakistan, has concluded that while the constitutional framework remains sound, its implementation has been patchy and ineffective. The federal government continues to run deficits because transfers to the provinces increased without a corresponding reduction in federal expenditure, or increase in the tax-to-GDP ratio. Islamabad still spends in devolved sectors, creating duplication and weakening fiscal discipline.\n    \nThe provinces themselves have failed to expand their own tax bases. And despite receiving larger fiscal transfers, they have devoted much of the additional resources to salaries and an expanding bureaucracy rather than meaningfully improving public services. More than four-fifths of provincial expenditure remains tied to recurrent spending, leaving limited room for development. LGs have also steadily weakened. The report notes that fiscal allocations continue to reflect historical patterns instead of current poverty levels and service delivery needs.\nWhile these findings underline weaknesses in our fiscal architecture, they should not be taken as evidence that devolution itself has failed. The report shows that provincial governments often spend inefficiently. It does not establish that the centre would have delivered better outcomes had these functions remained centralised. The report suggests devolution remains incomplete, with federal overlap in devolved sectors, inadequate institutional restructuring, weak intergovernmental coordination and blurred accountability undermining its effectiveness.\n    \nBut it gives limited attention to how provincial performance has evolved over the years. A more detailed review could have revealed whether changes in provincial leadership or policy affected service delivery. Such analysis would have strengthened its conclusions. Provincial governments have emerged as the principal centres of civilian political authority, and their incentives are often driven by political survival rather than service delivery.\nThey have expanded administrative structures and recurrent expenditure while keeping LGs financially and politically weak. These are failures of governance rather than of devolution. The response, therefore, should not be to dilute provincial autonomy but to complete the unfinished process of devolution.\nThe World Bank rightly advises boosting provincial revenue mobilisation, rationalising federal expenditure, reforming the NFC formula, ensuring regular awards, empowering LGs through predictable fiscal transfers, and improving coordination across all tiers of government. Ultimately, stronger LGs and clearer accountability are essential if fiscal federalism is to deliver better public services.\nPublished in Dawn, July 3rd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2024-INTEG",
-      "paper": "Pakistan Affairs",
-      "year": 2024,
-      "question": "Since Independence, the most critical concern for Internal security is National Integration. Discuss the role of constitutional provisions enabling provincial autonomy and devolution of Power to strengthen National integration in Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs",
-    "topic": "Fiscal Federalism, Devolution, and National Integration in Pakistan",
-    "whyMatters": "This article is crucial for understanding the practical implementation and challenges of provincial autonomy and devolution in Pakistan, directly addressing the mechanisms vital for national integration. It provides an evidence-based critique and policy recommendations, essential for a nuanced answer on how these constitutional provisions strengthen or hinder national cohesion.",
-    "summary": [
-      "The 18th Amendment and seventh NFC Award fundamentally reshaped Pakistan's fiscal federalism, aiming to transfer greater powers and financial resources to provinces and subsequently to local governments.",
-      "Sixteen years later, a World Bank report concludes that while the constitutional framework for devolution is sound, its implementation has been patchy and ineffective due to federal overlaps, continued federal deficits, and inadequate institutional restructuring.",
-      "Provinces have failed to expand their tax bases, instead dedicating increased fiscal transfers primarily to salaries and an expanding bureaucracy rather than improving public services, while actively weakening local governments (LGs).",
-      "The article argues these issues represent failures of governance and incomplete devolution, not a failure of devolution itself, advocating for strengthening LGs, boosting provincial revenue, rationalizing federal expenditure, and reforming the NFC formula to complete the process."
-    ],
-    "facts": [
-      "The 18th Amendment and seventh NFC Award are landmark constitutional and fiscal provisions.",
-      "A World Bank report, 'Strengthening Fiscal Federalism in Pakistan', published 16 years after the 18th Amendment, highlights implementation issues.",
-      "More than four-fifths of provincial expenditure remains tied to recurrent spending, indicating limited room for development."
-    ],
-    "academicReferences": [
-      "18th Amendment to the Constitution of Pakistan (2010)",
-      "Seventh National Finance Commission (NFC) Award",
-      "World Bank Report: 'Strengthening Fiscal Federalism in Pakistan'"
-    ],
-    "vocabulary": [
-      {
-        "word": "Fiscal federalism",
-        "type": "noun",
-        "definition": "The division of financial powers and responsibilities among different levels of government (federal, provincial, local).",
-        "sentence": "The 18th Amendment significantly altered Pakistan's fiscal federalism by empowering provinces with more financial resources."
-      },
-      {
-        "word": "Devolved sectors",
-        "type": "noun",
-        "definition": "Areas of governance or public services that have been transferred from the central government's control to provincial or local authorities.",
-        "sentence": "Despite devolution, the federal government continues to spend in devolved sectors, creating duplication."
-      },
-      {
-        "word": "Recurrent spending",
-        "type": "noun",
-        "definition": "Ongoing, routine expenditures, such as salaries, utilities, and administrative costs, as opposed to development or capital spending.",
-        "sentence": "More than four-fifths of provincial expenditure remains tied to recurrent spending, limiting funds for new development projects."
-      },
-      {
-        "word": "Dilute provincial autonomy",
-        "type": "verb phrase",
-        "definition": "To weaken or reduce the self-governance and independent decision-making powers of provinces.",
-        "sentence": "The article suggests that the response to governance failures should not be to dilute provincial autonomy but to complete devolution."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary conclusion of the World Bank report regarding Pakistan's fiscal federalism?",
-        "options": [
-          "The constitutional framework is sound, but its implementation has been patchy and ineffective.",
-          "The 18th Amendment completely failed to achieve its objectives.",
-          "Provinces have successfully expanded their tax bases and improved public services.",
-          "The federal government has fully withdrawn from all devolved sectors."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states: 'a new World Bank report, Strengthening Fiscal Federalism in Pakistan, has concluded that while the constitutional framework remains sound, its implementation has been patchy and ineffective.'"
-      },
-      {
-        "question": "According to the article, which of the following is NOT identified as a failure of provincial governments?",
-        "options": [
-          "Failure to expand their own tax bases.",
-          "Devoting additional resources to salaries and expanding bureaucracy.",
-          "Meaningfully improving public services through development spending.",
-          "Keeping local governments financially and politically weak."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states provinces 'failed to expand their own tax bases' and devoted resources to 'salaries and an expanding bureaucracy rather than meaningfully improving public services.' It also notes provinces 'keeping LGs financially and politically weak.' Therefore, meaningfully improving public services is what they failed to do, not something they are accused of doing successfully."
-      },
-      {
-        "question": "The article suggests that the patchiness of devolution is primarily due to what?",
-        "options": [
-          "A fundamentally flawed constitutional framework.",
-          "Failures of governance and incomplete implementation.",
-          "Lack of financial resources transferred to provinces.",
-          "Excessive autonomy granted to provincial governments."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article clearly states: 'While these findings underline weaknesses in our fiscal architecture, they should not be taken as evidence that devolution itself has failed... These are failures of governance rather than of devolution.'"
-      },
-      {
-        "question": "What is one of the key recommendations made by the World Bank, as mentioned in the article, to complete the unfinished process of devolution?",
-        "options": [
-          "To centralize all financial resources back to the federal government.",
-          "To significantly reduce provincial autonomy across all sectors.",
-          "To empower Local Governments (LGs) through predictable fiscal transfers.",
-          "To halt all intergovernmental coordination efforts."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'The World Bank rightly advises... empowering LGs through predictable fiscal transfers...'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How did the 18th Amendment and the seventh NFC Award aim to strengthen governance and, by extension, national integration in Pakistan?",
-        "back": "They aimed to strengthen governance by radically reshaping fiscal federalism, transferring greater powers and financial resources to provinces, and thereby bringing authority closer to citizens through local governments, which can address local grievances and foster a sense of belonging."
-      },
-      {
-        "front": "What are the key failures in the implementation of devolution identified by the World Bank report and the article, which could impede national integration?",
-        "back": "Key failures include: federal government running deficits and overlapping in devolved sectors, provinces failing to expand tax bases, provinces prioritizing salaries over public services, and the weakening of local governments, all of which can lead to continued regional disparities and grievances."
-      },
-      {
-        "front": "Why does the article argue that the issues with devolution are 'failures of governance rather than of devolution' itself?",
-        "back": "The article asserts that the constitutional framework remains sound. The problems stem from inefficient provincial spending, expansion of bureaucracy for political survival, and active weakening of LGs, alongside incomplete institutional restructuring and weak coordination, rather than a flaw in the principle of devolution."
-      },
-      {
-        "front": "What concrete steps are recommended to complete the unfinished process of devolution and make it more effective in serving citizens?",
-        "back": "Recommendations include: boosting provincial revenue mobilization, rationalizing federal expenditure, reforming the NFC formula, ensuring regular awards, empowering LGs through predictable fiscal transfers, and improving coordination across all tiers of government."
-      },
-      {
-        "front": "How does the emphasis on stronger Local Governments (LGs) and clearer accountability relate to the overall goal of effective fiscal federalism and national integration?",
-        "back": "Stronger LGs and clearer accountability are essential for fiscal federalism to deliver better public services. By ensuring services meet local needs and grievances are addressed closer to citizens, it fosters trust in governance, reduces regional dissatisfaction, and strengthens national integration."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783128829114-697",
-    "title": "The hard state\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012618/the-hard-state",
-    "date": "2026-07-03",
-    "author": "none@none.com (Tariq Khosa)",
-    "content": "THE Punjab government has recently drafted a bill “to provide for control of habitual offenders and anti-social behaviour that affect the writ of state, cause public nuisance and expose society to criminal activities” in the province. The proposed law will replace The Restriction of Habitual Offe­nders (Punjab) Act, 1918, and the Punjab Control of Goondas Ordinance, 1959; one a pre-independence colonial preventative law to restrict activities of habitual offenders, and the latter a post-independence drive by a military governor to restrain ruffians in 1959. Both laws have outlived their utility and effectiveness, and the Punjab government has come up with an alternative for deterrence against deviant and anti-social behaviour. This approach reflects the mindset of a ‘hard state’, ie, terrorising people into submission. Such laws help unpopular governments curb dissent through draconian legislation.\nSection 6 of the proposed law contains some very controversial definitions of so-called anti-social behaviour: causing “fear or alarm to the public by threats, verbally or in writing or through social media, or by making, publishing or circulating false statements, rumours or reports”. Another provision of deviant behaviour refers to the dissemination “through electronic means or through print or social media platforms, anything which he knows to be untrue and based on misinformation or disinformation”. And publishing “on social media platform, provocative content with obscene objects including display of weapons or arms or knives”. All these objectionable activities are contained as offences in either the Pakistan Penal Code or special laws like Peca and the Anti-Terrorism Act. Is an attempt being made to create a parallel administrative punitive system to avoid judicial due process that involves registering cases, collection of evidence through investigations, prosecution and trial of such cases before the courts of law? Administrative tribunals comprising retired judges and civil servants are being established through an unconstitutional executive criminal justice mechanism.\nThe Punjab government’s proposed law against ‘anti-social’ behaviour carries controversial clauses.\nSection 9 declares anyone as a habitual offender “against whom a criminal case has been registered and report under Section 173 of the Code [of Criminal Procedure] has been submitted”. This amounts to double jeopardy. Anyone against whom an SHO has submitted a challan in a court can also be condemned as a habitual offender and parallel administrative penalties may be imposed. In a culture of lies, deceit, vendetta and corruption, a person implicated in a false case, pushed through a servile police hierarchy, can find himself dubbed a criminal, subject to harsh penalties. In addition, a person arrested more than once in theft, robbery, narcotics or terrorism offences can also be declared a habitual offender, notwithstanding the culture of subjecting an individual to multiple arrests in cooked-up cases. Over and above, any other person “who, on the basis of credible evidence and after due inquiry, is found to be repeatedly or habitually involved in anti-social behaviour or organised criminal activities affecting public order, public safety or writ of the state”, can be declared a habitual offender. This amounts to curbing of dissent and protests against the state machinery.\n    \nIn order to control anti-social behaviour, the following executive orders can be issued by the intelligence committee: a) furnishing a surety bond for a period up to six months; b) placing the name of the offender on the Provisional National Identification List; c) impounding his passport; d) blocking his passport or CNIC or both; e) removing the offender’s account from cyberspace, confiscating any gadgets like cellular phones and laptops; f) cancelling arms licences or getting to forfeit arms and ammunition; g) seizing movable property or attaching immovable property; h) freezing bank accounts; i) keeping the offender under surveillance through modern technology; and j) monitoring the offender through a device like an electronic ankle bracelet. An offender “who tampers with or destroys the electronic monitoring device” can be imprisoned for up to three years, but not less than a year. A fine of Rs1 million can be imposed for causing damage to the surveillance equipment. These harsh penalties can only be invoked after a proper trial of someone implicated in a serious offence and convicted accordingly by a court of law. To give the powers of the judiciary to district administrators, police officers and intelligence agencies is a travesty of justice. Such practice has all the traits of an autocratic surveillance state.\nThe institutional mechanism for the control of habitual offenders is proposed to vest in intelligence committees at the provincial, divisional and district levels. They will be convened by commissioners and deputy commissioners at the divisional and district levels respectively. Regional and district police officers, including head of special branch and CTD will be members. However, representatives of the intelligence agencies of the federal government have been given a formal role.\nSection 5 stipulates the intelligence committees “shall take all measures necessary to … ensure safety of the public by checking all those persons who challenge the writ of the state”. They are required to “prevent an act or a person or a group of persons from doing anything which is anti-social behaviour”. Monitoring and reporting misuse of social media is also part of their functions. They are to “keep an eye on public regarding various sensitive issues and events”. This amounts to legitimising their intrusive role and will cause a breach of fundamental rights of privacy and freedom of the citizens.\nSuch innovations do not have a place in the civilised world. Intelligence agencies are required to monitor and report sensitive matters to executive officers to aid their decision-making in public interest. Their role or signatures are never revea­led in documents. The responsibility squarely lies upon the executive officers who take the decisi­o­­ns in their discretion after considering all the facts and material. However, the constitution of joint interrogation teams and such committees does not only carry the risk of bringing secret age­ncies into the open but also gives them a direct role in administrative decision-making. Unfortu­nately, civil officers often use them as crutches to shift responsibility to avoid being blamed. Such collusive arrangements compromise accountability. What is the cost of this folly? The social contract between the state and the people of Pakistan will weaken further.\nThe writer is a former police officer.\nPublished in Dawn, July 3rd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2017-JUD",
-      "paper": "Pakistan Affairs",
-      "year": 2017,
-      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Pakistan Affairs",
-    "topic": "Rule of Law, Judicial Oversight, and Challenges to Constitutionalism in Pakistan",
-    "whyMatters": "This article critically analyzes a legislative attempt to circumvent judicial due process and expand executive powers, offering a contemporary case study for discussing challenges to the judiciary's role in upholding fundamental rights and the constitutional framework. It provides concrete examples of potential abuses of power and erosion of the rule of law, directly relevant to understanding the judiciary's protective function.",
-    "summary": [
-      "The Punjab government's proposed bill aims to control 'habitual offenders' and 'anti-social behavior,' replacing colonial-era laws with an approach that reflects a 'hard state' mindset.",
-      "The proposed law contains controversial definitions of 'anti-social behavior' and 'habitual offenders,' allowing administrative penalties based on mere registration of a case, raising concerns of double jeopardy and potential abuse.",
-      "It seeks to establish a parallel administrative punitive system through 'intelligence committees,' comprising executive and intelligence officials, effectively bypassing judicial due process and constitutional safeguards.",
-      "The law grants these committees extensive powers to impose harsh executive orders (e.g., impounding passports, freezing bank accounts, electronic surveillance) without proper judicial trial, which the author describes as a 'travesty of justice' and an 'autocratic surveillance state'.",
-      "This expansion of intelligence agencies' formal role in administrative decision-making is criticized for undermining accountability, weakening the social contract, and breaching fundamental rights like privacy and freedom of expression."
-    ],
-    "facts": [
-      "The proposed law replaces The Restriction of Habitual Offenders (Punjab) Act, 1918, and the Punjab Control of Goondas Ordinance, 1959.",
-      "Section 6 defines controversial 'anti-social behavior' including spreading 'misinformation or disinformation' and publishing 'provocative content' on social media.",
-      "Section 9 declares anyone a 'habitual offender' against whom a report under Section 173 of the Code of Criminal Procedure has been submitted.",
-      "Penalties for tampering with electronic monitoring devices include imprisonment for up to three years (not less than one year) and a fine of Rs 1 million.",
-      "Intelligence committees are proposed at provincial, divisional, and district levels, convened by commissioners/deputy commissioners, and include police, special branch, CTD, and federal intelligence agency representatives."
-    ],
-    "academicReferences": [
-      "Constitution of Pakistan (1973): Articles 9 (Security of Person), 10A (Right to Fair Trial), 14 (Dignity of Man), 19 (Freedom of Speech), 25 (Equality of Citizens), 199 (Jurisdiction of High Court for Judicial Review).",
-      "Principle of Separation of Powers: Montesquieu's doctrine, emphasizing distinct governmental branches to prevent tyranny.",
-      "Doctrine of Due Process of Law: A fundamental legal principle ensuring fairness and justice in all legal proceedings and protection of individual rights.",
-      "Universal Declaration of Human Rights (UDHR): Particularly Articles 10 (Right to a Fair Trial) and 12 (Right to Privacy), which address fundamental human rights challenged by such laws.",
-      "Legal Maxim: 'Nemo debet bis vexari pro una et eadem causa' (No one should be vexed twice for one and the same cause), relevant to the 'double jeopardy' argument."
-    ],
-    "vocabulary": [
-      {
-        "word": "draconian",
-        "type": "adjective",
-        "definition": "extremely harsh and severe.",
-        "sentence": "The new legislation was criticized for its draconian measures against dissent and anti-social behavior."
-      },
-      {
-        "word": "travesty",
-        "type": "noun",
-        "definition": "a false, absurd, or distorted representation of something.",
-        "sentence": "To give the powers of the judiciary to district administrators is a travesty of justice."
-      },
-      {
-        "word": "collusive",
-        "type": "adjective",
-        "definition": "involving secret cooperation or conspiracy, especially in order to cheat or deceive others.",
-        "sentence": "Such collusive arrangements between civil officers and intelligence agencies compromise accountability."
-      },
-      {
-        "word": "writ",
-        "type": "noun",
-        "definition": "the formal authority or power of the state; a legal order.",
-        "sentence": "The proposed law aims to provide for control of behavior that affects the writ of state."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT a power proposed to be granted to the intelligence committees under the new law for controlling habitual offenders?",
-        "options": [
-          "A) Impounding passports",
-          "B) Freezing bank accounts",
-          "C) Issuing warrants for arrest",
-          "D) Monitoring offenders through electronic ankle bracelets"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article lists powers like impounding passports, freezing bank accounts, and electronic monitoring. However, issuing warrants for arrest is typically a judicial or magisterial function, not an administrative one proposed for these committees, highlighting the shift away from judicial due process."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary concern raised by the author regarding the proposed Punjab law concerning 'anti-social behavior' and 'habitual offenders'?",
-        "back": "The primary concern is the creation of a parallel administrative punitive system that bypasses judicial due process and fundamental rights, granting extensive powers to executive and intelligence agencies."
-      },
-      {
-        "front": "How does the proposed law potentially lead to 'double jeopardy' according to the article?",
-        "back": "It declares a person a 'habitual offender' and imposes administrative penalties simply based on the submission of a police challan (report under Section 173 CrPC), even before a judicial trial and conviction."
-      },
-      {
-        "front": "What controversial role are 'intelligence committees' assigned in the proposed legislation?",
-        "back": "They are assigned a formal role in administrative decision-making, including monitoring citizens, issuing executive orders, and ensuring 'safety of the public by checking all those persons who challenge the writ of the state,' which traditionally falls under judicial and executive oversight."
-      },
-      {
-        "front": "According to the author, what is the impact of formally involving intelligence agencies in administrative decision-making?",
-        "back": "It compromises accountability, risks bringing secret agencies into the open, allows civil officers to shift responsibility, and weakens the social contract between the state and its people, while breaching fundamental rights."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783129300258-618",
-    "title": "Terrorism numbers\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012887/terrorism-numbers",
-    "date": "2026-07-03",
-    "author": "none@none.com (Editorial)",
-    "content": "AS Pakistan continues to grapple with the menace of militancy, the number of terrorist attacks present a mixed picture. According to the Islamabad-based Pakistan Institute for Conflict and Security Studies, the number of terrorist attacks in the country dipped by 16pc in June as compared to May. Casualties amongst the security forces and civilians also dropped. While this may highlight a positive trend, indicating that counterterrorism efforts are producing results, the data shows, at the same time, that high-profile attacks, including suicide bombings, continue to pose a challenge. The latest such attack occurred last week targeting a Rangers’ facility in Karachi. Balochistan has witnessed a 31pc reduction in attacks, but while attacks in KP’s tribal districts are also down, the rest of the province saw a “slight increase” in terrorist activity.\nThe figures compiled by the organisation for the first half of 2026 show that there were over 2,100 fatalities in this period. Though the vast majority of deaths were those of the terrorists, over 700 security personnel and civilians were martyred between January and June. These are not small numbers. The list of the injured is also considerable. Therefore, the authorities need to keep a vigilant eye on terrorist groups, and keep adapting CT strategies to further uproot militant networks, with minimum loss of innocent lives. The number of attacks may be down, but the state must prevent high-profile suicide attacks through effective intelligence-based operations. The latest incident in Karachi indicates that terrorist groups could be moving from the peripheries to urban centres to carry out attacks. The state should act accordingly and thwart their violent plans. While terrorist safe havens in Afghanistan continue to pose a threat, the administration must do all possible to ensure that no spaces are available within Pakistan’s borders for militants to plan acts of terrorism. With concerted, multipronged efforts, the monster of terrorism can be defeated.\nPublished in Dawn, July 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Internal Security / Pakistan Affairs / Current Affairs",
-    "topic": "Counter-Terrorism Strategies and Challenges in Pakistan",
-    "whyMatters": "This article provides current, data-backed insights into Pakistan's internal security landscape, crucial for understanding the evolving nature of militancy and the state's response. Aspirants can leverage these statistics and policy recommendations to formulate comprehensive answers on governance, national security, and socio-economic stability.",
-    "summary": [
-      "Pakistan experienced a 16% dip in overall terrorist attacks in June 2026 compared to May, with a corresponding reduction in security forces and civilian casualties, suggesting partial success in counter-terrorism efforts.",
-      "Despite the overall decline, high-profile attacks, particularly suicide bombings, continue to be a persistent threat, exemplified by a recent incident targeting a Rangers' facility in Karachi.",
-      "Regional trends indicate a 31% reduction in attacks in Balochistan and a decrease in Khyber Pakhtunkhwa's (KP) tribal districts, although other parts of KP observed a slight increase in militant activity.",
-      "The first half of 2026 recorded over 2,100 fatalities, including more than 700 security personnel and civilians, highlighting the significant human cost and the imperative for constant vigilance and adaptive counter-terrorism strategies."
-    ],
-    "facts": [
-      "Terrorist attacks in Pakistan decreased by 16% in June 2026 compared to May.",
-      "Balochistan witnessed a 31% reduction in terrorist attacks.",
-      "Over 700 security personnel and civilians were martyred in Pakistan during the first half of 2026 out of over 2,100 total fatalities."
-    ],
-    "academicReferences": [
-      "National Internal Security Policy (NISP) 2014-2018 (Pakistan's comprehensive framework for addressing internal security threats)",
-      "United Nations Security Council (UNSC) Resolutions on Counter-Terrorism (e.g., UNSC Resolution 1373, 2178) (Global legal framework for states' obligations)",
-      "Hassan Abbas's 'The Taliban Revival: Violence and Extremism in Pakistan and Beyond' (Academic analysis of militancy's roots and resurgence)"
-    ],
-    "vocabulary": [
-      {
-        "word": "menace",
-        "type": "noun",
-        "definition": "a person or thing that is likely to cause harm; a threat or danger.",
-        "sentence": "AS Pakistan continues to grapple with the menace of militancy..."
-      },
-      {
-        "word": "grapple",
-        "type": "verb",
-        "definition": "to struggle with or deal with something difficult.",
-        "sentence": "AS Pakistan continues to grapple with the menace of militancy..."
-      },
-      {
-        "word": "uproot",
-        "type": "verb",
-        "definition": "to pull (something, especially a tree or a plant) out of the ground; to remove (an evil or corrupt practice) completely.",
-        "sentence": "keep adapting CT strategies to further uproot militant networks..."
-      },
-      {
-        "word": "peripheries",
-        "type": "noun",
-        "definition": "the outer limits or edge of an area or object; the less important part of a subject or group.",
-        "sentence": "terrorist groups could be moving from the peripheries to urban centres to carry out attacks."
-      },
-      {
-        "word": "thwart",
-        "type": "verb",
-        "definition": "to prevent (someone) from accomplishing something.",
-        "sentence": "The state should act accordingly and thwart their violent plans."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the Pakistan Institute for Conflict and Security Studies, what was the percentage reduction in terrorist attacks in Balochistan?",
-        "options": [
-          "16%",
-          "31%",
-          "700%",
-          "2,100%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that 'Balochistan has witnessed a 31pc reduction in attacks'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What mixed trend in terrorism numbers does the article highlight for Pakistan in June 2026?",
-        "back": "While overall terrorist attacks and casualties dipped by 16%, high-profile attacks, including suicide bombings, continue to pose a significant challenge."
-      },
-      {
-        "front": "What critical shift in terrorist strategy is indicated by the latest incident in Karachi, and what action does the article recommend?",
-        "back": "The incident suggests a potential shift of terrorist groups from peripheries to urban centers. The article recommends the state act accordingly to thwart their violent plans."
-      },
-      {
-        "front": "What two significant challenges does the article mention regarding the ongoing fight against terrorism in Pakistan?",
-        "back": "The challenges include persistent high-profile suicide attacks and the threat posed by terrorist safe havens in Afghanistan."
-      },
-      {
-        "front": "What long-term strategy does the article suggest for defeating terrorism in Pakistan?",
-        "back": "The article suggests sustained vigilance, adapting CT strategies, effective intelligence-based operations to prevent high-profile attacks, ensuring no internal safe havens for militants, and concerted, multipronged efforts."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783216223479-483",
-    "title": "Abuse cycle\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012613/abuse-cycle",
-    "date": "2026-07-03",
-    "author": "none@none.com (Editorial)",
-    "content": "LULLED into a sense of false security by its own denial and apathy, Pakistan is a long way from achieving tangible solutions to the curse of child abuse. The state’s refusal to address the presence of this scourge, and the lifelong traumas associated with it, is a ticking time bomb for young generations. The 2025 Cruel Numbers report from Sahil scanned the grim circumstances our young are forced to navigate. Its numbers spelled out the systemic insensitivity towards their safety:at least 2,003 child sexual abuse cases were registered in the country. Punjab topped the list with 1,549, 330 in Sindh, 91 in KP, and a total of 33 in other areas. Meanwhile, over 4,200 children experienced sexual violence in 2024. Most incidents go unreported. As disturbing number of cases frequently appear in the media, a tragedy unfolds before us. Even so, child safety, despite censure from rulers and activists, helplines and laws to protect children from all violence, remains in shambles. Crimes against children are endemic because reforms in the criminal justice system are overdue and the conviction rate is pitiful.\nWhile violence is a reality for a billion of the world’s innocent who endure physical, emotional or sexual abuse annually, Pakistan is a paradox where there is a surfeit of laws to shield children. The NCCIA Punjab has now announced a dedicated cell to provide prompt registration, investigation and prosecution of cases involving women and children. But past promises have failed to bring about a reassessment of priorities. Horrific events — from the 2015 pornography scandal involving hundreds of boys and girls in Kasur to the rape and murder of little Zainab Ansari in 2018 and similarly despicable incidents — led to the Kasur Hamara Hai movement and a spate of alerts and legislations, including the Criminal Law Amendment in 2016 and the Anti-Rape Act. Yet a child’s innocence is still a disposable commodity. Laws and pledges may be momentary but the toll of abuse, shame and disregard is not. It imperils the stability and productivity of our youth. Exploitation also devastates mental and physical health, and jeopardises children’s academic future. Corrective actions entail protection and psychosocial support for victims and their families with awareness and education. Lastly, a callous police force and society silence survivors. The state must know this damage consumes generations.\nPublished in Dawn, July 3rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / Current Affairs / Essay (Social Issues)",
-    "topic": "Child Protection, Abuse Cycle, and Criminal Justice System Reforms in Pakistan",
-    "whyMatters": "This article critically analyzes a pervasive social issue in Pakistan, child abuse, linking it to state apathy, systemic failures, and the need for criminal justice reform. Aspirants can use its facts and arguments to articulate nuanced answers on social problems, governance, human rights, and policy challenges in their examinations.",
-    "summary": [
-      "Pakistan is deeply entrenched in a child abuse crisis, largely due to the state's denial, apathy, and systemic insensitivity, evidenced by alarming statistics from reports like Sahil's 2025 Cruel Numbers.",
-      "Despite a 'surfeit of laws' and public outrage following horrific incidents (e.g., Kasur, Zainab), child safety remains inadequate because of overdue criminal justice reforms and a pitiful conviction rate.",
-      "The article highlights the profound and long-lasting consequences of child exploitation, which imperils the stability, productivity, mental/physical health, and academic futures of generations.",
-      "Effective corrective actions demand not only legislative improvements but also robust protection and psychosocial support for victims, extensive public awareness and education, and a transformation of the police force and society to overcome the culture of silence."
-    ],
-    "facts": [
-      "At least 2,003 child sexual abuse cases were registered in the country in 2025, according to Sahil's 'Cruel Numbers' report, with Punjab topping the list at 1,549 cases.",
-      "Over 4,200 children experienced sexual violence in 2024, with most incidents going unreported, indicating a much higher prevalence.",
-      "Significant legislations like the Criminal Law Amendment in 2016 and the Anti-Rape Act were introduced following high-profile cases, yet child safety remains 'in shambles' due to implementation failures."
-    ],
-    "academicReferences": [
-      "Sahil's '2025 Cruel Numbers report' on child sexual abuse in Pakistan",
-      "UN Convention on the Rights of the Child (UNCRC) (Article 19: Protection from all forms of violence)",
-      "Criminal Law (Second Amendment) Act, 2016 and Anti-Rape (Investigation and Trial) Act, 2021"
-    ],
-    "vocabulary": [
-      {
-        "word": "Scourge",
-        "type": "noun",
-        "definition": "A person or thing that causes great trouble or suffering.",
-        "sentence": "The state’s refusal to address the presence of this scourge, and the lifelong traumas associated with it, is a ticking time bomb."
-      },
-      {
-        "word": "Endemic",
-        "type": "adjective",
-        "definition": "(Of a disease or condition) regularly found among particular people or in a certain area.",
-        "sentence": "Crimes against children are endemic because reforms in the criminal justice system are overdue and the conviction rate is pitiful."
-      },
-      {
-        "word": "Surfeit",
-        "type": "noun",
-        "definition": "An excessive amount of something.",
-        "sentence": "Pakistan is a paradox where there is a surfeit of laws to shield children."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the 2025 Cruel Numbers report mentioned in the article, which province registered the highest number of child sexual abuse cases in Pakistan?",
-        "options": [
-          "A) Sindh",
-          "B) Khyber Pakhtunkhwa (KP)",
-          "C) Punjab",
-          "D) Balochistan"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'Punjab topped the list with 1,549' cases out of the 2,003 registered cases."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core issue identified as contributing to the ongoing child abuse crisis in Pakistan, despite existing laws?",
-        "back": "State denial, apathy, systemic insensitivity, overdue criminal justice system reforms, and a pitiful conviction rate."
-      },
-      {
-        "front": "Name two specific legislative measures mentioned in the article that were enacted to protect children in Pakistan.",
-        "back": "The Criminal Law Amendment in 2016 and the Anti-Rape Act."
-      },
-      {
-        "front": "What are the significant long-term impacts of child exploitation on victims and society, as described in the article?",
-        "back": "Lifelong traumas, imperiled stability and productivity of youth, devastated mental and physical health, and jeopardized academic futures."
-      },
-      {
-        "front": "Besides legislative changes, what comprehensive measures does the article propose for addressing child abuse in Pakistan?",
-        "back": "Protection and psychosocial support for victims and families, awareness and education, and fostering a responsive police force and society."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783129074364-255",
-    "title": "Agri-tax failure\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012889/agri-tax-failure",
-    "date": "2026-07-03",
-    "author": "none@none.com (Editorial)",
-    "content": "THE first year of Pakistan’s unified agriculture income tax regime has produced an outcome that should surprise no one. Despite sweeping legislation introduced under the IMF programme, provincial governments collected barely Rs5.62bn, or less than 2pc of the Rs306bn declared by taxpayers in agricultural income. Clearly, legislation alone cannot overcome entrenched political interests. For decades, agricultural income has been one of the most glaring anomalies in our tax system. While salaried workers and documented businesses shoulder an increasing tax burden, one of Pakistan’s largest economic sectors has largely remained beyond effective taxation. The recent reforms sought to change that by harmonising AIT laws across provinces. Instead, they have merely exposed the gaps between policy commitments and political reality. Provinces adopted the reform with varying degrees of enthusiasm, and each implemented it differently, reflecting a deeper reluctance to confront powerful rural elites.\nThat reluctance is not accidental. Agricultural taxation lies at the centre of Pakistan’s political economy. The provinces are heavily influenced by landed interests, making meaningful enforcement politically costly. Asking them to rigorously tax agricultural income means asking governing parties, especially in Punjab and Sindh, to tax their own political base. Not even the IMF could compel the provincial governments to challenge constituencies that continue to dominate electoral politics. Weak land records, outdated revenue administration, incomplete crop data and a persisting patwari system undoubtedly undermine tax collection. But these institutional weaknesses have survived because successive governments have had little incentive to correct them. Technology — whether digitised land records or online filing systems — can improve compliance only if authorities act against influential defaulters.\nProvincial data reinforces this view. Punjab collected only a fraction of its potential revenue and was forced to slash even its modest collection target. Sindh has invested in a relatively stronger tax administration, but compliance remains weak. Since the 18th Amendment, provinces have demanded greater fiscal autonomy and a larger share of national resources. Autonomy, however, entails responsibility. Constitutionally assigned taxes such as agriculture income tax are meant to strengthen provincial finances and reduce dependence on federal transfers. Failure to mobilise these revenues weakens the case for greater resources while affluent landowners continue to enjoy privileges unavailable to taxpayers in virtually every other sector of the economy. Unless the provinces develop both institutional capacity and political resolve to enforce the law effectively, agricultural income will remain outside the tax system. Our chronic revenue crisis will persist not because Pakistan is short of taxable income but because it continues to exempt those with the greatest political influence from contributing their fair share.\nPublished in Dawn, July 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / Economics / Governance",
-    "topic": "Fiscal Federalism, Agricultural Taxation, Political Economy of Pakistan, Revenue Mobilization",
-    "whyMatters": "This article is crucial for understanding the deep-rooted challenges in Pakistan's tax system, particularly regarding agricultural income. It highlights the interplay between political economy, governance, and fiscal policy, offering critical insights for essays and analytical questions on revenue mobilization and provincial autonomy.",
-    "summary": [
-      "Pakistan's unified agriculture income tax regime collected less than 2% of declared income in its first year, indicating a significant failure despite new legislation.",
-      "The failure is attributed to entrenched political interests, as powerful rural elites resist effective taxation, making enforcement politically costly for provincial governments.",
-      "Institutional weaknesses like poor land records, outdated revenue administration, and the patwari system persist due to a lack of political will, as successive governments have little incentive to correct them.",
-      "Provinces' inability to mobilize constitutionally assigned taxes like AIT weakens their case for greater fiscal autonomy and perpetuates the national revenue crisis."
-    ],
-    "facts": [
-      "Provincial governments collected barely Rs5.62bn from agricultural income, which is less than 2% of the Rs306bn declared by taxpayers.",
-      "The 18th Amendment granted provinces greater fiscal autonomy, making Agriculture Income Tax (AIT) a provincial subject.",
-      "The sweeping legislation for the unified agriculture income tax regime was introduced under an IMF programme."
-    ],
-    "academicReferences": [
-      "IMF Programme (e.g., conditionality and structural reforms in Pakistan's economy)",
-      "18th Amendment to the Constitution of Pakistan (e.g., fiscal federalism and provincial autonomy)",
-      "National Finance Commission (NFC) Award (e.g., inter-provincial resource distribution and federal transfers)",
-      "Political Economy of Taxation in Pakistan (e.g., influence of landed elites and rent-seeking behavior)"
-    ],
-    "vocabulary": [
-      {
-        "word": "entrenched",
-        "type": "adjective",
-        "definition": "firmly established and difficult or unlikely to change; deep-seated.",
-        "sentence": "The problem of agri-tax failure is rooted in deeply entrenched political interests."
-      },
-      {
-        "word": "anomalies",
-        "type": "noun",
-        "definition": "something that is unusual or unexpected, differing from what is standard or normal.",
-        "sentence": "Agricultural income taxation has been one of the most glaring anomalies in Pakistan's tax system for decades."
-      },
-      {
-        "word": "harmonising",
-        "type": "verb",
-        "definition": "to bring into agreement or accord; make consistent.",
-        "sentence": "The recent reforms sought to change the situation by harmonising AIT laws across provinces."
-      },
-      {
-        "word": "reluctance",
-        "type": "noun",
-        "definition": "unwillingness or hesitation to do something.",
-        "sentence": "Provincial governments showed a deep reluctance to confront powerful rural elites regarding agricultural taxation."
-      },
-      {
-        "word": "patwari system",
-        "type": "noun",
-        "definition": "A traditional land record administrative system in South Asia, involving local revenue officers (patwaris) responsible for maintaining land records, measuring land, and collecting land revenue.",
-        "sentence": "The outdated patwari system undoubtedly undermines effective agricultural tax collection in Pakistan."
-      },
-      {
-        "word": "fiscal autonomy",
-        "type": "noun",
-        "definition": "The right or condition of self-government in financial matters, allowing a sub-national entity to control its own budget, revenue, and spending without significant external control.",
-        "sentence": "Since the 18th Amendment, provinces have demanded greater fiscal autonomy, but this comes with the responsibility of mobilizing their own revenues."
-      },
-      {
-        "word": "affluent",
-        "type": "adjective",
-        "definition": "having a great deal of money; wealthy.",
-        "sentence": "Affluent landowners continue to enjoy privileges unavailable to taxpayers in virtually every other sector of the economy."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what percentage of declared agricultural income was collected as tax in the first year of Pakistan's unified regime?",
-        "options": [
-          "Less than 2%",
-          "Around 10%",
-          "Exactly 5.62%",
-          "Over 20%"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that provincial governments collected 'barely Rs5.62bn, or less than 2pc of the Rs306bn declared' in agricultural income."
-      },
-      {
-        "question": "Which constitutional amendment is mentioned in the article as having granted provinces greater fiscal autonomy, making them responsible for taxes like agriculture income tax?",
-        "options": [
-          "1st Amendment",
-          "18th Amendment",
-          "19th Amendment",
-          "21st Amendment"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'Since the 18th Amendment, provinces have demanded greater fiscal autonomy and a larger share of national resources.'"
-      },
-      {
-        "question": "What is identified as the primary reason why institutional weaknesses like weak land records persist in Pakistan's agricultural tax system?",
-        "options": [
-          "Lack of modern technology for digitization",
-          "Insufficient funding from the federal government for provincial administrations",
-          "Successive governments having little incentive to correct them due to political influence",
-          "The inherent complexity of agricultural land ownership structures"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article attributes the persistence of institutional weaknesses to the fact that 'successive governments have had little incentive to correct them' due to political considerations."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core contradiction highlighted by the article regarding provinces' demands for fiscal autonomy and their performance in agricultural tax collection?",
-        "back": "Provinces demand greater fiscal autonomy and a larger share of national resources but fail to mobilize constitutionally assigned taxes like agriculture income tax, weakening their own case for more resources."
-      },
-      {
-        "front": "How do political interests influence the enforcement of agriculture income tax, especially in provinces like Punjab and Sindh?",
-        "back": "Powerful rural elites dominate electoral politics and provincial governments, making rigorous taxation politically costly as it means taxing their own political base."
-      },
-      {
-        "front": "What institutional weaknesses contribute to the failure of agriculture income tax collection, and why do they persist according to the article?",
-        "back": "Weak land records, outdated revenue administration, incomplete crop data, and the persisting patwari system undermine collection. They persist because successive governments lack the political incentive to correct them."
-      },
-      {
-        "front": "What immediate financial outcome resulted from Pakistan's unified agriculture income tax regime in its first year, as reported by the article?",
-        "back": "It collected barely Rs5.62bn, which is less than 2% of the Rs306bn declared in agricultural income, indicating a significant failure to achieve revenue targets."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783129380623-285",
-    "title": "Captive at home\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2012883/captive-at-home",
-    "date": "2026-07-03",
-    "author": "none@none.com (Rafia Zakaria)",
-    "content": "“I FELT that my future was already ruined, the future of the children would also be ruined.” These are the words of a Frenchwoman named Sylvie Yasmina who was rescued along with her five children from a dilapidated dwelling in Bara, Khyber Pakhtunkhwa. When police got to the house, they found Sylvie and her children living in an unfinished, broken-down house with bruises all over their bodies. The rescue took place because Sylvie’s eldest son had somehow managed to escape and go to the authorities. There he explained to police that he was French and that his mother and siblings were being held captive.\nAfter the rescue, Sylvie told the police that she and her husband, who is from KP, had married in 2003. At the time, both had been living in Australia, where her husband had been working illegally. They had two children there, where they lived until 2012. They moved to KP after that and had no contact with the outside world since 2014. News videos showed the family living in a derelict home, with the youngest of the five children in ragged clothes. After the rescue, Sylvie was taken to a women’s police station where authorities saw that she had been beaten. The French embassy was contacted and proceedings begun to verify their identities. Once these are completed, Sylvie is expected to return to France with her children.\nThe story of Sylvie’s ordeal is extremely disturbing. From the condition of the home and the children, it is evident that the family was living in an abusive situation. In interviews, Sylvie said that her husband would beat them at the slightest pretext. She said she was not allowed to meet anyone. The older two children had missed their schooling and the younger two had never been enrolled in school and were illiterate. Sylvie conveyed this in a mix of Pashto and English.\nSylvie and her children managed to escape because she is French and the French government will help her leave and make a life for herself again. However, millions of women in Pakistan are trapped in similar situations with nowhere to go. Just a few weeks ago, I wrote about Gulaan Bharo in Sindh, who was also being abused by her husband. She too ran to a women’s police station for help. Before she could reach safety, her family convinced her to return for the sake of their ‘honour’. Once she returned, she was killed by her husband with the collusion of her own family. She had no foreign country to escape to.\nA patriarchal society teaches women to hate themselves.\nThirty-four per cent of ever-married Pakistani women have experienced spousal physical, sexual or emotional violence, according to the UN. This is an extraordinarily high figure, which reveals just how acceptable violence against women is. As one 2023 study by researchers Fizza Raza and Heili Pals reveals, the problem isn’t just the number of men who believe such violence is permissible but also the number of women who, having grown up in a patriarchal household and society, think it is acceptable.\nAccording to the study, 35pc of women and 25pc of men think it is justifiable for a husband to beat his wife if she goes out without asking his permission. Nearly 22pc of men and 37pc of women think it is justifiable to beat a wife if she argues with him. Similarly, 38pc of men and 47pc of women justified wife-beating for these reasons as well as refusing sex or neglecting children.\nWhen the researchers looked at these findings, they were puzzled by the high percentages among women. They therefore separated the results between women interviewed alone and those interviewed in the presence of a family member or others. They found that the discrepancy was greatly reduced when women were interviewed privately. Women felt great pressure to express accepta­nce of wife-beating when they felt they were being overheard. \nThis reveals just how much pressure women in Pakistan face to accede to the norms of a patriarchal system even when it goes against their own interests. Women who could speak confidentially were much more likely to disagree that it is acceptable for a husband to beat his wife. Even so, many still agreed with the premise. This shows how a patriarchal society teaches women to hate themselves.\nMany men in Pakistan think it is acceptable to beat their wives. The 2023 study found that the passage of time has not really reduced these numbers even as awareness of domestic abuse has increased. When cases like the unfortunate Frenchwoman’s come to light, it becomes evident just how pervasive and isolating domestic violence is. One can only wish that the millions of victims of abuse in Pakistan surviving in silence also had a way out. \nThe writer is an attorney teaching constitutional law and political philosophy.\nrafia.zakaria@gmail.com\nPublished in Dawn, July 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs / Sociology",
-    "topic": "Domestic Violence, Patriarchy, and Women's Rights in Pakistan",
-    "whyMatters": "This article provides a critical analysis of the pervasive issue of domestic violence and patriarchal norms in Pakistan, supported by recent statistics. It is crucial for essays, current affairs, and social problem analyses in competitive examinations.",
-    "summary": [
-      "The story of Sylvie Yasmina, a Frenchwoman rescued from captivity and abuse in KP, exemplifies the extreme nature of domestic violence.",
-      "Millions of Pakistani women face similar or worse abusive situations, often lacking the external support (like foreign government intervention) that Sylvie received.",
-      "Domestic violence is alarmingly prevalent in Pakistan, with 34% of ever-married women experiencing abuse, indicating deep-rooted societal acceptance facilitated by patriarchal norms.",
-      "Societal pressure significantly influences women's expressed acceptance of wife-beating, with many publicly agreeing to norms that privately they disagree with, revealing internalized patriarchy."
-    ],
-    "facts": [
-      "34% of ever-married Pakistani women have experienced spousal physical, sexual, or emotional violence, according to the UN.",
-      "35% of men and 25% of women in Pakistan believe it is justifiable for a husband to beat his wife if she goes out without asking permission (2023 study).",
-      "38% of men and 47% of women justified wife-beating for reasons such as refusing sex or neglecting children (2023 study)."
-    ],
-    "academicReferences": [
-      "UN Women Reports: 'Violence Against Women in Pakistan: A Reality Check'",
-      "Domestic Violence (Prevention and Protection) Act, 2012 (Pakistan)",
-      "Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)"
-    ],
-    "vocabulary": [
-      {
-        "word": "dilapidated",
-        "type": "adjective",
-        "definition": "in a state of disrepair or ruin as a result of age or neglect",
-        "sentence": "When police got to the house, they found Sylvie and her children living in an unfinished, dilapidated house with bruises all over their bodies."
-      },
-      {
-        "word": "pervasive",
-        "type": "adjective",
-        "definition": "spreading widely throughout an area or a group of people, especially of an unwelcome influence or physical effect",
-        "sentence": "When cases like the unfortunate Frenchwoman’s come to light, it becomes evident just how pervasive and isolating domestic violence is."
-      },
-      {
-        "word": "patriarchal",
-        "type": "adjective",
-        "definition": "relating to or characteristic of a system of society or government controlled by men",
-        "sentence": "A patriarchal society teaches women to hate themselves."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the 2023 study cited in the article, what was the primary reason for the initial high percentages of women expressing acceptance of wife-beating?",
-        "options": [
-          "Women felt great pressure to express acceptance when interviewed in the presence of family or others.",
-          "Women genuinely believed in the justification of violence regardless of interview conditions.",
-          "The survey methodology was flawed, leading to inaccurate results.",
-          "Men's opinions significantly influenced women's responses in private interviews."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'They found that the discrepancy was greatly reduced when women were interviewed privately. Women felt great pressure to express acceptance of wife-beating when they felt they were being overheard.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary significance of Sylvie Yasmina's rescue in the context of the article's broader argument about domestic violence in Pakistan?",
-        "back": "Sylvie's case highlights the extreme nature of domestic violence and the critical role of external intervention (like foreign embassy support) in providing an escape, contrasting with the limited options for most Pakistani women."
-      },
-      {
-        "front": "How does the author differentiate Sylvie Yasmina's situation from that of Gulaan Bharo, both victims of abuse?",
-        "back": "Sylvie, being French, had the support of her government to escape, while Gulaan Bharo, a Pakistani woman, was convinced by her family to return home for 'honour' and was subsequently killed by her husband, lacking such external recourse."
-      },
-      {
-        "front": "According to the article, how does a patriarchal society in Pakistan impact women's self-perception regarding violence against them?",
-        "back": "A patriarchal society teaches women to hate themselves and often internalize the belief that violence against them is acceptable or justifiable, even when it goes against their own interests."
-      },
-      {
-        "front": "Why did researchers in the 2023 study separate the results between women interviewed alone and those interviewed in the presence of a family member or others?",
-        "back": "They did this to accurately assess women's true views on wife-beating, as they found women felt significant pressure to express acceptance when they believed they were being overheard, leading to reduced discrepancy in private interviews."
       }
     ]
   }
