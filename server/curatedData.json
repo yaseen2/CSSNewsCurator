@@ -1,5 +1,594 @@
 [
   {
+    "id": "curated-1784770086593-175",
+    "title": "Frozen Award\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017458/frozen-award",
+    "date": "2026-07-22",
+    "author": "none@none.com (Editorial)",
+    "content": "KP’S petition before the Federal Constitutional Court, seeking Rs964bn as the province’s claimed share of tax revenues since the Fata merger in 2018, may well be a political move by the PTI-led government. Still, it raises larger constitutional and fiscal questions about Pakistan’s federal structure, a dysfunctional National Finance Commission and distribution of fiscal resources among the provinces.\nThe core issue is whether constitutional and fiscal arrangements can be left frozen indefinitely despite major changes in a province’s demographic and administrative realities. While the Fata merger increased KP’s responsibilities, the province’s share from the federal tax pool is unchanged, raising questions about fiscal rights, as well as the centre’s role under Article 160 of the Constitution.\n    \nCan an NFC Award, based on circumstances more than 15 years old, continue as it is indefinitely? And does a major constitutional change like the Fata merger automatically alter provincial entitlements, or require formal amendments in the NFC before a revised share can be claimed? Is the president’s power to modify an NFC order discretionary? Or does that power become a constitutional duty when provincial demographics and territorial composition change? These issues lie at the very heart of fiscal federalism. The centre must do its duty and convene the Council of Common Interests so that stakeholders can discuss the issues raised by KP in its petition and resolve them.\nThe timing of the petition makes these questions even more important. The current budgetary arrangements have, in effect, locked provincial shares at last year’s level for the next three years to help finance critical federal expenditures. This raises broader questions about the meaning of provincial autonomy. If the provinces are constitutionally entitled to a defined share of the divisible pool, can a fiscal arrangement negotiated under IMF conditions effectively constrain that autonomy?\nThe debate is particularly significant amid indications of a desire in some quarters to revisit, dilute or reverse aspects of the 18th Amendment. The NFC and the 18th Amendment are closely connected to the question of how the federal system is meant to function. Any attempt to recentralise financial or administrative authority must be examined in the context of the constitutional balance between the centre and provinces. That said, KP should reconsider its decision to move the court to resolve issues that are essentially political in nature.\nThe fiscal implications of the Fata merger should have first been taken to the CCI, if the NFC process has become hostage to a deadlock. The courts can interpret the Constitution but they cannot be a substitute for cooperative federalism. The CCI must, therefore, be convened so that the centre and all federating units can discuss these issues and addresses KP’s legitimate demands.\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2022-FED",
+      "paper": "Pakistan Affairs",
+      "year": 2022,
+      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Pakistan Affairs",
+    "topic": "Fiscal Federalism, 18th Amendment, and Center-Province Financial Relations in Pakistan",
+    "whyMatters": "This article provides a contemporary case study illustrating the challenges to Pakistan's federal structure and provincial autonomy post-18th Amendment. It directly addresses the 'recent criticism' of the 18th Amendment by highlighting disputes over resource distribution and the desire in some quarters to dilute its provisions.",
+    "summary": [
+      "KP's petition for increased tax revenues post-Fata merger highlights fundamental constitutional and fiscal questions about Pakistan's federal structure and the dysfunction of the National Finance Commission (NFC).",
+      "The core issue is whether fiscal arrangements, particularly the NFC Award, can remain static despite significant demographic and administrative changes in provinces, questioning the centre's role under Article 160.",
+      "Current budgetary arrangements, influenced by IMF conditions, effectively constrain provincial autonomy by locking provincial shares, raising concerns about the practical implementation of constitutional entitlements.",
+      "The debate is significant due to indications of a desire to revisit or dilute aspects of the 18th Amendment, which is closely linked to the functioning of the federal system and fiscal distribution."
+    ],
+    "facts": [
+      "Khyber Pakhtunkhwa (KP) is seeking Rs964bn as its claimed share of tax revenues since the Fata merger in 2018.",
+      "The Fata merger occurred in 2018, increasing KP’s responsibilities without a corresponding increase in its share from the federal tax pool.",
+      "The current budgetary arrangements have locked provincial shares at last year’s level for the next three years."
+    ],
+    "academicReferences": [
+      "The 1973 Constitution of Pakistan",
+      "The 18th Amendment to the Constitution of Pakistan",
+      "Article 160 of the Constitution (regarding National Finance Commission)",
+      "National Finance Commission (NFC) Award",
+      "Council of Common Interests (CCI)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Fiscal federalism",
+        "type": "noun",
+        "definition": "The division of financial powers and responsibilities among different levels of government (e.g., federal and provincial).",
+        "sentence": "The KP petition raises core issues pertaining to fiscal federalism in Pakistan."
+      },
+      {
+        "word": "Divisible pool",
+        "type": "noun",
+        "definition": "The consolidated fund of the federal government from which provincial shares are determined according to the NFC Award.",
+        "sentence": "KP's petition questions its rightful share from the federal divisible pool."
+      },
+      {
+        "word": "Cooperative federalism",
+        "type": "noun",
+        "definition": "A concept where federal and provincial governments collaborate and negotiate to solve common problems, rather than solely relying on judicial intervention.",
+        "sentence": "The article emphasizes that courts are not a substitute for cooperative federalism in resolving inter-provincial disputes."
+      },
+      {
+        "word": "Entitlements",
+        "type": "noun",
+        "definition": "Rights or benefits legally due to a particular group or individual.",
+        "sentence": "The provinces are constitutionally entitled to a defined share of the divisible pool."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which constitutional body is primarily responsible for the distribution of fiscal resources among provinces in Pakistan?",
+        "options": [
+          "Supreme Court",
+          "National Finance Commission (NFC)",
+          "Council of Common Interests (CCI)",
+          "Federal Constitutional Court"
+        ],
+        "answerIndex": 1,
+        "explanation": "The National Finance Commission (NFC), established under Article 160, is constitutionally mandated for the distribution of financial resources between the federal government and the provinces."
+      },
+      {
+        "question": "What significant constitutional change increased KP's responsibilities and sparked its petition for more funds?",
+        "options": [
+          "18th Amendment",
+          "Fata merger",
+          "IMF conditions",
+          "Establishment of CCI"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Fata merger in 2018 significantly increased KP's administrative and financial responsibilities, leading to its demand for a larger share of tax revenues."
+      },
+      {
+        "question": "According to the article, what is the ideal forum for resolving inter-provincial and centre-province fiscal disputes?",
+        "options": [
+          "Federal Constitutional Court",
+          "Parliamentary Committees",
+          "Council of Common Interests (CCI)",
+          "Prime Minister's Secretariat"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that issues should first be taken to the Council of Common Interests (CCI) for resolution through cooperative federalism, rather than directly to the courts."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the 'Frozen Award' article illustrate the challenges to Pakistan's federal structure after the 18th Amendment?",
+        "back": "It highlights issues like the static NFC Award despite demographic changes, constraints on provincial autonomy due to IMF conditions, and the ongoing debate to revisit or dilute aspects of the 18th Amendment."
+      },
+      {
+        "front": "What is the core issue raised by KP's petition in relation to the NFC Award?",
+        "back": "The core issue is whether constitutional and fiscal arrangements, like the NFC Award, can be left frozen indefinitely despite major changes in a province's demographic and administrative realities (e.g., Fata merger)."
+      },
+      {
+        "front": "Why is the timing of KP's petition particularly significant according to the article?",
+        "back": "The timing is significant because current budgetary arrangements have locked provincial shares for the next three years, effectively constraining provincial autonomy, and the petition coincides with debates to potentially dilute the 18th Amendment."
+      },
+      {
+        "front": "What alternative mechanism does the article suggest for resolving fiscal issues between the centre and provinces, instead of courts?",
+        "back": "The article strongly suggests convening the Council of Common Interests (CCI) to discuss and resolve issues, emphasizing cooperative federalism over judicial intervention for political and fiscal matters."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770339169-116",
+    "title": "Investment promotion\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017454/investment-promotion",
+    "date": "2026-07-22",
+    "author": "none@none.com (Ehsan Malik)",
+    "content": "THE decision to merge the Board of Investment (BOI) and the Special Investment Facilitation Council (SIFC) gives Pakistan an opportunity to rethink how it attracts investment. Whether this becomes genuine reform or merely another institutional reshuffle depends on one question: can any investment promotion agency succeed when the investment climate itself remains fragmented?\nSuccessful investment promotion agencies are remarkably similar, despite operating in very different economies. Singapore’s Economic Development Board, Ireland’s IDA and Costa Rica’s CINDE are recognised global leaders. More recently, Uzbekistan’s Ministry of Investment, Industry and Trade has shown how a transition economy can integrate investment promotion with industrial development, exports and trade. Their common feature is not institutional design alone, but their ability to market a coherent economic strategy rather than compensate for fragmented policies.\n    \nUzbekistan’s main lesson is not the design of its investment agency, but the political will to reform the wider investment climate. President Shavkat Mirziyoyev’s government amended dozens of laws within a few years. Investment promotion followed reform.\nPakistan has tended to reverse that sequence. It first establishes new institutions — BOI, SIFC, Special Economic Zones, investment conferences and roadshows — while leaving taxation, energy pricing, tariffs, foreign exchange, long-term finance and regulation largely unresolved.\nNo agency can compensate for those shortcomings. A single investment window cannot overcome multiple policy doors that remain closed.\nThe BOI-SIFC merger should be viewed not as an administrative exercise, but as a chance to undertake deeper reforms.\nAn investor considering Pakistan asks familiar questions. Is the tax regime stable? Are energy prices competitive? Will tariffs remain predictable? Is long-term finance available? Can profits and royalties be remitted without uncertainty? How long will approvals take? Will contracts be enforced? These decisions are made in boardrooms on the basis of commercial returns, not administrative arrangements. Unless the answers are convincing, no amount of promotion will persuade companies to commit billions of dollars.\nThe merged organisation’s first task, therefore, should be to help the government develop a coherent investment proposition. Promotion should follow sound policy, not substitute for its absence.\nPakistan also needs to be more selective. Success should not be measured by the headline value of memoranda of understanding or announced projects, but by investment that creates productive jobs, generates exports, transfers technology, develops local suppliers and strengthens foreign exchange earnings. This means favouring export-oriented foreign direct investment over projects serving protected domestic markets. Minerals processing, food processing, pharmaceuticals, information technology, value-added textiles, engineering products and tourism can generate sustainable foreign exchange while raising productivity. Infrastructure investment should likewise be judged by whether it improves export competitiveness.\nNor should the new organisation focus only on foreign investors. Domestic and foreign investment are complementary: Pakistani companies can become suppliers, partners and exporters alongside multinationals, and facilitating productive domestic investment should be part of the mandate.\nThe merged institution should not merely act as a project approval office. It should proactively identify global companies whose supply chains match Pakistan’s advantages, prepare tailored investment propositions, and coordinate the infrastructure, skills, logistics and regulatory support needed to make those investments viable. Neither the BOI nor the SIFC currently has this capability.\nThe private sector should play a larger role in this effort. Exporters, industrialists, technology firms, logistics providers and financial institutions understand investor requirements and global competition better than most government departments. Their role should be advisory, not regulatory, with safeguards against conflicts of interest.\nThe work should not end once an investment is approved. In successful economies, much new investment comes from existing investors expanding operations. Helping them reinvest, resolve problems and deepen local supply chains is often more productive than constantly pursuing new entrants.\nThe SIFC offers a useful lesson. It brought the civilian and military leadership together and accelerated decisions on several projects, yet its wider ambition of transforming Pakistan’s investment landscape remained elusive because coordination cannot substitute for reform. High-level intervention may expedite files and provide one-off exceptional treatment, but it cannot permanently fix inconsistent taxation, uncompetitive energy costs, tariff distortions, regulatory uncertainty, weak contract enforcement or limited access to long-term finance. Investors seek predictable institutions, not repeated escalation to apex committees.\nThe BOI-SIFC merger should therefore be viewed not as an administrative exercise, but as a chance to undertake deeper reforms. The new organisation should be judged not by announcements, but by realised investment, export-oriented FDI, productive jobs, technology transfer, supplier development and foreign exchange earnings.\nInvestment promotion agencies do not create competitiveness; they market it. Even the best marketer cannot sustainably sell a product whose value fails to match its promise. Pakistan does not need a more persuasive salesman. It needs a more competitive product: coherent taxation, competitive energy pricing, predictable tariffs, efficient regulation, access to long-term capital, consistent economic policies, speedy dispute resolution and, above all, a secure law-and-order environment. Without these, even the most polished investment promotion organisation will struggle to convince serious investors.\nThe writer is a former CEO of Unilever Pakistan and of the Pakistan Business Council.\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Current Affairs / Economics / Public Policy",
+    "topic": "Investment Promotion, Economic Reforms, and Foreign Direct Investment (FDI)",
+    "whyMatters": "While not directly addressing Pakistan's role in ECO, this article offers a critical analysis of the internal economic reforms and investment climate necessary for Pakistan to become a more competitive player in regional and global economic integration. A robust domestic investment environment is a prerequisite for leveraging opportunities within frameworks like ECO and improving Pakistan's 'future prospects' in any regional bloc.",
+    "summary": [
+      "Pakistan's investment promotion efforts are hampered by a fragmented investment climate and a tendency to prioritize institutional establishment over fundamental policy reforms.",
+      "Successful global investment promotion agencies thrive by marketing coherent economic strategies backed by deep reforms, rather than merely compensating for policy incoherence.",
+      "The merger of BOI and SIFC presents an opportunity for Pakistan to undertake genuine reforms, focusing on critical areas like taxation, energy pricing, tariffs, and regulatory predictability to build investor confidence.",
+      "The new organization should adopt a selective, proactive approach, targeting export-oriented FDI, involving the private sector, and supporting existing investors, rather than just acting as a project approval office."
+    ],
+    "facts": [
+      "The Board of Investment (BOI) and Special Investment Facilitation Council (SIFC) are being merged in Pakistan.",
+      "Singapore’s Economic Development Board, Ireland’s IDA, Costa Rica’s CINDE, and Uzbekistan’s Ministry of Investment, Industry and Trade are cited as global leaders in investment promotion.",
+      "Uzbekistan's government, under President Shavkat Mirziyoyev, amended dozens of laws within a few years to reform its wider investment climate before focusing on promotion."
+    ],
+    "academicReferences": [
+      "World Bank's historical 'Ease of Doing Business Reports' (for comparative analysis of investment climates)",
+      "IMF Staff Reports on Pakistan's Structural Reforms and Economic Performance",
+      "Pakistan Economic Survey (annual official publication detailing economic trends and policy initiatives)"
+    ],
+    "vocabulary": [
+      {
+        "word": "fragmented",
+        "type": "adjective",
+        "definition": "broken into small or separate parts; disunited",
+        "sentence": "The article suggests that a fragmented investment climate hinders Pakistan's ability to attract serious investors."
+      },
+      {
+        "word": "coherent",
+        "type": "adjective",
+        "definition": "logical and consistent; forming a united whole",
+        "sentence": "Successful investment promotion agencies market a coherent economic strategy, not just disparate policies."
+      },
+      {
+        "word": "remitted",
+        "type": "verb",
+        "definition": "send (money) in payment or as a gift, especially to a distant place",
+        "sentence": "Investors frequently inquire whether profits and royalties can be remitted without uncertainty or undue delays."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as a key common feature of successful investment promotion agencies globally?",
+        "options": [
+          "Their institutional design alone.",
+          "Their ability to compensate for fragmented policies.",
+          "Their ability to market a coherent economic strategy.",
+          "Their focus solely on attracting new entrants."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states their common feature is 'their ability to market a coherent economic strategy rather than compensate for fragmented policies.'"
+      },
+      {
+        "question": "According to the article, what has been Pakistan's typical sequence in attracting investment, often reversing the successful model?",
+        "options": [
+          "Implementing reforms, then establishing institutions.",
+          "Establishing institutions, then addressing core policy issues.",
+          "Prioritizing domestic investment over foreign investment.",
+          "Focusing on high-level intervention for permanent fixes."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article highlights that 'Pakistan has tended to reverse that sequence. It first establishes new institutions...while leaving taxation, energy pricing...largely unresolved.'"
+      },
+      {
+        "question": "Which of the following is NOT explicitly suggested as a better measure of success for the merged investment organization?",
+        "options": [
+          "Investment that creates productive jobs.",
+          "Export-oriented foreign direct investment.",
+          "Headline value of memoranda of understanding.",
+          "Technology transfer and supplier development."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Success should not be measured by the headline value of memoranda of understanding or announced projects.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental issue does the article identify as the primary obstacle to effective investment promotion in Pakistan?",
+        "back": "A fragmented investment climate where core policy issues like taxation, energy pricing, and regulation remain unresolved, despite the establishment of various promotional institutions."
+      },
+      {
+        "front": "How does the article contrast Pakistan's approach to investment promotion with the successful model demonstrated by Uzbekistan?",
+        "back": "Pakistan tends to establish new investment institutions first, while Uzbekistan prioritized comprehensive wider investment climate reforms (amending dozens of laws) before focusing on promotion."
+      },
+      {
+        "front": "What is the core argument presented about the role of investment promotion agencies in creating competitiveness for a nation?",
+        "back": "Investment promotion agencies market competitiveness; they do not create it. A nation first needs a competitive economic 'product' (coherent policies, stable environment) to sell."
+      },
+      {
+        "front": "Beyond attracting foreign investors, what other crucial aspect of investment should the new merged organization also include in its mandate?",
+        "back": "Facilitating productive domestic investment, recognizing that Pakistani companies can be vital suppliers, partners, and exporters alongside multinationals."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770166269-146",
+    "title": "The Balochistan tragedy\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017455/the-balochistan-tragedy",
+    "date": "2026-07-22",
+    "author": "none@none.com (Zahid Hussain)",
+    "content": "THE rising death toll from the reported clashes between security forces and outlawed terrorist groups tells less than half the story of Balochistan. The strategically important province has been suffering for decades, and the crisis continues to worsen. Blocking the news cannot alter the reality on the ground. The situation points to a fractured state that is losing both public trust and effective control.\nUnfortunately, there is little attempt to address the political and social causes of the crisis. The state’s reliance on kinetic tactics shows that it has learned few lessons from the failed policies over the past two decades. After scores of policemen were killed in Ziarat earlier this month, the prime minister briefly interrupted his foreign tours to visit Quetta and reiterated that his government would fight until the last terrorist.\n    \nWe have heard this refrain for years, even as terrorism is taking hold across the province. The latest wave of attacks underscores the growing operational capacity of the groups. Security forces say they have killed hundreds of terrorists in operations, yet there has been no tangible sign of the violence abating. If anything, it is spreading. Viewing the Balochistan crisis solely through a security prism has only deepened people’s alienation.\nAlthough Balochistan has experienced three phases of armed unrest since the creation of Pakistan, the roots of the current phase began two decades ago in the Musharraf era with the killing of Akbar Bugti. That action by the state triggered violence across many parts of the province.\nBalochistan had remained relatively quiet after civilian rule was restored in 1988, bringing Baloch nationalists into the political mainstream. It is true that their major demands, including those related to royalties from natural gas and the fair allocation of resources remained unfulfilled, but democracy at least gave the Baloch people a sense of political participation in the system. Tensions began to mount when the Gen Musharraf-led military government in 2004 announced controversial plans to expand the security presence that were widely viewed as an attempt to tighten federal control over the province. The apprehension was not without basis. The problem of Balochistan is a long-standing one and it is reflected in the direct consequences of an overly centralised system. The fresh deployment of security personnel further fuelled discontent. The power imbalance has been far starker in Balochistan than in any other province.\nUnfortunately, there is little attempt to address the political and social causes of the crisis.\nI recall visiting Akbar Bugti at his home in Dera Bugti in late 2005, some months before his death. The town looked as if it were under siege. Heavy artillery and armoured vehicles had been deployed along the roads from Sui to Dera Bugti. Some of the buildings around his residence had been damaged by intermittent firing by security forces. I stayed in Dera Bugti for three days and had several conversations with Bugti, who was then one of the province’s most powerful tribal chieftains. Having also served as its governor and chief minister, he was well versed in the political developments unfolding around him and, backed by armed tribesmen, appeared prepared for a clash with the state.\nAlthough the dispute over royalties from the Sui gas field had been simmering for years, the government’s questionable actions to expand the security footprint in the area escalated the stand-off. However, there was still room for negotiations. A Senate subcommittee comprising Baloch senators and members of the government benches had recommended increasing royalties from the Sui gas field and addressing the socioeconomic issues that underpinned Balochistan’s grievances. It is unfortunate that the government took no action on the report. The province supplied much of Pakistan’s gas and possessed substantial mineral resources, but remains, to this day, one of the country’s most economically backward areas.\nAkbar Bugti’s killing by security forces in Kohlu in August 2006 aggravated the situation, with the authorities responding to the ensuing violence with force. Reports of the bullet-riddled bodies of dissidents and enforced disappearances further alienated the population. The rebellion was not confined to the tribal heartland. Makran and the coastal regions had become its main centres. Having lost hope of attaining democratic and economic rights through political channels, many in the ranks of the educated youth joined the now proscribed groups. Baloch nationalist parties were sidelined and unrepresentative governments installed. It is clear that dissent is not tolerated in the province.\n    \nThe government often accuses Baloch tribal chiefs of blackmailing the centre and opposing development projects in the region. Yet most of the chieftains, particularly the most reactionary among them, have consistently sided with the rulers. Corruption is endemic, but the state itself bears much of the responsibility. It is well known that patronage and bribery are routinely used to buy the loyalty of politicians and thus preserve the state’s control.\nIt is true that the political discontent has created a situation that is conducive to external involvement. But the latter must not be used as a pretext to usurp the democratic rights of the people. The current situation along with a hostile border with Afghanistan and the prospect of Iran’s destabilisation by the American-Israeli duo, could give terrorist groups more room and outside support to operate. An alienated local population provides the ideal ground for violent elements, who have also killed many civilians, which is what we are witnessing in the province today.\n    \nThe growing intensity of the operations by these elements is ominous. More than 25 years have passed since the armed unrest began, and attempts to crush it through brute force have only worsened the situation. The crisis is getting out of control, as the writ of the state is clearly weakening in the province. Yet there seems to be little recognition of the seriousness of the situation. Statements such as ‘we will fight until the last terrorist’ reflect the government’s disconnect with the situation on the ground. Time is running out.\nThe writer is an author and journalist.\nzhussain100@yahoo.com\nX: @hidhussain\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs / Political Science",
+    "topic": "Balochistan Conflict: Causes, Consequences, and Policy Failure",
+    "whyMatters": "This article provides a critical analysis of the prolonged Balochistan crisis, highlighting the state's policy failures and the deep-seated political and social causes. Aspirants can use its arguments to demonstrate an informed understanding of federal-provincial relations, security challenges, and the importance of political solutions over kinetic approaches in Pakistan's complex internal conflicts.",
+    "summary": [
+      "The rising death toll in Balochistan reflects a deeper crisis of a fractured state losing public trust and effective control, exacerbated by a media blackout.",
+      "The state's exclusive reliance on kinetic tactics, despite decades of failure, ignores the political and social roots of the conflict, deepening the alienation of the Baloch population.",
+      "The current phase of unrest began two decades ago in the Musharraf era, triggered by the killing of Akbar Bugti and controversial security expansions, undoing the gains of earlier civilian rule.",
+      "Unfulfilled demands regarding natural gas royalties, unfair resource allocation, suppression of democratic rights, and endemic corruption contribute to the rebellion, driving educated youth to proscribed groups."
+    ],
+    "facts": [
+      "Balochistan has experienced three phases of armed unrest since the creation of Pakistan.",
+      "The current phase of unrest began two decades ago (Musharraf era) with the killing of Akbar Bugti in August 2006.",
+      "More than 25 years have passed since the armed unrest began (referring to the broader history of conflict mentioned)."
+    ],
+    "academicReferences": [
+      "18th Amendment to the Constitution of Pakistan (for devolution and provincial autonomy)",
+      "National Finance Commission (NFC) Award (for resource distribution and provincial share)",
+      "Gwadar Port Development (as a symbol of strategic importance and local grievances)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Kinetic",
+        "type": "adjective",
+        "definition": "Relating to or resulting from motion; in this context, referring to military force or action.",
+        "sentence": "The state’s reliance on kinetic tactics shows that it has learned few lessons from the failed policies over the past two decades."
+      },
+      {
+        "word": "Refrain",
+        "type": "noun",
+        "definition": "A repeated line or phrase, especially in a song or poem; in this context, a common or oft-repeated comment.",
+        "sentence": "We have heard this refrain for years, even as terrorism is taking hold across the province."
+      },
+      {
+        "word": "Abating",
+        "type": "verb",
+        "definition": "To become less intense or widespread.",
+        "sentence": "Security forces say they have killed hundreds of terrorists in operations, yet there has been no tangible sign of the violence abating."
+      },
+      {
+        "word": "Endemic",
+        "type": "adjective",
+        "definition": "Regularly found among particular people or in a certain area; prevalent in a particular region or group.",
+        "sentence": "Corruption is endemic, but the state itself bears much of the responsibility."
+      },
+      {
+        "word": "Usurp",
+        "type": "verb",
+        "definition": "To take (a position of power or importance) illegally or by force.",
+        "sentence": "But the latter must not be used as a pretext to usurp the democratic rights of the people."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary failing of the state's approach to the Balochistan crisis?",
+        "options": [
+          "Exclusive reliance on kinetic tactics without addressing political/social causes.",
+          "Lack of international support for security operations.",
+          "Failure to modernise its security forces effectively.",
+          "Inability to control external involvement in the province."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'The state’s reliance on kinetic tactics shows that it has learned few lessons' and 'Viewing the Balochistan crisis solely through a security prism has only deepened people’s alienation'."
+      },
+      {
+        "question": "Which event is identified as the trigger for the current phase of armed unrest in Balochistan, beginning two decades ago?",
+        "options": [
+          "The establishment of the Gwadar Port.",
+          "The killing of Akbar Bugti during the Musharraf era.",
+          "The passing of the 18th Amendment.",
+          "The first National Finance Commission Award."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'the roots of the current phase began two decades ago in the Musharraf era with the killing of Akbar Bugti. That action by the state triggered violence across many parts of the province.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "According to the article, what is the primary reason the state's reliance on kinetic tactics has failed to resolve the Balochistan crisis?",
+        "back": "The article argues that viewing the crisis solely through a security prism deepens people's alienation and ignores the fundamental political and social causes."
+      },
+      {
+        "front": "What event, occurring during the Musharraf era, is identified by the author as the trigger for the current phase of armed unrest in Balochistan?",
+        "back": "The killing of Akbar Bugti and the controversial expansion of security presence in 2004 are cited as the trigger for the current phase of unrest."
+      },
+      {
+        "front": "What key demands of Baloch nationalists remained unfulfilled, contributing to mounting tensions even after civilian rule was restored in 1988?",
+        "back": "Major demands related to royalties from natural gas and the fair allocation of resources remained unfulfilled."
+      },
+      {
+        "front": "How does the article link the state's actions regarding dissent and political participation to the rise of proscribed groups among educated youth?",
+        "back": "With nationalist parties sidelined, unrepresentative governments installed, and dissent not tolerated, educated youth lost hope in political channels and joined proscribed groups."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770500173-390",
+    "title": "Delayed pricing\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017457/delayed-pricing",
+    "date": "2026-07-22",
+    "author": "none@none.com (Editorial)",
+    "content": "THE ongoing delay in making new, approved lifesaving medicines available to patients is a serious lapse in Pakistan’s drug regulatory system. It is difficult to justify why medicines that have already met with the standards set by the Drug Regulatory Authority of Pakistan should remain out of public reach simply because the government has yet to approve their prices. For patients, this is not merely inconvenient; it is a question of health and, in many cases, survival. Nearly 40 registered medicines are reportedly awaiting price notifications months after the relevant process was completed and recommendations forwarded to the federal government. They include advanced therapies for cancer, diabetes, Parkinson’s, autoimmune disorders and critical care. These are treatments that can extend lives, improve the quality of life and prevent irreversible complications in patients with few or no alternatives. The official explanation that cabinet approval is still pending shows how cumbersome the system has become. Pricing should not be an open-ended approval process after a medicine has already cleared Drap’s scrutiny.\nA regulatory framework that takes years to register a medicine and then delays its market entry for months makes no sense. The cost of these delays is borne entirely by patients. Illness does not wait for files to move through government offices. When legitimate supplies are delayed or blocked, desperate patients turn to smuggled or unregistered medicines. These products are priced exorbitantly, and their authenticity, storage conditions and supply chains cannot be guaranteed. Counterfeit and substandard medicines find space in such an environment. Ironically, excessive regulation ends up weakening effective oversight. The uncertainty also discourages pharmaceutical investment. Companies cannot indefinitely absorb unpredictable delays after completing an already lengthy approval process. Many simply conclude that introducing medicines is commercially unviable. The steady exit of several multinational pharmaceutical companies reflects, among other factors, the uncertainty surrounding pricing and market access. The government and drug regulator must recognise that regulation is not an end in itself. Its purpose is to protect public health while ensuring timely access to essential medicines. Once approval has been granted, price determination should be completed within a transparent, predictable and binding time frame. Patients should not have to pay for bureaucratic inertia.\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Pakistan Affairs / Current Affairs / Governance / Public Policy / Economics",
+    "topic": "Drug Regulatory System Issues in Pakistan / Public Health Policy / Bureaucracy and Governance",
+    "whyMatters": "This article highlights critical governance failures in Pakistan's drug regulatory system, directly impacting public health and economic investment. Aspirants can quote it to analyze bureaucratic inertia, its socio-economic costs, and propose reforms in governance-related essays and questions.",
+    "summary": [
+      "The ongoing delay in approving prices for new, approved lifesaving medicines is a serious lapse in Pakistan’s drug regulatory system.",
+      "Medicines, despite meeting Drap standards, remain unavailable because the government has not approved their prices, causing health risks and potential survival issues for patients.",
+      "This bureaucratic delay discourages pharmaceutical investment, leading to the exit of multinational companies and fostering a market for smuggled, exorbitant, and potentially counterfeit drugs.",
+      "The regulatory framework needs reform to ensure timely market access for approved medicines, with price determination completed within a transparent and binding timeframe."
+    ],
+    "facts": [
+      "Nearly 40 registered medicines are reportedly awaiting price notifications months after completing the relevant process.",
+      "These delayed medicines include advanced therapies for cancer, diabetes, Parkinson’s, autoimmune disorders, and critical care.",
+      "The official explanation for delays is pending cabinet approval, indicating a cumbersome system."
+    ],
+    "academicReferences": [
+      "National Health Vision (Pakistan) 2016-2025 (Highlights importance of access to essential medicines)",
+      "Drug Act, 1976 and Drugs Regulatory Authority of Pakistan Act, 2012 (Legal framework for drug regulation)",
+      "World Health Organization (WHO) Guidelines on Good Governance for Medicines (Relevant international standards for drug regulation)"
+    ],
+    "vocabulary": [
+      {
+        "word": "cumbersome",
+        "type": "adjective",
+        "definition": "difficult to carry or handle because of size or weight; complex and difficult to deal with.",
+        "sentence": "The existing approval process for medicine pricing has become cumbersome, leading to significant delays."
+      },
+      {
+        "word": "exorbitantly",
+        "type": "adverb",
+        "definition": "at an excessively high or unreasonable price.",
+        "sentence": "When legitimate medicines are delayed, desperate patients often pay exorbitantly for smuggled or unregistered alternatives."
+      },
+      {
+        "word": "inertia",
+        "type": "noun",
+        "definition": "a tendency to do nothing or to remain unchanged; resistance to change.",
+        "sentence": "Patients should not have to suffer the consequences of bureaucratic inertia in the drug approval process."
+      },
+      {
+        "word": "unviable",
+        "type": "adjective",
+        "definition": "not capable of working successfully; not feasible.",
+        "sentence": "Pharmaceutical companies often conclude that introducing new medicines is commercially unviable due to unpredictable regulatory delays."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as the primary reason for new, approved medicines being unavailable to patients in Pakistan?",
+        "options": [
+          "Lack of manufacturing capacity within Pakistan.",
+          "Delayed price approval by the federal government.",
+          "Insufficient research and development by pharmaceutical companies.",
+          "High import duties on lifesaving drugs."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that medicines remain out of public reach 'simply because the government has yet to approve their prices,' even after clearing Drap's scrutiny."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the dual negative consequences of drug pricing delays for patients?",
+        "back": "Patients face compromised health and, in many cases, survival challenges, coupled with the risk of resorting to expensive, unauthentic, or substandard smuggled medicines."
+      },
+      {
+        "front": "How do regulatory delays impact pharmaceutical investment and market stability in Pakistan?",
+        "back": "Delays discourage pharmaceutical investment by making market entry commercially unviable, leading to the exit of multinational companies and fostering uncertainty."
+      },
+      {
+        "front": "According to the article, what is the core purpose of drug regulation that is currently being undermined?",
+        "back": "The purpose of regulation is to protect public health while ensuring timely access to essential medicines, which is undermined when bureaucratic processes cause delays."
+      },
+      {
+        "front": "What specific reform is suggested for the price determination process of approved medicines?",
+        "back": "Price determination should be completed within a transparent, predictable, and binding time frame once approval has been granted, to avoid bureaucratic inertia."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770581755-113",
+    "title": "Academic mobility\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017453/academic-mobility",
+    "date": "2026-07-22",
+    "author": "none@none.com (Nazir A. Jogezai)",
+    "content": "OUR passport is the first barrier we navigate before joining a class, conference, fellowship, or an international research project. As a PhD student, I still remember the prolonged scrutiny that began at the time of departure and ended after one walked out of a foreign airport. This was inevitable even though all prerequisites had been met because mine was a green passport. The Pakistani passport dilemma is not new. It now needs to be seen from an educational perspective, often eclipsed by the disadvantages faced by business, tourism and other sectors. The educational cost is greater; visa delays result in missed admission deadlines, fellowship opportunities as well as scholarly events.\nInternational mobility for academic pursuits — international conventions, exchange programmes, visiting fellowships, joint degrees, summer schools and collaborative grants — is the hallmark of modern higher education. But the global mobility problem has grown increasingly challenging. Students and scholars with strong passports enjoy uninterrupted mobility — an invite is swiftly followed by a ticket, hotel booking, and a short visa form. For others, such as Pakistanis, the same invitation opens the door to an endless process — from providing bank statements, property documents, employment letters, family details, travel history, proof of return, to battling the constant fear of a refusal stamp that can impact future opportunities. This is not just another inconvenience. It is structured exclusion.\nSadly, incidents of fake documents and admissions, illegal travel routes, and overstaying by students harm the credibility of Pakistani applicants. While the state must crack down on these offences, it should also ensure other citizens are protected from humiliation. The idea is not to leave genuine students and scholars at the mercy of hostile bureaucratic systems. It is to smoothen the process through stronger verification, institutional coordination and action against criminal agents, with a commitment to support legitimate educational mobility.\nFor many Pakistanis, administrative inconvenience is secondary to ‘mobility humiliation’ that occurs despite securing admissions, scholarships, conference invitations and research placements. The fear of being questioned, held or deported, and of being seen as a suspect, is unfair and unnecessary. It creates educational inequality, which is lack of confidence and a shattered sense of worth, exacerbated by the absence of support from our authorities. This brings additional financial and emotional cost. Educational inequality is based not on merit but on the privileges of certain nationalities, such as the difference between green and blue passports.\nAn academic invitation leads to an endless process.\nMeanwhile, the ruling elite travels for official assignments with all sorts of institutional facilitation. The question is: if a bureaucrat can be assisted, why should a student or a scientist not be seen as an equal citizen representing the same country? Most countries facilitate their lawmakers with official passports without overlooking the future of their youth. Some even recognise academic mobility as a national interest. They support students with scholarship letters, embassy coordination, bilateral education pathways and, in some instances, special facilitation for scholars and academic staff. Pakistan should understand the importance of treating students and researchers with respect and sincerity. \nWe must adopt a multipronged response. First, Pakistan must commit to confronting and resolving the credibility crisis with firm action against phony admissions and illegal trafficking networks who not only exploit stud­ents but also dent the country’s image. Univ­e­rsities need to be transparent and resp­o­nsive when it com­­es to admissions and scholarship auth­entication in ord­er to restore trust both at home and globally. Second, active support for students and scholars must be ascertained through mobility support offices at educational facilities to sort out documentation, emb­assy communication and verification. Coordination between the HEC and foreign missions can open channels for students and researchers seeking to participate in conferences, fellowships and more. For instance, embassies can speed up the authentication process for academics. Moreover, databanks to document the number of learners and others who lost opportunities due to visa delays, refusals, or border issues, are crucial to assess the scale of the problem.\nFinally, educational mobility is not a luxury. It is a vital part of social development. Pakistan cannot build a knowledge economy when its students and scholars are viewed with suspicion across the globe. It harms their potential to make significant contributions to various academic disciplines. \nThe writer is an educationist.\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Pakistan Affairs / Social Issues & Governance",
+    "topic": "Challenges to Academic Mobility and Educational Inequality in Pakistan",
+    "whyMatters": "This article critically examines the systemic barriers faced by Pakistani students and scholars pursuing international academic opportunities, exposing a deep-seated issue of educational inequality. It is crucial for understanding socio-economic challenges, governance failures, and policy reforms necessary for human capital development in Pakistan.",
+    "summary": [
+      "Pakistani passport holders face unique and prolonged scrutiny, creating significant barriers to international academic mobility, unlike those with 'strong' passports.",
+      "Visa delays and complex requirements lead to missed educational opportunities, fellowships, and scholarly events, resulting in 'structured exclusion' and 'mobility humiliation'.",
+      "Incidents of fake documents and illegal travel routes by a few individuals harm the credibility of all Pakistani applicants, exacerbating the problem for genuine students and scholars.",
+      "A multipronged national response is needed, including combating fraud, ensuring transparency in universities, establishing mobility support offices, and fostering diplomatic coordination to facilitate legitimate academic pursuits."
+    ],
+    "facts": [
+      "The 'Pakistani passport dilemma' is a long-standing issue, now increasingly viewed from an educational perspective.",
+      "Educational inequality is explicitly stated to be 'based not on merit but on the privileges of certain nationalities'.",
+      "Incidents of fake documents, illegal travel routes, and overstaying by students are noted as harming the credibility of Pakistani applicants."
+    ],
+    "academicReferences": [
+      "UN Sustainable Development Goals (SDGs): SDG 4 (Quality Education) and SDG 10 (Reduced Inequalities), directly addressing the article's themes.",
+      "Higher Education Commission (HEC) of Pakistan: Relevant policies on internationalization, quality assurance, and student support.",
+      "Universal Declaration of Human Rights (UDHR): Article 26 (Right to Education), underscoring the fundamental entitlement to education without discrimination."
+    ],
+    "vocabulary": [
+      {
+        "word": "Scrutiny",
+        "type": "noun",
+        "definition": "Close and careful examination or observation.",
+        "sentence": "As a PhD student, I still remember the prolonged scrutiny that began at the time of departure."
+      },
+      {
+        "word": "Eclipsed",
+        "type": "verb",
+        "definition": "To make something seem less important or prominent by being much better or more significant.",
+        "sentence": "The educational cost is often eclipsed by the disadvantages faced by business, tourism and other sectors."
+      },
+      {
+        "word": "Hallmark",
+        "type": "noun",
+        "definition": "A distinguishing characteristic or feature.",
+        "sentence": "International mobility for academic pursuits is the hallmark of modern higher education."
+      },
+      {
+        "word": "Exacerbated",
+        "type": "verb",
+        "definition": "To make a problem, bad situation, or negative feeling worse.",
+        "sentence": "This lack of confidence is exacerbated by the absence of support from our authorities."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary consequence of mobility challenges for Pakistani students beyond mere inconvenience?",
+        "options": [
+          "A) Increased competition for local scholarships.",
+          "B) Structured exclusion and educational inequality.",
+          "C) A decline in domestic research output.",
+          "D) Preferential treatment for business travelers."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'This is not just another inconvenience. It is structured exclusion. ... It creates educational inequality...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is identified as the 'first barrier' for Pakistani students seeking international academic pursuits, leading to prolonged scrutiny?",
+        "back": "The passport itself, which initiates a complex and often discriminatory process at the time of departure and arrival."
+      },
+      {
+        "front": "How does the article characterize the impact of passport strength on academic mobility, differentiating between 'strong' and 'green' passports?",
+        "back": "Strong passports ensure uninterrupted mobility, while 'green' passports lead to an 'endless process' of documentation and fear of refusal, constituting 'structured exclusion'."
+      },
+      {
+        "front": "What internal factor within Pakistan is cited as harming the credibility of legitimate Pakistani applicants for international academic opportunities?",
+        "back": "Incidents of fake documents, fraudulent admissions, illegal travel routes, and overstaying by some students, which dent the country’s image."
+      },
+      {
+        "front": "What is one key policy recommendation proposed to address the credibility crisis and facilitate legitimate academic mobility?",
+        "back": "Pakistan must take firm action against phony admissions and illegal trafficking networks, and universities need to be transparent and responsive regarding admissions and scholarship authentication."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770423719-780",
+    "title": "Joint prayers\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017456/joint-prayers",
+    "date": "2026-07-22",
+    "author": "none@none.com (Editorial)",
+    "content": "IN a country which has witnessed monstrous bouts of sectarian violence, even symbolic gestures by clerics belonging to different schools of thought can send a strong message. In this regard, joint prayers offered at a Karachi madressah recently by ulema representing Pakistan’s four major sects and sub-sects — Barelvi, Deobandi, Shia and Ahle Hadith — were meant to be a display of unity. The Pakistan Ulema Council chief, Hafiz Tahir Ashrafi, who was present, said the exercise demonstrated “growing tolerance among society”, particularly amongst clerics. Such displays of communal harmony are welcome. When influential preachers put up a united front, sectarian differences in society can be reduced.\nBut much more needs to be done before the scourge of sectarian violence is banished from Pakistani society. It should be noted that such efforts to promote ‘ittihad bainul muslimeen’ (unity amongst Muslims) have been continuing particularly since the 1990s, when the nation was in the midst of a bloody wave of sectarian violence. At that time, efforts were made from the platform of the Milli Yakjehti Council to promote intra-Muslim unity. Years later, hundreds of clerics from different denominations signed the Paigham-i-Pakistan fatwa in 2018, which also included denunciation of sectarianism. But despite these noble efforts, communal mischief-mongers have continued to spread division in society. Deadly sectarian groups remain active till this day, though they may be maintaining a low profile. Therefore, it is incumbent upon the ulema to take forward the message of unity to the neighbourhood and village level. Doctrinal differences have existed within different schools of thought for centuries. Yet these theological matters are best left to scholars to discuss. The average citizen should be free to practise their faith, while respecting the freedom of other groups that follow different interpretations. If violent groups are shut down by the state, and ulema promote the narrative of ‘live and let live’, the goal of communal peace can be achieved.\nPublished in Dawn, July 22nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "Pakistan Affairs",
+    "topic": "Sectarianism, National Unity, and Counter-Extremism Efforts in Pakistan",
+    "whyMatters": "This article provides a current snapshot of ongoing efforts to foster inter-sect unity in Pakistan, a crucial challenge for national cohesion. It highlights both symbolic gestures and the persistent structural issues related to sectarian violence, essential for understanding Pakistan's internal security landscape and potential solutions.",
+    "summary": [
+      "Joint prayers offered by ulema from Pakistan’s major sects in Karachi symbolize growing tolerance and send a strong message of unity against sectarian violence.",
+      "Historical efforts, such as the Milli Yakjehti Council (since the 1990s) and the Paigham-i-Pakistan fatwa (2018), have continuously aimed to promote 'ittihad bainul muslimeen' (unity amongst Muslims).",
+      "Despite these noble efforts, sectarian divisions persist, with 'communal mischief-mongers' and deadly sectarian groups remaining active, albeit sometimes maintaining a low profile.",
+      "Achieving communal peace requires a dual approach: ulema must take the message of unity to the grassroots level, and the state must actively shut down violent groups while promoting a narrative of 'live and let live'."
+    ],
+    "facts": [
+      "Joint prayers were offered in a Karachi madressah by ulema representing Pakistan’s four major sects and sub-sects: Barelvi, Deobandi, Shia, and Ahle Hadith.",
+      "Efforts to promote 'ittihad bainul muslimeen' have been ongoing, particularly since the 1990s, following a bloody wave of sectarian violence.",
+      "Hundreds of clerics from different denominations signed the Paigham-i-Pakistan fatwa in 2018, which included a denunciation of sectarianism."
+    ],
+    "academicReferences": [
+      "Raja, N. S. (2018). Sectarianism in Pakistan: A Study of its Roots and Current Dynamics. Pakistan Institute for Peace Studies (PIPS) Report.",
+      "Paigham-i-Pakistan Fatwa (2018). Government of Pakistan initiative signed by hundreds of clerics promoting peace and harmony.",
+      "National Internal Security Policy (NISP) 2014-2018. Government of Pakistan's comprehensive strategy addressing internal threats, including sectarian extremism."
+    ],
+    "vocabulary": [
+      {
+        "word": "Monstrous",
+        "type": "adjective",
+        "definition": "extremely large and frightening, or extremely bad and shocking.",
+        "sentence": "In a country which has witnessed monstrous bouts of sectarian violence, even symbolic gestures by clerics can send a strong message."
+      },
+      {
+        "word": "Scourge",
+        "type": "noun",
+        "definition": "a person or thing that causes great trouble or suffering.",
+        "sentence": "Much more needs to be done before the scourge of sectarian violence is banished from Pakistani society."
+      },
+      {
+        "word": "Incumbent",
+        "type": "adjective",
+        "definition": "necessary for (someone) as a duty or responsibility.",
+        "sentence": "Therefore, it is incumbent upon the ulema to take forward the message of unity to the neighbourhood and village level."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following initiatives is *not* explicitly mentioned in the article as an effort to promote intra-Muslim unity in Pakistan?",
+        "options": [
+          "Milli Yakjehti Council",
+          "Paigham-i-Pakistan fatwa",
+          "National Action Plan",
+          "Joint prayers by ulema"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions Milli Yakjehti Council, Paigham-i-Pakistan fatwa, and joint prayers as direct efforts to promote intra-Muslim unity. While the National Action Plan is a significant state policy addressing extremism, it is not highlighted in the article as an example of an initiative specifically for 'ittihad bainul muslimeen' in the same context as the other options."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What message do symbolic gestures like joint prayers by ulema convey in a society marked by sectarian violence?",
+        "back": "They send a strong message of unity and growing tolerance among society, particularly among clerics, and can help reduce sectarian differences."
+      },
+      {
+        "front": "What historical efforts have been made in Pakistan to foster unity among Muslims ('ittihad bainul muslimeen')?",
+        "back": "Efforts include those made from the platform of the Milli Yakjehti Council since the 1990s, and the Paigham-i-Pakistan fatwa signed by hundreds of clerics in 2018."
+      },
+      {
+        "front": "According to the article, what prevents the complete eradication of sectarian violence despite noble unity efforts?",
+        "back": "Communal mischief-mongers continue to spread division, and deadly sectarian groups remain active, even if maintaining a low profile."
+      },
+      {
+        "front": "What dual approach does the article suggest for achieving communal peace in Pakistan?",
+        "back": "Ulema must take the message of unity to the grassroots (neighbourhood/village level), and the state must shut down violent groups while promoting a 'live and let live' narrative."
+      }
+    ]
+  },
+  {
     "id": "curated-1784683255280-215",
     "title": "Rethinking trade policy\n",
     "source": "Dawn",
@@ -125,6 +714,88 @@
       {
         "front": "What are some practical recommendations the author suggests for improving export competitiveness and implementation of the new STP?",
         "back": "Reduce domestic taxes/tariffs on imported raw materials, integrate into global value chains (especially with China), implement a medium-term industrial policy, expand export financing, and strengthen trade diplomacy with qualified commercial representatives."
+      }
+    ]
+  },
+  {
+    "id": "curated-1784770252588-568",
+    "title": "Lessons from Spain’s win\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2017188/lessons-from-spains-win",
+    "date": "2026-07-21",
+    "author": "none@none.com (Jawed Naqvi)",
+    "content": "SPAIN have won the FIFA World Cup for a second time but their Sunday victory over Argentina became more rewarding by bringing a much-needed smile to the harrowed Palestinian people in their undeterred fight against the genocidal occupation of their homeland. It might seem a curious alignment of obviously distant spaces between Europe’s Spain and Asia’s occupied Palestine. But then, everyone knows that sports have always been intertwined with their strange political connections. Sunday’s World Cup final represented a contemporary intertwining of sports and politics.\nWhat happened on the field was a stymied Argentina succumbing to a team that moved like a symphony. Off the field, we saw the politically motivated mistreatment of the Iranian team by the host country under President Donald Trump’s watch. Even here, though, the Iranians made their point with quiet grace. The perennially sanctioned country, facing daily bombardments from the US-led military, didn’t shirk from sending a team to the enemy country to stake its claim as a qualified contestant in the fixtures. On the other hand, the outlandishly pampered Israel with its fabled clout and connections was never barred from the contest on political grounds as has happened, for example, with Russia. Only it failed to qualify while Iran passed the gruelling test. And that’s an important comparison to note.\n    \nSince 1979, when US sanctions were first placed on Iran, the country has picked up a steady tally including 21 gold medals at the Olympics. By contrast, Pakistan won its last hockey gold in 1984. More recently, it won gold in a javelin event in 2024. India took its last hockey gold in 1980 when all major players were boycotting the Moscow Olympics, again for political reasons. India also got a gold for an air rifle event in 2008 and a javelin throw in 2020. Both countries spend a fortune on military preparedness. Economising on defence budget without compromising sovereignty is another lesson our countries could learn from Iran, should they feel the need to invest in sports and education as they ideally should.\nSo, what triggered the polarisation over football following their Sunday contest? It’s a given that Argentinian captain Lionel Messi is one of all-time greats. But his country’s public embrace of Israel coincided with Spain’s strident opposition to the Trump-backed war on Palestine’s Gaza Strip. It’s no secret that Benjamin Netanyahu’s support for Argentina in the World Cup final was driven primarily by politics, not sports. It was a public show of support for Argentine President Javier Milei, a newfound ally of Israel. Netanyahu said it loudly: “President Milei has revolutionised Israel’s relationship with Argentina, and we have no greater nor better friends. Which is why we support them [in Sunday’s match].”\nWhat happened on the field was a stymied Argentina succumbing to a team that moved like a symphony.\nOn the other hand, a broader pro-Palestinian sentiment in football came with Lamine Yamal, the Spanish sensation. Yamal famously waved a large Palestinian flag while riding on an open-top bus during Barcelona’s La Liga title victory parade earlier this year.\n    \nAs in politics, preferences for sports stars and teams change with time and occasion. Spain is riding a crest of successes in football. In 2023, it lifted the FIFA women’s cup for the first time by defeating England 1-0 in Sydney. The British press at the time found a handy digression to mask the embarrassment by targeting a kissing scandal in the Spanish team. And now it’s the Yamal effect carrying the day. But in 1986, the politically preferred football team was Argentina. While Spain remains the toast of the global resistance to Trump’s brand of buccaneer imperialism today, Maradona’s Argentina was celebrated for its football skills and politics alike. The Falklands war had secured widespread sympathy for Argentina. The bonds only strengthened when the country discarded military rule and opted for democracy in 1983, the year after its military defeat by Margaret Thatcher’s Britain. The 1986 FIFA quarter finals are thus etched in memory as a pivotal moment when the British press once again bared their fangs in a fit of crass nationalism. Maradona’s goal against England in the match set the ground for Argentina’s eventual widely cheered victory in the finals.\nFootball, unlike cricket and rugby, which had their origins as elite sports, owns a working class history from northern industrial England. While colonial Britain encouraged rugby and cricket among the colonial elites, football got step-motherly treatment. India and Pakistan have patronised cricket since independence with rugby being assigned mainly to Anglo-Indian-run elite schools. By a quirk of colonial providence, football is a preferred (though not necessarily patronised) sport in India’s north-eastern and south-western states. Do the non-elites have a better physique for the rigour of football?\nThere was a time when Indians cheered for Pakistan cricketers against England, and vice versa. Innate in the stance was a political message of solidarity against a historical memory of colonialism. It was politics again that South Africa was barred from international cricket until Nelson Mandela was freed.\nLet me leave you with an instructive story that illustrates how countries prepare for sports events when they are determined to put up a good show. China imported large quantities of high-grade iron ore from private miners in the Bellary-Hospet region of Karnataka. From 2005 to 2009, India exported some 322 million tonnes of iron ore to China. In 2008 alone, about 80-90 per cent of India’s iron ore exports went to China, a major share coming from BJP-ruled Bellary.\nChina used the ore to build its fabulous ‘bird’s nest’ stadium for the 2008 Beijing Olympics. And India? It’s struggling to live down the scandal the illegal mining of iron ore caused. In 1993, China signed a major border pact with India, but it also inserted a request for 24 water buffaloes. It had no idea about dairy then, and was setting up an alien industry for the milk-guzzling Olympians it was eager to host.\nThe writer is Dawn’s correspondent in Delhi.\nPublished in Dawn, July 21st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs / International Relations / Essay",
+    "topic": "The Geopolitics of Sports: Intersections of International Relations and National Interests",
+    "whyMatters": "This article provides concrete examples of how seemingly apolitical events like sports are deeply intertwined with international politics, historical narratives, and national interests, offering critical insights for essay and IR papers. It also highlights the strategic importance of investment in non-military sectors like sports and education for national prestige and soft power.",
+    "summary": [
+      "Sports events, especially global spectacles like the FIFA World Cup, are often deeply intertwined with contemporary political alignments, historical grievances, and international power dynamics.",
+      "Nations facing international sanctions, like Iran, can still achieve significant sporting success, demonstrating resilience and the importance of investing in non-military sectors for national prestige.",
+      "Political affiliations and public sentiment strongly influence support for sports teams and athletes, as evidenced by the pro-Palestine sentiment around Spain's victory and Netanyahu's support for Argentina.",
+      "Strategic investment in sports infrastructure and development, as exemplified by China's preparations for the Beijing Olympics, can serve national interests, enhance soft power, and improve global standing."
+    ],
+    "facts": [
+      "Since 1979, Iran has won 21 gold medals at the Olympics despite facing US sanctions.",
+      "Pakistan won its last hockey gold in 1984, and India's last hockey gold was in 1980 (Moscow Olympics).",
+      "From 2005 to 2009, India exported approximately 322 million tonnes of iron ore to China, with a major share contributing to China's 2008 Beijing Olympics infrastructure."
+    ],
+    "academicReferences": [
+      "Joseph Nye's \"Soft Power: The Means to Success in World Politics\"",
+      "\"The Geopolitics of Sport\" (as a recognized field of study and academic discourse)",
+      "Post-colonialism and Sports Development Theory (exploring how colonial legacies influence sports patronage)"
+    ],
+    "vocabulary": [
+      {
+        "word": "harrowed",
+        "type": "adjective",
+        "definition": "distressed; tormented.",
+        "sentence": "The article describes the \"harrowed Palestinian people\" in their undeterred fight against occupation."
+      },
+      {
+        "word": "stymied",
+        "type": "verb",
+        "definition": "prevented or hindered the progress of.",
+        "sentence": "What happened on the field was a stymied Argentina succumbing to a team that moved like a symphony."
+      },
+      {
+        "word": "buccaneer imperialism",
+        "type": "noun phrase",
+        "definition": "aggressive, opportunistic, and expansionist foreign policy or economic control.",
+        "sentence": "Spain remains the toast of the global resistance to Trump’s brand of buccaneer imperialism today."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what significant lesson could countries like Pakistan and India learn from Iran regarding national investment?",
+        "options": [
+          "A) Prioritizing military spending over all other sectors.",
+          "B) Economizing on defence budget to invest in sports and education without compromising sovereignty.",
+          "C) Relying solely on private funding for sports development.",
+          "D) Boycotting international sports events as a political statement."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Economising on defence budget without compromising sovereignty is another lesson our countries could learn from Iran, should they feel the need to invest in sports and education as they ideally should.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article illustrate the deep intertwining of sports and politics in international relations?",
+        "back": "The article demonstrates this through Spain's pro-Palestine stance and Argentina's alignment with Israel during the World Cup, the political mistreatment of the Iranian team, and historical examples like the Falklands War influencing support for Argentina."
+      },
+      {
+        "front": "What contrasting approaches to national development are highlighted by Iran's sporting success versus Pakistan's and India's struggles?",
+        "back": "Iran, despite sanctions, invested in sports leading to Olympic golds, while Pakistan and India, though spending fortunes on military preparedness, have seen declining fortunes in traditional sports like hockey, suggesting a need to re-evaluate investment priorities."
+      },
+      {
+        "front": "Explain how public sentiment and political alliances impacted global support for teams during the World Cup discussed in the article.",
+        "back": "Spain gained pro-Palestinian support due to its opposition to the Trump-backed war, highlighted by Lamine Yamal's flag-waving, while Argentina received political backing from Netanyahu due to President Milei's alliance with Israel."
+      },
+      {
+        "front": "What did China's preparations for the 2008 Beijing Olympics reveal about its strategic approach to sports and national ambition, according to the article?",
+        "back": "China strategically invested heavily in infrastructure like the 'bird's nest' stadium using imported resources, and even built an alien dairy industry for its Olympians, demonstrating a determined, long-term approach to using sports for national prestige and soft power."
       }
     ]
   },
@@ -9442,708 +10113,6 @@
       {
         "front": "What fundamental principle of good governance, according to development literature, is contradicted by the trend of centralized bureaucratic control described in the article?",
         "back": "The principle that welfare goals are better served by decentralization of administration and the provision of robust accountability mechanisms."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783303668739-196",
-    "title": "Islamic banking\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013276/islamic-banking",
-    "date": "2026-07-06",
-    "author": "none@none.com (Editorial)",
-    "content": "THE roadmap for eliminating riba from Pakistan’s financial system from 2028 offers some clarity on how the government intends to implement the four-year-old Federal Shariat Court ruling. The policy direction itself was settled when the government embraced the court’s verdict by incorporating its deadline into the Constitution through the 26th Amendment, a move seen as part of a political bargain to secure the support of religious parties for the amendment. Uncertainty has persisted over how an economy deeply integrated with conventional banking and global capital can manage such a profound transition. By opting for a gradual, contract-respecting approach, the government has committed itself to honouring existing obligations until maturity. This preserves legal certainty, protects investor confidence and avoids financial disruption. The decision to allow most foreign-owned banks to continue operating hybrid models offering both conventional and Islamic banking services is also a step in the right direction as complete uniformity is neither practical nor desirable.\nThe roadmap is only the beginning. The challenge lies in executing it. Pakistan’s Islamic finance sector has expanded rapidly, but still lacks the depth, diversity and liquidity management tools to support an economy of this size. The government’s commitment to regular issuance of sukuk across different maturities addresses a big structural weakness of the sector. The proposal to develop a comprehensive register of federal assets is another important reform for sustained sukuk issuance and reduced reliance on the limited stock of assets currently available for Islamic financing. The initiative will demand transparency, accurate valuation and robust governance to safeguard the credibility of asset-backed instruments.\nHowever, the roadmap sidesteps an important debate among scholars, bankers and economists, centring on the lack of universal agreement on whether modern bank interest constitutes riba at all. Some argue that what is prohibited is exploitative lending and debt traps rather than every form of interest (return on the time value of money) on capital. Others agree with the FSC. Indeed, the coexistence of conventional and Islamic banking in Muslim-majority countries, and the relatively modest penetration of Islamic banking despite decades of policy support suggest that many still prefer a choice. The government’s own decision to allow foreign-owned banks to continue offering hybrid services implicitly recognises this reality. It is then difficult to justify denying the same flexibility to domestically owned banks. The government’s intention to seek Sharia-compliant external financing where ‘feasible’ is itself an implicit endorsement of personal choice. If financial stability and consumer choice warrant a hybrid or dual system, market preferences should be allowed to evolve naturally rather than through regulatory compulsion. If the aim is to build confidence in Islamic finance, competition and performance will prove more effective than compulsion.\nPublished in Dawn, July 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Economics / Pakistan Affairs",
-    "topic": "Islamic Banking and Financial System Transformation in Pakistan",
-    "whyMatters": "This article is crucial for understanding Pakistan's economic policy direction towards an interest-free financial system, its challenges, and the underlying socio-economic debates. Aspirants can quote it to demonstrate knowledge of financial reforms, constitutional amendments, and the interplay between religion and economy.",
-    "summary": [
-      "Pakistan's government has a roadmap for eliminating riba from its financial system by 2028, incorporating the Federal Shariat Court's ruling through the 26th Amendment.",
-      "The transition strategy involves a gradual, contract-respecting approach, honoring existing obligations and allowing foreign-owned banks to operate hybrid conventional and Islamic models to maintain stability and investor confidence.",
-      "Challenges for the rapidly expanding Islamic finance sector include lack of depth, diversity, and liquidity tools, addressed by commitments to regular sukuk issuance and a comprehensive federal asset register.",
-      "The roadmap sidesteps the scholarly debate on whether modern bank interest constitutes riba, implicitly acknowledging market preference for choice and suggesting that competition, not compulsion, should drive confidence in Islamic finance."
-    ],
-    "facts": [
-      "Deadline for eliminating riba from Pakistan's financial system: 2028.",
-      "Federal Shariat Court ruling on riba is four years old as of the article's publication.",
-      "The deadline was incorporated into the Constitution through the 26th Amendment.",
-      "Article published in Dawn on July 6th, 2026."
-    ],
-    "academicReferences": [
-      "Federal Shariat Court of Pakistan's Ruling on Riba",
-      "26th Constitutional Amendment of Pakistan",
-      "State Bank of Pakistan's Islamic Banking Policy/Roadmap for Riba-Free Economy"
-    ],
-    "vocabulary": [
-      {
-        "word": "Riba",
-        "type": "noun",
-        "definition": "An Arabic term often translated as 'interest' or 'usury,' prohibited in Islamic finance.",
-        "sentence": "The roadmap aims for the elimination of riba from Pakistan’s financial system by 2028."
-      },
-      {
-        "word": "Sukuk",
-        "type": "noun",
-        "definition": "Islamic financial certificates, similar to bonds, that comply with Sharia law, representing ownership in underlying assets.",
-        "sentence": "The government’s commitment to regular issuance of sukuk addresses a big structural weakness of the sector."
-      },
-      {
-        "word": "Hybrid models",
-        "type": "noun phrase",
-        "definition": "Business models that offer both conventional and Islamic banking services concurrently.",
-        "sentence": "The decision to allow most foreign-owned banks to continue operating hybrid models is a step in the right direction."
-      },
-      {
-        "word": "Compulsion",
-        "type": "noun",
-        "definition": "The action or state of being forced to do something; coercion.",
-        "sentence": "Market preferences should be allowed to evolve naturally rather than through regulatory compulsion."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary deadline set by the Pakistani government for eliminating riba from its financial system?",
-        "options": [
-          "2026",
-          "2028",
-          "2030",
-          "2032"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that the roadmap for eliminating riba offers clarity on implementation from 2028."
-      },
-      {
-        "question": "Which constitutional amendment incorporated the Federal Shariat Court's deadline for riba elimination?",
-        "options": [
-          "18th Amendment",
-          "21st Amendment",
-          "26th Amendment",
-          "25th Amendment"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions that the government incorporated the court’s deadline into the Constitution through the 26th Amendment."
-      },
-      {
-        "question": "What is identified as a significant structural weakness of Pakistan's Islamic finance sector?",
-        "options": [
-          "Lack of conventional banking integration",
-          "Excessive liquidity management tools",
-          "Limited depth, diversity, and liquidity management tools",
-          "Over-reliance on foreign investment"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that Pakistan’s Islamic finance sector still lacks the depth, diversity, and liquidity management tools."
-      },
-      {
-        "question": "What approach has the government adopted regarding existing financial obligations during the transition?",
-        "options": [
-          "Immediately nullifying all conventional contracts",
-          "Gradually phasing out all contracts within a year",
-          "Honouring existing obligations until maturity",
-          "Converting all existing contracts to Sharia-compliant ones instantly"
-        ],
-        "answerIndex": 2,
-        "explanation": "The government has committed itself to honouring existing obligations until maturity by opting for a gradual, contract-respecting approach."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the strategic approach adopted by the Pakistani government for the transition to an interest-free financial system to ensure legal certainty and investor confidence?",
-        "back": "The government is adopting a gradual, contract-respecting approach that honors existing obligations until maturity, thus preserving legal certainty and protecting investor confidence."
-      },
-      {
-        "front": "What key reforms are proposed to address the structural weaknesses of Pakistan's Islamic finance sector?",
-        "back": "The proposed reforms include regular issuance of sukuk across different maturities and the development of a comprehensive register of federal assets to support sustained sukuk issuance."
-      },
-      {
-        "front": "What significant debate among scholars, bankers, and economists does the roadmap for riba elimination sidestep?",
-        "back": "The roadmap sidesteps the debate on whether modern bank interest truly constitutes riba, with some arguing that only exploitative lending is prohibited, not all forms of interest."
-      },
-      {
-        "front": "Why does the article argue against regulatory compulsion in promoting Islamic finance in Pakistan?",
-        "back": "The article argues that competition and performance will prove more effective than compulsion in building confidence in Islamic finance, allowing market preferences to evolve naturally, as implicitly recognized by allowing foreign banks to offer hybrid models."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783303747771-350",
-    "title": "Prison reforms\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013275/prison-reforms",
-    "date": "2026-07-06",
-    "author": "none@none.com (Editorial)",
-    "content": "IF nothing else, it was good to see the four provincial chief executives sharing a common platform. The chief ministers of Punjab, Sindh, KP and Balochistan gathered last week for the National Conference on Prison Reforms, hosted by the Supreme Court. Together, they signed the Islamabad Declaration on Prison Reforms, committing to a coordinated national effort to reform provincial prison systems. They promised to reduce unnecessary incarceration by expanding access to bail, legal aid and non-custodial alternatives like probation and parole, particularly for vulnerable groups such as women, children and those detained for minor, poverty-related offences. They also resolved to review existing legal frameworks to align prison administration with constitutional and human rights standards, whilst increasing investment in healthcare, sanitation and safeguards against torture.\nBut while all these reforms read well on paper, will they actually be carried out, or have the chief ministers merely put their names to the document as a formality? Time will tell. There is a deeper irony, too, in the way the politicians grounded their advocacy for jail reforms in their own or other leaders’ experiences. CM Maryam Nawaz, for example, shared that her imprisonment ‘changed her forever’. CM Sohail Afridi highlighted the challenges faced by the PTI’s incarcerated chief, while demanding that reforms begin at Adiala Jail. It is doubtful that either leader has ever experienced what most ordinary Pakistanis do. Pakistan’s jails do not need to be experienced for one to understand what ails them. Our entire penal system is the product of a deeply flawed approach to human rights and dignity that only understands the logic of power and who wields it; a remnant of the colonial era, as the law minister so aptly put it. It is a system in which who gets punished and how severely still depend on how much power a person holds. The poor, the voiceless and the unconnected absorb its cruelties while the influential are spared. For prisons to see true reform, therefore, the national leadership must first decolonise their conceptions of power and learn to see and treat the weakest citizen as their equal. Such humility has traditionally been severely lacking in Pakistani politics, but till leaders come to terms with the inequalities and injustices they benefit from — and are therefore incentivised to perpetuate — there can be no meaningful change.\nPublished in Dawn, July 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Pakistan Affairs / Current Affairs / Governance",
-    "topic": "Prison Reforms, Human Rights, and Justice System in Pakistan",
-    "whyMatters": "This article provides critical insight into the state of prison reforms in Pakistan, highlighting both recent policy commitments and deep-seated systemic challenges. It is crucial for understanding governance issues, human rights abuses, and the legacy of colonialism within the Pakistani justice system, making it highly relevant for essays and analytical questions.",
-    "summary": [
-      "The provincial Chief Ministers signed the Islamabad Declaration on Prison Reforms, committing to a coordinated national effort to improve the provincial prison systems.",
-      "Key commitments include reducing unnecessary incarceration, expanding access to bail and legal aid, and investing in better healthcare, sanitation, and safeguards against torture, especially for vulnerable groups.",
-      "The article expresses skepticism regarding the actual implementation of these reforms, criticizing politicians for grounding advocacy in self-serving experiences and potentially treating commitments as mere formalities.",
-      "It argues that Pakistan's penal system is a colonial-era remnant, deeply flawed by power dynamics where the poor suffer disproportionately, and true reform requires leaders to decolonize their conception of power and treat all citizens equally."
-    ],
-    "facts": [
-      "The National Conference on Prison Reforms was hosted by the Supreme Court.",
-      "The Islamabad Declaration on Prison Reforms was signed by the chief ministers of Punjab, Sindh, KP, and Balochistan.",
-      "The proposed reforms specifically target vulnerable groups such as women, children, and those detained for minor, poverty-related offences."
-    ],
-    "academicReferences": [
-      "The Constitution of Pakistan (e.g., Articles 9, 10, 14, 25 related to human rights, dignity, and equality before law)",
-      "UN Standard Minimum Rules for the Treatment of Prisoners (Nelson Mandela Rules)",
-      "Reports by the Human Rights Commission of Pakistan (HRCP) on prison conditions and judicial reforms"
-    ],
-    "vocabulary": [
-      {
-        "word": "incarceration",
-        "type": "noun",
-        "definition": "the state of being confined in prison or held in custody.",
-        "sentence": "The declaration aims to reduce unnecessary incarceration by expanding access to bail and legal aid."
-      },
-      {
-        "word": "non-custodial alternatives",
-        "type": "noun phrase",
-        "definition": "punishments or measures that do not involve imprisonment, such as probation or parole.",
-        "sentence": "Expanding non-custodial alternatives like probation and parole is crucial for effective prison reform, especially for vulnerable groups."
-      },
-      {
-        "word": "penal system",
-        "type": "noun phrase",
-        "definition": "the system of laws, policies, and practices related to punishment for crimes.",
-        "sentence": "Our entire penal system is described as a product of a deeply flawed, colonial-era approach to human rights and dignity."
-      },
-      {
-        "word": "decolonise",
-        "type": "verb",
-        "definition": "to free a country or a system from colonial rule or influence; to challenge colonial ideas or structures.",
-        "sentence": "For true prison reform, the national leadership must first decolonise their conceptions of power."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the fundamental reason for the deep-seated flaws in Pakistan's penal system, according to the article?",
-        "options": [
-          "A) Lack of funding for prison infrastructure",
-          "B) Absence of political will among Chief Ministers",
-          "C) A colonial-era approach to human rights and power dynamics",
-          "D) International pressure for reforms"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'Our entire penal system is the product of a deeply flawed approach to human rights and dignity that only understands the logic of power and who wields it; a remnant of the colonial era.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What were the primary commitments outlined in the Islamabad Declaration on Prison Reforms?",
-        "back": "Commitments included reducing unnecessary incarceration, expanding access to bail, legal aid, non-custodial alternatives, reviewing legal frameworks, and increasing investment in healthcare, sanitation, and safeguards against torture."
-      },
-      {
-        "front": "Why does the article express skepticism about the actual implementation of the announced prison reforms?",
-        "back": "The article doubts implementation due to politicians' self-serving advocacy, their potential to treat commitments as mere formalities, and their traditional lack of humility in addressing systemic inequalities they benefit from."
-      },
-      {
-        "front": "How does the article characterize the existing penal system in Pakistan regarding human rights and power?",
-        "back": "It characterizes the penal system as a colonial-era remnant, deeply flawed, understanding only the logic of power, where punishment severity depends on a person's influence, disproportionately affecting the poor and voiceless."
-      },
-      {
-        "front": "What fundamental shift in leadership perspective does the article propose for achieving meaningful prison reform?",
-        "back": "It proposes that national leadership must 'decolonise their conceptions of power' and learn to see and treat the weakest citizen as their equal, coming to terms with the inequalities they benefit from."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783389431657-543",
-    "title": "Public narrative vs silent reality\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013087/public-narrative-vs-silent-reality",
-    "date": "2026-07-05",
-    "author": "none@none.com (Nadeem ul HaqueShahid Kardar)",
-    "content": "EVERY two months, the State Bank of Pakistan announces an interest rate. The announcement is treated as serious economic medicine. Hiking of the rate is presented as a fight against inflation and cuts as a spur to growth. Either way, the public narrative is the same: adults are managing the fragile economy with a sophisticated tool. What rarely gets mentioned is the trillions of rupees the SBP, quietly and regularly, pumps directly into the banking system with no public scrutiny or debate. On current ledger this funding is a staggering Rs16 trillion, while the press conference talks about need for continued tightening.\nSBP raises interest rates to make money more expensive and slow down spending, because excessive spending drives up prices. That is the stated logic. But its actual operations contradict its stated policy as it pumps trillions into the system. More money circulating fuels spending, driving inflation higher.\nThis glaring contradiction requires understanding what that money is actually for. It is not going into productive investments and factories. It is financing the government’s deficits. Here is how the cycle works. The government spends more than it collects in taxes. To cover the gap, it borrows from banks. The injections exist because the banking system is the government’s primary lender, and it borrows so heavily that banks run dry. SBP then steps in and refills their coffers. The government stays funded. The banks stay liquid. And the illusion of financial stability is maintained.\nWhen a government cannot control spending, it forces SBP to finance its spending, regardless of what the central bank says its policy is. The interest rate becomes a meaningless number on a press release. SBP’s unwritten policy appears to be simple: keep the government funded, whatever the cost. Furthermore, changes in interest rates are supposed to change behaviour. SBP’s continuous lending to the banks generates substantial profits for it, which flow back to the government as non-tax revenue. This circular loop results in the net cost of borrowing for the government being virtually zero — less than 0.5 per cent. At a price that doesn’t inflict pain why would anyone’s behaviour change?\nIs the State Bank fighting inflation or financing government?\nIndustrialists and chambers of commerce continuously lobby for lower interest rates. They are wrong, but not for the reasons they think. If SBP were to stop injecting money into the banking system, the interest rate would not fall but rise. Banks would have to compete fiercely for whatever money exists in the market. And the interest rate, the price of money, would be bid up to levels higher than what SBP has announced. The rate we see is already an artificially suppressed number. The IMF, supposedly the guardian of sound monetary policy, looks the other way, while trillions are injected to defend the interest rate just announced.\nThe lobby demanding cheaper credit is, without knowing it, already receiving a subsidy. The market-clearing rate would be higher than the announced policy rate, not lower. The debate for rate cuts rests on a misunderstanding of how the current rate is being manufactured.\nThis brings us to another belief that policymakers and commentators here routinely get wrong: the idea that Pakistan’s inflation is caused by supply shocks, energy prices or global commodity markets which are forces beyond SBP’s control. Hence, the monetary policy cannot be blamed. This narrative is convenient — and wrong. Supply shocks can cause a one-time spike in prices, but cannot sustain inflation (a compounding increase in prices) month after month. Sustained inflation requires fuel which SBP provides by creating money, the trillions it injects into the financial system.\nThe bank officially claims to operate under a framework of ‘inflation targeting’. It sets an inflation target range (currently between 5pc and 7pc) and uses interest rates as its principal instrument to hit it. But monetary policy only works when governments live within their means. To be fair, there are other complications also at play that dilute the effectiveness of an interest rate increase — the unpredictability of government taxation, ad hoc increases in administered prices of energy, petroleum products, etc, and its regulatory distortion. These influences shape inflationary expectations of economic actors, which feeds into prices. Then there are factors: donor inflows, the informal economy reflected in the Rs12tr cash in circulation, SBP-sponsored concession export schemes and Rs14tr of remittances. All combine to create demand for goods and services that is largely impervious to interest rates.\nHowever, they are not the primary driver. The biggest culprit, by a considerable distance, is the government and its insatiable appetite for spending that it cannot finance through taxation: total government borrowings for budgetary support today are Rs36tr — the equivalence of 120pc of bank deposits. Furthermore, a closer look at SBP interventions reveals that the real anchor is not inflation, but the exchange rate. When Pakistan is under an IMF programme, the rupee is kept relatively stable. When the programme ends and the rupee slides, inflation follows immediately. This sequence tells you something important. If it is the exchange rate actually driving prices, then the interest rate is just a prop in a performance.\nThe honest conversation is straightforward. Either the government controls its spending addiction so that SBP can genuinely pursue an inflation target, or admit that inflation targeting is theatre. Presently, we suffer the worst of both worlds: the rhetoric of a disciplined SBP masking the grim reality of a monetary system that quietly funds whatever the government cannot afford. The real question is whether anyone in authority has the courage to say it plainly.\nThe interest rate is not actually a tool of inflation control, but a number announced while the real business of money creation happens elsewhere, out of sight and largely out of public conversation. Therefore, the next time industrialists demand cheaper credit they should be asked: cheaper than what? The rate is already a fiction. The unsubsidised truth would cost considerably more.\nNadeem ul Haque is former VC PIDE and deputy chair of the Planning Commission. Shahid Kardar is a former governor of the State Bank of Pakistan.\nPublished in Dawn, July 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Economics / Pakistan Affairs / Current Affairs",
-    "topic": "Monetary Policy Paradox: SBP's Inflation Targeting vs. Government Deficit Financing",
-    "whyMatters": "This article exposes a critical dysfunction in Pakistan's economic management, highlighting how official monetary policy often masks the true drivers of inflation and government financing. Aspiring civil servants must understand this divergence between public narrative and actual operations to offer informed policy solutions for sustainable economic stability.",
-    "summary": [
-      "The State Bank of Pakistan's stated policy of hiking interest rates to fight inflation is contradicted by its covert injection of trillions into the banking system.",
-      "These injections primarily finance the government's budget deficits, making the banking system the government's primary lender and maintaining its liquidity.",
-      "This continuous funding effectively makes the net cost of borrowing for the government almost zero, negating any incentive for fiscal discipline and fueling sustained inflation.",
-      "The article argues that the exchange rate, particularly under IMF programs, is the actual anchor for prices, not the announced interest rate, making inflation targeting a 'theatre'."
-    ],
-    "facts": [
-      "SBP's current ledger of funding pumped directly into the banking system is a staggering Rs16 trillion.",
-      "Total government borrowings for budgetary support today are Rs36 trillion, equivalent to 120% of bank deposits.",
-      "The net cost of borrowing for the government, due to SBP's circular financing loop, is virtually zero (less than 0.5%)."
-    ],
-    "academicReferences": [
-      "IMF Stand-By Arrangement (SBA) reviews and conditions for Pakistan",
-      "Fiscal Responsibility and Debt Limitation Act, 2005 (Pakistan)",
-      "State Bank of Pakistan's Monetary Policy Statements and Annual Reports"
-    ],
-    "vocabulary": [
-      {
-        "word": "impervious",
-        "type": "adjective",
-        "definition": "unaffected by; resistant to.",
-        "sentence": "The demand for goods and services in Pakistan is largely impervious to interest rates due to other economic factors."
-      },
-      {
-        "word": "insatiable",
-        "type": "adjective",
-        "definition": "impossible to satisfy; greedy.",
-        "sentence": "The government's insatiable appetite for spending is identified as the biggest culprit for Pakistan's economic woes."
-      },
-      {
-        "word": "concession",
-        "type": "noun",
-        "definition": "a special right or privilege granted.",
-        "sentence": "SBP-sponsored concession export schemes contribute to the overall demand for goods and services."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason the State Bank of Pakistan (SBP) injects trillions of rupees into the banking system?",
-        "options": [
-          "To finance the government's budget deficits.",
-          "To increase the liquidity of commercial banks for productive investments.",
-          "To lower interest rates for industrialists.",
-          "To reduce the national debt burden."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'It is financing the government’s deficits... SBP then steps in and refills their coffers. The government stays funded.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the fundamental contradiction highlighted regarding SBP's monetary policy?",
-        "back": "SBP announces interest rate hikes to combat inflation but simultaneously pumps trillions into the banking system to finance government deficits, which fuels inflation."
-      },
-      {
-        "front": "How does SBP's continuous lending affect the government's cost of borrowing and its fiscal behavior?",
-        "back": "It results in a net cost of borrowing for the government being virtually zero (less than 0.5%), removing any incentive for fiscal discipline."
-      },
-      {
-        "front": "Why does the article dismiss the common belief that Pakistan's inflation is caused mainly by supply shocks?",
-        "back": "Supply shocks cause one-time price spikes, but sustained inflation requires continuous money creation, which SBP provides through its injections."
-      },
-      {
-        "front": "What does the article suggest is the actual anchor for prices in Pakistan, especially under IMF programs, rather than the policy interest rate?",
-        "back": "The exchange rate, which tends to stabilize under IMF programs, is presented as the real anchor for prices."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783302811151-525",
-    "title": "Security without safety",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013088/security-without-safety",
-    "date": "2026-07-05",
-    "author": "none@none.com (Muhammad Amir Rana)",
-    "content": "PAKISTAN has never enjoyed an ideal law-and-order situation. Ethnic conflicts, religiously motivated terrorism, tribal feuds, organised crime, political violence and weak policing have remained persistent features of the state. Over the last three decades, these challenges have evolved into a far more complex security landscape. Urban crime has expanded, organised criminal syndicates have become more sophisticated, terrorism and insurgencies have persisted and criminal and militant economies have increasingly overlapped.\nThe result is a multidimensional crisis that affects not only citizens’ security but also econo­mic growth, investment, social cohesion and state legitimacy. The most visible deterioration has occurred during the last five years. Major urban centres, once considered relatively insulated from conflict, are increasingly exposed to violent crime, extortion, targeted killings, cyber-enabled criminality and sporadic terrorist attacks. The traditional distinction between militancy and criminality is also becoming blurred as terrorist organisations increasingly rely on criminal networks for financing and logistics, while criminal gangs exploit conflict environments for profit.\nPakistan’s major cities continue to function economically, but perceptions of insecurity are growing. Vehicle theft, abductions, fraud, drug trafficking, sexual violence and organised robberies have become serious concerns. Kidnapping for ransom is again emerging as a significant challenge in Balochistan and KP, while Sindh and Punjab are witnessing similar trends.\nAt the same time, Pakistan’s policing system remains largely unchanged from the colonial structure inherited at independence. Successive governments have promised police reforms, yet political interference, administrative weakness and institutional neglect have prevented meaningful modernisation. The police continue to function as a political instrument rather than an autonomous public service institution.\nInstead of investing in accountable policing, the authorities are relying on coercive legislation.\nAs political institutions have weakened, civilian law-enforcement agencies have increasingly become subordinate to stronger security institutions. The priorities of these institutions naturally revolve around counterterrorism, insurgency, and national security threats. Consequently, ordinary policing, crime prevention, investigation and community safety receive limited attention.\nThis imbalance is producing troubling outco­mes. Instead of investing in accountable policing, professional investigations and local intelligence systems, governments increasingly rely on coercive legislation. The Punjab Control of Habi­t­u­­al Offenders and Anti-Social Behavior Bill, 2026, is a recent example of this trend. The proposed legislation grants extensive powers to executive committees dominated by police and intelligence officials to monitor, restrict and penalise individuals even without prior criminal convictions.\nOn one hand, the state seeks greater control over citizens’ social behaviour through expansive legal powers. On the other hand, organised criminal networks continue to flourish in areas such as the riverine belt of Punjab and Sindh, where successive governments have struggled to establish the writ of the state and, at times, have even negotiated with or pardoned criminal actors.\n    \nBalochistan presents perhaps the most complex manifestation of Pakistan’s law-and-order crisis. Militant organisations, including Baloch insurgent groups and the TTP, increasingly operate in overlapping geographical spaces despite their divergent ideological and political objectives. Their coexistence is facilitated by informal understandings, parallel economies and the extraction of financial resources, without directly challenging each other.\nQuetta has emerged as a particularly vulnerable urban centre. The city remains a target for terrorist and insurgent attacks while simultaneously experiencing the rise of criminal gangs involved in kidnappings, extortion and violent crime. Various perceptions surround these groups, including allegations that some consist of former Afghan security personnel coming here after political changes in Afghanistan. Whatever their origins, these groups have introduced another layer of insecurity in the provincial capital.\nEven more alarming is the security situation on highways connecting Quetta to the rest of the province and country. Despite heavy deployment within the city, major roads remain vulnerable to attacks, extortion and other criminal activity. Traders, transporters and mine owners have repeatedly protested against the deteriorating situation, demanding safe movement and effective state protection. The issue has become so serious that members of the provincial assembly have publicly stated that even ministers cannot safely travel to their constituencies.\nThe merger of the century-old Levies Force into the Balochistan Police represents one of the most significant institutional reforms undertaken in the province. The abolition of the distinction bet­w­e­en A and B areas was intended to establish a uniform system of law enforcement and stren­gthen the state’s writ. However, the transition has also created operational challenges. The Levies possessed deep local roots, intimate knowledge of tribal dynamics and strong community trust. Their disappearance has created intelligence and trust deficits in several rural areas. While the police believe the benefits of the merger will emerge over the longer term, weak institutional capacity, procedural differences, low conviction rates and limited resources have combined to produce temporary governance vacuums.\nKP faces a different but equally dangerous situation. Terrorist organisations, including the TTP, IS-K, the Gul Bahadur group, and various criminal networks, have increasingly penetrated urban areas through extortion, targeted violence and digital intimidation. Businessmen, politicians and wealthy individuals in cities such as Peshawar and Swat face extortion demands delivered through internet-based communications from cross-border sanctuaries.\nThe provincial government has attempted to strengthen specialised police units, expand Safe City projects, and seek additional federal support, but financial constraints continue to limit these efforts.\nThe experience of Azad Kashmir also offers important lessons. There, the police have mismanaged political and economic protests through coercive means. The excessive use of force, external deployments and the securitisation of political grievances transformed governance disputes into law-and-order crises.\nThe policy responses must also differ across provinces. Experts argue that in Balochistan, the priority should not be reversing the Levies merger but rather properly localising and civilianising the new policing structure while rebuilding community trust. Punjab requires greater accountability and specialisation within its expanding policing architecture. KP needs a clearer police-military operating framework that defines responsibilities and strengthens civilian law-enforcement capacities. Azad Kashmir requires political dialogue mechanisms to prevent governance disputes from escalating into security crises.\nUnless Pakistan places civilian policing and public safety at the centre of its security strategy, the gap between state power and citizen security will continue to widen.\nThe writer is a security expert.\nPublished in Dawn, July 5th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Current Affairs / Pakistan Affairs",
-    "topic": "Internal Security, Law and Order Challenges, and Policing Reforms in Pakistan",
-    "whyMatters": "This article does not directly address Pakistan's role in ECO or regional integration, therefore it is not relevant to the specified past exam question. However, it is critically important for understanding Pakistan's pervasive internal security challenges, weak policing structures, and their impact on governance and socio-economic stability, making it highly valuable for questions on national security, law enforcement reforms, and provincial challenges in Pakistan.",
-    "summary": [
-      "Pakistan's historic law-and-order issues have evolved into a complex multidimensional crisis, marked by blurred lines between militancy and criminality, impacting security, economy, social cohesion, and state legitimacy.",
-      "Major urban centers face growing insecurity from violent crime, extortion, targeted killings, and cyber-enabled criminality, while organised criminal syndicates and terrorist groups increasingly overlap.",
-      "Pakistan's colonial-era policing system remains unchanged, suffering from political interference and institutional neglect, with authorities prioritizing coercive legislation and stronger security institutions over accountable community policing.",
-      "Provincial challenges are distinct: Balochistan struggles with overlapping militant/criminal activities and operational issues post-Levies merger; KP faces urban penetration by terrorist and criminal networks; Azad Kashmir experiences security crises from mismanaged protests."
-    ],
-    "facts": [
-      "The most visible deterioration in law and order has occurred during the last five years.",
-      "The Punjab Control of Habitual Offenders and Anti-Social Behavior Bill, 2026, is cited as a recent example of coercive legislation.",
-      "Kidnapping for ransom is re-emerging as a significant challenge in Balochistan, KP, Sindh, and Punjab.",
-      "The merger of the century-old Levies Force into the Balochistan Police aimed to abolish 'A and B areas' distinction but created intelligence and trust deficits in rural areas."
-    ],
-    "academicReferences": [
-      "National Internal Security Policy (NISP), Government of Pakistan (e.g., 2014-2018 or subsequent iterations)",
-      "Police Order 2002, Government of Pakistan (for historical police reform attempts)",
-      "Human Rights Commission of Pakistan (HRCP) Annual Reports (latest available for law-and-order overview)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Coercive",
-        "type": "adjective",
-        "definition": "Relating to or using force or threats.",
-        "sentence": "Instead of investing in accountable policing, the authorities are relying on coercive legislation."
-      },
-      {
-        "word": "Securitisation",
-        "type": "noun",
-        "definition": "The process of treating something as a security issue, giving it high priority and often military or intelligence involvement.",
-        "sentence": "The excessive use of force, external deployments and the securitisation of political grievances transformed governance disputes into law-and-order crises."
-      },
-      {
-        "word": "Writ of the state",
-        "type": "idiom",
-        "definition": "The authority and power of the government to enforce laws and maintain order within its territory.",
-        "sentence": "Organised criminal networks continue to flourish in areas where successive governments have struggled to establish the writ of the state."
-      },
-      {
-        "word": "Insulated",
-        "type": "adjective",
-        "definition": "Protected from something; separated from outside influences.",
-        "sentence": "Major urban centres, once considered relatively insulated from conflict, are increasingly exposed to violent crime."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT identified as a contributing factor to Pakistan's complex security landscape?",
-        "options": [
-          "Ethnic conflicts",
-          "Religiously motivated terrorism",
-          "Strong and accountable policing",
-          "Organised crime"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states 'weak policing' as a persistent feature, not strong and accountable policing."
-      },
-      {
-        "question": "The author criticizes the authorities for relying on what instead of investing in accountable policing?",
-        "options": [
-          "Community engagement programs",
-          "Coercive legislation",
-          "International police training",
-          "Cybersecurity frameworks"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Instead of investing in accountable policing, the authorities are relying on coercive legislation.'"
-      },
-      {
-        "question": "What was an immediate consequence of the merger of the Levies Force into the Balochistan Police?",
-        "options": [
-          "A significant increase in community trust across rural areas.",
-          "The complete eradication of militant organizations in Balochistan.",
-          "The creation of intelligence and trust deficits in several rural areas.",
-          "A dramatic improvement in conviction rates due to new procedures."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Their disappearance has created intelligence and trust deficits in several rural areas.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism leveled against Pakistan's policing system in the article?",
-        "back": "The policing system remains largely unchanged from its colonial structure, functioning as a political instrument rather than an autonomous public service, plagued by political interference, administrative weakness, and institutional neglect."
-      },
-      {
-        "front": "How does the article describe the blurring distinction between militancy and criminality?",
-        "back": "Terrorist organizations increasingly rely on criminal networks for financing and logistics, while criminal gangs exploit conflict environments for profit, creating an overlap that exacerbates the security crisis."
-      },
-      {
-        "front": "According to the article, what is the 'imbalance' producing troubling outcomes in Pakistan's security strategy?",
-        "back": "The imbalance is the reliance on coercive legislation and the subordination of civilian law-enforcement agencies to stronger security institutions (prioritizing national security threats), rather than investing in accountable policing, professional investigations, and local intelligence systems for public safety."
-      },
-      {
-        "front": "What specific policy recommendation is suggested for Punjab regarding its policing architecture?",
-        "back": "Punjab requires greater accountability and specialisation within its expanding policing architecture, rather than a focus on coercive legislation or subordination to stronger security institutions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783560607268-288",
-    "title": "Pak-India dialogue?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013084/pak-india-dialogue",
-    "date": "2026-07-05",
-    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
-    "content": "FOR the past 10 years, India’s BJP government has adopted a policy of complete disconnect with Pakistan. Even people-to-people and sporting links have been stopped. During this period, India has carried out three kinetic aggressions against Pakistan: September 2016, February 2019 and May 2025. As South Asia witnesses deepening estrangement, the world has moved on. Far-reaching strategic shifts have affected the geopolitics of West Asia, Europe and East Asia. The US and Iran have fought a 40-day war and are now negotiating a peace settlement, helped by Pakistan and Qatar. The US and China have agreed to steer their competition towards “strategic stability”.\n\nFour major factors have bedevilled bilateral ties since 1947: mutual mistrust, the unresolved dispute over Jammu and Kashmir, India’s use of terrorism to malign Pakistan and New Delhi’s pursuit of regional dominance in South Asia. Most recently, India’s decision to suspend the Indus Waters Treaty (IWT) further marred relations between the two countries.\n\nHow does one go from conflict to dialogue? Since Pakistan and India remain embroiled in kinetic confrontations below a nuclear overhang, there is an urgent need to come up with ways to defuse tensions during crises. The two countries are technically still at war because Operation Sindoor launched by India in May 2025 has not formally ended. India also refuses to accept the role of third parties for conflict resolution. If another major crisis erupts, there could be serious implications for the people of both countries. Given that Pakistan and India possess lethal autonomous weapons like missiles and armed drones, and the reaction time is critically short, any potential conflict could spiral out of control.\n\nThe only channel of communications is the weekly telephonic call between the DGMOs of the two countries. So, it’s important that both states institute additional channels of communication to address crisis situations. For instance, they could put the national security advisers in regular contact. Another useful measure could be for high commissioners to return to their positions.\n\nThere’s an urgent need to find ways to defuse tensions during crises.\n\nBeyond crisis management, the two countries should think about installing dedicated backchannel links. One such backchannel evolved a four-point formula to resolve the Kashmir dispute in 2007. At this point in time, a dedicated backchannel on water sharing could be important. Since April 23, 2025, India has held the IWT in abeyance. Legally, it cannot unilaterally suspend the treaty. The Court of Arbitration has already ruled that India’s decision was illegal. Although India attributes the treaty’s suspension to alleged cross-border terrorism, the real reason seems to be its attempt to complete several projects on the three western rivers allocated to Pakistan and to force the latter to renegotiate the treaty.\n\nSince the lives and livelihoods of millions of Pakistanis depend on the Indus, Jhelum and Chenab, Pakistan has declared that any disruption or diversion of the waters would be dee-med an act of war. That means, the longer India continues with its plans to disrupt waters meant for Pakistan, the higher the chances of another major confrontation. As for India’s desire to renegotiate the treaty to factor in demographic and environmental considerations, it should first restore the IWT and then negotiate with Pakistan any suggested amendments that could be incorporated as an addendum to the treaty.\n\nOther possible measures to build mutual confidence could include the resumption of some people-to-people contacts, such as through pilgrimages, medical tr­­e­atment and di­­v­ided families’ re­­­-unions. South Asia’s climate vu­­lner­abi­lity is also an op­­portunity to work to­­g­ether for the com­­mon good. If the US sanctions on Iran are lift­­ed, India could review its earlier decision to pull out of the IPI gas pipeline. Likewise, TAPI has potential benefit for both countries. Suggestions have also been made for India to consider reviving Saarc — a forum which has traditionally provided avenues to defuse tensions and promote cooperation. India views Saarc as a platform where relatively smaller states team up to counter-balance India. If India does not shed this narrow viewpoint, Pakistan and Bangladesh might join hands with China to promote regional cooperation.\n\nSince the Modi government has taken a policy decision not to engage with Pakistan, the gulf is growing rapidly. In this situation, while keeping its doors open for dialogue, Pakistan has no choice but to remain prepared for any misadventure by New Delhi to possibly avenge India’s defeat in May 2025. Meanwhile, Pakistan needs to focus on its own economic security through better governance, continuity of economic policies and connectivity projects with friendly countries.\n\nThe writer is chairman of Sanober Institute.\n\nPublished in Dawn, July 5th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-IWT",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs",
-    "topic": "Indus Waters Treaty and India-Pakistan Relations",
-    "whyMatters": "This article is crucial for competitive exam students because it directly addresses the impacts of the Indus Waters Treaty (IWT) on India-Pakistan relations, detailing India's unilateral suspension of the treaty and Pakistan's strong reaction. It offers a contemporary perspective on how the IWT dispute exacerbates long-standing bilateral tensions, providing specific dates and legal challenges that can be quoted in answers.",
-    "summary": [
-      "India's BJP government has pursued a decade-long policy of complete disconnect with Pakistan, including kinetic aggressions and suspension of people-to-people contacts, while the global geopolitical landscape undergoes significant shifts.",
-      "Four major factors, including mutual mistrust, the Kashmir dispute, India's alleged use of terrorism against Pakistan, and its pursuit of regional dominance, continue to bedevil bilateral ties, with the recent unilateral suspension of the Indus Waters Treaty (IWT) further marring relations.",
-      "The article emphasizes the urgent need for enhanced communication channels and crisis management mechanisms, like regular contact between National Security Advisers or high commissioners, given the risk of escalation in kinetic confrontations under a nuclear overhang.",
-      "India's unilateral suspension of the IWT on April 23, 2025, is legally challenged (ruled illegal by the Court of Arbitration) and seen by Pakistan as an attempt to force renegotiation, with any disruption of waters meant for Pakistan deemed an act of war.",
-      "Beyond crisis management, the article suggests confidence-building measures like resuming people-to-people contacts, exploring regional cooperation through climate vulnerability initiatives, reviving the IPI/TAPI pipelines, and reconsidering SAARC, while Pakistan must remain prepared for misadventure and focus on its economic security."
-    ],
-    "facts": [
-      "India's BJP government has adopted a policy of complete disconnect with Pakistan for the past 10 years.",
-      "India carried out three kinetic aggressions against Pakistan: September 2016, February 2019, and May 2025 (Operation Sindoor).",
-      "India unilaterally suspended the Indus Waters Treaty (IWT) on April 23, 2025, a decision subsequently ruled illegal by the Court of Arbitration.",
-      "A backchannel in 2007 evolved a four-point formula to resolve the Kashmir dispute.",
-      "The article was published in Dawn on July 5th, 2026."
-    ],
-    "academicReferences": [
-      "Indus Waters Treaty (1960): The foundational bilateral agreement governing water distribution between Pakistan and India.",
-      "Simla Agreement (1972): A bilateral agreement between India and Pakistan that sought to normalize relations and resolve disputes peacefully.",
-      "United Nations Convention on the Law of the Non-Navigational Uses of International Watercourses (1997): Provides general principles for international watercourse management, offering a broader legal framework for water disputes."
-    ],
-    "vocabulary": [
-      {
-        "word": "Kinetic aggressions",
-        "type": "noun phrase",
-        "definition": "Military actions involving physical force or movement, as opposed to diplomatic or economic pressures.",
-        "sentence": "During this period, India has carried out three kinetic aggressions against Pakistan."
-      },
-      {
-        "word": "Bedevilled",
-        "type": "verb",
-        "definition": "To torment, trouble, or plague, often in a persistent or malicious way.",
-        "sentence": "Four major factors have bedevilled bilateral ties since 1947."
-      },
-      {
-        "word": "Nuclear overhang",
-        "type": "noun phrase",
-        "definition": "The pervasive threat or influence of nuclear weapons in a conflict or region, implying potential for catastrophic escalation.",
-        "sentence": "Since Pakistan and India remain embroiled in kinetic confrontations below a nuclear overhang, there is an urgent need to come up with ways to defuse tensions during crises."
-      },
-      {
-        "word": "In abeyance",
-        "type": "adjective phrase",
-        "definition": "In a state of temporary disuse or suspension.",
-        "sentence": "Since April 23, 2025, India has held the IWT in abeyance."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what was India's primary alleged reason for suspending the Indus Waters Treaty (IWT)?",
-        "options": [
-          "Alleged cross-border terrorism.",
-          "To factor in demographic and environmental considerations.",
-          "To divert water for agricultural expansion in India.",
-          "Pakistan's refusal to renegotiate the treaty terms."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'Although India attributes the treaty’s suspension to alleged cross-border terrorism...'"
-      },
-      {
-        "question": "What is Pakistan's declared stance regarding any disruption or diversion of the Indus, Jhelum, and Chenab waters?",
-        "options": [
-          "It would be brought before the UN Security Council.",
-          "It would be considered a breach of international law.",
-          "It would be deemed an act of war.",
-          "It would result in economic sanctions against India."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'Pakistan has declared that any disruption or diversion of the waters would be dee-med an act of war.'"
-      },
-      {
-        "question": "Which of the following communication channels is currently the 'only channel' between the two countries, as per the article?",
-        "options": [
-          "Weekly telephonic call between the DGMOs.",
-          "Regular contact between National Security Advisers.",
-          "High commissioners in their respective positions.",
-          "Backchannel links on water sharing."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article mentions, 'The only channel of communications is the weekly telephonic call between the DGMOs of the two countries.'"
-      },
-      {
-        "question": "What was the legal standing of India's decision to suspend the IWT, according to the article?",
-        "options": [
-          "It was legally permissible under a special clause.",
-          "It was deemed illegal by the Court of Arbitration.",
-          "It was supported by international consensus.",
-          "It was a temporary measure awaiting bilateral agreement."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Legally, it cannot unilaterally suspend the treaty. The Court of Arbitration has already ruled that India’s decision was illegal.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the four major factors that have historically bedevilled bilateral ties between Pakistan and India?",
-        "back": "Mutual mistrust, the unresolved dispute over Jammu and Kashmir, India's use of terrorism to malign Pakistan, and New Delhi’s pursuit of regional dominance in South Asia."
-      },
-      {
-        "front": "How has India's suspension of the Indus Waters Treaty (IWT) impacted Pakistan-India relations according to the article?",
-        "back": "It has further marred relations, with Pakistan viewing any disruption or diversion of waters as an act of war, increasing chances of major confrontation and highlighting India's perceived attempt to force renegotiation after a Court of Arbitration ruled the suspension illegal."
-      },
-      {
-        "front": "Beyond crisis management, what key area does the article suggest for installing dedicated backchannel links?",
-        "back": "Given India's unilateral suspension of the IWT, a dedicated backchannel on water sharing is suggested to resolve issues surrounding the treaty."
-      },
-      {
-        "front": "What specific measures does the article suggest to build mutual confidence between Pakistan and India?",
-        "back": "Resumption of people-to-people contacts (pilgrimages, medical treatment, family reunions), working together on climate vulnerability, India reviewing its decision on the IPI gas pipeline, exploring TAPI, and reviving SAARC as a forum for cooperation."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783389843557-212",
-    "title": "Dangerous syringes\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013081/dangerous-syringes",
-    "date": "2026-07-05",
-    "author": "none@none.com (Editorial)",
-    "content": "INNOCENCE stands overwhelmed by another health emergency. The HIV crisis, beyond surging statistics — over 350,000 people live with the virus — has reached children and low-risk persons who contracted the disease through the very healthcare system meant to keep them safe. The Sindh High Court has directed the provincial health secretary and police chief to submit detailed accounts of the investigation regarding the HIV eruption at Karachi’s Kulsoom Bai Valika Hospital in November. Apparently caused by the reuse of infected syringes and medical oversight, the fiasco affected over 200 children, and resulted in several preventable deaths. Two failures have driven the ‘man-made epidemic’: a broken infection control framework, and syringe reuse even though conventional disposable syringes were banned in 2021. Outbreaks at hospitals in Karachi, Larkana, Multan and Taunsa now occur with troubling frequency. In some instances, even one-year olds have been diagnosed with HIV following clinic visits. Sindh has laws aplenty. Yet, the Sindh Regulation and Control of Disposable Syringes Act, 2010, is poorly implemented, and accountability missing.\nMeanwhile, the response has been knee-jerk. In another bid to curtail the spread of contagious infections, including HIV and hepatitis C, Prime Minister Shehbaz Sharif has imposed a ban on the production and use of substandard syringes in the country, ordering action against those found guilty of negligence. Will these instructions be followed? Earlier, the Pakistan Medical Association had warned against the shocking presence of wrongly marked ‘auto-disabled’ syringes. Without a national databank, transparency and evaluations by specialists, infection control protocols will fail: specifically, sterilisation, screened blood, single-use syringes, skilled staff, disease monitoring and zero tolerance for non-compliance. Over the last two decades, HIV infections have spiked by nearly 200pc. It is time the curtain came down on this theatre of misery.\nPublished in Dawn, July 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / Current Affairs / Governance & Public Policy",
-    "topic": "Public Health Crisis & Governance Failures in Pakistan",
-    "whyMatters": "This article highlights critical systemic failures in Pakistan's healthcare, particularly regarding infection control and the implementation of health laws. Aspirants can leverage this analysis to discuss governance challenges, policy implementation gaps, and public health ethics in their competitive exams.",
-    "summary": [
-      "Pakistan is experiencing a severe HIV crisis where the healthcare system itself is a vector for infections, impacting children and low-risk individuals due to medical oversight.",
-      "The 'man-made epidemic' is primarily driven by a fractured infection control framework and the rampant reuse of syringes, even after conventional disposable syringes were banned in 2021.",
-      "Despite existing legislation, such as the Sindh Regulation and Control of Disposable Syringes Act, 2010, its poor implementation and a critical lack of accountability perpetuate outbreaks.",
-      "Government responses have been 'knee-jerk' and inadequate; effective infection control necessitates systemic reforms including a national databank, specialist evaluations, and strict adherence to protocols like single-use syringes and screened blood."
-    ],
-    "facts": [
-      "Over 350,000 people live with HIV in Pakistan.",
-      "HIV infections in Pakistan have spiked by nearly 200% over the last two decades.",
-      "The HIV eruption at Karachi's Kulsoom Bai Valika Hospital affected over 200 children.",
-      "Conventional disposable syringes were banned in Pakistan in 2021."
-    ],
-    "academicReferences": [
-      "World Health Organization (WHO) Guidelines on Injection Safety and Infection Prevention and Control",
-      "Pakistan's National Health Vision 2025 / Sustainable Development Goals (SDG 3: Good Health and Well-being)",
-      "UNAIDS Global AIDS Strategy 2021-2026: End Inequalities. End AIDS."
-    ],
-    "vocabulary": [
-      {
-        "word": "overwhelmed",
-        "type": "adjective",
-        "definition": "Buried or drowned beneath a huge mass; overcome with emotion or excessive tasks.",
-        "sentence": "Innocence stands overwhelmed by another health emergency, highlighting the severity of the crisis."
-      },
-      {
-        "word": "fiasco",
-        "type": "noun",
-        "definition": "A complete failure, especially a ludicrous or humiliating one.",
-        "sentence": "Apparently caused by the reuse of infected syringes, the fiasco affected over 200 children."
-      },
-      {
-        "word": "knee-jerk",
-        "type": "adjective",
-        "definition": "(Of a response) automatic and unthinking; immediate but not thoroughly considered.",
-        "sentence": "Meanwhile, the response has been knee-jerk, indicating a lack of comprehensive, strategic planning."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what are the two primary failures driving the 'man-made epidemic' of HIV infections in Pakistan?",
-        "options": [
-          "A) A broken infection control framework and syringe reuse.",
-          "B) Lack of funding for hospitals and inadequate medical equipment.",
-          "C) Low public awareness about HIV and insufficient testing facilities.",
-          "D) Limited availability of medical professionals and lack of specialized training."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states: 'Two failures have driven the ‘man-made epidemic’: a broken infection control framework, and syringe reuse even though conventional disposable syringes were banned in 2021.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the primary systemic causes identified in the article for the surge in HIV infections in Pakistan, beyond individual cases?",
-        "back": "The primary systemic causes are a broken infection control framework within the healthcare system and the widespread reuse of syringes, despite existing bans."
-      },
-      {
-        "front": "Despite legal provisions, why has the Sindh Regulation and Control of Disposable Syringes Act, 2010, been ineffective according to the article?",
-        "back": "The Act has been ineffective due to poor implementation and a critical lack of accountability for non-compliance, leading to continued outbreaks."
-      },
-      {
-        "front": "What specific measures does the article suggest are crucial for effective infection control protocols, contrasting with the government's 'knee-jerk' reactions?",
-        "back": "Effective infection control requires a national databank, transparency, evaluations by specialists, proper sterilisation, screened blood, single-use syringes, skilled staff, disease monitoring, and zero tolerance for non-compliance."
-      },
-      {
-        "front": "How does the article characterize the impact of the HIV crisis on vulnerable populations, particularly children?",
-        "back": "The article highlights that children and low-risk persons are contracting HIV through the very healthcare system meant to protect them, leading to preventable deaths and overwhelming innocence."
-      }
-    ]
-  },
-  {
-    "id": "curated-1783303383352-683",
-    "title": "The annual test\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2013082/the-annual-test",
-    "date": "2026-07-05",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN enters another monsoon season with little room for complacency. Last year’s rains claimed more than 1,000 lives, affected millions of people and left behind widespread destruction as floods, flash floods and landslides swept across the country. Homes were destroyed, roads and bridges washed away, crops damaged and communities cut off. Gilgit-Baltistan endured glacial lake outburst floods, while Punjab, KP, Sindh and Balochistan suffered heavy losses from intense showers. The damage extended beyond infrastructure, disrupting livelihoods and increasing pressure on already stretched public resources. Yet, despite these recurring disasters, Pakistan continues to rely too heavily on emergency relief instead of sustained preparedness. This year, the risks are mounting. Rapid glacier melt has already triggered flooding in parts of GB. The Met Office has, meanwhile, forecast above-normal rainfall this monsoon, warning of landslides in the northern regions and urban flooding in major cities. It has also cautioned that strong winds could damage electricity infrastructure, solar panels, trees and billboards.\nAgainst this backdrop, the prime minister’s review of monsoon preparedness is a welcome step. The decision to establish an Emergency Response Committee, hold weekly coordination meetings with the provinces, create an emergency relief fund, dispatch federal teams to all provinces, Azad Kashmir and GB, implement a flood mitigation roadmap, clear encroachments from flood pathways and mobilise all available administrative and technical resources reflects an awareness that disaster management cannot begin once floodwaters arrive. The additional allocation for major water infrastructure also acknowledges the need for longer-term investment. However, these decisions must be translated into action. Storm-water drains should be cleared before heavy rains begin, embankments and bridges inspected, rescue equipment and emergency shelters positioned in high-risk districts and early warning and evacuation systems put in place. Utility companies should inspect vulnerable transmission lines, local authorities should secure unstable billboards and hazardous trees and owners of rooftop solar systems should ensure mounting frames can withstand high winds. Local governments must be involved. Illegal construction on floodplains should be removed permanently. Pakistan cannot prevent every flood or landslide, but it can substantially reduce the loss of life and property if preparedness becomes a year-round priority rather than a seasonal exercise.\nPublished in Dawn, July 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / Current Affairs / Environmental Science / Public Administration",
-    "topic": "Disaster Management, Climate Change Vulnerability, and Governance in Pakistan",
-    "whyMatters": "This article is crucial for competitive exams as it directly addresses Pakistan's recurring climate vulnerabilities and disaster management challenges, a frequent topic in Current Affairs and Pakistan Affairs. It provides critical insights into the government's preparedness strategies, highlighting the need for proactive measures over reactive relief efforts, essential for policy-oriented questions.",
-    "summary": [
-      "Pakistan faces severe, recurring monsoon-related disasters, causing significant loss of life, property, and livelihoods across all provinces and regions.",
-      "Despite these annual calamities, Pakistan's disaster response remains predominantly reactive, focusing on emergency relief rather than sustained, proactive preparedness.",
-      "Recent governmental initiatives, including the Prime Minister's review, establishment of an Emergency Response Committee, and a flood mitigation roadmap, are positive steps towards better preparedness.",
-      "Effective disaster management requires urgent, year-round implementation of preparedness measures, long-term infrastructure investment, clearance of encroachments, and robust local government involvement."
-    ],
-    "facts": [
-      "Last year’s rains claimed more than 1,000 lives and affected millions of people.",
-      "The Met Office has forecast above-normal rainfall for the upcoming monsoon, warning of landslides and urban flooding.",
-      "Rapid glacier melt has already triggered flooding in parts of Gilgit-Baltistan."
-    ],
-    "academicReferences": [
-      "National Disaster Management Act, 2010 (Pakistan's legal framework for disaster management)",
-      "Sendai Framework for Disaster Risk Reduction 2015-2030 (Global policy guide for DRR)",
-      "Pakistan's National Climate Change Policy 2012 (updated 2021) (National policy addressing climate vulnerabilities)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Complacency",
-        "type": "noun",
-        "definition": "a feeling of uncritical satisfaction with oneself or one's achievements.",
-        "sentence": "Pakistan enters another monsoon season with little room for complacency, given last year's devastating floods."
-      },
-      {
-        "word": "Encroachments",
-        "type": "noun",
-        "definition": "an intrusion on a person's territory, rights, or property; also, gradual intrusion or unlawful seizure.",
-        "sentence": "The flood mitigation roadmap emphasizes clearing encroachments from flood pathways to prevent future destruction."
-      },
-      {
-        "word": "Mitigation",
-        "type": "noun",
-        "definition": "the action of reducing the severity, seriousness, or painfulness of something.",
-        "sentence": "The government's decision to implement a flood mitigation roadmap reflects a commitment to reducing disaster impact."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as a primary reason for Pakistan's recurring heavy losses from monsoon disasters?",
-        "options": [
-          "Over-reliance on emergency relief instead of sustained preparedness.",
-          "Lack of accurate weather forecasting by the Met Office.",
-          "Insufficient international aid for disaster-stricken areas.",
-          "Absence of any governmental review of monsoon preparedness."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'Yet, despite these recurring disasters, Pakistan continues to rely too heavily on emergency relief instead of sustained preparedness.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What key shift in disaster management approach does the article advocate for Pakistan?",
-        "back": "The article advocates for a shift from relying heavily on emergency relief to prioritizing sustained, year-round preparedness."
-      },
-      {
-        "front": "Name two specific regions/provinces mentioned in the article that suffered heavy losses from last year's monsoon.",
-        "back": "Gilgit-Baltistan (due to GLOFs) and provinces like Punjab, KP, Sindh, and Balochistan."
-      },
-      {
-        "front": "What is one critical measure the article suggests for immediate monsoon preparedness before heavy rains begin?",
-        "back": "Clearing storm-water drains, inspecting embankments and bridges, positioning rescue equipment, or establishing early warning and evacuation systems."
-      },
-      {
-        "front": "How does the article link illegal construction to disaster vulnerability?",
-        "back": "It states that illegal construction on floodplains should be removed permanently to substantially reduce the loss of life and property."
       }
     ]
   }
