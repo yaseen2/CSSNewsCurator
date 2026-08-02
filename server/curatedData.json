@@ -127,6 +127,88 @@
     ]
   },
   {
+    "id": "curated-1785634295362-948",
+    "title": "Dirty data centres\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2019835/dirty-data-centres",
+    "date": "2026-08-01",
+    "author": "none@none.com (Rafia Zakaria)",
+    "content": "ABOUT a week ago, Prime Minister Shehbaz Sharif inaugurated what is billed as Pakistan’s largest data centre. The 8.5 MW facility is the creation of Sky47 AI Cloud, which is also reported to be constructing a slightly smaller 5 MW data centre at Karachi’s Port Qasim. According to speeches made at the event, the data centres are intended to provide the hard infrastructure for Pakistan’s artificial intelligence needs. \nThere is no doubt that the world is clamouring to build data centres. In the US, industrial developers are buying up cheap rural land to locate massive data centres there. The biggest one, planned for a rural county in Utah, is intended to be some three times the size of Manhattan. Initial plans showed it at 40,000 acres, but after a Utah lawmaker pushed to shrink that footprint by three quarters, it shall be completed over 10,000 acres. It is expected to draw 7,000 to 9,000 MW. It is also expected to decimate climate and plant life around it: one estimate published as the project drew opposition suggests it could raise nighttime temperatures nearby by several degrees, killing plant and animal life in the area. Residents unlucky enough to live around it worry they could be left short of water and have to put up with the constant hum of thousands of fans cooling the mega computers inside.\nObviously the data centre inaugurated in Pakistan is a tiny baby compared to the behemoths being built in the US. However, now that Pakistan is eager to line up in the data centre queue, Pakistanis should know a few things about such massive infrastructures sprouting up quite literally overnight all over the world. We need data centres, of course, because we use AI. Free versions of products like OpenAI’s ChatGPT and Anthropic’s Claude are available online for nearly everyone to use. One widely cited study found that a full back-and-forth conversation of 20 to 50 questions with an early version of ChatGPT — anything from the best recipe for biryani to an explanation of the Pythagorean theorem — consumed the equivalent of roughly 500ml of water to cool the servers producing the responses. Now multiply that one bottle by the millions of such conversations held with AI in a single day. \nThat is only the water demand — which in a country like Pakistan, already struggling to provide water for its humans, is a very pertinent one. In Karachi, where large swathes of the tens of millions go without water even in extreme heat, the question is even more crucial. At the inauguration, the prime minister noted that worldwide demand for data centres was an opportunity for Pakistan. Undoubtedly, the intention behind that desire — Pakistan providing technological infrastructure for the world — is a noble one. But if so much of the country, Karachi in particular, is in such dire straits over water, then imagining a data centre boom seems at least a little problematic. \nWho pays the price when power and water are diverted to computers?\nBesides the water issue, data centres also put incredible pressure on electricity grids because of their massive demand. Currently, the largest electrical grid in the US is struggling to meet the data centres’ demand. Earlier this week, PJM Interconnection announced it would have to cut power to data centres during periods of shortage. PJM’s cuts, which apply only to data centres of 50 MW or larger, come as electricity demand from data centres is projected to increase at least fourfold within a decade. PJM is running an auction for power generating capacity. \nNone of this makes the Pakistan inauguration a bad thing, nor is it wrong for the prime minister to voice optimism about the country’s technological future. But it is crucial to reckon with the demands these centres will make. Before Pakistan puts its name in the hat as a fu­­t­ure data centre hub, it is worth asking what investments could expand the country’s power generation capacity — and in a country of shortages, who pays the price when power and water are diverted from human to computer use. \nAI feels like magic: the power of insanely powerful computers at one’s fingertips, ready to answer even the most arcane questions. Ask ChatGPT the weather in Rome in 1275, then its take on zodiac compatibility; a few dozen questions like those are enough to empty a 500ml bottle’s worth of cooling water. \nIt is commendable that Pakistan is building infrastructure for its technological future. It would be even more impressive if equal attention were given to the challenges that come with building it. The advancement of some Pakistanis should not come at the cost of further suffering for others already starved of water and electricity. \nThe writer is an attorney teaching constitutional law and political philosophy.\nrafia.zakaria@gmail.com\nPublished in Dawn, August 1st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs / Current Affairs / Environmental Science",
+    "topic": "Digital Infrastructure Development, Energy & Water Scarcity, and Sustainable Urban Planning",
+    "whyMatters": "This article provides a critical, counter-narrative perspective on the environmental and resource costs of rapid technological advancement, particularly data center proliferation. It is crucial for understanding the complex trade-offs between digital progress and sustainable development, especially in resource-constrained nations like Pakistan.",
+    "summary": [
+      "Pakistan is actively pursuing the development of large data centers, such as the 8.5 MW facility by Sky47 AI Cloud, to support its burgeoning Artificial Intelligence sector, viewing it as a significant opportunity for technological infrastructure.",
+      "Globally, the construction of mega data centers, like those planned in the US (e.g., a 10,000-acre facility in Utah), reveals immense environmental burdens, including massive water consumption for cooling, extreme electricity demands, local temperature increases, and potential habitat destruction.",
+      "For a country like Pakistan, already grappling with severe water and electricity shortages, particularly in major cities such as Karachi, the proliferation of data centers without adequate planning risks exacerbating these critical resource deficits.",
+      "The article argues that while technological advancement is commendable, it must not come at the cost of further depriving vulnerable populations of essential resources; a balanced approach involving substantial investment in power generation and water infrastructure is imperative for sustainable development."
+    ],
+    "facts": [
+      "Pakistan's largest inaugurated data center is an 8.5 MW facility by Sky47 AI Cloud.",
+      "A 20-50 question conversation with an early version of ChatGPT consumes approximately 500ml of water for server cooling.",
+      "In the US, electricity demand from data centers is projected to increase at least fourfold within a decade, leading to power grid struggles and cuts."
+    ],
+    "academicReferences": [
+      "Pakistan's National Climate Change Policy (2012, updated versions)",
+      "Pakistan's National Water Policy (2018)",
+      "United Nations Sustainable Development Goals (SDGs), particularly Goals 6 (Clean Water & Sanitation), 7 (Affordable & Clean Energy), 9 (Industry, Innovation & Infrastructure), and 13 (Climate Action)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Clamouring",
+        "type": "verb",
+        "definition": "Shouting loudly or demanding something in a noisy way.",
+        "sentence": "The world is clamouring to build data centres due to the rise of AI."
+      },
+      {
+        "word": "Behemoths",
+        "type": "noun",
+        "definition": "Something enormous or very powerful.",
+        "sentence": "The data centres being built in the US are behemoths compared to Pakistan's facility."
+      },
+      {
+        "word": "Arcane",
+        "type": "adjective",
+        "definition": "Understood by few; mysterious or secret.",
+        "sentence": "AI can answer even the most arcane questions, from ancient weather to zodiac compatibility."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary concern raised by the author regarding the boom in data center construction, particularly for a country like Pakistan?",
+        "options": [
+          "A) Lack of skilled workforce to manage these facilities.",
+          "B) Excessive demand for water and electricity, straining existing resources.",
+          "C) The ethical implications of advanced Artificial Intelligence.",
+          "D) The potential for data breaches and cybersecurity threats."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article repeatedly emphasizes the 'massive demand' data centers place on electricity grids and their 'incredible pressure' on water resources, making this the central concern for Pakistan."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary dual nature of data center development for Pakistan, as highlighted in the article?",
+        "back": "Data centers represent an 'opportunity' for technological infrastructure and AI needs but also pose significant 'demands' that could exacerbate existing resource shortages."
+      },
+      {
+        "front": "List two major environmental impacts of large-scale data centers mentioned in the article, beyond just resource consumption.",
+        "back": "Increased local nighttime temperatures (killing plant and animal life) and constant noise pollution from cooling fans."
+      },
+      {
+        "front": "How does the article specifically connect Pakistan's water scarcity to data center development?",
+        "back": "It notes that a single AI conversation consumes 500ml of water for cooling and questions the viability of a data center boom in a country where millions, especially in Karachi, already lack sufficient water."
+      },
+      {
+        "front": "What is the author's ultimate call to action or recommendation regarding Pakistan's technological future?",
+        "back": "While building technological infrastructure is commendable, equal attention must be given to the challenges, ensuring that advancement does not come at the cost of further suffering for citizens deprived of water and electricity."
+      }
+    ]
+  },
+  {
     "id": "curated-1785547757760-300",
     "title": "Exchange rate dilemma\n",
     "source": "Dawn",
@@ -420,6 +502,187 @@
       {
         "front": "What key policy suggestions does the article offer to de-escalate tensions and achieve regional stability?",
         "back": "Arabs and Iranians should resolve disputes internally, avoid using their soil for foreign aggression against each other, and ensure free passage for vessels through maritime chokepoints."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785634000233-35",
+    "title": "Local governance\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2019840/local-governance",
+    "date": "2026-08-01",
+    "author": "none@none.com (Editorial)",
+    "content": "INTERIOR Minister Mohsin Naqvi’s speech at a business summit on Thursday has stirred a hornet’s nest. His diagnosis that the present system of governance is collapsing is correct. His call for political parties to sit together and resolve the country’s issues is welcome — although it will depend on the extent to which the government is willing to engage opposition parties. His warning that business as usual will neither deliver prosperity, nor create jobs, nor fix governance failures is also timely. But his proposed cure — creating smaller provinces on administrative grounds — rests on the flawed assumption that such an exercise will automatically bring the government closer to citizens and resolve governance problems. This view is questionable. From time to time, different political parties, including the PPP, PML-N and MQM, have advocated new provinces for different reasons. Indeed, there is no harm in having a national debate to see whether a consensus can emerge. But it must be an inclusive, evidence-based and unrushed process, based on genuine and broad public participation. The exercise would require scrutiny inside and outside parliament, with a focus on economic viability, administrative capacity and resource distribution.\nWhile the debate on new provinces should continue, there is a much simpler and more effective option available. The aims of devolution, better governance and administrative efficiency can be achieved by constitutionally guaranteeing the continuity of local governments as the effective third tier of governance at the centre and in the provinces. The issue is the failure to devolve political, administrative and financial authority to the local level, where public services are actually delivered. The problem is, no political party is prepared to empower elected LGs. That must change in order to facilitate decentralisation and good governance for a robust economy. New provinces were not the only governance reform the minister, who is considered close to the security establishment, appeared to advocate. He also, rather slyly, hinted at the ‘need’ to build support for an alternative system of governance within the democratic dispensation that would replace the existing federal parliamentary system. Given the serious internal and external threats facing the country, those in authority must refrain from making the parliamentary system, on which the nation has broadly agreed, contentious, as doing so would only strengthen divisive forces.\nPublished in Dawn, August 1st, 2026",
+    "matchedQuestion": {
+      "id": "PA-2022-GOV",
+      "paper": "Pakistan Affairs",
+      "year": 2022,
+      "question": "Numerous political systems - Parliamentary as well as Presidential, have been in vogue in Pakistan with limited success. Draft your own proposed but practical system that would result in good governance of the country."
+    },
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Pakistan Affairs",
+    "topic": "Governance, Decentralization, and Political Systems Reform",
+    "whyMatters": "This article is crucial as it directly addresses the shortcomings of Pakistan's governance systems and offers a practical, constitutionally-backed solution: empowering local governments. It enables students to critique existing proposals (like new provinces or system change) while advocating for a robust, decentralized governance model.",
+    "summary": [
+      "The Interior Minister's diagnosis of collapsing governance is correct, but his proposed cure of creating smaller provinces is based on a flawed assumption.",
+      "A simpler and more effective option for achieving devolution and better governance is constitutionally guaranteeing empowered local governments (LGs) as the third tier.",
+      "The core issue is the unwillingness of political parties to devolve political, administrative, and financial authority to the local level.",
+      "The article strongly warns against making the federal parliamentary system contentious, as it could strengthen divisive forces during a period of national threats."
+    ],
+    "facts": [
+      "Interior Minister Mohsin Naqvi's speech at a business summit highlighted collapsing governance.",
+      "Minister proposed creating smaller provinces on administrative grounds as a solution.",
+      "Minister also hinted at replacing the existing federal parliamentary system with an alternative democratic system."
+    ],
+    "academicReferences": [
+      "The 18th Amendment to the Constitution of Pakistan (for devolution of powers)",
+      "The Constitution of Pakistan (Articles related to Local Governments and Parliamentary System)",
+      "National Finance Commission (NFC) Award (relevant for resource distribution in province debates)"
+    ],
+    "vocabulary": [
+      {
+        "word": "stirred a hornet’s nest",
+        "type": "idiom (verb phrase)",
+        "definition": "to create a lot of trouble and anger, often by saying or doing something controversial.",
+        "sentence": "His diagnosis of collapsing governance *stirred a hornet’s nest* among various political factions."
+      },
+      {
+        "word": "devolution",
+        "type": "noun",
+        "definition": "the transfer of power or authority from a central government to a local or regional government.",
+        "sentence": "True *devolution* of political, administrative, and financial authority is essential for effective local governance."
+      },
+      {
+        "word": "slyly",
+        "type": "adverb",
+        "definition": "in a cunning or secretive manner, often suggesting dishonesty or hidden motives.",
+        "sentence": "The minister *slyly* hinted at significant constitutional changes without explicitly stating his intentions."
+      },
+      {
+        "word": "contentious",
+        "type": "adjective",
+        "definition": "likely to cause an argument; controversial.",
+        "sentence": "Making the parliamentary system *contentious* would only serve to strengthen divisive forces within the nation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is presented as the 'much simpler and more effective option' for achieving better governance and administrative efficiency in Pakistan?",
+        "options": [
+          "A) Constitutionally guaranteeing the continuity and empowerment of local governments.",
+          "B) Creating smaller provinces on administrative grounds.",
+          "C) Replacing the existing federal parliamentary system.",
+          "D) Implementing a business-as-usual approach with minor reforms."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'The aims of devolution, better governance and administrative efficiency can be achieved by constitutionally guaranteeing the continuity of local governments as the effective third tier of governance.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's main criticism of the Interior Minister's proposal for creating smaller provinces?",
+        "back": "The article states that the proposal rests on the flawed assumption that such an exercise will automatically bring the government closer to citizens and resolve governance problems, questioning its effectiveness."
+      },
+      {
+        "front": "What practical system does the article advocate for achieving better governance and administrative efficiency in Pakistan?",
+        "back": "The article advocates for constitutionally guaranteeing the continuity and empowerment of local governments as the effective third tier of governance at both federal and provincial levels."
+      },
+      {
+        "front": "According to the article, what is the primary obstacle to true decentralization and good governance through local bodies?",
+        "back": "The primary obstacle is the failure to devolve political, administrative, and financial authority to the local level, largely because no political party is prepared to empower elected LGs."
+      },
+      {
+        "front": "What warning does the article issue regarding the federal parliamentary system in Pakistan?",
+        "back": "The article warns those in authority against making the parliamentary system contentious, as doing so would only strengthen divisive forces, especially given the serious internal and external threats facing the country."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785634373838-861",
+    "title": "Missing foundation of AI readiness\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2019837/missing-foundation-of-ai-readiness",
+    "date": "2026-08-01",
+    "author": "none@none.com (Asif Saad)",
+    "content": "ARTIFICIAL intelligence has quickly become a country, economy and boardroom priority. Across different organisations and industries, leaders are asking the same questions: which model should we use? Should we deploy ChatGPT or Claude? Do we need an AI strategy? Where should we begin? How quickly can we implement it? These are important questions. But I believe they overlook a more fundamental one: is our organisation actually ready to benefit from AI?\nOver the last few months as I have been thinking about how AI is changing organisations, this question has become increasingly difficult to ignore. Many organisations are treating AI as a technology challenge when, in reality, it is exposing a much older management challenge. That cha­­llenge is how organisations manage information.\nMost discussions assume that AI itself is the limiting factor. I suspect the opposite is true. For many organisations, particularly in developing economies like Pakistan, the limiting factor is the organisation itself.\n    \nConsider a manufacturing company operating several production lines. Every morning, the production manager decides which supervisors shou­­ld run which lines, which maintenance engineers should be assigned to planned shutdowns, which operators should work overtime and how production should be adjusted if a machine unexpectedly fails. These decisions rely on dozens of variables: employee skills and certifications, atte­n­dance, maintenance history, machine capability, quality performance, customer delivery commitments, inventory levels and production priorities. An AI system could analyse all these variables simultaneously and recommend the allocation most likely to maximise output, minimise downtime and meet customer commitments.\nTwo organisations can invest in the same AI technology and achieve different results.\nOr take a call centre receiving thousands of calls each day. Traditionally, incoming calls are routed using simple rules such as the next available agent. An AI-enabled system, however, could optimise each interaction by simultaneously considering a far richer set of variables; the customer’s history and lifetime value, previous complaints, the complexity of the issue, the agent’s expertise, language proficiency, first-call resolution rate, customer satisfaction scores, current workload, average handling time and even the likelihood of customer churn.\nBased on these factors, AI could assign each call to the agent most likely to resolve the issue quickly while maximising customer satisfaction and retention at the same time. But this capability depends on the availability of reliable organisational information. If customer histories are incomplete, agent skills are poorly documented, performance data is inaccurate or systems are disconnected, AI has little to optimise. It can only make better decisions when the organisation has already captured, maintained and integrated the information on which those decisions depend.\nBut there is one obvious question: from where does the AI obtain this information?\nIn many organisations, much of it does not exist in a form that AI can use. In my experience, working with different types of organisations, some information exists in an ERP system or other disconnected software. Some is stored in spreadsheets on individual laptops. A lot of it nowadays rests in WhatsApp conversations! And the most valuable knowledge frequently exists only in the minds of experienced managers.\nTherefore, the production manager, not the organisation, knows which operator can recover a troubled production line, which maintenance engineer consistently diagnoses recurring faults and which supervisor performs best under pressure. The same with the call centre manager who relies on his personal knowledge of his teams’ capabilities to make critical decisions. This distinction is more significant than it first appears.\nAI cannot optimise information that has never been captured, nor can it analyse knowledge that exists only in someone’s memory. Nor is it able to make better decisions when the underlying information is fragmented, inconsistent or inaccessible. In other words, it does not create organisational intelligence. It depends upon it.\nThis helps explain why two organisations can invest in the same AI technology and achieve completely different outcomes. One has spent years documenting processes, maintaining reliable operational data, integrating systems and making organisational knowledge accessible. The other relies on personal experience, informal processes and fragmented information. The technology is identical but the organisations are not.\nFor decades, experienced managers compensated for weak information systems. They knew where critical information was located, who possessed specialised expertise and how to make things happen despite organisational shortcomings. AI can’t be productive in the same way. It can only work with the information an organisation has chosen to capture, maintain and make ava­­ilable. This is why I believe we are asking the wrong question. Instead of asking whether organisations are adopting AI quickly enough, we should first ask whether they have built the organisational foundations that allow AI to create value.\nThat requires a different set of management questions. Where does our organisational knowledge reside? How much information exists only on individual laptops or in personal email folders or WhatsApp groups? Which decisions depend on a manager’s memory rather than organisational data? How reliable is our operational information? What information is continuously updated? And what information can AI actually access? These are not technology questions. They are management questions. This issue is particularly relevant for Pakistan. Many of our organisations have grown successfully despite fragmented information because capable managers developed ways to work around weak systems. But as AI becomes more deeply embedded in work, those workarounds become constraints.\nThe organisations that benefit most from AI are unlikely to be those that simply purchase the latest technology. They will be those that have invested in disciplined information, organised knowledge and management systems that make both available across the organisation.\nPerhaps, then, the missing foundation of AI readiness is not more sophisticated technology, but greater organisational information maturity. That may ultimately prove to be AI’s most important lesson. Before AI can transform organisations, organisations must first transform the way they manage what they know.\nThe writer advises boards and CEOs on strategy, leadership and organisational transformation.\nasif.saad@openminds.pk\nPublished in Dawn, August 1st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Governance & Public Policy / Science & Technology / Economics of Development",
+    "topic": "AI Readiness and Organizational Information Maturity in Developing Economies",
+    "whyMatters": "This article provides a critical, often overlooked perspective on AI adoption, shifting focus from technology acquisition to foundational organizational readiness. It is crucial for understanding the challenges faced by developing economies like Pakistan in leveraging AI for socio-economic development.",
+    "summary": [
+      "AI readiness is primarily a management and information challenge, not merely a technological one, exposing older issues in how organizations manage information.",
+      "The limiting factor for AI success in many organizations, especially in developing economies, is the organization's internal capacity to capture, maintain, and integrate reliable information.",
+      "AI cannot optimize information that is fragmented, inconsistent, inaccessible, or exists only in individual managers' memories; it depends on existing organizational intelligence.",
+      "Organizations that benefit most from AI are those that have invested in disciplined information management, organized knowledge, and integrated systems, rather than simply purchasing the latest technology."
+    ],
+    "facts": [
+      "AI systems can optimize complex decisions in sectors like manufacturing (e.g., allocating supervisors, engineers, operators) and call centers (e.g., routing calls based on customer history, agent expertise, churn likelihood).",
+      "In many organizations, critical information is often fragmented, residing in ERP systems, individual spreadsheets, WhatsApp conversations, or solely in the minds of experienced managers.",
+      "Two organizations investing in identical AI technology can achieve vastly different outcomes based on their pre-existing organizational information maturity and system integration."
+    ],
+    "academicReferences": [
+      "Information Systems Management theories (e.g., data governance frameworks, knowledge management systems)",
+      "National Digital Pakistan Policy / National AI Strategies (e.g., Pakistan's National AI Policy)",
+      "World Bank's Digital Economy for Development (DE4D) Initiative reports on digital transformation in developing countries"
+    ],
+    "vocabulary": [
+      {
+        "word": "overlook",
+        "type": "verb",
+        "definition": "fail to notice or consider something.",
+        "sentence": "The leaders often overlook the fundamental question of organizational readiness for AI."
+      },
+      {
+        "word": "fragmented",
+        "type": "adjective",
+        "definition": "broken into small, separate parts; incomplete or disorganized.",
+        "sentence": "Much of the critical information in these organizations remains fragmented across various platforms and personal devices."
+      },
+      {
+        "word": "compensate",
+        "type": "verb",
+        "definition": "make up for something unwelcome or unpleasant by exerting an opposite force or effect.",
+        "sentence": "For decades, experienced managers would compensate for weak information systems through personal knowledge and workarounds."
+      },
+      {
+        "word": "maturity",
+        "type": "noun",
+        "definition": "the state, fact, or period of being mature; in this context, the level of development or sophistication.",
+        "sentence": "The missing foundation of AI readiness is not technology, but greater organizational information maturity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason why AI might fail to deliver expected benefits in many organizations, especially in developing economies?",
+        "options": [
+          "Lack of advanced AI models like ChatGPT or Claude.",
+          "Insufficient funding for AI technology acquisition.",
+          "The organization's inadequate management of its information and data.",
+          "Resistance from employees to adopt new AI-powered tools."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that AI readiness is 'exposing a much older management challenge' related to how organizations manage information, identifying the organization itself, rather than AI technology, as the limiting factor."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's core argument regarding the 'missing foundation of AI readiness'?",
+        "back": "The author argues that the missing foundation is not more sophisticated technology, but greater organizational information maturity – how effectively an organization captures, maintains, and integrates its knowledge."
+      },
+      {
+        "front": "How does the article explain why two organizations investing in the same AI technology can achieve different outcomes?",
+        "back": "The difference lies in their organizational foundations: one has documented processes, reliable data, and integrated systems, while the other relies on personal experience, informal processes, and fragmented information."
+      },
+      {
+        "front": "Why is the issue of AI readiness particularly relevant for Pakistan, according to the article?",
+        "back": "Many Pakistani organizations have grown successfully despite fragmented information because capable managers developed workarounds, but as AI becomes embedded, these workarounds become constraints."
+      },
+      {
+        "front": "What type of questions does the author suggest managers should ask to assess their organization's AI readiness?",
+        "back": "Managers should ask 'management questions' like: Where does our knowledge reside? How much information is on individual laptops/WhatsApp? Which decisions depend on memory, not data? How reliable and accessible is our operational information?"
       }
     ]
   },
@@ -10013,297 +10276,6 @@
       {
         "front": "Besides changing demographics, what other factor does the article cite as weakening the impact of a 'red scare' related to China?",
         "back": "China's economic success is based on 'capitalism with Confucian characteristics,' making it an 'enviable success story' rather than a traditional communist bogeyman for younger generations."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784165063389-994",
-    "title": "Back to war\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015552/back-to-war",
-    "date": "2026-07-15",
-    "author": "none@none.com (Zahid Hussain)",
-    "content": "THE tentative ceasefire has effectively collapsed even before the US and Iran could begin technical-level talks. Renewed American strikes and Iranian retaliation now threaten the interim deal barely a month after it was signed. The two countries are sliding back towards war: Donald Trump has announced the resumption of the blockade, while Iran has closed the Strait of Hormuz. The US president has also notified Congress that the conflict with Iran is on.\n\nTrump’s escalatory rhetoric — threatening to seize control of the strategic waterway and charge other countries for guarding it — may be dismissed as one of his usual bombastic flourishes, yet it has added to the tension. America’s escalation, coming a day after the delayed funeral of the supreme leader, Ayatollah Ali Khamenei, who was killed on the first day of the war on Feb 28, has stoked public anger in Iran. Many are calling for revenge.\n\nAlthough a return to full-fledged war may not be imminent, the latest developments have made it far harder to reach a negotiated peace deal. The situation is half-war, half-peace, keeping the world on edge. The latest hostilities were apparently triggered by the strikes of Iran’s Revolutionary Guard on two tankers passing through the Strait of Hormuz for failing to follow instructions.\n\nThere may be an element of truth to the argument that Iran, by targeting Qatari and Saudi tankers, has overplayed its leverage, giving Trump an opportunity to hit back. But it is also a fact that Iran’s action was provoked by the US attempt to guide commercial ships via the Omani route. Iran insists that its own waters offer the only viable route through the Strait of Hormuz for commercial vessels. For Iran, control of the strategic strait has become a key source of leverage; one Iranian official is quoted as saying it is more important than “dozens of atomic bombs”.\n\nThe latest events will make it far harder for Iran and the US to reach a negotiated peace deal.\n\nIndeed, the Iranian action could have been avoided, but the US response was extraordinarily severe. The US strikes have mainly targeted civilian infrastructure, and Trump has rescinded the two-month sanction relief on Iranian oil exports.\n\nThe move may severely damage an already collapsing Iranian economy, yet there is no sign of Iran capitulating. Its retaliatory strikes on US bases in surrounding Gulf countries demonstrate Tehran’s continued military capacity to hit back. Taken together, the hostilities have pushed the situation back to where it stood before the ceasefire and temporary peace deal — in fact, it has grown even worse.\n\nIran’s retaliatory strikes have also strained its relations with the Gulf countries, which had appeared to ease after the ceasefire. The closure of Hormuz may not go down well with other countries that had stayed out of the US aggression. The spike in international oil prices could worsen an already recessionary situation.\n\nMost alarming is the fact that the conflict could expand across the region and beyond. Interestingly, Iran’s nuclear issue, which the US described as the main reason for going to war, has receded into the background, while Hormuz, which was not an issue at all when the war started, has become the major point of contention.\n\nTrump’s latest move — seeking control of the waterway and charging commercial vehicles 20pc on cargo value for protection services — has added a more explosive dimension. “I want to be reimbursed because we’re protecting a very rich portion of the world, we’re spending money, and … we are going to be reimbursed for protection,” Trump said. His words mark a dramatic shift in US policy and violate global norms of freedom of navigation. Any such move would heighten tension and cause further economic disruption in the region and beyond.\n\nThe contest has now turned into a battle for Hormuz. America and other countries had opposed Iran’s control of the strait and suggestion to charge a toll. Trump’s latest ambition to control Hormuz and collect service charges from oil-rich states amounts to an expansion of the military conflict. Most analysts, however, point out that many of his threats have never materialised.\n\nAmerica went to war by choice, albeit under pressure from Israel. It is now getting more and more entangled in a situation from which it will find it hard to extricate itself. Trump, with his country’s massive military power, may be able to destroy Iran completely, but that may not bring the war to an end.\n\nThe collapse of the ceasefire, the resumption of American military strikes and the blockade of Iran have made it difficult to bring the negotiation process based on the 14-point MoU back on track, though neither side has rejected talks. The situation has made the task of Pakistan and other mediating countries very hard. One wonders whether the mediators can play any meaningful role at all now.\n\nEach side wants a peace deal on its own terms. One can understand Iran’s position as the party aggressed against and defending its sovereignty. But Trump’s whimsical and imperialistic designs have pushed the region into its worst crisis in recent history, with global implications. Meanwhile, Israel, which has opposed the interim peace agreement, now sees a fresh opportunity to restart the war. Its Defence Minister Israel Katz said last week that his country was prepared to resume its military campaign against Iran if needed, vowing to do so “with even greater force”. Israel has already extended its war deep into Lebanon, occupying a large part of the country despite the US-brokered ceasefire. A renewed Israeli attack on Iran would turn into a wider conflagration — which is what the Zionist state wants. Trump’s latest escalation fits in with Israel’s strategy to destroy Iran, thereby eliminating any resistance to its expansionist designs.\n\nA renewed US-Israel war on Iran is likely to place Pakistan, which mediated the ceasefire and secured the MoU, in a precarious diplomatic situation. It remains to be seen how our leadership, which has so far been basking in the international limelight, will steer the country through such a critical situation.\n\nThe writer is an author and journalist.\n\nPublished in Dawn, July 15th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 79,
-    "paper": "International Relations / Pakistan Affairs / Current Affairs",
-    "topic": "US-Iran Conflict, Strait of Hormuz, and Regional Stability",
-    "whyMatters": "This article highlights the rapidly deteriorating US-Iran relations, the shift in conflict focus to the Strait of Hormuz, and the significant implications for global oil prices, regional security, and Pakistan's foreign policy. Aspirants must understand the complex geopolitical dynamics and Pakistan's diplomatic challenges in this critical region.",
-    "summary": [
-      "The tentative ceasefire between the US and Iran has collapsed, with renewed strikes and retaliation pushing both countries back towards war.",
-      "The conflict's focus has shifted from Iran's nuclear issue to the strategic control of the Strait of Hormuz, which Iran has closed, while the US aims to control it and charge for protection.",
-      "US and Iranian actions have escalated the conflict, severely damaging Iran's economy and straining its relations with Gulf countries, threatening wider regional conflagration.",
-      "Israel is actively pushing for an expanded war against Iran, aligning with Trump's escalatory strategy, which places mediating countries like Pakistan in a precarious diplomatic position."
-    ],
-    "facts": [
-      "The supreme leader, Ayatollah Ali Khamenei, was killed on Feb 28.",
-      "Iran has closed the Strait of Hormuz, claiming its waters offer the only viable route for commercial vessels.",
-      "US President Trump has announced the resumption of the blockade and proposes charging 20% of cargo value for protection services in the Strait of Hormuz."
-    ],
-    "academicReferences": [
-      "UNCLOS (United Nations Convention on the Law of the Sea) - relevant to freedom of navigation and maritime passage through straits.",
-      "The Joint Comprehensive Plan of Action (JCPOA) - context for Iran's nuclear program and previous international agreements.",
-      "Realist International Relations Theory - helps analyze state behavior driven by national interest and security dilemmas in the conflict."
-    ],
-    "vocabulary": [
-      {
-        "word": "Tentative",
-        "type": "adjective",
-        "definition": "Not certain or fixed; provisional.",
-        "sentence": "The tentative ceasefire collapsed even before talks could begin."
-      },
-      {
-        "word": "Bombastic",
-        "type": "adjective",
-        "definition": "High-sounding but with little meaning; inflated.",
-        "sentence": "Trump’s escalatory rhetoric, though bombastic, added to the tension."
-      },
-      {
-        "word": "Precarious",
-        "type": "adjective",
-        "definition": "Dangerously unstable or insecure.",
-        "sentence": "A renewed US-Israel war on Iran is likely to place Pakistan in a precarious diplomatic situation."
-      },
-      {
-        "word": "Conflagration",
-        "type": "noun",
-        "definition": "An extensive fire which destroys a great deal of land or property; a large, destructive fire.",
-        "sentence": "A renewed Israeli attack on Iran would turn into a wider conflagration."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What has become the major point of contention in the US-Iran conflict, according to the article, eclipsing the nuclear issue?",
-        "options": [
-          "Iran's missile program",
-          "Strait of Hormuz",
-          "Human rights in Iran",
-          "Iran's relations with Saudi Arabia"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'Hormuz, which was not an issue at all when the war started, has become the major point of contention,' while Iran's nuclear issue has 'receded into the background'."
-      },
-      {
-        "question": "Which country is described as seeing a 'fresh opportunity to restart the war' and is pushing for a wider conflagration?",
-        "options": [
-          "Qatar",
-          "Pakistan",
-          "Israel",
-          "Oman"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article clearly states, 'Meanwhile, Israel, which has opposed the interim peace agreement, now sees a fresh opportunity to restart the war...A renewed Israeli attack on Iran would turn into a wider conflagration — which is what the Zionist state wants.'"
-      },
-      {
-        "question": "What new policy did Donald Trump propose regarding the Strait of Hormuz, according to the article?",
-        "options": [
-          "Establishing an international peace-keeping force.",
-          "Negotiating a joint US-Iran management agreement.",
-          "Charging commercial vehicles 20% on cargo value for protection services.",
-          "Implementing a complete ban on all commercial shipping."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions, 'Trump’s latest move — seeking control of the waterway and charging commercial vehicles 20pc on cargo value for protection services — has added a more explosive dimension.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary reason the ceasefire between the US and Iran collapsed, according to the article?",
-        "back": "The ceasefire collapsed due to renewed American strikes and Iranian retaliation, specifically Iran's Revolutionary Guard striking two tankers in the Strait of Hormuz after the US attempted to guide commercial ships via an Omani route."
-      },
-      {
-        "front": "How has the conflict's focus shifted, and what new dimension has Trump added to the Strait of Hormuz issue?",
-        "back": "The conflict's focus has shifted from Iran's nuclear issue to the control of the Strait of Hormuz. Trump has added an 'explosive dimension' by seeking control of the waterway and proposing to charge commercial vehicles 20% of their cargo value for protection services."
-      },
-      {
-        "front": "What are the immediate consequences of the escalated hostilities on Iran's economy and its regional relations?",
-        "back": "The US rescinding sanction relief on oil exports severely damages Iran's collapsing economy. Iran's retaliatory strikes have also strained its relations with Gulf countries, and the closure of Hormuz negatively impacts other countries dependent on the strait."
-      },
-      {
-        "front": "What is Pakistan's potential diplomatic challenge in the escalating US-Iran conflict, considering its prior role?",
-        "back": "Pakistan, having mediated the ceasefire and secured the MoU, faces a precarious diplomatic situation if a renewed US-Israel war on Iran erupts. Its leadership will find it hard to navigate such a critical situation and play a meaningful role as a mediator."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784077834457-460",
-    "title": "Waiting for justice\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015305/waiting-for-justice",
-    "date": "2026-07-14",
-    "author": "none@none.com (Rabiya Javeri Agha)",
-    "content": "MAZHAR Hussain was sentenced to death in 1997. He spent 17 years in prison before he died of a heart attack in custody. Two years after his death, the Supreme Court acquitted him as innocent.\n\nMuhammad Iqbal was arrested at 17. He spent 21 years in prison before the courts realised that he had been a child at the time of the offence and released him. While Iqbal waited in jail, Pakistan saw six prime ministers come and go, Facebook was invented. Smartphones changed the world. An entire generation of Pakistanis was born, grew up and became adults. When justice arrives after 21 years, can we still call it justice?\n\nMazhar Hussain and Muhammad Iqbal are not isolated cases. Countless prisoners throughout the country face delayed justice — often when it is too late. The reason is simple. Pakistan’s prisons system is overburdened and overpopulated. Our prisons house more than 113,000 people against a capacity for fewer than 69,000. New punitive laws passed regularly further fuel the rate of incarceration in the country.\n\nMost importantly, approximately three out of every four prisoners has not been convicted for any crime. They are waiting for justice: for an investigation to finish, or bail, or to be produced before a court. Pretrial detention should be the exception — but in Pakistan, it is the default response. Pakistan’s prison debate treats overcrowding as an engineering problem. The fixes follow this logic: more barracks, digitised records, trained staff, repaired hospitals. Much of this is needed but it misses where the crowding comes from. A prison population is built by decisions made long before anyone reaches a cell; for starters, new punitive laws that widen what counts as an offence and how harshly it is punished — from narcotics to public order. And with too many arrests that could have been mere warnings, and remands and further remands, which are now routine procedure. Bail is granted on paper but denied in practice simply because the accused can’t arrange surety.\n\nWhen justice arrives after 21 years, can we still call it justice?\n\nDrug cases show this acutely. Many prisoners held under the narcotics law are there for possession or low-level possession. Conviction rates remain dismally low — around three per cent to 5pc. Yet the 2022 amendments to the Control of Narcotic Substances Act restricts parole, probation and remission for drug offences, closing off tools that might have kept people with addiction out of prison. A person struggling with addiction is jailed, not treated.\n\nThe criminalisation of poverty impacts overcrowding just as reliably. Bail exists on paper but liberty depends on cash, paperwork and a bank balance. A person accused of a minor offence can stay in jail simply because he can’t afford to leave.\n\nChildren make this most visible. The Juvenile Justice System Act guarantees legal representation and diversion, but children still enter jails without a lawyer. In practice, hardly a single case of diversion has actually gone through. At Adiala, we found that of 82 juvenile prisoners, 79 were under trial and 29 had no legal representation.\n\nDelay lies underneath all of this. Each adjournment looks routine in a case file. For someone inside, it is another day added to a sentence that hasn’t been handed down. None of this gets fixed by better prison management alone. We need bail reform, scrutiny of remand decisions, legal aid that reaches people early. Courts could review long-pending under-trial cases from inside prisons, prioritising children, women and persons with disabilities.\n\nAll this is not to say that conditions inside prisons do not need attention. Overcrowding worsens heat, disease, sanitation and violence and makes abuse easier to hide. The National Commission on Human Rights’ work on torture shows the need for complaint mechanisms that are independent and capable of producing consequences. Pakistan’s prison rules should also match the Mandela Rules and Bangkok Rules: healthcare, sanitation, legal access, family contact and protection from violence are the baseline of lawful custody.\n\nThere is a genuine opening now. The Law and Justice Commission has brought the judiciary, provincial governments, prison departments and human rights institutions into one conversation on prison reform. That is only useful if it changes what the system does; not just what it says. Reform will only ring true when no Pakistani has to wait 17 years to be declared innocent and no child becomes a middle-aged man before the justice system recognises his rights.\n\nWe cannot give back to Mazhar Hussain the life he lost during 17 years in custody. We cannot return Muhammad Iqbal the youth that was taken from him. But if we can ensure that their stories are not repeated, that would be reform indeed.\n\nThe writer is the chairperson of the National Commission for Human Rights.\n\nPublished in Dawn, July 14th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2017-JUD",
-      "paper": "Pakistan Affairs",
-      "year": 2017,
-      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Judicial Reform and Human Rights in Pakistan",
-    "whyMatters": "This article provides concrete examples and statistics illustrating the judiciary's practical failures in upholding fundamental constitutional rights, such as the right to a fair trial and liberty. It offers critical analysis points for a broader discussion on judicial effectiveness, human rights, and necessary reforms within Pakistan's justice system.",
-    "summary": [
-      "Systemic delays in Pakistan's justice system lead to profound injustices, resulting in innocent individuals dying in custody or spending decades incarcerated before acquittal.",
-      "Pakistan's prisons are severely overcrowded, housing over 113,000 people against a capacity of 69,000, primarily due to an excessive reliance on pretrial detention (three out of four prisoners are unconvicted) and new punitive laws.",
-      "The criminalization of poverty means bail is often inaccessible to the poor, and vulnerable groups like children frequently lack legal representation and the protection of diversionary programs.",
-      "Effective reform requires a multi-faceted approach beyond mere prison management, focusing on bail reform, scrutiny of remand decisions, accessible legal aid, and proactive judicial review of long-pending under-trial cases, particularly for vulnerable populations."
-    ],
-    "facts": [
-      "Pakistan's prisons house over 113,000 people against a capacity for fewer than 69,000.",
-      "Approximately three out of every four prisoners in Pakistan has not been convicted for any crime.",
-      "Conviction rates for drug cases under narcotics law remain dismally low, around 3% to 5%."
-    ],
-    "academicReferences": [
-      "Justice System Reform in Pakistan: Challenges and Prospects (General academic discussion point)",
-      "Juvenile Justice System Act (Pakistan)",
-      "UN Standard Minimum Rules for the Treatment of Prisoners (Mandela Rules)"
-    ],
-    "vocabulary": [
-      {
-        "word": "acquitted",
-        "type": "verb",
-        "definition": "To free (someone) from a criminal charge by a verdict of not guilty.",
-        "sentence": "Two years after his death, the Supreme Court acquitted him as innocent."
-      },
-      {
-        "word": "punitive",
-        "type": "adjective",
-        "definition": "Inflicting or intended as punishment.",
-        "sentence": "New punitive laws passed regularly further fuel the rate of incarceration in the country."
-      },
-      {
-        "word": "diversion",
-        "type": "noun",
-        "definition": "The rerouting of a criminal case from the formal justice system to alternative methods, often for juveniles or minor offenses.",
-        "sentence": "The Juvenile Justice System Act guarantees legal representation and diversion, but children still enter jails without a lawyer."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the primary reason for prison overcrowding in Pakistan, according to the article?",
-        "options": [
-          "A) Lack of new prison construction and facilities.",
-          "B) A significant increase in overall crime rates.",
-          "C) Over-reliance on pretrial detention for unconvicted individuals.",
-          "D) Insufficient number of trained prison staff."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'approximately three out of every four prisoners has not been convicted for any crime' and 'Pretrial detention should be the exception — but in Pakistan, it is the default response,' indicating this as the primary cause of overcrowding."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What fundamental rights are severely undermined by the systemic delays in justice, as highlighted by cases like Mazhar Hussain and Muhammad Iqbal?",
-        "back": "The right to a fair trial, the right to liberty, and due process are severely undermined, leading to unjust and prolonged incarceration without conviction."
-      },
-      {
-        "front": "Beyond just 'engineering problems,' what deeper societal and systemic issues contribute to prison overcrowding in Pakistan?",
-        "back": "New punitive laws, excessive arrests for minor offenses, routine remands, and the practical denial of bail due to poverty contribute significantly to overcrowding."
-      },
-      {
-        "front": "How does the 'criminalization of poverty' specifically impact the justice system and prison population in Pakistan?",
-        "back": "Poverty criminalization means that despite bail existing on paper, accused individuals often remain in jail for minor offenses because they cannot afford the required surety, leading to prolonged pretrial detention."
-      },
-      {
-        "front": "What key reforms, beyond improving prison management, are proposed to address delayed justice and overcrowding?",
-        "back": "Proposed reforms include bail reform, stricter scrutiny of remand decisions, accessible legal aid early in the process, and proactive judicial review of long-pending under-trial cases, especially for vulnerable populations."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784077998811-36",
-    "title": "Poverty punished\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015302/poverty-punished",
-    "date": "2026-07-14",
-    "author": "none@none.com (Editorial)",
-    "content": "THE challenge of illegal migrations should be viewed through a humanitarian lens. Harsh punishments for the poor overlook human misery, and end up criminalising poverty. Although collective global efforts have tried to end modern slavery, the scourge — rooted largely in the government’s economic failure — persists with thousands being trafficked annually. Over the past couple of weeks or so, Gujranwala, Gujrat and Sialkot courts have sentenced over 60 deportees — largely from Libya and Greece — to 10- to 15-day jail terms, with fines as high as Rs50,000. The FIA has imposed a five-year ban on foreign travel for the offenders. While disciplinary action is needed for illegal immigrants, sending the desperate to prison is merely a band-aid on a metastatic malaise.\n\nPeople who brave treacherous waters in rickety boats in their pursuit of a better life abroad are not criminals but victims of dire socioeconomic conditions. Treating the indigent harshly is not effective. It is, in fact, a distraction from the absence of social welfare policies. The state must guarantee the rights of victims of human trafficking and smuggling so that they choose to stay. It must counter corruption, powerful patronage, legal loopholes and the culture of criminal impunity. Without an institutional overhaul, databanks, training, funds and incentives for law-enforcement, toxic transnational cartels will expand. The West, responsible for most conflicts, can fork out a fraction of its expenditure on wars to secure sufferers, while those escaping our moribund economy should be facilitated — for instance, by raising their outrageously low wages. The traps oftrafficking rings widen as poverty and turmoil grow as revealed in the 2025 IOM report: at least 2,722 illegal migrants from the Asia-Pacific region died or went missing, with Pakistan’s score standing at a disturbing 109. When rulers undercut citizens’ living standards, and allow predators to get away with fines, the blame cannot be pinned on the victims.\n\nPublished in Dawn, July 14th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs / Current Affairs / Sociology / Economics",
-    "topic": "Human Trafficking, Illegal Migration, Poverty, and Governance Failure",
-    "whyMatters": "This article provides a critical, humanitarian perspective on illegal migration, linking it to systemic issues of poverty and governance failures. It is essential for competitive exam students to understand the complex socio-economic challenges Pakistan faces and to propose nuanced policy solutions in essays and analytical questions.",
-    "summary": [
-      "Illegal migrations should be viewed through a humanitarian lens, as harsh punishments for the poor only criminalize poverty and overlook human misery.",
-      "The primary root cause of modern slavery and human trafficking is identified as the government's economic failure and the absence of social welfare policies.",
-      "Migrants who brave treacherous conditions are victims of dire socioeconomic circumstances, not criminals, and treating them harshly is ineffective, serving as a distraction from state failures.",
-      "The state requires an institutional overhaul, anti-corruption measures, and guaranteed rights for trafficking victims, while the West and local rulers also share responsibility for perpetuating conditions leading to migration."
-    ],
-    "facts": [
-      "Over 60 deportees, largely from Libya and Greece, were sentenced to 10-15 day jail terms with fines up to Rs50,000, and a five-year foreign travel ban by the FIA.",
-      "The 2025 IOM report indicates at least 2,722 illegal migrants from the Asia-Pacific region died or went missing.",
-      "Pakistan's specific score in the 2025 IOM report for illegal migrants who died or went missing stands at a disturbing 109."
-    ],
-    "academicReferences": [
-      "UNODC Global Report on Trafficking in Persons (2022/2024 editions)",
-      "Sustainable Development Goals (SDGs) - specifically Goal 8 (Decent Work and Economic Growth) and Goal 10 (Reduced Inequalities)",
-      "Global Compact for Safe, Orderly and Regular Migration (GCM) (2018)"
-    ],
-    "vocabulary": [
-      {
-        "word": "scourge",
-        "type": "noun",
-        "definition": "a person or thing that causes great trouble or suffering",
-        "sentence": "Modern slavery remains a scourge on humanity, often rooted in economic disparities."
-      },
-      {
-        "word": "metastatic malaise",
-        "type": "noun",
-        "definition": "a deeply rooted, spreading, and pervasive sickness or problem",
-        "sentence": "Sending desperate migrants to prison is merely a band-aid on a metastatic malaise of economic failure and social neglect."
-      },
-      {
-        "word": "indigent",
-        "type": "adjective",
-        "definition": "poor; needy",
-        "sentence": "Treating the indigent harshly does not solve the underlying issues of poverty."
-      },
-      {
-        "word": "moribund",
-        "type": "adjective",
-        "definition": "(of a person or thing) at the point of death; in terminal decline",
-        "sentence": "Many individuals are escaping our moribund economy in search of better opportunities abroad."
-      },
-      {
-        "word": "impunity",
-        "type": "noun",
-        "definition": "exemption from punishment or freedom from the injurious consequences of an action",
-        "sentence": "The culture of criminal impunity allows powerful patronage networks to exploit vulnerable populations."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is primarily identified as the root cause of modern slavery and human trafficking?",
-        "options": [
-          "A) Individual criminality of migrants",
-          "B) Government's economic failure",
-          "C) Lack of international aid",
-          "D) Harsh immigration policies in destination countries"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'the scourge — rooted largely in the government’s economic failure — persists with thousands being trafficked annually.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What critical perspective does the article advocate for regarding illegal migrations?",
-        "back": "It advocates for viewing illegal migrations through a humanitarian lens rather than merely criminalizing them, emphasizing human misery over punishment."
-      },
-      {
-        "front": "What does the article suggest is the state's responsibility beyond punitive measures for victims of human trafficking and smuggling?",
-        "back": "The state must guarantee victims' rights, counter corruption, address legal loopholes, and undertake an institutional overhaul to tackle systemic issues."
-      },
-      {
-        "front": "How does the article assign responsibility to the West and local rulers for the problem of human trafficking and migration?",
-        "back": "It holds the West responsible for most conflicts and criticizes local rulers for undercutting citizens’ living standards and allowing predators to operate with impunity."
-      },
-      {
-        "front": "What is the consequence of treating indigent migrants harshly, according to the article?",
-        "back": "It is ineffective, distracts from the absence of social welfare policies, and fails to address the dire socioeconomic conditions that compel people to migrate."
       }
     ]
   }
