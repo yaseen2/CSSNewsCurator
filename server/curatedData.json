@@ -1,5 +1,859 @@
 [
   {
+    "id": "curated-1785721412471-696",
+    "title": "No more torture\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020267/no-more-torture",
+    "date": "2026-08-03",
+    "author": "none@none.com (Editorial)",
+    "content": "EVEN the best laws on the books are worth little unless the state shows the willingness to enforce them. This is certainly true for the Torture and Custodial Death (Prevention and Punishment) Act, 2022. As the HRCP pointed out during a recent consultation in Islamabad, torture and cruel and inhuman treatment remain widespread in Pakistan, despite the existence of this law. Perhaps the main reason for this is the thana culture that, despite multiple attempts at reform, continues to influence law enforcement in the country. This culture is a holdover from the colonial age during which LEAs were not supposed to serve and protect citizens, but to dominate them and put them in their place when they stepped out of line. The result is the continuation of a system where torture is endemic and rights are trampled on. Studies show that most confessions are extracted under torture. However, these brutish methods have failed to bring down crime numbers, as the rampant lawlessness across the country shows. The FIA told the Lahore High Court earlier this year that up till April 30, it had registered at least 364 inquiries under the anti-torture law. The vast majority of cases were reported from Punjab.\nAs speakers at the HRCP event noted, torture persists because of weak implementation, inadequate safeguards and a lack of accountability. At the root of the matter lies the need to revamp the criminal justice system. From police to prosecution, there is a need to sensitise public servants about fundamental rights, and replace archaic, violent and illegal methods with scientific techniques of investigation. The judiciary, elected representatives and the police hierarchy across the provinces must work together to reform the criminal justice system. This is imperative not because donors want reforms, but because the dignity of man, as underscored by the Constitution, must be upheld.\nPublished in Dawn, August 3rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Pakistan Affairs / Governance",
+    "topic": "Human Rights, Police Reforms, and Criminal Justice System",
+    "whyMatters": "This article highlights critical issues of human rights violations, police brutality, and the failure of law enforcement in Pakistan. It is essential for understanding governance challenges, judicial reforms, and the state of fundamental rights, allowing students to cite current issues and propose solutions in essays and analytical questions.",
+    "summary": [
+      "Despite the enactment of the Torture and Custodial Death (Prevention and Punishment) Act, 2022, torture and cruel/inhuman treatment remain widespread in Pakistan.",
+      "The primary reason for the persistence of torture is identified as the 'thana culture,' a colonial-era holdover that emphasizes domination over citizens rather than protection.",
+      "Torture is frequently used to extract confessions but has proven ineffective in reducing crime rates, indicating systemic failures in the criminal justice approach.",
+      "The ongoing prevalence of torture is attributed to weak implementation of laws, inadequate safeguards for victims, and a severe lack of accountability within the system.",
+      "Comprehensive reform is urgently needed across the entire criminal justice system, involving sensitizing public servants, adopting scientific investigative methods, and collaborative efforts from the judiciary, elected representatives, and police hierarchy to uphold human dignity."
+    ],
+    "facts": [
+      "The Torture and Custodial Death (Prevention and Punishment) Act was enacted in 2022.",
+      "The FIA reported registering at least 364 inquiries under the anti-torture law up till April 30 of this year.",
+      "The vast majority of torture cases reported by the FIA were from Punjab."
+    ],
+    "academicReferences": [
+      "Torture and Custodial Death (Prevention and Punishment) Act, 2022 (Pakistan)",
+      "Constitution of Pakistan, 1973 (specifically Articles on Fundamental Rights and Dignity of Man, e.g., Article 9, Article 14)",
+      "United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (UNCAT)",
+      "Human Rights Commission of Pakistan (HRCP) Reports on Human Rights in Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "endemic",
+        "type": "adjective",
+        "definition": "regularly found among particular people or in a certain area",
+        "sentence": "The article states that torture is 'endemic' within the criminal justice system due to outdated practices."
+      },
+      {
+        "word": "brutish",
+        "type": "adjective",
+        "definition": "resembling a brute; savage, cruel, and uncivilized",
+        "sentence": "Despite their 'brutish' methods, law enforcement agencies have failed to curb crime effectively."
+      },
+      {
+        "word": "archaic",
+        "type": "adjective",
+        "definition": "very old or old-fashioned; outdated",
+        "sentence": "There is a need to replace 'archaic' and violent methods with scientific investigation techniques."
+      },
+      {
+        "word": "imperative",
+        "type": "adjective",
+        "definition": "of vital importance; crucial",
+        "sentence": "Reforming the criminal justice system is 'imperative' not for donors, but for human dignity."
+      },
+      {
+        "word": "sensitise",
+        "type": "verb",
+        "definition": "make (someone) aware of and responsive to something",
+        "sentence": "Public servants need to be 'sensitised' about fundamental rights and modern investigative methods."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as the main reason for the persistence of torture despite existing laws?",
+        "options": [
+          "A. The colonial-era 'thana culture'",
+          "B. Lack of funding for law enforcement",
+          "C. Insufficient number of police personnel",
+          "D. Interference from international donors"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'Perhaps the main reason for this is the thana culture that... continues to influence law enforcement in the country.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary reason cited for the continued prevalence of torture in Pakistan, even after the enactment of the 2022 anti-torture law?",
+        "back": "The article points to the 'thana culture,' a holdover from the colonial age, which fostered domination rather than service towards citizens."
+      },
+      {
+        "front": "How does the article characterize the effectiveness of 'brutish methods' like torture in combating crime?",
+        "back": "The article states that these methods have 'failed to bring down crime numbers,' as evidenced by rampant lawlessness across the country."
+      },
+      {
+        "front": "What comprehensive approach does the article suggest for addressing the issue of torture within the criminal justice system?",
+        "back": "It calls for a revamp of the entire criminal justice system, including sensitizing public servants, adopting scientific investigative techniques, and collaboration among the judiciary, elected representatives, and police."
+      },
+      {
+        "front": "What fundamental principle, emphasized by the Constitution, is cited as the ultimate reason for imperative criminal justice reforms?",
+        "back": "The article states that reforms are imperative because 'the dignity of man, as underscored by the Constitution, must be upheld.'"
+      }
+    ]
+  },
+  {
+    "id": "curated-1785721058346-130",
+    "title": "Farewell to arms?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020269/farewell-to-arms",
+    "date": "2026-08-03",
+    "author": "none@none.com (Editorial)",
+    "content": "PALESTINIAN resistance group Hamas recently made a major concession by agreeing to give up its weapons. It should be remembered that along with its political activities, the movement has an armed wing dedicated to the liberation of Palestine. The group’s weapons will be surrendered to the National Committee for the Administration of Gaza, the Palestinian technocratic body formed under US President Donald Trump’s Board of Peace. In essence, Hamas has thrown the gauntlet to Israel: it is ready to surrender its weapons, but will the Zionist state end its occupation of Gaza? This remains the million-dollar question. Mr Trump was upbeat about the development, saying that Israel was “very happy” about it. However, while there had been no official reaction from Tel Aviv at the time of writing, most Israeli politicians, including some in the cabinet, have decried the move, calling for the destruction of Hamas.\nIt will be interesting to see whether Israel honours its end of the deal and vacates occupied Palestinian territory in Gaza. Going by past precedent, the Israelis are not known for keeping their word. Also, Israeli Prime Minister Benjamin Netanyahu faces an election in October, and there is widespread anti-Palestinian sentiment amongst the electorate. But the Israeli leader may not want to annoy the American president by appearing to sabotage Mr Trump’s Gaza peace plan. Lest we forget, Israel has murdered over 73,000 Palestinians — more than 21,000 of them children — since the Oct 7, 2023 attacks, and while its killing spree has lessened in intensity, it has not stopped completely since the ceasefire came into effect last year. Moreover, the humanitarian situation in Gaza remains appalling. \nIt should be kept in mind that Hamas and other Palestinian groups have continued their armed struggle against Israel because the Zionist state has closed all avenues of peacefully resolving the Palestine question. Almost the entire Israeli political class is opposed to a Palestinian state, illegal settlements continue to proliferate, and Gaza — which even before the 2023 attacks was virtually under siege — lies in ruins. Meanwhile, Israeli provocations against Al Aqsa have not stopped. If this situation is to change, there must be a clear pathway for a Palestinian state, an end to Israeli brutalities against the Arab population, and complete withdrawal from all occupied territories. Knowing the current political climate in Israel, this is asking for the moon. However, Mr Trump, who sees himself as a ‘peacemaker’, and his BoP must press Israel to at least start the process by withdrawing from Gaza, and allowing unimpeded humanitarian assistance into the Strip. If Tel Aviv does not leave Gaza, it will show the world that it is not serious about peace, and is committed to the occupation of Palestine and to the extermination of the Palestinian people.\nPublished in Dawn, August 3rd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-PAL",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Palestine conflict is a long-standing one on the United Nations table. Discuss its recent escalation since October 2023 and critically assess the big powers’ reaction to it."
+    },
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Current Affairs",
+    "topic": "Israel-Palestine Conflict: Recent Developments and Peace Prospects",
+    "whyMatters": "This article directly addresses the 'recent escalation since October 2023' and critically assesses the involvement of a 'big power' (USA via Trump's Board of Peace), making it highly relevant for the specified exam question. It provides crucial facts and arguments regarding Hamas's concessions, Israel's reluctance, and the humanitarian crisis, enabling a nuanced discussion.",
+    "summary": [
+      "Hamas has made a significant concession by agreeing to surrender its weapons to the US-backed National Committee for the Administration of Gaza, challenging Israel to reciprocate.",
+      "The article questions Israel's commitment to peace and withdrawal from occupied territories, citing its past record, ongoing settlements, and Prime Minister Netanyahu's electoral pressures amidst anti-Palestinian sentiment.",
+      "Despite a ceasefire, the humanitarian situation in Gaza remains appalling, with continued Israeli brutalities, including over 73,000 Palestinians killed since Oct 7, 2023, including 21,000+ children.",
+      "A lasting resolution necessitates a clear pathway for a Palestinian state, an end to Israeli violence, complete withdrawal from all occupied territories, and robust pressure from the US on Israel."
+    ],
+    "facts": [
+      "Hamas agreed to surrender its weapons to the National Committee for the Administration of Gaza, a body formed under US President Donald Trump’s Board of Peace.",
+      "Israel has murdered over 73,000 Palestinians — more than 21,000 of them children — since the Oct 7, 2023 attacks.",
+      "Israeli Prime Minister Benjamin Netanyahu faces an election in October (implicitly, 2026, as per article date)."
+    ],
+    "academicReferences": [
+      "UN Security Council Resolution 242 (1967): Establishing the 'land for peace' principle after the Six-Day War.",
+      "Geneva Conventions (1949): Governing international humanitarian law in armed conflicts, relevant to the protection of civilians and occupied territories.",
+      "Oslo Accords (1990s): Historical agreements aimed at achieving a peace treaty between Israel and the PLO, establishing the Palestinian Authority."
+    ],
+    "vocabulary": [
+      {
+        "word": "Concession",
+        "type": "noun",
+        "definition": "A thing that is granted, especially in response to demands; a compromise.",
+        "sentence": "Hamas recently made a major concession by agreeing to give up its weapons."
+      },
+      {
+        "word": "Technocratic",
+        "type": "adjective",
+        "definition": "Relating to a government or system in which experts in technology, science, or economics control the state.",
+        "sentence": "The National Committee for the Administration of Gaza is described as a Palestinian technocratic body."
+      },
+      {
+        "word": "Decried",
+        "type": "verb",
+        "definition": "Publicly denounce or condemn.",
+        "sentence": "Most Israeli politicians have decried the move, calling for the destruction of Hamas."
+      },
+      {
+        "word": "Gauntlet",
+        "type": "noun",
+        "definition": "A challenge, especially one that is issued to an opponent in a metaphorical sense.",
+        "sentence": "Hamas has thrown the gauntlet to Israel: it is ready to surrender its weapons, but will the Zionist state end its occupation of Gaza?"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what major concession did Hamas recently make regarding its military capabilities?",
+        "options": [
+          "A) Agreeing to surrender its weapons.",
+          "B) Recognizing Israel's right to exist.",
+          "C) Forming a joint government with Israel.",
+          "D) Ceasing all political activities."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states: 'PALESTINIAN resistance group Hamas recently made a major concession by agreeing to give up its weapons.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the critical 'million-dollar question' Hamas's agreement to surrender weapons poses to Israel?",
+        "back": "The question is whether Israel will reciprocate by ending its occupation of Gaza, implying that Hamas's concession is a challenge for Israel to demonstrate its commitment to peace."
+      },
+      {
+        "front": "How does the article characterize Israel's track record concerning adherence to agreements and its current political motivations?",
+        "back": "The article suggests Israelis are 'not known for keeping their word' and notes that PM Netanyahu faces an election amidst widespread anti-Palestinian sentiment, which could influence his actions regarding a peace plan."
+      },
+      {
+        "front": "What devastating statistics are provided regarding Palestinian casualties and the humanitarian situation in Gaza since the October 7, 2023 attacks?",
+        "back": "Since Oct 7, 2023, Israel has murdered over 73,000 Palestinians, including more than 21,000 children. The humanitarian situation in Gaza remains appalling despite a ceasefire."
+      },
+      {
+        "front": "What specific conditions and external pressure does the article deem necessary for a peaceful resolution and the potential establishment of a Palestinian state?",
+        "back": "The article calls for a clear pathway for a Palestinian state, an end to Israeli brutalities, complete withdrawal from all occupied territories, and direct pressure from US President Trump and his Board of Peace on Israel to act."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720456097-793",
+    "title": "Water coercion\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020069/water-coercion",
+    "date": "2026-08-02",
+    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
+    "content": "THAT India decided to suspend the Indus Waters Treaty (IWT) 65 years after its signing has added another polemic to the turbulent relations between India and Pakistan. India’s decision came a day after the Pahalgam terrorist incident in India-occupied Kashmir. India blamed the incident on Pakistan, which demanded evidence and called for an independent investigation. Two days after the incident, the Indian minister for water resources, C.R. Patil, threatened that “not a single drop” of water would flow towards Pakistan. Ironically, while India cries foul, it is working actively to perpetuate proxy terrorism in Pakistan through the TTP and BLA.\nThe Narendra Modi government regards the IWT as historical injustice to India. Speaking to the Indian parliament in July 2025, Prime Minister Modi stated that holding the IWT in abeyance has rectified a “big blunder” committed by Jawaharlal Nehru. The argument is that the IWT gave Pakistan nearly 80 per cent of the Indus river system’s flows. Modi argued that India derived its identity from the Indus, but that Nehru and the Congress had allowed the World Bank to decide on the sharing of its waters. India’s leadership conveniently overlooks the fact that India receives 100pc of the waters of the three eastern rivers and is legally permitted to use 20pc of the water of the western rivers for irrigation, power generation and transport.\nIndian thought circles are now weaving a narrative based on three elements: (i) IWT was an unequal bargain that must now be rectified; (ii) Pakistan’s insistence on treaty procedures was an impediment to India’s development projects that could benefit Kashmiris; (iii) Indian projects on the western rivers would not use more than the treaty-permitted 3.6 MAF (this cannot be verified as India is withholding information and has made the Indus Water Commission dysfunctional); and (iv) IWT should be renegotiated to account for demographic and environmental changes that have occurred since 1960.\nThis narrative is designed to take the international community’s attention away from India’s violation of international law as the IWT’s unilateral suspension isn’t allowed by the treaty. Besides, usurping the water rights of the lower riparian goes against the established norms of water sharing. Behind the façade of this narrative, India has started work on multiple dams, mostly on the Chenab river, and inter-basin transfers such as Chenab-Beas tunnel.\nIndia can manipulate flows to hurt the sowing season in Pakistan.\nPakistan’s canal system works on the basis of predictable water flows. Given that India is building several dams and is not providing timely information, even a temporary reduction in flows during the sowing season can have a disastrous effect on Pakistan’s agriculture. That is why Pakistan is so concerned about Indian attempts to build these dams along with withholding information on water flows.\nSo, what options does Pakistan have to ensure its water security? An obvious one is to increase its diplomatic outreach so that the world understands that not only do India’s actions violate its legal obligations, they also threaten the lives and livelihoods of millions of Pakistanis dependent on the waters of the Indus basin. However, since the world order is in disarray and the prevailing global geopolitics is chaotic, India doesn’t seem to care much for diplomatic pressure. Legally, Pakistan’s case has been endorsed by the Hague-based Court of Arbitration, which has ruled that India’s attempt to place the IWT in abeyance has no legal basis and that India must ensure the uninterrupted flow of the western rivers. How­e­ver, India blata­n­tly rej­ected the awards. That bri­ngs into play the military option. Wars are a costly business, pa­­-r­ticularly bet­ween two nuclear-arm­­ed neighbo­urs. India needs to know that it must not test Pa­-kistan’s patience lest both countries end up in a disastrous situation.\nSome experts say that India will not be able to steal more water because of the limitations of the hilly terrain, particularly in the case of the Indus. If it could have stolen, it would have certainly done so in the past 65 years. However, this view does not take into account regional geopolitics, which has driven India’s decision to suspend the treaty. While it is true that geography will not permit India to stop Pakistan’s share of water, it can manipulate flows to hurt the sowing season in the country. A dedicated Pakistan-India backchannel is necessary to resolve the deadlock before disaster strikes. In a package approach, India could restore the treaty while Pakistan accepts the negotiation of an addendum to the IWT on demographic and environmental changes. Pakistan should also work harder towards more efficient use of the water it receives and bolster its storage capacity.\nThe writer is chairman, Sanober Institute, and former foreign secretary of Pakistan.\nPublished in Dawn, August 2nd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Pakistan Affairs",
+    "topic": "Indus Waters Treaty (IWT) and Pakistan-India Relations",
+    "whyMatters": "This article provides a contemporary and critical perspective on the Indus Waters Treaty, detailing India's unilateral actions and their implications for Pakistan. It offers specific arguments, legal challenges, and potential solutions crucial for analyzing the treaty's impact on bilateral relations and water distribution for competitive exams.",
+    "summary": [
+      "India unilaterally suspended the Indus Waters Treaty (IWT) in 2025, citing historical injustice, terrorist incidents, and development impediments, despite the treaty not allowing such action.",
+      "India's narrative frames the IWT as an unequal bargain, disregarding its existing rights to eastern rivers and 20% of western river waters, while simultaneously withholding information and making the Indus Water Commission dysfunctional.",
+      "Pakistan faces significant threats from India's dam construction and flow manipulation, particularly impacting its agriculture and water security due to the predictable nature of its canal system.",
+      "Pakistan's options include diplomatic outreach, leveraging international legal rulings (like the Hague's Court of Arbitration), considering a costly military option, or pursuing a backchannel 'package approach' to renegotiate addendums and enhance internal water efficiency."
+    ],
+    "facts": [
+      "IWT was signed 65 years prior to its suspension (i.e., in 1960).",
+      "India claims IWT gave Pakistan nearly 80% of the Indus river system's flows, but it receives 100% of eastern river waters and is legally allowed 20% from western rivers.",
+      "India's projects on western rivers are permitted to use up to 3.6 MAF, though this is now unverifiable due to withheld information.",
+      "The Hague-based Court of Arbitration has ruled that India's attempt to place the IWT in abeyance has no legal basis."
+    ],
+    "academicReferences": [
+      "The Indus Waters Treaty (IWT) 1960",
+      "Rulings of the Hague-based Court of Arbitration regarding IWT disputes",
+      "C.R. Patil's statement as Indian Minister for Water Resources (2025)",
+      "Works on 'Water Geopolitics' in South Asia"
+    ],
+    "vocabulary": [
+      {
+        "word": "Polemic",
+        "type": "noun",
+        "definition": "A strong verbal or written attack on someone or something.",
+        "sentence": "That India decided to suspend the Indus Waters Treaty (IWT) 65 years after its signing has added another polemic to the turbulent relations between India and Pakistan."
+      },
+      {
+        "word": "Abeyance",
+        "type": "noun",
+        "definition": "A state of temporary disuse or suspension.",
+        "sentence": "Prime Minister Modi stated that holding the IWT in abeyance has rectified a 'big blunder' committed by Jawaharlal Nehru."
+      },
+      {
+        "word": "Usurping",
+        "type": "verb",
+        "definition": "Taking a position of power or importance illegally or by force.",
+        "sentence": "Besides, usurping the water rights of the lower riparian goes against the established norms of water sharing."
+      },
+      {
+        "word": "Blatantly",
+        "type": "adverb",
+        "definition": "In an open and unashamed manner.",
+        "sentence": "How­e­ver, India blata­n­tly rej­ected the awards."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT cited by India as a reason for suspending the IWT?",
+        "options": [
+          "Historical injustice of the treaty",
+          "Impediment to India's development projects",
+          "Pakistan's violation of previous treaty agreements",
+          "Demographic and environmental changes since 1960"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions historical injustice, development impediments, and demographic/environmental changes as India's narrative elements, but not Pakistan's violation of previous treaty agreements."
+      },
+      {
+        "question": "What is Pakistan's primary concern regarding India's dam construction and withholding of water flow information?",
+        "options": [
+          "Loss of hydropower generation capacity",
+          "Disastrous effects on Pakistan's agriculture during sowing seasons",
+          "Increased risk of floods in lower riparian areas",
+          "Reduced navigability of rivers for trade"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'even a temporary reduction in flows during the sowing season can have a disastrous effect on Pakistan’s agriculture.'"
+      },
+      {
+        "question": "What is the international legal stance on India's unilateral suspension of the IWT, according to the article?",
+        "options": [
+          "It is fully permissible under international law due to security concerns.",
+          "The treaty allows for unilateral suspension under specific circumstances.",
+          "The Hague-based Court of Arbitration has ruled it has no legal basis.",
+          "The World Bank has endorsed India's decision to suspend the treaty."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that 'the Hague-based Court of Arbitration, which has ruled that India’s attempt to place the IWT in abeyance has no legal basis.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is India's primary historical justification, as mentioned by PM Modi, for suspending the Indus Waters Treaty (IWT)?",
+        "back": "PM Modi regards the IWT as a 'big blunder' and historical injustice, claiming it gave Pakistan nearly 80% of the Indus river system's flows and rectified by holding it in abeyance."
+      },
+      {
+        "front": "How does India's manipulation of water flows specifically threaten Pakistan, beyond just reducing overall water share?",
+        "back": "India can manipulate flows to hurt Pakistan's critical sowing season, causing disastrous effects on its agriculture due to the reliance on predictable water flows for its canal system."
+      },
+      {
+        "front": "What legal action has Pakistan taken regarding India's IWT suspension, and what was the outcome?",
+        "back": "Pakistan's case was endorsed by the Hague-based Court of Arbitration, which ruled that India's attempt to place the IWT in abeyance has no legal basis and mandated uninterrupted flow of western rivers. However, India blatantly rejected these awards."
+      },
+      {
+        "front": "What 'package approach' is suggested as a potential diplomatic solution to the IWT deadlock?",
+        "back": "The suggested 'package approach' involves India restoring the treaty while Pakistan accepts the negotiation of an addendum to the IWT addressing demographic and environmental changes, alongside Pakistan working on efficient water use and storage capacity."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720819660-454",
+    "title": "Rethinking the auto policy\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020071/rethinking-the-auto-policy",
+    "date": "2026-08-02",
+    "author": "none@none.com (Ehsan Malik)",
+    "content": "PAKISTAN’S automobile industry captures the country’s industrial policy dilemma well. As the government considers lower tariffs, manufacturers warn of plant closures, job losses and wasted investment. Critics argue that, despite more than 40 years of protection, consumers until recently faced high prices and limited choice, while exports remained negligible.\nBoth sides have a point. But the debate is framed wrongly. The question is: can the country’s auto industry build capabilities that can compete in regional and global value chains?\nOne principle should guide policy. Except in strategically important sectors, any industry seeking protection must offer consumers better value and move towards international competitiveness. Protection should be a runway, not a refuge.\n    \nThe auto industry deserves credit. It has built assemblers and component suppliers, developed engineering skills, invested in vendors and created skilled jobs despite expensive energy, costly finance, policy uncertainty, cumbersome regulation and weak logistics. But the main goals — saving foreign exchange through localisation and creating large-scale employment — were flawed from the start.\nCan Pakistan’s auto industry build capabilities that can compete in regional and global value chains?\nThe first misconception was localisation. Auto policy assumed that making more components at home would ease pressure on the external account. That ignored how modern vehicles are made. Engines, transmissions, fuel injection systems, electronic controls and software carry much of a vehicle’s value. Producing them competitively requires deep upstream capacity in automotive-grade steel, petrochemicals, specialised alloys, precision engineering and electronics. Pakistan never built those foundations at scale, so localisation became a numerical target rather than a measure of real competitiveness.\nLocalisation numbers are also misleading. They count components assembled domestically, not domestic value added. Seats, batteries, tyres, wiring harnesses, glass, plastic mouldings and metal stampings may be made locally, but many depend on imported inputs and moulds and use energy generated from imported fuels. A 50 to 60 percent localisation rate can therefore produce far smaller foreign exchange savings than advertised. Better metrics would track net domestic value addition, foreign exchange displacement and exports of locally manufactured components.\nThe second misconception was jobs. Automobile manufacturing is capital-intensive. It relies heavily on automation because quality and precision leave little room for manual shortcuts. Pakistan’s largest assembler employs fewer than 2,500 people directly, and the three largest together less than 6,000. Suppliers add jobs, but the direct workforce remains small relative to the protection received. Dealerships, distribution and repair facilities would exist even if vehicles were imported fully built.\nThe third misconception was scale. Competitive automobile manufacturing depends on large volumes that spread fixed costs across millions of vehicles. Pakistan’s market, at fewer than 300,000 vehicles a year, is too small to support that model on its own. Policy made matters worse by treating motor vehicles as luxury goods and taxing demand down. One arm of government protected local assembly while another choked the scale needed to make it efficient. The domestic consumer paid for both.\nNone of this negates the industry’s achievements. It shows that policy was flawed and measured success against goals the industry’s structure made difficult, and at times impossible, to meet. Technology has now made the old debate even less useful. The global industry is moving from internal combustion engines to hybrids and EVs, changing where value is created. EVs eliminate or simplify many components around which Pakistan’s localisation strategy has traditionally been built. Engines, multi-speed gearboxes, exhaust systems, catalytic converters and fuel injection technologies become less important. Value shifts instead to batteries, electric motors, power electronics, battery management systems, semiconductors, sensors and software.\nPakistan must stop designing industrial policy around yesterday’s technologies. Hybrids are the practical bridge: they cut fuel use and emissions without depending on charging infrastructure or an electricity network not yet ready for mass EV adoption. The policy goal should no longer be higher localisation percentages. It should be higher domestic value addition, exports, lower environmental impact and deeper technological capability. Incentives should favour battery assembly, electric motors, power electronics, charging equipment, automotive software, precision engineering and advanced manufacturing. Pakistan’s IT sector can support connected vehicles, while commercially viable minerals should feed domestic battery material and mobility supply chains rather than leave the country with minimal processing.\n    \nPakistan should position itself as a base for export-oriented investment, especially for Chinese EV producers looking to diversify production and reach regional markets. This will require predictable policy, competitive energy, efficient logistics, easier access to imported inputs and trade agreements that open real market access. Morocco shows what scale and access can achieve — it exports about 500,000 of the 600,000 vehicles it produces to the EU.\nSuccessful automotive producers offer clear lessons. Japan, South Korea, China and Thailand supported their auto industries, but protection was temporary, conditional and tied to exports, productivity, technology transfer and upgrading. India built its auto sector behind restrictions on consumer choice, while Asean and Mercosur countries used regional production networks to achieve scale. Pakistan should draw from these experiences, but it cannot simply replicate them as its domestic market is too small, regional integration is weak and the technology frontier has moved on.\nTariffs in Pakistan should fall through a transparent, predictable schedule that gives firms time to adjust but no excuse to stand still. Government must lower economy-wide costs through energy, logistics and tax reform, while linking any remaining incentives to exports, domestic value addition, engineering depth and high-value hybrid and EV technologies — not production volumes or headline localisation rates.\nThe real choice is not protection or liberalisation. It is whether Pakistan keeps measuring success by yesterday’s metrics or prepares for tomorrow’s automotive industry. The next auto policy should reward value addition, exports, innovation and technological transformation, and not permanence behind tariff walls. That would serve manufacturers, consumers and competitiveness far better than another decade of sterile debate.\nThe writer is a former CEO of Unilever Pakistan and of the Pakistan Business Council.\nPublished in Dawn, August 2nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs / Economics",
+    "topic": "Industrial Policy, Trade & Economic Development (Automobile Sector)",
+    "whyMatters": "While this article is not directly about the Economic Cooperation Organization (ECO) or Pakistan's historic role in it, it provides crucial insights into Pakistan's industrial policy failures, particularly regarding regional integration and export orientation. Aspirants can leverage its arguments on weak regional integration, the need for export-led growth, and trade agreements for market access to *peripherally* support discussions on the challenges ECO faces in fostering regional economic ties for Pakistan.",
+    "summary": [
+      "Pakistan's historical auto policy, despite 40+ years of protection, has failed consumers and exports, acting as a 'refuge' rather than a 'runway' for competitiveness.",
+      "The policy was based on flawed misconceptions: localisation (ignoring real value addition and deep upstream capacity), job creation (capital-intensive nature of the industry), and scale (small domestic market choked by high taxes).",
+      "The global shift to Electric Vehicles (EVs) and Hybrids renders Pakistan's traditional localisation strategy obsolete, demanding a pivot towards value creation in new technologies like batteries, motors, and software.",
+      "Future policy must prioritize higher domestic value addition, exports, lower environmental impact, and deeper technological capability, positioning Pakistan as an export base (e.g., for Chinese EV producers) with predictable policy and competitive costs."
+    ],
+    "facts": [
+      "Pakistan's auto industry has operated under protection for over 40 years.",
+      "The domestic auto market is small, at fewer than 300,000 vehicles per year, insufficient for competitive scale.",
+      "Morocco exports approximately 500,000 of the 600,000 vehicles it produces to the EU, demonstrating successful export-oriented strategy."
+    ],
+    "academicReferences": [
+      "The Economy of Modern Pakistan by Ishrat Husain (for insights into industrial policy and economic development)",
+      "WTO Agreements (relevant for discussions on tariffs, trade liberalization, and international competitiveness)",
+      "Pakistan's Strategic Trade Policy Framework (STPF) documents (for government's broader trade and industrial vision)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Tariffs",
+        "type": "noun",
+        "definition": "Taxes imposed on imported goods and services.",
+        "sentence": "The government is considering lower tariffs to make imported cars more affordable."
+      },
+      {
+        "word": "Localisation",
+        "type": "noun",
+        "definition": "The process of adapting products or services to a particular local market, often by manufacturing components domestically.",
+        "sentence": "The auto policy aimed for higher localisation percentages to save foreign exchange."
+      },
+      {
+        "word": "Capital-intensive",
+        "type": "adjective",
+        "definition": "Requiring a large amount of financial capital or investment in equipment and machinery relative to labor.",
+        "sentence": "Automobile manufacturing is a capital-intensive industry, relying heavily on automation."
+      },
+      {
+        "word": "Value chains",
+        "type": "noun",
+        "definition": "The full range of activities that firms and workers perform to bring a product from its conception to end use.",
+        "sentence": "Can Pakistan's auto industry build capabilities that can compete in regional and global value chains?"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was identified as a primary flaw in Pakistan's historical auto policy regarding its approach to protection?",
+        "options": [
+          "It treated protection as a refuge, not a runway for competitiveness.",
+          "It focused too much on export promotion from the outset.",
+          "It failed to attract any foreign investment in the sector.",
+          "It did not adequately protect local manufacturers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states that the principle should be 'Protection should be a runway, not a refuge,' implying the past policy failed by treating it as a refuge."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What were the three key misconceptions underpinning Pakistan's old auto policy?",
+        "back": "The misconceptions were: 1) Localization (misleading metrics, ignored deep upstream capacity), 2) Jobs (capital-intensive, small direct workforce), and 3) Scale (small domestic market, taxed demand down)."
+      },
+      {
+        "front": "How has the global shift in automotive technology impacted the relevance of Pakistan's traditional localisation strategy?",
+        "back": "The global shift to Hybrids and EVs eliminates or simplifies many components (engines, gearboxes, exhaust systems) around which Pakistan’s localisation strategy was built, shifting value to new areas like batteries, electric motors, and software."
+      },
+      {
+        "front": "What new policy goals does the article propose for Pakistan's auto industry?",
+        "back": "New policy goals should be higher domestic value addition, exports, lower environmental impact, and deeper technological capability, rather than merely higher localisation percentages."
+      },
+      {
+        "front": "What strategic approach does the article suggest Pakistan adopt to achieve competitiveness in the future auto industry?",
+        "back": "Pakistan should position itself as a base for export-oriented investment, especially for Chinese EV producers, by offering predictable policy, competitive energy, efficient logistics, and access to regional markets through trade agreements."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720903998-762",
+    "title": "American crisis\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020263/american-crisis",
+    "date": "2026-08-02",
+    "author": "none@none.com (Huma Yusuf)",
+    "content": "THE Middle East is broiling. The US-Iran conflict is spilling across borders to Egypt, Saudi Arabia, Jordan, Yemen, Iraq and various Gulf countries. For now, most eyes are on Saudi Arabia, which finds itself drawn into a conflict it was seeking to keep at its periphery. Riyadh last week joined Washington to target the Iran-backed Popular Mobilisation Forces in Iraq. This followed Saudi strikes against Houthi forces in Yemen in response to the targeting of Saudi oil tankers using Red Sea shipping routes. Experts anticipate Riyadh will launch a wider offensive against the Houthis over the coming days.\nThis risks turning what began as a US and Israeli effort against Iran into a region-wide conflict with sectarian contours. Forget US President Donald Trump’s February boast that the war would be over within weeks — security analysts now predict an up-to-a-decade-long conflagration.\nPakistan will find itself sucked into this quagmire with each development. Its mutual defence pact with the kingdom has been supplemented by participation in the newly formed maritime defence alliance, which aims to secure shipping routes in the Bab al-Mandeb Strait, the Red Sea and the Gulf of Aden — critical alternatives to the Strait of Hormuz. Pakistan has vested interests in securing these routes — disruptions to oil trading have led to soaring oil prices and a nearly five per cent decrease in Saudi Arabia’s GDP in the last quarter, a fact highly relevant to nations that frequently depend on the kingdom’s largesse.\nWhile the focus remains on each new front line in the conflict, the question that should be asked is why this war is continuing. Think back to a few weeks ago, when it seemed that the worst had to be over, given that Trump was tiring of the strategic miscalculation with Iran and looking ahead to a summer of fun: a visit from the British king, the football World Cup. No one expected the conflict to drag into the autumn, thereby risking Trump’s party’s position in the US mid-term elections in November.\nOne in four of those who voted for Trump in 2024 opposes the war.\nThe electoral run-up, in particular, defies Trump’s logic of ramping up the Iran conflict. One in four of those who voted for Trump in 2024 opposes the war. Many MAGA supporters, with Tucker Carlson among the most vocal, believe the conflict is misaligned with the movement’s ‘America First’ isolationist principles.\nNon-MAGA Republicans and the independents whom Trump won over in droves in the last election also find the conflict to be a turn-off. An AP-NORC poll conducted between July 23–27 in the US found that 64pc of Americans do not believe the war with Iran is worth fighting. More detailed surveys conducted in May by the Chicago Council on Global Affairs highlighted that 86pc of Americans are concerned about the war’s impact on the cost of living, 72pc believe it is damaging to the country’s overseas reputation and foreign relations, and 65pc believe it undermines the country’s national security — arguably the most damning finding given that Trump’s original war justifications focused on securing the US and its allies against overstated Iranian aggression.\nUS public opinion of Trump and his ill-conceived war is likely to worsen as the conflict escalates and midterms approach. In June 2026, consumer costs were almost 4pc higher than a year ago, with American truckers paying more for fuel and American farmers paying more for fertilisers. Cash-strapped Americans will not be pleased to hear that the Pentagon requires $80 billion more to continue fighting, having already spent $37.5bn to date.\nSo why are we here? Security analysts believe Trump thinks that military might yet get the better of the Iranians, either through military control of the Str­ait of Hormuz or through the dep­loyment of grou­­nd troops in Iran — an option previously conside­r­­ed a red line but now increasingly discussed as an endgame prospe­­ct. This perception of a military solution is fuelled by the gains experienced by America’s military economy, which is growing at the expense of other domestic investment, including investment in public services.\nBut the true driver of this prolonged conflict is more existential, as the US grapples with its place in a shifting world order, balancing a desire for global influence against a growing need for internal sociopolitical and economic consolidation. Khalid Al Jaber, writing for the Middle East Council, summarised it well: “The Iranian crisis revealed that Washington’s deepest challenge lies not on the battlefield … but in managing an internally deepening division between two competing and contradictory visions for the future of America’s global role: the leadership-through-strength or ‘America First’ vision … and the domestic rebalancing vision.” Multipolarity is real, but we still inhabit a world where America’s existential crisis is the world’s problem. \nThe writer is a political and integrity risk analyst.\nX: @humayusuf\nPublished in Dawn, August 3rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "International Relations / Current Affairs",
+    "topic": "US-Iran Conflict, Middle East Geopolitics, and Pakistan's Evolving Role",
+    "whyMatters": "This article critically analyzes the multifaceted US-Iran conflict, detailing its regional spillover, economic ramifications, and Pakistan's involvement. It is crucial for understanding contemporary global power shifts and their impact on international security and diplomacy.",
+    "summary": [
+      "The US-Iran conflict is rapidly escalating, threatening to transform into a decade-long, region-wide sectarian conflagration across the Middle East.",
+      "Pakistan faces increasing pressure to become involved due to mutual defense pacts and maritime security alliances, with significant economic interests tied to regional stability.",
+      "Despite the conflict's expansion, US public opinion, including many 'America First' supporters, increasingly opposes the war due to rising economic costs and a perceived misalignment with national interests.",
+      "The prolonged conflict primarily stems from the US's internal struggle to redefine its global role amidst a multipolar world order, balancing global influence with domestic consolidation needs."
+    ],
+    "facts": [
+      "64% of Americans surveyed by AP-NORC do not believe the war with Iran is worth fighting.",
+      "The Pentagon requires an additional $80 billion for the conflict, having already spent $37.5 billion, while consumer costs rose nearly 4% in June 2026.",
+      "One in four of those who voted for Trump in 2024 opposes the war, aligning with 'America First' isolationist principles."
+    ],
+    "academicReferences": [
+      "Samuel P. Huntington's 'The Clash of Civilizations and the Remaking of World Order'",
+      "John Mearsheimer's 'The Tragedy of Great Power Politics' (for realist international relations)",
+      "Reports from think tanks like the Chicago Council on Global Affairs or Middle East Council",
+      "The 'America First' foreign policy doctrine"
+    ],
+    "vocabulary": [
+      {
+        "word": "broiling",
+        "type": "verb (present participle)",
+        "definition": "experiencing extreme heat or intense conflict",
+        "sentence": "The Middle East is currently broiling with geopolitical tensions, as various state and non-state actors engage in proxy wars."
+      },
+      {
+        "word": "conflagration",
+        "type": "noun",
+        "definition": "an extensive fire; a large-scale, intense conflict or war",
+        "sentence": "Experts fear the escalating US-Iran conflict could turn into a decade-long conflagration, destabilizing the entire region."
+      },
+      {
+        "word": "largesse",
+        "type": "noun",
+        "definition": "generosity in bestowing money or gifts upon others",
+        "sentence": "Nations that frequently depend on Saudi Arabia's largesse are concerned about the conflict's impact on the kingdom's GDP and ability to provide aid."
+      },
+      {
+        "word": "existential",
+        "type": "adjective",
+        "definition": "relating to existence; concerning fundamental questions of being or purpose",
+        "sentence": "The article suggests that the true driver of the prolonged conflict is the US's existential crisis regarding its place in a shifting world order."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary underlying reason for the prolonged US-Iran conflict, beyond immediate military objectives?",
+        "options": [
+          "A) A global shortage of oil reserves.",
+          "B) The US's internal struggle to define its global role and balance influence with domestic needs.",
+          "C) Insufficient military funding for the Pentagon's operations.",
+          "D) A desire by European allies to prolong the conflict for economic gains."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'But the true driver of this prolonged conflict is more existential, as the US grapples with its place in a shifting world order, balancing a desire for global influence against a growing need for internal sociopolitical and economic consolidation.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article characterize the anticipated duration and nature of the escalating US-Iran conflict?",
+        "back": "Security analysts predict an up-to-a-decade-long conflagration, with the conflict becoming region-wide and having sectarian contours."
+      },
+      {
+        "front": "What specific reasons does the article provide for Pakistan's involvement in the Middle East conflict?",
+        "back": "Pakistan is involved due to a mutual defense pact with Saudi Arabia and participation in a newly formed maritime defense alliance aimed at securing critical shipping routes like Bab al-Mandeb Strait, Red Sea, and Gulf of Aden."
+      },
+      {
+        "front": "What is the general sentiment of the US public, including many 'America First' supporters, regarding the war with Iran, according to the article?",
+        "back": "US public opinion largely opposes the war, with 64% of Americans believing it's not worth fighting, and many 'America First' supporters seeing it as misaligned with isolationist principles due to economic costs."
+      },
+      {
+        "front": "What is the 'America's existential crisis' mentioned in the article, in relation to the global order?",
+        "back": "It refers to the US grappling with its place in a shifting multipolar world, trying to balance its desire for global influence with a growing need for internal sociopolitical and economic consolidation, leading to conflicting visions for its global role."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720378391-421",
+    "title": "Damage assessment\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020266/damage-assessment",
+    "date": "2026-08-02",
+    "author": "none@none.com (Maleeha Lodhi)",
+    "content": "PRESIDENT Donald Trump’s approval rating has hit an all-time low according to the latest Economist/YouGov poll. The survey found 62 per cent of Americans disapprove of the president’s performance while 63pc say the country is headed in the wrong direction. These are Trump’s worst numbers since he returned to the White House last year. The results align with findings of other polls, which show he has fallen out of favour with the majority of Americans. The slide isn’t just about an unpopular war with Iran. Trump’s management of the economy is also driving public discontent. \nThe first 18 months of the mercurial leader’s second term have been defined by disruption at home and abroad. His ‘America First’ unilateralism has meant military strikes on multiple countries and upending of the global trading system. It reflects contempt for international law and other nations’ sovereignty. For a president who promised to end wars, not start them, his record is the opposite. Trump assumed American power could browbeat other countries into compliance at no cost to the US. That was a miscalculation. His overreliance on force also failed to produce the results he wanted. \nTrump may be extreme in his imperious, unilateralist ways but there is continuity with past US conduct in an important respect. Throughout its history of dealing with other nations, the US has underestimated the power of nationalism and the resistance it would meet in trying to force its will on others. It found that in its interventions in Vietnam, Afghanistan and Iraq, which entangled Washington in unwinnable wars, produced strategic blunders and doomed its military adventures. Today, it is finding that again in the war against Iran. Trump also doesn’t seem to understand that the unipolar world long passed into history. In today’s multipolar world, countries will not so easily bend to Washington’s will. Indeed, the more Trump makes blusterous claims and tweets about how he has the power to get what he wants, the more it exposes his inability to secure his goals.\nThere is no shortage of commentary on Donald Trump’s personality and record. Two of the latest books are worth noting. Regime Change by Maggie Haberman and Jonathan Swan and Betrayed: America didn’t vote for this by Ira Shapiro and Anne Kim. Both cover the first year plus of Trump’s second presidency and deliver stinging indictments of his performance. Betrayed is written by a broad coalition of distinguished bipartisan experts from among former government officials, lawyers, scholars and journalists. They are members of what is called the Common Sense Coalition. They chronicle the damage Trump has done to his country and to America’s standing in the world. This damage assessment is undertaken across multiple areas — economy, foreign policy, democracy and free speech, judiciary, voting system, education and climate. The book’s main point is that Americans did not vote for what Trump is doing and the disorder he is producing. His abuses of power must be stopped and his team members held accountable if America’s crisis is to end.\nWith his approval ratings having plunged Trump’s conduct has hardened global attitudes towards the US.\nThough brief the chapters are pointed. The one on a weaker America is especially sharp. It argues that Trump has fractured the foundations for global stability. His costly and impetuous military adventures without a strategy or respect for international law and his contempt for traditional allies have endangered US security. The authors describe an unchecked president dragging the country into multiple conflicts with scant regard for the fallout. The attack on Iran, they argue, lays bare the hallmarks of his foreign policy decision making — impulsiveness, prioritising force over diplomacy, failure to take rational decisions based on their likely impact and trashing the concerns of allies. They frame his National Security Strategy as a reversal of eight decades of US foreign policy. \nThis has resulted in ‘America Weaker’ and ‘America Alone’ and drained its soft power. Its international stature has diminished. Trump has alienated virtually all allies who had helped the US maintain global peace. The authors also argue Trump has misused and politicised the military and packed it with yes-men afraid of telling him the truth. \nIn the chapter on the rule of law the writers hold Trump guilty of violating limits on presidential power, threatening the integrity of courts and usurping Congressional powers. Core civil liberties have been threatened. He is seen as weaponising government machinery including the Justice Department to punish political opponents and suppress dissent. He has violated court orders and vilified judges while shielding his friends from legal accountability. \nRegime Change is no less scathing about Trump’s record in office. Its subtitle Inside the imperial presidency of Donald Trump indicates its focus is on the inner workings of the White House. It is a riveting, richly sourced account of the chaos wreaked by a president who has acted with impunity and radically changed the office he occupies. It narrates how efforts have been made to stop Trump but failed. Based on over 1,000 interviews, it takes the readers behind the scenes to offer insights into Trump’s decision-making that has been so consequential and of course harmful for the country. \nHow his team fell in line with his decisions even when they strongly disagreed is exemplified by a telling exchange between Trump and Benjamin Netanyahu during his February visit to Washington when he convinced Trump to attack Iran. The Israeli leader assured Trump that regime change would succeed in Iran and its nuclear capability would be destroyed, before Tehran could seize the Strait of Hormuz. The CIA director rubbished this view while the secretary of state called it “farcical”. But Trump prevailed.\nTrump’s conduct has hardened global attitudes toward the US. Friends, allies and adversaries view the erratic swings in American policy with alarm. The latest poll by the Pew Research Centre captures the shift. China is viewed more favourably than the US in most countries surveyed. Given the turbulence of the past 18 months, that result is hardly unexpected. \nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, August 3rd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "International Relations / Current Affairs",
+    "topic": "Impact of Donald Trump's Presidency on US Domestic & Foreign Policy",
+    "whyMatters": "This article does not directly address the specified Pakistan Affairs question regarding the judiciary's role in Pakistan's constitutional development. However, for International Relations or Current Affairs papers, it offers a critical assessment of US foreign policy under Donald Trump, highlighting its impact on global stability and US soft power, crucial for understanding contemporary global challenges.",
+    "summary": [
+      "President Trump's approval ratings plummeted to an all-time low due to public discontent over his economic management and an unpopular war with Iran.",
+      "His 'America First' unilateralism and overreliance on force led to military strikes, disruption of the global trading system, and a disregard for international law and sovereignty.",
+      "The article argues that Trump, like past US administrations, underestimated the power of nationalism and resistance, leading to strategic blunders and diminishing US influence in a multipolar world.",
+      "Two notable books, 'Regime Change' and 'Betrayed,' provide stinging indictments of Trump's performance, detailing damage across economy, foreign policy, democracy, rule of law, and US global standing."
+    ],
+    "facts": [
+      "62% of Americans disapproved of President Trump’s performance according to the Economist/YouGov poll.",
+      "The book 'Betrayed: America didn’t vote for this' was written by a broad coalition of bipartisan experts from the Common Sense Coalition.",
+      "The Pew Research Centre poll found China viewed more favourably than the US in most countries surveyed, reflecting a shift in global attitudes."
+    ],
+    "academicReferences": [
+      "Maggie Haberman and Jonathan Swan, 'Regime Change: Inside the imperial presidency of Donald Trump'",
+      "Ira Shapiro and Anne Kim, 'Betrayed: America didn’t vote for this'",
+      "Economist/YouGov Poll (on Trump's approval ratings)",
+      "Pew Research Centre Poll (on global attitudes towards US and China)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Mercurial",
+        "type": "adjective",
+        "definition": "Subject to sudden or unpredictable changes of mood or mind; volatile.",
+        "sentence": "The mercurial leader's policies often shifted without prior warning, causing widespread uncertainty."
+      },
+      {
+        "word": "Unilateralism",
+        "type": "noun",
+        "definition": "The doctrine or policy of acting independently of other states.",
+        "sentence": "Trump's 'America First' unilateralism was criticized for undermining international cooperation and alliances."
+      },
+      {
+        "word": "Imperious",
+        "type": "adjective",
+        "definition": "Assuming power or authority without justification; arrogant and domineering.",
+        "sentence": "His imperious attitude suggested a disregard for the advice and concerns of his allies."
+      },
+      {
+        "word": "Scathing",
+        "type": "adjective",
+        "definition": "Severely critical; withering.",
+        "sentence": "The books offered a scathing indictment of the president's performance and policies."
+      },
+      {
+        "word": "Impunity",
+        "type": "noun",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "The article suggests the president often acted with impunity, changing the office he occupied."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the Economist/YouGov poll mentioned, what percentage of Americans disapproved of President Trump’s performance?",
+        "options": [
+          "50 percent",
+          "62 percent",
+          "45 percent",
+          "70 percent"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'The survey found 62 per cent of Americans disapprove of the president’s performance'."
+      },
+      {
+        "question": "Which of the following was NOT cited as a hallmark of Trump's foreign policy decision-making?",
+        "options": [
+          "Impulsiveness",
+          "Prioritising force over diplomacy",
+          "Respect for traditional allies",
+          "Failure to take rational decisions based on likely impact"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions 'his contempt for traditional allies' as characteristic, not 'respect for traditional allies'."
+      },
+      {
+        "question": "What historical pattern did the article suggest Trump's administration repeated in its foreign interventions?",
+        "options": [
+          "Building strong international coalitions",
+          "Underestimating nationalism and resistance",
+          "Successfully achieving regime change at low cost",
+          "Prioritizing diplomacy over military force"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Throughout its history of dealing with other nations, the US has underestimated the power of nationalism and the resistance it would meet... It found that in its interventions in Vietnam, Afghanistan and Iraq... Today, it is finding that again in the war against Iran.'"
+      },
+      {
+        "question": "The book 'Betrayed: America didn’t vote for this' conducted a 'damage assessment' across multiple areas. Which of these was NOT listed?",
+        "options": [
+          "Economy",
+          "Judiciary",
+          "Sports policy",
+          "Climate"
+        ],
+        "answerIndex": 2,
+        "explanation": "The book's damage assessment covered 'economy, foreign policy, democracy and free speech, judiciary, voting system, education and climate.' Sports policy was not mentioned."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the core miscalculation Trump made regarding the application of American power?",
+        "back": "Trump assumed American power could browbeat other countries into compliance at no cost to the US."
+      },
+      {
+        "front": "How did Trump's 'America First' unilateralism impact global stability and the international trading system?",
+        "back": "His 'America First' unilateralism meant military strikes on multiple countries and an upending of the global trading system, reflecting contempt for international law and other nations' sovereignty, thereby fracturing the foundations for global stability."
+      },
+      {
+        "front": "According to the article, what was the consequence of Trump's foreign policy for US international stature and alliances?",
+        "back": "It resulted in 'America Weaker' and 'America Alone,' draining its soft power, diminishing its international stature, and alienating virtually all allies who had helped the US maintain global peace."
+      },
+      {
+        "front": "How did the article describe Trump's actions concerning the rule of law and presidential power?",
+        "back": "Trump was accused of violating limits on presidential power, threatening the integrity of courts, usurping Congressional powers, weaponizing government machinery, violating court orders, and vilifying judges while shielding allies from legal accountability."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720543309-0",
+    "title": "A hard state?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020265/a-hard-state",
+    "date": "2026-08-02",
+    "author": "none@none.com (Umair Javed)",
+    "content": "THESE days we are repeatedly told that the Pakistani state has been soft on anarchy for far too long. This is the considered and stated position of many state officials as well as of many supporters of those in power. Common people may hold any number of positions that one finds distasteful but the same sentiments being voiced by those in power invite both scrutiny and concern.\nFor the last three years, there has been much chatter about turning Pakistan into a ‘hard state’. No one has given an adequate definition of what this entails, but based on disparate statements and impulses, we can gather this has something to do with protecting the rights of the state and the decision-makers who staff it. These rights are being obtained via a frequently violent trade-off with the rights of the people of Pakistan. \nThe projected consequence of such a trade-off is that protest of all shades becomes a privilege. Demands can only be voiced with due approval through vetted content and NOCs. Speech is to be regulated via defamation, criminalisation laws, and an apparently pliant judiciary till it takes on an acceptable hue, or preferably till it becomes an echo of the state’s.\nThese impulses are neither unique to the Pakistani state nor are they exceptional to this current moment. Trysts with authoritarianism dot the country’s past and arguably lie at the roots of its state structure. British viceregal authority bequeathed an overdeveloped administrative apparatus, which has since then done exceedingly well to reproduce itself and the privileges of those who staff it. When given a chance, politicians of nearly all stripes — centralists, federalists, provincial magnates, or constituency-level bigwigs — have been more than happy to fortify this arrangement for their own and their clients’ benefits.\nAnd yet there is a question that should gnaw at anyone who thinks about the trade-off at the table. What is all of this for? If people are being asked to voluntarily or otherwise forfeit their constitutional or social rights, it only makes sense to interrogate what end goal this forfeiture is designed to serve.\nBeyond the protection of geographic boundaries, what other objectives do limits on individual liberty serve?\nForfeiture of individual liberty is commanded by all states in service of some basic objectives. Usually the foremost of these objectives is territorial sanctity: no state tolerates geographic loss and will usually strip people of their rights, property and lives to prevent it. The Pakistani state is fairly typical in this manner. It deals with separatism/secessionism the way many other post-colonial states do, and with variable degrees of success. The bigger question on that front then is whether its strategy for preventing the rise or growth of this factor is useful at all.\nBeyond the protection of geographic boundaries, what other objectives do limits on individual liberty serve? Other states offer different types of answers. The case of China — paradigmatic for the 21st century — has a very simple one. It places limits on various forms of individual rights for the protection and promotion of the CCP’s endeavours. The main endeavour, since the 1970s at least, has been the growth and collective prosperity of the Chinese people via the unleashing of productive forces (labour and capital), both by the state and by private enterprise. The state under one-party rule decides the degree of this unleashing, its objectives, and ultimately the distribution of its fruits.\nIn the previous century, socialist states decided that the true fulfilment of human life lay in getting rid of privatised forms of exploitation. And so a suspension of individual liberty was done in service of collective ownership of resources, commandeered by the state. Social democratic states in Western Europe decided to infringe on the rights of capital owners over their profit in order to redistribute benefits to the working class via taxation. The late-20th-century Asian Tigers took away social rights of the working poor to generate double-digit capitalist growth.\nThere are other, less palatable answers too. The fascists in Germany stripped the rights, property, and lives of one minority group and various ideological dissenters (primarily the communists) in service of its ethnonationalist and expansionist agenda. At present, the ruling party in India targets individual liberties of specific segments, such as Muslims, to fulfil the cultural agenda of its majority base.\nIn all of these examples, the use of state power is for some larger agenda; a larger agenda in the name of the public (or at least an important part of it), built on specific ideational values and postulates. Something being done in service of something bigger, grander, and to varying degrees, collective.\nSo one must pose the question: what objective does this particular, three-year-old vintage of the ‘hard state’ serve in Pakistan?\nTo date there is no coherent answer. We do not know what the killing of protesters — regardless of the agreeability of their demands — in AJK is going to achieve. What goal banning political movements in the peripheries serves. What Form-47ing election outcomes does. What the hollowing out of the opposition, judiciary, media or civil society helps obtain.\nIf the answer is to maintain territorial integrity, then the vast majority of those whose rights stand stripped away carry no geographic ambitions. If the answer is to unleash GDP growth rates of the kind unseen in the last two decades, then one must reluctantly point out that the needle is yet to move up at all. If the answer is to project sovereignty and stature on the world stage at a time of global upheaval, the logical follow-up is a) whose stature and b) sovereignty in whose name?\nThere are no ready grand answers at the end of this line of inquiry because there is likely no grand thought among those steering the ‘hardening’. The actual answers, if one were to hazard a guess, are probably several degrees more modest: the prolonging of duration in office, an improvement in personal quality of life, and the distribution of gifts and sinecures to a small coterie of loyalists at the expense of everyone else. \nThe writer teaches politics and sociology at Lums.\nX: @umairjav\nPublished in Dawn, August 3rd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "State-Citizen Relations, Authoritarianism, Governance Challenges",
+    "whyMatters": "This article does not directly address Pakistan's role in ECO or regional economic integration. However, it is crucial for understanding the domestic political landscape, state-citizen relations, and the challenges of governance in Pakistan, which are recurring themes in Current Affairs and Pakistan Affairs papers. It offers a critical perspective on the 'hard state' concept and its implications for civil liberties and democratic norms.",
+    "summary": [
+      "The article critically examines the discourse around Pakistan becoming a 'hard state,' which involves curtailing individual rights, regulating speech, and suppressing protest to protect state decision-makers.",
+      "It argues that while authoritarian impulses have historical roots in Pakistan's administrative structure, the current 'hardening' lacks a coherent grand vision, unlike other states that link such measures to clear objectives like territorial sanctity or economic growth.",
+      "The author questions the ultimate purpose of this forfeiture of constitutional and social rights, contrasting Pakistan's situation with examples like China, socialist states, and social democracies.",
+      "Ultimately, the article concludes that the objectives of Pakistan's current 'hard state' strategy are likely more modest and self-serving, such as prolonging tenure in office and benefiting a small loyalist coterie, rather than serving a collective national agenda."
+    ],
+    "facts": [
+      "The concept of turning Pakistan into a 'hard state' has been a prominent discussion for the 'last three years'.",
+      "Examples of state actions cited include the killing of protesters in AJK, banning political movements in peripheries, and 'Form-47ing' election outcomes.",
+      "The article attributes Pakistan's 'overdeveloped administrative apparatus' to British viceregal authority."
+    ],
+    "academicReferences": [
+      "Hamza Alavi's 'The State in Postcolonial Societies: Pakistan and Bangladesh' (for historical context of state structure)",
+      "Ayesha Jalal's 'The State of Martial Rule: The Origins of Pakistan's Political Economy of Defence' (for insights into state power and governance)",
+      "Human Rights Watch/Amnesty International Reports on Civil Liberties in Pakistan (for contemporary analysis of rights violations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "anarchy",
+        "type": "noun",
+        "definition": "A state of disorder due to absence or non-recognition of authority.",
+        "sentence": "The state was accused of being soft on anarchy for too long, implying a lack of strong governance to control disorder."
+      },
+      {
+        "word": "disparate",
+        "type": "adjective",
+        "definition": "Essentially different in kind; not able to be compared.",
+        "sentence": "Based on disparate statements, one can gather the 'hard state' entails protecting the rights of the state."
+      },
+      {
+        "word": "pliant",
+        "type": "adjective",
+        "definition": "Easily influenced or bent; flexible.",
+        "sentence": "Speech is to be regulated via defamation laws and an apparently pliant judiciary."
+      },
+      {
+        "word": "forfeiture",
+        "type": "noun",
+        "definition": "The loss or surrender of something as a penalty for wrongdoing.",
+        "sentence": "The article interrogates what end goal this forfeiture of constitutional or social rights is designed to serve."
+      },
+      {
+        "word": "paradigmatic",
+        "type": "adjective",
+        "definition": "Serving as a typical example or pattern of something.",
+        "sentence": "The case of China, paradigmatic for the 21st century, offers a simple answer for limiting individual rights."
+      },
+      {
+        "word": "sinecures",
+        "type": "noun",
+        "definition": "A position requiring little or no work but giving the holder status or financial benefit.",
+        "sentence": "The actual answers are likely modest: prolonging tenure, and distribution of gifts and sinecures to loyalists."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary concern associated with the push for Pakistan to become a 'hard state'?",
+        "options": [
+          "It involves a violent trade-off with the rights of the people.",
+          "It aims to achieve territorial sanctity above all else.",
+          "It promises unprecedented GDP growth rates.",
+          "It seeks to project sovereignty on the world stage."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the rights of the state are being obtained via a 'frequently violent trade-off with the rights of the people of Pakistan'."
+      },
+      {
+        "question": "Which historical factor does the author suggest is at the roots of Pakistan's overdeveloped administrative apparatus?",
+        "options": [
+          "The influence of socialist states post-independence.",
+          "The legacy of British viceregal authority.",
+          "The cultural agenda of its majority base.",
+          "The economic policies of the Asian Tigers."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'British viceregal authority bequeathed an overdeveloped administrative apparatus'."
+      },
+      {
+        "question": "What is the author's ultimate conclusion about the objectives behind Pakistan's current 'hardening'?",
+        "options": [
+          "To achieve double-digit capitalist growth.",
+          "To maintain territorial integrity and national sovereignty.",
+          "To serve modest, self-serving interests like prolonging tenure and personal gain.",
+          "To fulfill an ethnonationalist and expansionist agenda."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author concludes that 'there is likely no grand thought among those steering the hardening,' and suggests 'modest' reasons like 'prolonging of duration in office, an improvement in personal quality of life, and the distribution of gifts and sinecures'."
+      },
+      {
+        "question": "The article contrasts Pakistan's 'hard state' impulses with other states that offer justifications for limiting individual liberty. Which state is mentioned as paradigmatic for the 21st century with a focus on CCP's endeavors and collective prosperity?",
+        "options": [
+          "Germany",
+          "India",
+          "China",
+          "Western Europe"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions: 'The case of China — paradigmatic for the 21st century — has a very simple one. It places limits on various forms of individual rights for the protection and promotion of the CCP’s endeavours.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article characterize the definition of a 'hard state' in Pakistan?",
+        "back": "The article states no adequate definition has been given, but based on impulses, it has to do with protecting the rights of the state and decision-makers, often at the expense of people's rights."
+      },
+      {
+        "front": "What historical factor does the article link to Pakistan's overdeveloped administrative apparatus?",
+        "back": "The British viceregal authority is cited as having bequeathed an overdeveloped administrative apparatus, which has since reproduced itself and its privileges."
+      },
+      {
+        "front": "According to the author, what is the key question that should 'gnaw' at anyone considering the 'hard state' trade-off?",
+        "back": "The question is: 'What is all of this for?' If rights are forfeited, what end goal does this forfeiture serve beyond geographic boundaries?"
+      },
+      {
+        "front": "What are the modest answers the author suggests for the objective of Pakistan's current 'hardening'?",
+        "back": "The author suggests the objectives are modest: prolonging duration in office, improving personal quality of life, and distributing gifts and sinecures to a small coterie of loyalists."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785720667866-285",
+    "title": "Urban flooding\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020068/urban-flooding",
+    "date": "2026-08-02",
+    "author": "none@none.com (Editorial)",
+    "content": "THE warning from the disaster management and weather authorities that a new monsoon spell could trigger urban flooding in major cities across Punjab and Sindh is yet another reminder of how poorly prepared our cities are for heavy rainfall.\nCities from Rawalpindi, Lahore and Multan in Punjab, to Hyderabad, Umerkot and Tando Allahyar in Sindh, have been flagged for urban flooding. This is not unusual during the monsoons. However, what makes this year’s warning worth pausing on is the Met Office’s forecast of below normal rainfall this year. Still, less rainfall will not eliminate the risk of flooded cities if a burst of rain arrives faster than the ground and drains can carry it away. This says more about the state of our cities than about the weather.\nThe problem of urban flooding in Pakistan is no longer limited to low-lying neighbourhoods. It has become a structural feature of how the country has grown and urban centres have developed. Unplanned construction has taken place over drainage channels and wetlands that once absorbed rain. Waterways have been encroached upon, storm-water systems are built for outdated rainfall patterns, and drains are choked with solid waste that no longer has any place to go.\n    \nThe response is reactive across the provinces. Drains are cleared only when the rain starts to fall; pumps arrive after roads are under water; and warnings are issued, repeated, then forgotten until the next spell. This is crisis management dressed up as preparedness. Most Pakistani cities have no comprehensive flood-risk maps, no functioning drainage master plans, and no clear chain of command for who acts first as the water rises. Drainage, roads, water supply and disaster response sit in separate departments that rarely coordinate before a flood and mostly trade blame after one.\nClimate change has broken the old planning assumptions. Cities now need infrastructure built for short, intense downpours capable of overwhelming drains within minutes, not the gradual rainfall patterns those systems were designed around decades ago. Every new road, housing scheme or commercial project should be assessed for how it disrupts the natural water flow before approval, not after the damage becomes visible. Existing drains need redesigning and expanding to match current rainfall intensity, rather than being patched up just before the monsoon.\n    \nPakistan cannot control how much rain falls. But it can control the extent to which the rain turns into a disaster. The recent warning is not a new problem; each year, governments assure the public that they are ready for the rains. Unfortunately, the very first intense downpour exposes their claims. What the country needs is sustained investment in drainage infrastructure and local governments to maintain it between the monsoons, not just during the rainy season.\nPublished in Dawn, August 2nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Current Affairs / Environmental Science / Pakistan Affairs / Governance",
+    "topic": "Urban Flooding in Pakistan: Causes, Impacts, and Solutions",
+    "whyMatters": "This article does not directly address the provided past exam question on ECO and regional integration, as its content is focused solely on urban flooding in Pakistan. However, it is highly relevant for questions concerning climate change impacts, disaster management, urban planning failures, and governance challenges in Pakistan, offering critical insights and factual basis for such topics.",
+    "summary": [
+      "Pakistani cities are poorly prepared for heavy rainfall, leading to perennial urban flooding despite warnings from disaster management and weather authorities.",
+      "Urban flooding has become a structural problem due to unplanned construction over drainage channels, encroachment on waterways, outdated storm-water systems, and solid waste-choked drains.",
+      "The current response mechanism is reactive, characterized by crisis management rather than proactive preparedness, lacking comprehensive flood-risk maps, drainage master plans, and coordinated departmental action.",
+      "Climate change necessitates a paradigm shift in urban planning, requiring infrastructure designed for short, intense downpours and proactive assessment of new projects for their impact on natural water flow.",
+      "Effective solutions demand sustained investment in drainage infrastructure and empowering local governments for year-round maintenance, moving beyond seasonal assurances."
+    ],
+    "facts": [
+      "Cities flagged for urban flooding risk: Rawalpindi, Lahore, Multan (Punjab); Hyderabad, Umerkot, Tando Allahyar (Sindh).",
+      "Met Office's forecast for the year: below normal rainfall, yet urban flooding risk persists due to rapid rainfall bursts.",
+      "The problem is a \"structural feature\" of urban development, not limited to low-lying neighborhoods."
+    ],
+    "academicReferences": [
+      "National Disaster Management Authority (NDMA) reports on monsoon preparedness and flood response in Pakistan.",
+      "Pakistan's National Climate Change Policy (2012, revised) and subsequent action plans.",
+      "United Nations Human Settlements Programme (UN-Habitat) reports on sustainable urban development and climate resilience.",
+      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports, particularly on urban areas and extreme weather events."
+    ],
+    "vocabulary": [
+      {
+        "word": "Encroached",
+        "type": "verb",
+        "definition": "To gradually intrude upon or take over someone's rights, property, or territory, often illegally or without permission.",
+        "sentence": "Waterways have been encroached upon, reducing their capacity to carry storm-water."
+      },
+      {
+        "word": "Structural feature",
+        "type": "noun phrase",
+        "definition": "An inherent, fundamental characteristic or element that is part of the basic framework or design of something.",
+        "sentence": "The problem of urban flooding has become a structural feature of how the country has grown and urban centres have developed."
+      },
+      {
+        "word": "Reactive",
+        "type": "adjective",
+        "definition": "Responding to a situation rather than anticipating or preventing it.",
+        "sentence": "The response is reactive across the provinces, clearing drains only when the rain starts to fall."
+      },
+      {
+        "word": "Sustained investment",
+        "type": "noun phrase",
+        "definition": "Continued, consistent allocation of resources over an extended period.",
+        "sentence": "What the country needs is sustained investment in drainage infrastructure and local governments to maintain it."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified as a primary structural reason for urban flooding in Pakistan, according to the article?",
+        "options": [
+          "Unplanned construction over drainage channels",
+          "Lack of citizen awareness about flood risks",
+          "Encroachment upon natural waterways",
+          "Storm-water systems designed for outdated rainfall patterns"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly lists unplanned construction, encroached waterways, outdated storm-water systems, and choked drains as structural reasons. Lack of citizen awareness is not mentioned as a primary structural cause for the flooding itself."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What does the article identify as the core issue behind Pakistan's persistent urban flooding problem?",
+        "back": "The core issue is poor preparedness and urban development that has led to urban flooding becoming a 'structural feature,' rather than just a weather-dependent event."
+      },
+      {
+        "front": "How does climate change impact urban planning needs for flood management, according to the article?",
+        "back": "Climate change requires cities to build infrastructure capable of handling short, intense downpours that can overwhelm older drain systems within minutes, moving away from designs based on gradual rainfall patterns."
+      },
+      {
+        "front": "What critical deficiencies in urban flood preparedness are highlighted by the article?",
+        "back": "Deficiencies include a lack of comprehensive flood-risk maps, non-functional drainage master plans, and a unclear chain of command for disaster response, leading to reactive crisis management."
+      },
+      {
+        "front": "What long-term solution does the article propose to mitigate urban flooding in Pakistan?",
+        "back": "The article proposes sustained investment in drainage infrastructure and strengthening local governments to ensure continuous maintenance, not just during the monsoon season."
+      }
+    ]
+  },
+  {
     "id": "curated-1785547989419-714",
     "title": "Not the right questions\n",
     "source": "Dawn",
@@ -9461,821 +10315,6 @@
       {
         "front": "Beyond departmental and criminal proceedings, what immediate governmental actions are proposed to prevent future HIV outbreaks nationwide?",
         "back": "Independent infection-control audits of all facilities, regular unannounced inspections, meaningful penalties for violations, mandatory infection-control training, stronger surveillance, and tougher regulation of clinics and laboratories."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784251944815-634",
-    "title": "Beware of gifts\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015798/beware-of-gifts",
-    "date": "2026-07-16",
-    "author": "none@none.com (F.S. Aijazuddin)",
-    "content": "NATIONS should never join blocs whose acronym ends with the letter ‘o’ — Seato, Cento, Nato. It is an invitation to collective suicide. Seato and Cento were dissolved in 1977 and 1979 respectively, while Nato is in the throes of debilitating disintegration. Turkiye has been a member of Nato since 1952 and was a member of Cento since its inception as the Baghdad Pact in 1955. It lay too far west to join an East-centric Seato. Turkiye has the second-largest military within Nato. The Nato secretary general described it as among the world’s best. Despite that, it has never been admitted into that other Western club — the European Union.\n\nTurkiye’s President Recep Tayyip Erdogan acted as host at the last meeting of Nato leaders over July 7-8 in Ankara. He could have impressed his colleagues with a display of Turkiye’s military prowess and a grand parade. Instead, he chose to give them a portable reminder: a box containing a Magnum revolver engraved with the name of the recipient and six live bullets.\n\nCanadian Prime Minister Mark Carney’s modest gift of maple syrup, by comparison, seemed “undermatched”. EU President Ursula von der Leyen thanked Erdogan, telling him that the revolver would be “decommissioned and donated to a military museum”.\n\nOthers left the weapons with their embassies in Ankara. The Polish president, Karol Nawrocki, took his gun home but cautiously. He remembered that in December 2022, Poland’s police chief had brought back to Warsaw a gift from the Ukraine — an anti-tank grenade launcher. It exploded in his office, injuring him and causing extensive damage to his headquarters.\n\nGifts exchanged between leaders have a long tradition.\n\nGifts exchanged between leaders have a long tradition. The East India Company, for example, kept a list of presents given and received, often recycling them between rulers.\n\nIn 1972, at the Indo-Pak summit in Shimla, Zulfikar Ali Bhutto presented Indian prime minister Indira Gandhi with an embroidered Sindhi cap and a block-printed ajrak. She reciprocated by ensuring that he had a stock of his favourite cigars in his bedroom. Later, president Gen Ziaul Haq hoped to sweeten Mrs Gandhi by giving her bottles of lychee juice. She found his gift (and him) “too sour”.\n\nDuring A.B. Vajpayee’s bus yatra in 1999, he gave Nawaz Sharif a collection of his Hindi poetry, translated into English. Sharif reciprocated with vintage CDs of South Asian musicians. In 2014, prime minister Nawaz Sharif attended Narendra Modi’s inauguration as PM. They exchanged gifts as if it was Mother’s Day. Modi gave a shawl for Sharif’s elderly mother and Sharif responded with a white sari for Modi’s mother. In December 2015, Modi surprised Nawaz Sharif by making an unscheduled stop in Lahore. He brought for him a pink Rajasthani turban and another shawl for Sharif’s mother.\n\nThe late Pervez Musharraf and Modi never warmed to each other. That chill has continued into Shehbaz Sharif’s prime minister-ship. He is finding that it will take more than saris or lychee juice to mollify Modi.\n\nIt will also take more than conferences in Islamabad, or impassioned legal arguments in the press, for PM Modi to open the sluice gates and allow Pakistan its contractual share of river waters. Pakistan and India have been locked since 1947 in a dispute over Jammu & Kashmir. The UN has pro­ved ineffective as a peace-broker. Hope­fu­lly, it will not take another 79 years for the parties to implement a fraying UN resolution.\n\nMeanwhile, it is clear that PM Modi has no interest in losing his constituencies within India by conc­eding water to Pak­i­stan. Is there any way he can be brought to the negotiating table to discuss the Indus Waters Treaty, or to im­­­plant a replacement? If and when such negotiations take pla­ce, Pakistan as the lower riparian will be in the weaker position. As the upp­er riparian, India looks down, both physically and metaphorically, from what it perceives as its natural position, a commanding height. River waters have a number of interested parties who coexist because they need to. In our case, the most significant party is less India and Pakistan than China. From the uppermost riparian — the Tibetan plateau — China controls the waters flowing through Indian states and Indian-held territory into Azad Kashmir, Gilgit-Baltistan and mainland Pakistan. China has always taken a long view of Pakistan’s future, beyond the myopic vision of Pakistan’s revolving-door rulers. The future China sees for Pakistan is not of a parched wasteland but a viable, arable agro-economy — a potential bread and rice basket for the region.\n\nPakistan should persuade China to use its clout to be included in any new Indus waters sharing arrangement. Of all China’s past beneficences, notably the HMC, HFF and HEC projects at Taxila and now CPEC, that would be China’s most enduring gift to Pakistan.\n\nPublished in Dawn, July 16th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "International Relations / Pakistan Affairs",
-    "topic": "Diplomacy, Water Disputes, and Regional Geopolitics (Pakistan-India-China)",
-    "whyMatters": "This article offers critical insights into the symbolic nature of diplomatic gifts, the historical context of India-Pakistan relations, and the unresolved Indus Waters Treaty. Aspirants can use its arguments to analyze international relations, water scarcity issues, and the evolving role of China in South Asian geopolitics.",
-    "summary": [
-      "The article critically views military blocs ending in 'o' (SEATO, CENTO, NATO) as invitations to 'collective suicide,' citing the dissolution of two and the 'debilitating disintegration' of NATO.",
-      "Diplomatic gifts, while traditional, carry significant symbolic weight and can be controversial or dangerous, exemplified by Erdogan's Magnum revolvers and the Polish incident with a grenade launcher.",
-      "Historical gift exchanges between Indian and Pakistani leaders, from Bhutto-Gandhi to Modi-Sharif, reflect varying diplomatic warmth but often fail to resolve entrenched issues like Kashmir or water disputes.",
-      "The unresolved Indus Waters Treaty dispute highlights Pakistan's weaker position as the lower riparian against India's commanding upper riparian stance, an impasse complicated by India's domestic political considerations.",
-      "China, as the uppermost riparian controlling waters from the Tibetan plateau, is presented as a crucial actor that could leverage its influence to secure a new Indus water-sharing arrangement, ensuring Pakistan's future as an arable agro-economy."
-    ],
-    "facts": [
-      "SEATO and CENTO were dissolved in 1977 and 1979 respectively.",
-      "Turkiye joined NATO in 1952 and CENTO (as the Baghdad Pact) in 1955, hosting the July 7-8 NATO leaders' meeting.",
-      "The Indus Waters Treaty dispute between Pakistan and India is mentioned alongside the Jammu & Kashmir conflict, ongoing since 1947.",
-      "Past Sino-Pak projects mentioned include HMC, HFF, HEC at Taxila, and the ongoing CPEC.",
-      "The Polish police chief's gift of an anti-tank grenade launcher exploded in his office in December 2022."
-    ],
-    "academicReferences": [
-      "Indus Waters Treaty (1960)",
-      "United Nations Security Council Resolutions on Jammu & Kashmir (e.g., UNSC Resolution 47, 1948)",
-      "Andrew Small, \"The China-Pakistan Axis: Asia's New Geopolitics\" (for Sino-Pak relations and CPEC)",
-      "Daniel Haines, \"Indus Basin Waters: The Politics of River Sharing\" (for detailed analysis of water politics)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Debilitating",
-        "type": "adjective",
-        "definition": "Causing serious weakness or impairment.",
-        "sentence": "Nato is in the throes of debilitating disintegration."
-      },
-      {
-        "word": "Undermatched",
-        "type": "adjective",
-        "definition": "Inferior or less impressive when compared to something else.",
-        "sentence": "Canadian Prime Minister Mark Carney’s modest gift of maple syrup, by comparison, seemed 'undermatched'."
-      },
-      {
-        "word": "Mollify",
-        "type": "verb",
-        "definition": "To appease or reduce the severity of (something); to soften.",
-        "sentence": "He is finding that it will take more than saris or lychee juice to mollify Modi."
-      },
-      {
-        "word": "Riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the banks of a river.",
-        "sentence": "As the upper riparian, India looks down, both physically and metaphorically, from what it perceives as its natural position."
-      },
-      {
-        "word": "Beneficences",
-        "type": "noun",
-        "definition": "Acts of kindness or charity; gifts or donations.",
-        "sentence": "Of all China’s past beneficences, notably the HMC, HFF and HEC projects at Taxila and now CPEC, that would be China’s most enduring gift to Pakistan."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which two military blocs, criticized by the author for ending in 'o', were dissolved by 1979?",
-        "options": [
-          "A) NATO and CENTO",
-          "B) SEATO and CENTO",
-          "C) SEATO and NATO",
-          "D) CENTO and Warsaw Pact"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Seato and Cento were dissolved in 1977 and 1979 respectively.'"
-      },
-      {
-        "question": "What unusual gift did Turkish President Recep Tayyip Erdogan present to NATO leaders?",
-        "options": [
-          "A) Rare Turkish carpets",
-          "B) Engraved Magnum revolvers with live bullets",
-          "C) Custom-made military uniforms",
-          "D) Historical Ottoman coins"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions Erdogan chose to give them 'a box containing a Magnum revolver engraved with the name of the recipient and six live bullets'."
-      },
-      {
-        "question": "According to the article, what is China's perceived strategic position regarding the Indus Waters, making it a potentially crucial actor?",
-        "options": [
-          "A) A neutral observer",
-          "B) The uppermost riparian controlling waters from the Tibetan plateau",
-          "C) A major aid donor to India",
-          "D) A lower riparian dependent on Pakistani goodwill"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'From the uppermost riparian — the Tibetan plateau — China controls the waters flowing through Indian states and Indian-held territory into Azad Kashmir, Gilgit-Baltistan and mainland Pakistan.'"
-      },
-      {
-        "question": "Which Indian Prime Minister, according to the article, exchanged gifts with Nawaz Sharif 'as if it was Mother’s Day'?",
-        "options": [
-          "A) Indira Gandhi",
-          "B) Atal Bihari Vajpayee",
-          "C) Narendra Modi",
-          "D) Manmohan Singh"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'In 2014, prime minister Nawaz Sharif attended Narendra Modi’s inauguration as PM. They exchanged gifts as if it was Mother’s Day.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the author's primary critique regarding military blocs whose acronyms end with 'o'?",
-        "back": "The author views them as invitations to 'collective suicide' prone to debilitating disintegration, citing SEATO and CENTO's dissolution and NATO's current struggles."
-      },
-      {
-        "front": "How does President Erdogan's gift to NATO leaders illustrate the complexities and potential misinterpretations of diplomatic exchanges?",
-        "back": "Erdogan's gift of engraved Magnum revolvers was seen as controversial; some decommissioned it, others left it at embassies, highlighting how a symbolic gesture can be viewed as threatening or inappropriate."
-      },
-      {
-        "front": "What is India's perceived strategic advantage over Pakistan in the Indus Waters Treaty dispute, according to the article?",
-        "back": "India is the 'upper riparian,' giving it a physical and metaphorical commanding height and a stronger negotiating position, allowing it to control water flow to Pakistan."
-      },
-      {
-        "front": "What long-term vision does China have for Pakistan, and how does the author suggest China could contribute to this vision through the Indus Waters Treaty?",
-        "back": "China envisions Pakistan as a 'viable, arable agro-economy' (a potential bread and rice basket). The author suggests China could use its clout as the 'uppermost riparian' to be included in a new water-sharing arrangement, making it an 'enduring gift'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784252026454-329",
-    "title": "AJK violence\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015795/ajk-violence",
-    "date": "2026-07-16",
-    "author": "none@none.com (Editorial)",
-    "content": "SINCE early June, Azad Kashmir has been on tenterhooks, with routine life severely disturbed, as the regional administration seeks to quell the protests of the now proscribed Joint Awami Action Committee, a coalition of political and civil society groups.\n\nViolent confrontations have claimed some 30 lives of both security personnel and protesters since last month. Rawalakot, the focal point of the protest movement, has been under curfew for about six weeks.\n\nThe JAAC’s demands have focused on governance issues and economic concerns, with most being accepted by the authorities. But its call for the abolition of seats in the AJK legislature for refugees from India-held Kashmir has created a deadlock. Violent clashes on Tuesday resulted in at least nine deaths. Yesterday, the JAAC launched its ‘long march’ on Muzaffarabad.\n\nThe primary concern of all stakeholders should be the restoration of calm in AJK. Too many valuable lives — of both LEAs and civilians — have been lost, and while violent elements must be prosecuted by the state, the only way out of this imbroglio is through the political process.\n\nOfficials say that some JAAC activists have been armed. However pressing the JAAC considers its demands, armed action against the state cannot be tolerated and those involved in attacks on LEAs must face the law. For the moment though, temperatures must be brought down, and the authorities and the JAAC must show flexibility and engage each other instead of hardening their respective positions.\n\nThe authorities have valid concerns about the JAAC’s mode of protest and some of its demands; however, they should talk to the group instead of trying to crush it — a reaction that has often backfired in the past. On its part, the JAAC must communicate its demands in a peaceful manner, and recognise that constitutional issues, such as the question of refugee seats, can only be settled in the legislature and not on the streets.\n\nIt is incumbent on political actors within AJK and Pakistan to step up efforts for a negotiated solution to this crisis. In AJK yesterday, PPP chief Bilawal Bhutto-Zardari proposed a truth and reconciliation commission for settling the matter, while the Jamaat-i-Islami has formed a ‘peace jirga’ in an attempt to mediate between the AJK administration and the JAAC.\n\nThe PTI has similarly called for a multiparty moot to develop a ‘national consensus’, especially with regard to the regional polls scheduled for later this month. It goes without saying that fair elections require a peaceful atmosphere and a level playing field for all contenders.\n\nRather than using only administrative and security tools to deal with the situation, the government must keep political channels open with the JAAC and carefully listen to their demands so that normal life can resume in AJK as soon as possible.\n\nPublished in Dawn, July 16th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 84,
-    "paper": "Pakistan Affairs / Current Affairs",
-    "topic": "Internal Security and Governance Challenges in Azad Kashmir",
-    "whyMatters": "This article is crucial for understanding contemporary internal security challenges, state-society relations, and conflict resolution mechanisms within Pakistan's federal structure. Aspirants can analyze the government's response to civil unrest and the role of political actors in de-escalating crises in sensitive regions.",
-    "summary": [
-      "Azad Kashmir has been gripped by violent protests led by the Joint Awami Action Committee (JAAC) since early June, leading to approximately 30 casualties and imposing curfews in areas like Rawalakot.",
-      "A major deadlock persists over the JAAC's demand to abolish legislative seats reserved for refugees from India-held Kashmir, despite authorities accepting most other governance and economic concerns.",
-      "The article emphasizes the urgent need for a political process, dialogue, and flexibility from both the AJK administration and the JAAC to restore calm, condemning armed action while also calling for state accountability and prosecution of violent elements.",
-      "Major Pakistani political parties, including PPP, Jamaat-i-Islami, and PTI, have actively proposed solutions such as a truth and reconciliation commission, peace jirgas, and multiparty moots to foster a negotiated settlement and ensure peaceful elections."
-    ],
-    "facts": [
-      "Approximately 30 lives (security personnel and protesters) have been lost since last month due to violent confrontations in AJK.",
-      "Rawalakot, a focal point of the protest movement, has been under curfew for about six weeks.",
-      "Violent clashes on one specific Tuesday resulted in at least nine deaths."
-    ],
-    "academicReferences": [
-      "Constitution of Azad Jammu and Kashmir, 1974 (for AJK's governance structure and refugee seats)",
-      "National Internal Security Policy (NISP) of Pakistan (for state response to internal unrest and security threats)",
-      "United Nations High Commissioner for Refugees (UNHCR) Mandate (for the broader context of refugee issues and rights)"
-    ],
-    "vocabulary": [
-      {
-        "word": "tenterhooks",
-        "type": "noun",
-        "definition": "a state of suspense or anxiety",
-        "sentence": "Since early June, Azad Kashmir has been on tenterhooks, with routine life severely disturbed."
-      },
-      {
-        "word": "quell",
-        "type": "verb",
-        "definition": "to put an end to (a rebellion or other disorder), typically by the use of force",
-        "sentence": "The regional administration seeks to quell the protests of the now proscribed Joint Awami Action Committee."
-      },
-      {
-        "word": "imbroglio",
-        "type": "noun",
-        "definition": "a difficult, confusing, or embarrassing situation",
-        "sentence": "The only way out of this imbroglio is through the political process."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary demand of the JAAC that has created a deadlock with AJK authorities?",
-        "options": [
-          "Abolition of seats in the AJK legislature for refugees from India-held Kashmir",
-          "Immediate resignation of the current AJK government",
-          "Reduction in electricity and food prices across AJK",
-          "Grant of full provincial status to Azad Kashmir within Pakistan"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the JAAC's 'call for the abolition of seats in the AJK legislature for refugees from India-held Kashmir has created a deadlock.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary cause of the ongoing deadlock between the JAAC and AJK authorities, according to the article?",
-        "back": "The JAAC's demand for the abolition of seats in the AJK legislature reserved for refugees from India-held Kashmir."
-      },
-      {
-        "front": "What is the article's main recommendation for resolving the AJK crisis and restoring calm?",
-        "back": "Engaging in a political process, dialogue, and flexibility between the authorities and the JAAC, instead of relying solely on administrative and security tools."
-      },
-      {
-        "front": "How have major Pakistani political parties like PPP, Jamaat-i-Islami, and PTI proposed to address the AJK unrest?",
-        "back": "They have suggested initiatives such as a truth and reconciliation commission, a peace jirga, and a multiparty moot to develop a negotiated solution and national consensus."
-      },
-      {
-        "front": "What is the article's stance on armed action during protests, even if demands are pressing?",
-        "back": "Armed action against the state cannot be tolerated, and those involved in attacks on law enforcement agencies must face the law, regardless of the importance of the protesters' demands."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784251709385-169",
-    "title": "Doomed tax initiative\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015793/doomed-tax-initiative",
-    "date": "2026-07-16",
-    "author": "none@none.com (Editorial)",
-    "content": "THE FBR’s draft simplified tax regime for small shopkeepers is the latest in a long line of attempts to persuade Pakistan’s vast retail sector to enter the tax net. By offering a turnover-based tax of just 1pc, exemptions from routine audits, withholding tax obligations and mandatory digital invoicing, the government hopes to make compliance more attractive. Yet there is little reason to believe this initiative will succeed where countless others have failed. Pakistan’s retail sector has remained one of the country’s largest untaxed or undertaxed segments despite repeated experiments under both military and civilian governments. Successive administrations have introduced fixed tax schemes, presumptive taxes, negotiated settlements and voluntary arrangements, each promising to broaden the tax base without provoking confrontation with traders. The outcome has been remarkably consistent: negligible compliance.\n\nThe reasons are political. Traders enjoy organisational strength and political influence. Their ability to shut down markets across the country has repeatedly forced governments to dilute reforms or abandon enforcement. Every retreat has reinforced the belief that organised resistance eventually secures concessions. This has weakened the state’s credibility and encouraged a culture of negotiated compliance rather than compliance under the law. The latest proposal follows the same pattern. Although not formally described as one, it bears all the characteristics of another tax amnesty. The state is again offering generous concessions. These are substantial incentives for a sector that has historically contributed nothing to national revenues. The question is, why would traders who have ignored repeated tax efforts comply now. Almost every trader will continue to view non-compliance as the cheaper option, while penalties will be difficult to impose due to fear of losing their support. Pakistan cannot broaden its tax base through voluntary schemes alone. It requires political will to enforce tax laws impartially and resist pressure from powerful lobbies. If anything, the proposed scheme is likely to deliver even less, leaving our narrow tax base largely unchanged.\n\nPublished in Dawn, July 16th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Pakistan Affairs / Economics / Governance",
-    "topic": "Tax Reforms, Revenue Mobilization, and Political Economy of Taxation in Pakistan",
-    "whyMatters": "This article critically analyzes Pakistan's persistent failure to broaden its tax base, highlighting systemic governance challenges and political economy issues. It provides crucial insights into why tax reforms repeatedly falter, offering a strong basis for answering questions on economic policy, state capacity, and public finance.",
-    "summary": [
-      "The FBR's draft simplified tax regime, offering a 1% turnover-based tax and exemptions, is the latest attempt to bring Pakistan's vast retail sector into the tax net.",
-      "Despite numerous past attempts under various governments (fixed, presumptive taxes, negotiated settlements), the retail sector remains one of the largest untaxed or undertaxed segments.",
-      "The primary reasons for consistent failure are political: traders' organizational strength and political influence repeatedly force governments to dilute reforms or abandon enforcement, weakening state credibility.",
-      "The current proposal, resembling another tax amnesty, is unlikely to succeed without genuine political will to enforce tax laws impartially and resist pressure from powerful lobbies, as non-compliance is still perceived as the cheaper option."
-    ],
-    "facts": [
-      "The proposed simplified tax regime for small shopkeepers offers a turnover-based tax of just 1%.",
-      "Pakistan's retail sector is described as one of the country's largest untaxed or undertaxed segments.",
-      "The retail sector has historically contributed \"nothing\" to national revenues, according to the article."
-    ],
-    "academicReferences": [
-      "Pakistan Economic Survey (for official data on tax collection, fiscal policy, and sector-wise contributions)",
-      "IMF Stand-by Arrangement (SBA) / Extended Fund Facility (EFF) Reports on Fiscal Reforms in Pakistan (for external perspectives and policy recommendations)",
-      "Studies on the Political Economy of Taxation in Developing Countries (e.g., works by Musgrave, Bird, or specific analyses on rent-seeking and state-society relations)"
-    ],
-    "vocabulary": [
-      {
-        "word": "tax net",
-        "type": "noun",
-        "definition": "The system or framework of taxation; the collective body of taxpayers or economic activities brought under tax regulation.",
-        "sentence": "The government aims to expand the tax net by including previously untaxed segments of the economy."
-      },
-      {
-        "word": "presumptive taxes",
-        "type": "noun",
-        "definition": "Taxes levied on an assumed or estimated income, turnover, or other base, rather than on detailed actual accounts, often used for small businesses or informal sectors.",
-        "sentence": "Successive administrations have introduced fixed tax schemes and presumptive taxes to broaden the tax base."
-      },
-      {
-        "word": "dilute reforms",
-        "type": "verb",
-        "definition": "To weaken the effectiveness, impact, or strictness of proposed changes or improvements.",
-        "sentence": "Traders' ability to shut down markets has repeatedly forced governments to dilute reforms."
-      },
-      {
-        "word": "tax amnesty",
-        "type": "noun",
-        "definition": "A limited-time opportunity offered by a government for a specified group of taxpayers to pay overdue taxes, often with reduced penalties or interest, without facing prosecution.",
-        "sentence": "Although not formally described as one, the latest proposal bears all the characteristics of another tax amnesty."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason for the repeated failure of tax initiatives targeting Pakistan's retail sector?",
-        "options": [
-          "A) Lack of modern digital infrastructure for tax collection.",
-          "B) Insufficient financial incentives offered to small shopkeepers for compliance.",
-          "C) The political influence and organized resistance from traders.",
-          "D) A persistent lack of clear and simplified tax laws by the FBR."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'The reasons are political. Traders enjoy organisational strength and political influence. Their ability to shut down markets across the country has repeatedly forced governments to dilute reforms or abandon enforcement.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core characteristic of the FBR's latest proposed tax regime for small shopkeepers mentioned in the article?",
-        "back": "It is a simplified, turnover-based tax of just 1%, offering exemptions from routine audits, withholding tax, and mandatory digital invoicing."
-      },
-      {
-        "front": "Why does the article argue that past tax initiatives in Pakistan's retail sector have consistently failed to broaden the tax base?",
-        "back": "They failed primarily due to political reasons, stemming from the organized strength and political influence of traders who actively resist enforcement and secure concessions."
-      },
-      {
-        "front": "How has the consistent resistance from traders impacted the state's credibility regarding tax enforcement in Pakistan, according to the article?",
-        "back": "It has weakened the state’s credibility, reinforcing the belief that organized resistance secures concessions and encouraging a culture of negotiated compliance rather than compliance under law."
-      },
-      {
-        "front": "What does the article suggest is essential for Pakistan to broaden its tax base effectively, beyond relying on voluntary schemes or amnesties?",
-        "back": "It requires genuine political will to enforce tax laws impartially and consistently, coupled with the ability to resist pressure from powerful lobbies."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784337330846-229",
-    "title": "Caution: danger ahead\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015800/caution-danger-ahead",
-    "date": "2026-07-16",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "THERE are many reasons to be bullish about Pakistan these days, not least the hard-fought stability in the external sector following a few years of near-catastrophic depletion of reserves. But there are now a growing number of reasons to be concerned about the underlying fragility of it all.\n\nThe stability is real. There is no doubt about that. A wall of high repayment obligations that first loomed into view back in February 2021 and remained persistently high since then has finally started to come down. They not only met all these obligations and paid down their debt, but also bui­lt reserves through it all — organically — and not borrowed reserves.\n\nThe return of stability to Pak­istan’s external sector after the near catastr­ophic volatility of 2021-2023 is one for the history books. The most ferocious inflationary fire in our history was doused. The most precarious foreign exchange reserves position was rebuilt. The most runaway fiscal train wreck was returned to surpl­uses on its primary balance. The state saved itself well.\n\nBut in order to do so it wrecked the livelihoods of its own people and nearly choked its own economy to death. Inflows were — in fact still are — diverted ruthlessly to state coffers. Interest rates were hiked to historic highs that were unthinkable even a few years ago.\n\nTaxes weighed like a millstone around the necks of firms and wealth creators. Nobody was allowed to make money or breathe too freely during the years the state was busy rebuilding its accounts. That’s the stability they now tell us is their signature success.\n\nAdmittedly, nobody wanted to see the instability persist. And now that it has been surmounted, at least to the extent that inflation no longer ravages the land and reserves no longer teeter on the edge of a cliff, it is worth asking whether it has not returned in some other form. Beneath the floor that feels solid, can we feel powerful forces moving?\n\nWith rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire.\n\nSome of the persistent instability can now be seen in the growing disaffection of populations along the periphery of Pakistan’s heartland of central Punjab and upper Sindh. This is a disturbing trend and must be taken very seriously. To the extent that it has economic roots, the growing struggle that day-to-day life has become for the common citizenry can be said to lie at the heart of it.\n\nA population immersed in deprivation and misery is more amenable to the message of movements and parties that preach rebellion or advocate the politics of disruption and division. None of the parties fomenting rebellion, disruption or division on Pakistan’s periphery these days can be said to be the carrier of progressive or even pro-people politics. But they are all reaping a harvest of hate that has been nurtured and fertilised with deprivation.\n\nThe other reason to be concerned is the return of hostilities between Iran and the US, though it remains my view that this will prove to be another short-lived flare-up in what is turning out to be a long-drawn-out, gruelling test of nerves between the two adversaries. It is possible this could drag out for months. The problem for Pakistan is that the leadership here has been heavily invested in reaping the dividends from their diplomatic efforts, and those efforts are taking a long time to bear fruit.\n\nAt the heart of the matter is Iran’s unwillingness to let go of the Strait of Hormuz. They had decided very early in this conflict that they would rather see a return to hostilities than bargain on easing their hold on the strait. With the latest flare-up, they have proved this point. Whatever settlement eventually ends this war, it will see Iran in control of the waterway, with full rights on who gets to transit and on what terms. For a moment it seemed that the Trump administration had reconciled itself to this reality. But the flare-up proves otherwise.\n\nWith rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire. The hard-fought stability they tout as their success rescued the state from the throes of its own non-viability. But now instability has returned and is churning up growing numbers of people and leading them to gather around messages that the state would prefer to stamp out with violence. And the much-vaunted peace dividend has been pushed into a more distant future while there are no organic drivers of growth at home.\n\nThis is where the danger lies. The stability we have today was purchased with suppressed demand, and suppressed demand cannot be a permanent state of affairs. Sooner or later, the economy, along with the people, must be allowed to breathe again. And the moment that happens, the old appetites will reawaken — for imports, for credit, for dollars.\n\nThe state has built no shock absorbers for that moment. Reserves look healthy against the drought of recent years, but measure them against the import bill of an economy growing at even four per cent and the picture changes quickly. And should the flare-up in the Gulf drag on, and oil prices catch fire the way freight and insurance rates already have, the arithmetic changes quicker still.\n\nThe rulers face a choice they would rather not acknowledge. They can hold the economy in its induced coma indefinitely, and watch the harvest of hate on the periphery grow richer with each passing season. Or they can release their grip and risk squandering the stability they paid for with the people’s livelihoods.\n\nNone of these are palatable. Hence the situation is now best described as a quagmire. What they cannot do is continue to celebrate. The floor beneath their feet may feel solid, yes. But the ground below it is moving.\n\nThe writer is a business and economy journalist.\n\nPublished in Dawn, July 16th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 75,
-    "paper": "Pakistan Affairs",
-    "topic": "Pakistan's Economic Stability, Balance of Payments, and Structural Challenges",
-    "whyMatters": "This article directly addresses the core causes of Pakistan's 'Balance-of-Payments' constraint, detailing how temporary stability was achieved and why it remains fragile. It critically evaluates the sustainability of current economic policies and their long-term impact on foreign exchange reserves and future growth.",
-    "summary": [
-      "Pakistan achieved hard-fought external sector stability (doused inflation, rebuilt reserves, primary balance surplus) after a near-catastrophic period from 2021-2023.",
-      "This stability was purchased at a severe cost, including wrecked livelihoods, a choked economy due to historic interest rates and heavy taxes, and suppressed demand.",
-      "Beneath this fragile stability, new forms of instability are emerging, such as growing public discontent and disaffection in peripheral regions, and geopolitical risks like the Iran-US flare-up affecting global trade.",
-      "The current stability is unsustainable as it relies on suppressed demand; releasing economic activity without building shock absorbers will reawaken appetites for imports and credit, quickly threatening reserves and creating a policy quagmire."
-    ],
-    "facts": [
-      "Pakistan experienced 'near-catastrophic depletion of reserves' and 'ferocious inflationary fire' during 2021-2023.",
-      "Interest rates were hiked to 'historic highs' and taxes 'weighed like a millstone' on firms to achieve economic stability.",
-      "Reserves are currently 'healthy against the drought of recent years' but would quickly change against 'the import bill of an economy growing at even four per cent'."
-    ],
-    "academicReferences": [
-      "IMF Stand-By Arrangement (SBA) Reports for Pakistan (regularly detail BoP challenges and conditionalities).",
-      "Pakistan Economic Survey (annual publication, provides official data and analysis on economic performance and challenges).",
-      "World Bank Pakistan Development Updates (offer independent assessments of Pakistan's economic situation and reform priorities)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Bullish",
-        "type": "adjective",
-        "definition": "Optimistic about future prospects, especially concerning the economy.",
-        "sentence": "THERE are many reasons to be bullish about Pakistan these days, not least the hard-fought stability in the external sector."
-      },
-      {
-        "word": "Catastrophic",
-        "type": "adjective",
-        "definition": "Involving or causing sudden great damage or suffering.",
-        "sentence": "The return of stability to Pakistan’s external sector after the near catastrophic volatility of 2021-2023 is one for the history books."
-      },
-      {
-        "word": "Quagmire",
-        "type": "noun",
-        "definition": "An awkward, complex, or hazardous situation.",
-        "sentence": "With rising discontentment at home leading to the spread of disaffection, the leadership is stuck in a quagmire."
-      },
-      {
-        "word": "Palatable",
-        "type": "adjective",
-        "definition": "(Of an action or proposal) acceptable or satisfactory.",
-        "sentence": "None of these are palatable. Hence the situation is now best described as a quagmire."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the fundamental unsustainability of Pakistan's recently achieved economic stability?",
-        "options": [
-          "It relies too heavily on foreign aid and loans.",
-          "It was purchased with suppressed domestic demand, which cannot be a permanent state.",
-          "The government is actively trying to increase import dependency.",
-          "It failed to control inflation effectively over the long term."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'The stability we have today was purchased with suppressed demand, and suppressed demand cannot be a permanent state of affairs,' indicating its inherent unsustainability."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the primary cost Pakistan paid to achieve its recent external sector stability?",
-        "back": "The stability was achieved by wrecking the livelihoods of its own people, nearly choking the economy with historic interest rates, heavy taxes, and ruthless diversion of inflows to state coffers, leading to suppressed demand."
-      },
-      {
-        "front": "How does the article link the current stability to a potential future Balance-of-Payments crisis?",
-        "back": "The stability is based on suppressed demand; once the economy is allowed to 'breathe again,' old appetites for imports, credit, and dollars will reawaken, quickly straining reserves if no structural 'shock absorbers' have been built."
-      },
-      {
-        "front": "What emerging domestic instability does the article highlight despite the economic stabilization efforts?",
-        "back": "Growing discontent and disaffection among populations along Pakistan's periphery, fueled by deprivation and misery, which makes them amenable to messages of rebellion and disruption."
-      },
-      {
-        "front": "Beyond domestic economic factors, what geopolitical risk does the author identify as a threat to Pakistan's economic outlook?",
-        "back": "The return of hostilities between Iran and the US, particularly regarding Iran's control over the Strait of Hormuz, which could escalate oil prices, freight, and insurance rates, impacting Pakistan's import bill and reserves."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784164982780-796",
-    "title": "Beyond declarations\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015541/beyond-declarations",
-    "date": "2026-07-15",
-    "author": "none@none.com (Editorial)",
-    "content": "WHEN Pakistan assumed the chairmanship of the OIC Ministerial Conference on Women this week, it did so while confronting uncomfortable realities of its own. Only recently, the World Economic Forum ranked Pakistan 148th out of 148 countries in its Global Gender Gap Report, underscoring how much work remains to ensure women enjoy equal opportunities in education, employment and public life.\n\nThat sobering backdrop lent added significance to repeated calls in Islamabad for the Organisation of Islamic Cooperation to move beyond declarations and deliver tangible progress. Senate Chairman Yousaf Raza Gilani’s proposal for measurable targets on girls’ education, women’s leadership, workforce participation and protection against gender-based violence was among the conference’s most constructive outcomes. The OIC has, after all, endorsed women’s empowerment on numerous occasions. The challenge has not been a lack of commitments; it has been the failure to translate them into meaningful change.\n\nAcross parts of the Muslim world, women continue to face barriers that limit not only their own potential but also the prospects of their societies. Afghanistan remains the clearest example, where girls continue to be denied access to secondary schools and universities despite repeated international appeals.\n\nElsewhere, conflict has displaced millions of women and children, while economic hardship has further restricted access to education, healthcare and employment. Expanding educational opportunities, improving financial inclusion and ensuring women participate fully in economic and public life are not merely matters of social justice; they are prerequisites for sustainable development. States that fail to harness the talents of half their population limit their own growth and resilience.\n\nPakistan’s commitments must therefore be judged by results rather than intentions. Constitutional guarantees of equality and the government’s pledges of legal and institutional reforms are welcome, but implementation remains uneven. Millions of children remain out of school, with girls disproportionately affected in many rural and disadvantaged communities, while female participation in the labour force remains amongst the lowest globally. Laws protecting women have little value if enforcement is weak or access to justice remains beyond the reach of those who need it most.\n\nPakistan’s leadership of the OIC conference presents an opportunity to champion a more accountable approach across the Muslim world. Instead of another cycle of worthy resolutions, member states should agree on practical benchmarks, regularly report progress and share successful policies that improve women’s lives. The measure of this conference will not be the strength of its communiqués or speeches, but whether more girls complete their education, more women enter positions of leadership, and more families benefit from the opportunities that empowerment can bring.\n\nPublished in Dawn, July 15th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs / Gender Studies / Current Affairs",
-    "topic": "Women's Empowerment and Gender Equality in Pakistan and the Muslim World",
-    "whyMatters": "This article is crucial for understanding Pakistan's challenges in gender equality and its role in championing women's empowerment on international platforms like the OIC. It provides critical arguments and data points for essays on social issues, governance, and international relations.",
-    "summary": [
-      "Pakistan assumed chairmanship of the OIC Ministerial Conference on Women while confronting its own poor ranking (148th out of 148) in the Global Gender Gap Report.",
-      "The core challenge for the OIC is to move beyond declarations and deliver tangible progress with measurable targets for women's empowerment, as proposed by Senate Chairman Yousaf Raza Gilani.",
-      "Women's empowerment, including expanding education, financial inclusion, and participation in public life, is a prerequisite for sustainable development and societal resilience, not merely a matter of social justice.",
-      "Pakistan's domestic commitments to equality must be judged by results, addressing uneven implementation in girls' education, female labor force participation, and access to justice despite constitutional guarantees."
-    ],
-    "facts": [
-      "Pakistan was ranked 148th out of 148 countries in the World Economic Forum's Global Gender Gap Report.",
-      "Millions of children, with girls disproportionately affected in rural and disadvantaged communities, remain out of school.",
-      "Female participation in Pakistan's labor force remains amongst the lowest globally."
-    ],
-    "academicReferences": [
-      "World Economic Forum's Global Gender Gap Report",
-      "Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
-      "Sustainable Development Goal 5: Gender Equality"
-    ],
-    "vocabulary": [
-      {
-        "word": "sobering",
-        "type": "adjective",
-        "definition": "making one feel serious, thoughtful, or subdued",
-        "sentence": "That sobering backdrop lent added significance to repeated calls in Islamabad for the Organisation of Islamic Cooperation to move beyond declarations and deliver tangible progress."
-      },
-      {
-        "word": "prerequisites",
-        "type": "noun",
-        "definition": "things required as a prior condition for something else to happen or exist",
-        "sentence": "Expanding educational opportunities, improving financial inclusion and ensuring women participate fully in economic and public life are not merely matters of social justice; they are prerequisites for sustainable development."
-      },
-      {
-        "word": "disproportionately",
-        "type": "adverb",
-        "definition": "to an extent that is too large or too small in comparison with something else",
-        "sentence": "Millions of children remain out of school, with girls disproportionately affected in many rural and disadvantaged communities."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary challenge the OIC faces regarding women's empowerment?",
-        "options": [
-          "Failure to translate commitments into meaningful change.",
-          "Lack of commitments from member states.",
-          "Insufficient funding for women's initiatives.",
-          "Absence of high-level conferences on gender issues."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'The challenge has not been a lack of commitments; it has been the failure to translate them into meaningful change.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What uncomfortable reality did Pakistan confront when assuming the chairmanship of the OIC Ministerial Conference on Women?",
-        "back": "Pakistan ranked 148th out of 148 countries in the Global Gender Gap Report, highlighting significant work needed for women's equal opportunities."
-      },
-      {
-        "front": "What constructive outcome was proposed by Senate Chairman Yousaf Raza Gilani at the OIC conference?",
-        "back": "He proposed measurable targets on girls’ education, women’s leadership, workforce participation, and protection against gender-based violence."
-      },
-      {
-        "front": "Why are women's empowerment initiatives like expanding education and financial inclusion considered crucial for national growth?",
-        "back": "They are prerequisites for sustainable development, as states failing to harness the talents of half their population limit their own growth and resilience."
-      },
-      {
-        "front": "How does the article suggest Pakistan's leadership of the OIC conference should truly be measured?",
-        "back": "It should be measured by tangible results like more girls completing education, more women entering leadership positions, and more families benefiting from empowerment, rather than just speeches or communiqués."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784251792950-902",
-    "title": "Taxing retailers",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2618445/taxing-retailers-2",
-    "date": "2026-07-15",
-    "author": "\n\t\t\t\teditorial\n\t\t\t",
-    "content": "The government's endeavour to bring in retailers with a favourable tax slab is appreciated. The intention is not only to ease complex accounting processes - as around three million retailers countrywide are currently untaxed - but also to bolster the exchequer with a decent turnover. The recent proposal introduces a voluntary income tax regime for small shopkeepers, offering them exemptions from audits, withholding taxes, and mandatory digital invoicing.\n\nTraders should take this as a bonanza offer to become part of the formal economy. Individual retailers with an annual turnover of up to Rs200 million will have the option to pay an income tax equal to 1% of their gross turnover, or a minimum fixed tax of Rs25,000, even if taxes already deducted at source exceed their liability. This proposal offers a clear path forward; the FBR must ensure robust enforcement, and shopkeepers who evade compliance must be taken to task.\n\nAll previous efforts to bring wholesalers and retailers into the tax net were politically jaundiced. This has taken a toll on the economy, as major revenue earners were coddled at the expense of national development. It is ironic that the salaried class pays a staggering income tax of over Rs630 billion, whereas corporate entities, real estate, and traders thrive on the premise of their nuisance value. As Pakistan is supposed to meet a tax target of Rs15.264 trillion this fiscal - a 17.6% increase over the previous year - all these holy cows must finally face the knife.\n\nRetailers are currently obligated to pay an 18% standard sales tax on consumer goods and a 1% income tax on their annual turnover. It is problematic that a segment constituting roughly 19% of the GDP contributes less than 3% of all collected direct taxes. Tax reforms are indispensable if the economy is to sustain itself. It is high time to do away with tax rebates, SROs, and subsidies, allowing performing sectors to combine their synergies to help the country make ends meet.\n\nWhile encouraging retailers to pay a lump sum, the government has made a major concession by overlooking receipt digitisation. This must be treated as a one-time waiver only.",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Economics / Current Affairs (Pakistan)",
-    "topic": "Tax Reforms, Economic Formalization, and Fiscal Policy in Pakistan",
-    "whyMatters": "While this article does not directly address the Economic Cooperation Organization (ECO) question, it is crucial for understanding Pakistan's ongoing domestic economic challenges and government efforts towards fiscal reform and revenue mobilization. It provides critical context on the informal economy and taxation disparities, themes frequently tested in Economics and Current Affairs papers regarding Pakistan's internal economic stability and policy.",
-    "summary": [
-      "The government has introduced a new voluntary income tax regime for small shopkeepers, offering exemptions from audits, withholding taxes, and mandatory digital invoicing, primarily to formalize the economy and increase tax revenue from around three million untaxed retailers.",
-      "Individual retailers with an annual turnover up to Rs200 million can opt to pay an income tax equal to 1% of their gross turnover or a minimum fixed tax of Rs25,000.",
-      "The article criticizes past politically motivated failures to tax retailers and highlights the unsustainable disparity where the salaried class pays over Rs630 billion in income tax while corporate entities, real estate, and traders often evade their fair share.",
-      "It underscores the indispensability of tax reforms, noting that retailers, despite constituting 19% of the GDP, contribute less than 3% of direct taxes, and advocates for eliminating tax rebates, SROs, and subsidies."
-    ],
-    "facts": [
-      "Approximately three million retailers countrywide are currently untaxed.",
-      "Retailers, constituting roughly 19% of the GDP, contribute less than 3% of all collected direct taxes.",
-      "Pakistan's tax target for the current fiscal year is Rs15.264 trillion, a 17.6% increase over the previous year.",
-      "The salaried class pays a staggering income tax of over Rs630 billion."
-    ],
-    "academicReferences": [
-      "Economic Survey of Pakistan (Latest Edition)",
-      "IMF Staff Report for Pakistan (Recent Article IV Consultation)",
-      "Federal Board of Revenue (FBR) Annual Report"
-    ],
-    "vocabulary": [
-      {
-        "word": "endeavour",
-        "type": "noun",
-        "definition": "an attempt to achieve a goal",
-        "sentence": "The government's endeavour to bring retailers into the tax net is appreciated."
-      },
-      {
-        "word": "bolster",
-        "type": "verb",
-        "definition": "to support or strengthen",
-        "sentence": "The intention is not only to ease processes but also to bolster the exchequer with a decent turnover."
-      },
-      {
-        "word": "exchequer",
-        "type": "noun",
-        "definition": "the national treasury",
-        "sentence": "New tax revenues will help bolster the national exchequer."
-      },
-      {
-        "word": "bonanza",
-        "type": "noun",
-        "definition": "a situation or event that creates a sudden increase in wealth, good fortune, or profits",
-        "sentence": "Traders should take this as a bonanza offer to become part of the formal economy."
-      },
-      {
-        "word": "jaundiced",
-        "type": "adjective",
-        "definition": "affected by prejudice, resentment, or cynicism",
-        "sentence": "All previous efforts to bring wholesalers and retailers into the tax net were politically jaundiced."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary goal of the government's new tax proposal for retailers?",
-        "options": [
-          "To bring untaxed retailers into the formal economy and increase tax revenue.",
-          "To offer substantial tax rebates to all small shopkeepers.",
-          "To eliminate all sales taxes for consumer goods.",
-          "To mandate digital invoicing for all retail transactions immediately."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states the intention is to ease complex accounting processes for untaxed retailers and bolster the exchequer."
-      },
-      {
-        "question": "Which of the following is NOT an exemption offered under the new voluntary income tax regime for small shopkeepers?",
-        "options": [
-          "Exemption from audits.",
-          "Exemption from withholding taxes.",
-          "Exemption from mandatory digital invoicing.",
-          "Exemption from the 18% standard sales tax on consumer goods."
-        ],
-        "answerIndex": 3,
-        "explanation": "The proposal offers exemptions from audits, withholding taxes, and mandatory digital invoicing, but retailers are still obligated to pay an 18% standard sales tax on consumer goods."
-      },
-      {
-        "question": "According to the article, what is the approximate percentage of Pakistan's GDP contributed by retailers, and what is their contribution to direct taxes?",
-        "options": [
-          "19% of GDP, contributing less than 3% of direct taxes.",
-          "3% of GDP, contributing less than 19% of direct taxes.",
-          "1% of GDP, contributing 18% of direct taxes.",
-          "18% of GDP, contributing 1% of direct taxes."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that retailers 'constituting roughly 19% of the GDP contributes less than 3% of all collected direct taxes'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core objective behind the government's recent tax proposal for retailers?",
-        "back": "To bring around three million untaxed retailers into the formal economy, simplify accounting processes, and bolster the national exchequer with increased revenue."
-      },
-      {
-        "front": "What are the key concessions offered to small shopkeepers under the voluntary income tax regime?",
-        "back": "Exemptions from audits, withholding taxes, and mandatory digital invoicing."
-      },
-      {
-        "front": "How does the article characterize past efforts to bring wholesalers and retailers into the tax net?",
-        "back": "They were politically jaundiced, leading to major revenue earners being coddled at the expense of national development."
-      },
-      {
-        "front": "What significant disparity in tax contributions does the article highlight regarding the salaried class versus retailers and other segments?",
-        "back": "The salaried class pays over Rs630 billion in income tax, while retailers (19% of GDP) contribute less than 3% to direct taxes, and corporate entities, real estate, and traders often thrive by leveraging their 'nuisance value'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784164781233-42",
-    "title": "A timely authority\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015540/a-timely-authority",
-    "date": "2026-07-15",
-    "author": "none@none.com (Editorial)",
-    "content": "EVERY summer now seems to bring fresh warnings from Pakistan’s northern mountains. This week was no different, with the Met Office cautioning that warm temperatures and heavy rain could trigger glacial lake outburst floods. It is against this increasingly alarming backdrop that authorities in Gilgit-Baltistan, which is already experiencing flash floods, have moved to set up a Glaciers Protection Authority — a timely initiative. Climate change is an immediate threat to lives, livelihoods and water security. Our glaciers, among the largest outside the polar regions, feed river systems that irrigate farms, generate electricity and provide drinking water to millions. Yet rising temperatures are accelerating their retreat while increasing the risk of floods, landslides and debris flows that can devastate mountain communities with little warning. A dedicated authority could help shift the focus from responding to disasters to preparing for them. But only if it is more than another addition to bureaucracy. It should be backed by legislation, expertise and adequate funding, with a mandate to monitor glacier health, coordinate research, guide conservation efforts and ensure that roads, tourism projects and other development in vulnerable areas take climate risks into account. It should also strengthen Pakistan’s ability to secure global climate finance for adaptation.\n\nEncouragingly, disaster preparedness in GB has improved. Early warning systems, emergency response centres and community awareness programmes are already helping reduce the human cost of extreme weather. But preparedness is only part of the answer. Poor land-use planning, environmental degradation and encroachment into hazard-prone valleys magnify the impact of climate-related disasters. Those vulnerabilities cannot be addressed once an alert has been issued. They require stronger institutions, better governance and the political will to put long-term resilience ahead of short-term expediency. Pakistan cannot halt the melting of its glaciers on its own, but it can do far more to reduce the risks that accompany it. The Glaciers Protection Authority should therefore be judged not by the announcement of its creation but by whether it changes the way the country manages one of its most precious natural assets. The mountains are changing faster than government policy. This is an opportunity to narrow that gap before another seasonal warning turns into an avoidable tragedy.\n\nPublished in Dawn, July 15th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change and Water Security in Pakistan",
-    "whyMatters": "This article directly addresses the impact of global climate change on Pakistan's water resources by detailing how retreating glaciers threaten river systems, irrigation, electricity generation, and drinking water for millions. Although inter-provincial harmony is not explicitly discussed, the article lays a strong foundation for arguing how increasing water scarcity and unpredictable flows, due to climate change, will inevitably exacerbate existing water-sharing disputes and create new challenges for inter-provincial cooperation.",
-    "summary": [
-      "Pakistan's northern mountains face increasing threats of glacial lake outburst floods (GLOFs) due to rising temperatures and heavy rains, a direct consequence of climate change.",
-      "Gilgit-Baltistan is establishing a Glaciers Protection Authority (GPA) as a critical, timely initiative to shift focus from disaster response to preparedness and long-term management.",
-      "Climate change poses an immediate threat to lives, livelihoods, and water security in Pakistan, impacting major river systems that support agriculture, energy, and drinking water for millions.",
-      "The Glaciers Protection Authority needs legislative backing, adequate funding, expertise, and a clear mandate for glacier monitoring, research, conservation, climate-risk-aware development, and securing global climate finance.",
-      "Despite improved disaster preparedness, poor land-use planning, environmental degradation, and encroachment into hazard-prone areas magnify climate-related disaster impacts, requiring stronger institutions and political will for long-term resilience.",
-      "The success of the GPA will be judged by its ability to fundamentally change how Pakistan manages its glaciers, bridging the gap between rapidly changing environmental realities and government policy."
-    ],
-    "facts": [
-      "Pakistan's glaciers are among the largest outside the polar regions, feeding crucial river systems.",
-      "The Met Office frequently issues warnings about warm temperatures and heavy rain triggering glacial lake outburst floods.",
-      "The Glaciers Protection Authority is being set up in Gilgit-Baltistan."
-    ],
-    "academicReferences": [
-      "Pakistan's National Climate Change Policy (2012) and its subsequent updates",
-      "Indus Water Treaty (1960) - as foundational context for water distribution challenged by climate change",
-      "Pakistan's National Water Policy (2018)",
-      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports – particularly those concerning the Hindu Kush Himalayan region"
-    ],
-    "vocabulary": [
-      {
-        "word": "Glacial Lake Outburst Floods (GLOFs)",
-        "type": "noun",
-        "definition": "A sudden release of water from a glacial lake, often caused by a natural dam's failure, leading to devastating floods downstream.",
-        "sentence": "The Met Office cautioned that warm temperatures and heavy rain could trigger glacial lake outburst floods."
-      },
-      {
-        "word": "Retreat (of glaciers)",
-        "type": "verb",
-        "definition": "The process where a glacier's snout (front end) moves back due to melting exceeding accumulation.",
-        "sentence": "Rising temperatures are accelerating their retreat while increasing the risk of floods."
-      },
-      {
-        "word": "Mandate",
-        "type": "noun",
-        "definition": "An official order or commission to do something; the authority to carry out a policy.",
-        "sentence": "It should be backed by legislation, expertise and adequate funding, with a mandate to monitor glacier health."
-      },
-      {
-        "word": "Expediency",
-        "type": "noun",
-        "definition": "The quality of being convenient and practical despite being possibly improper or immoral; suitability for a purpose.",
-        "sentence": "They require stronger institutions, better governance and the political will to put long-term resilience ahead of short-term expediency."
-      },
-      {
-        "word": "Vulnerabilities",
-        "type": "noun",
-        "definition": "The state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
-        "sentence": "Those vulnerabilities cannot be addressed once an alert has been issued."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary natural phenomenon threatening Pakistan's northern mountains, as highlighted in the article?",
-        "options": [
-          "Glacial lake outburst floods (GLOFs)",
-          "Desertification",
-          "Tectonic plate shifts",
-          "Volcanic eruptions"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'warm temperatures and heavy rain could trigger glacial lake outburst floods' and that this is a 'fresh warning from Pakistan’s northern mountains'."
-      },
-      {
-        "question": "Which entity is being established in Gilgit-Baltistan to address glacier protection?",
-        "options": [
-          "A Disaster Response Force",
-          "A Climate Change Ministry",
-          "A Glaciers Protection Authority",
-          "An Environmental Impact Assessment Agency"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article clearly states that 'authorities in Gilgit-Baltistan... have moved to set up a Glaciers Protection Authority'."
-      },
-      {
-        "question": "According to the article, what critical aspects are threatened by climate change in Pakistan?",
-        "options": [
-          "Only agricultural output",
-          "Only electricity generation",
-          "Lives, livelihoods, and water security",
-          "Only tourism industry"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Climate change is an immediate threat to lives, livelihoods and water security.'"
-      },
-      {
-        "question": "Besides climate change itself, what factors magnify the impact of climate-related disasters in Pakistan, according to the text?",
-        "options": [
-          "Over-reliance on foreign aid and technology",
-          "Poor land-use planning, environmental degradation, and encroachment into hazard-prone valleys",
-          "Lack of international recognition for climate efforts",
-          "Insufficient military spending on disaster relief"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article points out that 'Poor land-use planning, environmental degradation and encroachment into hazard-prone valleys magnify the impact of climate-related disasters.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary natural resource threatened by climate change in Pakistan, as per the article, and what are its key uses?",
-        "back": "Pakistan's glaciers are threatened, which feed river systems critical for irrigating farms, generating electricity, and providing drinking water to millions."
-      },
-      {
-        "front": "What specific institutional mechanism is being established in Gilgit-Baltistan to address the impacts of glacier retreat?",
-        "back": "A Glaciers Protection Authority (GPA) is being set up in Gilgit-Baltistan."
-      },
-      {
-        "front": "Beyond disaster response, what crucial elements are necessary for the Glaciers Protection Authority to be truly effective in its mandate?",
-        "back": "It requires legislation, expertise, adequate funding, and a mandate to monitor glacier health, coordinate research, guide conservation, ensure climate-risk-aware development, and secure global climate finance."
-      },
-      {
-        "front": "How does the article connect the issue of water security to broader implications for governance and long-term resilience?",
-        "back": "It highlights that poor land-use planning, environmental degradation, and encroachment magnify disaster impacts, necessitating stronger institutions, better governance, and political will to prioritize long-term resilience over short-term expediency."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784251549569-924",
-    "title": "Red scare redux\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015548/red-scare-redux",
-    "date": "2026-07-15",
-    "author": "none@none.com (Mahir Ali)",
-    "content": "A SPECTRE seems to be haunting the US president. A few days ago, Reuters calculated that Donald Trump had invoked communism 81 times in his utterances and outbursts over the past two weeks. This included citing it as a bigger threat to America than both the world wars and 9/11. He has kept it up since then. Just this past weekend, he declared on his Truth Social platform: “I would often say in Speeches, and otherwise, America will never be a Socialist Country, and I was 100% correct, the Dumocrats skipped Socialism, and went all the way down to Communism. AMERICA WILL NEVER BE A COMMUNIST COUNTRY!”\n\nInterpreting Trump’s rants has become a full-time occupation for some, and there’s an emerging consensus that the Republican Party descended yet again into its anti-communist comfort zone after a bunch of candidates backed by the Democratic Socialists of America (DSA) won last month’s primaries, with the phenomenon echoed from Wisconsin to California.\n\nThe DSA is not ‘communist’ by any stretch of the imagination, but the word ‘socialism’ no longer inspires fear among growing segments of the American electorate. A decade ago, thanks mainly to Bernie Sanders, it briefly became the most googled word in the US. Many among those who looked it up apparently didn’t find the definitions or explanations offensive or undesirable. No wonder the Democratic Party establishment, dedicated to neoliberalism on the economic front and a neoconservative worldview, twice thwarted Sanders’ chances in the presidential primaries. Bernie might actually have trumped Donald in 2016, unlike Hillary Clinton, who has lately rightly been pilloried for backing Trump’s ridiculous plans for Gaza.\n\nSpeaking of which, it is hard to overestimate the effect that the Israeli genocide has had on the consciousness — and conscience — of American voters, some of whom have realised that their tax dollars were paying for some of the most abominable atrocities witnessed in the 21st century. One doesn’t need to be a socialist or a Marxist to be appalled by the slaughter of infants. As Francesca Hong, the DSA candidate running for governor of Wisconsin, puts it: “Voters understand that a politician unwilling to fight against the massacre of children abroad (which we’re funding), they won’t stand up for folks back home.”\n\nRepublicans have again retreated into their anti-red comfort zone.\n\nThat’s not communism, it’s common sense. Public opinion in the US has been shifting against its leading Middle Eastern partner in crimes against humanity. Like its American counterpart, the Israeli regime no longer bothers to disguise its fangs. America’s 20th-century history shows that its reactionary politicians have relied on red scares before, notably following each of the world wars. Trump, who is old enough to remember the McCarthyite era, was mentored by Roy Cohn, the obnoxious lawyer who helped to send Ethel and Julius Rosenberg to the electric chair in 1953. The trouble for Trump is that the threat that could be conjured up while the Soviet Union still existed is hard to repeat. Anyone under 40 is unlikely to recall that particular bogeyman, and China’s emergence as an economic challenge has been based on what could be described as capitalism with Confucian characteristics. Besides, it’s an enviable success story, while Vladimir Putin’s Russia is worshipped as a role model by the religious right in Trump’s diminishing base.\n\nAt the same time, the Republicans can hardly afford to focus on a tanking economy or detested foreign policy as potential vote-winners. The DSA, on the other hand, has the example of Zohran Mam­dani to pr­o­ffer. Unlike most other politicians, the New York may­or has sou­ght, with some success, to implement his electoral promises. This does not involve throwing up barricades or storming any variant of the Bastille, but improvements in transport, housing, childcare and affordability. Who could possibly object to such initiatives amid the worst levels of wealth disparity in a nation where class differences have expanded since the Reagan era, with little relief from the Clinton and Obama presidencies that followed.\n\nPolling evidence suggests that the latest effort to conjure up a red scare might resonate with the MAGA core but tends to be disdained by the independent voters who make all the difference in elections — particularly the young who have no memory of the Cold War. The Trump regime, not surprisingly, continues simultaneously to make various other efforts to thwart the prospects of fair contests in the November midterms, including gerrymandering and the removal of officials who might question its antics. There is no prospect of a nationwide progressive earthquake, but even small tremors here and there would provide scope for the kind of hope that both the Republican and Democratic establishments wish to strangle.\n\nPublished in Dawn, July 15th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 84,
-    "paper": "International Relations / Political Science / Current Affairs",
-    "topic": "US Domestic Politics, Ideological Shifts, and Foreign Policy Implications",
-    "whyMatters": "This article critically analyzes the resurgence of 'red scare' rhetoric in US politics, offering insights into historical parallels, evolving public opinion, and the challenges faced by established political parties. It helps aspirants understand the complex interplay between domestic political strategies, economic inequalities, and foreign policy stances, particularly in the context of contemporary global events.",
-    "summary": [
-      "Donald Trump has significantly ramped up his anti-communist rhetoric, frequently invoking the term and presenting it as a greater threat to America than major historical events like the World Wars and 9/11.",
-      "The Republican Party is retreating into its anti-communist comfort zone, a reaction to the growing success of Democratic Socialists of America (DSA) candidates and the decreasing fear of 'socialism' among a segment of the American electorate.",
-      "The ongoing Israeli-Gaza conflict has profoundly impacted American voters' consciousness, leading many to question their government's funding of perceived atrocities and influencing their views on politicians' integrity.",
-      "The effectiveness of traditional 'red scare' tactics is diminishing due to changing demographics (younger voters unfamiliar with the Cold War), China's economic model (described as 'capitalism with Confucian characteristics'), and its status as an enviable success story."
-    ],
-    "facts": [
-      "Donald Trump invoked communism 81 times in his utterances and outbursts over a two-week period recently.",
-      "A decade ago, 'socialism' briefly became the most googled word in the US, largely influenced by Bernie Sanders's political rise.",
-      "Roy Cohn, who mentored Trump, helped to send Ethel and Julius Rosenberg to the electric chair in 1953 during the McCarthyite era."
-    ],
-    "academicReferences": [
-      "Richard Hofstadter, \"The Paranoid Style in American Politics\" (for understanding historical patterns of political paranoia and scapegoating in the US).",
-      "David Harvey, \"A Brief History of Neoliberalism\" (for contextualizing the economic ideologies of the Democratic Party establishment and the rise of wealth disparity).",
-      "Noam Chomsky, \"Hegemony or Survival: America's Quest for Global Dominance\" (for critical analysis of US foreign policy, interventionism, and its global impact)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Spectre",
-        "type": "noun",
-        "definition": "A ghost; something widely feared as a possible unpleasant or dangerous occurrence.",
-        "sentence": "A spectre seems to be haunting the US president, as he frequently invokes the threat of communism."
-      },
-      {
-        "word": "Pilloried",
-        "type": "verb",
-        "definition": "Attacked or ridiculed publicly.",
-        "sentence": "Hillary Clinton has lately been pilloried for backing Trump’s controversial plans for Gaza."
-      },
-      {
-        "word": "Gerrymandering",
-        "type": "noun",
-        "definition": "The practice of manipulating the boundaries of an electoral constituency so as to favor one party or class.",
-        "sentence": "The Trump regime's efforts to thwart fair contests in the November midterms include various tactics, such as gerrymandering."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary reason for the diminishing effectiveness of 'red scare' tactics in contemporary US politics?",
-        "options": [
-          "A) The Republican Party has adopted more moderate political stances, making such rhetoric less credible.",
-          "B) Younger voters are unfamiliar with the Cold War era, and China's economic model is seen as a success rather than a communist threat.",
-          "C) The Democratic Party has successfully rebranded socialism as a mainstream, non-threatening ideology.",
-          "D) Public opinion universally supports socialist policies, rendering anti-communist appeals irrelevant."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that 'Anyone under 40 is unlikely to recall that particular bogeyman, and China’s emergence as an economic challenge has been based on what could be described as capitalism with Confucian characteristics.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the article's central argument regarding Donald Trump's recent invocation of communism?",
-        "back": "Trump has intensified his anti-communist rhetoric, portraying it as a greater threat than historical crises like world wars and 9/11, and claiming Democrats have become communist."
-      },
-      {
-        "front": "How does the article explain the Democratic Party establishment's opposition to Bernie Sanders despite his brief popularity?",
-        "back": "The Democratic Party establishment, dedicated to neoliberalism and a neoconservative worldview, thwarted Sanders because his socialist ideas, while gaining public acceptance, challenged their foundational ideologies."
-      },
-      {
-        "front": "What significant global event does the article highlight as profoundly impacting American voters' consciousness and conscience?",
-        "back": "The Israeli genocide in Gaza, which has led many American voters to realize their tax dollars are funding atrocities, influencing their political views on politicians' willingness to fight injustice."
-      },
-      {
-        "front": "Besides changing demographics, what other factor does the article cite as weakening the impact of a 'red scare' related to China?",
-        "back": "China's economic success is based on 'capitalism with Confucian characteristics,' making it an 'enviable success story' rather than a traditional communist bogeyman for younger generations."
       }
     ]
   }
