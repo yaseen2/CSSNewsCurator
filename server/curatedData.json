@@ -1,5 +1,552 @@
 [
   {
+    "id": "curated-1785892847789-347",
+    "title": "Beyond perception\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020506/beyond-perception",
+    "date": "2026-08-04",
+    "author": "none@none.com (Fakhar Zaman)",
+    "content": "PUBLIC confidence is the bedrock of every justice system. It is earned through independence, integrity, transparency and accountability, yet can be eroded by institutional shortcomings and public perceptions alike. The legitimacy of the judiciary rests not merely on constitutional authority, but on the confidence that citizens place in its ability to administer justice fairly, impartially and efficiently. In an era of unprecedented public scrutiny, that confidence must rest on measurable performance, transparent governance and continuous improvement.\nAcross the world, the discourse on judicial integrity is undergoing a profound transformation. Courts are no longer assessed solely by the quality of their judgements or the constitutional guarantees of judicial independence. Increasingly, they are evaluated through objective indicators measuring accessibility, efficiency, transparency, integrity and the quality of services delivered to court users. The emphasis is shifting from abstract notions of accountability to evidence-based institutional performance. Integrity cannot be secured merely through disciplinary mechanisms or declarations of principle; it must be embedded in institutional design.\nAgainst this backdrop, the National Judicial (Policy Making) Committee (NJPMC) has approved, in principle, a National Judicial Reform Framework aligned with the World Justice Project (WJP) Rule of Law Index. Its significance lies not in improving Pakistan’s position on an international index, as rankings, by themselves, are of limited value and rarely reflect enduring institutional progress. Rather, it promotes evidence-based governance by enabling courts to assess performance, identify weaknesses and refine reform priorities through objective indicators.\nThe framework envisages measurable standards covering transparency, accessibility, integrity, complaint redress, digital services, legal aid, alternative dispute resolution, witness facilitation, court administration and public information. Integrated with the National Judicial Analytics Dashboard and annual reviews under the WJP Rule of Law Index, these indicators will help ensure that reform remains a continuo us process.\nJustice systems must aspire to be judged by demonstrable performance.\nComplementing this initiative, the NJPMC has also approved the progressive alignment of the district judiciary with the International Framework for Court Excellence. Built around internationally accepted principles of leadership, strategic planning, court-user satisfaction, operational excellence and continuous improvement, the IFCE encourages courts to undertake structured self-assessment against internationally recognised standards. Together, the WJP Rule of Law Framework and the IFCE signal a shift from reform driven by aspiration to reform guided by measurable outcomes.\nThis philosophy is already reflected in ongoing reforms. Digitisation and barcoding of case files, electronic filing, online transmission of judicial orders, QR-enabled certified copies, digital payments and video-link hearings are creating transparent digital trails, reducing unnecessary administrative discretion and strengthening accountability. Standard operating procedures for case fixation likewise promote consistency, predictability and fairness.\nThe National Judicial Analytics Dash­board enables courts to identify bottlenecks, allocate resources more effectively and evaluate reforms against measurable outcomes. Public facilitation centres, simplified services and feedback mechanisms recognise that ju-s­tice is measured not only by judicial decisions but also by accessibility, responsiveness and efficiency. Ju-stice must not only be done; it must also be experien­ced as accessible, timely and res­po­nsive to the needs of those it serves.\nJudicial independence and judicial accountability are complementary constitutional principles. Independence protects impartial adjudication, while accountability strengthens institutional legitimacy. The recently introduced mechanism for reporting instances of extraneous influence on judges reinforces both principles by providing a structured institutional response.\nUltimately, every justice system must aspire to be judged neither by perception alone nor by institutional assertion, but by demonstrable performance. Public confidence grows when institutions measure themselves against transparent standards, acknowledge shortcomings and pursue continuous improvement. By embracing internationally recognised frameworks for the rule of law and court excellence, Pakistan’s judiciary has chosen to be assessed through objective benchmarks rather than subjective narratives.\nThe writer is DG Reforms, Supreme Court of Pakistan.\nPublished in Dawn, August 4th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 97,
+    "paper": "Pakistan Affairs",
+    "topic": "Judicial Reforms, Accountability, and Constitutional Development",
+    "whyMatters": "The article illustrates the contemporary shift in the judiciary's role towards demonstrable performance, transparency, and accountability, moving beyond abstract constitutional authority. This directly addresses the \"development\" aspect of the judiciary by highlighting its ongoing institutional evolution to strengthen public confidence and legitimacy, crucial for its function within Pakistan's constitutional framework.",
+    "summary": [
+      "Public confidence is the foundational element of any justice system, built upon independence, integrity, transparency, and accountability, and can be undermined by institutional flaws and public perceptions.",
+      "The global evaluation of judicial integrity is evolving, moving from solely judging court judgments to assessing performance through objective indicators like accessibility, efficiency, transparency, and quality of service.",
+      "Pakistan's National Judicial (Policy Making) Committee (NJPMC) has adopted the National Judicial Reform Framework, aligned with the WJP Rule of Law Index and the International Framework for Court Excellence (IFCE), to enable evidence-based assessment and continuous improvement.",
+      "Ongoing reforms, including digitization, the National Judicial Analytics Dashboard, and public facilitation centers, exemplify a shift towards measurable outcomes, aiming to make justice accessible, timely, and responsive."
+    ],
+    "facts": [
+      "The National Judicial (Policy Making) Committee (NJPMC) has approved a National Judicial Reform Framework.",
+      "The framework is aligned with the World Justice Project (WJP) Rule of Law Index and the International Framework for Court Excellence (IFCE).",
+      "Key reforms include digitization of case files, electronic filing, online transmission of judicial orders, QR-enabled copies, digital payments, and video-link hearings."
+    ],
+    "academicReferences": [
+      "World Justice Project (WJP) Rule of Law Index",
+      "International Framework for Court Excellence (IFCE)",
+      "National Judicial (Policy Making) Committee (NJPMC) initiatives"
+    ],
+    "vocabulary": [
+      {
+        "word": "Bedrock",
+        "type": "noun",
+        "definition": "The fundamental principle or foundation on which something is based.",
+        "sentence": "Public confidence is the bedrock of every justice system, ensuring its stability and effectiveness."
+      },
+      {
+        "word": "Eroded",
+        "type": "verb",
+        "definition": "To gradually wear away or destroy; to diminish or destroy gradually.",
+        "sentence": "Public trust in institutions can be easily eroded by a lack of transparency and accountability."
+      },
+      {
+        "word": "Extraneous",
+        "type": "adjective",
+        "definition": "Irrelevant or unrelated to the subject being dealt with; coming from outside.",
+        "sentence": "The recently introduced mechanism aims to protect judges from extraneous influence, reinforcing judicial independence."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which international framework, alongside the WJP Rule of Law Index, has the NJPMC approved for aligning the district judiciary?",
+        "options": [
+          "International Framework for Court Excellence (IFCE)",
+          "United Nations Convention against Corruption (UNCAC)",
+          "Global Judiciary Performance Standards (GJPS)",
+          "Judicial Integrity Principles (JIP)"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states that the NJPMC has approved the progressive alignment of the district judiciary with the International Framework for Court Excellence (IFCE) to complement the National Judicial Reform Framework."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the foundational element for any justice system, according to the article?",
+        "back": "Public confidence, earned through independence, integrity, transparency, and accountability."
+      },
+      {
+        "front": "How is the assessment of courts transforming globally, as described in the article?",
+        "back": "It's shifting from solely judging the quality of judgments to evaluating performance through objective indicators measuring accessibility, efficiency, transparency, integrity, and quality of services."
+      },
+      {
+        "front": "What is the primary significance of the National Judicial Reform Framework being aligned with international indices?",
+        "back": "It promotes evidence-based governance, enabling courts to assess performance, identify weaknesses, and refine reform priorities through objective indicators, rather than just improving rankings."
+      },
+      {
+        "front": "How do judicial independence and judicial accountability relate to each other as constitutional principles?",
+        "back": "They are complementary constitutional principles, where independence protects impartial adjudication, and accountability strengthens institutional legitimacy."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785893174870-520",
+    "title": "Swat bombing\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020503/swat-bombing",
+    "date": "2026-08-04",
+    "author": "none@none.com (Editorial)",
+    "content": "IT is a bitter irony that terrorists struck a protest against violence in Swat on Sunday, causing at least 17 fatalities. Both policemen and civilians were martyred in the atrocity.\nReports indicate that a suicide bomber blew himself up near a police station as the anti-terror protest was underway when officers tried to search him. Some media outlets have said the banned TTP has claimed responsibility for the bombing.\nThis bloodbath should lead to thorough counterterrorism action, as the people of Swat — and indeed the rest of KP — deserve to live in an atmosphere free of terrorism and violence.\n    \nUnfortunately, as pointed out in an exclusive report published in this paper, gaps in training have left LEAs in KP vulnerable to ‘double-tap’ or ‘two-stage’ attacks by terrorists. Moreover, the casualty numbers from July, and the first half of 2026, indicate that a fresh CT strategy is needed to bring down the number of fatalities, and effectively neutralise the threat of terrorism.\nThe fact is that terrorists appear to be operating without fear of consequences, while LEAs are unable to stay ahead of them. A string of recent ‘two-stage’ attacks in KP illustrate this point.\nThe terrorists’ modus operandi involves attacking security facilities, waiting for reinforcements to arrive, and then staging secondary attacks. A number of security personnel have been martyred in these attacks.\nPolice officials say forces lack the training to counter these attacks, while experts also question how terrorists are able to maintain their supply lines. The gaps in training need to be filled so that security forces are able to defend themselves, gain the upper hand over violent elements, and, through better intelligence, break up their networks and thwart their attacks.\nAt present, the terrorism figures, particularly in Balochistan and KP, do not paint a reassuring picture. According to the PICSS think tank, there were over 600 fatalities in July. While the vast majority was of terrorists, over 200 security men, civilians and peace committee members were martyred last month. Balochistan saw the highest levels of violence, while KP was not far behind.\n    \nOverall, in the first six months of 2026, Pakistan has witnessed over 900 fatalities involving LEAs and civilians. This is far too high a toll, and the state needs to urgently refine its CT strategy to prevent further loss of precious lives.\nIt is a matter of great concern that despite the martyrdom of so many policemen and soldiers, as well as civilians, the state is unable to vanquish the monster of terrorism. Hostile external forces may indeed be creating problems, but as security experts point out, we have failed to secure spaces within our borders where terrorists operate from. This continuous bloodbath must end so that people can live in peace.\nPublished in Dawn, August 4th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Pakistan Affairs / Current Affairs / Internal Security",
+    "topic": "Rising Terrorism, Counter-Terrorism Strategy, and Internal Security Challenges in Pakistan",
+    "whyMatters": "This article highlights critical failures in Pakistan's counter-terrorism strategy and the increasing threat posed by militant groups, particularly in KP and Balochistan. Aspirants must understand these contemporary challenges as they are central to national security, governance, and socio-economic stability.",
+    "summary": [
+      "A suicide bombing in Swat targeted an anti-violence protest, resulting in at least 17 fatalities, with the banned TTP reportedly claiming responsibility.",
+      "Law Enforcement Agencies (LEAs) in KP are vulnerable to 'double-tap' or 'two-stage' attacks due to significant gaps in training, leading to substantial security personnel casualties.",
+      "Pakistan has experienced a drastic increase in terrorism-related fatalities, with over 600 in July alone (including 200+ security personnel/civilians) and over 900 in the first half of 2026.",
+      "The state's current counter-terrorism strategy is deemed inadequate, allowing terrorists to operate with impunity while LEAs struggle to neutralise the threat and secure internal spaces."
+    ],
+    "facts": [
+      "At least 17 fatalities, including policemen and civilians, occurred in the Swat suicide bombing.",
+      "Over 600 fatalities due to terrorism were recorded in July 2026, with more than 200 being security personnel, civilians, and peace committee members (PICSS think tank data).",
+      "Over 900 fatalities involving LEAs and civilians were reported across Pakistan in the first six months of 2026.",
+      "The banned TTP has reportedly claimed responsibility for the Swat bombing."
+    ],
+    "academicReferences": [
+      "National Internal Security Policy (NISP) of Pakistan (e.g., 2014-2018)",
+      "National Action Plan (NAP) 2014 against Terrorism and Extremism",
+      "Aqil Shah's \"The Army and Democracy: Military Politics in Pakistan\" (for broader security context)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Irony",
+        "type": "noun",
+        "definition": "A state of affairs or an event that seems deliberately contrary to what one expects.",
+        "sentence": "It was a bitter irony that terrorists struck a protest against violence."
+      },
+      {
+        "word": "Atrocity",
+        "type": "noun",
+        "definition": "An extremely wicked or cruel act, typically one involving physical violence or injury.",
+        "sentence": "Both policemen and civilians were martyred in the atrocity."
+      },
+      {
+        "word": "Modus Operandi",
+        "type": "noun",
+        "definition": "A particular way or method of doing something, especially one that is characteristic or well-established.",
+        "sentence": "The terrorists' modus operandi involves attacking security facilities and staging secondary attacks."
+      },
+      {
+        "word": "Impunity",
+        "type": "noun",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "Terrorists appear to be operating without fear of consequences, enjoying impunity."
+      },
+      {
+        "word": "Vanquish",
+        "type": "verb",
+        "definition": "Defeat thoroughly.",
+        "sentence": "Despite efforts, the state is unable to vanquish the monster of terrorism."
+      },
+      {
+        "word": "Double-tap/Two-stage attacks",
+        "type": "noun phrase",
+        "definition": "A tactic where an initial attack is followed by a secondary attack targeting first responders or reinforcements.",
+        "sentence": "Gaps in training have left LEAs in KP vulnerable to ‘double-tap’ or ‘two-stage’ attacks."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the immediate cause of the 17 fatalities in Swat mentioned in the article?",
+        "options": [
+          "A drone strike",
+          "A suicide bombing during an anti-terror protest",
+          "A clash between security forces and militants",
+          "A natural disaster"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'a suicide bomber blew himself up near a police station as the anti-terror protest was underway, causing at least 17 fatalities.'"
+      },
+      {
+        "question": "According to the article, what is a key vulnerability of Law Enforcement Agencies (LEAs) in KP?",
+        "options": [
+          "Lack of modern weaponry",
+          "Gaps in training to counter 'double-tap' attacks",
+          "Insufficient personnel numbers",
+          "Poor intelligence gathering from external sources"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article points out that 'gaps in training have left LEAs in KP vulnerable to ‘double-tap’ or ‘two-stage’ attacks by terrorists.'"
+      },
+      {
+        "question": "What was the total number of fatalities involving LEAs and civilians in Pakistan during the first six months of 2026, as reported by the article?",
+        "options": [
+          "Over 200",
+          "Over 600",
+          "Over 900",
+          "Over 1200"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Overall, in the first six months of 2026, Pakistan has witnessed over 900 fatalities involving LEAs and civilians.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What critical failure in counter-terrorism strategy does the Swat bombing incident highlight?",
+        "back": "It highlights the state's inability to protect even public gatherings against violence, indicating a failure to neutralize the terrorist threat and secure internal spaces."
+      },
+      {
+        "front": "Explain the 'double-tap' or 'two-stage' attack strategy used by terrorists and its impact on LEAs.",
+        "back": "Terrorists attack security facilities, wait for reinforcements, and then stage secondary attacks, exploiting LEA training gaps and causing significant casualties among security personnel."
+      },
+      {
+        "front": "What statistical trend from July and the first half of 2026 points to the urgent need for a refined CT strategy?",
+        "back": "Over 600 fatalities in July (200+ security personnel/civilians) and over 900 fatalities involving LEAs and civilians in the first six months of 2026 indicate a severe escalation in terrorist activity and casualties."
+      },
+      {
+        "front": "What two major regions are particularly affected by the rise in terrorism according to the article?",
+        "back": "Balochistan and Khyber Pakhtunkhwa (KP) are identified as the regions experiencing the highest levels of violence and terrorism."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785892935384-875",
+    "title": "Tariff blow\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020502/tariff-blow",
+    "date": "2026-08-04",
+    "author": "none@none.com (Editorial)",
+    "content": "FOR an export sector already squeezed by high production costs, the additional 10pc tariff on top of the existing 29pc on Pakistan’s shipments to the US comes at the worst possible moment for the country’s textile and apparel industry. The new import tax imposed by the US trade representative late last month, after a review linked to enforcement of forced-labour prohibitions across Washington’s trading partners, risks eroding Pakistan’s competitiveness in the American market. Pakistan prohibits forced labour by law, but the US wants stricter enforcement. Textiles and apparel account for most of Pakistan’s exports to the US. Facing high energy prices, expensive financing, taxes and logistic costs, the textiles and apparel industry fears its buyers could turn to lower-cost suppliers from regional competitors. The new duty is estimated to cost the sector $564m in export revenue this fiscal year.\nThe new tariffs come amid growing discussion of stronger commercial ties between Islamabad and Washington. Pakistan is also increasing imports of oil and other commodities from the US, a move meant to narrow the bilateral trade gap in favour of America. But that cannot be mistaken for protection. Even the recent improvement in diplomatic relations between the two has failed to shield Pakistan’s exports from additional tariffs — that should be seen as a warning. The new duties are a reminder that diplomacy alone cannot offset hard trade policy. If Pakistan wants to increase its share in the US market on stable terms, it must show that compliance and enforcement are functioning systems. It cannot rely on goodwill alone, nor can it afford complacency at home. The immediate priority should be to reduce the cost of production through cheaper and more reliable energy, easier access to finance and improvements in logistics. That must be paired with serious enforcement of labour standards and a more proactive case before US regulators and buyers. Washington must also recognise that punitive duties on a labour-intensive economy can deepen hardship without necessarily changing supply-chain behaviour. The long-term answer is diversification. Pakistan should push beyond dependence on low-margin textile and apparel exports, move up the value chain and broaden its export markets. A stronger industrial base, not diplomatic optics, will determine whether it can sustain its presence in global trade.\nPublished in Dawn, August 4th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Export Challenges and Trade Diversification Strategies",
+    "whyMatters": "This article critically highlights Pakistan's acute export vulnerabilities and the urgent need for market and product diversification beyond traditional partners. It provides crucial context for understanding why robust regional trade strategies, such as those through ECO, are vital to mitigate risks and secure economic stability for Pakistan.",
+    "summary": [
+      "The US has imposed an additional 10% tariff on Pakistan's textile and apparel exports, citing concerns over forced-labour prohibitions, severely impacting the sector already burdened by high production costs.",
+      "The new tariff, on top of the existing 29%, threatens Pakistan's competitiveness in the American market and is estimated to cost the textile sector $564 million in export revenue this fiscal year.",
+      "Despite improving diplomatic relations and Pakistan's efforts to narrow the bilateral trade gap by increasing imports from the US, diplomacy alone has proven insufficient to shield Pakistan's exports from punitive trade policies.",
+      "The article advocates for Pakistan to implement internal reforms, including reducing production costs, stricter enforcement of labor standards, and a long-term strategy of diversification beyond low-margin textile and apparel exports to higher value chains and broader export markets."
+    ],
+    "facts": [
+      "An additional 10% tariff has been imposed on Pakistan’s shipments to the US, on top of the existing 29% duty.",
+      "The new duty is estimated to cost Pakistan's textile sector $564m in export revenue this fiscal year.",
+      "Textiles and apparel account for most of Pakistan’s exports to the US."
+    ],
+    "academicReferences": [
+      "International Labour Organization (ILO) Conventions, particularly C029 (Forced Labour Convention)",
+      "Pakistan's Strategic Trade Policy Framework (STPF) (latest available)",
+      "Economic Cooperation Organization (ECO) Vision 2025"
+    ],
+    "vocabulary": [
+      {
+        "word": "Eroding",
+        "type": "verb",
+        "definition": "gradually wearing away or destroying something",
+        "sentence": "The new import tax risks *eroding* Pakistan’s competitiveness in the American market."
+      },
+      {
+        "word": "Complacency",
+        "type": "noun",
+        "definition": "a feeling of uncritical satisfaction with oneself or one's achievements",
+        "sentence": "Pakistan cannot rely on goodwill alone, nor can it afford *complacency* at home."
+      },
+      {
+        "word": "Punitive",
+        "type": "adjective",
+        "definition": "inflicting or intended as punishment",
+        "sentence": "Washington must also recognise that *punitive* duties on a labour-intensive economy can deepen hardship."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason cited by the US for imposing additional tariffs on Pakistan's textile and apparel shipments?",
+        "options": [
+          "Forced-labour prohibitions",
+          "Bilateral trade deficit",
+          "Diplomatic tensions",
+          "Economic sanctions"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states the new import tax was imposed after a review 'linked to enforcement of forced-labour prohibitions'."
+      },
+      {
+        "question": "According to the article, what is the estimated export revenue loss for Pakistan's textile sector due to the new duty this fiscal year?",
+        "options": [
+          "$29 million",
+          "$10 million",
+          "$564 million",
+          "Over $1 billion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'The new duty is estimated to cost the sector $564m in export revenue this fiscal year.'"
+      },
+      {
+        "question": "What long-term strategy does the article suggest for Pakistan to increase its share in the US market and global trade on stable terms?",
+        "options": [
+          "Increasing oil imports from the US",
+          "Relying solely on diplomatic goodwill",
+          "Diversification beyond low-margin textile exports and moving up the value chain",
+          "Reducing all import tariffs immediately"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'The long-term answer is diversification. Pakistan should push beyond dependence on low-margin textile and apparel exports, move up the value chain and broaden its export markets.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article illustrate the limitations of diplomacy in offsetting hard trade policy between Pakistan and the US?",
+        "back": "Despite recent improvements in diplomatic relations and Pakistan's efforts to narrow the trade gap by increasing imports from the US, the imposition of additional tariffs demonstrates that specific enforcement concerns (like forced labor) can override diplomatic goodwill."
+      },
+      {
+        "front": "What internal reforms does the article advocate for Pakistan to enhance its export competitiveness, beyond diplomatic efforts?",
+        "back": "Pakistan needs to reduce production costs through cheaper energy, easier access to finance, and improved logistics. It must also ensure serious enforcement of labor standards and proactively present its case to US regulators and buyers."
+      },
+      {
+        "front": "Why is 'diversification' presented as the long-term answer for Pakistan's presence in global trade, according to the article?",
+        "back": "Diversification is crucial to move beyond dependence on low-margin textile and apparel exports, ascend the value chain, and broaden export markets. This builds a stronger industrial base, making Pakistan less vulnerable to specific market shocks or sector-specific tariffs."
+      },
+      {
+        "front": "How does the article's discussion of bilateral trade challenges with the US implicitly support the importance of regional integration frameworks like ECO for Pakistan?",
+        "back": "The article highlights the risks of over-reliance on a single major market (US) and a single sector (textiles). This vulnerability underscores the need for Pakistan to explore alternative or complementary markets and trade blocs, such as ECO, to achieve market diversification and greater economic resilience."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785892767564-142",
+    "title": "Threats all around\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020507/threats-all-around",
+    "date": "2026-08-04",
+    "author": "none@none.com (Dr Niaz Murtaza)",
+    "content": "WE are among the few states that have to contend with threats on all fronts: India to the east, TTP in the north, Afghanistan to the west and BLA in the south. Everyone agrees on the basic aim: defuse the threats to transform from a security state to a welfare state. The divide persists on strategy: between a military one that wins battles and a holistic one that fixes root causes and respects rights and laws that can lead to sustainable peace.\nA holistic approach is most vital in Balochistan, now in the third decade of its fifth and longest insurgency. Focusing only on the kinetic aspect to quell terrorism misses a key point. Force alone doesn’t end threats. Violence recurs over the decades and lasts longer each time when neglect and abuse keep inciting anger and new recruits. Balochistan’s economic neglect is stark: it is our poorest region despite its small numbers, natural wealth and proximity to the rich Gulf states. It’s rich below the ground but poor above it. The political neglect goes back to the British era. Unlike in the case of other provinces joining Pakistan, Balochistan had no assembly vote/referendum on its status in 1947; its future was determined through elite consensus. This was despite its mix of unique traits — historical autonomy, distinct ethnicity and vast area — that led to initial talks on provincial status much before 1947, unlike for the princely states merged with the other provinces.\nA public vote creates a strong bond that chiefs or militants can’t deny later. Balochistan lacked provincial status until 1970. Bahawalpur and Khairpur got elected assemblies in the 1950s. Oddly, learning no lesson from the 1971 debacle that the denial of democracy led to, Zulfikar Ali Bhutto removed Balochistan’s first elected set-up just 14 months after that tragic split. Military action followed. Such acts occurred later too. So, even in a state marked by autocracy, Balochistan stands out. Disappearances feed anger as do the jailing of key peaceful activists. Balochistan urgently needs a fairly elected and empowered set-up to tackle its issues. This may thin terrorist ranks. Limited force may then easily defeat radical elements unmoved by political change.\nWe must go beyond narrow policies.\nThe threats from Afghanistan and TTP are linked. TTP violence reflects extremism. However, many root causes feed it indirectly: legacies of Afghan wars, a militarised state’s past jihadist support and prolonged exclusion of tribal areas. The TTP has caused more deaths than BLA; its extremism precludes talks too. Yet, we must fix the root causes and respect rights and laws. This means precise intelligence-backed use of force in close liaison with locals, economic uplift and strong border checks without total trade and travel bans. It could mean rethinking cross-border attacks that may not stop incursions but may raise complex issues under UN laws and risk civilian deaths. We must also see the Afghan people as our main allies against the Afghan Taliban as they harm both of us greatly; rethink Afghan expulsions and treat those leaving voluntarily well. This may cut the number of Afghans the TTP now recruits. Afghan Taliban rigidity can be tackled by organising targeted sanctions along with regional and global powers.\nRoot causes are hard to fix soon given their complex nature in the conflict with India. But even managing symptoms will reduce the risk of nuclear war. Our wars no longer focus on land disputes but start after a terrorist attack next door, as in the Pahalgam atta­­ck in India-occupied Kashmir last year. Given the risks of a war using non-conv­entional means and the high bar under UN law for justifying cross-border attacks, both countries must pursue diplomacy.\nTheir interests and those of the wider world will be best served if they agree to a neutral UN mechanism that can review their existing evidence against each other, monitor future trends and facilitate urgent communication after an incident. This may help curb terrorism and water wars. Both Pakistan and India must also address the root causes of terrorism. Such trust-building steps may create an enabling environment for resolving more basic issues later bilaterally.\nThese threats are only a few flames in a bigger socioeconomic inferno we face. We must go beyond narrow policies that have fuelled the cauldron for long and employ the full spectrum of creative solutions that have helped many states douse similar conflagrations on a more durable basis.\nThe writer holds a PhD in political economy from the University of California, Berkeley, and has 25 years of grassroots to senior-level experience across 50 countries.\nmurtazaniaz@yahoo.com\nX: @NiazMurtaza2\nPublished in Dawn, August 4th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Current Affairs",
+    "topic": "National Security Challenges and State Transformation",
+    "whyMatters": "This article provides a critical analysis of Pakistan's multi-front security challenges and advocates for a paradigm shift from a 'security state' to a 'welfare state' through holistic strategies. While it does not directly address the ECO question, its insights on internal and external threats are crucial for understanding broader national security dynamics relevant to other Current Affairs topics.",
+    "summary": [
+      "Pakistan faces multi-front security threats from India, TTP, Afghanistan, and BLA, necessitating a strategic shift from a security state to a welfare state.",
+      "A fundamental divide exists between a purely military strategy and a holistic approach that addresses root causes, respects rights, and upholds laws for sustainable peace.",
+      "Balochistan's prolonged insurgency is attributed to historical political and economic neglect, including a lack of public vote on its status in 1947 and delayed provincial autonomy, requiring an empowered, elected setup.",
+      "Threats from Afghanistan and TTP are linked to extremism, legacies of Afghan wars, past state policies, and require a multi-faceted approach combining precise force, economic uplift, strong border management, and diplomatic engagement.",
+      "For India-Pakistan relations, managing symptoms and pursuing diplomacy through a neutral UN mechanism is crucial to reduce nuclear war risks and curb terrorism, alongside addressing root causes."
+    ],
+    "facts": [
+      "Balochistan's current insurgency is its fifth and longest, now in its third decade.",
+      "Balochistan lacked provincial status until 1970, unlike other princely states that gained elected assemblies in the 1950s.",
+      "Zulfikar Ali Bhutto removed Balochistan’s first elected setup just 14 months after its formation, following the 1971 split."
+    ],
+    "academicReferences": [
+      "Stephen Cohen's 'The Idea of Pakistan' (for understanding state identity and security state paradigms)",
+      "National Internal Security Policy (NISP) of Pakistan (for official policy frameworks on internal threats)",
+      "United Nations Charter, Article 51 (for discussions on self-defense and international law regarding cross-border actions)"
+    ],
+    "vocabulary": [
+      {
+        "word": "contend",
+        "type": "verb",
+        "definition": "To struggle to overcome (a difficulty or danger).",
+        "sentence": "Pakistan has to contend with threats on all fronts."
+      },
+      {
+        "word": "defuse",
+        "type": "verb",
+        "definition": "To make a situation less dangerous or tense.",
+        "sentence": "Everyone agrees on the basic aim: defuse the threats to transform from a security state to a welfare state."
+      },
+      {
+        "word": "kinetic",
+        "type": "adjective",
+        "definition": "Relating to motion; in a military context, referring to active combat operations involving physical force.",
+        "sentence": "Focusing only on the kinetic aspect to quell terrorism misses a key point."
+      },
+      {
+        "word": "quell",
+        "type": "verb",
+        "definition": "To suppress or crush completely.",
+        "sentence": "Force alone doesn’t end threats, especially when only kinetic aspects are used to quell terrorism."
+      },
+      {
+        "word": "autocracy",
+        "type": "noun",
+        "definition": "A system of government by one person with absolute power.",
+        "sentence": "So, even in a state marked by autocracy, Balochistan stands out due to its unique historical grievances."
+      },
+      {
+        "word": "precludes",
+        "type": "verb",
+        "definition": "To prevent something from happening or make it impossible.",
+        "sentence": "The TTP has caused more deaths than BLA; its extremism precludes talks too."
+      },
+      {
+        "word": "incursions",
+        "type": "noun",
+        "definition": "An invasion or attack, especially a sudden or brief one.",
+        "sentence": "Rethinking cross-border attacks that may not stop incursions but may raise complex issues."
+      },
+      {
+        "word": "conflagrations",
+        "type": "noun",
+        "definition": "An extensive fire; used metaphorically for a large destructive conflict.",
+        "sentence": "We must employ the full spectrum of creative solutions that have helped many states douse similar conflagrations on a more durable basis."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT listed as a front from which Pakistan faces threats?",
+        "options": [
+          "India",
+          "TTP",
+          "Iran",
+          "BLA"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly lists India to the east, TTP in the north, Afghanistan to the west, and BLA in the south, but not Iran."
+      },
+      {
+        "question": "What is identified as a primary reason for the recurrence of violence in Balochistan?",
+        "options": [
+          "Lack of military presence",
+          "Neglect and abuse",
+          "Absence of natural resources",
+          "International interference"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Violence recurs over the decades and lasts longer each time when neglect and abuse keep inciting anger and new recruits.'"
+      },
+      {
+        "question": "What does the author suggest as a crucial step for managing India-Pakistan conflict?",
+        "options": [
+          "Increased military buildup",
+          "Cross-border attacks",
+          "A neutral UN mechanism",
+          "Total trade bans"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author proposes 'a neutral UN mechanism that can review their existing evidence against each other, monitor future trends and facilitate urgent communication after an incident.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the basic aim everyone agrees upon regarding Pakistan's threats?",
+        "back": "To defuse the threats to transform from a security state to a welfare state."
+      },
+      {
+        "front": "According to the article, what key historical factor contributed to Balochistan's political neglect?",
+        "back": "Balochistan had no assembly vote/referendum on its status in 1947, unlike other provinces joining Pakistan, and lacked provincial status until 1970."
+      },
+      {
+        "front": "What specific actions are suggested for a holistic approach to address threats from Afghanistan and TTP?",
+        "back": "Precise intelligence-backed use of force in close liaison with locals, economic uplift, strong border checks without total trade/travel bans, rethinking cross-border attacks, treating Afghans well, and targeted sanctions on Afghan Taliban."
+      },
+      {
+        "front": "Beyond military action, what two core elements define the 'holistic strategy' for sustainable peace mentioned by the author?",
+        "back": "Fixing root causes and respecting rights and laws."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785893017640-735",
+    "title": "Politics is upon us\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2020509/politics-is-upon-us",
+    "date": "2026-08-04",
+    "author": "none@none.com (Arifa Noor)",
+    "content": "IT wasn’t an ordinary day by any stretch of the imagination, even though it began rather ordinarily. There was little news to interest anyone (and Kashmir was a no-no for television channels).\nInitially, there came fleeting news about a press conference by the head of ISPR but it wasn’t meant to be. Those who had not been invited to the event thought the news was incorrect but later it transpired that the conference had been delayed to the next day, Friday.\nAnd then came the bombshell — in Islamabad at an event hosting businessmen for a conference on the economy, business and all things complicated. Here, instead of the speeches by the men managing Pakistan’s finances (if there were any), it was Interior Minister Mohsin Naqvi’s speech that got all the attention.\nIt’s still not clear why he spoke there but as the conference took place at a hall located close to his office, perhaps he offered to swing by and say a few words.\n    \nHis speech didn’t just create headlines; it created an entire news cycle. In simple words, he confirmed in a way what the government’s worst critics have been saying — that people are in pain and the government hasn’t been able to provide them with any relief. He put it even more bluntly. He spoke of the ‘system’ (the entire country — not just the one in Sindh) having collapsed. Not collapsing but collapsed.\nHe said it wasn’t possible to deliver regardless of how hard the prime minister worked and how many long hours he put in. He referenced recent events in India, saying that if the ‘cockroaches’ (youth) got together, they would overthrow it all.\nBut more intriguingly, he also made it clear that giving people a few thousand rupees or a laptop wasn’t enough. This was clearly a reference to the various schemes launched by the PML-N as well as the Benazir Income Support Programme, which is seen as the PPP’s baby.\nHe proposed a solution by arguing the country needed more provinces or administrative units so that governance could be delivered at the doorstep. The next day, the DG ISPR reinforced this proposal.\nThe interior minister’s indictment of the present government will not be forgotten easily.\nWhile his solution or proposal took no one by surprise, his criticism of the set-up did. After all, most of us are aware that there is much discussion behind closed doors on the need to revisit the NFC as well as the notion of devolution (which would assist the people as well as weaken the dynasty-controlled fiefdoms at the provincial level).\n    \nHowever, Naqvi’s indictment of the present government will not be forgotten easily — for now, all those who had been waxing lyrical about the work done by Maryam Nawaz in Punjab or by Shehbaz Sharif at the centre will find it hard to argue that the party has delivered and won over the people.\nInterestingly, his remarks, which were a damning indictment of the current set-up, were initially met with silence. It took nearly a day before the reaction came from the PPP and PML-N whose public representatives are usually quick to hold media talks every day on any hint of criticism. But to contradict the interior minister, and one who is said to be very close to the highest in the establishment, is surely above the pay grade of those put in charge of information ministries.\nStill, the senior tiers were called to report for duty. In Sindh, the chief minister himself pooh-poohed the suggestion, while from the PML-N Rana Sanaullah was the first to fire back. Since then, others too have joined the fray, but most of the criticism focuses on Naqvi and not those who back him.\nThere was also news of a family gathering at Jati Umrah in Lahore. Not much emerged from it other than some vloggers thundering about Nawaz Sharif having been woken up from his slumber — news that somehow didn’t get traction unlike Naqvi’s speech. Perhaps it is because the news is limited to a few who are relying on sources or because no one really believes the family is in a position to push back. The silence from the PPP heads is equally noticeable.\nIn the meantime, the lower tiers might continue to thunder, though it is hard to believe Mohsin Naqvi will now respond to these allegations. But what now seems inevitable is another amendment to the Constitution, even if there is little clarity on what it will bring. New provinces and other wholesale changes (for it would mean reconfiguring the Senate)? Or simply a strong local government system with some federal areas? Or will it begin with easing the provisions for creating new provinces? Or a change in the NFC? Nothing is clear but the path ahead seems to lead to parliament. That Ahsan Bhoon was also present at the event where Naqvi spoke also indicates this.\nBut while the powers that be have perhaps made their intentions clear, the silence from the parties means they are still to put together a strategy. Will they simply try to win over some concessions as they did during the previous two amendments? Will they drive a hard bargain? Or is the time and space for compromises over? The details are as above my pay grade as they are beyond the ability and position of Azma Bokhari or Atta Tarrar to respond to Naqvi. So as the hackneyed phrase goes, let’s wait and watch.\nHowever, it might just be safe to say that the amendment will not sail through without hiccups. It would mean a weakening of both the parties vis-à-vis the provincial governments, politically as well as in terms of patronage. For instance, the PPP will lose its political raison d’être; for Maryam Nawaz, the position of chief minister might lose its lustre, increasing the competition for the position in Islamabad. The initial instinct therefore will be to bargain and get something in return, if they decide not to push back.\nIn other words, the hybrid system is now set for a new tug of war, which may leave some, if not all, of the stakeholders a little worse for wear.\nThe writer is a journalist.\nPublished in Dawn, August 4th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Pakistan Affairs / Political Science / Governance",
+    "topic": "Devolution, Administrative Reforms, and Inter-Party Dynamics in Pakistan",
+    "whyMatters": "This article critically analyzes Pakistan's governance challenges and the political implications of proposed administrative reforms. It is crucial for understanding current political dynamics, constitutional debates, and the evolving civil-military relationship in Pakistan.",
+    "summary": [
+      "Interior Minister Mohsin Naqvi publicly criticized the government's failure to provide relief and declared the entire 'system' collapsed, suggesting a dire state of governance.",
+      "Naqvi proposed creating more provinces or administrative units to improve governance delivery, a suggestion later supported by the DG ISPR.",
+      "The criticism and proposal sparked a cautious, delayed reaction from major political parties (PPP, PML-N), highlighting their reluctance to openly confront a minister perceived to be close to the establishment.",
+      "The article anticipates an inevitable constitutional amendment to facilitate administrative restructuring, foreseeing a political \"tug of war\" that could weaken existing political parties' provincial influence and patronage."
+    ],
+    "facts": [
+      "Interior Minister Mohsin Naqvi delivered a critical speech at an Islamabad business conference on the economy.",
+      "The proposal for more provinces or administrative units was reinforced by the DG ISPR the next day.",
+      "Rana Sanaullah and the Sindh Chief Minister were among the first political figures to publicly respond to Naqvi's remarks."
+    ],
+    "academicReferences": [
+      "18th Constitutional Amendment (for devolution context)",
+      "National Finance Commission (NFC) Award (for resource distribution and provincial share context)",
+      "Local Government Systems in Pakistan (relevant for administrative unit discussions)"
+    ],
+    "vocabulary": [
+      {
+        "word": "fiefdoms",
+        "type": "noun",
+        "definition": "a territory or sphere of influence over which one dominant person or group has control.",
+        "sentence": "The notion of devolution would assist the people as well as weaken the dynasty-controlled fiefdoms at the provincial level."
+      },
+      {
+        "word": "indictment",
+        "type": "noun",
+        "definition": "a formal accusation or a strong expression of disapproval.",
+        "sentence": "The interior minister’s indictment of the present government will not be forgotten easily."
+      },
+      {
+        "word": "raison d’être",
+        "type": "noun",
+        "definition": "the most important reason or purpose for someone or something's existence.",
+        "sentence": "For instance, the PPP will lose its political raison d’être."
+      },
+      {
+        "word": "hackneyed",
+        "type": "adjective",
+        "definition": "(of a phrase or idea) lacking significance through having been overused; unoriginal and trite.",
+        "sentence": "So as the hackneyed phrase goes, let’s wait and watch."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary solution proposed by Interior Minister Mohsin Naqvi to address Pakistan's governance issues?",
+        "options": [
+          "Strengthening existing provincial governments",
+          "Launching new income support programs",
+          "Creating more provinces or administrative units",
+          "Increasing the working hours of the Prime Minister"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that Naqvi proposed a solution by arguing the country needed more provinces or administrative units so that governance could be delivered at the doorstep."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What core criticism did Interior Minister Mohsin Naqvi level against the government's performance?",
+        "back": "He confirmed that people are in pain, the government hasn't provided relief, and the entire 'system' has collapsed."
+      },
+      {
+        "front": "How did political parties like PPP and PML-N initially react to Naqvi's damning remarks?",
+        "back": "They initially met his remarks with silence for nearly a day, indicating reluctance to contradict someone perceived as close to the establishment."
+      },
+      {
+        "front": "What is the anticipated long-term consequence of the proposed administrative reforms, particularly for established political parties?",
+        "back": "It is anticipated to lead to a weakening of both major parties (PPP, PML-N) regarding provincial governments, politically and in terms of patronage."
+      },
+      {
+        "front": "Besides creating new provinces, what other forms of constitutional changes might be considered according to the article?",
+        "back": "Other changes could include a strong local government system with some federal areas, easing provisions for new provinces, or changes in the National Finance Commission (NFC)."
+      }
+    ]
+  },
+  {
     "id": "curated-1785721412471-696",
     "title": "No more torture\n",
     "source": "Dawn",
@@ -185,6 +732,94 @@
       {
         "front": "What specific conditions and external pressure does the article deem necessary for a peaceful resolution and the potential establishment of a Palestinian state?",
         "back": "The article calls for a clear pathway for a Palestinian state, an end to Israeli brutalities, complete withdrawal from all occupied territories, and direct pressure from US President Trump and his Board of Peace on Israel to act."
+      }
+    ]
+  },
+  {
+    "id": "curated-1785893256043-628",
+    "title": "Pakistan needs more provinces and strong local governments",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2621882/pakistan-needs-more-provinces-and-strong-local-governments",
+    "date": "2026-08-03",
+    "author": "\n\t\t\t\tWebdesk\n\t\t\t",
+    "content": "Throughout the world, successful federations have consistently recognised that as populations grow and economies become more complex, governments must move closer to the people. Decentralisation has become one of the defining features of effective governance. Nations that have periodically reorganised their administrative structures have generally experienced faster economic growth, better public services, stronger institutions and greater political stability.\n\nThe discussion on creating new provinces in Pakistan has unfortunately remained trapped within political and ethnic narratives. Such an approach obscures the real issue. Administrative reorganisation should never be viewed as a concession to regional politics; rather, it should be regarded as a constitutional instrument for improving governance and ensuring equitable development. Provinces should neither be created nor opposed on ethnic, linguistic or political grounds. Instead, objective criteria such as population, geographical size, administrative workload, accessibility, economic viability, infrastructure needs and national security should guide the process.\n\nNo major country has achieved sustained economic growth, administrative efficiency or political stability through excessive centralisation. Successful nations continuously adapt their administrative structures to changing demographic, economic and security realities. Administrative reform is therefore not an event but a continuous national process.\n\nPakistan, unfortunately, has moved in the opposite direction. Provincial governments have become increasingly centralised, while local governments remain financially weak and administratively dependent. Decision-making is concentrated in provincial capitals, leaving remote districts with limited influence over development priorities. The result has been uneven infrastructure development, delayed public services, weak municipal administration, inadequate policing and growing perceptions of regional inequality. These are not failures of democracy; they are failures of administrative design.\n\nThe solution lies not merely in creating additional provinces but in adopting a comprehensive national policy of decentralisation based upon constitutional principles, objective benchmarks and international best practices. Pakistan requires an administrative structure that is dynamic, evidence-based and capable of evolving with future demographic and economic changes rather than remaining frozen in the institutional framework of the past. Administrative reorganisation must be guided by objective constitutional principles rather than political expediency or ethnic considerations. A modern federation should periodically review its administrative structure to ensure that governance keeps pace with changing demographic, economic and security realities.\n\nPakistan therefore needs a permanent institutional mechanism to undertake this responsibility. Parliament should establish a National Commission on Administrative Reforms and Decentralisation through an Act of Parliament. The Commission should comprise constitutional experts, economists, public administration specialists, demographers, finance experts, urban planners, representatives of the armed forces and law enforcement agencies, members of the Planning Commission and representatives of all federating units. It should function as an independent constitutional policy body, reviewing Pakistan's administrative structure after every national census and recommending reforms based upon objective benchmarks rather than political pressures.\n\nThe Commission should establish measurable national standards, including population size, geographical area, administrative workload, distance from the provincial capital, accessibility of public services, economic sustainability, infrastructure requirements, law and order considerations, disaster management capacity, human development indicators and future population growth. Such an evidence-based approach would depoliticise the debate and ensure that administrative reforms serve the national interest rather than partisan interests.\n\nOne of the most important constitutional reforms requiring serious national discussion is the amendment of Article 239 of the Constitution. Under the existing constitutional framework, altering provincial boundaries is an extremely difficult process. While these constitutional safeguards were intended to protect the federating units, they have also made necessary administrative reforms almost impossible. Pakistan should therefore consider a constitutional amendment providing that, after laying down clear constitutional principles and safeguards, the establishment, merger or reorganisation of provinces may be undertaken by Parliament through an Act passed by a simple majority on the recommendations of the National Commission. Such a reform would enable the federation to respond to changing administrative realities through democratic parliamentary decision-making.\n\nAdministrative reforms should not stop at the provincial level. The greatest weakness in Pakistan's governance structure lies in the persistent neglect of local governments. Although Article 140A of the Constitution requires elected local governments with political, administrative and financial responsibility, this constitutional vision has never been fully realised.\n\nNo country has achieved efficient governance without empowering local governments. Pakistan must adopt a new model of fiscal decentralisation. Financial devolution should accompany administrative devolution. Local governments should receive predictable and constitutionally protected transfers under a transparent statutory formula linked to population, area, poverty levels, infrastructure deficits and development needs. District governments, metropolitan corporations, municipal committees and village councils should be empowered to plan and implement education, primary healthcare, sanitation, water supply, waste management, local roads, urban transport, housing regulation, parks, environmental protection and community development.\n\nAdministrative reorganisation should also become a continuous constitutional process rather than a one-time political exercise. After every national census, the proposed National Commission should assess whether existing provinces, divisions, districts and local governments continue to meet national benchmarks. Where necessary, Parliament should be empowered to undertake further administrative restructuring in accordance with objective constitutional criteria. Such a dynamic system would ensure that Pakistan's administrative architecture evolves alongside demographic and economic changes.\n\nPakistan's founders envisioned a federation founded upon justice, participation and efficient administration. Those constitutional aspirations require constant institutional renewal. The challenges of the 21st century cannot be addressed through administrative arrangements inherited from another era. Governance must evolve with the needs of the people. The real strength of a federation lies not in concentrating power but in distributing authority wisely, ensuring that every citizen enjoys equal access to public institutions and equal opportunities for development.",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Pakistan Affairs / Public Administration / Governance",
+    "topic": "Administrative Reforms, Decentralization, and Local Governance in Pakistan",
+    "whyMatters": "This article offers a critical analysis of Pakistan's centralized administrative structure, highlighting the need for comprehensive decentralization and stronger local governments. It provides policy recommendations and constitutional insights crucial for understanding governance challenges and potential solutions for competitive examinations.",
+    "summary": [
+      "Successful federations worldwide embrace decentralisation for economic growth, efficient public services, stronger institutions, and greater political stability, continuously adapting administrative structures to changing realities.",
+      "Pakistan suffers from excessive centralisation, with provincial governments concentrating power and local governments remaining financially weak and administratively dependent, leading to uneven development and inadequate public services.",
+      "Administrative reorganisation, including the creation of new provinces, should be guided by objective criteria such as population, geographical size, and economic viability, rather than political expediency or ethnic narratives.",
+      "A comprehensive national policy of continuous decentralisation is required, involving a National Commission on Administrative Reforms, constitutional amendments (e.g., Article 239, 140A), and fiscal devolution to empower local governments at all levels."
+    ],
+    "facts": [
+      "Article 239 of the Constitution currently makes altering provincial boundaries an extremely difficult process, hindering necessary administrative reforms.",
+      "Article 140A of the Constitution requires elected local governments with political, administrative, and financial responsibility, a vision that has never been fully realised in Pakistan.",
+      "Pakistan's provincial governments have become increasingly centralised, concentrating decision-making in provincial capitals and leaving remote districts with limited influence."
+    ],
+    "academicReferences": [
+      "18th Constitutional Amendment of Pakistan (2010) - Enhanced provincial autonomy, yet highlights challenges of further decentralization.",
+      "National Finance Commission (NFC) Award - Mechanism for fiscal distribution, relevant to financial decentralization and provincial-local government transfers.",
+      "UN Sustainable Development Goal 16: Peace, Justice, and Strong Institutions - Emphasizes effective, accountable, and inclusive institutions at all levels, aligning with decentralization goals."
+    ],
+    "vocabulary": [
+      {
+        "word": "Federations",
+        "type": "noun",
+        "definition": "A group of states or provinces with a central government but independence in internal affairs.",
+        "sentence": "Throughout the world, successful federations have consistently recognised that governments must move closer to the people."
+      },
+      {
+        "word": "Decentralisation",
+        "type": "noun",
+        "definition": "The transfer of authority and power from central to local government or other local bodies.",
+        "sentence": "Decentralisation has become one of the defining features of effective governance."
+      },
+      {
+        "word": "Expediency",
+        "type": "noun",
+        "definition": "The quality of being convenient and practical, often at the expense of fairness or principle.",
+        "sentence": "Administrative reorganisation must be guided by objective constitutional principles rather than political expediency or ethnic considerations."
+      },
+      {
+        "word": "Devolution",
+        "type": "noun",
+        "definition": "The transfer or delegation of power to a lower level, especially by central government to local or regional administration.",
+        "sentence": "Financial devolution should accompany administrative devolution to empower local governments."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as the 'greatest weakness' in Pakistan's governance structure?",
+        "options": [
+          "Excessive foreign aid dependency",
+          "Persistent neglect of local governments",
+          "Frequent changes in federal leadership",
+          "Over-reliance on military administration"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'The greatest weakness in Pakistan's governance structure lies in the persistent neglect of local governments,' despite Article 140A."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core argument for successful federations needing to continuously reorganise their administrative structures?",
+        "back": "As populations grow and economies become more complex, governments must move closer to the people, and decentralisation becomes a defining feature of effective governance."
+      },
+      {
+        "front": "What key issue does the article highlight regarding Pakistan's current administrative design and its impact?",
+        "back": "Excessive centralisation and weak local governments have led to uneven infrastructure development, delayed public services, weak municipal administration, and growing perceptions of regional inequality."
+      },
+      {
+        "front": "What specific constitutional amendment is suggested by the author to enable necessary administrative reforms regarding provincial boundaries?",
+        "back": "An amendment to Article 239 of the Constitution, allowing Parliament to establish, merge, or reorganise provinces by a simple majority based on the recommendations of a National Commission."
+      },
+      {
+        "front": "Beyond administrative decentralization, what crucial accompanying reform does the article advocate for empowering local governments?",
+        "back": "Fiscal decentralisation, where local governments receive predictable and constitutionally protected financial transfers under a transparent statutory formula."
       }
     ]
   },
@@ -9745,587 +10380,6 @@
       {
         "front": "What concrete reforms does the article demand to achieve inclusive growth through agriculture in Pakistan?",
         "back": "The article demands strengthening research, developing indigenous vaccines, improving traceability, correcting market distortions, expanding rural credit, investing in climate resilience, enhancing irrigation efficiency, and creating incentives for private investment."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784337419433-478",
-    "title": "Strategic sanity\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2016097/strategic-sanity",
-    "date": "2026-07-17",
-    "author": "none@none.com (Khurram Abbas)",
-    "content": "THE Stockholm International Peace Research Institute has published its Yearbook 2026. SIPRI assesses that India has now operationally deployed 12 out of 190 nuclear warheads on a single nuclear-powered ballistic missile submarine conducting deterrence patrols. This is a major strategic shift: for decades, New Delhi had stored its warheads and delivery systems separately, a deliberate posture designed to prevent accidental use. This shift in nuclear posture will have far-reaching implications for strategic stability in South Asia.\n\nWhile Pakistan’s Foreign Office has shown no surprise over the development, strategic thinkers in Islamabad have focused on certain issues. First, the shift in India’s nuclear posture has raised concerns about New Delhi’s declared no-first use policy. Indian Defence Minister Rajnath Singh publicly cast doubts on India’s long-standing nuclear NFU policy during an August 2019 visit to Pokhran. This aligns with the BJP’s 2014 election manifesto that promised to “study in detail India’s nuclear doctrine, and revise and update it, to make it relevant to challenges of current times”. Hence, India’s actions suggest a profound shift from NFU to ‘strategic ambiguity’ in New Delhi’s nuclear policy.\n\nSecond, while the number of deployed nuclear warheads may vary, India’s strategic posture shows aggressive intent. Since 2016, ties between India and Pakistan have been viewed largely through the lens of crisis escalation and political tensions. In the absence of structural dialogue, this altered strategic posture of New Delhi has understandably set off alarm bells in Islamabad.\n\nThird, the development has compressed the crisis response window. Already, South Asia is witnessing accelerated crisis response due to AI-enabled command systems. New Delhi’s sea-based nuclear deterrence, with operational nuclear warheads can further increase the risk of miscalculation, accidental escalation and perhaps forced pre-emption in a nuclearised environment. Moreover, the primary challenge of deploying nuclear weapons at sea relates to the problem of command and control. Delegating authority to a submarine commander at sea could lead to the risk of unauthorised or accidental use.\n\nIn this hostile environment, the best, most practical option for Pakistan and India remains the resumption of dialogue.\n\nSimilarly, India’s strategic thinkers are largely referring to their country’s sea-based nuclear posture to deter Chinese threats. However, this argument stands in contrast to the current geopolitical environment and trajectory of Sino-India ties. Sino-India ties have improved significantly since the Modi-Xi Kazan summit in 2024. The two sides have signed a landmark border patrol agreement and improved bilateral trade of over $150 billion in 2026. On the contrary, India-Pakistan relations are going through the worst phase of their history in view of the absence of direct trade, a downgraded diplomatic presence in each other’s capitals, frequent armed hostilities and people-to-people disengagement. Islamabad believes that New Delhi is using China to please the West in the context of the US-China competition at the global level. Moreover, India has not publicly announced a bifurcated or separate deterrence posture or command-and-control framework for China and Pakistan. In fact, Islamabad believes that the operational deployment of New Delhi’s nuclear warheads is meant to circumvent Pakistan’s full spectrum deterrence. New Delhi, through these measures, is primarily challenging Pakistan’s traditional deterrence policy.\n\nAlthough Islamabad does not want to get drawn into another arms race, the altered strategic realities will likely compel it to take several precautionary diplomatic and security measures, which may risk another arms surge in the region. Mor­eover, one of the more worrisome factors is that New Delhi’s sea-based nuclear capability coupled with operational nuclear warheads might incentivise Indian policymakers to engage in more frequent low-level crises or coercive diplomacy at the conventional level because of New Delhi’s confidence in ‘assured second-strike’ capability.\n\nFrom Pakistan’s perspective, the international community has not taken serious note of this shift in India’s strategic posture. This is why, if the situation worsens and the pressure increases, Islamabad may see no option but to deploy nuclear warheads across its entire vector to deter India’s aggressive strategic posture. Similarly, the operational asymmetry will become more visible in the naval domain between Islamabad and New Delhi. Keeping in view the huge cost of naval nuclearisation, Islamabad will likely broaden and deepen its naval cooperation with likeminded friendly countries to fill the operational asymmetrical gap. Moreover, emerging technologies and semi-autonomous weapons systems have further given Isla­mabad options to improve its naval capabilities.\n\nIn this hostile environment, the best, most practical option for both sides remains the resumption of dialogue and ensuring stringent implementation of nuclear-related CBMs to minimise concerns related to the misinterpretation of intentions. Renewed dialogue between India and Pakistan on nuclear-related CBMs can help clarify intentions and reduce the chance of accidental or inadvertent escalation. The last round of dialogue related to conventional and nuclear-related CBMs between India and Pakistan was held in 2012.\n\nWhile there is significant appetite in Islamabad to engage with New Delhi for meaningful dialogue on all outstanding issues and ensure smooth implementation of nuclear-related CBMs, the BJP-led NDA government’s policy of no structural dialogue with Pakistan remains a major stumbling block. From 2016 to 2026, two main trends can summarise Pakistan-India ties. First, the two sides have been witnessing an era of eroding bilateralism, where already settled issues such as the Indus Waters Treaty have become victims of political tensions and right-wing populism. If this trend of erosion of bilateral ties continues, it could ultimately hit other settled issues including nuclear-related CBMs. Second, every military crisis from 2016 to 2025 has been bigger and broader in scale and scope.\n\nIn order to reverse these two trends, it is important for New Delhi and Islamabad to re-engage in meaningful dialogue. Ultimately, strategic thinkers and policymakers in New Delhi must understand the primary concept of armed conflict bet­ween two nuclear states, ie, victory is impossible and defeat is unthinkable, hence strategic sanity must prevail for the sake of peace in South Asia.\n\nThe writer is a strategic analyst of international security. The views expressed are his own.\n\nPublished in Dawn, July 17th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Current Affairs",
-    "topic": "Nuclear Deterrence and Strategic Stability in South Asia",
-    "whyMatters": "While this article is not relevant to the specified past exam question on the Economic Cooperation Organization (ECO) as it exclusively discusses nuclear deterrence and strategic stability in South Asia, it is crucial for questions concerning India-Pakistan geopolitical tensions and regional security dynamics. Students can leverage its detailed analysis of nuclear policy shifts and their implications to address broader international relations or current affairs questions on South Asian security.",
-    "summary": [
-      "India has shifted its nuclear posture by operationally deploying nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN), moving away from its traditional stance of separately storing warheads and delivery systems.",
-      "This strategic shift raises significant concerns about India's no-first-use (NFU) policy, with actions by the Indian Defence Minister and BJP manifesto aligning towards 'strategic ambiguity' in its nuclear doctrine.",
-      "Pakistan views India's altered strategic posture as aggressive, increasing the risk of miscalculation, accidental escalation, and forced pre-emption, especially given compressed crisis response windows and challenges in command and control for sea-based nuclear assets.",
-      "Despite India's narrative of deterring China, Pakistan believes the operational deployment of nuclear warheads is primarily aimed at circumventing its full spectrum deterrence, compelling Islamabad to consider precautionary diplomatic and security measures.",
-      "The article emphasizes that the best option for both India and Pakistan is the resumption of dialogue and stringent implementation of nuclear-related Confidence Building Measures (CBMs) to ensure strategic sanity, although India's current policy obstructs such engagement."
-    ],
-    "facts": [
-      "SIPRI Yearbook 2026 assesses India has operationally deployed 12 out of 190 nuclear warheads on a SSBN.",
-      "Indian Defence Minister Rajnath Singh publicly cast doubts on India’s NFU policy during an August 2019 visit to Pokhran.",
-      "The BJP’s 2014 election manifesto promised to “study in detail India’s nuclear doctrine, and revise and update it”.",
-      "Sino-India ties saw improved bilateral trade of over $150 billion in 2026 after the Modi-Xi Kazan summit in 2024.",
-      "The last round of dialogue related to conventional and nuclear-related CBMs between India and Pakistan was held in 2012."
-    ],
-    "academicReferences": [
-      "SIPRI (Stockholm International Peace Research Institute) Yearbooks (Authoritative source for global security and arms control data).",
-      "Ashley J. Tellis, 'India's Nuclear Deterrent: Pokhran II and the Next Generation' (Key work on Indian nuclear doctrine).",
-      "C. Raja Mohan, 'Crossing the Rubicon: The Shaping of India’s New Foreign Policy' (Relevant for understanding India's strategic shifts and foreign policy).",
-      "Non-Proliferation Treaty (NPT) & Comprehensive Nuclear-Test-Ban Treaty (CTBT) (Foundational international treaties relevant to nuclear policy discourse)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Deterrence",
-        "type": "noun",
-        "definition": "The action or policy of discouraging an action or event through instilling doubt or fear of the consequences.",
-        "sentence": "The operational deployment of nuclear warheads on SSBNs is a strategic move to enhance sea-based nuclear deterrence."
-      },
-      {
-        "word": "Strategic ambiguity",
-        "type": "noun phrase",
-        "definition": "A deliberate policy of not stating publicly whether one country would come to the aid of another if attacked, or regarding the precise nature of its strategic intentions.",
-        "sentence": "India's actions suggest a profound shift from a clear NFU policy to 'strategic ambiguity' in its nuclear doctrine."
-      },
-      {
-        "word": "Pre-emption",
-        "type": "noun",
-        "definition": "The act of taking action before an anticipated event to prevent it, especially in a military context.",
-        "sentence": "New Delhi’s sea-based nuclear deterrence can increase the risk of miscalculation and perhaps forced pre-emption in a nuclearised environment."
-      },
-      {
-        "word": "Bilateralism",
-        "type": "noun",
-        "definition": "The conduct of political, economic, or cultural relations between two sovereign states.",
-        "sentence": "The two sides have been witnessing an era of eroding bilateralism, where already settled issues have become victims of political tensions."
-      },
-      {
-        "word": "CBMs (Confidence Building Measures)",
-        "type": "noun",
-        "definition": "Actions taken to reduce tensions, build trust, and clarify intentions between nations, especially in military or security contexts.",
-        "sentence": "Renewed dialogue between India and Pakistan on nuclear-related CBMs can help clarify intentions and reduce the chance of accidental escalation."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to SIPRI Yearbook 2026, what major strategic shift has India made regarding its nuclear warheads?",
-        "options": [
-          "A) Increased its total number of nuclear warheads to 500.",
-          "B) Operationally deployed nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN).",
-          "C) Decommissioned all its land-based nuclear missile systems.",
-          "D) Publicly declared a revised no-first-use policy without any ambiguity."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'SIPRI assesses that India has now operationally deployed 12 out of 190 nuclear warheads on a single nuclear-powered ballistic missile submarine conducting deterrence patrols.'"
-      },
-      {
-        "question": "What policy shift is suggested by India's actions regarding its nuclear doctrine, according to the article?",
-        "options": [
-          "A) A reaffirmation of its strict no-first-use (NFU) policy.",
-          "B) A move from NFU to 'strategic ambiguity'.",
-          "C) The adoption of a 'launch-on-warning' posture.",
-          "D) A policy of complete nuclear disarmament."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'Hence, India’s actions suggest a profound shift from NFU to ‘strategic ambiguity’ in New Delhi’s nuclear policy.'"
-      },
-      {
-        "question": "From Pakistan's perspective, what is the primary objective of New Delhi's operational deployment of nuclear warheads, despite India's claims of deterring China?",
-        "options": [
-          "A) To improve trade relations with Pakistan.",
-          "B) To circumvent Pakistan’s full spectrum deterrence.",
-          "C) To secure a permanent seat on the UN Security Council.",
-          "D) To establish a joint nuclear command with China."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions: 'In fact, Islamabad believes that the operational deployment of New Delhi’s nuclear warheads is meant to circumvent Pakistan’s full spectrum deterrence.'"
-      },
-      {
-        "question": "What is identified as the best, most practical option for both India and Pakistan in the current hostile environment?",
-        "options": [
-          "A) Escalating naval capabilities and developing more advanced weapons systems.",
-          "B) Seeking increased military alliances with global powers.",
-          "C) Resumption of dialogue and stringent implementation of nuclear-related CBMs.",
-          "D) Imposing strict economic sanctions on each other."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article repeatedly emphasizes: 'In this hostile environment, the best, most practical option for Pakistan and India remains the resumption of dialogue' and 'ensuring stringent implementation of nuclear-related CBMs'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What significant nuclear posture shift by India is reported by SIPRI 2026, and what was India's previous stance?",
-        "back": "India has operationally deployed nuclear warheads on a nuclear-powered ballistic missile submarine (SSBN); previously, it stored warheads and delivery systems separately to prevent accidental use."
-      },
-      {
-        "front": "How has India's Defence Minister and the BJP's election manifesto contributed to concerns about India's no-first-use (NFU) policy?",
-        "back": "Defence Minister Rajnath Singh publicly doubted the NFU policy in 2019, aligning with the BJP's 2014 manifesto promise to revise and update India's nuclear doctrine."
-      },
-      {
-        "front": "According to the article, why does Pakistan believe India's sea-based nuclear deployment challenges its deterrence policy, despite India's claims of deterring China?",
-        "back": "Pakistan believes the deployment is primarily meant to circumvent its full spectrum deterrence, arguing that India has not announced a bifurcated deterrence posture for China and Pakistan, and Sino-India ties have improved."
-      },
-      {
-        "front": "What are the two main negative trends characterizing Pakistan-India ties from 2016 to 2026, as per the article?",
-        "back": "An era of eroding bilateralism, where settled issues like the Indus Waters Treaty are affected by political tensions, and every military crisis becoming larger in scale and scope."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784424882561-778",
-    "title": "Our solar transition needs governance, not just growth",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2618844/our-solar-transition-needs-governance-not-just-growth",
-    "date": "2026-07-17",
-    "author": "\n\t\t\t\tAbis Husein\n\t\t\t",
-    "content": "Pakistan's solar story is often told as a simple one. Electricity became expensive, supply remained unreliable, solar equipment got cheaper, and consumers responded rationally. Homes, businesses, farms and institutions moved toward solar because the economics made sense. That part is true. But it is no longer the whole story.\n\nThe more important question now is not whether solar will continue to grow. It almost certainly will. The real question is whether Pakistan can govern that growth well enough to make it visible, credible and durable.\n\nFor years, solar was treated mainly as a consumer response to high tariffs and unreliable service. But once a technology spreads at scale, it stops being only a private choice. It becomes a market transition. And market transitions need governance.\n\nThat does not mean slowing solar down. The larger the market becomes; the more important governance becomes if growth is to remain healthy rather than chaotic.\n\nOne reason this matters is that the visible solar market appears smaller than the real one. Publicly visible net-metered solar tells only part of the story. Reporting around the Competition Commission-backed study has pointed to a wider solar economy, with formally visible capacity far below the scale suggested by imports and distributed adoption.\n\nThat gap matters because policy can only govern what it can see. If the state is looking mainly at the formal slice while the broader transition is happening through multiple channels, rules will lag reality. When rules lag reality, frictions multiply.\n\nThose frictions are familiar: uneven standards, variable installer quality, weak consumer protection, substandard equipment, narrow financing, poor data and policy uncertainty. A sector that should be maturing starts looking fragmented instead.\n\nThis is why the solar discussion cannot remain trapped in tariff language alone. Prices, payback and billing treatment matter. But a serious solar market also needs quality assurance, better visibility, and credible rules.\n\nThe Competition Commission study is useful because it approaches solar not just as an energy story, but also as a market-structure story. It flags weak quality control, financing barriers, data problems and policy uncertainty as constraints on healthy sector development. That is an important shift. Solar is not only about adding panels. It is also about what kind of market is being built around them.\n\nA badly governed market can still grow quickly. But it does not necessarily grow well. It can reward weak compliance, encourage short-term behaviour, and leave consumers with uneven quality and weak recourse. That may look like success in volume terms, but it is not the same as building a durable transition.\n\nThere is also a fairness question. If solar expansion depends mainly on self-financing, the benefits flow first to those with savings, credit access or stronger balance sheets. Others remain more exposed to the old system. Over time, solar can shift from a broad transition opportunity into a more uneven one. Inclusion, therefore, is part of market design, not only a social concern.\n\nThe same applies to industrial depth. Pakistan's solar growth has been rapid, but largely import-driven. That is not unusual in an early-stage market, but it cannot be the end of the conversation. The issue is not whether Pakistan can suddenly manufacture everything. It is whether it can build realistic layers of capability: testing, standards infrastructure, integration skills, selected components, after-sales strength, and deeper manufacturing where scale justifies it.\n\nWhat, then, does the next phase require? First, better visibility through clearer registration, segmentation and credible data. Second, stronger standards and certification so growth is matched by quality. Third, wider financing pathways so the market deepens instead of narrowing socially. Fourth, more policy credibility, because a serious market responds not only to incentives but also to signals.\n\nPakistan does not need less solar. It needs better-governed solar.\n\nThe first phase of solarisation was driven by economics. The next phase will depend on governance. That is not a sign of failure. It is a sign that solar has become important enough to matter systemically.",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / Economics / Current Affairs",
-    "topic": "Renewable Energy Policy and Governance in Pakistan",
-    "whyMatters": "This article highlights the critical shift from organic solar growth to the necessity of robust governance for a sustainable and equitable energy transition in Pakistan. It provides a nuanced perspective on solar adoption beyond mere economics, crucial for analyzing policy challenges in energy and economic sectors.",
-    "summary": [
-      "Pakistan's solar growth, initially driven by consumer economics, has evolved into a market transition demanding comprehensive governance to ensure healthy and durable development.",
-      "The visible, net-metered solar market significantly understates the actual scale of solar adoption, leading to a policy-reality gap that results in market frictions and fragmentation.",
-      "A well-governed solar market requires quality assurance, enhanced visibility, credible rules, and wider financing mechanisms, moving beyond solely tariff-centric discussions.",
-      "Beyond volume, a durable solar transition necessitates addressing fairness and inclusion, and building local industrial depth (e.g., testing, standards, integration skills) to mitigate import dependency."
-    ],
-    "facts": [
-      "Publicly visible net-metered solar capacity is significantly below the scale suggested by imports and distributed adoption, indicating a substantial 'invisible' solar economy.",
-      "Common market frictions include uneven standards, variable installer quality, weak consumer protection, substandard equipment, narrow financing options, poor data, and policy uncertainty.",
-      "If solar expansion relies primarily on self-financing, its benefits become uneven, flowing mainly to those with savings or credit access, thus impacting social inclusion."
-    ],
-    "academicReferences": [
-      "National Energy Policy of Pakistan (2021)",
-      "Sustainable Development Goals (SDG 7: Affordable and Clean Energy)",
-      "Competition Commission of Pakistan's 'Study on the Solar Energy Sector in Pakistan'"
-    ],
-    "vocabulary": [
-      {
-        "word": "Governance",
-        "type": "noun",
-        "definition": "The action or manner of governing a state, organization, or market; the system by which a country or organization is controlled.",
-        "sentence": "Effective governance is crucial for ensuring a fair and transparent solar energy market in Pakistan."
-      },
-      {
-        "word": "Fragmented",
-        "type": "adjective",
-        "definition": "Broken into small, disparate parts; disorganized or incomplete, lacking cohesion.",
-        "sentence": "Without proper oversight, the solar sector risks becoming fragmented, leading to inconsistent quality and consumer dissatisfaction."
-      },
-      {
-        "word": "Recourse",
-        "type": "noun",
-        "definition": "A source of help in a difficult situation; the legal right to demand compensation or action.",
-        "sentence": "Consumers with substandard solar installations often find they have weak recourse due to unregulated market practices."
-      },
-      {
-        "word": "Systemically",
-        "type": "adverb",
-        "definition": "Affecting an entire system, body, or economy; in a way that is fundamental to a system.",
-        "sentence": "Solar energy has grown to matter systemically for Pakistan's energy security and economic stability, requiring comprehensive policy attention."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary challenge facing Pakistan's solar transition *beyond* initial economic viability?",
-        "options": [
-          "A) Slowing down of equipment imports due to international trade barriers.",
-          "B) Lack of effective governance and market regulation for its widespread growth.",
-          "C) Decrease in consumer demand for solar solutions as electricity prices stabilize.",
-          "D) Insufficient electricity tariffs to make solar installation profitable for households."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'The real question is whether Pakistan can govern that growth well enough' and that 'market transitions need governance,' indicating that governance is the crucial next challenge beyond economic viability."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is 'governance' increasingly critical for Pakistan's solar market, even if growth continues?",
-        "back": "Because a technology spreading at scale becomes a market transition, requiring governance to ensure healthy, visible, credible, and durable growth instead of chaos and fragmentation."
-      },
-      {
-        "front": "What is the 'gap' identified in Pakistan's solar market visibility, and why does it matter for policy?",
-        "back": "The gap is between the formally visible (net-metered) solar capacity and the wider, informally adopted solar economy. It matters because policy can only effectively govern what it can see, leading to rules lagging reality and multiplying frictions."
-      },
-      {
-        "front": "Beyond tariff discussions, what are the key elements required for a serious and maturing solar market in Pakistan?",
-        "back": "Quality assurance, better visibility, credible rules, stronger standards, wider financing pathways, and greater policy credibility."
-      },
-      {
-        "front": "How does the article link solar market design to 'fairness' and 'inclusion'?",
-        "back": "It argues that if solar expansion relies mainly on self-financing, benefits disproportionately flow to wealthier individuals, shifting solar from a broad opportunity to an uneven one, making inclusion a critical part of market design."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784424801177-621",
-    "title": "Unrest: the cost of bad governance",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2618846/unrest-the-cost-of-bad-governance",
-    "date": "2026-07-17",
-    "author": "\n\t\t\t\tImtiaz Gul\n\t\t\t",
-    "content": "In his op-ed for Arab News, Dr Syed Kaleem Imam, a former federal secretary and inspector general of police, makes three critical observations on Balochistan's simmering crisis.\n\n\"In my years of service, I saw again and again that the officials answerable for outcomes in Balochistan were seldom the ones who had made the decisions, and those who made the decisions were rarely held accountable for the consequences.\n\n\"Over the years, I saw capable civil servants and police officers hesitate to offer honest professional advice because agreement was rewarded while candor was treated as disloyalty.\n\n\"I recall a senior police officer proudly saying that his primary duty was to represent the state. I respectfully disagree. The police represent the state best when they protect people's rights, dignity, and security. At the same time, they require capable administration.\"\n\nThese observations testify to Balochistan's crisis of political imagination, not merely a policy failure. It is a failure to: a) comprehend the relationship between the public servant and state institutions, which primarily demands loyalty to the state and not to individuals; and b) critically assess the socio-political relationship between the state and the citizen, which derives its legitimacy from the consent of the governed, public participation and equality before the law.\n\nIt is a crisis of legitimacy and the abuse of authority that has become a wall between the rulers and the ruled. Internal and external hostile actors capitalise on this widening disconnect and the pervasive sense of political and economic alienation among the Baloch population.\n\nThe unprecedented levels of violence in Balochistan since July 6 should be deeply worrying. This violence is certainly not occurring in isolation from internal factors and external drivers. The string of coordinated attacks across the province - including the massacre of police officials in Ziarat, Bela-Winder, Chaghi, Khuzdar, Mastung, and elsewhere - points to a near full-fledged insurgency, reinforced by the TTP's appearance in some Pashtun areas.\n\nThis also reminds us of two unavoidable phenomena: an acute crisis of governance presided over by people with extremely suspect legitimacy; and the exploitation of internal fault lines by external actors.\n\nBefore making grandiose statements and pledging to fight until the elimination of the last terrorist, the rulers need to acknowledge that the current security crisis is not the root cause but the consequence of decades of dismal governance devoid of public legitimacy. I call it the \"mother of all ills\": a non-representative, unaccountable governance regime that commands little popular respect (as I argued in this space on April 25: https://tribune.com.pk/story/2604614/mother-of-all-sins).\n\nThe legal and administrative overreach against dissenting voices has cumulatively created a minefield that cannot be cleared through a feel-good, self-serving narrative. The problems are real. So are the forces exploiting them. But merely deploying a kinetic approach without addressing the \"mother of all ills\" will not provide any lasting remedy. On the contrary, the force option will add more fuel to the fire. Dubbing every pro-rights activist and politician as anti-state hardly generates any meaningful traction among the people. One cannot label the majority as anti-state and then expect a free run in their territory.\n\nThese circumstances also complicate the loyalty-to-state debate. Many young Baloch view the present rulers with skepticism - more as enablers and beneficiaries of corruption and exclusion than as genuine representatives. Many members of parliament cannot, or do not, even visit the constituencies that ostensibly voted them into power. The reason is simple: many scarcely contested elections in any meaningful sense yet emerged victorious in the electoral race.\n\nThe convergence of views among former police chiefs, including Dr Shoaib Suddle, Zulfiqar Cheema and Tariq Pervez, is both concerning and welcome. Concerning because these assessments appear to be finding little traction among decision-makers - literally falling on deaf ears. Welcome because more voices are now endorsing what has long been a common sentiment among the Baloch in particular. Increasingly, while proxy terrorism is acknowledged as a reality, former officials, civil society actors and political activists find themselves on the same page because they recognise the suffering of poorly governed, cash-strapped, ill-treated and jobless Baloch citizens.\n\nAnd therefore I find it difficult to resist concluding with Dr Imam's probing question - one that many of us have been asking for years: \"Pakistan must ask itself an uncomfortable question: if a security-centric strategy has not delivered lasting peace, why do we continue to rely on it instead of pursuing a politically inclusive strategy built on the rule of law, legitimate local leadership, and public conviction?\"",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "Pakistan Affairs / Governance and Public Policy",
-    "topic": "The Crisis of Governance, Legitimacy, and Internal Security in Balochistan",
-    "whyMatters": "This article offers a critical lens to understand the deep-rooted causes of unrest in Balochistan, moving beyond simplistic security narratives to highlight governance failures and the state-citizen disconnect. It provides strong arguments and expert observations that can be leveraged for nuanced analysis in essays and descriptive answers on internal security and provincial autonomy.",
-    "summary": [
-      "Balochistan's crisis stems from a lack of accountability for decision-makers and the suppression of honest professional advice within state institutions.",
-      "The core issue is a 'crisis of political imagination,' manifesting as a failure to understand public servant loyalty to the state (not individuals) and the state's legitimacy from citizen consent and equality before the law.",
-      "The current security crisis is not the root cause but a direct consequence of decades of 'dismal governance devoid of public legitimacy,' termed the 'mother of all ills.'",
-      "A purely kinetic (force-based) approach to the violence is counterproductive; a lasting remedy requires addressing the underlying governance issues and pursuing a politically inclusive strategy based on the rule of law."
-    ],
-    "facts": [
-      "Dr. Syed Kaleem Imam, a former federal secretary and Inspector General of Police, made three critical observations on Balochistan's crisis in an op-ed for Arab News.",
-      "Unprecedented levels of violence have been observed in Balochistan since July 6, including coordinated attacks in Ziarat, Bela-Winder, Chaghi, Khuzdar, and Mastung.",
-      "The TTP's appearance in some Pashtun areas of Balochistan reinforces the near full-fledged insurgency in the province."
-    ],
-    "academicReferences": [
-      "The 18th Amendment to the Constitution of Pakistan (for provincial autonomy and devolution of power)",
-      "National Finance Commission (NFC) Award (for resource distribution and provincial share)",
-      "Pakistan National Security Policy (NSP) 2022-2026 (for state's approach to internal security and human security)"
-    ],
-    "vocabulary": [
-      {
-        "word": "simmering",
-        "type": "adjective",
-        "definition": "existing in a suppressed state but likely to emerge; just below the boiling point.",
-        "sentence": "Balochistan's simmering crisis has now escalated into unprecedented violence."
-      },
-      {
-        "word": "candor",
-        "type": "noun",
-        "definition": "the quality of being open and honest; frankness.",
-        "sentence": "Capable civil servants hesitated to offer honest professional advice, as candor was treated as disloyalty."
-      },
-      {
-        "word": "kinetic approach",
-        "type": "noun phrase",
-        "definition": "a strategy that primarily relies on military force or physical action to resolve a conflict.",
-        "sentence": "The article argues that merely deploying a kinetic approach without addressing the 'mother of all ills' will not provide any lasting remedy."
-      },
-      {
-        "word": "overreach",
-        "type": "verb",
-        "definition": "to exceed or go beyond a proper or reasonable limit, especially in authority or scope.",
-        "sentence": "Legal and administrative overreach against dissenting voices has cumulatively created a minefield."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as the \"mother of all ills\" contributing to the crisis in Balochistan?",
-        "options": [
-          "External hostile actors exploiting internal fault lines.",
-          "A non-representative, unaccountable governance regime devoid of public legitimacy.",
-          "The TTP's appearance in Pashtun areas of the province.",
-          "Unprecedented levels of violence since July 6."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, \"I call it the 'mother of all ills': a non-representative, unaccountable governance regime that commands little popular respect.\""
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the fundamental flaw identified by Dr. Syed Kaleem Imam regarding official accountability in Balochistan?",
-        "back": "Officials answerable for outcomes are seldom those who made decisions, and decision-makers are rarely held accountable for consequences."
-      },
-      {
-        "front": "Beyond policy failure, what does the article identify as the deeper crisis in Balochistan concerning the state-citizen relationship?",
-        "back": "A 'crisis of political imagination,' characterized by a failure to comprehend public servant loyalty to the state (not individuals) and a lack of legitimacy derived from citizen consent and equality before the law."
-      },
-      {
-        "front": "Why does the author argue that a purely security-centric strategy is ineffective in Balochistan?",
-        "back": "Because the security crisis is a consequence, not the root cause, of decades of dismal governance, and force without addressing these underlying issues will only exacerbate the problem."
-      },
-      {
-        "front": "What alternative strategy does Dr. Imam's probing question suggest for achieving lasting peace in Balochistan?",
-        "back": "A politically inclusive strategy built on the rule of law, legitimate local leadership, and public conviction, rather than relying solely on a security-centric approach."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784424404020-751",
-    "title": "Restive peripheries\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2016095/restive-peripheries",
-    "date": "2026-07-17",
-    "author": "none@none.com (Aasim Sajjad Akhtar)",
-    "content": "THE centre-periphery divide in Pakistan is as old as the country itself. Its contours may have changed over time, but it remains as acute as any of the major structural crises that afflict us.\n\nAt the time of writing, at least three peripheries are simmering. Balochistan, KP and AJK are all unique geographical regions whose historical relationships with the state cannot be reduced to one another but even establishment apologists find it hard to simply reduce the current situation in all three regions to the proverbial foreign hand.\n\nThe Seraiki belt, Sindh and Gilgit-Baltistan may not presently be gripped by unrest, but they remain peripheral to the political, economic, cultural and intellectual mainstream. In short, the majority of the people of these regions are at best struggling for economic survival and dignity, and at worst are subject to oppressive governance.\n\nUnderlying the centre-periphery divide is a model of colonial statecraft that sees all ordinary people as subjects to be ruled by carrot and stick, rather than enfranchised citizens who can make claims on, and demand accountability of, the state. In this sense, notwithstanding its dominant role vis-à-vis the rest of Pakistan’s regions, Punjab has its own peripheral regions and populations too. Consider small farmers and the huge landless population in villages, or katchi abadi dwellers in big cities.\n\nAt play is a model of colonial statecraft.\n\nThe centre-periphery story is also about colonial-style extraction. Take the example of natural gas, which is supplied to many homes and industries in mainland Pakistan by Sui Northern or Sui Southern. This prized resource has been extracted from the small town of Sui in Dera Bugti since the 1950s, but it still remains largely deprived of its share of the benefits to this day. Dera Bugti, in fact, remains amongst the poorest district in the whole country.\n\nThis is not an isolated example, the story now extending to huge mineral deposits like copper and gold, as well as marine resources in coastal regions. The most war-torn parts of KP also boast all manner of resources that continue to be eyed if not yet extracted. There are also invaluable flows like water which rely on the glaciers of GB and culminate in the deltas of coastal Sindh.\n\nNotwithstanding recent hyperbole about the supposedly large subsidies that the state lavishes on regions like AJK, the broader point about extraction and value transfers from historical peripheries to centres holds when one considers invaluable resources like water; add to this the huge labour outflows from KP, GB and AJK and the absurd argument that they are a burden on the centre runs aground.\n\nThere are of course countervailing tendencies. The weak federal compact has redressed power and resource imbalances to a limited extent. Some commentators actually argue against the 18th Amendment on the grounds that it has empowered ‘provincial’ elites whilst worsening the already poor state of public service delivery. I have already noted that the state really only caters to the rich and powerful, including in Punjab. It is hardly a surprise that one constitutional amendment has not redressed the larger colonial, classed logic of power.\n\nSome peripheral populations have experienced social mobility on account of migration to metropolitan centres. An obvious example would be Pakhtun trading communities in urban Sindh and Punjab. But this does not offset the immiseration of the many more Pakhtun migrants who experience dispossession even in the big city, let alone those who are butchered in unending strategic games in the rural hinterland.\n\nAnd then there is the story of what contemporary ‘dev­el­opment’ actually entails in the hinterland. The building of roads, ports and dams may have benefited some locals, but ultimately has not changed the underlying logic of extraction, whilst also destroying fragile ecologies. Tourism has also been called a ‘game-changer’ but this betrays real fears about outsiders taking control over local resources whilst transforming environmental landscapes.\n\nMuch has changed in Pakistan over the past eight decades, and the peripheries that existed in 1947 have not remained static. Many peripheral populations now live far away from their historical abodes, developmental patterns have evolved, and geographies have been transformed.\n\nBut the state continues to visit coercion on anyone who demands economic, cultural and political freedoms, especially those in historical peripheries. The key to dismantling the colonial social contract is to recognise the interlocking interests of peripheral populations everywhere, including Punjab. The militarised state apparatus would much rather carry on, as its predecessor did, by dividing and ruling.\n\nThe writer teaches at Quaid-i-Azam University, Islamabad.\n\nPublished in Dawn, July 17th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Pakistan Affairs / Political Science / Current Affairs",
-    "topic": "Center-Periphery Divide, Regional Disparities, and Statecraft in Pakistan",
-    "whyMatters": "This article offers a critical, structural analysis of Pakistan's enduring center-periphery divide, essential for understanding regional grievances, resource distribution, and the nature of state power. It provides a strong foundation for analytical essays on federalism, governance challenges, and socio-economic disparities.",
-    "summary": [
-      "The centre-periphery divide in Pakistan is an acute structural crisis rooted in colonial statecraft, treating ordinary people as subjects for rule rather than enfranchised citizens.",
-      "Peripheries like Balochistan, KP, and AJK are currently experiencing unrest, while other regions like the Seraiki belt, Sindh, and Gilgit-Baltistan also remain marginalized.",
-      "The divide is exacerbated by a model of colonial-style resource extraction, where natural resources (e.g., gas from Sui, minerals, water) are transferred from deprived peripheries to benefit the center.",
-      "So-called 'development' projects (roads, ports, dams, tourism) in the hinterland often reinforce the logic of extraction, destroy ecologies, and allow outsiders to control local resources, rather than fundamentally altering local immiseration.",
-      "Dismantling this colonial social contract requires recognizing the interlocking interests of peripheral populations across all regions, including within Punjab, to counter the state's divide-and-rule strategy."
-    ],
-    "facts": [
-      "Natural gas has been extracted from Sui in Dera Bugti since the 1950s, yet Dera Bugti remains among the poorest districts in Pakistan.",
-      "Balochistan, Khyber Pakhtunkhwa (KP), and Azad Jammu and Kashmir (AJK) are identified as currently 'simmering' peripheries experiencing unrest.",
-      "The 18th Amendment is noted as having redressed power and resource imbalances to a limited extent, with some arguing it empowered provincial elites without improving public services."
-    ],
-    "academicReferences": [
-      "The 18th Amendment to the Constitution of Pakistan (for decentralization efforts)",
-      "National Finance Commission (NFC) Award (for resource distribution among provinces)",
-      "Hamza Alavi's 'The Structure of Peripheral Capitalism' (for understanding post-colonial state and development issues)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Restive",
-        "type": "adjective",
-        "definition": "Unable to keep still or silent and becoming increasingly difficult to control, especially because of boredom or dissatisfaction.",
-        "sentence": "The restive peripheries are signaling deep-seated dissatisfaction with the current governance model."
-      },
-      {
-        "word": "Contours",
-        "type": "noun",
-        "definition": "An outline representing the shape or form of something.",
-        "sentence": "The contours of the center-periphery divide have changed over time, but its core issues remain."
-      },
-      {
-        "word": "Immiseration",
-        "type": "noun",
-        "definition": "The process of making a person or country poorer; impoverishment.",
-        "sentence": "Despite resource wealth, many peripheral populations suffer from immiseration due to extractive policies."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the underlying model of statecraft contributing to the center-periphery divide in Pakistan?",
-        "options": [
-          "A. A democratic federal model focused on citizen empowerment.",
-          "B. A welfare state model prioritizing equitable resource distribution.",
-          "C. A colonial statecraft model viewing people as subjects for rule and extraction.",
-          "D. A socialist model aiming to dismantle class hierarchies."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'underlying the centre-periphery divide is a model of colonial statecraft that sees all ordinary people as subjects to be ruled by carrot and stick, rather than enfranchised citizens'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is the center-periphery divide considered a 'structural crisis' in Pakistan, as per the article?",
-        "back": "It is a historical issue rooted in colonial statecraft, characterized by chronic political, economic, cultural, and intellectual marginalization of vast regions, leading to systemic unrest and deprivation."
-      },
-      {
-        "front": "How does the article critique 'development' initiatives like roads and dams in the hinterland?",
-        "back": "Such initiatives often fail to alter the underlying logic of extraction, instead destroying fragile ecologies and allowing outsiders to control local resources, rather than genuinely benefiting peripheral populations or ensuring their dignity."
-      },
-      {
-        "front": "What is the core argument challenging the claim that regions like AJK or KP are a 'burden on the center'?",
-        "back": "The article argues this claim is absurd when considering the invaluable resource flows (like water from GB glaciers) and massive labor outflows from these regions, which represent significant value transfers to the center."
-      },
-      {
-        "front": "What does the author suggest is 'the key to dismantling the colonial social contract'?",
-        "back": "The key is to recognize the interlocking interests of all peripheral populations everywhere, including within Punjab, to counter the militarized state apparatus's strategy of 'dividing and ruling'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784337726643-158",
-    "title": "Déjà vu",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2618638/deja-vu-1",
-    "date": "2026-07-16",
-    "author": "\n\t\t\t\tShahzad Chaudhry\n\t\t\t",
-    "content": "I am reviewing my writings from the past eighteen years these days to compile them for a forthcoming book on Pakistan's fight against terror and wars in Afghanistan. It pains me to note we haven't progressed at all from where and how we were when these lines were first written and appeared in the press. Just last week, an Apex Committee meeting was held in Quetta under the chairmanship of the country's prime minister, attended by the ministers of the federal and provincial cabinets. The Field Marshal, too, was present, as was the mandate when these committees were first conceived in 2014. The recommendations and directions echoed what has been repeatedly advocated since. I share excerpts from my writings from the time, in italics, with dates next to each.\n\nOne, Osama, Mullah Omar and Haqqani, arrived in Pakistan from Afghanistan – they weren't nestled here from the start. Second, the Pakistani military had a war imposed on it, not of its making – Pakistan owned another country's war despite intense domestic opposition to it. Third, the war spawned its own heinous sublets when splinter groups assembled under the banner of the TTP, threatened Pakistan's state and society, and continue to do so. Fourth, Pakistani troops deployed in FATA equal the cumulative force of 48 nations fighting the same extended adversary in Afghanistan. Five, the operations in Swat, South Waziristan and continuing battles in Aurakzai and Khyber agencies of FATA; frequent forays into Pakistan by the TTP fugitives from their Afghan havens; and a sprinkling of unilateral American assaults, all but form the operational environment engaging the Pakistani military without relent. (12 June 2012)\n\nAs the Pakistani army clears North Waziristan, it has set into motion a process where full-spectrum counterinsurgency actions will need to be implemented. These will include  accompanying political, social, economic and legal measures that should revert notional and ideological control to the state of Pakistan. Politics and the military will need to interleave appropriately to deliver a wholesome response over the long term. It is politics alone that must deliver abiding solutions to problems that have political roots. A good model is Swat, both for its omissions and commissions. After the military regained control following a testing operation, the follow-up action remained unattended. Civilian administration returned after much reluctance, fearful of the militants. Political leadership returned with cosmetic visits only, without dealing with the more complex socio-political and socioeconomic domains that would have needed clear-cut policies, including resource allocation and implementation mechanisms to achieve intended objectives. Little was done to convince people of their government's commitment to serve their needs and provide safety. (November 2014).\n\n(The Apex Committee meeting in Quetta on 9 July 2026, twelve years later, reiterated these points with the requisite vehemence.)\n\nTerrorism is akin to softening the battlefield before a full-on assault in the shape of an insurgency. Hence, the compulsion to win the hearts and minds of the people, along with beating terror. When two ideologies are competing to take control of a target group, it remains important for the state to convince the target group that their stakes lie with the state. These must include political, social, and economic integration and, even more importantly, a sense that their safety and security remain the vital responsibility of the state.\n\nEconomic support to the FATA region entails a more deliberate study and planning. It will need to strengthen the resident economy, building around what suits the local businessmen. A controlled duty structure specific to the frequently traded items can gradually bring the trade under a legalised framework. It is always useful to build on existing parameters. Infrastructure, schools and hospitals are the most essential and visible avenues of building the communities of FATA, and will give them a sense of integration with the rest of Pakistan. Extension of security and law enforcement to ensure preservation of life and property will be the key to maintaining a social structure with equal opportunity and equal responsibility.\n\nThere is a dire need for a policy for the governments in Pakistan to declare a few geographical zones as zones of development. A FATA Fund for both internal and external endowments and aid programmes must be created for a period, perhaps ten years, where the state must be an equal contributor. Similar zones of development could also be considered for Balochistan. Both FATA and Balochistan will need special allocations to realise an accelerated pace of development to bring these regions to the same level as the rest of Pakistan. A Constitutional provision must ensure adherence for a fixed period to such a plan by successive governments.\n\nPakistan's current travails of a full-blown insurgency in FATA and another in Balochistan, with its national cohesion under serious stress, may be sourced partly because of fallacious policies and partly to external influences that continue to destabilise Pakistan and weaken its potential as a nation. In a competitive regional environment, aggressive insurrection through surreptitious means is the established norm. Each nation in the region thus has always been known to possess strong and active national intelligence outfits. Proxy conflicts are a fact of life.\n\nIf India alleges Pakistani intelligence to be involved in Kashmir, as does Afghanistan for its own long years of duress as a nation embroiled in a debilitating war of terror, Pakistan too holds long-standing complaints against Indian Intelligence for its role in supporting an insurgency in Balochistan, and of the Afghan and Indian intelligence together for their joint role in fostering and sustaining the insurgency in FATA. Given Afghanistan's precarious situation on Pakistan's western borders, the need for effective and diverse intelligence capacity for Pakistan becomes an even bigger existential imperative.\n\nIndia's nexus with Western entities in Afghanistan is a godsend for them, where, after a rather barren period till 2002, they find an opportunity to sustain a formidable footprint. That this enables them to extend their operations into Pakistan, particularly Balochistan, goes without saying. India's ultimate objective is to weaken Pakistani state structures to a point where the shell might stay, but the inside is hollow. (November 2014.)\n\nThe army is deep into a war that it can only win – the opposite, calamitous for the state and its people. It's only natural for it to seek and know that the political government stands behind it with (full) support. The police, the civilian intelligence agencies, the administration that continues to have a dominating hold over the urban and rural life in the length and breadth of Pakistan, and the mandarins that sit in control over the various elements of power in Pakistan's governance structures will all have to stand to be counted in this hour of judgment over Pakistan's future. (26 Dec 2014)\n\nTwo decades later, remarkably little has changed. It makes it doubly hurtful.",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Current Affairs / Pakistan Affairs",
-    "topic": "Internal Security, Counter-Terrorism Strategies, and Geopolitical Challenges in Pakistan",
-    "whyMatters": "This article, while not addressing the Economic Cooperation Organization (ECO) or regional economic integration, is crucial for understanding Pakistan's persistent internal security challenges, counter-terrorism strategies, and complex geopolitical influences. Aspirants can leverage its insights on governance, military-civilian coordination, and regional proxy conflicts to excel in Current Affairs and Pakistan Affairs papers.",
-    "summary": [
-      "Pakistan's fight against terror and wars in Afghanistan reflects a lack of significant progress over nearly two decades, with historical challenges and advocated solutions repeatedly resurfacing.",
-      "Effective counter-insurgency requires comprehensive political, social, economic, and legal measures alongside military action, with civilian administration and political leadership playing a crucial role in winning public trust and delivering solutions.",
-      "Addressing insurgencies in regions like FATA and Balochistan necessitates declaring special development zones, creating dedicated funds with state contribution, and enacting constitutional provisions for sustained development to ensure integration.",
-      "External influences and proxy conflicts, particularly from alleged Indian and Afghan intelligence involvement, are perceived to exacerbate internal security challenges in Balochistan and FATA, emphasizing the need for robust intelligence capacity."
-    ],
-    "facts": [
-      "Apex Committee meetings, designed to address national security, have reiterated similar recommendations for counter-terrorism since their conception in 2014.",
-      "As of 2012, Pakistani troops deployed in FATA equaled the cumulative force of 48 nations fighting the same extended adversary in Afghanistan.",
-      "The article highlights a recurring cycle of policy recommendations, noting that little has changed between 2012/2014 and an Apex Committee meeting speculated for 2026."
-    ],
-    "academicReferences": [
-      "C. Christine Fair, \"Fighting to the End: The Pakistan Army's Way of War\" (for understanding military strategy)",
-      "National Internal Security Policy (NISP) 2014-2018 (for policy frameworks on counter-terrorism)",
-      "United Nations Global Counter-Terrorism Strategy (for international best practices and context)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Conceived",
-        "type": "verb",
-        "definition": "Form an idea or plan in the mind",
-        "sentence": "The Apex Committees were first conceived in 2014 to address national security challenges."
-      },
-      {
-        "word": "Heinous",
-        "type": "adjective",
-        "definition": "Utterly odious or wicked",
-        "sentence": "The war spawned its own heinous sublets when splinter groups assembled under the banner of the TTP."
-      },
-      {
-        "word": "Travails",
-        "type": "noun",
-        "definition": "Painful or laborious effort; struggles",
-        "sentence": "Pakistan's current travails of a full-blown insurgency in FATA and another in Balochistan are a serious concern."
-      },
-      {
-        "word": "Surreptitious",
-        "type": "adjective",
-        "definition": "Kept secret, especially because it would not be approved of",
-        "sentence": "Aggressive insurrection through surreptitious means is the established norm in a competitive regional environment."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the author, what was a significant omission in the follow-up actions after the military operation in Swat?",
-        "options": [
-          "A) An increase in unilateral American assaults.",
-          "B) The immediate withdrawal of all military forces.",
-          "C) Comprehensive political, social, economic, and legal measures by civilian administration.",
-          "D) A complete cessation of all trade activities in the region."
-        ],
-        "answerIndex": 2,
-        "explanation": "The author specifically notes that after the military operation in Swat, the follow-up action remained unattended, with civilian administration and political leadership failing to address the complex socio-political and socio-economic domains comprehensively."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the author's primary concern regarding Pakistan's fight against terror and wars in Afghanistan over the past two decades?",
-        "back": "The author's primary concern is the lack of significant progress, noting that challenges and advocated solutions have repeatedly resurfaced without lasting change."
-      },
-      {
-        "front": "Beyond military action, what comprehensive measures does the article suggest are necessary for successful counter-insurgency, using Swat as an example?",
-        "back": "It suggests accompanying political, social, economic, and legal measures, including robust civilian administration, dedicated political leadership, and addressing socio-economic domains with clear policies and resource allocation."
-      },
-      {
-        "front": "What specific policy recommendations does the author make to integrate and develop regions like FATA and Balochistan?",
-        "back": "Recommendations include declaring geographical zones of development, creating dedicated funds (like a FATA Fund), ensuring state contributions, and enacting constitutional provisions for sustained adherence to development plans."
-      },
-      {
-        "front": "How does the article frame the role of external intelligence agencies in Pakistan's internal security challenges?",
-        "back": "The article asserts that external influences, particularly from Indian and Afghan intelligence, are perceived to support and sustain insurgencies in Balochistan and FATA through proxy conflicts, necessitating stronger Pakistani intelligence capacity."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784251395143-635",
-    "title": "Pakistan’s Ground Zero\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2015802/pakistans-ground-zero",
-    "date": "2026-07-16",
-    "author": "none@none.com (Ali Tauqeer Sheikh)",
-    "content": "GILGIT-BALTISTAN has emerged as Pakistan’s climate ground zero. For decades, the country’s climate emergency was narrated from its floodplains: Sindh’s submerged villages, Punjab’s swollen tributaries, the 2010 and 2022 disasters. These were the consequences of a deeper story. The origin has abruptly moved upstream. GB is no longer the water tower that occasionally leaks. It is where the Indus system’s first disasters now begin, not where they arrive.\n\nHeatwaves once confined to Sindh’s cities and Punjab’s plains now reach the Upper Indus Basin (UIB). In June 2026 alone, the Met Office issued its second Glof (glacial lake outburst flood) alert of the month, warning that sustained high temperatures across GB and KP were accelerating glacier and snowfield melt to the point that existing lakes were expanding and new ones forming in real time.\n\nThis follows a pattern of near-annual escalation: in August 2025, a Glof from the Shishper glacier tore through Hassanabad Nullah in Hunza, severing the Karakoram Highway, in the highest-volume event since 2018. Each year now sets its own benchmark.\n\nUnderneath the visible flooding sits a less visible mechanism. Central Karakoram’s glaciers are not simply shrinking the way the Himalayan glaciers to their east are; some have been stable or even advancing since 1990 — a documented anomaly.\n\nBut stability at the surface has not meant stability underneath. Meltwater cuts channels through the ice itself, moving downward by gravity, forming englacial tunnels that destabilise glaciers from within even where their outward mass looks intact.\n\nThat is why river discharge from central Karakoram basins rose through 1985-2010 even as the glaciers appeared, by satellite, to hold steady. The lakes are the visible symptom; the tunnels are the mechanism; community displacement is the result. Pakistan currently counts 3,044 glacial lakes, with some 36 formally classified as hazardous and likely to affect over 7.1 million people.\n\nPrecipitation is changing structurally, in step with temperatures. Snow consolidates into firn, and firn into ice, a process called firnification, but now there’s less time for the process: more runs off as meltwater first, so the basin draws down its snowpack faster than it replenishes. High-altitude western UIB stations like Shendure, Yasin, Ziarat, Rattu, Chilas and Shigar, show a statistically significant rise in monsoon precipitation at elevation.\n\nClimate models project the monsoon extending north and northwest into the UIB, with a rising share of the basin’s precipitation falling as rain rather than snow. The monsoon, once a lowland event arriving after the high-altitude melt season had run its course, is beginning to overlap it. Rain on an already melting snowpack accelerates run-off.\n\nWe have a flood regime that no longer respects Pakistan’s disaster-response calendar.\n\nThe consequence is a flood regime that no longer respects Pakistan’s disaster-response calendar or its fourth national flood protection plan (2018-2028). Glofs and monsoon floods, once sequential risks with distinct seasons and targets, are becoming concurrent and compounding, a different planning problem entirely.\n\nDebris and mudslides change the underlying ecology in ways ordinary flooding does not: a riverine flood leaves silt, while a flow carrying boulders and glacial till causes irreversible loss and damage to the ecosystem. Buner and Lower Dir showed this in August 2025, when flash floods carried boulders flattening neighbourhoods and leaving survivors standing on rubble that used to be farmland.\n\nThere is ‘non-economic loss and damage’, the central pillar of the global loss and damage discourse. It shows up in the erosion of proud local heritage of grafting glaciers. GB is home to more than 50 languages and dialects, including Domaaki and Wakhi, classified by Unesco as critically endangered, and Burushaski, a language spoken nowhere else on earth. These survive orally, in valleys now being depopulated by flood damage and outmigration, so every displaced household moves further from the people who still speak the language at home.\n\nThe same is true of the region’s archaeological record: more than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor between Hunza and Shatial, carved by the traders and pilgrims who passed through GB on the Silk Route. The 2022 floods destroyed a significant share of the inscribed rock surfaces at the Thalpan site near Chilas. What remains is not protected by any Unesco listing. It is protected by distance and isolation, both of which are now being removed.\n\nGB is not the first place in the Himalayan region to witness this kind of disaster, and need not build its response method from scratch. On June 15, 2021, a glacial lake called Pemdan in Nepal breached in the Melamchi-Indrawati watershed north of Kathmandu. The breach destabilised a landslide dam downstream; the combined debris flow, over 10 metres deep in places, displaced hundreds of people and severed the water supply serving much of Kathmandu.\n\nResearch at ICIMOD has argued that no single hazard model would have caught it: reconstructing the event required integrating satellite data, hydrodynamic modelling, and machine learning to trace how the outburst, the dam failure and the rainfall interacted.\n\nIn GB’s case, a compound hazard is two risks overlapping in time — monsoon rainfall coinciding with the melt season. A cascading hazard triggers the next in sequence: a heatwave leading to Glof and then debris flow, which causes displacement, outward migration, eroded livelihoods and a shortened tourism season central to GB’s cash economy. Melamchi was both at once, and so is GB now.\n\nResponse infrastructure is becoming maladaptive: 250 engineering structures and 284 early warning systems installed across GB and KP since 2017, built against a threat that arrived in one form at a time. It is now being asked to hold out against two or more hazards and needs to scale to the pace of lake formation rather than trail it.\n\nClearly, hazard modelling needs to move towards the joint, cascade-aware approach rather than treating Glofs, monsoon shifts and landslide risks as separate problems for separate agencies. The alternative: keep treating GB’s disasters as remote and isolated events, until the water arrives.\n\nThe writer represents Pakistan on the Board of Fund for Responding to Loss and Damage.\n\nPublished in Dawn, July 16th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Current Affairs",
-    "topic": "Climate Change Impacts, Disaster Management, and Environmental Security in Pakistan (Gilgit-Baltistan)",
-    "whyMatters": "This article is crucial for civil service aspirants as it highlights Pakistan's escalating climate vulnerability, particularly in Gilgit-Baltistan, detailing specific threats like GLOFs, changing monsoon patterns, and their socio-economic impacts. While *not directly relevant* to the provided question on ECO and regional integration, its content is highly pertinent for questions on climate change, disaster management, environmental policy, and national security in Pakistan.",
-    "summary": [
-      "Gilgit-Baltistan (GB) has emerged as Pakistan's climate 'ground zero,' with climate disasters now originating upstream in the Indus system, rather than just arriving in the floodplains.",
-      "Heatwaves are accelerating glacier melt and GLOF formation, driven by internal destabilization (englacial tunnels) even in seemingly stable glaciers, threatening millions.",
-      "Precipitation patterns are structurally changing, with more monsoon rain extending into the Upper Indus Basin, overlapping the melt season and intensifying run-off.",
-      "The convergence of GLOFs and monsoon floods creates compound, cascading hazards that render Pakistan's current disaster response calendar and infrastructure maladaptive, necessitating a new, integrated approach."
-    ],
-    "facts": [
-      "In June 2026 alone, the Met Office issued its second GLOF alert due to sustained high temperatures across GB and KP.",
-      "Pakistan counts 3,044 glacial lakes, with 36 formally classified as hazardous and likely to affect over 7.1 million people.",
-      "More than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor; the 2022 floods destroyed a significant share at the Thalpan site near Chilas."
-    ],
-    "academicReferences": [
-      "International Centre for Integrated Mountain Development (ICIMOD) research on compound and cascading hazards in mountainous regions.",
-      "Pakistan's Fourth National Flood Protection Plan (2018-2028), highlighted as increasingly maladaptive to new flood regimes.",
-      "Intergovernmental Panel on Climate Change (IPCC) Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC) for global context on glacier melt and GLOFs."
-    ],
-    "vocabulary": [
-      {
-        "word": "Englacial",
-        "type": "adjective",
-        "definition": "Within or embedded in a glacier.",
-        "sentence": "Meltwater forms englacial tunnels that destabilise glaciers from within even where their outward mass looks intact."
-      },
-      {
-        "word": "Firnification",
-        "type": "noun",
-        "definition": "The process by which snow compacts and recrystallizes into firn, a dense, granular snow, and eventually into glacial ice.",
-        "sentence": "Snow consolidates into firn, and firn into ice, a process called firnification, but now there’s less time for the process."
-      },
-      {
-        "word": "Maladaptive",
-        "type": "adjective",
-        "definition": "Poorly adapted; not providing appropriate adjustment to the environment or situation.",
-        "sentence": "Response infrastructure is becoming maladaptive: 250 engineering structures and 284 early warning systems installed across GB and KP since 2017."
-      },
-      {
-        "word": "Petroglyphs",
-        "type": "noun",
-        "definition": "Ancient art etched or carved into rock, often found at archaeological sites.",
-        "sentence": "More than 50,000 petroglyphs, some dating to 5,000 BC, line the Karakoram Highway corridor between Hunza and Shatial."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary reason identified in the article for glaciers appearing stable or advancing on the surface while still contributing to increased river discharge?",
-        "options": [
-          "Increased snowfall at higher altitudes.",
-          "Formation of englacial tunnels causing internal destabilization.",
-          "Reduced evaporation rates from glacier surfaces.",
-          "Expansion of existing glacial lakes through surface melt."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Meltwater cuts channels through the ice itself, moving downward by gravity, forming englacial tunnels that destabilise glaciers from within even where their outward mass looks intact.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What shift in Pakistan's climate emergency narrative does the article highlight regarding Gilgit-Baltistan?",
-        "back": "GB is now presented as the 'ground zero' where climate disasters originate upstream, rather than merely being the downstream recipient of floods."
-      },
-      {
-        "front": "How does the article explain the 'less visible mechanism' beneath the visible flooding from glaciers?",
-        "back": "Despite some Central Karakoram glaciers appearing stable or advancing externally, meltwater forms englacial tunnels, destabilizing them from within and increasing river discharge."
-      },
-      {
-        "front": "What is the critical change in precipitation patterns affecting the Upper Indus Basin (UIB) as described in the article?",
-        "back": "Climate models project the monsoon extending north and northwest into the UIB, with a rising share of precipitation falling as rain rather than snow, often overlapping the high-altitude melt season."
-      },
-      {
-        "front": "Why does the article suggest Pakistan's current disaster response infrastructure is becoming 'maladaptive'?",
-        "back": "The infrastructure was built for sequential risks, but GB now faces concurrent and compounding hazards (e.g., GLOFs and monsoon floods), requiring a joint, cascade-aware approach."
       }
     ]
   }
