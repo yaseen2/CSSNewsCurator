@@ -1,5 +1,137 @@
 [
   {
+    "id": "curated-1786840469215-97",
+    "title": "Tax scheme\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2023134/tax-scheme",
+    "date": "2026-08-15",
+    "author": "none@none.com (Editorial)",
+    "content": "THE Hyderabad SITE Association of Trade and Industry has formally endorsed new measures introduced to ease regularisation of businesses, and urged local shopkeepers and traders to register with the FBR. It is not often that the private sector takes initiative in this regard. Registration will allow eligible retailers to avail themselves of FBR’s new Fixed Tax Asaan Scheme, introduced a few months ago to encourage unregistered businesses to enter the formal tax system. Under the scheme, eligible retailers with an annual turnover of up to Rs200m will pay a fixed tax of 1pc of gross turnover, subject to a minimum annual payment of Rs25,000. The scheme, introduced after the failure of the Tajir Dost Scheme, has been tailored to recommendations laid down after extensive consultations between the government and traders. It is, therefore, incumbent on the latter to use the opportunity to improve compliance.\nAttempt after attempt to get retailers to register with the tax authorities has failed to deliver the desired results. Meanwhile, the taxman has placed a disproportionate burden on the documented economy, with the salaried sector alone contributing far more in income tax than the amount collected from retailers through relevant withholding taxes. According to provisional FBR tax figures for the last fiscal, income tax deducted from salaried individuals was Rs633bn, compared to about Rs70bn collected from retailers under two relevant withholding tax provisions. That imbalance has placed an unfair burden on those already within the documented economy, while allowing significant economic activity outside the tax net to remain undertaxed. This fiscal year, the government must enforce compliance consistently and fairly. The fiscal space it has available has been restricted for far too long because of lobbyists and pressure groups. It is commendable that trade leaders are now championing the Fixed Tax Scheme themselves, but if compliance remains low, the government must act. The new arrangement must not become another means of protecting one politically influential constituency from scrutiny while those already within the documented economy continue to shoulder a disproportionate share of the tax burden. The government has offered traders an easier route into the tax system; they must now reciprocate by registering and declaring their actual turnover, while the state must ensure that the rules are applied to everyone.\nPublished in Dawn, August 16th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Current Affairs",
+    "topic": "Domestic Tax Reforms and Compliance Challenges in Pakistan",
+    "whyMatters": "This article is crucial for understanding Pakistan's ongoing challenges in fiscal policy, tax compliance, and revenue generation, which are recurring themes in economic and governance papers. It provides concrete examples of policy initiatives and their outcomes, vital for critical analysis of domestic economic issues.",
+    "summary": [
+      "The Hyderabad SITE Association has endorsed the FBR's new Fixed Tax Asaan Scheme, urging businesses to register to formalize the economy.",
+      "The scheme offers eligible retailers a 1% fixed tax on gross turnover (minimum Rs25,000 annually) for businesses with up to Rs200m turnover, aiming to improve compliance after the failure of previous initiatives like the Tajir Dost Scheme.",
+      "The article highlights a significant imbalance in tax contribution, with salaried individuals paying Rs633bn in income tax compared to only Rs70bn collected from retailers through withholding taxes in the last fiscal year.",
+      "It emphasizes the government's responsibility for consistent and fair enforcement of tax rules, while also urging traders to reciprocate the simplified tax route by registering and accurately declaring their turnover."
+    ],
+    "facts": [
+      "Fixed Tax Asaan Scheme: 1% of gross turnover for eligible retailers with annual turnover up to Rs200m, subject to a minimum annual payment of Rs25,000.",
+      "Income tax deducted from salaried individuals in the last fiscal year was Rs633 billion.",
+      "Approximately Rs70 billion was collected from retailers under two relevant withholding tax provisions in the last fiscal year."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (Annual, Ministry of Finance, Government of Pakistan)",
+      "IMF Country Reports on Pakistan (e.g., Article IV Consultation Reports)",
+      "World Bank Reports on Taxation and Informal Economy in Developing Countries"
+    ],
+    "vocabulary": [
+      {
+        "word": "Endorsed",
+        "type": "verb",
+        "definition": "To express public approval or support for.",
+        "sentence": "The association formally endorsed new measures introduced to ease regularisation of businesses."
+      },
+      {
+        "word": "Regularisation",
+        "type": "noun",
+        "definition": "The act of making something conform to a rule or standard.",
+        "sentence": "New measures were introduced to ease regularisation of businesses."
+      },
+      {
+        "word": "Incumbent",
+        "type": "adjective",
+        "definition": "Necessary for (someone) as a duty or responsibility.",
+        "sentence": "It is, therefore, incumbent on the latter to use the opportunity to improve compliance."
+      },
+      {
+        "word": "Disproportionate",
+        "type": "adjective",
+        "definition": "Too large or too small in comparison with something else.",
+        "sentence": "The taxman has placed a disproportionate burden on the documented economy."
+      },
+      {
+        "word": "Constituency",
+        "type": "noun",
+        "definition": "A body of voters in a specified area who elect a representative to a legislative body; a group of people who support an organization or idea.",
+        "sentence": "The new arrangement must not become another means of protecting one politically influential constituency from scrutiny."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary objective of the Fixed Tax Asaan Scheme?",
+        "options": [
+          "To encourage unregistered businesses to enter the formal tax system.",
+          "To increase the tax burden on salaried individuals.",
+          "To provide tax exemptions to large corporations.",
+          "To simplify international trade regulations."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states the scheme was introduced 'to encourage unregistered businesses to enter the formal tax system'."
+      },
+      {
+        "question": "What was the approximate income tax collected from salaried individuals in the last fiscal year, according to the article?",
+        "options": [
+          "Rs70 billion",
+          "Rs25,000",
+          "Rs633 billion",
+          "Rs200 million"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'income tax deducted from salaried individuals was Rs633bn'."
+      },
+      {
+        "question": "Which previous tax scheme for retailers failed before the introduction of the Fixed Tax Asaan Scheme?",
+        "options": [
+          "FBR Voluntary Compliance Scheme",
+          "Tajir Dost Scheme",
+          "Retailer Support Program",
+          "Business Formalization Initiative"
+        ],
+        "answerIndex": 1,
+        "explanation": "The scheme was introduced 'after the failure of the Tajir Dost Scheme'."
+      },
+      {
+        "question": "What is the fixed tax rate for eligible retailers under the new scheme?",
+        "options": [
+          "5% of gross turnover",
+          "1% of gross turnover",
+          "10% of net profit",
+          "A flat fee of Rs50,000 annually"
+        ],
+        "answerIndex": 1,
+        "explanation": "Under the scheme, eligible retailers 'will pay a fixed tax of 1pc of gross turnover'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main problem the Fixed Tax Asaan Scheme aims to address in Pakistan's tax system?",
+        "back": "The scheme aims to address the low registration and compliance of retailers, which results in a disproportionate tax burden on the already documented economy, particularly salaried individuals."
+      },
+      {
+        "front": "Name two key features of the Fixed Tax Asaan Scheme for eligible retailers.",
+        "back": "Eligible retailers with an annual turnover up to Rs200m pay 1% of gross turnover as fixed tax, with a minimum annual payment of Rs25,000."
+      },
+      {
+        "front": "What is the historical context mentioned regarding previous attempts to formalize retailers?",
+        "back": "The Fixed Tax Asaan Scheme was introduced after the failure of previous attempts, notably the Tajir Dost Scheme, to encourage retailers to register with tax authorities."
+      },
+      {
+        "front": "What is the call to action for both traders and the government for the success of this new tax scheme?",
+        "back": "Traders are urged to reciprocate by registering and declaring actual turnover, while the government must ensure consistent and fair enforcement of rules for everyone."
+      }
+    ]
+  },
+  {
     "id": "curated-1786754180793-827",
     "title": "The Middle East’s Nato?\n",
     "source": "Dawn",
@@ -10159,88 +10291,6 @@
       {
         "front": "What is one key policy recommendation proposed to address the credibility crisis and facilitate legitimate academic mobility?",
         "back": "Pakistan must take firm action against phony admissions and illegal trafficking networks, and universities need to be transparent and responsive regarding admissions and scholarship authentication."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784770423719-780",
-    "title": "Joint prayers\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2017456/joint-prayers",
-    "date": "2026-07-22",
-    "author": "none@none.com (Editorial)",
-    "content": "IN a country which has witnessed monstrous bouts of sectarian violence, even symbolic gestures by clerics belonging to different schools of thought can send a strong message. In this regard, joint prayers offered at a Karachi madressah recently by ulema representing Pakistan’s four major sects and sub-sects — Barelvi, Deobandi, Shia and Ahle Hadith — were meant to be a display of unity. The Pakistan Ulema Council chief, Hafiz Tahir Ashrafi, who was present, said the exercise demonstrated “growing tolerance among society”, particularly amongst clerics. Such displays of communal harmony are welcome. When influential preachers put up a united front, sectarian differences in society can be reduced.\nBut much more needs to be done before the scourge of sectarian violence is banished from Pakistani society. It should be noted that such efforts to promote ‘ittihad bainul muslimeen’ (unity amongst Muslims) have been continuing particularly since the 1990s, when the nation was in the midst of a bloody wave of sectarian violence. At that time, efforts were made from the platform of the Milli Yakjehti Council to promote intra-Muslim unity. Years later, hundreds of clerics from different denominations signed the Paigham-i-Pakistan fatwa in 2018, which also included denunciation of sectarianism. But despite these noble efforts, communal mischief-mongers have continued to spread division in society. Deadly sectarian groups remain active till this day, though they may be maintaining a low profile. Therefore, it is incumbent upon the ulema to take forward the message of unity to the neighbourhood and village level. Doctrinal differences have existed within different schools of thought for centuries. Yet these theological matters are best left to scholars to discuss. The average citizen should be free to practise their faith, while respecting the freedom of other groups that follow different interpretations. If violent groups are shut down by the state, and ulema promote the narrative of ‘live and let live’, the goal of communal peace can be achieved.\nPublished in Dawn, July 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Pakistan Affairs",
-    "topic": "Sectarianism, National Unity, and Counter-Extremism Efforts in Pakistan",
-    "whyMatters": "This article provides a current snapshot of ongoing efforts to foster inter-sect unity in Pakistan, a crucial challenge for national cohesion. It highlights both symbolic gestures and the persistent structural issues related to sectarian violence, essential for understanding Pakistan's internal security landscape and potential solutions.",
-    "summary": [
-      "Joint prayers offered by ulema from Pakistan’s major sects in Karachi symbolize growing tolerance and send a strong message of unity against sectarian violence.",
-      "Historical efforts, such as the Milli Yakjehti Council (since the 1990s) and the Paigham-i-Pakistan fatwa (2018), have continuously aimed to promote 'ittihad bainul muslimeen' (unity amongst Muslims).",
-      "Despite these noble efforts, sectarian divisions persist, with 'communal mischief-mongers' and deadly sectarian groups remaining active, albeit sometimes maintaining a low profile.",
-      "Achieving communal peace requires a dual approach: ulema must take the message of unity to the grassroots level, and the state must actively shut down violent groups while promoting a narrative of 'live and let live'."
-    ],
-    "facts": [
-      "Joint prayers were offered in a Karachi madressah by ulema representing Pakistan’s four major sects and sub-sects: Barelvi, Deobandi, Shia, and Ahle Hadith.",
-      "Efforts to promote 'ittihad bainul muslimeen' have been ongoing, particularly since the 1990s, following a bloody wave of sectarian violence.",
-      "Hundreds of clerics from different denominations signed the Paigham-i-Pakistan fatwa in 2018, which included a denunciation of sectarianism."
-    ],
-    "academicReferences": [
-      "Raja, N. S. (2018). Sectarianism in Pakistan: A Study of its Roots and Current Dynamics. Pakistan Institute for Peace Studies (PIPS) Report.",
-      "Paigham-i-Pakistan Fatwa (2018). Government of Pakistan initiative signed by hundreds of clerics promoting peace and harmony.",
-      "National Internal Security Policy (NISP) 2014-2018. Government of Pakistan's comprehensive strategy addressing internal threats, including sectarian extremism."
-    ],
-    "vocabulary": [
-      {
-        "word": "Monstrous",
-        "type": "adjective",
-        "definition": "extremely large and frightening, or extremely bad and shocking.",
-        "sentence": "In a country which has witnessed monstrous bouts of sectarian violence, even symbolic gestures by clerics can send a strong message."
-      },
-      {
-        "word": "Scourge",
-        "type": "noun",
-        "definition": "a person or thing that causes great trouble or suffering.",
-        "sentence": "Much more needs to be done before the scourge of sectarian violence is banished from Pakistani society."
-      },
-      {
-        "word": "Incumbent",
-        "type": "adjective",
-        "definition": "necessary for (someone) as a duty or responsibility.",
-        "sentence": "Therefore, it is incumbent upon the ulema to take forward the message of unity to the neighbourhood and village level."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following initiatives is *not* explicitly mentioned in the article as an effort to promote intra-Muslim unity in Pakistan?",
-        "options": [
-          "Milli Yakjehti Council",
-          "Paigham-i-Pakistan fatwa",
-          "National Action Plan",
-          "Joint prayers by ulema"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions Milli Yakjehti Council, Paigham-i-Pakistan fatwa, and joint prayers as direct efforts to promote intra-Muslim unity. While the National Action Plan is a significant state policy addressing extremism, it is not highlighted in the article as an example of an initiative specifically for 'ittihad bainul muslimeen' in the same context as the other options."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What message do symbolic gestures like joint prayers by ulema convey in a society marked by sectarian violence?",
-        "back": "They send a strong message of unity and growing tolerance among society, particularly among clerics, and can help reduce sectarian differences."
-      },
-      {
-        "front": "What historical efforts have been made in Pakistan to foster unity among Muslims ('ittihad bainul muslimeen')?",
-        "back": "Efforts include those made from the platform of the Milli Yakjehti Council since the 1990s, and the Paigham-i-Pakistan fatwa signed by hundreds of clerics in 2018."
-      },
-      {
-        "front": "According to the article, what prevents the complete eradication of sectarian violence despite noble unity efforts?",
-        "back": "Communal mischief-mongers continue to spread division, and deadly sectarian groups remain active, even if maintaining a low profile."
-      },
-      {
-        "front": "What dual approach does the article suggest for achieving communal peace in Pakistan?",
-        "back": "Ulema must take the message of unity to the grassroots (neighbourhood/village level), and the state must shut down violent groups while promoting a 'live and let live' narrative."
       }
     ]
   }
