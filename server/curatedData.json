@@ -1,5 +1,121 @@
 [
   {
+    "id": "curated-1787013067132-753",
+    "title": "Maiden youth policy",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2624244/maiden-youth-policy",
+    "date": "2026-08-16",
+    "author": "\n\t\t\t\teditorial\n\t\t\t",
+    "content": "All and sundry in high offices have touted Pakistan's demographic dividend as a catalyst for future success, but almost every effort to realise this success has gone by the wayside, leaving us instead with a brain drain that threatens to keep us from ever rising beyond a very low ceiling.\n\nThis week, Prime Minister Shehbaz Sharif formally launched the country's first National Youth Employment Policy, a comprehensive framework which, if implemented with rigour, could finally begin to translate demographic reality into economic opportunity. The policy's ambition is commendable. A mandatory 35% quota for women in the labour force acknowledges that Pakistan cannot afford to leave half its population on the economic sidelines. Equally noteworthy is the 10% annual quota for young startups, shifting the policy gaze from conventional job-seeking towards entrepreneurship and innovation. These targets represent a structural rethinking of how the domestic labour market must evolve.\n\nBut ambition must be matched by execution. The policy sets a target of halving the number of youth not in education, employment or training (NEET) by 2030 – a goal that is so ambitious that it could be mistaken for a typo. A National Coordination Committee has been established to oversee implementation, but even with perfect coordination between the government, the private sector and international partners, such a massive reduction is unrealistic. Other measures, such as more free laptops for deserving students, AI and IT training, and scholarships to China, are encouraging, but they are parts of a whole. With the lack of jobs waiting for these students when they graduate, the government must set the stage for them to become entrepreneurs. Unfortunately, investment capital is also hard to come by.\n\nWhile the government deserves credit for coming up with a plan, it must ensure that the 'next plan' is ready for implementation sooner rather than later, or we will remain a source of subsidised skilled labour for companies abroad.",
+    "matchedQuestion": {
+      "id": "PA-2023-YOUTH",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Pakistan is considered to be the fifth-largest youth bulge country in the world. Given this youth bulge, deliberate on ways forward for Sustainable Economic Development in Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Pakistan Affairs",
+    "topic": "Youth Bulge, National Youth Employment Policy, and Sustainable Economic Development in Pakistan",
+    "whyMatters": "This article is highly relevant as it directly discusses Pakistan's 'youth bulge' and the government's 'Maiden youth policy' (National Youth Employment Policy). It provides specific policy details, targets, and critiques that can be used to address the exam question on 'ways forward for Sustainable Economic Development'.",
+    "summary": [
+      "Pakistan's youth bulge, despite being a potential demographic dividend, has largely resulted in a brain drain due to past failed efforts to realize its potential.",
+      "The newly launched National Youth Employment Policy (NYEP) is the country's first comprehensive framework aimed at translating demographic reality into economic opportunity.",
+      "Key features of the NYEP include a mandatory 35% quota for women in the labor force and a 10% annual quota for young startups, promoting entrepreneurship and innovation.",
+      "Despite its ambition, the policy faces significant challenges, including an overly ambitious target of halving the NEET population by 2030, difficulties in implementation, and a critical lack of investment capital for startups."
+    ],
+    "facts": [
+      "National Youth Employment Policy (NYEP) formally launched as Pakistan's first comprehensive framework.",
+      "Mandatory 35% quota for women in the labor force included in NYEP.",
+      "10% annual quota for young startups.",
+      "Target to halve the number of youth Not in Education, Employment, or Training (NEET) by 2030."
+    ],
+    "academicReferences": [
+      "Pakistan Economic Survey (latest edition) - for official data on youth employment, unemployment, and economic indicators.",
+      "Vision 2025 (Government of Pakistan) - for broader national development goals and strategies related to youth.",
+      "International Labour Organization (ILO) Reports on Youth Employment - for global context, best practices, and challenges in youth labor markets."
+    ],
+    "vocabulary": [
+      {
+        "word": "demographic dividend",
+        "type": "noun",
+        "definition": "a period when the working-age population is a greater proportion than the dependent population (children and retirees), leading to potential economic growth.",
+        "sentence": "Pakistan's demographic dividend remains largely untapped, contributing to economic stagnation."
+      },
+      {
+        "word": "brain drain",
+        "type": "noun",
+        "definition": "the emigration of highly trained or intelligent people from a particular country or sector.",
+        "sentence": "The country continues to suffer from a significant brain drain, as skilled professionals seek opportunities abroad."
+      },
+      {
+        "word": "NEET",
+        "type": "acronym",
+        "definition": "Not in Education, Employment, or Training; referring to young people who are disengaged from work and learning opportunities.",
+        "sentence": "Halving the NEET population by 2030 is an ambitious goal for the new youth policy."
+      },
+      {
+        "word": "catalyst",
+        "type": "noun",
+        "definition": "a person or thing that precipitates an event or change.",
+        "sentence": "The new policy aims to be a catalyst for economic growth by empowering the youth."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a primary objective of Pakistan's newly launched National Youth Employment Policy (NYEP)?",
+        "options": [
+          "To halve the number of youth not in education, employment, or training (NEET) by 2030.",
+          "To establish a direct recruitment agency for government jobs.",
+          "To eliminate all foreign investments in Pakistan.",
+          "To provide free housing for all unemployed youth."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states the policy sets a target of halving the number of youth not in education, employment or training (NEET) by 2030."
+      },
+      {
+        "question": "Which two specific quotas are highlighted as key features of the NYEP to restructure the domestic labor market?",
+        "options": [
+          "35% for women and 10% for young startups.",
+          "20% for minorities and 15% for rural youth.",
+          "50% for skilled labor and 5% for overseas Pakistanis.",
+          "25% for IT professionals and 10% for agricultural workers."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article mentions 'A mandatory 35% quota for women in the labour force' and '10% annual quota for young startups'."
+      },
+      {
+        "question": "What significant challenge is identified regarding the implementation of the NYEP, particularly concerning entrepreneurship?",
+        "options": [
+          "Scarcity of investment capital.",
+          "Lack of international partners for collaboration.",
+          "Excessive availability of skilled labor.",
+          "Over-reliance on conventional job-seeking."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'Unfortunately, investment capital is also hard to come by,' as a challenge for entrepreneurship."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary concern identified regarding Pakistan's demographic dividend despite its potential?",
+        "back": "The primary concern is that despite its potential, the youth bulge has largely resulted in 'brain drain' due to previous failed efforts."
+      },
+      {
+        "front": "Name two key policy shifts introduced by the National Youth Employment Policy (NYEP) to transform the labor market.",
+        "back": "The NYEP introduces a mandatory 35% quota for women in the labor force and a 10% annual quota for young startups, shifting focus towards entrepreneurship."
+      },
+      {
+        "front": "What ambitious numerical target does the NYEP set regarding youth employment by 2030?",
+        "back": "The NYEP sets an ambitious target of halving the number of youth Not in Education, Employment, or Training (NEET) by 2030."
+      },
+      {
+        "front": "What is a critical missing element the article highlights for the success of entrepreneurship initiatives under the NYEP?",
+        "back": "A critical missing element highlighted is the scarcity of investment capital, which is hard to come by for young entrepreneurs."
+      }
+    ]
+  },
+  {
     "id": "curated-1786840469215-97",
     "title": "Tax scheme\n",
     "source": "Dawn",
@@ -10185,94 +10301,6 @@
       {
         "front": "How does the article link the state's actions regarding dissent and political participation to the rise of proscribed groups among educated youth?",
         "back": "With nationalist parties sidelined, unrepresentative governments installed, and dissent not tolerated, educated youth lost hope in political channels and joined proscribed groups."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784770500173-390",
-    "title": "Delayed pricing\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2017457/delayed-pricing",
-    "date": "2026-07-22",
-    "author": "none@none.com (Editorial)",
-    "content": "THE ongoing delay in making new, approved lifesaving medicines available to patients is a serious lapse in Pakistan’s drug regulatory system. It is difficult to justify why medicines that have already met with the standards set by the Drug Regulatory Authority of Pakistan should remain out of public reach simply because the government has yet to approve their prices. For patients, this is not merely inconvenient; it is a question of health and, in many cases, survival. Nearly 40 registered medicines are reportedly awaiting price notifications months after the relevant process was completed and recommendations forwarded to the federal government. They include advanced therapies for cancer, diabetes, Parkinson’s, autoimmune disorders and critical care. These are treatments that can extend lives, improve the quality of life and prevent irreversible complications in patients with few or no alternatives. The official explanation that cabinet approval is still pending shows how cumbersome the system has become. Pricing should not be an open-ended approval process after a medicine has already cleared Drap’s scrutiny.\nA regulatory framework that takes years to register a medicine and then delays its market entry for months makes no sense. The cost of these delays is borne entirely by patients. Illness does not wait for files to move through government offices. When legitimate supplies are delayed or blocked, desperate patients turn to smuggled or unregistered medicines. These products are priced exorbitantly, and their authenticity, storage conditions and supply chains cannot be guaranteed. Counterfeit and substandard medicines find space in such an environment. Ironically, excessive regulation ends up weakening effective oversight. The uncertainty also discourages pharmaceutical investment. Companies cannot indefinitely absorb unpredictable delays after completing an already lengthy approval process. Many simply conclude that introducing medicines is commercially unviable. The steady exit of several multinational pharmaceutical companies reflects, among other factors, the uncertainty surrounding pricing and market access. The government and drug regulator must recognise that regulation is not an end in itself. Its purpose is to protect public health while ensuring timely access to essential medicines. Once approval has been granted, price determination should be completed within a transparent, predictable and binding time frame. Patients should not have to pay for bureaucratic inertia.\nPublished in Dawn, July 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "Pakistan Affairs / Current Affairs / Governance / Public Policy / Economics",
-    "topic": "Drug Regulatory System Issues in Pakistan / Public Health Policy / Bureaucracy and Governance",
-    "whyMatters": "This article highlights critical governance failures in Pakistan's drug regulatory system, directly impacting public health and economic investment. Aspirants can quote it to analyze bureaucratic inertia, its socio-economic costs, and propose reforms in governance-related essays and questions.",
-    "summary": [
-      "The ongoing delay in approving prices for new, approved lifesaving medicines is a serious lapse in Pakistan’s drug regulatory system.",
-      "Medicines, despite meeting Drap standards, remain unavailable because the government has not approved their prices, causing health risks and potential survival issues for patients.",
-      "This bureaucratic delay discourages pharmaceutical investment, leading to the exit of multinational companies and fostering a market for smuggled, exorbitant, and potentially counterfeit drugs.",
-      "The regulatory framework needs reform to ensure timely market access for approved medicines, with price determination completed within a transparent and binding timeframe."
-    ],
-    "facts": [
-      "Nearly 40 registered medicines are reportedly awaiting price notifications months after completing the relevant process.",
-      "These delayed medicines include advanced therapies for cancer, diabetes, Parkinson’s, autoimmune disorders, and critical care.",
-      "The official explanation for delays is pending cabinet approval, indicating a cumbersome system."
-    ],
-    "academicReferences": [
-      "National Health Vision (Pakistan) 2016-2025 (Highlights importance of access to essential medicines)",
-      "Drug Act, 1976 and Drugs Regulatory Authority of Pakistan Act, 2012 (Legal framework for drug regulation)",
-      "World Health Organization (WHO) Guidelines on Good Governance for Medicines (Relevant international standards for drug regulation)"
-    ],
-    "vocabulary": [
-      {
-        "word": "cumbersome",
-        "type": "adjective",
-        "definition": "difficult to carry or handle because of size or weight; complex and difficult to deal with.",
-        "sentence": "The existing approval process for medicine pricing has become cumbersome, leading to significant delays."
-      },
-      {
-        "word": "exorbitantly",
-        "type": "adverb",
-        "definition": "at an excessively high or unreasonable price.",
-        "sentence": "When legitimate medicines are delayed, desperate patients often pay exorbitantly for smuggled or unregistered alternatives."
-      },
-      {
-        "word": "inertia",
-        "type": "noun",
-        "definition": "a tendency to do nothing or to remain unchanged; resistance to change.",
-        "sentence": "Patients should not have to suffer the consequences of bureaucratic inertia in the drug approval process."
-      },
-      {
-        "word": "unviable",
-        "type": "adjective",
-        "definition": "not capable of working successfully; not feasible.",
-        "sentence": "Pharmaceutical companies often conclude that introducing new medicines is commercially unviable due to unpredictable regulatory delays."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the primary reason for new, approved medicines being unavailable to patients in Pakistan?",
-        "options": [
-          "Lack of manufacturing capacity within Pakistan.",
-          "Delayed price approval by the federal government.",
-          "Insufficient research and development by pharmaceutical companies.",
-          "High import duties on lifesaving drugs."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that medicines remain out of public reach 'simply because the government has yet to approve their prices,' even after clearing Drap's scrutiny."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the dual negative consequences of drug pricing delays for patients?",
-        "back": "Patients face compromised health and, in many cases, survival challenges, coupled with the risk of resorting to expensive, unauthentic, or substandard smuggled medicines."
-      },
-      {
-        "front": "How do regulatory delays impact pharmaceutical investment and market stability in Pakistan?",
-        "back": "Delays discourage pharmaceutical investment by making market entry commercially unviable, leading to the exit of multinational companies and fostering uncertainty."
-      },
-      {
-        "front": "According to the article, what is the core purpose of drug regulation that is currently being undermined?",
-        "back": "The purpose of regulation is to protect public health while ensuring timely access to essential medicines, which is undermined when bureaucratic processes cause delays."
-      },
-      {
-        "front": "What specific reform is suggested for the price determination process of approved medicines?",
-        "back": "Price determination should be completed within a transparent, predictable, and binding time frame once approval has been granted, to avoid bureaucratic inertia."
       }
     ]
   }
