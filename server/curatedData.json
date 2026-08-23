@@ -816,6 +816,94 @@
     ]
   },
   {
+    "id": "curated-1787445392932-215",
+    "title": "Cost of heat\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2024060/cost-of-heat",
+    "date": "2026-08-20",
+    "author": "none@none.com (Dur e Sameen Akhund)",
+    "content": "AT some point this summer, somewhere along the value chain, output fell. Nobody logged it as a climate loss. It was absorbed instead as a missed delivery window, a spike in afternoon defects, an absenteeism figure that went unexamined. The cause was heat, and most Pakistani businesses are neither measuring it nor pricing it.\nThe backdrop is no longer deniable. This spring’s pre-monsoon heatwave pushed temperatures across the region above 46 degrees Celsius, an event that scientists at World Weather Attribution found was made roughly three times more likely by climate change. The human toll is systematically undercounted: during Karachi’s June 2024 heatwave, the Edhi Foundation received 568 bodies in five days, against a normal average of about 40 a day, while the local government attributed just 13 deaths that month to the weather. If deaths on this scale can go unrecorded, quieter losses of output and productivity certainly do.\nCorporate Pakistan is not ignoring climate change. CERB’s case study on business climate readiness found companies working seriously on transition risk: decarbonisation targets, renewable procurement, positioning for a low-carbon economy. All of this is necessary, and investors reward it. But the same study found very few businesses with any grasp of physical risk — the direct hit a changing climate delivers to assets, operations and people. Almost none had a considered response to the most immediate threat of all, which is what heat does to worker health, safety and productivity. In the world’s most climate-affected country, businesses prepare for the climate risk set out in regulation and miss the one unfolding on the ground. Part of the reason is that heat, unlike a flood, announces nothing. It leaves no wreckage to photograph and no claim to file, only a slow leak of hours and output that is never traced back to its cause.\nThese are not sustainability numbers; they are operating numbers. The WHO and WMO report that “worker productivity declines by two to three per cent for every degree above 20°C”. The ILO finds that heat stress generally sets in above 35°C in humid conditions, and international benchmarks now call for outdoor work to stop when wet-bulb globe temperature exceeds 32.1°C. Karachi crossed 47°C in June 2024. Globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030, and Southern Asia stands to lose up to 5pc of working hours, placing it among the worst affected regions anywhere. No business would tolerate an unexamined 5pc hit to capacity from any other cause.\nPakistan’s heat problem is a business problem.\nOnce businesses begin tracing these risks along the value chain, industry-specific patterns emerge. Take textiles, the country’s largest export earner. The exposure starts in the field, where extreme heat during flowering cuts cotton yields before a single bale reaches the mill. It continues through ginning and spinning units sited in some of the hottest districts in Punjab and Sindh, and on to stitching floors where piece-rate workers, paid by output rather than hours, have every reason to work through heat stress instead of resting it out. Defects and accidents climb with the temperature, absenteeism follows, and load-shedding arrives just as cooling demand peaks. By the time the shipment leaves late, the invoice records everything except the cause.\nSo what?\nNone of this requires waiting for the government or for a re­gulatory requirem­ent. It requires businesses to understand and measure their own vulnerability to rising temperatures. A climate risk assessment maps operati­o­­ns and suppliers agai­nst physical climate scenarios, identifies where heat, flooding and water stress leave them most exposed, and quantifies that vulnerability so it can be managed like any other risk. The interventions that follow are mostly unglamorous and affordable: shaded and cooled work areas, adjusted shift timings and heat protocols, supplier diversification and more resilient infrastructure. But none of them can be targeted until a business knows where its value chain is actually exposed, and the assessment is where that work has to start.\nTransition risk is real and it deserves the attention it gets. But the more immediate threat needs no modelling: heat arrives every summer and it is already costing lives, hours and output. The companies that stress-test their exposure now will be better placed to keep delivering when the next heatwave sets records. For everyone else, the losses will not stop; they will simply keep appearing under other names.\nThe writer is a senior manager for sustainability at the Pakistan Business Council’s Centre of Excellence in Responsible Business.\nPublished in Dawn, August 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Current Affairs / Pakistan Affairs / Economics / Environmental Science",
+    "topic": "Climate Change Impact on Pakistan's Economy and Business Sector",
+    "whyMatters": "This article provides a critical perspective on how climate change, specifically heat, is already impacting Pakistan's economy and businesses, offering concrete data and actionable solutions. It is crucial for competitive exam students to understand the nuanced economic consequences of climate change beyond environmental rhetoric, especially in the context of Pakistan.",
+    "summary": [
+      "Economic losses due to heat stress (missed deliveries, defects, absenteeism) are substantial in Pakistani businesses but remain largely unmeasured and unpriced.",
+      "Pakistani corporations prioritize 'transition risk' (decarbonization) but significantly neglect 'physical risk' (direct impacts of climate like heat) on operations, assets, and worker productivity.",
+      "Global and regional data project severe consequences: worker productivity declines with temperature, and heat stress could erase 80 million full-time jobs globally by 2030, with Southern Asia losing up to 5% of working hours.",
+      "Businesses can address these issues by conducting climate risk assessments to identify vulnerabilities and implementing practical, affordable interventions like shaded work areas, adjusted shifts, and resilient infrastructure without waiting for government regulation."
+    ],
+    "facts": [
+      "Scientists at World Weather Attribution found that the Spring 2024 pre-monsoon heatwave (temperatures above 46°C) was made roughly three times more likely by climate change.",
+      "During Karachi's June 2024 heatwave, the Edhi Foundation received 568 bodies in five days, against a normal average of about 40 a day, while local government attributed just 13 deaths that month to the weather.",
+      "The WHO and WMO report that 'worker productivity declines by two to three per cent for every degree above 20°C', and globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030."
+    ],
+    "academicReferences": [
+      "World Weather Attribution reports on climate change attribution.",
+      "WHO and WMO reports on climate change and health/productivity.",
+      "International Labour Organization (ILO) findings on heat stress and worker productivity."
+    ],
+    "vocabulary": [
+      {
+        "word": "undercounted",
+        "type": "verb",
+        "definition": "To estimate or record a lower number than the actual amount, often due to insufficient data or deliberate omission.",
+        "sentence": "The human toll of the heatwave is systematically undercounted, masking the true impact on lives and livelihoods."
+      },
+      {
+        "word": "decarbonisation",
+        "type": "noun",
+        "definition": "The process of reducing or eliminating carbon dioxide emissions, particularly from energy production and industrial processes.",
+        "sentence": "Many companies are setting ambitious decarbonisation targets as part of their transition risk strategies."
+      },
+      {
+        "word": "absenteeism",
+        "type": "noun",
+        "definition": "The practice of regularly staying away from work or school without good reason.",
+        "sentence": "As temperatures climb, absenteeism follows, impacting overall operational efficiency."
+      },
+      {
+        "word": "interventions",
+        "type": "noun",
+        "definition": "Actions taken to improve or remedy a situation.",
+        "sentence": "The interventions that follow are mostly unglamorous and affordable, yet crucial for mitigating heat-related risks."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason Pakistani businesses are largely failing to address the economic impact of heat?",
+        "options": [
+          "They are unaware of climate change entirely.",
+          "They focus more on 'transition risk' (decarbonization) than 'physical risk' (direct climate impacts).",
+          "The government has not mandated heat-related risk assessments.",
+          "They lack the technology to measure heat-induced productivity losses."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that corporate Pakistan is 'working seriously on transition risk' but 'found very few businesses with any grasp of physical risk — the direct hit a changing climate delivers'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the key difference between 'transition risk' and 'physical risk' as explained in the article?",
+        "back": "Transition risk relates to the challenges and opportunities in shifting to a low-carbon economy (e.g., decarbonisation), while physical risk refers to the direct impacts of a changing climate on assets, operations, and people (e.g., heatwaves, floods)."
+      },
+      {
+        "front": "How does the article illustrate the systematic undercounting of heat-related deaths in Pakistan?",
+        "back": "It highlights that during Karachi's June 2024 heatwave, the Edhi Foundation received 568 bodies in five days (compared to a normal 40/day), yet the local government attributed only 13 deaths that month to the weather."
+      },
+      {
+        "front": "What are the projected global and regional economic consequences of heat stress by 2030, according to the article?",
+        "back": "Globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030, with Southern Asia specifically facing a loss of up to 5% of its working hours."
+      },
+      {
+        "front": "What actionable first step does the author suggest for businesses to combat heat-related economic losses?",
+        "back": "Businesses should conduct a climate risk assessment to map operations and suppliers against physical climate scenarios, identifying specific vulnerabilities to heat, flooding, and water stress to quantify and manage these risks."
+      }
+    ]
+  },
+  {
     "id": "curated-1787358708163-613",
     "title": "Resetting the system\n",
     "source": "Dawn",
@@ -10147,127 +10235,6 @@
       {
         "front": "How should the government address the concerns of petrol pump owners regarding daily price revisions?",
         "back": "The government should review dealer margins based on actual costs to ensure fair returns through efficient operations, rather than reverting to a system that enables speculative profits at consumers' expense."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784943188075-689",
-    "title": "Holy grail of economics\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2017942/holy-grail-of-economics",
-    "date": "2026-07-24",
-    "author": "none@none.com (Aqdas Afzal)",
-    "content": "SOME people may have watched Indiana Jones and the Last Crusade starring Harrison Ford as the eponymous swashbuckling archaeologist on a mission to find the holy grail — the cup said to grant eternal life to whoever drinks from it. In common usage, ‘holy grail’ signifies a highly sought-after goal that is extremely difficult or seemingly impossible to achieve. In this sense, economic growth is undoubtedly the holy grail of economics as it remains the most-coveted prize for policymakers everywhere.\nGlobally, countries have reduced poverty and improved living standards through strong and sustained economic growth, not least because economic growth creates more high-quality jobs. China’s breakneck economic growth in the 1990s lifted hundreds of millions out of poverty and built the very foundation for China’s emergence as a global manufacturing powerhouse by the 2000s. At the same time, China’s rapid economic growth generated the necessary fiscal space for Beijing to build infrastructure, expand social security coverage and modernise its military, all without resorting to unsustainable borrowing.\n    \nSince independence, Pakistan achieved decent rates of economic growth, while India muddled along at the ‘Hindu rate of growth’ below four per cent. But, in the 1990s, as Pakistan’s economic engine started sputtering, Indian economy, unshackled from ‘licence Raj’, came into its own. By 2008-09, Pakistan’s economic engine finally ran out of steam enabling India’s per capita income to catch up and overtake that of Pakistan.\nEven after two decades, despite the sound and fury of ‘stabilisation’, Pakistan remains largely unsuccessful in kick-starting its economic engine. In the last four years, economic growth has averaged a paltry 2.3 per cent. With some estimates putting population growth rate at 2.55pc, the per capita growth, responsible for raising living standards, has actually been negative. The most recent HIES, Pakistan’s flagship survey, indicates an almost 20pc reduction in the real income of urban households over the last six years.\nDespite costly plans, economic growth remains stuck, suggesting that the problem isn’t simply a shortage of strategies, but something deeper.\nDespite the recent warning from the World Bank regarding the need for 30m jobs over the next 10 years, it has been almost impossible to create high-quality jobs due to anaemic economic growth. It is thus no surprise that this mothballed economic engine is forcing thousands of young Pakistanis to undertake perilous journeys to greener pastures abroad.\nPakistan’s stagnant growth is not the result of a lack of trying as policymakers have repeatedly brought in expensive foreign consultants to prescribe fixes. Yet despite these costly plans, growth remains stuck, suggesting that the problem isn’t simply a shortage of strategies, but something deeper.\nThe most important lesson in economics is that productivity is key to economic growth. Productivity’s contribution to growth in Pakistan has been almost zero over 2000-2022, compared to positive contributions of 25pc in China and 32pc in India, which means that all of Pakistan’s growth in this period came from throwing in more capital and labour, and none from using these better.\n    \nEssentially, productivity is driven by four components: innovation or new technologies; education or workforce capacity; efficiency or effective allocation of resources; and infrastructure for private sector activity. Of these four, education appears to be Pakistan’s binding constraint due to persistent backsliding as evidenced by a recent report that puts the number of out-of-school children at 26.2m.\nPolicymakers need to begin with a focus on reducing the number of out-of-school children in the country. There is no lack of precedent. Bangladesh, despite starting from a similar base, cut its out-of-school numbers through a two-pronged approach, focusing on conditional cash transfers that paid mothers to keep children enrolled, and BRAC’s community-run ‘second chance’ schools, which have graduated over 14m children — dropped out or never enrolled. Ghana abolished school fees in 2005, producing a 17pc jump in primary enrolment within a year.\nPakistan’s attempts have relied on distant, provincial-level management, disconnected from the ghost schools, absentee teachers and missing toilets that plague the system on the ground. Notifying a new national education council, comprising local educationists who understand such implementation failures, would be a good start. However, sustainable progress will require going further by devolving school management to city halls, following the same principle of local, community-anchored delivery that made the reforms in Bangladesh and Ghana reforms work.\nIn the final analysis, economic growth remains the best bet for reducing poverty and improving living standards. The surest path to economic growth is through productivity gains. Low productivity nations — like those which have millions of out-of-school children — cannot hope for sustained economic growth. In the case of Pakistan, a sincere, focused and effective approach on education holds the promise of being a game changer. Without it, growth — the holy grail of economics — will remain permanently out of reach.\nThe writer completed his doctorate in economics on a Fulbright scholarship.\naqdas.afzal@gmail.com\nX: @AqdasAfzal\nPublished in Dawn, July 24th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Economics / Pakistan Affairs",
-    "topic": "Economic Growth, Productivity, and Human Capital Development in Pakistan",
-    "whyMatters": "This article critically analyzes Pakistan's persistent economic growth challenges, highlighting the crucial role of productivity and human capital development. It provides a strong framework for understanding socio-economic issues, offering policy recommendations essential for competitive exam essays and current affairs analyses.",
-    "summary": [
-      "Economic growth is the 'holy grail' for policymakers globally, as it is the most effective way to reduce poverty, improve living standards, and create high-quality jobs.",
-      "Pakistan's economic engine has largely stalled since the 1990s, leading to negative per capita growth and a significant reduction in real urban household income, contrasting sharply with the successes of India and China.",
-      "The core problem behind Pakistan's stagnant growth is the near-zero contribution from productivity over the last two decades, indicating that any growth came from increasing capital and labor, not from using them more efficiently.",
-      "Education, particularly the alarming number of 26.2 million out-of-school children, is identified as Pakistan's binding constraint to productivity, necessitating localized, community-anchored management reforms rather than distant provincial oversight."
-    ],
-    "facts": [
-      "Pakistan's average economic growth over the last four years: 2.3 percent.",
-      "Estimated population growth rate in Pakistan: 2.55 percent, implying negative per capita growth.",
-      "Reduction in the real income of urban households in Pakistan: almost 20 percent over the last six years.",
-      "Productivity's contribution to growth in Pakistan (2000-2022): almost zero, compared to 25% in China and 32% in India.",
-      "Number of out-of-school children in Pakistan: 26.2 million.",
-      "World Bank warning: Pakistan needs 30 million jobs over the next 10 years."
-    ],
-    "academicReferences": [
-      "World Bank's 'Pakistan Development Update' or 'Human Capital Review' reports, which frequently analyze economic growth, productivity, and education challenges.",
-      "The 'Pakistan Economic Survey' (annual publication) for official statistics and analysis on the country's economic performance and social indicators.",
-      "United Nations Sustainable Development Goals (SDGs), particularly SDG 4 (Quality Education) and SDG 8 (Decent Work and Economic Growth), which provide a global policy framework.",
-      "Research on Conditional Cash Transfer (CCT) programs, such as Brazil's 'Bolsa Família' or Bangladesh's initiatives, as examples of effective strategies for improving education enrollment and reducing poverty."
-    ],
-    "vocabulary": [
-      {
-        "word": "Eponymous",
-        "type": "adjective",
-        "definition": "(of a person) giving their name to something; (of a thing) named after a particular person or thing.",
-        "sentence": "Harrison Ford starred as the eponymous Indiana Jones, the hero whose name defines the film series."
-      },
-      {
-        "word": "Swashbuckling",
-        "type": "adjective",
-        "definition": "engaging in daring and romantic adventures with bravado and flamboyant action.",
-        "sentence": "The audience admired the swashbuckling archaeologist as he navigated dangerous traps."
-      },
-      {
-        "word": "Coveted",
-        "type": "adjective",
-        "definition": "greatly desired or envied.",
-        "sentence": "Economic growth remains the most coveted prize for policymakers worldwide due to its impact on living standards."
-      },
-      {
-        "word": "Fiscal space",
-        "type": "noun",
-        "definition": "the availability of budgetary room that allows a government to provide resources for a desired purpose without jeopardizing financial stability.",
-        "sentence": "China's rapid economic growth generated the necessary fiscal space to build infrastructure and expand social security."
-      },
-      {
-        "word": "Anaemic",
-        "type": "adjective",
-        "definition": "lacking in color, spirit, or vitality; weak.",
-        "sentence": "It has been almost impossible to create high-quality jobs due to Pakistan's anaemic economic growth."
-      },
-      {
-        "word": "Binding constraint",
-        "type": "noun",
-        "definition": "a factor that limits the performance of a system or process, often the most restrictive bottleneck.",
-        "sentence": "Of the four components driving productivity, education appears to be Pakistan’s binding constraint."
-      },
-      {
-        "word": "Devolving",
-        "type": "verb",
-        "definition": "transfer or delegate (power or responsibility) to a lower level, especially from central government to local administration.",
-        "sentence": "Sustainable progress in education will require devolving school management to city halls, empowering local communities."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as the 'binding constraint' to productivity in Pakistan?",
-        "options": [
-          "A) Lack of foreign investment",
-          "B) Insufficient infrastructure",
-          "C) Persistent backsliding in education",
-          "D) Shortage of skilled labor migration"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'Of these four [components of productivity], education appears to be Pakistan’s binding constraint due to persistent backsliding as evidenced by a recent report that puts the number of out-of-school children at 26.2m.'"
-      },
-      {
-        "question": "What percentage of contribution has productivity made to Pakistan's economic growth between 2000-2022, according to the article?",
-        "options": [
-          "A) 32%",
-          "B) 25%",
-          "C) Almost zero",
-          "D) 2.3%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Productivity’s contribution to growth in Pakistan has been almost zero over 2000-2022, compared to positive contributions of 25pc in China and 32pc in India.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the author identify as the 'holy grail of economics' for policymakers globally?",
-        "back": "Sustained economic growth, because it is crucial for reducing poverty, improving living standards, and creating high-quality jobs."
-      },
-      {
-        "front": "What is the primary reason the article gives for Pakistan's stagnant economic growth despite numerous strategies and costly plans?",
-        "back": "The near-zero contribution from productivity to growth over the last two decades, indicating that growth has relied solely on increasing capital and labor inputs, not using them more effectively."
-      },
-      {
-        "front": "What four components does the article list as key drivers of productivity?",
-        "back": "Innovation (new technologies), education (workforce capacity), efficiency (effective allocation of resources), and infrastructure (for private sector activity)."
-      },
-      {
-        "front": "What specific policy shift is suggested for Pakistan to effectively address its education crisis and boost productivity, drawing lessons from Bangladesh and Ghana?",
-        "back": "Devolving school management to city halls and local communities, moving away from distant, provincial-level management, and implementing community-anchored delivery models like conditional cash transfers and 'second chance' schools."
       }
     ]
   }
