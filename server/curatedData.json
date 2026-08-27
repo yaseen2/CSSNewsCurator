@@ -1,5 +1,132 @@
 [
   {
+    "id": "curated-1787808299117-54",
+    "title": "Little to celebrate\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2025372/little-to-celebrate",
+    "date": "2026-08-27",
+    "author": "none@none.com (Editorial)",
+    "content": "BY now it has become almost tedious to read the same assessment from every global credit rating agency and lender — Pakistan’s economy has stabilised, but risks remain. Moody’s commentary on the country’s economy accompanying its latest upgrade is simply a repetition of this review dressed up in a new number.\nAnd that tedium is itself the story: an economy that keeps producing the same verdict year after year is hardly holding steady; in fact, it is stuck. Macroeconomic indicators may not be falling, but nothing underneath them is moving either. Standing still while the rest of the world advances is nothing but a quiet form of decline. Moody’s new rating, still highly speculative and seven notches below investment grade, is not a vote of confidence.\n    \nIt is merely an acknowledgment that the country is marginally less likely to default than before. And yet it was an occasion for the prime minister to congratulate the nation as though we had turned the corner. This is the peculiar place Pakistani policymaking has settled into, where even minor technical adjustments are treated as milestones.\nThe picture Moody’s has painted is unflattering. It points to a narrow export base, negligible FDI, heavy reliance on remittances, and a government that still leans on official and commercial borrowing to meet its external obligations. None of this describes an economy capable of standing on its own feet. It is being propped up by the IMF and rolled over bilateral deposits. The governance language deserves more attention.\n    \nThe agency is blunt: weak rule of law, poor control of corruption, limited government effectiveness. These are not casual observations. These are the reasons investors continue to look elsewhere. Even the improvement in debt affordability that Moody’s highlights comes with a caveat. Interest payments have reduced substantially over the previous year. Yet the figure is so high that practically nothing is left for the social and infrastructure investment the country needs.\nThis improvement is a function of falling inflation and rate cuts, not any structural change. What all of these add up to is an economy that has been stabilised in the technical sense but the deeper conditions for real growth remain elusive. Real recovery would have looked different. Moody’s upgrade is not a turning point; it is just a slightly better seat in the same waiting room.\nPublished in Dawn, August 26th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's Economic Challenges and Governance Issues",
+    "whyMatters": "This article is crucial for outlining Pakistan's current economic challenges, offering a critical perspective from global rating agencies like Moody's. It provides detailed points on vulnerabilities and governance issues, directly supporting the 'economic challenges' part of the question.",
+    "summary": [
+      "Pakistan's economy is 'stuck' in a state of 'stabilization without growth,' resulting in a quiet decline as the rest of the world advances.",
+      "The country's economic structure suffers from a narrow export base, negligible Foreign Direct Investment (FDI), and heavy reliance on remittances and borrowing for external obligations.",
+      "Deep-seated governance issues, including weak rule of law, poor control of corruption, and limited government effectiveness, are primary deterrents for foreign investors.",
+      "Any improvements in debt affordability are attributed to transient factors like falling inflation and rate cuts, rather than fundamental structural changes needed for real, sustainable growth."
+    ],
+    "facts": [
+      "Moody's rating is highly speculative and seven notches below investment grade, indicating a marginally reduced likelihood of default.",
+      "Interest payments have substantially reduced over the previous year, yet remain so high that little is left for social and infrastructure investment.",
+      "The article was published in Dawn on August 26th, 2026, and is an editorial piece."
+    ],
+    "academicReferences": [
+      "IMF Country Reports on Pakistan (e.g., Staff Report for the Article IV Consultation)",
+      "World Bank's Pakistan Development Update (analyzes economic trends and challenges)",
+      "Transparency International's Corruption Perception Index (CPI) for Pakistan",
+      "Pakistan Economic Survey (annual official document detailing economic performance)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Tedious",
+        "type": "adjective",
+        "definition": "Too long, slow, or dull; tiresome or monotonous.",
+        "sentence": "Reading the same economic assessment year after year has become tedious for analysts."
+      },
+      {
+        "word": "Macroeconomic indicators",
+        "type": "noun",
+        "definition": "Statistics or data points that reflect the overall health of a country's economy, such as GDP, inflation, unemployment, etc.",
+        "sentence": "While macroeconomic indicators showed stabilization, deeper structural issues remained unaddressed."
+      },
+      {
+        "word": "Speculative",
+        "type": "adjective",
+        "definition": "Involving a high risk of loss but with the possibility of considerable profit; often used for investments or credit ratings indicating high risk.",
+        "sentence": "Moody's described the country's credit rating as highly speculative, far below investment grade."
+      },
+      {
+        "word": "External obligations",
+        "type": "noun",
+        "definition": "Financial debts or duties owed to foreign entities, such as international lenders or bondholders.",
+        "sentence": "The government still relies on borrowing to meet its external obligations, indicating a lack of self-sufficiency."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, why is Pakistan's economy considered 'stuck' despite reports of stabilization?",
+        "options": [
+          "Macroeconomic indicators are constantly falling.",
+          "Nothing fundamental beneath the indicators is moving, leading to a quiet decline relative to global progress.",
+          "The country has achieved investment grade rating, stopping further efforts.",
+          "It has a broad export base and significant FDI, which limits growth options."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Macroeconomic indicators may not be falling, but nothing underneath them is moving either. Standing still while the rest of the world advances is nothing but a quiet form of decline.'"
+      },
+      {
+        "question": "Which of the following is NOT identified by Moody's as a core economic vulnerability for Pakistan?",
+        "options": [
+          "Narrow export base",
+          "Heavy reliance on remittances",
+          "High levels of domestic savings",
+          "Negligible Foreign Direct Investment (FDI)"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions a narrow export base, negligible FDI, and heavy reliance on remittances. It does not mention high levels of domestic savings; in fact, the need for borrowing suggests a lack of sufficient domestic resources."
+      },
+      {
+        "question": "What is the primary reason the article gives for investors continuing to look elsewhere, despite some economic stabilization?",
+        "options": [
+          "High inflation rates",
+          "Lack of diversified tourism opportunities",
+          "Weak rule of law, poor control of corruption, and limited government effectiveness",
+          "Excessive government spending on social welfare programs"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'The agency is blunt: weak rule of law, poor control of corruption, limited government effectiveness. These are not casual observations. These are the reasons investors continue to look elsewhere.'"
+      },
+      {
+        "question": "The improvement in Pakistan's debt affordability is primarily a function of what, according to the article?",
+        "options": [
+          "Significant structural economic reforms",
+          "Increased foreign aid packages",
+          "Falling inflation and interest rate cuts",
+          "A substantial increase in tax revenue collection"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article notes: 'This improvement is a function of falling inflation and rate cuts, not any structural change.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the central paradox of Pakistan's economic situation according to the article?",
+        "back": "The economy is described as 'stabilized' by credit rating agencies, yet it remains 'stuck' and in a 'quiet form of decline' because underlying structural issues persist and the country isn't advancing relative to the world."
+      },
+      {
+        "front": "What specific economic vulnerabilities does Moody's highlight for Pakistan's economy?",
+        "back": "Moody's points to a narrow export base, negligible Foreign Direct Investment (FDI), heavy reliance on remittances, and persistent government reliance on borrowing to meet external obligations."
+      },
+      {
+        "front": "How does the article connect governance issues to foreign investment in Pakistan?",
+        "back": "The article directly links 'weak rule of law, poor control of corruption, and limited government effectiveness' as the explicit reasons why investors continue to look elsewhere, making these critical barriers to FDI."
+      },
+      {
+        "front": "What does the article imply about the long-term sustainability of Pakistan's current economic 'stabilization'?",
+        "back": "It implies that the stabilization is superficial and unsustainable, as it's driven by temporary factors like inflation and rate cuts rather than deep 'structural change,' meaning 'real growth' remains elusive."
+      }
+    ]
+  },
+  {
     "id": "curated-1787618026810-139",
     "title": "Unlearnt lessons of history\n",
     "source": "Dawn",
@@ -10054,139 +10181,6 @@
       {
         "front": "What critical safeguards does the article emphasize for the responsible deployment of AI in the public sector?",
         "back": "The article stresses the protection of sensitive public data, maintaining human oversight over automated systems, and ensuring AI supports, rather than replaces, human judgment and accountability."
-      }
-    ]
-  },
-  {
-    "id": "curated-1784942936289-282",
-    "title": "Healing touch needed\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2018246/healing-touch-needed",
-    "date": "2026-07-25",
-    "author": "none@none.com (Tariq Khosa)",
-    "content": "SINCE early this month, Balochistan has been reeling from a series of dastardly terror attacks. The nexus of ideologically different banned terrorist groups — the religiously motivated extremists of the TTP and BLA terrorists — poses a grave challenge. The current spate of violence started on July 5, when terrorists managed to reach the fertile Shaban area next to Hanna-Urak in the suburbs of Quetta cantonment, and then launched another attack the next day on the Mangi Dam Ziarat police post at the pumping station. Despite a valiant fight put up by a DSP and 40 policemen, the terrorists, who had attacked in a large numbers, kidnapped and killed 27 ammunition-deficient law-enforcement personnel. Timely reinforcements by the police and FC could have prevented this tragedy.\nMeanwhile, an FC convoy was attacked near Khad Kucha, district Mastung, resulting in casualties. In addition, a military contingent in unmarked vehicles was attacked at Bela-Vinder by the BLA’s Majeed Brigade, resulting in casualties in double figures. Clashes in the mineral-rich district of Chagai were also reported, while a suicide attack took place in Khuzdar in which a tribal political leader involved in internecine strife lost 17 of his kinsmen to five attackers who rammed their explosive-laden vehicle into the gate of the fortified compound in Wadh. A three-hour gun battle left 30 injured. In the latest high-profile incident on Thursday, a sessions judge and his guard were killed on the road by assailants. \nSince July 5, there have been more than 40 police, military, FC and civilian casualties, while a total of 121 terrorists have been eliminated. The operation is to continue “until the last terrorist is neutralised” say the state authorities. The government has agreed to constitute a judicial commission to probe the Urak violence and Mangi Dam tragedy. Hopefully, a judge of the high court will probe what led to the violence, in which there were four casualties among the local land owners in the agriculturally rich Shaban area around Killi Babri. The question is, how did the armed terrorist groups get involved? Similarly, Mangi is a project of national interest. It will supply fresh water to Quetta and its cantonment and reduce water shortage by around 20 per cent when operational. FC is deployed at the main dam and other ancillary sites. How come the pumping station post which was recently taken over from the defunct levies, was not being jointly manned by the FC and police, especially in light of the threat alerts issued? The most significant concern is the large number of TTP terrorists who have become active in the vast terrain joining Quetta’s suburbs to the mountainous region linking the northern parts of Balochistan with KP.\nDuring the 1980s, under martial law, Gen Ziaul Haq focused on reconciliation and good governance. The best police and civil administration officers were posted to focus on the administration of justice and service delivery. On promotion as SP and on top of my batch, I was allocated to Balochistan where for the next four years I served as additional SP Quetta, district SP Sibi in charge of the Kachi and Sibi districts and Dera Bugti and Kohlu agencies, and finally as SSP Quetta. We respected the citizens who reciprocated the sentiment. The military, police and civil administration worked for the welfare and progress of the province. Roads were safe for travel. Next, I had the honour of serving as IG Balochistan in 2007 under Gen Musharraf’s military hybrid rule. The entire province was converted into a police jurisdiction replacing the ragtag levies model of rural policing. The issue of missing persons and enforced disappearances became a festering wound in the Baloch psyche. The killing of Nawab Bugti in a cave near Kohlu sparked intense violence.\nThe experienced Balochistan police chief needs full government support.\nAfter the 2008 elections, the PPP-led federal and provincial governments were unable to stop the kill-and-dump strategy. Mass graves were discovered. Human rights violations multiplied. The conversion to police jurisdiction was reversed. Following the 2013 polls, the PML-N-led government adopted a carrot-and-stick approach to the violence. The first-ever non-sardar chief minister genuinely worked for political reconciliation and met the BLA and BRA leaders in London and Geneva. His efforts were scuttled in 2015. The PTI-led government in 2018 could not change the tough security stance vis-à-vis Balochistan. Since the controversial 2024 elections, the PML-N-led federal and PPP-led provincial governments have actively supported this hard security-stance, with male and female Baloch activists convicted under draconian laws. The roads are unsafe. Trade and business are in decline. Fear rules and violence is widespread. Miscreants are active in the following districts: Turbat, Kalat, Khuzdar, Nushki, Surab, Gwadar, Mastung, Panjgur, Awaran, Kachi/Bolan, Kharan, Chaghi, Kohlu, and Washuk. That’s a huge swathe of land.\nPolice have been facing a massive challenge since the recent conversion of the entire province to police jurisdiction. The experienced CT-related, KP battle-hardened police chief of Balochistan needs full support from the federal and provincial governments in terms of human resources, infrastructure and equipment. The Zia-era model of good governance is worth consideration: give him the best officers in the ranks of SP and SSP to serve for a fixed tenure of three years. The prime minister must review his decision to depute about 20 serving military officers as district SPs in the insurgency-infested areas. This militarisation of police will be a fiasco.\nBalochistan suffers from many missed opportunities and unfulfilled promises. Addressing the crisis effectively requires a two-pronged strategy: decisively eliminating the terrorist threat while proactively addressing the grievances of the local population. As this paper rightly observed, “The long-term solution to Balochistan’s problem remains the political path.” The need for a serious political strategy cannot be ignored anymore. A viable dialogue and political process involving Baloch sub-nationalists and other key political and security stakeholders must be held. The state must also address the province’s socioeconomic problems fairly and urgently, as an entrenched feeling of alienation is driving the youth towards the terrorists. No matter how many we arrest or kill, their numbers are increasing exponentially. The only solution lies in good governance and political dialogue. Let the healing process begin with a reconciliation commission. \nThe writer is a former IG of Balochistan Police.\nPublished in Dawn, July 25th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Current Affairs",
-    "topic": "Internal Security, Insurgency, Governance, and Political Reconciliation in Balochistan",
-    "whyMatters": "This article is crucial for understanding Pakistan's internal security challenges, particularly the Balochistan insurgency, its roots, and proposed solutions. It provides specific details on terror incidents, governance models, and the political dimension necessary for comprehensive answers on provincial stability and counter-terrorism strategies. Please note: This article does NOT address the specific exam question provided about ECO and regional integration.",
-    "summary": [
-      "Balochistan is currently experiencing a severe wave of terror attacks from a dangerous nexus of ideologically different banned groups (TTP and BLA), resulting in significant casualties.",
-      "The article highlights critical security lapses, such as the Mangi Dam tragedy where 27 law enforcement personnel were killed, partly due to ammunition deficiency and lack of timely reinforcements and joint security arrangements.",
-      "It critiques past and present governance approaches, noting failures in addressing the 'kill-and-dump' strategy and human rights violations, and warns against the militarization of police in insurgency-infested areas.",
-      "The author advocates for a two-pronged strategy: decisive elimination of the terrorist threat combined with a serious political path involving dialogue, reconciliation, and urgent addressing of socio-economic problems to counter youth alienation."
-    ],
-    "facts": [
-      "More than 40 police, military, FC, and civilian casualties reported since July 5, with 121 terrorists eliminated.",
-      "27 ammunition-deficient law-enforcement personnel were kidnapped and killed at the Mangi Dam Ziarat police post.",
-      "Mangi Dam project is designed to supply fresh water to Quetta and reduce water shortage by around 20 percent.",
-      "The article mentions a suicide attack in Khuzdar where 17 kinsmen of a tribal leader were killed, and 30 injured."
-    ],
-    "academicReferences": [
-      "C. Christine Fair, \"Fighting to the End: The Pakistan Army's Way of War\" (for understanding Pakistan's security establishment and counter-insurgency doctrines).",
-      "Human Rights Watch, \"Pakistan: Balochistan Abuses Persist\" (for insights into human rights concerns, missing persons, and state actions in Balochistan).",
-      "National Internal Security Policy (NISP) of Pakistan (for the official framework and strategic approach to internal security challenges, including terrorism and insurgency)."
-    ],
-    "vocabulary": [
-      {
-        "word": "dastardly",
-        "type": "adjective",
-        "definition": "Wicked and cruel.",
-        "sentence": "The recent series of dastardly terror attacks has destabilized Balochistan."
-      },
-      {
-        "word": "nexus",
-        "type": "noun",
-        "definition": "A connection or series of connections linking two or more things.",
-        "sentence": "The article points to a dangerous nexus of ideologically different banned terrorist groups operating in the region."
-      },
-      {
-        "word": "internecine",
-        "type": "adjective",
-        "definition": "Destructive to both sides in a conflict; relating to conflict within a group or organization.",
-        "sentence": "A tribal political leader involved in internecine strife lost many kinsmen in a suicide attack."
-      },
-      {
-        "word": "draconian",
-        "type": "adjective",
-        "definition": "Excessively harsh and severe (especially laws or regulations).",
-        "sentence": "Male and female Baloch activists have been convicted under draconian laws, contributing to alienation."
-      },
-      {
-        "word": "fiasco",
-        "type": "noun",
-        "definition": "A complete failure, especially a ludicrous or humiliating one.",
-        "sentence": "The author predicts that the militarisation of police, by deputing military officers as district SPs, will be a fiasco."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the primary challenge fueling the recent violence in Balochistan?",
-        "options": [
-          "The nexus of ideologically different banned terrorist groups (TTP and BLA)",
-          "Economic downturn and lack of foreign investment",
-          "Inter-provincial water disputes",
-          "Insufficient agricultural productivity in the Shaban area"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'The nexus of ideologically different banned terrorist groups — the religiously motivated extremists of the TTP and BLA terrorists — poses a grave challenge.'"
-      },
-      {
-        "question": "Which historical governance model did the author praise for its focus on reconciliation and good governance?",
-        "options": [
-          "The PPP-led federal and provincial governments post-2008",
-          "The Zia-era martial law administration in the 1980s",
-          "The PML-N-led government's carrot-and-stick approach post-2013",
-          "The PTI-led government's tough security stance post-2018"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article notes, 'During the 1980s, under martial law, Gen Ziaul Haq focused on reconciliation and good governance.' and later suggests 'The Zia-era model of good governance is worth consideration.'"
-      },
-      {
-        "question": "What is the key concern raised by the author regarding the prime minister's decision on deputing military officers?",
-        "options": [
-          "It will improve civil-military relations.",
-          "It will lead to a more efficient police force.",
-          "It will result in the militarisation of police and be a fiasco.",
-          "It is a necessary step for counter-terrorism operations."
-        ],
-        "answerIndex": 2,
-        "explanation": "The author clearly states, 'The prime minister must review his decision to depute about 20 serving military officers as district SPs in the insurgency-infested areas. This militarisation of police will be a fiasco.'"
-      },
-      {
-        "question": "What is the two-pronged strategy proposed by the article for effectively addressing the crisis in Balochistan?",
-        "options": [
-          "Increased military operations and foreign aid.",
-          "Decisively eliminating the terrorist threat while proactively addressing local grievances.",
-          "Strict implementation of draconian laws and economic sanctions.",
-          "Mass arrests of activists and tighter border controls."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Addressing the crisis effectively requires a two-pronged strategy: decisively eliminating the terrorist threat while proactively addressing the grievances of the local population.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary cause of the current spate of violence in Balochistan, according to the article?",
-        "back": "The nexus of ideologically different banned terrorist groups, specifically the religiously motivated extremists of the TTP and BLA terrorists."
-      },
-      {
-        "front": "What critical security lapse was highlighted in the Mangi Dam Ziarat police post tragedy?",
-        "back": "The post, recently taken over from defunct levies, was not being jointly manned by the FC and police, especially despite issued threat alerts and the personnel being ammunition-deficient."
-      },
-      {
-        "front": "What is the recommended 'two-pronged strategy' for addressing the Balochistan crisis?",
-        "back": "Decisively eliminating the terrorist threat while proactively addressing the grievances of the local population through a political path, dialogue, and addressing socio-economic problems."
-      },
-      {
-        "front": "Why does the author consider the deputation of military officers as district SPs a 'fiasco'?",
-        "back": "The author believes this will lead to the 'militarisation of police', undermining effective civil policing and exacerbating the insurgency issues."
       }
     ]
   }
