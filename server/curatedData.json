@@ -1,5 +1,384 @@
 [
   {
+    "id": "curated-1788918645909-349",
+    "title": "Sugar trap\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2028296/sugar-trap",
+    "date": "2026-09-08",
+    "author": "none@none.com (Editorial)",
+    "content": "ONCE again, the government is preparing to repeat an experiment that has cost consumers dearly. The sugar industry claims a surplus of 1.03m tonnes and wants immediate export permission. The government should resist until it has independently verified that figure. It cannot let the industry set both numbers and policy. There is good reason for scepticism. The Sugar Inquiry Commission documented export subsidies, alleged supply manipulation, underreporting and heavy windfall profits. The Competition Commission found evidence of price fixing among millers and later imposed penalties. Neither inquiry produced convictions or structural reforms, and the same mills accused of manipulation are setting the surplus number the government is being asked to accept. The latest episode is instructive. The government authorised roughly 750,000 tonnes of exports after declaring domestic supplies sufficient last year. Retail prices soon crossed Rs180 per kilo, and authorities had to arrange imports. The state pockets export earnings when supplies look plentiful, spending those on imports, and makes consumers absorb the cost when calculations are wrong.\n\nThis cannot happen again. Officials must independently reconcile production, stocks, consumption, exports, next year’s expected output and grower payments at the mill level before authorising shipments. A mishandled surplus could depress cane prices and hurt farmers. An overstated one could trigger shortages, inflation and another costly round of imports. The government must guard against both, without letting the sugar lobby dictate outcomes. That requires a transparent, rules-based framework: export volumes tied to a well-defined domestic reserve, with automatic restrictions once supplies fall below that level or prices rise sharply. Stock data should be verified by an independent body, and reconciliation figures published before export permission is given. Such a system would cut political discretion and make manipulation harder to sustain. The recurring sugar crisis is a governance failure. Successive governments have bent to industry pressure instead of building rules that can withstand it. The government keeps subsidising millers only to spend scarce foreign exchange importing sugar months later, privatising the gains and socialising the losses. The question is not whether Pakistan can export another million tonnes of sugar. It is whether the state can prevent the same commodity from being exported cheaply today and imported expensively tomorrow.\n\nPublished in Dawn, September 8th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Governance and Commodity Market Challenges in Pakistan",
+    "whyMatters": "This article directly addresses a major economic challenge in Pakistan – the recurring sugar crisis – and provides concrete policy recommendations. Students can leverage its arguments and suggestions as a case study for governance failures and proposed solutions in competitive exams.",
+    "summary": [
+      "The government repeatedly authorizes sugar exports based on unverified industry claims, leading to cyclical market instability.",
+      "The sugar industry has a documented history of price fixing, supply manipulation, and generating windfall profits at the expense of consumers.",
+      "These policies result in domestic sugar shortages, escalating retail prices, and costly imports, burdening both consumers and the national exchequer.",
+      "The article advocates for a transparent, rules-based framework with independent verification of stock data and clear export triggers to prevent industry manipulation and ensure market stability."
+    ],
+    "facts": [
+      "The sugar industry claims a surplus of 1.03 million tonnes and seeks export permission.",
+      "Retail sugar prices crossed Rs180 per kilo last year after approximately 750,000 tonnes of exports were authorized.",
+      "The Competition Commission found evidence of price fixing among millers and imposed penalties."
+    ],
+    "academicReferences": [
+      "Sugar Inquiry Commission Report (2020) on alleged manipulation and windfall profits in the sugar industry.",
+      "Competition Commission of Pakistan (CCP) findings and reports on cartelization and anti-competitive practices.",
+      "Economic Survey of Pakistan (various years) for data and analysis on agricultural commodities and inflation."
+    ],
+    "vocabulary": [
+      {
+        "word": "windfall",
+        "type": "noun",
+        "definition": "An unexpected amount of money that you get, especially as a result of a sudden opportunity.",
+        "sentence": "The sugar industry accrued heavy windfall profits by manipulating supply and prices."
+      },
+      {
+        "word": "scepticism",
+        "type": "noun",
+        "definition": "A doubting attitude towards something, often indicating a need for verification.",
+        "sentence": "There is good reason for scepticism regarding the industry's claimed surplus figures, given past incidents."
+      },
+      {
+        "word": "reconcile",
+        "type": "verb",
+        "definition": "To make two different beliefs, facts, or demands agree or be possible at the same time.",
+        "sentence": "Officials must independently reconcile production, stocks, and consumption figures before authorising shipments."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary economic challenge highlighted by the recurring sugar crisis?",
+        "options": [
+          "Lack of farmer payments for sugarcane.",
+          "Insufficient export subsidies for millers.",
+          "Governance failure and industry manipulation leading to price instability.",
+          "Over-regulation of the agricultural sector."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that the recurring sugar crisis is a 'governance failure' where successive governments bend to industry pressure, leading to manipulation and price instability."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental flaw in government policy regarding the sugar industry does the article highlight?",
+        "back": "The government allows the sugar industry to set both surplus numbers and policy, without independent verification, leading to repeated crises."
+      },
+      {
+        "front": "Identify two past findings that underscore the manipulation within Pakistan's sugar industry.",
+        "back": "The Sugar Inquiry Commission documented export subsidies, alleged supply manipulation, and windfall profits, while the Competition Commission found evidence of price fixing among millers."
+      },
+      {
+        "front": "What are the dual risks the government must guard against when managing sugar supplies?",
+        "back": "Mishandled surplus (depressing cane prices for farmers) and an overstated surplus (triggering shortages, inflation, and costly imports)."
+      },
+      {
+        "front": "Outline the key components of the transparent, rules-based framework proposed by the article to prevent future sugar crises.",
+        "back": "Export volumes tied to a well-defined domestic reserve, automatic restrictions on exports below a certain supply level or price rise, independent verification of stock data, and publication of reconciliation figures."
+      }
+    ]
+  },
+  {
+    "id": "curated-1788918725669-498",
+    "title": "Redrawing the map\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2028297/redrawing-the-map",
+    "date": "2026-09-08",
+    "author": "none@none.com (Editorial)",
+    "content": "IT has been quite something to watch a whisper become, in a matter of weeks, the state’s new “number one priority”. The trigger was the interior minister’s surprising admission at the Pakistan Economic Summit in late July that the present system had “collapsed”, and that new provinces and administrative reform were therefore urgently needed.\n\nThe political earthquake was immediate. For the PPP, already fuming over the AJK election, it was an insult added to injury. The president’s abrupt departure for London has since fed a good deal of speculation. Some believe that he went to press his allies in government to drop the idea altogether. Others have pointed out that his exit echoes another, years ago, when the PPP was being asked to make choices it considered political suicide. What can be said with certainty, however, is that an impasse has been reached.\n\nThe president had met the interior minister in London. Their interaction was recorded and shown in the media. It does not seem to have gone fruitfully. On his return, the minister doubled down on the need for new administrative units. The PPP answered with a Sindh Assembly resolution rejecting new provinces, and with speeches declaring “no compromise” on the province’s geographical unity.\n\nThe Sindh Assembly resolution deserves much more attention than it received given the implications for the drive for more provinces. Under Article 239(4) of the Constitution, the limits of a province cannot be altered unless the amendment is first passed by that province’s own assembly by a two-thirds majority. Sindh seems to have made its position plain by, at least symbolically, vetoing the proposal before it arrived at its door.\n\nBefore the country is dragged through another ugly crisis, those pushing for new provinces must explain how they intend to clear the bar set by the Constitution. They should also share what the new assemblies, secretariats and offices will cost, and where the money is to come from when citizens’ own pockets are already empty. There is no question that Pakistan needs better administrative management, but the stated end of restructuring — ie, better service delivery at the grassroots — is already provided for in Article 140A, and could be achieved far more cheaply by reviving, resourcing and actually holding elections for local governments.\n\nHere, the political parties also share blame. They have spent decades hollowing out the LG system and alienating the citizenry. Any party that is unwilling to empower even a district council should not be arguing that the province is the only unit that matters. Therefore, though the LG system remains a less politically toxic option, it will only be considered an option if the political parties themselves make a renewed commitment to it. This is something they, too, must understand.\n\nPublished in Dawn, September 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Pakistan Affairs / Political Science / Governance",
+    "topic": "Provincial Reorganization and Administrative Reforms in Pakistan",
+    "whyMatters": "This article is crucial for understanding the constitutional and political challenges of provincial restructuring in Pakistan, particularly regarding Article 239(4). It also highlights the critical role and neglect of local governments as an alternative for improved service delivery.",
+    "summary": [
+      "The Interior Minister admitted the present system's collapse, advocating for new provinces and administrative reform as a top state priority.",
+      "This proposal caused a significant political backlash, especially from the PPP, who viewed it as an insult following the AJK election.",
+      "The Sindh Assembly passed a resolution rejecting new provinces, effectively using its constitutional power under Article 239(4) to veto any change to its provincial limits.",
+      "The article argues that proponents of new provinces must address the constitutional hurdle and the significant financial costs, suggesting that strengthening local governments (Article 140A) is a more viable and cost-effective alternative for better service delivery."
+    ],
+    "facts": [
+      "Interior Minister's admission at the Pakistan Economic Summit in late July regarding the system's collapse.",
+      "Article 239(4) of the Constitution mandates a two-thirds majority from a provincial assembly to alter its limits.",
+      "Article 140A of the Constitution provides for the establishment and empowerment of local governments for grassroots service delivery."
+    ],
+    "academicReferences": [
+      "Constitution of Pakistan, 1973 (specifically Articles 239(4) and 140A)",
+      "18th Amendment to the Constitution of Pakistan (for context on provincial autonomy and devolution)",
+      "National Finance Commission (NFC) Award (relevant to resource allocation and financial implications of new administrative units)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Impasse",
+        "type": "noun",
+        "definition": "A situation in which no progress is possible, especially because of disagreement; a deadlock.",
+        "sentence": "What can be said with certainty, however, is that an impasse has been reached."
+      },
+      {
+        "word": "Doubled down",
+        "type": "verb",
+        "definition": "To strengthen one's commitment to a particular strategy or opinion, typically despite encountering difficulties or opposition.",
+        "sentence": "On his return, the minister doubled down on the need for new administrative units."
+      },
+      {
+        "word": "Hollowing out",
+        "type": "verb",
+        "definition": "To remove the important or effective parts of something, leaving it weaker or less effective.",
+        "sentence": "They have spent decades hollowing out the LG system and alienating the citizenry."
+      },
+      {
+        "word": "Alienating",
+        "type": "verb",
+        "definition": "To cause (someone) to feel isolated or estranged.",
+        "sentence": "They have spent decades hollowing out the LG system and alienating the citizenry."
+      },
+      {
+        "word": "Toxic",
+        "type": "adjective",
+        "definition": "Extremely harmful or unpleasant.",
+        "sentence": "Therefore, though the LG system remains a less politically toxic option, it will only be considered an option if the political parties themselves make a renewed commitment to it."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Article 239(4) of the Constitution, what is required for altering the limits of a province?",
+        "options": [
+          "A two-thirds majority from that province's own assembly.",
+          "A simple majority in the National Assembly.",
+          "A presidential ordinance.",
+          "A national referendum."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'Under Article 239(4) of the Constitution, the limits of a province cannot be altered unless the amendment is first passed by that province’s own assembly by a two-thirds majority.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the 'trigger' for the state's new 'number one priority' regarding administrative reform?",
+        "back": "The Interior Minister's admission at the Pakistan Economic Summit in late July that the present system had 'collapsed' and new provinces/administrative reform were urgently needed."
+      },
+      {
+        "front": "Why did the Sindh Assembly's resolution rejecting new provinces receive significant attention?",
+        "back": "Because it highlighted the constitutional bar under Article 239(4), which requires a two-thirds majority from the provincial assembly itself to alter its limits, effectively providing a provincial veto."
+      },
+      {
+        "front": "What alternative solution does the article propose for achieving better service delivery at the grassroots level, instead of creating new provinces?",
+        "back": "Reviving, resourcing, and actually holding elections for local governments, as provided for in Article 140A of the Constitution."
+      },
+      {
+        "front": "What role do political parties play in the current debate regarding local governments?",
+        "back": "Political parties are blamed for decades of hollowing out the local government system, making them reluctant to empower district councils while advocating for provincial-level changes."
+      }
+    ]
+  },
+  {
+    "id": "curated-1788918814160-435",
+    "title": "Resource curse\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2028299/resource-curse",
+    "date": "2026-09-08",
+    "author": "none@none.com (Dr Raashid Wali Janjua)",
+    "content": "AFGHANISTAN is becoming a classic case of the resource curse. Riven with factional fighting and reliant on a conflict economy, the theories of the resource curse are highly applicable to Afghanistan, presenting a gloomy prognosis of its economic and political future.\n\nDespite the much-touted claims of $1 trillion in untapped mineral potential, Afghanistan has failed to realise that potential due to internecine conflict amongst various factions. On the one hand, there is a major division between the northern factions and the Interim Afghan Government, better known as the Afghan Taliban. On the other, there is an intense rivalry within the IAG between the Kandahari faction led by Mullah Hibatullah Akhundzada and the Haqqani faction based in Kabul. There are rich mineral deposits in the north and east of Afghanistan where Tajiks, Uzbeks and Hazaras mostly live. These groups resent any extraction of natural resources on their lands through IAG-sponsored projects.\n\nThe case of the Aynak copper mine offers interesting insights into the non-viability of the project. Problems include increased cost due to underground versus open-pit mining, lack of water for on-site smelting, high logistics cost for transportation of minerals away from the site, high cost of local power generation, and contentious royalty issues. The security cost due to attacks on Chinese workers has also been a dampener for investors. Deep down, the issue of internal jousting for control and royalty between the Kandahari and Haqqani factions is a major obstacle.\n\nIf a country lacks strong political institutions and a sound industrial base, and is not well integrated into the world economy, its susceptibility to the resource curse is a given. If Afghanistan starts mineral exports without functional banking and economic institutions, it runs the risk of contracting ‘Dutch disease’, in which inflation and the consequent high cost of imports nullify the export advantages, besides discouraging investments in non-resource sectors. Another downside of the resource economy is the risk of encouraging authoritarianism.\n\nInfighting prevents Afghanistan from realising its mineral potential.\n\nThe worst impact of the resource curse is the prolongation of internal conflicts due to the ability of criminal gangs and militant factions to earn rents through resource exports and to use those for the continuance of conflict.\n\nThere are terrorist groups in Afghanistan, such as IS-K, Al Qaeda, ETIM, IMU and TTP, that are part of the internal and external conflict dynamics of the country. If these terrorist entities are in an ‘entente cordiale’ with the IAG, then they are also likely to stake a claim to Afghanistan’s mineral resources and use the income to consolidate their hold over the illicit Afghan economy. The internal conflict mosaic of Afghanistan also makes the actualisation of mineral resources extremely difficult as involvement in the extraction business by foreign companies might attract international censure along the lines of UNSC Resolution 1173.\n\nThe real fight over $1tr in mineral reser­ves is presently between the Kandahari and Haqqani factions of the IAG. Both are competing not only in a military capacity but also in resource mobilisation, as a result of which the mineral-rich provinces, largely inhabited by non-Pakhtun communities, bear the environmental, social and economic costs while deriving limited benefit from resource extraction. Major mineral resources are found in Hazarajat (Bamiyan, Daykundi — copper, coal), the north (Badakhshan — gems, lapis; Balkh/Sar-e Pol — gas, coal), and the east (Nangarhar, Logar — copper, gems, jade).\n\nThough political power lies with the Kandahari faction, it was the business-savvy Haqqani faction based in the east that, after 2021, controlled customs, ports and the passport directorate, through which a huge share of state revenue flows. The Kandahari faction is now pushing back against that control by moving Haqqani-aligned officials out of customs and ports, replacing them with its own loyalists to wrest control of the most lucrative revenue stream in the country.\n\nThe tense stand-off between the two factions continues as Kandahar deploys troops in Badakhshan to assert the central government’s authority while the Haqqanis still manage to divert mining revenue away from mining sites in the east. As for the people, they lose either way. Mining under this system has promoted child labour, environmental destruction, and forced displacement of proximate communities. The extraction happens on their land, the profits leave the province, and neither faction is accountable to them.\n\nPoor governance, non-existent institutions, terrorism, and a conflict economy have ensured that Afghanistan’s mineral resources have become a resource curse for that country.\n\nPublished in Dawn, September 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "International Relations / Current Affairs / Economics / Governance and Public Policy",
+    "topic": "The Resource Curse in Afghanistan: Economic and Geopolitical Implications",
+    "whyMatters": "This article offers a critical case study of the 'resource curse' theory, explaining its devastating impact on state stability and economic development. It provides specific examples and theoretical linkages essential for analyzing fragile states and conflict economies in examinations.",
+    "summary": [
+      "Afghanistan exemplifies the 'resource curse' due to intense internal factional conflicts, which prevent the realization of its estimated $1 trillion mineral potential.",
+      "The country's lack of strong political institutions and a sound industrial base makes it susceptible to economic pitfalls like 'Dutch disease' and increased authoritarianism, even if mineral exports commence.",
+      "The resource curse prolongs internal conflicts by allowing criminal gangs and militant factions, including various terrorist groups, to derive rents from resource exports to fund their operations.",
+      "A major power struggle between the Kandahari and Haqqani factions for control over lucrative revenue streams from customs and mining exacerbates poor governance and imposes severe environmental and social costs on local communities."
+    ],
+    "facts": [
+      "Afghanistan possesses an estimated $1 trillion in untapped mineral potential.",
+      "The Aynak copper mine faces challenges including high costs for underground mining, lack of water, high logistics and power generation costs, and contentious royalty and security issues.",
+      "Major mineral resources are found in Hazarajat (copper, coal), the north (gems, lapis, gas, coal), and the east (copper, gems, jade)."
+    ],
+    "academicReferences": [
+      "Richard Auty's 'Resource Curse Theory' (e.g., 'Sustaining Development in Mineral Economies')",
+      "Philippe Le Billon's analysis of 'Conflict Economies' (e.g., 'Wars of Plunder: The Economics of Civil Conflict')",
+      "W. Max Corden's 'Dutch Disease' concept (e.g., 'Booming Sector and Dutch Disease Economics: A Survey')"
+    ],
+    "vocabulary": [
+      {
+        "word": "Riven",
+        "type": "adjective",
+        "definition": "split apart violently; torn asunder.",
+        "sentence": "The country remains *riven* with factional fighting, hindering any progress towards stability."
+      },
+      {
+        "word": "Internecine",
+        "type": "adjective",
+        "definition": "destructive to both sides in a conflict.",
+        "sentence": "The *internecine* conflict among various factions prevents Afghanistan from realizing its economic potential."
+      },
+      {
+        "word": "Prognosis",
+        "type": "noun",
+        "definition": "a forecast of the probable course and outcome of a situation.",
+        "sentence": "The theories of the resource curse present a gloomy *prognosis* for Afghanistan's economic future."
+      },
+      {
+        "word": "Entente cordiale",
+        "type": "noun",
+        "definition": "a friendly understanding or informal alliance between states or groups.",
+        "sentence": "If terrorist entities are in an *entente cordiale* with the IAG, they are likely to claim mineral resources."
+      },
+      {
+        "word": "Proximate",
+        "type": "adjective",
+        "definition": "closest in relationship or position; immediate.",
+        "sentence": "Mining has led to forced displacement of *proximate* communities, who derive limited benefits."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is one of the primary reasons Afghanistan has failed to realize its mineral potential despite vast reserves?",
+        "options": [
+          "A) Lack of international investment",
+          "B) Insufficient geological surveys",
+          "C) Internecine conflict among various factions",
+          "D) Absence of advanced mining technology"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Despite the much-touted claims of $1 trillion in untapped mineral potential, Afghanistan has failed to realise that potential due to internecine conflict amongst various factions.'"
+      },
+      {
+        "question": "Which economic phenomenon is Afghanistan at risk of contracting if it begins mineral exports without functional banking and economic institutions?",
+        "options": [
+          "A) Stagflation",
+          "B) Dutch disease",
+          "C) Hyperinflation",
+          "D) Balance of payments crisis"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article warns, 'If Afghanistan starts mineral exports without functional banking and economic institutions, it runs the risk of contracting ‘Dutch disease’.'"
+      },
+      {
+        "question": "What are the major mineral-rich regions in Afghanistan mentioned in the article where significant resources are found?",
+        "options": [
+          "A) Kandahar, Herat, Ghazni",
+          "B) Hazarajat, the North, and the East",
+          "C) Farah, Nimruz, Helmand",
+          "D) Panjshir, Ghor, Khost"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Major mineral resources are found in Hazarajat (Bamiyan, Daykundi — copper, coal), the north (Badakhshan — gems, lapis; Balkh/Sar-e Pol — gas, coal), and the east (Nangarhar, Logar — copper, gems, jade).'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does internal jousting between the Kandahari and Haqqani factions contribute to the non-viability of projects like the Aynak copper mine?",
+        "back": "Internal jousting over control and royalty between the Kandahari and Haqqani factions significantly increases security costs and complicates royalty issues, acting as a major obstacle for investors and project viability."
+      },
+      {
+        "front": "Explain the concept of 'Dutch disease' in the context of Afghanistan's potential mineral exports.",
+        "back": "'Dutch disease' in Afghanistan would involve inflation and high import costs nullifying export advantages and discouraging investment in non-resource sectors, if mineral exports commence without robust banking and economic institutions."
+      },
+      {
+        "front": "Besides economic consequences, what negative impact does the resource curse have on internal conflicts in Afghanistan?",
+        "back": "The resource curse prolongs internal conflicts by enabling criminal gangs and militant factions, including terrorist groups like IS-K and Al Qaeda, to earn rents from resource exports and use these funds to sustain their conflict activities."
+      },
+      {
+        "front": "What are the socio-environmental consequences faced by local communities in Afghanistan's mineral-rich provinces due to the current system of extraction?",
+        "back": "Local communities in mineral-rich provinces experience child labor, environmental destruction, and forced displacement, bearing significant costs while deriving limited benefits, with neither faction accountable to them."
+      }
+    ]
+  },
+  {
+    "id": "curated-1788918992956-951",
+    "title": "Anti-drone division\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2028295/anti-drone-division",
+    "date": "2026-09-08",
+    "author": "none@none.com (Editorial)",
+    "content": "THE ongoing wave of terrorism in the country has resulted in an unacceptably high number of casualties amongst security men, both police officers and military personnel. Despite the courage of security men, terrorists have often exacted a heavy human toll by adapting and altering their tactics on the battlefield. But now, a new unit launched by KP Police seems to be turning the tide by using technology to trace and neutralise terrorists before they can strike. The Unmanned Aerial Vehicle Division has been successful in lowering the threat level. Terrorist groups had been using drones, specifically quadcopters, to monitor security personnel and drop explosives. Police officials say that terrorist groups had seized modern equipment left behind by exiting Nato forces in Afghanistan, while hostile foreign actors were also said to be providing drone technology to violent elements. While the law enforcers had used anti-drone systems previously, a dedicated unit has had a visible effect on reducing terrorist attacks, and keeping tabs on terrorists in KP’s affected areas.\n\nPolice forces in other provinces, particularly Balochistan, which also suffers from a terrorist insurgency, should consider deploying similar units. For long, experts have said that police forces, which are on the front line of the battle against terrorists, must be given the requisite equipment and training to fight violent groups, and stay one step ahead of them. The UAV Division is one example of how the state can deploy the latest technological advances to quell the militant threat, and prevent casualties within the security forces by pre-empting the terrorists. As the KP police chief told this paper, there is “no other option … but technological advancement” to defeat terrorism. When terrorists use the latest technology, the state cannot expect to have the upper hand by using equipment and tactics that are decades-old, and suited to a very different battlespace.\n\nPublished in Dawn, September 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "Pakistan Affairs / Current Affairs / National Security",
+    "topic": "Internal Security: Counter-Terrorism Strategies and Technological Integration",
+    "whyMatters": "This article offers a contemporary case study of how technological innovation is being deployed to counter terrorism in Pakistan, providing a critical example for essays on internal security challenges. It highlights the evolving nature of warfare and the necessity for state forces to adapt by adopting advanced solutions like anti-drone units.",
+    "summary": [
+      "A recent surge in terrorism has led to significant casualties among security personnel in Pakistan.",
+      "The KP Police's new Unmanned Aerial Vehicle (UAV) Division has successfully deployed technology to trace and neutralize terrorists, visibly reducing attacks.",
+      "Terrorists are leveraging modern equipment, including quadcopters, sourced from NATO forces' withdrawal from Afghanistan and hostile foreign actors.",
+      "The article advocates for other provinces, particularly Balochistan, to adopt similar technology-driven anti-drone units to stay ahead of evolving militant threats."
+    ],
+    "facts": [
+      "The KP Police launched a new 'Unmanned Aerial Vehicle Division' to combat terrorism.",
+      "Terrorist groups were using drones, specifically quadcopters, to monitor security personnel and drop explosives.",
+      "Terrorists acquired modern equipment left behind by exiting NATO forces in Afghanistan, and also received technology from hostile foreign actors."
+    ],
+    "academicReferences": [
+      "National Internal Security Policy (NISP) of Pakistan (e.g., 2014-2018 or updated versions)",
+      "Concept of Asymmetric Warfare / Hybrid Warfare in the context of counter-terrorism",
+      "Reports by Pakistan Institute for Peace Studies (PIPS) on internal security trends"
+    ],
+    "vocabulary": [
+      {
+        "word": "Exacted",
+        "type": "verb",
+        "definition": "To demand and obtain something from someone.",
+        "sentence": "The ongoing wave of terrorism has *exacted* a heavy human toll on security forces."
+      },
+      {
+        "word": "Neutralise",
+        "type": "verb",
+        "definition": "To make something ineffective or harmless.",
+        "sentence": "The new unit uses technology to trace and *neutralise* terrorists before they can strike."
+      },
+      {
+        "word": "Quell",
+        "type": "verb",
+        "definition": "To put an end to something, typically by force.",
+        "sentence": "The state can deploy technological advances to *quell* the militant threat and prevent casualties."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason the article advocates for technological advancement in counter-terrorism?",
+        "options": [
+          "To match and overcome the technological sophistication of terrorists.",
+          "To reduce the financial cost of traditional counter-terrorism operations.",
+          "To increase international cooperation against terrorism.",
+          "To enhance the public image of law enforcement agencies."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'When terrorists use the latest technology, the state cannot expect to have the upper hand by using equipment and tactics that are decades-old,' emphasizing the need to technologically match and surpass terrorists."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What challenge has the KP Police's UAV Division primarily addressed in counter-terrorism efforts?",
+        "back": "The division has addressed the challenge of terrorists using drones (quadcopters) to monitor security personnel and deploy explosives, successfully lowering the threat level."
+      },
+      {
+        "front": "According to the article, how did terrorist groups acquire modern drone technology?",
+        "back": "Terrorist groups acquired modern equipment left behind by exiting NATO forces in Afghanistan and also received drone technology from hostile foreign actors."
+      },
+      {
+        "front": "What key recommendation does the article provide for other provinces battling insurgency, particularly Balochistan?",
+        "back": "The article recommends that other provinces consider deploying similar dedicated anti-drone units to effectively counter terrorist tactics."
+      },
+      {
+        "front": "What did the KP police chief emphasize as the 'only option' to defeat terrorism?",
+        "back": "The KP police chief emphasized that 'technological advancement' is the only option to defeat terrorism when terrorists are also employing the latest technology."
+      }
+    ]
+  },
+  {
     "id": "curated-1788831732663-16",
     "title": "International law prevails\n",
     "source": "Dawn",
@@ -9864,393 +10243,6 @@
       {
         "front": "What specific conditions and external pressure does the article deem necessary for a peaceful resolution and the potential establishment of a Palestinian state?",
         "back": "The article calls for a clear pathway for a Palestinian state, an end to Israeli brutalities, complete withdrawal from all occupied territories, and direct pressure from US President Trump and his Board of Peace on Israel to act."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785893256043-628",
-    "title": "Pakistan needs more provinces and strong local governments",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2621882/pakistan-needs-more-provinces-and-strong-local-governments",
-    "date": "2026-08-03",
-    "author": "\n\t\t\t\tWebdesk\n\t\t\t",
-    "content": "Throughout the world, successful federations have consistently recognised that as populations grow and economies become more complex, governments must move closer to the people. Decentralisation has become one of the defining features of effective governance. Nations that have periodically reorganised their administrative structures have generally experienced faster economic growth, better public services, stronger institutions and greater political stability.\n\nThe discussion on creating new provinces in Pakistan has unfortunately remained trapped within political and ethnic narratives. Such an approach obscures the real issue. Administrative reorganisation should never be viewed as a concession to regional politics; rather, it should be regarded as a constitutional instrument for improving governance and ensuring equitable development. Provinces should neither be created nor opposed on ethnic, linguistic or political grounds. Instead, objective criteria such as population, geographical size, administrative workload, accessibility, economic viability, infrastructure needs and national security should guide the process.\n\nNo major country has achieved sustained economic growth, administrative efficiency or political stability through excessive centralisation. Successful nations continuously adapt their administrative structures to changing demographic, economic and security realities. Administrative reform is therefore not an event but a continuous national process.\n\nPakistan, unfortunately, has moved in the opposite direction. Provincial governments have become increasingly centralised, while local governments remain financially weak and administratively dependent. Decision-making is concentrated in provincial capitals, leaving remote districts with limited influence over development priorities. The result has been uneven infrastructure development, delayed public services, weak municipal administration, inadequate policing and growing perceptions of regional inequality. These are not failures of democracy; they are failures of administrative design.\n\nThe solution lies not merely in creating additional provinces but in adopting a comprehensive national policy of decentralisation based upon constitutional principles, objective benchmarks and international best practices. Pakistan requires an administrative structure that is dynamic, evidence-based and capable of evolving with future demographic and economic changes rather than remaining frozen in the institutional framework of the past. Administrative reorganisation must be guided by objective constitutional principles rather than political expediency or ethnic considerations. A modern federation should periodically review its administrative structure to ensure that governance keeps pace with changing demographic, economic and security realities.\n\nPakistan therefore needs a permanent institutional mechanism to undertake this responsibility. Parliament should establish a National Commission on Administrative Reforms and Decentralisation through an Act of Parliament. The Commission should comprise constitutional experts, economists, public administration specialists, demographers, finance experts, urban planners, representatives of the armed forces and law enforcement agencies, members of the Planning Commission and representatives of all federating units. It should function as an independent constitutional policy body, reviewing Pakistan's administrative structure after every national census and recommending reforms based upon objective benchmarks rather than political pressures.\n\nThe Commission should establish measurable national standards, including population size, geographical area, administrative workload, distance from the provincial capital, accessibility of public services, economic sustainability, infrastructure requirements, law and order considerations, disaster management capacity, human development indicators and future population growth. Such an evidence-based approach would depoliticise the debate and ensure that administrative reforms serve the national interest rather than partisan interests.\n\nOne of the most important constitutional reforms requiring serious national discussion is the amendment of Article 239 of the Constitution. Under the existing constitutional framework, altering provincial boundaries is an extremely difficult process. While these constitutional safeguards were intended to protect the federating units, they have also made necessary administrative reforms almost impossible. Pakistan should therefore consider a constitutional amendment providing that, after laying down clear constitutional principles and safeguards, the establishment, merger or reorganisation of provinces may be undertaken by Parliament through an Act passed by a simple majority on the recommendations of the National Commission. Such a reform would enable the federation to respond to changing administrative realities through democratic parliamentary decision-making.\n\nAdministrative reforms should not stop at the provincial level. The greatest weakness in Pakistan's governance structure lies in the persistent neglect of local governments. Although Article 140A of the Constitution requires elected local governments with political, administrative and financial responsibility, this constitutional vision has never been fully realised.\n\nNo country has achieved efficient governance without empowering local governments. Pakistan must adopt a new model of fiscal decentralisation. Financial devolution should accompany administrative devolution. Local governments should receive predictable and constitutionally protected transfers under a transparent statutory formula linked to population, area, poverty levels, infrastructure deficits and development needs. District governments, metropolitan corporations, municipal committees and village councils should be empowered to plan and implement education, primary healthcare, sanitation, water supply, waste management, local roads, urban transport, housing regulation, parks, environmental protection and community development.\n\nAdministrative reorganisation should also become a continuous constitutional process rather than a one-time political exercise. After every national census, the proposed National Commission should assess whether existing provinces, divisions, districts and local governments continue to meet national benchmarks. Where necessary, Parliament should be empowered to undertake further administrative restructuring in accordance with objective constitutional criteria. Such a dynamic system would ensure that Pakistan's administrative architecture evolves alongside demographic and economic changes.\n\nPakistan's founders envisioned a federation founded upon justice, participation and efficient administration. Those constitutional aspirations require constant institutional renewal. The challenges of the 21st century cannot be addressed through administrative arrangements inherited from another era. Governance must evolve with the needs of the people. The real strength of a federation lies not in concentrating power but in distributing authority wisely, ensuring that every citizen enjoys equal access to public institutions and equal opportunities for development.",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 79,
-    "paper": "Pakistan Affairs / Public Administration / Governance",
-    "topic": "Administrative Reforms, Decentralization, and Local Governance in Pakistan",
-    "whyMatters": "This article offers a critical analysis of Pakistan's centralized administrative structure, highlighting the need for comprehensive decentralization and stronger local governments. It provides policy recommendations and constitutional insights crucial for understanding governance challenges and potential solutions for competitive examinations.",
-    "summary": [
-      "Successful federations worldwide embrace decentralisation for economic growth, efficient public services, stronger institutions, and greater political stability, continuously adapting administrative structures to changing realities.",
-      "Pakistan suffers from excessive centralisation, with provincial governments concentrating power and local governments remaining financially weak and administratively dependent, leading to uneven development and inadequate public services.",
-      "Administrative reorganisation, including the creation of new provinces, should be guided by objective criteria such as population, geographical size, and economic viability, rather than political expediency or ethnic narratives.",
-      "A comprehensive national policy of continuous decentralisation is required, involving a National Commission on Administrative Reforms, constitutional amendments (e.g., Article 239, 140A), and fiscal devolution to empower local governments at all levels."
-    ],
-    "facts": [
-      "Article 239 of the Constitution currently makes altering provincial boundaries an extremely difficult process, hindering necessary administrative reforms.",
-      "Article 140A of the Constitution requires elected local governments with political, administrative, and financial responsibility, a vision that has never been fully realised in Pakistan.",
-      "Pakistan's provincial governments have become increasingly centralised, concentrating decision-making in provincial capitals and leaving remote districts with limited influence."
-    ],
-    "academicReferences": [
-      "18th Constitutional Amendment of Pakistan (2010) - Enhanced provincial autonomy, yet highlights challenges of further decentralization.",
-      "National Finance Commission (NFC) Award - Mechanism for fiscal distribution, relevant to financial decentralization and provincial-local government transfers.",
-      "UN Sustainable Development Goal 16: Peace, Justice, and Strong Institutions - Emphasizes effective, accountable, and inclusive institutions at all levels, aligning with decentralization goals."
-    ],
-    "vocabulary": [
-      {
-        "word": "Federations",
-        "type": "noun",
-        "definition": "A group of states or provinces with a central government but independence in internal affairs.",
-        "sentence": "Throughout the world, successful federations have consistently recognised that governments must move closer to the people."
-      },
-      {
-        "word": "Decentralisation",
-        "type": "noun",
-        "definition": "The transfer of authority and power from central to local government or other local bodies.",
-        "sentence": "Decentralisation has become one of the defining features of effective governance."
-      },
-      {
-        "word": "Expediency",
-        "type": "noun",
-        "definition": "The quality of being convenient and practical, often at the expense of fairness or principle.",
-        "sentence": "Administrative reorganisation must be guided by objective constitutional principles rather than political expediency or ethnic considerations."
-      },
-      {
-        "word": "Devolution",
-        "type": "noun",
-        "definition": "The transfer or delegation of power to a lower level, especially by central government to local or regional administration.",
-        "sentence": "Financial devolution should accompany administrative devolution to empower local governments."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is identified as the 'greatest weakness' in Pakistan's governance structure?",
-        "options": [
-          "Excessive foreign aid dependency",
-          "Persistent neglect of local governments",
-          "Frequent changes in federal leadership",
-          "Over-reliance on military administration"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'The greatest weakness in Pakistan's governance structure lies in the persistent neglect of local governments,' despite Article 140A."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core argument for successful federations needing to continuously reorganise their administrative structures?",
-        "back": "As populations grow and economies become more complex, governments must move closer to the people, and decentralisation becomes a defining feature of effective governance."
-      },
-      {
-        "front": "What key issue does the article highlight regarding Pakistan's current administrative design and its impact?",
-        "back": "Excessive centralisation and weak local governments have led to uneven infrastructure development, delayed public services, weak municipal administration, and growing perceptions of regional inequality."
-      },
-      {
-        "front": "What specific constitutional amendment is suggested by the author to enable necessary administrative reforms regarding provincial boundaries?",
-        "back": "An amendment to Article 239 of the Constitution, allowing Parliament to establish, merge, or reorganise provinces by a simple majority based on the recommendations of a National Commission."
-      },
-      {
-        "front": "Beyond administrative decentralization, what crucial accompanying reform does the article advocate for empowering local governments?",
-        "back": "Fiscal decentralisation, where local governments receive predictable and constitutionally protected financial transfers under a transparent statutory formula."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785720456097-793",
-    "title": "Water coercion\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020069/water-coercion",
-    "date": "2026-08-02",
-    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
-    "content": "THAT India decided to suspend the Indus Waters Treaty (IWT) 65 years after its signing has added another polemic to the turbulent relations between India and Pakistan. India’s decision came a day after the Pahalgam terrorist incident in India-occupied Kashmir. India blamed the incident on Pakistan, which demanded evidence and called for an independent investigation. Two days after the incident, the Indian minister for water resources, C.R. Patil, threatened that “not a single drop” of water would flow towards Pakistan. Ironically, while India cries foul, it is working actively to perpetuate proxy terrorism in Pakistan through the TTP and BLA.\nThe Narendra Modi government regards the IWT as historical injustice to India. Speaking to the Indian parliament in July 2025, Prime Minister Modi stated that holding the IWT in abeyance has rectified a “big blunder” committed by Jawaharlal Nehru. The argument is that the IWT gave Pakistan nearly 80 per cent of the Indus river system’s flows. Modi argued that India derived its identity from the Indus, but that Nehru and the Congress had allowed the World Bank to decide on the sharing of its waters. India’s leadership conveniently overlooks the fact that India receives 100pc of the waters of the three eastern rivers and is legally permitted to use 20pc of the water of the western rivers for irrigation, power generation and transport.\nIndian thought circles are now weaving a narrative based on three elements: (i) IWT was an unequal bargain that must now be rectified; (ii) Pakistan’s insistence on treaty procedures was an impediment to India’s development projects that could benefit Kashmiris; (iii) Indian projects on the western rivers would not use more than the treaty-permitted 3.6 MAF (this cannot be verified as India is withholding information and has made the Indus Water Commission dysfunctional); and (iv) IWT should be renegotiated to account for demographic and environmental changes that have occurred since 1960.\nThis narrative is designed to take the international community’s attention away from India’s violation of international law as the IWT’s unilateral suspension isn’t allowed by the treaty. Besides, usurping the water rights of the lower riparian goes against the established norms of water sharing. Behind the façade of this narrative, India has started work on multiple dams, mostly on the Chenab river, and inter-basin transfers such as Chenab-Beas tunnel.\nIndia can manipulate flows to hurt the sowing season in Pakistan.\nPakistan’s canal system works on the basis of predictable water flows. Given that India is building several dams and is not providing timely information, even a temporary reduction in flows during the sowing season can have a disastrous effect on Pakistan’s agriculture. That is why Pakistan is so concerned about Indian attempts to build these dams along with withholding information on water flows.\nSo, what options does Pakistan have to ensure its water security? An obvious one is to increase its diplomatic outreach so that the world understands that not only do India’s actions violate its legal obligations, they also threaten the lives and livelihoods of millions of Pakistanis dependent on the waters of the Indus basin. However, since the world order is in disarray and the prevailing global geopolitics is chaotic, India doesn’t seem to care much for diplomatic pressure. Legally, Pakistan’s case has been endorsed by the Hague-based Court of Arbitration, which has ruled that India’s attempt to place the IWT in abeyance has no legal basis and that India must ensure the uninterrupted flow of the western rivers. How­e­ver, India blata­n­tly rej­ected the awards. That bri­ngs into play the military option. Wars are a costly business, pa­­-r­ticularly bet­ween two nuclear-arm­­ed neighbo­urs. India needs to know that it must not test Pa­-kistan’s patience lest both countries end up in a disastrous situation.\nSome experts say that India will not be able to steal more water because of the limitations of the hilly terrain, particularly in the case of the Indus. If it could have stolen, it would have certainly done so in the past 65 years. However, this view does not take into account regional geopolitics, which has driven India’s decision to suspend the treaty. While it is true that geography will not permit India to stop Pakistan’s share of water, it can manipulate flows to hurt the sowing season in the country. A dedicated Pakistan-India backchannel is necessary to resolve the deadlock before disaster strikes. In a package approach, India could restore the treaty while Pakistan accepts the negotiation of an addendum to the IWT on demographic and environmental changes. Pakistan should also work harder towards more efficient use of the water it receives and bolster its storage capacity.\nThe writer is chairman, Sanober Institute, and former foreign secretary of Pakistan.\nPublished in Dawn, August 2nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-IWT",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Indus Waters Treaty (IWT) and Pakistan-India Relations",
-    "whyMatters": "This article provides a contemporary and critical perspective on the Indus Waters Treaty, detailing India's unilateral actions and their implications for Pakistan. It offers specific arguments, legal challenges, and potential solutions crucial for analyzing the treaty's impact on bilateral relations and water distribution for competitive exams.",
-    "summary": [
-      "India unilaterally suspended the Indus Waters Treaty (IWT) in 2025, citing historical injustice, terrorist incidents, and development impediments, despite the treaty not allowing such action.",
-      "India's narrative frames the IWT as an unequal bargain, disregarding its existing rights to eastern rivers and 20% of western river waters, while simultaneously withholding information and making the Indus Water Commission dysfunctional.",
-      "Pakistan faces significant threats from India's dam construction and flow manipulation, particularly impacting its agriculture and water security due to the predictable nature of its canal system.",
-      "Pakistan's options include diplomatic outreach, leveraging international legal rulings (like the Hague's Court of Arbitration), considering a costly military option, or pursuing a backchannel 'package approach' to renegotiate addendums and enhance internal water efficiency."
-    ],
-    "facts": [
-      "IWT was signed 65 years prior to its suspension (i.e., in 1960).",
-      "India claims IWT gave Pakistan nearly 80% of the Indus river system's flows, but it receives 100% of eastern river waters and is legally allowed 20% from western rivers.",
-      "India's projects on western rivers are permitted to use up to 3.6 MAF, though this is now unverifiable due to withheld information.",
-      "The Hague-based Court of Arbitration has ruled that India's attempt to place the IWT in abeyance has no legal basis."
-    ],
-    "academicReferences": [
-      "The Indus Waters Treaty (IWT) 1960",
-      "Rulings of the Hague-based Court of Arbitration regarding IWT disputes",
-      "C.R. Patil's statement as Indian Minister for Water Resources (2025)",
-      "Works on 'Water Geopolitics' in South Asia"
-    ],
-    "vocabulary": [
-      {
-        "word": "Polemic",
-        "type": "noun",
-        "definition": "A strong verbal or written attack on someone or something.",
-        "sentence": "That India decided to suspend the Indus Waters Treaty (IWT) 65 years after its signing has added another polemic to the turbulent relations between India and Pakistan."
-      },
-      {
-        "word": "Abeyance",
-        "type": "noun",
-        "definition": "A state of temporary disuse or suspension.",
-        "sentence": "Prime Minister Modi stated that holding the IWT in abeyance has rectified a 'big blunder' committed by Jawaharlal Nehru."
-      },
-      {
-        "word": "Usurping",
-        "type": "verb",
-        "definition": "Taking a position of power or importance illegally or by force.",
-        "sentence": "Besides, usurping the water rights of the lower riparian goes against the established norms of water sharing."
-      },
-      {
-        "word": "Blatantly",
-        "type": "adverb",
-        "definition": "In an open and unashamed manner.",
-        "sentence": "How­e­ver, India blata­n­tly rej­ected the awards."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT cited by India as a reason for suspending the IWT?",
-        "options": [
-          "Historical injustice of the treaty",
-          "Impediment to India's development projects",
-          "Pakistan's violation of previous treaty agreements",
-          "Demographic and environmental changes since 1960"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions historical injustice, development impediments, and demographic/environmental changes as India's narrative elements, but not Pakistan's violation of previous treaty agreements."
-      },
-      {
-        "question": "What is Pakistan's primary concern regarding India's dam construction and withholding of water flow information?",
-        "options": [
-          "Loss of hydropower generation capacity",
-          "Disastrous effects on Pakistan's agriculture during sowing seasons",
-          "Increased risk of floods in lower riparian areas",
-          "Reduced navigability of rivers for trade"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'even a temporary reduction in flows during the sowing season can have a disastrous effect on Pakistan’s agriculture.'"
-      },
-      {
-        "question": "What is the international legal stance on India's unilateral suspension of the IWT, according to the article?",
-        "options": [
-          "It is fully permissible under international law due to security concerns.",
-          "The treaty allows for unilateral suspension under specific circumstances.",
-          "The Hague-based Court of Arbitration has ruled it has no legal basis.",
-          "The World Bank has endorsed India's decision to suspend the treaty."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that 'the Hague-based Court of Arbitration, which has ruled that India’s attempt to place the IWT in abeyance has no legal basis.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is India's primary historical justification, as mentioned by PM Modi, for suspending the Indus Waters Treaty (IWT)?",
-        "back": "PM Modi regards the IWT as a 'big blunder' and historical injustice, claiming it gave Pakistan nearly 80% of the Indus river system's flows and rectified by holding it in abeyance."
-      },
-      {
-        "front": "How does India's manipulation of water flows specifically threaten Pakistan, beyond just reducing overall water share?",
-        "back": "India can manipulate flows to hurt Pakistan's critical sowing season, causing disastrous effects on its agriculture due to the reliance on predictable water flows for its canal system."
-      },
-      {
-        "front": "What legal action has Pakistan taken regarding India's IWT suspension, and what was the outcome?",
-        "back": "Pakistan's case was endorsed by the Hague-based Court of Arbitration, which ruled that India's attempt to place the IWT in abeyance has no legal basis and mandated uninterrupted flow of western rivers. However, India blatantly rejected these awards."
-      },
-      {
-        "front": "What 'package approach' is suggested as a potential diplomatic solution to the IWT deadlock?",
-        "back": "The suggested 'package approach' involves India restoring the treaty while Pakistan accepts the negotiation of an addendum to the IWT addressing demographic and environmental changes, alongside Pakistan working on efficient water use and storage capacity."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785720819660-454",
-    "title": "Rethinking the auto policy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020071/rethinking-the-auto-policy",
-    "date": "2026-08-02",
-    "author": "none@none.com (Ehsan Malik)",
-    "content": "PAKISTAN’S automobile industry captures the country’s industrial policy dilemma well. As the government considers lower tariffs, manufacturers warn of plant closures, job losses and wasted investment. Critics argue that, despite more than 40 years of protection, consumers until recently faced high prices and limited choice, while exports remained negligible.\nBoth sides have a point. But the debate is framed wrongly. The question is: can the country’s auto industry build capabilities that can compete in regional and global value chains?\nOne principle should guide policy. Except in strategically important sectors, any industry seeking protection must offer consumers better value and move towards international competitiveness. Protection should be a runway, not a refuge.\n    \nThe auto industry deserves credit. It has built assemblers and component suppliers, developed engineering skills, invested in vendors and created skilled jobs despite expensive energy, costly finance, policy uncertainty, cumbersome regulation and weak logistics. But the main goals — saving foreign exchange through localisation and creating large-scale employment — were flawed from the start.\nCan Pakistan’s auto industry build capabilities that can compete in regional and global value chains?\nThe first misconception was localisation. Auto policy assumed that making more components at home would ease pressure on the external account. That ignored how modern vehicles are made. Engines, transmissions, fuel injection systems, electronic controls and software carry much of a vehicle’s value. Producing them competitively requires deep upstream capacity in automotive-grade steel, petrochemicals, specialised alloys, precision engineering and electronics. Pakistan never built those foundations at scale, so localisation became a numerical target rather than a measure of real competitiveness.\nLocalisation numbers are also misleading. They count components assembled domestically, not domestic value added. Seats, batteries, tyres, wiring harnesses, glass, plastic mouldings and metal stampings may be made locally, but many depend on imported inputs and moulds and use energy generated from imported fuels. A 50 to 60 percent localisation rate can therefore produce far smaller foreign exchange savings than advertised. Better metrics would track net domestic value addition, foreign exchange displacement and exports of locally manufactured components.\nThe second misconception was jobs. Automobile manufacturing is capital-intensive. It relies heavily on automation because quality and precision leave little room for manual shortcuts. Pakistan’s largest assembler employs fewer than 2,500 people directly, and the three largest together less than 6,000. Suppliers add jobs, but the direct workforce remains small relative to the protection received. Dealerships, distribution and repair facilities would exist even if vehicles were imported fully built.\nThe third misconception was scale. Competitive automobile manufacturing depends on large volumes that spread fixed costs across millions of vehicles. Pakistan’s market, at fewer than 300,000 vehicles a year, is too small to support that model on its own. Policy made matters worse by treating motor vehicles as luxury goods and taxing demand down. One arm of government protected local assembly while another choked the scale needed to make it efficient. The domestic consumer paid for both.\nNone of this negates the industry’s achievements. It shows that policy was flawed and measured success against goals the industry’s structure made difficult, and at times impossible, to meet. Technology has now made the old debate even less useful. The global industry is moving from internal combustion engines to hybrids and EVs, changing where value is created. EVs eliminate or simplify many components around which Pakistan’s localisation strategy has traditionally been built. Engines, multi-speed gearboxes, exhaust systems, catalytic converters and fuel injection technologies become less important. Value shifts instead to batteries, electric motors, power electronics, battery management systems, semiconductors, sensors and software.\nPakistan must stop designing industrial policy around yesterday’s technologies. Hybrids are the practical bridge: they cut fuel use and emissions without depending on charging infrastructure or an electricity network not yet ready for mass EV adoption. The policy goal should no longer be higher localisation percentages. It should be higher domestic value addition, exports, lower environmental impact and deeper technological capability. Incentives should favour battery assembly, electric motors, power electronics, charging equipment, automotive software, precision engineering and advanced manufacturing. Pakistan’s IT sector can support connected vehicles, while commercially viable minerals should feed domestic battery material and mobility supply chains rather than leave the country with minimal processing.\n    \nPakistan should position itself as a base for export-oriented investment, especially for Chinese EV producers looking to diversify production and reach regional markets. This will require predictable policy, competitive energy, efficient logistics, easier access to imported inputs and trade agreements that open real market access. Morocco shows what scale and access can achieve — it exports about 500,000 of the 600,000 vehicles it produces to the EU.\nSuccessful automotive producers offer clear lessons. Japan, South Korea, China and Thailand supported their auto industries, but protection was temporary, conditional and tied to exports, productivity, technology transfer and upgrading. India built its auto sector behind restrictions on consumer choice, while Asean and Mercosur countries used regional production networks to achieve scale. Pakistan should draw from these experiences, but it cannot simply replicate them as its domestic market is too small, regional integration is weak and the technology frontier has moved on.\nTariffs in Pakistan should fall through a transparent, predictable schedule that gives firms time to adjust but no excuse to stand still. Government must lower economy-wide costs through energy, logistics and tax reform, while linking any remaining incentives to exports, domestic value addition, engineering depth and high-value hybrid and EV technologies — not production volumes or headline localisation rates.\nThe real choice is not protection or liberalisation. It is whether Pakistan keeps measuring success by yesterday’s metrics or prepares for tomorrow’s automotive industry. The next auto policy should reward value addition, exports, innovation and technological transformation, and not permanence behind tariff walls. That would serve manufacturers, consumers and competitiveness far better than another decade of sterile debate.\nThe writer is a former CEO of Unilever Pakistan and of the Pakistan Business Council.\nPublished in Dawn, August 2nd, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Current Affairs / Economics",
-    "topic": "Industrial Policy, Trade & Economic Development (Automobile Sector)",
-    "whyMatters": "While this article is not directly about the Economic Cooperation Organization (ECO) or Pakistan's historic role in it, it provides crucial insights into Pakistan's industrial policy failures, particularly regarding regional integration and export orientation. Aspirants can leverage its arguments on weak regional integration, the need for export-led growth, and trade agreements for market access to *peripherally* support discussions on the challenges ECO faces in fostering regional economic ties for Pakistan.",
-    "summary": [
-      "Pakistan's historical auto policy, despite 40+ years of protection, has failed consumers and exports, acting as a 'refuge' rather than a 'runway' for competitiveness.",
-      "The policy was based on flawed misconceptions: localisation (ignoring real value addition and deep upstream capacity), job creation (capital-intensive nature of the industry), and scale (small domestic market choked by high taxes).",
-      "The global shift to Electric Vehicles (EVs) and Hybrids renders Pakistan's traditional localisation strategy obsolete, demanding a pivot towards value creation in new technologies like batteries, motors, and software.",
-      "Future policy must prioritize higher domestic value addition, exports, lower environmental impact, and deeper technological capability, positioning Pakistan as an export base (e.g., for Chinese EV producers) with predictable policy and competitive costs."
-    ],
-    "facts": [
-      "Pakistan's auto industry has operated under protection for over 40 years.",
-      "The domestic auto market is small, at fewer than 300,000 vehicles per year, insufficient for competitive scale.",
-      "Morocco exports approximately 500,000 of the 600,000 vehicles it produces to the EU, demonstrating successful export-oriented strategy."
-    ],
-    "academicReferences": [
-      "The Economy of Modern Pakistan by Ishrat Husain (for insights into industrial policy and economic development)",
-      "WTO Agreements (relevant for discussions on tariffs, trade liberalization, and international competitiveness)",
-      "Pakistan's Strategic Trade Policy Framework (STPF) documents (for government's broader trade and industrial vision)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Tariffs",
-        "type": "noun",
-        "definition": "Taxes imposed on imported goods and services.",
-        "sentence": "The government is considering lower tariffs to make imported cars more affordable."
-      },
-      {
-        "word": "Localisation",
-        "type": "noun",
-        "definition": "The process of adapting products or services to a particular local market, often by manufacturing components domestically.",
-        "sentence": "The auto policy aimed for higher localisation percentages to save foreign exchange."
-      },
-      {
-        "word": "Capital-intensive",
-        "type": "adjective",
-        "definition": "Requiring a large amount of financial capital or investment in equipment and machinery relative to labor.",
-        "sentence": "Automobile manufacturing is a capital-intensive industry, relying heavily on automation."
-      },
-      {
-        "word": "Value chains",
-        "type": "noun",
-        "definition": "The full range of activities that firms and workers perform to bring a product from its conception to end use.",
-        "sentence": "Can Pakistan's auto industry build capabilities that can compete in regional and global value chains?"
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was identified as a primary flaw in Pakistan's historical auto policy regarding its approach to protection?",
-        "options": [
-          "It treated protection as a refuge, not a runway for competitiveness.",
-          "It focused too much on export promotion from the outset.",
-          "It failed to attract any foreign investment in the sector.",
-          "It did not adequately protect local manufacturers."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that the principle should be 'Protection should be a runway, not a refuge,' implying the past policy failed by treating it as a refuge."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What were the three key misconceptions underpinning Pakistan's old auto policy?",
-        "back": "The misconceptions were: 1) Localization (misleading metrics, ignored deep upstream capacity), 2) Jobs (capital-intensive, small direct workforce), and 3) Scale (small domestic market, taxed demand down)."
-      },
-      {
-        "front": "How has the global shift in automotive technology impacted the relevance of Pakistan's traditional localisation strategy?",
-        "back": "The global shift to Hybrids and EVs eliminates or simplifies many components (engines, gearboxes, exhaust systems) around which Pakistan’s localisation strategy was built, shifting value to new areas like batteries, electric motors, and software."
-      },
-      {
-        "front": "What new policy goals does the article propose for Pakistan's auto industry?",
-        "back": "New policy goals should be higher domestic value addition, exports, lower environmental impact, and deeper technological capability, rather than merely higher localisation percentages."
-      },
-      {
-        "front": "What strategic approach does the article suggest Pakistan adopt to achieve competitiveness in the future auto industry?",
-        "back": "Pakistan should position itself as a base for export-oriented investment, especially for Chinese EV producers, by offering predictable policy, competitive energy, efficient logistics, and access to regional markets through trade agreements."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785720903998-762",
-    "title": "American crisis\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020263/american-crisis",
-    "date": "2026-08-02",
-    "author": "none@none.com (Huma Yusuf)",
-    "content": "THE Middle East is broiling. The US-Iran conflict is spilling across borders to Egypt, Saudi Arabia, Jordan, Yemen, Iraq and various Gulf countries. For now, most eyes are on Saudi Arabia, which finds itself drawn into a conflict it was seeking to keep at its periphery. Riyadh last week joined Washington to target the Iran-backed Popular Mobilisation Forces in Iraq. This followed Saudi strikes against Houthi forces in Yemen in response to the targeting of Saudi oil tankers using Red Sea shipping routes. Experts anticipate Riyadh will launch a wider offensive against the Houthis over the coming days.\nThis risks turning what began as a US and Israeli effort against Iran into a region-wide conflict with sectarian contours. Forget US President Donald Trump’s February boast that the war would be over within weeks — security analysts now predict an up-to-a-decade-long conflagration.\nPakistan will find itself sucked into this quagmire with each development. Its mutual defence pact with the kingdom has been supplemented by participation in the newly formed maritime defence alliance, which aims to secure shipping routes in the Bab al-Mandeb Strait, the Red Sea and the Gulf of Aden — critical alternatives to the Strait of Hormuz. Pakistan has vested interests in securing these routes — disruptions to oil trading have led to soaring oil prices and a nearly five per cent decrease in Saudi Arabia’s GDP in the last quarter, a fact highly relevant to nations that frequently depend on the kingdom’s largesse.\nWhile the focus remains on each new front line in the conflict, the question that should be asked is why this war is continuing. Think back to a few weeks ago, when it seemed that the worst had to be over, given that Trump was tiring of the strategic miscalculation with Iran and looking ahead to a summer of fun: a visit from the British king, the football World Cup. No one expected the conflict to drag into the autumn, thereby risking Trump’s party’s position in the US mid-term elections in November.\nOne in four of those who voted for Trump in 2024 opposes the war.\nThe electoral run-up, in particular, defies Trump’s logic of ramping up the Iran conflict. One in four of those who voted for Trump in 2024 opposes the war. Many MAGA supporters, with Tucker Carlson among the most vocal, believe the conflict is misaligned with the movement’s ‘America First’ isolationist principles.\nNon-MAGA Republicans and the independents whom Trump won over in droves in the last election also find the conflict to be a turn-off. An AP-NORC poll conducted between July 23–27 in the US found that 64pc of Americans do not believe the war with Iran is worth fighting. More detailed surveys conducted in May by the Chicago Council on Global Affairs highlighted that 86pc of Americans are concerned about the war’s impact on the cost of living, 72pc believe it is damaging to the country’s overseas reputation and foreign relations, and 65pc believe it undermines the country’s national security — arguably the most damning finding given that Trump’s original war justifications focused on securing the US and its allies against overstated Iranian aggression.\nUS public opinion of Trump and his ill-conceived war is likely to worsen as the conflict escalates and midterms approach. In June 2026, consumer costs were almost 4pc higher than a year ago, with American truckers paying more for fuel and American farmers paying more for fertilisers. Cash-strapped Americans will not be pleased to hear that the Pentagon requires $80 billion more to continue fighting, having already spent $37.5bn to date.\nSo why are we here? Security analysts believe Trump thinks that military might yet get the better of the Iranians, either through military control of the Str­ait of Hormuz or through the dep­loyment of grou­­nd troops in Iran — an option previously conside­r­­ed a red line but now increasingly discussed as an endgame prospe­­ct. This perception of a military solution is fuelled by the gains experienced by America’s military economy, which is growing at the expense of other domestic investment, including investment in public services.\nBut the true driver of this prolonged conflict is more existential, as the US grapples with its place in a shifting world order, balancing a desire for global influence against a growing need for internal sociopolitical and economic consolidation. Khalid Al Jaber, writing for the Middle East Council, summarised it well: “The Iranian crisis revealed that Washington’s deepest challenge lies not on the battlefield … but in managing an internally deepening division between two competing and contradictory visions for the future of America’s global role: the leadership-through-strength or ‘America First’ vision … and the domestic rebalancing vision.” Multipolarity is real, but we still inhabit a world where America’s existential crisis is the world’s problem. \nThe writer is a political and integrity risk analyst.\nX: @humayusuf\nPublished in Dawn, August 3rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "International Relations / Current Affairs",
-    "topic": "US-Iran Conflict, Middle East Geopolitics, and Pakistan's Evolving Role",
-    "whyMatters": "This article critically analyzes the multifaceted US-Iran conflict, detailing its regional spillover, economic ramifications, and Pakistan's involvement. It is crucial for understanding contemporary global power shifts and their impact on international security and diplomacy.",
-    "summary": [
-      "The US-Iran conflict is rapidly escalating, threatening to transform into a decade-long, region-wide sectarian conflagration across the Middle East.",
-      "Pakistan faces increasing pressure to become involved due to mutual defense pacts and maritime security alliances, with significant economic interests tied to regional stability.",
-      "Despite the conflict's expansion, US public opinion, including many 'America First' supporters, increasingly opposes the war due to rising economic costs and a perceived misalignment with national interests.",
-      "The prolonged conflict primarily stems from the US's internal struggle to redefine its global role amidst a multipolar world order, balancing global influence with domestic consolidation needs."
-    ],
-    "facts": [
-      "64% of Americans surveyed by AP-NORC do not believe the war with Iran is worth fighting.",
-      "The Pentagon requires an additional $80 billion for the conflict, having already spent $37.5 billion, while consumer costs rose nearly 4% in June 2026.",
-      "One in four of those who voted for Trump in 2024 opposes the war, aligning with 'America First' isolationist principles."
-    ],
-    "academicReferences": [
-      "Samuel P. Huntington's 'The Clash of Civilizations and the Remaking of World Order'",
-      "John Mearsheimer's 'The Tragedy of Great Power Politics' (for realist international relations)",
-      "Reports from think tanks like the Chicago Council on Global Affairs or Middle East Council",
-      "The 'America First' foreign policy doctrine"
-    ],
-    "vocabulary": [
-      {
-        "word": "broiling",
-        "type": "verb (present participle)",
-        "definition": "experiencing extreme heat or intense conflict",
-        "sentence": "The Middle East is currently broiling with geopolitical tensions, as various state and non-state actors engage in proxy wars."
-      },
-      {
-        "word": "conflagration",
-        "type": "noun",
-        "definition": "an extensive fire; a large-scale, intense conflict or war",
-        "sentence": "Experts fear the escalating US-Iran conflict could turn into a decade-long conflagration, destabilizing the entire region."
-      },
-      {
-        "word": "largesse",
-        "type": "noun",
-        "definition": "generosity in bestowing money or gifts upon others",
-        "sentence": "Nations that frequently depend on Saudi Arabia's largesse are concerned about the conflict's impact on the kingdom's GDP and ability to provide aid."
-      },
-      {
-        "word": "existential",
-        "type": "adjective",
-        "definition": "relating to existence; concerning fundamental questions of being or purpose",
-        "sentence": "The article suggests that the true driver of the prolonged conflict is the US's existential crisis regarding its place in a shifting world order."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary underlying reason for the prolonged US-Iran conflict, beyond immediate military objectives?",
-        "options": [
-          "A) A global shortage of oil reserves.",
-          "B) The US's internal struggle to define its global role and balance influence with domestic needs.",
-          "C) Insufficient military funding for the Pentagon's operations.",
-          "D) A desire by European allies to prolong the conflict for economic gains."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'But the true driver of this prolonged conflict is more existential, as the US grapples with its place in a shifting world order, balancing a desire for global influence against a growing need for internal sociopolitical and economic consolidation.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article characterize the anticipated duration and nature of the escalating US-Iran conflict?",
-        "back": "Security analysts predict an up-to-a-decade-long conflagration, with the conflict becoming region-wide and having sectarian contours."
-      },
-      {
-        "front": "What specific reasons does the article provide for Pakistan's involvement in the Middle East conflict?",
-        "back": "Pakistan is involved due to a mutual defense pact with Saudi Arabia and participation in a newly formed maritime defense alliance aimed at securing critical shipping routes like Bab al-Mandeb Strait, Red Sea, and Gulf of Aden."
-      },
-      {
-        "front": "What is the general sentiment of the US public, including many 'America First' supporters, regarding the war with Iran, according to the article?",
-        "back": "US public opinion largely opposes the war, with 64% of Americans believing it's not worth fighting, and many 'America First' supporters seeing it as misaligned with isolationist principles due to economic costs."
-      },
-      {
-        "front": "What is the 'America's existential crisis' mentioned in the article, in relation to the global order?",
-        "back": "It refers to the US grappling with its place in a shifting multipolar world, trying to balance its desire for global influence with a growing need for internal sociopolitical and economic consolidation, leading to conflicting visions for its global role."
       }
     ]
   }
