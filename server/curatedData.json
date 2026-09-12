@@ -1,5 +1,603 @@
 [
   {
+    "id": "curated-1789177902725-902",
+    "title": "Bank domination\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029055/bank-domination",
+    "date": "2026-09-11",
+    "author": "none@none.com (Shahid Kardar)",
+    "content": "PAKISTAN’S financial system is heavily bank-centric. Commercial banks account for over 80 per cent of total financial-sector assets. In a ma­­t­u­­re financial system, household and corporate savings flow through multiple competing channels — capital markets, pension funds, insurance companies, asset managers and private equity. But in Pakistan, many of the institutions that should compete with banks are themselves economically and financially connected to them. What appears to be institutional diversity is, to a large extent, concentration masquerading as diversification.\n\nBanks dominate for many reasons. They possess advantages their competitors cannot easily replicate: large capital bases, extensive branch and distribution networks, long-standing ties with government, customer trust built through decades of deposit-taking, and access to millions of small deposits through everyday transaction accounts. This gives them balance-sheet strength, scale and a low-cost funding advantage. Their established relationships with borrowers, ability to demand collateral and capacity to monitor credit also make them natural intermediaries. These advantages are barriers to entry for competing financial institutions.\n\nBut the most important explanation is the government’s persistent financing needs. Commercial banks have become the easiest channel through which government finances its fiscal deficit. Today, some 62pc of banking assets comprise government securities, while lending to the private sector accounts for a mere 22pc. Banks have become primary financiers of the state rather than intermediaries channelling savings into productive private investment.\n\nThe incentives are obvious. Government securities offer double-digit, effectively risk-free retu­rns. Lending to private businesses requires assessment of credit risk, documentation, collateral, monitoring. Why create capability to underwrite bonds, financial instruments or support new equi­­ty listings when there is an attractive return on financing government with little effort? As long as government continues to rely on banks to finance its deficit, banks will remain the dominant and highly profitable powerhouses in the financial architecture. The state reinforces this dominance. It borrows heavily from banks, operates National Savings, owns financial institutions, influences development finance, etc. An independent financial institution is not only competing against banks, it is competing against the state itself.\n\nCommercial banks have become the easiest channel through which government finances its fiscal deficit.\n\nThe weakness of capital markets reinforces this structure. Stock-market participation is low — account holders represent less than 0.5pc of the population. Households prefer cash, bank deposits, real estate and physical gold, reflecting limited financial literacy as well as a historical mistrust of market volatility.\n\nCorporate sector listing on the PSX or issuing corporate bonds requires compliance of SECP regulations involving extensive disclosure, auditing, corporate-governance requirements, credit ratings, which is time-consuming and expensive. Corporate debt consequently accounts for less than 3pc of Pakistan’s debt market. For most businesses, borrowing from a bank is faster and easier — secured through a bilateral relationship with a banker — than raising capital from the market. For large corporates that tend to be family-controlled businesses there is little incentive to list. A bank loan only requires a discussion with a bank official, while listing also brings exposure to tax and regulatory authorities. Retained earnings and bank borrowing therefore remain the preferred sources of corporate finance.\n\nInstitutional investors that could provide an alternative source of long-term capital are underdeveloped. Pakistan lacks a mandatory, broad-based pension system. Existing pension arrangements revolve largely around government employees and are predominantly unfunded and pay-as-you-go. Pension and insurance assets therefore remain minuscule relative to GDP. Investment restrictions further constrain them, with public-sector pension and insurance institutions required to place much of their funds in government securities or bank deposits.\n\nPakistan’s regulators have been reasonably successful in ensuring that banks remain solvent, liquid and systemically safe. But the same regulatory architecture has not succeeded in creating institutions capable of competing with them.\n\nLarge capital requirements may be justified for institutions taking substantial risks with other people’s money. But applying requirements designed for banks to specialist institutions creates prohibitive fixed costs. Mutual funds illustrate the problem. Non-bank financial institutions (NBFIs) are legally prohibited from taking demand or retail deposits. They must, instead, persuade savers to voluntarily invest with them or raise capital through equity or borrow from banks at commercial interest rates.\n\nProducts connecting banking and capital markets require clearances from both SBP and SECP, creating regulatory silos and slowing innovation in financial products. A process intended to protect consumers can, if poorly crafted, protect incumbents instead. Good regulation must distinguish between prudential requirements that protect customers and systemic stability, and high fixed regulatory costs that prevent new institutions from entering the market. Also, SBP’s discount window and emergency liquidity facilities are exclusively available to banks, while NBFIs operate within a fragmented and evolving framework without comparable institutional support. Banking regulation has enjoyed greater stability and predictability over decades, whereas the regulatory framework for NBFIs has been repeatedly redrafted.\n\nUnsurprisingly, banks have responded rationally. Rather than compete with NBFIs, they have established or acquired them. The largest asset-management companies and mutual funds are not extensions of the bank’s balance sheet, they are overwhelmingly owned or controlled by banks. Their apparent independence hides their integration into the banking system. These institutions will, in the absence of sufficiently deep corporate bond markets, take corporate or household savings, invest them in Treasury bills, government-sponsored Sukuks or bank deposits-instruments that already exist — and channel much of that money back into the banking system. Ownership, distribution, funding and investment decisions remain concentrated within the same financial groups.\n\nPakistan’s financial system is therefore bank-dominated not simply because banks are efficient or because savers prefer them. It is bank-dominated because the state’s financing needs, corporate structures and the regulatory architecture have prevented alternative channels of financial intermediation from acquiring scale and independence.\n\nThe challenge is not to license more NBFIs while leaving these structural incentives unscat­hed. We require a function-based, competitively neutral financial system in which regulation protects risks of financial activities rather than the institutional boundaries between banks and NBFIs. Until then, Pakistan will continue to have many financial institutions but essentially one dominant player in the financial system — the banks.\n\nThe writer is a former governor of the State Bank.\n\nPublished in Dawn, September 11th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Economics / Pakistan Affairs",
+    "topic": "Financial System Structure, Bank Dominance, and Capital Market Underdevelopment in Pakistan",
+    "whyMatters": "This article offers a critical analysis of Pakistan's financial system, providing crucial arguments and statistics for essay questions on economic challenges, financial sector reforms, or the role of the state in the economy. It equips aspirants with detailed insights into the structural issues hindering diversified financial growth.",
+    "summary": [
+      "Pakistan's financial system is overwhelmingly bank-centric, with commercial banks holding over 80% of total financial-sector assets, limiting competition from other financial institutions.",
+      "Bank dominance stems from inherent advantages (large capital, networks, trust, low-cost funding) and, crucially, the government's persistent reliance on banks to finance its fiscal deficit.",
+      "Weak capital markets, underdeveloped institutional investors (pension funds, insurance), and complex regulatory compliance requirements for non-bank entities further reinforce the banks' position.",
+      "The existing regulatory architecture, while ensuring bank safety, has inadvertently protected incumbents by creating high fixed costs for competitors and failing to foster a level playing field, leading banks to acquire NBFIs rather than compete."
+    ],
+    "facts": [
+      "Commercial banks account for over 80% of total financial-sector assets in Pakistan.",
+      "Approximately 62% of banking assets comprise government securities, while lending to the private sector accounts for a mere 22%.",
+      "Stock-market account holders represent less than 0.5% of Pakistan's population, and corporate debt accounts for less than 3% of the country's debt market."
+    ],
+    "academicReferences": [
+      "State Bank of Pakistan (SBP) Financial Stability Review",
+      "Securities and Exchange Commission of Pakistan (SECP) Annual Report",
+      "IMF/World Bank Country Reports on Financial Sector Development",
+      "Concept of Financial Deepening and its role in economic development"
+    ],
+    "vocabulary": [
+      {
+        "word": "Bank-centric",
+        "type": "adjective",
+        "definition": "A financial system where banks are the dominant and primary institutions, overshadowing other financial channels.",
+        "sentence": "Pakistan's financial system is described as heavily bank-centric, with banks holding the majority of assets."
+      },
+      {
+        "word": "Fiscal deficit",
+        "type": "noun",
+        "definition": "The difference between the government's total expenditure and its total revenue, excluding borrowings, over a financial year.",
+        "sentence": "The government's persistent fiscal deficit necessitates heavy borrowing from commercial banks."
+      },
+      {
+        "word": "Financial intermediation",
+        "type": "noun",
+        "definition": "The process by which financial institutions act as a go-between for savers and borrowers, channeling funds from those with surplus to those with deficit.",
+        "sentence": "Banks have shifted from true financial intermediation to primarily financing the state."
+      },
+      {
+        "word": "Prudential requirements",
+        "type": "noun",
+        "definition": "Regulations designed to ensure the safety and soundness of financial institutions, protecting depositors and the stability of the financial system.",
+        "sentence": "Good regulation must distinguish between prudential requirements and high fixed regulatory costs."
+      },
+      {
+        "word": "Regulatory silos",
+        "type": "noun",
+        "definition": "Separate and often uncoordinated regulatory frameworks for different sectors or types of institutions within the financial system.",
+        "sentence": "Products connecting banking and capital markets require clearances from both SBP and SECP, creating regulatory silos and slowing innovation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What percentage of banking assets in Pakistan are comprised of government securities?",
+        "options": [
+          "Over 80%",
+          "Around 22%",
+          "Approximately 62%",
+          "Less than 3%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Today, some 62pc of banking assets comprise government securities.'"
+      },
+      {
+        "question": "Which of the following is NOT cited as a reason for bank dominance in Pakistan?",
+        "options": [
+          "Extensive branch networks",
+          "High financial literacy among households",
+          "Government's financing needs",
+          "Low-cost funding advantage"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that households prefer cash and real estate due to 'limited financial literacy,' implying low, not high, financial literacy."
+      },
+      {
+        "question": "According to the article, what is a key issue with the regulatory architecture concerning Non-Bank Financial Institutions (NBFIs)?",
+        "options": [
+          "It provides NBFIs with exclusive access to emergency liquidity facilities.",
+          "It has successfully created institutions capable of competing with banks.",
+          "It imposes prohibitive fixed costs on specialist institutions designed for banks.",
+          "It encourages NBFIs to take demand or retail deposits."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'applying requirements designed for banks to specialist institutions creates prohibitive fixed costs.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary reason for banks becoming 'primary financiers of the state' rather than intermediaries for private investment?",
+        "back": "The government's persistent financing needs, leading banks to invest heavily in risk-free, double-digit return government securities instead of private sector lending."
+      },
+      {
+        "front": "How do capital markets in Pakistan reinforce bank dominance, according to the article?",
+        "back": "They are weak, characterized by low stock-market participation, corporate reluctance to list due to high compliance costs and preference for bank loans, and underdeveloped institutional investors."
+      },
+      {
+        "front": "What is the author's main criticism of the regulatory architecture regarding competition?",
+        "back": "While ensuring bank safety, the regulation has failed to create institutions capable of competing with banks, imposing prohibitive costs on NBFIs and creating regulatory silos that protect incumbents."
+      },
+      {
+        "front": "What structural change does the author propose to address bank dominance?",
+        "back": "A function-based, competitively neutral financial system where regulation protects risks of financial activities rather than rigid institutional boundaries between banks and NBFIs."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789178125451-712",
+    "title": "Double standard\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029303/double-standard",
+    "date": "2026-09-11",
+    "author": "none@none.com (Maria Ahmad)",
+    "content": "THE Law and Justice Commission of Pakistan has published, in collaboration with UN Women, a Gender Fair Language Framework for the judiciary. It is a 20-page document containing vocabulary premised on promoting equality in law. ‘Chairman’ is replaced with ‘chairperson’. The ‘reasonable man’ of tort becomes the ‘reasonable person’. Passages quoted from older judgements are even permitted to be marked with a [sic] to disown the original phrasing.\n\nThis is thoughtful and commendable work. Courts are, at last, being taught how to speak about women. It is unfortunate then that they still aren’t allowed to fully listen to them.\n\nThe Law and Justice Commission is asking the judiciary not to refer to women as the ‘weaker sex’. However, Pakistan’s law of evidence (Qanun-i-Shahadat Order, 1984) still says, in Article 17(2)(a), that any matter relating to financial or future obligations that is reduced to writing must be witnessed by “two men, or one man and two women, so that one may remind the other, if necessary”.\n\nIn practice, this means a woman in Pakistan cannot get a loan for business, rent a house, settle a debt, or give a guarantee without at least one man to witness her signature. It makes no difference that she has four women standing by to attest for her. The contract might even refer to her properly as ‘she’ instead of ‘he’. None of that survives the signing page: where every national and international commitment made for women’s equality is discarded. Embarrassingly, it is also where foreign counterparties discover the Pakistani state’s arithmetic and go looking for witnesses to match: two women to one man.\n\nCourts may use more equal language, but laws haven’t changed.\n\nThe State Bank should be troubled by this the most. Millions are spent on financial inclusion — targets for women’s accounts, women’s credit, support desks. All to bring women to the table and then hand them a contract with signature blocks for two witnesses only. Two, because it is easier to opt for two men than one man and two women. Not just banks, but companies, law firms, real estate agents, anybody who needs a contract witnessed takes the shortcut and pulls two men from the next desk. By default then, contracts and templates carry two witness spaces, never three. This isn’t prejudice, which requires actual thought and action. It is something far duller. It’s saving lines on a page, avoiding all mental effort. You would be forgiven for thinking this is, perhaps, one of Pakistan’s most efficient ways of making women disappear: not by deliberation, but disuse.\n\nThe defence of Article 17(2)(a) has always been theological. That is not a debate I would delve into here. But notice how the Federal Shariat Court argued to keep Article 17(2)(a) on the books. In 2012, three male judges analysed its religious basis, with no advocate, state counsel or amicus curiae to assist. Litigation is a hardship, they decided, from which women have been spared. In no period of history or any society should a woman have to face the “irritating and imposing male-majority environs” of a court alone, that too with thirst, hunger and unanswered “biological and natural calls”. It is equally unfair to ask a pregnant or nursing mother to give evidence. And then the court’s other problem: women find it much harder than men to recall “unpalatable and objectionable descriptions” repeatedly.\n\nFinancial matters, it seems, are where the real unpleasantness lies. The same Article 17(2)(a) shows no concern for fraught nerves while accepting one woman’s word in a murder trial.\n\nThe courtroom part, at least, holds true. But it would be foolish to see that as anything other than a scathing indictment of the state. No person of any sex should have to suffer in court without water or a bathroom, but no one’s ever asked a man to bring a friend along to testify. If a second woman is required because Pakistan has not, in 79 years, made its courts fit for half its population, that is not theology. It’s plain neglect.\n\nWorse still is how out of tune Article 17(2)(a) is from everything else the law says about women and money. Just this year, the Supreme Court ruled at length to uphold women’s right to inheritance. It is unlawful for a woman’s husband or in-laws to lay claim to her gold. For the first time in Pakistan’s history, a woman’s right to a share in matrimonial property was recognised. Yet, the same legal system that is fighting for her right to be financially independent does not trust her to witness a signature without a chaperone. There’s also the judge who can decide a million-dollar lawsuit but can’t attest a lease alone.\n\nIrony and humiliation, another one of the state’s compulsory pairings for women.\n\nPublished in Dawn, September 12th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs",
+    "topic": "Gender Equality, Judicial Reform, and Constitutional Interpretation",
+    "whyMatters": "This article is crucial for demonstrating the judiciary's inconsistent and often contradictory role in Pakistan's constitutional development, particularly regarding gender equality. It highlights both progressive initiatives and significant legal impediments perpetuated or upheld by judicial bodies, providing concrete examples for analysis.",
+    "summary": [
+      "The Law and Justice Commission of Pakistan, in collaboration with UN Women, has introduced a Gender Fair Language Framework for the judiciary, replacing gendered terms to promote equality in legal discourse.",
+      "Despite linguistic reforms, Pakistan's law of evidence (Qanun-i-Shahadat Order, 1984, Article 17(2)(a)) mandates that financial or future obligations must be witnessed by two men, or one man and two women, effectively diminishing women's legal standing.",
+      "This legal disparity creates significant practical hurdles for women's financial inclusion and economic participation, as institutions often default to using two male witnesses for convenience, rendering national and international commitments to women's equality ineffective.",
+      "Past judicial justifications for Article 17(2)(a) by the Federal Shariat Court in 2012 are criticized as paternalistic, inconsistent with other rulings upholding women's financial rights (e.g., inheritance), and reflecting state neglect rather than theological necessity."
+    ],
+    "facts": [
+      "The Law and Justice Commission of Pakistan published a 20-page Gender Fair Language Framework for the judiciary in collaboration with UN Women.",
+      "Article 17(2)(a) of Pakistan’s Qanun-i-Shahadat Order, 1984, requires financial matters to be witnessed by 'two men, or one man and two women'.",
+      "In 2012, the Federal Shariat Court analyzed and upheld Article 17(2)(a) based on theological arguments, without external legal assistance."
+    ],
+    "academicReferences": [
+      "Qanun-i-Shahadat Order, 1984",
+      "United Nations Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+      "Law and Justice Commission of Pakistan Reports on Judicial Reforms and Gender Justice"
+    ],
+    "vocabulary": [
+      {
+        "word": "Premised",
+        "type": "verb",
+        "definition": "Based on a stated proposition or assumption.",
+        "sentence": "The new framework is premised on promoting equality in law."
+      },
+      {
+        "word": "Amicus curiae",
+        "type": "noun",
+        "definition": "An impartial adviser to a court of law in a particular case.",
+        "sentence": "The court analyzed the religious basis without any advocate, state counsel, or amicus curiae to assist."
+      },
+      {
+        "word": "Indictment",
+        "type": "noun",
+        "definition": "A formal accusation or serious criticism.",
+        "sentence": "If courts are unfit for half the population, that is a scathing indictment of the state."
+      },
+      {
+        "word": "Chaperone",
+        "type": "noun",
+        "definition": "A person who accompanies and supervises another person or group of people.",
+        "sentence": "The legal system does not trust a woman to witness a signature without a chaperone."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which specific legal provision from Pakistan's Qanun-i-Shahadat Order, 1984, is criticized for perpetuating a 'double standard' regarding women's testimony in financial matters?",
+        "options": [
+          "Article 17(2)(a)",
+          "Article 25(1)(b)",
+          "Article 3(c)",
+          "Article 10(4)(d)"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that Article 17(2)(a) of the Qanun-i-Shahadat Order, 1984, requires specific male/female ratios for witnesses in financial transactions, leading to discriminatory practices."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the judiciary's approach to language reform contrast with its stance on legal evidence regarding women?",
+        "back": "The judiciary, via the Law and Justice Commission, promotes gender-fair language (e.g., 'chairperson'), but simultaneously upholds discriminatory laws like Article 17(2)(a) of the Qanun-i-Shahadat Order, 1984, which diminishes women's testimony in financial matters."
+      },
+      {
+        "front": "What practical implications does Article 17(2)(a) have for women's financial inclusion in Pakistan?",
+        "back": "It requires women to have a male witness (or two female witnesses per male) for financial obligations, practically making it difficult for them to secure loans, rent property, or settle debts independently, often leading institutions to default to two male witnesses."
+      },
+      {
+        "front": "What was the Federal Shariat Court's primary justification in 2012 for upholding Article 17(2)(a)?",
+        "back": "The court justified it on theological grounds, arguing that women are spared the 'irritating and imposing male-majority environs' of court and that testifying with 'thirst, hunger and unanswered biological and natural calls' or as a pregnant/nursing mother is unfair."
+      },
+      {
+        "front": "How does the article highlight inconsistencies in Pakistan's legal system regarding women's financial rights?",
+        "back": "While the Supreme Court has upheld women's right to inheritance and matrimonial property, the same legal system, through Article 17(2)(a), does not trust a woman's testimony in financial matters without a male 'chaperone' or additional female witnesses."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789178992736-270",
+    "title": "Flu: a public health crisis\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029056/flu-a-public-health-crisis",
+    "date": "2026-09-11",
+    "author": "none@none.com (Faisal Bari)",
+    "content": "LAST fall, after many years, my wife, our daughter and I decided to get flu shots. The decision wasn’t popular with our nine-year-old, who doesn’t like having her skin punctured, but we thought that, given the smog season and the health disruptions we faced every winter in Lahore, it was worth the trouble and expense. And it was. Last winter, we had far fewer bouts of illness, despite the smog highs; when we did have symptoms, they were much milder and recovery much faster. My wife and I lost fewer days at work, and our daughter was able to go to school most days. We also relied much less on cough syrups, antibiotics, and similar medications.\n\nIt is almost that time of the year again. Flu shots should be available soon, if they aren’t already. Since influenza mutates significantly, the flu vaccine has to be updated often, and shots have to be taken every year. Despite this inconvenience, they are worth it. But it seems they are not very popular or widely available in Pakistan. We had to ask around and find clinics where we could get a flu shot. A muscular injection, they should be available at most, if not all, pharmacies.\n\nLast year, our shot cost around Rs3,000 per head. So, they can be expensive for many households, but, given the cost-benefit, the state should make them available to vulnerable populations free of charge. It is very much a public health issue. The evidence from other countries is clear. The return on investment is indeed significant. Flu shots save the lives of vulnerable people: children, older populations, and people with compromised health and co-morbidities. Hospitalisations are fewer, and symptoms are less severe and more manageable when people fall sick. Even for the healthy, flu shots can collectively save millions of work hours. Children miss school less. And flu shots also create herd immunity. For the cost, could one ask for more?\n\nIn the UK, all children are given flu vaccines free of charge. These are administered in September. Since most or all children are in school in the UK, schools administer the vaccine, which is efficient and effective. For children, there is even a version that can be squirted up the nose, so an injection is not the only option. I am sure children are quite happy with that.\n\nIt is a story of neglect. There is no public effort to promote flu vaccination.\n\nThe elderly also have access to free shots, as do any adults whose health systems might be compromised: diabetes, immune disorders, etc. The National Health Service administers the shots. This is a large campaign and can have significant waiting times, but it gets done. For other adults, shots are available at most pharmacies for £10 to £25 per shot. Given the protection the shot offers, many adults do get them every year. This helps the UK build significant herd immunity.\n\nGiven Pakistan’s higher smog levels, elevated child malnutrition, and the fact that about one-third of the adult population is diabetic, one would think that flu shots would be even more important for us and treated as a public health issue. Of course, if we had national campaigns for flu shots, they would be organised differently from those in other countries. Not all of our children are in schools, and we do not have a comprehensive national health service. So, we will need to have a network involving public health institutions (basic health and above) and Lady Health Workers and Visitors.\n\nAvailability through private clinics, hospitals, and pharmacies would also need to be ensured. Some mechanism would have to be designed to ensure that vulnerable and deserving populations have easy access to the vaccine at low or no cost (BISP and similar programmes with large outreach). This won’t be easy for our health authorities. But maybe the lessons from Covid vaccinations can be useful here.\n\nSadly, as usual, it is a story of neglect. There is no public effort to promote flu vaccination. It does not even seem to be on the agenda. Even with visible rising health costs from increasing smog, office and school closures, and other disruptions, there has been no effort to address the issue. Individuals and families largely bear the cost of ill health. If a child falls ill, the child bears the health cost, and the family pays for care. If flu spreads through an infected child, the increased cost is now borne by other children and households. If an adult falls ill and misses work, the cost is again mostly borne by the person, his or her family, and the individual business or workplace. The state does not bear any costs.\n\nThere is no realisation of how much this costs society and the economy as a whole. This is something the state should worry about, but since it is not an explicit cost, it does not. If costs rise for businesses, revenues and profits decline; households bear higher costs — all of this is reflected in national output and performance figures. The impact on health, longevity and morbidity is separate from this. Sadly, the state does not care much about them either.\n\nWith smog expectations the way they are, we are likely to experience another tough winter. Considering the impact on children and adults, and keeping in view the days missed at school because of ill health, and even school closures, a large campaign to vaccinate schoolchildren and vulnerable populations makes sense. Sadly, since this requires significant preparation, we are likely to miss this season again. Maybe, next year it will be different.\n\nThe writer is a senior research fellow at the Institute of Development and Economic Alternatives and an associate professor of economics at Lums.\n\nPublished in Dawn, September 11th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Public Policy & Health Economics / Social Issues of Pakistan",
+    "topic": "Public Health Policy, Preventive Healthcare, and State Neglect in Pakistan",
+    "whyMatters": "This article critically analyzes Pakistan's public health policy, specifically regarding preventive healthcare like flu vaccination, highlighting the economic and social costs of state neglect. Aspirants can use it to argue for proactive public health interventions, compare health systems with developed nations, and demonstrate understanding of socio-economic challenges.",
+    "summary": [
+      "Flu vaccination is a highly effective and cost-beneficial public health intervention, significantly reducing illness severity, hospitalizations, work/school absenteeism, and contributing to herd immunity.",
+      "Despite its proven benefits and Pakistan's high vulnerability due to smog, malnutrition, and diabetes, flu vaccination remains unpopular, largely unavailable, expensive for individuals, and completely neglected as a public health priority by the state.",
+      "Developed nations like the UK implement comprehensive, state-sponsored flu vaccination campaigns, providing free shots to children (via schools), the elderly, and vulnerable adults through their national health services, thereby building significant herd immunity.",
+      "The state's failure in Pakistan stems from a lack of recognition of the hidden societal and economic costs of illness, with the burden largely borne by individuals, families, and businesses, instead of being treated as an explicit cost to national output and performance."
+    ],
+    "facts": [
+      "A flu shot in Pakistan cost approximately Rs. 3,000 per person, making it expensive for many households.",
+      "In the UK, flu shots are available at pharmacies for £10 to £25 for adults not covered by free programs.",
+      "Pakistan faces elevated health risks due to higher smog levels, high child malnutrition, and about one-third of the adult population being diabetic."
+    ],
+    "academicReferences": [
+      "National Health Policy of Pakistan (latest iteration for context on public health strategy and challenges)",
+      "World Health Organization (WHO) reports on influenza vaccination and cost-effectiveness in developing countries",
+      "Sustainable Development Goals (SDG 3: Good Health and Well-being), particularly targets related to communicable diseases and universal health coverage"
+    ],
+    "vocabulary": [
+      {
+        "word": "Co-morbidities",
+        "type": "noun",
+        "definition": "The simultaneous presence of two or more diseases or medical conditions in a patient.",
+        "sentence": "People with existing co-morbidities like diabetes or heart disease are at higher risk of severe flu complications."
+      },
+      {
+        "word": "Longevity",
+        "type": "noun",
+        "definition": "Long existence or service; long life.",
+        "sentence": "Improved public health measures can significantly increase a population's longevity and quality of life."
+      },
+      {
+        "word": "Morbidity",
+        "type": "noun",
+        "definition": "The condition of suffering from a disease or medical condition; the rate of disease in a population.",
+        "sentence": "The flu vaccine campaign aims to reduce both the morbidity and mortality rates associated with seasonal influenza."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary reason for the lack of a public flu vaccination campaign in Pakistan?",
+        "options": [
+          "High cost of vaccines globally.",
+          "Lack of realization by the state of the hidden societal and economic costs of illness.",
+          "Public resistance to injections.",
+          "Absence of any effective flu vaccines for the Pakistani population."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'There is no realisation of how much this costs society and the economy as a whole. This is something the state should worry about, but since it is not an explicit cost, it does not.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What evidence does the author provide to argue for the cost-effectiveness of flu shots at an individual level?",
+        "back": "The author's family experienced fewer bouts of illness, milder symptoms, faster recovery, fewer lost days at work/school, and reduced reliance on other medications after getting flu shots."
+      },
+      {
+        "front": "How does the article suggest Pakistan's approach to flu vaccination differs from the UK's, particularly for vulnerable populations?",
+        "back": "In the UK, children, the elderly, and adults with compromised health receive free flu vaccines administered efficiently through schools or the NHS. Pakistan, conversely, shows no public effort, making vaccines largely unavailable and expensive for individuals, despite high vulnerability."
+      },
+      {
+        "front": "Explain the broader economic and social costs of neglecting flu vaccination, as highlighted by the author, beyond individual health expenses.",
+        "back": "Neglecting flu vaccination leads to millions of lost work hours, children missing school, increased use of antibiotics and other medications, reduced national output, and broader impacts on health, longevity, and morbidity, the costs of which are largely hidden and not explicitly borne by the state."
+      },
+      {
+        "front": "What structural challenges would a national flu vaccination campaign face in Pakistan compared to countries like the UK, according to the article?",
+        "back": "Pakistan lacks a comprehensive national health service, and not all children are in schools, meaning a campaign would require a complex network involving public health institutions, Lady Health Workers/Visitors, private clinics, hospitals, and pharmacies, with mechanisms to ensure access for vulnerable populations."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789178714805-988",
+    "title": "More than a single day\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029305/more-than-a-single-day",
+    "date": "2026-09-11",
+    "author": "none@none.com (Ayesha Irshad Mian)",
+    "content": "“No man is an island, entire of itself; ... any man’s death diminishes me, because I am involved in mankind; and therefore, never send to know for whom the bell tolls; it tolls for thee.”\n\nJOHN Donne wrote these words four centuries ago, and Ernest Hemingway later used a part of the quote as the title of his novel. The quote describes a principle that modern epidemiology has since validated with data: that no death by suicide is a purely private event. Each death reverberates through a family, a workplace, a community, and, in aggregate, through the statistical and narrative record of a nation’s health.\n\nEvery year, on Sept 10, the world observes International Suicide Prevention Day, and every year I find myself uneasy with the framing of this ‘observance’. In practice, it so often slides towards something that resembles a commemoration where panels are convened, experts invited, and statistics projected onto screens. The day then passes and is folded back into the calendar — until it comes around again the following year.\n\nI do not begrudge any of this; awareness, conversations, panels and specifically data, matter. My unease is narrower and rests in the belief that suicide is not a subject that can be adequately held by a single day, however earnestly it is marked. It is a chronic and distributed public health problem that requires sustained clinical, social, and policy attention throughout the year.\n\nThe task is to find and reinforce the one thread that tethers the struggling individual to hope.\n\nAs a physician, I practise under an oath that obliges me to preserve life and relieve suffering, grounded in the biological premise that human beings possess an innate desire to survive. This means that if you are a living creature, you must want to live. This is not simply an ethical assumption; it is observable at a physiological level, in the autonomic responses that mobilise the body against threat and injury. When a patient reaches the point of ending their own life, the clinical interpretation is not that they have uncovered some previously hidden preference for non-existence. Suicidal ideation is clinically read as evidence that they have reached the outer edge of despair, a point at which an underlying and usually treatable condition, often a brain illness like depression, psychoses, substance abuse or something else, has temporarily overwhelmed that baseline instinct to live. Our task, in that moment, is not to argue someone out of their pain, but to identify and reinforce that one thread, however thin, that tethers them to hope and life — long enough for treatment to take effect.\n\nWithin medicine we often draw an analogy between suicidal crisis and other acute, potentially fatal medical events, such as cardiac arrest, an ischemic stroke, or pulmonary embolism. This comparison is not made lightly. It reflects a genuine clinical understanding that such crises are frequently time-limited, and that patients who receive timely and appropriate care — whether hospitalisation, medication, psychotherapy, or structured follow-up — very often go on to recover and to build lives they later describe as worth living. Understood this way, suicide prevention is less a philosophical argument against a person’s stated wish to die and more a form of emergency medicine: stabilise the acute crisis first, and treat the underlying condition once the immediate danger has passed.\n\nAnd yet, even while holding that conviction firmly, the framework does not fully resolve a question I continue to face in clinical practice. When a terminally ill patient signs a do-not-resuscitate order, declining further intervention as their body finally fails, it is generally regarded as a legitimate exercise of patient autonomy. The ethical basis for distinguishing that decision though, from a decision to end one’s life in the context of prolonged, treatment-resistant psychological suffering is less clear than clinical convention often assumes. At what point does a physician’s judgement that a patient ‘lacks the capacity’ to make such a decision become a form of paternalism rather than clinical care? I do not raise this to suggest that suicide should be approached with anything other than urgent clinical concern; the evidence for the treatability of most suicidal crises is strong, and that evidence should govern practice. I raise it because intellectual honesty requires acknowledging the limits of our current ethical frameworks, and enduring the discomfort of the question, rather than rushing to resolve the tension to avoid facing it.\n\nEven so, the clinical and philosophical dimensions of this issue address only part of the picture, because suicide is not solely an individual pathology; it is also a measurable outcome of the socioeconomic conditions in which individuals live. This is particularly relevant to the population now coming of age, and which is confronting a convergence of structural pressures with limited precedent: climate instability, economic contraction, political volatility, widening income inequality, and, more recently, uncertainty about labour market disruption from automation and artificial intelligence. These conditions have not been matched by a corresponding adjustment in social expectations. Academic achievement, career stability, and conventional markers of success remain the default benchmarks, even as the institutional infrastructure that once made those benchmarks attainable has weakened. This mismatch between expectation and structural opportunity is a documented risk factor and a significant contributor to the hopelessness that so often precedes suicidal thinking.\n\nGiven all of this, a more honest and accurate framing of the annual suicide prevention day is to treat it as an invitation to structured, sustained and evidence-based reflection, individually, clinically, and at the level of policy, on why a species biologically oriented towards survival and social connection continues, in significant and rising numbers, to arrive at a decision to end its own life. That question cannot be resolved within a single day, a single panel discussion, or a single article. It is a question owed, on a continuing basis, to every person currently at risk. Donne’s observation that the bell tolls for all of us remains, four centuries later, an accurate description of what’s at stake.\n\nThe writer is a consultant child, adolescent and adult psychiatrist and founder & CEO at Synapse Pakistan Neuroscience Institute.\n\nInstagram: @lookslikeapsychiatrist\n\nPublished in Dawn, September 12th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Social Issues / Public Health / Ethics",
+    "topic": "Suicide Prevention: A Holistic Approach Including Clinical, Social, Policy, and Ethical Dimensions",
+    "whyMatters": "This article offers a critical, multi-faceted analysis of suicide as a public health issue, moving beyond superficial awareness to advocate for sustained, evidence-based interventions. Aspirants can use its arguments to demonstrate a nuanced understanding of social problems, integrate public health perspectives with socioeconomic factors, and address ethical considerations in policy-making.",
+    "summary": [
+      "Suicide is not a private event but a chronic, distributed public health problem with profound societal reverberations, impacting families, workplaces, and communities.",
+      "The annual observance of International Suicide Prevention Day is deemed inadequate, as it often resembles a fleeting commemoration rather than a call for sustained, year-round clinical, social, and policy attention.",
+      "Clinically, suicidal ideation is interpreted as the 'outer edge of despair' caused by treatable underlying conditions (e.g., depression), requiring emergency medical intervention to stabilize the crisis before treating the illness.",
+      "Beyond individual pathology, suicide is also a measurable outcome of unprecedented structural socioeconomic pressures, including climate instability, economic contraction, and widening inequality, which create a mismatch between societal expectations and structural opportunities.",
+      "The article raises an ethical dilemma concerning physician judgment on patient capacity, questioning the distinction between legitimate patient autonomy in terminal illness and decisions made during treatable psychological suffering."
+    ],
+    "facts": [
+      "September 10 is observed annually as International Suicide Prevention Day.",
+      "John Donne's quote 'No man is an island' was written four centuries ago and emphasizes human interconnectedness.",
+      "Suicidal ideation is often linked to underlying, treatable brain illnesses such as depression, psychoses, or substance abuse.",
+      "Contemporary structural pressures contributing to hopelessness include climate instability, economic contraction, political volatility, widening income inequality, and labor market disruption from automation and AI."
+    ],
+    "academicReferences": [
+      "World Health Organization (WHO) Mental Health Action Plan 2013-2030 (or any recent WHO report on mental health and suicide prevention)",
+      "United Nations Sustainable Development Goals (SDG 3: Good Health and Well-being, Target 3.4 on non-communicable diseases and mental health)",
+      "American Psychiatric Association (APA) Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
+      "Ernest Hemingway's 'For Whom the Bell Tolls' (literary context for the core theme)"
+    ],
+    "vocabulary": [
+      {
+        "word": "reverberates",
+        "type": "verb",
+        "definition": "To echo or resound; to have a continuing and far-reaching impact.",
+        "sentence": "Each death reverberates through a family, a workplace, a community, and, in aggregate, through the statistical and narrative record of a nation’s health."
+      },
+      {
+        "word": "epidemiology",
+        "type": "noun",
+        "definition": "The branch of medicine that deals with the incidence, distribution, and possible control of diseases and other factors relating to health.",
+        "sentence": "The quote describes a principle that modern epidemiology has since validated with data: that no death by suicide is a purely private event."
+      },
+      {
+        "word": "paternalism",
+        "type": "noun",
+        "definition": "The policy or practice on the part of people in authority of restricting the freedom and responsibilities of those subordinate to them in the subordinates' supposed best interest.",
+        "sentence": "At what point does a physician’s judgement that a patient ‘lacks the capacity’ to make such a decision become a form of paternalism rather than clinical care?"
+      },
+      {
+        "word": "convergence",
+        "type": "noun",
+        "definition": "The process or state of coming together from different directions so as to eventually meet.",
+        "sentence": "This is particularly relevant to the population now coming of age, and which is confronting a convergence of structural pressures with limited precedent."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the author's primary criticism regarding the annual observance of International Suicide Prevention Day?",
+        "options": [
+          "It often resembles a fleeting commemoration rather than sustained, year-round attention.",
+          "It lacks sufficient participation from mental health experts.",
+          "It fails to provide adequate statistical data on suicide rates.",
+          "It focuses too much on individual pathology rather than societal factors."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states the author's unease 'rests in the belief that suicide is not a subject that can be adequately held by a single day... It is a chronic and distributed public health problem that requires sustained clinical, social, and policy attention throughout the year.'"
+      },
+      {
+        "question": "According to the article, how do physicians clinically interpret suicidal ideation?",
+        "options": [
+          "As a previously hidden preference for non-existence.",
+          "As evidence of a patient reaching the outer edge of despair due to a treatable underlying condition.",
+          "As a philosophical argument against the desire to live.",
+          "As a permanent and irreversible state requiring no further intervention."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Suicidal ideation is clinically read as evidence that they have reached the outer edge of despair, a point at which an underlying and usually treatable condition... has temporarily overwhelmed that baseline instinct to live.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's core critique of the annual International Suicide Prevention Day?",
+        "back": "The author argues that a single day cannot adequately address suicide, which is a chronic public health problem requiring sustained, year-round clinical, social, and policy attention."
+      },
+      {
+        "front": "How do physicians clinically interpret suicidal ideation, according to the article?",
+        "back": "It is interpreted as evidence that an individual has reached the 'outer edge of despair,' where an underlying, often treatable condition (like depression) has temporarily overwhelmed the innate desire to live."
+      },
+      {
+        "front": "What analogy does medicine often draw for a suicidal crisis, and why?",
+        "back": "A suicidal crisis is compared to acute, potentially fatal medical events like cardiac arrest, reflecting a clinical understanding that such crises are frequently time-limited and treatable with timely care."
+      },
+      {
+        "front": "List some of the structural socioeconomic conditions identified in the article as contributing to hopelessness and suicidal thinking.",
+        "back": "Climate instability, economic contraction, political volatility, widening income inequality, and labor market disruption from automation and AI are cited as contributing factors, creating a mismatch between expectations and opportunities."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789177818726-596",
+    "title": "The end of 9/11\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029302/the-end-of-911",
+    "date": "2026-09-11",
+    "author": "none@none.com (Rafia Zakaria)",
+    "content": "TWENTY-FIVE years can change anything. This Friday when the US marked the 25th anniversary of the 9/11 attacks, it was a remarkably different country from when the attacks took place. For much of the quarter century following the attack, the occasion was used to showcase patriotic zealotry, renew calls for attacking yet another Muslim country and spew the usual variety of slurs and insults against American Muslims. While the last persists, the former two have all but disappeared.\n\nIn its September/October 2026 issue, Foreign Affairs, the leading journal in Washington’s foreign policy circles, notes: “After 25 years, the United States may finally be closing a chapter that began with the attacks on September 11, 2001, and President George W. Bush’s declaration of a ‘war on terror’ days later.” Authors contributing to the issue sound a similar note, a remarkable departure from the war-mongering diatribes that featured in the magazine over the decades.\n\nThese included essays by former defence secretary William Perry who argued in 2001 that the US should fight terrorism with a global campaign rather than just a single military effort directed at one country. Similarly, former secretary of state Colin Powell in 2004 defended the Bush administration’s policies — which included torture and the deadly bombing of tens of thousands of innocent Iraqis — while pursuing non-existent weapons of mass destruction.\n\nFor these reasons, it is no small thing to see Foreign Affairs author Audrey Kurth Cronin argue that if Al Qaeda perished, it was owing to its own dysfunctions and follies rather than the multi-trillion-dollar global wars that the US unleashed on the rest of the world.\n\nThe years since 9/11 have done their damage.\n\nThere are many reasons for this shift in US foreign policy. President Donald Trump’s ill-advised war on Iran does not use the same rhetoric as that deployed by neoconservative Republicans for much of the so-called war on terror. There are political calculations behind this. A huge section of the ‘new right’ (isolationist, nationalist Republicans) is far more interested in shutting down borders than in the war on terror, whose ‘foreign war’ expenditures they see as directly responsible for the lack of resources at home.\n\nOne example of this shifting political view can be seen in the positions of Tucker Carlson —a far-right former Fox TV personality who now runs his own media network and has millions of subscribers and loyal fans. In his 9/11 documentary series, which is available on YouTube, Carlson says the ‘official account’ is a lie and the 9/11 Commission was a cover-up. He questions aspects of the established account that 19 Al Qaeda hijackers carried out the attacks planned by figures including Osama bin Laden and Khalid Sheikh Mohammad, and raises allegations that the CIA knew more about some of the hijackers before the attacks. He further questions why Israeli intelligence knew about the possibility of the attacks and whether it warned the US, pointing to how the wars in the Middle East have benefited that country.\n\nAll this is to say that whether it is foreign policy establishment journals like Foreign Affairs or far right commentators like Tucker Carlson, the possibility that the war on terror was motivated by incentives other than those stated for decades is becoming an increasingly common perspective. The far left, which was a small bastion of American political thought that opposed the global war, cannot help but be smug about these de­­velopments. The Nation, for instance, used the occasion to publish an article that noted how, after 25 years,\n\nit became alright to ma­­­ke jokes about 9/11. More than 100 million Americans alive to­­day were born after the attacks, which it notes cynically, helped the shift.\n\nSadly, realising that bombing Muslim countries in pursuit of terrorists does not add up is not the same as realising that demonising religion is similarly self-serving and misinformed.\n\nThe two and a half decades in which ‘Islamic’ and ‘terror’ were said as one word have done their damage. Indeed, the chunk of diehards that support the war on Iran are mostly happy that the bombing ensures Muslims are being killed.\n\nNothing is a bigger face-palm to the neoconservative Islamophobes who oversaw the torture and killing of Muslims and the destruction of countless homes than the fact that the city that saw the attacks now has a Muslim mayor. This 9/11, Zohran Mamdani attended a memorial to the victims — his presence and leadership becoming the best testimony against the American-led war on terror and the delusions that promoted it.\n\nThe writer is an attorney teaching constitutional law and political philosophy.\n\nPublished in Dawn, September 12th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "International Relations / Current Affairs",
+    "topic": "Evolution of US Foreign Policy Post-9/11 and the 'War on Terror' Narrative",
+    "whyMatters": "This article highlights a crucial re-evaluation of US foreign policy post-9/11, moving away from past jingoistic rhetoric towards a more introspective and critical stance. Understanding this shift is vital for analyzing global political dynamics, US-Middle East relations, and the future of counter-terrorism strategies, offering nuanced arguments for competitive exam essays.",
+    "summary": [
+      "The US is reportedly closing the chapter on the post-9/11 'war on terror' narrative, with even establishment foreign policy journals like Foreign Affairs reflecting a shift away from war-mongering rhetoric.",
+      "A key reason for this shift is the emergence of a 'new right' (isolationist, nationalist Republicans) more concerned with domestic issues, border security, and reducing foreign war expenditures.",
+      "Both mainstream foreign policy thinkers and far-right commentators like Tucker Carlson are increasingly questioning the official accounts and stated motivations behind the 9/11 attacks and the subsequent war on terror.",
+      "The article critically notes that while the 'war on terror' narrative is fading, the underlying demonization of religion, particularly Islam, often persists among some, despite symbolic changes like a Muslim mayor attending a 9/11 memorial."
+    ],
+    "facts": [
+      "The US marked the 25th anniversary of the 9/11 attacks in September 2026.",
+      "Foreign Affairs journal, in its September/October 2026 issue, suggests the US is closing the chapter on the 'war on terror'.",
+      "More than 100 million Americans alive today were born after the 9/11 attacks."
+    ],
+    "academicReferences": [
+      "Andrew J. Bacevich, 'The Imperial Tense: Prospects and Problems of American Empire' (for critical perspective on US foreign policy).",
+      "Reports by the Council on Foreign Relations (CFR) on US-Middle East policy shifts (for expert analysis of diplomatic strategy).",
+      "The 9/11 Commission Report (to contrast with the questioning of official accounts mentioned in the article)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Zealotry",
+        "type": "noun",
+        "definition": "Excessive and uncritical passion or fervor for a cause or object.",
+        "sentence": "For much of the quarter century following the attack, the occasion was used to showcase patriotic zealotry."
+      },
+      {
+        "word": "Diatribes",
+        "type": "noun",
+        "definition": "A forceful and bitter verbal attack against someone or something.",
+        "sentence": "These included essays by former defence secretary William Perry who argued in 2001 that the US should fight terrorism with a global campaign rather than just a single military effort directed at one country. Similarly, former secretary of state Colin Powell in 2004 defended the Bush administration’s policies — which included torture and the deadly bombing of tens of thousands of innocent Iraqis — while pursuing non-existent weapons of mass destruction."
+      },
+      {
+        "word": "Bastion",
+        "type": "noun",
+        "definition": "A place or system in which something continues to survive or flourish.",
+        "sentence": "The far left, which was a small bastion of American political thought that opposed the global war, cannot help but be smug about these de­­velopments."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is a primary driver of the shifting US foreign policy discourse away from the traditional 'war on terror' narrative?",
+        "options": [
+          "A) A significant increase in global terrorist threats requiring new strategies.",
+          "B) The economic prosperity of nations previously targeted by the 'war on terror'.",
+          "C) The rise of an isolationist 'new right' prioritizing domestic issues and border security over foreign wars.",
+          "D) A unanimous agreement between neoconservatives and the far-left on foreign policy objectives."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that 'A huge section of the ‘new right’ (isolationist, nationalist Republicans) is far more interested in shutting down borders than in the war on terror, whose ‘foreign war’ expenditures they see as directly responsible for the lack of resources at home.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "According to the article, what significant shift has occurred in the US discourse regarding the 'war on terror' 25 years after 9/11?",
+        "back": "The US is reportedly 'closing a chapter' on the post-9/11 war on terror, moving away from patriotic zealotry and calls for attacking Muslim countries, even within establishment foreign policy circles like Foreign Affairs."
+      },
+      {
+        "front": "How does the article explain the 'new right's' perspective on 'war on terror' expenditures?",
+        "back": "The 'new right' (isolationist, nationalist Republicans) views 'foreign war' expenditures as directly responsible for the lack of resources at home and is more interested in domestic issues like shutting down borders."
+      },
+      {
+        "front": "What is the significance of Tucker Carlson's 9/11 documentary series as mentioned in the article?",
+        "back": "Carlson's series questions the official 9/11 narrative and the 9/11 Commission, suggesting alternative motivations and government knowledge, which the article cites as an example of common questioning of the stated incentives for the war on terror."
+      },
+      {
+        "front": "How does the presence of Zohran Mamdani at a 9/11 memorial serve as a symbolic counter-narrative to the American-led war on terror?",
+        "back": "As a Muslim mayor, Mamdani's presence and leadership are presented as the 'best testimony against the American-led war on terror and the delusions that promoted it,' especially against the backdrop of neoconservative Islamophobia."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789178216268-607",
+    "title": "Terror forever\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029053/terror-forever",
+    "date": "2026-09-11",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "THE 9/11 attacks happened 25 years ago, ushering in a new epoch. The so-called global war on terror was launched by the Bush administration a few days later, and Washington has wreaked havoc across the globe ever since.\n\nThe majority of the world’s states have followed the US lead by making the prosecution and hunting down of ‘terrorists’ their primary raison d’être. Ideological apparatuses, including the culture industry, have indoctrinated generations of young and old alike into believing that ‘terror’ is ubiquitous and that the state must be endlessly empowered to snuff it out, even at the cost of basic liberties.\n\nPakistan was one of the major staging grounds of the ‘war on terror’, facilitating both the US invasion and occupation of Afghanistan whilst also launching innumerable military operations on its own soil. A plethora of ‘anti-terrorist’ laws have been promulgated since 2001, the scope of which is growing wider. While these instruments are deployed to clamp down on all forms of dissent and popular political mobilisation, the insurgencies and other forms of political violence that ostensibly should have been curbed by the state’s various ‘counterterrorist’ initiatives have only become more intense.\n\nBeneath the surface, a global military-industrial complex profits endlessly from the West’s totalitarian regime. Washington has thrown $8 trillion at various wars since 2001, a significant chunk of which has been pocketed by private defence contractors integrated with the deep state. In Pakistan, too, the ‘war on terror’ inaugurated a host of opportunities for state functionaries and private contractors to mint money.\n\nThe policing of dissent is paralleled by Big Tech’s power.\n\nToday, we are at another crossroads. With the rise of Big Tech to the apex of global capitalism, the nexus of state and private capital has morphed into a behemoth without historical precedent. The discourse around ‘terrorism’ expanded some years ago in conjunction with the dramatic transformations of cultural, economic and political life provoked by digitalisation. Terms like ‘cyberterrorism/‘cybersecurity’ and ‘fifth-generation war’ reflect the evolution of a political idiom that both incorporates the logics of the war on terror and extends well beyond it.\n\nThe policing of dissent by the state and aligned propagandists in the digital lifeworld is paralleled by the immense power of Big Tech companies to access, share and manipulate data. Earlier this week, a whistleblower resigned from Anthropic, warning that AI development is being allowed to spiral into an existential threat to humanity. Anthropic’s Claude tool has already shown its destructive capabilities at the outset of the war on Iran. Edward Snowden told us what was coming as early as 2013.\n\nDespite their claims of being pro-market libertarians, billionaires like Peter Thiel and Elon Musk are buttressing the state’s immense coercive and surveillance capacities. They view humanity as a plaything that is, at best, ‘saved’ and, at worst, sacrificed in the interests of landing on Mars or crafting more ‘intelligent’ species. Quite aside from hyperbolic claims that an AI-triggered extinction event is around the corner, the unbridled pursuit of power and profit by Big Tech alongside the contemporary state’s unlimited quest for social control must surely trouble anyone concerned with the age-old quest for human emancipation.\n\nEven non-human life is at stake. At a time when climate breakdown events are playing out with ever greater frequency and intensity, states everywhere are bending over backwards to build huge data centres to serve Big Tech’s interests by guaranteeing eno­rmous and unint­errupted supplies of electricity and water. The US st­­a­te and Silicon Val­ley billionaires are the primary protagonists of the contemporary militarised capitalist order. But we cannot be seduced by blind-faith arguments that there are ‘good’ states — not least of them our own — and ‘green’ capitalisms that do not conform to the overarching logic of the system.\n\nWe need, instead, to learn the lessons from the ‘war on terror’ and stop being cheerleaders for an even more sinister and unhinged digitalised fusion of state and corporate power that will shape our present and future.\n\nA critical mass in Pakistan continues to speak truth to the militarised ruling class over its whittling away of the few civil liberties we still possess, including in the digital domain, whilst also resisting resource grabs and dispossession. The challenge, however, is outlined every time an episode of ‘terrorism’ is capitalised upon by the state to whip up a nationalist frenzy in which all good sense is abandoned.\n\nIf the global totalitarian regime’s march is to be halted, we must coalesce around an anti-capitalist ideological politics rooted in working people and nature. And soon.\n\nThe writer teaches at Quaid-i-Azam University, Islamabad.\n\nPublished in Dawn, September 11th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "International Relations / Pakistan Affairs / Current Affairs",
+    "topic": "The Global War on Terror, State Surveillance, and the State-Big Tech Nexus",
+    "whyMatters": "This article offers a critical lens on the post-9/11 global order, linking the 'war on terror' to state overreach, the military-industrial complex, and the unprecedented power of Big Tech. It provides crucial arguments for analyzing contemporary challenges related to civil liberties, digital surveillance, and the evolving nature of capitalism.",
+    "summary": [
+      "The post-9/11 'global war on terror' ushered in a new epoch marked by widespread state empowerment, erosion of basic liberties, and ideological indoctrination to justify constant state intervention.",
+      "This 'war' functions as a profit engine for a global military-industrial complex and state functionaries, exemplified by Washington's $8 trillion expenditure since 2001, largely benefiting private defense contractors.",
+      "The rise of Big Tech has forged an unprecedented state-private capital nexus, expanding surveillance and policing dissent through new digital idioms like 'cyberterrorism' and 'fifth-generation war,' further eroding freedoms.",
+      "This militarized capitalist order, driven by the US state and Silicon Valley billionaires, poses existential threats to human emancipation and non-human life, necessitating a collective anti-capitalist politics rooted in working people and nature."
+    ],
+    "facts": [
+      "The 9/11 attacks happened 25 years ago (as per the article's publication date of Sept 11th, 2026, implying 9/11/2001).",
+      "Washington has spent $8 trillion on various wars since 2001, with a significant chunk pocketed by private defence contractors.",
+      "Edward Snowden warned about pervasive surveillance and its implications as early as 2013."
+    ],
+    "academicReferences": [
+      "Naomi Klein's 'The Shock Doctrine: The Rise of Disaster Capitalism' (for understanding how crises are exploited for profit and policy shifts).",
+      "Shoshana Zuboff's 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power' (for insights into Big Tech's power and data manipulation).",
+      "Michel Foucault's 'Discipline and Punish: The Birth of the Prison' (for conceptualizing state control, disciplinary power, and the normalization of surveillance in society)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Epoch",
+        "type": "noun",
+        "definition": "A period in history or a person's life, typically one marked by notable events or particular characteristics.",
+        "sentence": "The 9/11 attacks happened 25 years ago, ushering in a new epoch."
+      },
+      {
+        "word": "Raison d’être",
+        "type": "noun",
+        "definition": "The most important reason or purpose for someone or something's existence.",
+        "sentence": "The majority of the world’s states have followed the US lead by making the prosecution and hunting down of ‘terrorists’ their primary raison d’être."
+      },
+      {
+        "word": "Ubiquitous",
+        "type": "adjective",
+        "definition": "Present, appearing, or found everywhere.",
+        "sentence": "Ideological apparatuses have indoctrinated generations of young and old alike into believing that ‘terror’ is ubiquitous."
+      },
+      {
+        "word": "Promulgated",
+        "type": "verb",
+        "definition": "To put (a law or decree) into effect by official proclamation.",
+        "sentence": "A plethora of ‘anti-terrorist’ laws have been promulgated since 2001."
+      },
+      {
+        "word": "Nexus",
+        "type": "noun",
+        "definition": "A connection or series of connections linking two or more things.",
+        "sentence": "The nexus of state and private capital has morphed into a behemoth without historical precedent."
+      },
+      {
+        "word": "Coalesce",
+        "type": "verb",
+        "definition": "To come together to form one mass or whole.",
+        "sentence": "If the global totalitarian regime’s march is to be halted, we must coalesce around an anti-capitalist ideological politics rooted in working people and nature."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was a primary consequence of the 'global war on terror' launched after 9/11?",
+        "options": [
+          "Enhanced global cooperation on human rights.",
+          "Reduced military spending worldwide.",
+          "Empowerment of states at the cost of basic liberties.",
+          "Decline of the military-industrial complex."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that states were 'endlessly empowered to snuff it out, even at the cost of basic liberties'."
+      },
+      {
+        "question": "What amount did Washington reportedly spend on various wars since 2001, according to the article?",
+        "options": [
+          "$8 billion",
+          "$800 billion",
+          "$8 trillion",
+          "$80 trillion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Washington has thrown $8 trillion at various wars since 2001'."
+      },
+      {
+        "question": "How does the article characterize the relationship between Big Tech and the state in the contemporary era?",
+        "options": [
+          "A competitive dynamic for market control.",
+          "A benevolent partnership for technological advancement.",
+          "A 'behemoth without historical precedent' due to their combined power.",
+          "An alliance primarily focused on environmental protection."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article describes 'the nexus of state and private capital has morphed into a behemoth without historical precedent' with the rise of Big Tech."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What major shift did the 9/11 attacks and the subsequent 'war on terror' usher in, according      to the article?",
+        "back": "A new epoch characterized by states being endlessly empowered to combat 'terror,' often at the cost of basic liberties and through ideological indoctrination."
+      },
+      {
+        "front": "How does the article link the 'war on terror' to economic interests?",
+        "back": "It highlights how a global military-industrial complex and state functionaries profit endlessly, with Washington spending $8 trillion since 2001, much of which goes to private defense contractors."
+      },
+      {
+        "front": "What is the core concern raised about the rise of Big Tech in conjunction with the state?",
+        "back": "The formation of an unprecedented state and private capital nexus, which expands surveillance and the policing of dissent through digital means, threatening human emancipation."
+      },
+      {
+        "front": "What ultimate political action does the author advocate to counter the 'global totalitarian regime’s march'?",
+        "back": "To coalesce around an anti-capitalist ideological politics rooted in working people and nature, learning lessons from the 'war on terror'."
+      }
+    ]
+  },
+  {
     "id": "curated-1789091152207-985",
     "title": "Message from Nepal\n",
     "source": "Dawn",
@@ -160,6 +758,99 @@
       {
         "front": "What external factor is identified as significantly aggravating Pakistan's external sector fragility in the near future?",
         "back": "High global oil prices, exacerbated by the prolonged Middle East conflict, depleted global oil inventories, and disruptions to key shipping straits (Hormuz and Bab Al Mandeb), are identified as a major factor that could intensify the external sector's fragility."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789178558759-629",
+    "title": "Beyond abeyance: rethinking the future of IWT",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2628596/beyond-abeyance-rethinking-the-future-of-iwt",
+    "date": "2026-09-10",
+    "author": "\n\t\t\t\tSyed Mohammad Ali.\n\t\t\t",
+    "content": "India's placing of the Indus Waters Treaty (IWT) in \"abeyance\" has no legal justification. A neutral expert process and, more recently, the Court of Arbitration at The Hague reaffirmed that the 1960 treaty remains in force and rejected the notion that India can unilaterally suspend it. Pakistan has welcomed these decisions, while India has rejected them.\n\nThe result is a paradox: the treaty remains legally in force but has become increasingly dysfunctional in practice.\n\nThe Permanent Indus Commission, the principal bilateral mechanism for implementing the treaty, has not held a formal annual meeting since 2022. Its commissioners are required to meet at least once a year to facilitate communication, information exchange and cooperation. The disruption of this vital mechanism has made technical disagreements harder to manage.\n\nEven before declaring the treaty in abeyance in 2025, New Delhi had sought its modification, issuing notices to Pakistan in 2023 and 2024. Pakistan has also challenged the design of Indian run-of-river dams on the western rivers, seeking arbitration under the treaty to resolve these disputes. A more constructive approach would have been for both countries to address these differences through bilateral negotiations.\n\nSome experts point out how the IWT's rigid division of the rivers has encouraged a narrow, zero-sum approach to water rather than fostering genuine basin-wide cooperation. Yet, Pakistan is understandably wary of abandoning or renegotiating the treaty, especially when India is now unwilling to cooperate within its existing framework.\n\nIWT does contain an underused mechanism for expanding cooperation. Article VII recognises that India and Pakistan have a \"common interest\" in the optimum development of the rivers and provides for further cooperation by mutual agreement. This offers a framework for addressing issues the original treaty did not adequately anticipate, including groundwater management, water quality and climate change.\n\nIndia and Pakistan could also negotiate memoranda of understanding and technical protocols alongside the IWT without necessarily reopening its core provisions.\n\nThe division of the six rivers under the IWT in 1960 provided an imperfect but durable framework for managing India-Pakistan water relations. But the treaty was not designed to address the challenges facing the Indus Basin in the twenty-first century.\n\nThe Indus Basin is changing. Climate change is altering precipitation and snow and glacier melt patterns, increasing the risks of both flooding and water stress. The Indus delta has also suffered from reduced freshwater and sediment flows, contributing to significant ecological stress.\n\nClimate monitoring, glacier observation and flood forecasting are practical and mutually beneficial areas of cooperation that do not require either country to resolve its broader political disputes first.\n\nThe immediate priority should be restoring the treaty's institutional machinery, including resumption of regular meetings of the Permanent Indus Commission, and restoring routine data exchange and inspections. This could set the stage for initiating discussions on climate-proofing the treaty and ensuring its long-term sustainability.\n\nIndia cannot afford to view itself simply as an upstream riparian dealing with a downstream Pakistan. With the Indus originating in Tibet and its tributaries flowing through both countries, the health of its rivers, glaciers and associated ecosystems affects both. India is thus a co-riparian within a shared and increasingly stressed Indus basin.\n\nInternational actors, including the United States, should encourage both countries to preserve the treaty framework rather than allow water cooperation to become another casualty of their broader security tensions. Using a water treaty as leverage in a separate security dispute risks undermining one of the few institutional mechanisms that has endured repeated crises between the two nuclear neighbours.",
+    "matchedQuestion": {
+      "id": "PA-2025-IWT",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Pakistan Affairs",
+    "topic": "Indus Waters Treaty: Current Challenges, Dysfunction, and Future Cooperation between Pakistan and India",
+    "whyMatters": "This article offers a contemporary analysis of the Indus Waters Treaty (IWT), detailing its current state of dysfunction and the legal challenges faced. It critically evaluates how the 1960 treaty, while originally providing a durable framework, now struggles to address 21st-century environmental and political realities, making it essential for understanding evolving India-Pakistan water relations.",
+    "summary": [
+      "The IWT (1960) established an imperfect but durable framework by dividing the six Indus rivers, assigning eastern rivers to India and western rivers predominantly to Pakistan, which initially stabilized water distribution and relations.",
+      "Despite India's unilateral declaration of the treaty in \"abeyance\" in 2025, international expert processes and the Court of Arbitration have reaffirmed its legal force, creating a paradox of legal validity but practical dysfunction.",
+      "The principal bilateral mechanism, the Permanent Indus Commission, has not held formal annual meetings since 2022, severely disrupting communication, data exchange, and making technical disagreements between the two nations harder to manage.",
+      "The treaty is not equipped to address modern challenges like climate change, groundwater management, and water quality, necessitating expanded cooperation through underused mechanisms like Article VII or new technical protocols, rather than renegotiation."
+    ],
+    "facts": [
+      "The Indus Waters Treaty (IWT) was signed in 1960.",
+      "India sought modification of the IWT, issuing notices to Pakistan in 2023 and 2024, and declared the treaty in \"abeyance\" in 2025.",
+      "The Permanent Indus Commission, the core bilateral mechanism, has not held a formal annual meeting since 2022."
+    ],
+    "academicReferences": [
+      "International Law Commission's Articles on the Law of the Non-Navigational Uses of International Watercourses (1997)",
+      "World Bank's Role in brokering the Indus Waters Treaty (1960) and subsequent reports on transboundary water management",
+      "Comparative analysis of other transboundary water treaties (e.g., Nile Waters Agreement, Mekong River Commission agreements)"
+    ],
+    "vocabulary": [
+      {
+        "word": "abeyance",
+        "type": "noun",
+        "definition": "A state of temporary disuse or suspension.",
+        "sentence": "India's placing of the Indus Waters Treaty (IWT) in 'abeyance' has no legal justification."
+      },
+      {
+        "word": "riparian",
+        "type": "adjective",
+        "definition": "Relating to or situated on the banks of a river.",
+        "sentence": "India cannot afford to view itself simply as an upstream riparian dealing with a downstream Pakistan."
+      },
+      {
+        "word": "paradox",
+        "type": "noun",
+        "definition": "A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.",
+        "sentence": "The result is a paradox: the treaty remains legally in force but has become increasingly dysfunctional in practice."
+      },
+      {
+        "word": "unilaterally",
+        "type": "adverb",
+        "definition": "Done or undertaken by one person or party without the agreement of another.",
+        "sentence": "A neutral expert process and, more recently, the Court of Arbitration at The Hague reaffirmed that the 1960 treaty remains in force and rejected the notion that India can unilaterally suspend it."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the current status of the Indus Waters Treaty (IWT) according to the article?",
+        "options": [
+          "A) It has been legally suspended by India and is no longer in force.",
+          "B) It remains legally in force but is practically dysfunctional due to lack of bilateral cooperation.",
+          "C) It has been renegotiated to include climate change provisions.",
+          "D) Pakistan has unilaterally withdrawn from the treaty."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'the treaty remains legally in force but has become increasingly dysfunctional in practice,' despite India's attempts to place it in abeyance, which international bodies rejected."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How did the IWT initially affect water distribution between India and Pakistan?",
+        "back": "The IWT divided the six Indus rivers, granting India control over the eastern rivers (Ravi, Beas, Sutlej) and Pakistan control over the western rivers (Indus, Jhelum, Chenab), establishing a clear, albeit imperfect, distribution framework."
+      },
+      {
+        "front": "What is the primary reason for the IWT's current dysfunction despite remaining legally in force?",
+        "back": "The primary reason is the breakdown of the Permanent Indus Commission, which has not held formal annual meetings since 2022, disrupting vital communication, data exchange, and dispute resolution mechanisms."
+      },
+      {
+        "front": "According to the article, what key challenge does the IWT fail to adequately address in the 21st century?",
+        "back": "The treaty was not designed to address contemporary challenges such as climate change (altering precipitation, snow/glacier melt), groundwater management, and water quality issues in the Indus Basin."
+      },
+      {
+        "front": "What mechanism does the article suggest within the existing IWT for expanding cooperation?",
+        "back": "Article VII of the IWT recognizes 'common interest' in optimum river development, providing a framework for further cooperation by mutual agreement on issues like climate monitoring and flood forecasting, without necessarily reopening core provisions."
       }
     ]
   },
@@ -9515,718 +10206,6 @@
       {
         "front": "How do technological advancements like AI and automation pose a dilemma for policymakers in countries like India?",
         "back": "They enhance competitiveness but are skill-intensive and displace low-skilled workers, challenging policymakers to maintain technological edge while creating sufficient jobs for millions without advanced skills."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786068220190-374",
-    "title": "Bloated bureaucracy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020927/bloated-bureaucracy",
-    "date": "2026-08-06",
-    "author": "none@none.com (Naeem Sadiq)",
-    "content": "ONE does not have to be a jaundiced cynic to reach the unfortunate conclusion that two factors — the unchecked daily arrival of 19,000 newborns and a colonial, reform-resistant, bloated bureaucracy — appear all set to seal the fate of Pakistan. The government tackles the first crisis through symbolic optics such as having the military chief on the Population Committee — while leaving the core reforms unaddressed. The crisis of the disinterested and dysfunctional bureaucracy is managed by archaic appeasement tools, such as raising salaries, allowances, perks and bonuses. Ours might be the unique country that diverts the resources meant for its people towards the luxuries of a non-performing parasitic elite. This has created a grotesque divide — a privileged few travel in Fortuners and Gulfstreams, while thousands are condemned to descend and die in poisonous raw sewage-filled gutters.\nAmid these existential threats, dismantling our obsolete bureaucracy is not an option. This article is about using a rigorous PDDI (process, digitise, dismantle, improve) cycle that could radically transform and uplift Pakistan. The following text demonstrates how a lean task force of roughly a dozen committed citizens and domain experts can accomplish this transformation.\nThe first rule of change is to focus on the ‘processes’. For instance, to map and document, in plain language, how every process ‘actually’ works — which is invariably different to how it is officially projected. Consider the example of the Balochistan Zakat Department, where over 100 employees consume Rs1.6 billion to distribute a zakat fund of Rs300 million. This mindless clerical task could be redesigned and performed by just one individual.\nLikewise, the Federal Zakat Department employs 13 officials (including one Grade 19, two Grade 18, two Grade 16 and two Grade 15 officers) to simply transfer the yearly zakat fund to the four provinces. This entire department could be easily abolished, with standing instructions given to banks for annual disbursements. Imagine the crushing burden of the Fortuners, perks and lifelong pensions awarded to such officials — a deliberately created burden that will weigh on taxpayers for generations.\nEntire departments could be easily abolished.\nPakistan’s much-publicised digital transformation is largely cosmetic and superficial. Expensive seminars and exhibitions showcase AI, while 98pc of the bureaucracy still does not even use email for routine correspondence. Millions of citizens in hundreds of union councils are made to undergo convoluted and tortuous procedures for routine civil registrations. These processes are so painful that half of the deaths and 60pc of births are not registered for years. This could be highly simplified if all hospitals, BHUs and graveyards were to be directly linked to Nadra. Why must citizens be required to repeatedly provide the same photocopies and affidavits to multiple departments — something that can be avoided if all databases are integrated and shared across various state departments such as tax, housing, health, education, banks, pensions, salaries and immigration? A document filed with one department ought to be automatically available to all other authorised departments.\nSuccessive pledges to introduce austerity and reduce the size of government have remained little more than empty rhetoric. A June 2025 announcement by the finance minister promised to trim 43 ministries and nearly 400 affiliated departments by June 30, 2025. The Sindh government’s um­-p­­teenth promise in July 2026 to dism­iss more than 10,000 ‘ghost employees’ was yet another eyewash. Hun­dre­­ds of departments, commissions and authorities have been created sole­­ly as well-paid par­king spaces for fri­ends and relatives. The Nepra chairman’s monthly salary of Rs3.2m provides a minor glimpse of this patronage. Numerous symbolic departments and institutions, such as those responsible for human rights, child protection, right to information, Council of Islamic Ideology, Bait-ul-Mal, zakat and ushr, poverty alleviation, workers’ welfare, Nepra, EOBI and the 25 SOEs that lost Rs832bn in 2025 could be shut down.\nVarious overlapping ministries, such as communication, railways, maritime affairs and aviation, could be easily merged into a single ministry. The same is true of numerous police forces created under different fancy names.\nPakistan continues to remain blind to two fundamental realities. Its future hinges on bringing its total fertility rate down from 3.6 to 2.0 and reducing government to one-quarter of its current size. The time to embark on these two reforms is now.\nThe writer is an industrial engineer and a volunteer social activist.\nnaeemsadiq@gmail.com\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs / Public Administration / Current Affairs / Governance",
-    "topic": "Bureaucratic Reforms, Governance Challenges, and Public Sector Efficiency in Pakistan",
-    "whyMatters": "This article offers a critical analysis of Pakistan's governance failures and a practical framework for bureaucratic reform. Aspirants can use its arguments and examples to construct robust essays on state capacity, public service delivery, and economic development challenges.",
-    "summary": [
-      "Pakistan faces existential threats from unchecked population growth and a colonial, reform-resistant, bloated bureaucracy.",
-      "The current methods of managing bureaucratic dysfunction, such as salary hikes, are deemed archaic appeasement, diverting resources to a non-performing, parasitic elite.",
-      "A rigorous PDDI (process, digitise, dismantle, improve) cycle is proposed, to be implemented by a lean task force, to radically transform and uplift the bureaucracy.",
-      "Key reforms include mapping actual processes, extensive digitisation and database integration, abolishing redundant departments (e.g., Federal Zakat Department), merging overlapping ministries, and drastically reducing government size alongside population control."
-    ],
-    "facts": [
-      "The Balochistan Zakat Department employs over 100 individuals, consuming Rs1.6 billion, to distribute a Rs300 million zakat fund.",
-      "98% of Pakistan's bureaucracy does not use email for routine correspondence, and half of deaths/60% of births are not registered for years.",
-      "25 State-Owned Enterprises (SOEs) in Pakistan collectively lost Rs832 billion in 2025."
-    ],
-    "academicReferences": [
-      "Dr. Ishrat Husain's 'Governing the Ungovernable: Institutional Reforms in Pakistan'",
-      "National Civil Service Reform Commission Reports (e.g., from the Government of Pakistan)",
-      "OECD Public Governance Reviews and E-Governance Initiatives"
-    ],
-    "vocabulary": [
-      {
-        "word": "jaundiced",
-        "type": "adjective",
-        "definition": "having a prejudiced view, usually negative or cynical, as a result of experience.",
-        "sentence": "One does not have to be a jaundiced cynic to reach the unfortunate conclusion that two factors…appear all set to seal the fate of Pakistan."
-      },
-      {
-        "word": "archaic",
-        "type": "adjective",
-        "definition": "very old or old-fashioned; relating to an earlier period in time.",
-        "sentence": "The crisis of the disinterested and dysfunctional bureaucracy is managed by archaic appeasement tools, such as raising salaries."
-      },
-      {
-        "word": "grotesque",
-        "type": "adjective",
-        "definition": "repulsively ugly or distorted; comically or repulsively ugly or distorted.",
-        "sentence": "This has created a grotesque divide — a privileged few travel in Fortuners and Gulfstreams, while thousands are condemned to descend and die in poisonous raw sewage-filled gutters."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What are the two main existential threats to Pakistan identified in the article?",
-        "options": [
-          "Unchecked population growth and a bloated bureaucracy",
-          "Political instability and economic recession",
-          "Climate change and foreign interference",
-          "Illiteracy and lack of industrialization"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states: 'two factors — the unchecked daily arrival of 19,000 newborns and a colonial, reform-resistant, bloated bureaucracy — appear all set to seal the fate of Pakistan.'"
-      },
-      {
-        "question": "The proposed 'PDDI' cycle for bureaucratic transformation stands for:",
-        "options": [
-          "Process, Digitise, Dismantle, Improve",
-          "Plan, Develop, Deploy, Innovate",
-          "Public, Digital, Data, Integration",
-          "Policy, Design, Deliver, Implement"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states: 'This article is about using a rigorous PDDI (process, digitise, dismantle, improve) cycle that could radically transform and uplift Pakistan.'"
-      },
-      {
-        "question": "According to the author, what proportion of the government's current size should Pakistan aim to reduce it to?",
-        "options": [
-          "One-half",
-          "One-third",
-          "One-quarter",
-          "One-fifth"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article concludes: 'Its future hinges on...reducing government to one-quarter of its current size.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the two primary existential threats identified by the author for Pakistan?",
-        "back": "Unchecked daily arrival of 19,000 newborns and a colonial, reform-resistant, bloated bureaucracy."
-      },
-      {
-        "front": "How does the article describe Pakistan's much-publicised digital transformation efforts?",
-        "back": "It is largely cosmetic and superficial, with 98% of the bureaucracy not even using email for routine correspondence and citizens enduring convoluted procedures due to non-integrated databases."
-      },
-      {
-        "front": "Provide an example from the article illustrating extreme bureaucratic inefficiency or redundancy.",
-        "back": "The Balochistan Zakat Department employs over 100 individuals who consume Rs1.6 billion to distribute a zakat fund of Rs300 million, a task manageable by one person."
-      },
-      {
-        "front": "Beyond bureaucratic reform, what is the other fundamental reality Pakistan must address for its future, according to the article?",
-        "back": "Bringing its total fertility rate down from 3.6 to 2.0."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786067970968-451",
-    "title": "Wrecking the provinces\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020929/wrecking-the-provinces",
-    "date": "2026-08-06",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "ONE good thing that has come out of this whole conversation about building the federation on new foundations is that it has exposed the most opportunistic elements among us. Those who crave the opportunity to enter public life but have no chance to do so as long as Pakistan remains even nominally a democracy are the ones most excited by the idea of dismantling the federal structure and replacing it with some reloaded form of a unitary state from the 1960s.\nLet’s get one thing clear. None of this is about bringing ‘good governance’. Those are pious words that are always used to mask impious intentions. This is actually about wrecking the fortresses into which the democratic forces of the country have been forced to retreat. The democratic forces are the political parties, which with all their inadequacies and imperfections, are the only carriers of the people’s will in our society today. There are three main parties — the PTI, PML-N and PPP. Each controls one provincial government. Each is nourished, indeed kept alive, by the resources and powers of the provincial government they control. Without this control, their voice and presence in the country would shrink — much like the PML-Q shrank when it lost control of the federal government in 2008, and then made a spirited attempt to try and gain control of Punjab in 2022.\n    \nThis is exactly the situation that the 18th Amendment and its associated NFC award anticipated. That is why the provinces were strengthened and endowed with ample resources. The idea was to build little fortresses around the country into which civilian, democratically based power centres could retreat when the inevitable reassertion of non-democratic power came. That moment is now upon us, and the interior minister’s words suggesting that the “system has collapsed” and perhaps a new federal structure is needed are the first major growl of non-democratic forces against these fortresses.\nThe contest is now on. Underlying the whole affair is the struggle over resources and who gets how much. Since July 2023, Pakistan has been stuck in a gruelling economic stabilisation programme that has choked off growth and placed a heavy burden on the citizenry and owners of capital, just so the state could rebuild its fiscal and foreign exchange buffers. Those buffers have not been rebuilt — not even close. The State Bank hinted that it would have reached its reserve target by December, implying that from that point onwards the foreign exchange flowing into the country would be available to help finance private sector activity rather than being used for reserve building purposes. The announcement by the government of two subsidised credit schemes, at least one of which appears to directly breach commitments given to the IMF, is another indication that the gears are now shifting away from stabilisation and towards growth.\nUnderlying the whole affair is the struggle over resources and who gets how much.\nSo here’s what has happened. The political parties were allowed to own the hard part — stabilisation. But now that the gears are shifting towards growth, now that the party is set to begin and the hard work of the previous three years to bear fruit, there are rumblings of discontent rising from the depths of the state. It seems they want to keep the good times to themselves. First, they sought to find creative ways to roll back NFC allocations, and a compromise was reached in which the funds demanded by the centre were made available to them from provincial coffers without any modifications to the NFC formula. Now it seems more demands have arisen.\n    \nIt won’t work though. Redrawing the federation is too large an enterprise to pull off without violating the Constitution, and the DG ISPR was clear that violating the Constitution is a “red line” that nobody should cross. That statement will remain operative until a new one. So until then it seems the instability rippling through the system will remain confined to verbal duelling between proxy voices. But notice has been served.\nUnderlying all this is the same question that has underlain all civil-military politics in Pakistan: resources. The game revolves around who controls the material resources of the state, and what purpose these resources are directed towards. One side has told us what they want: a ‘hard state’, meaning a state in which security of the realm is the foremost objective and no obstacle is allowed to stand in its way. It is in this vein that the interior minister, who has been aptly described by the defence minister as being both in and out of the cabinet at the same time, was able to express his views on how the ‘system has collapsed’ at an event hosted by a business lobbying group, during which he also gently criticised the prime minister’s laptop scheme. It is worth noting that the same minister distributed laptops among students at the Quaid-i-Azam University under the same scheme in January this year, while the Punjab chief minister ran her own laptop distribution scheme for students.\nIn all this, the other side wants to buy back the Punjab voter, and hold on to the bases of their power in the meantime. This is taking state resources, and by mentioning the laptop scheme, the interior minister specifically targeted those schemes that are designed to help the ruling party in Punjab re-establish their connection with the voters they fear they have lost since 2017. Schemes such as these, and megaprojects, are exactly how the PML-N had built its relationship with the Punjab voter in the 1990s.\nIt does not yet look like the set-up will change much in the near future. There is still plenty of room for politics to keep matters afloat. But stabilisation has ended, and with growth set to resume, some changes are being sought.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-FED",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
-    },
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs",
-    "topic": "Federalism, 18th Amendment, and Civil-Military Relations in Pakistan",
-    "whyMatters": "This article provides a contemporary, critical analysis of the 18th Amendment's role in strengthening provincial autonomy against non-democratic forces. It directly addresses the 'why criticism started' aspect by linking it to a struggle for resources and control between state elements and democratic parties.",
-    "summary": [
-      "The ongoing conversation about new federal foundations has exposed opportunistic elements seeking a unitary state model from the 1960s, masked by calls for 'good governance'.",
-      "The real intention behind dismantling the federal structure is to weaken democratic forces (political parties) which rely on provincial governments as 'fortresses' of power and resources.",
-      "The 18th Amendment and NFC award were designed to strengthen provinces and create these democratic 'fortresses' to withstand reassertions of non-democratic power, a moment now perceived to be upon the country.",
-      "Recent attempts to centralize resources and criticize the 18th Amendment stem from a struggle over who controls economic 'growth' and resources, particularly after a period of stabilization, with elements of the state seeking to curb democratic parties' access to these 'good times'."
-    ],
-    "facts": [
-      "The three main political parties — PTI, PML-N, and PPP — each control one provincial government, nourishing their voice and presence.",
-      "The 18th Amendment and its associated NFC award were designed to strengthen provinces and endow them with ample resources.",
-      "Pakistan has been under a 'gruelling economic stabilisation programme' since July 2023, shifting towards growth as of late."
-    ],
-    "academicReferences": [
-      "Constitution of Pakistan, 1973 (specifically the 18th Amendment)",
-      "National Finance Commission (NFC) Award",
-      "The concept of 'hard state' as described in civil-military relations literature."
-    ],
-    "vocabulary": [
-      {
-        "word": "Opportunistic",
-        "type": "adjective",
-        "definition": "Exploiting circumstances to gain immediate advantage rather than being guided by principles.",
-        "sentence": "The article describes 'opportunistic elements' who crave public life opportunities but lack democratic viability."
-      },
-      {
-        "word": "Impious",
-        "type": "adjective",
-        "definition": "Not showing respect or reverence, especially for a god.",
-        "sentence": "The author notes that 'pious words' are often used to mask 'impious intentions' regarding governance reforms."
-      },
-      {
-        "word": "Fortresses",
-        "type": "noun",
-        "definition": "A military stronghold, especially a strongly fortified town fit for a large garrison.",
-        "sentence": "The 18th Amendment aimed to build 'little fortresses' in provinces for democratic power centres to retreat into."
-      },
-      {
-        "word": "Gruelling",
-        "type": "adjective",
-        "definition": "Extremely tiring and demanding.",
-        "sentence": "Pakistan has been stuck in a 'gruelling economic stabilisation programme' since July 2023."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, the recent criticism and attempts to dismantle the federal structure are primarily driven by:",
-        "options": [
-          "A. A genuine desire for improved good governance and administrative efficiency.",
-          "B. Non-democratic forces seeking control over resources as the economy shifts from stabilization to growth.",
-          "C. Concerns over provincial misuse of funds allocated under the NFC award.",
-          "D. International pressure to adopt a more centralized governance model."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that criticism arises from 'rumblings of discontent rising from the depths of the state' wanting 'to keep the good times to themselves' as the economy shifts towards growth, indicating a struggle over resources and control by non-democratic forces."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the primary purpose of the 18th Amendment and NFC award regarding democratic stability in Pakistan?",
-        "back": "To strengthen provinces and endow them with ample resources, creating 'fortresses' for civilian, democratically based power centres against non-democratic reassertions."
-      },
-      {
-        "front": "How do political parties like PTI, PML-N, and PPP sustain their influence and voice in Pakistan, according to the article?",
-        "back": "They are nourished and kept alive by controlling provincial governments, which provide them with resources and powers."
-      },
-      {
-        "front": "What does the article identify as the underlying struggle behind the recent criticism of the federal structure and 18th Amendment?",
-        "back": "The struggle over resources and who controls them, particularly as the economy shifts from stabilization to growth, with elements wanting to centralize the 'good times'."
-      },
-      {
-        "front": "What 'red line' was articulated by the DG ISPR regarding potential changes to Pakistan's federal structure?",
-        "back": "Violating the Constitution is a 'red line' that nobody should cross, suggesting that redrawing the federation without constitutional compliance is impermissible."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786068563265-810",
-    "title": "Breeding cockroaches\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020928/breeding-cockroaches",
-    "date": "2026-08-06",
-    "author": "none@none.com (F.S. Aijazuddin)",
-    "content": "TRUST the ancient Greeks to have a word for it: ‘hubris’. It means usurping attributes or powers that invoke divine retribution. Aristotle detected it in “naive men [who] think that by ill-treating others, they make their own superiority the greater”. Nothing has changed because humans have not evolved since then. They have learned more but understood less.\nHuman nature behaves still with the same strengths, weaknesses, prejudices and foibles as the characters did in the days of the ancients — whether from the ages of Homer’s Iliad or Odyssey, or the Mahabharata, or the Tilism-i-Hoshruba. Battlegrounds have changed: the psyche of combatants hasn’t. For example, both Homer’s epics can be transposed seamlessly into a modern setting, just as Shakespeare’s plays can be performed in a contemporary context or modern dress without losing their dramatic force.\nHollywood, having exhausted ancient Rome as a source, has reached beyond, to ancient Greece, producing two popular blockbusters: Troy in 2004, and TheOdyssey in 2026. Both used Homer’s narrative as a crucible of ideas, adapting them to modern taste. Some purists have denigrated these films for deviating from the text. Classicists like Mary Beard and Emily Wilson have ex­­­­pressed outrage at the liberties Holly­wo­­od has taken with Homer. Wilson’s translation of The Odyssey appeared in 2017, and her version of his Iliad, which took her six years to compile, appeared in 2023.\nUnderstandably, she feels a certain proprietary ownership of Homer. She has expressed severe reservations about the use made by Christopher Nolan of her work as the bedrock of his latest film The Odyssey. Her criticism might have had more sting, had one reviewer in The Atlantic not thought her own translation as “distractingly modern”. Wilson’s book version of The Odyssey is 592 pages long. As an audiobook, it takes 13 and a half hours to narrate. Christopher Nolan’s film is just under three hours long, a welcome abridgement.\nDo Homer’s epics have relevance for us today?\nIn approaching both Wilson’s translation and Nolan’s cinematic interpretation, one must remember that these epics — like orally transmitted dastaans — were never fixed texts. They were added to or subtracted from according to the mood and temper of each audience. They became ‘fixed’ only after they had been committed to writing.\nThey have retained their appeal over the centuries both for the variety and skill of narration by bards and for the creative imagination of every listener. Each mind played within itself a version of the drama being recited. Films are no less. Nolan’s personal adaptation should be appreciated in that context. He uses ancient costumes to suggest authenticity. He plays primitive drumbeats as background music rather than modern orchestration. The nearest parallel was John Williams’ score in Steven Spielberg’s film Jaws (1975), in which the increasing heartbeat of the hungry shark as it approaches its victim heightens the tension.\nNolan’s inclusion of modern dialogue (for example, ‘dad’ instead of ‘father’) may grate upon the ears of purists. Such colloquialisms resonate with young audiences. They need to be introduced to Homer gently.\nNolan’s film will be memorable, though, for two unforgettable scenic images. One is the stunning tableau of the wooden horse left by the devious Greeks as a gift for the unsuspecting Trojans. The horse lies half-embedded in the wet sand — a monstrous portent of the carnage soon to befall Troy. The second is Nolan’s brilliant visual recreation of Circe converting Odysseus’s sailors into swine. Nolan shows Circe massaging human muscle and converting it into porcine flesh. Those three minutes of cinematic genius are compensation enough. The rest of the film is a bonus.\nDo such epics have relevance for us today? Yes. If Aristotle were tra­nsported into the streets of any world capital — Washington, D.C., Tel Aviv, New Delhi, Riyadh or Islamabad — he would recognise that hubris has remained an immutable condition, unchanged since his time. It was fatal then; it is equally dangerous now.\nHubris has been described as “the insolent encroachment upon the rights of others”. Since its creation, Pakistan has been a laboratory for every type of political alchemist. It has endured guided democracy, benevolent dictatorship, Islamic socialism, national reconstruction, green revolutions, yellow tractor and cab schemes, and now proposed ‘structural reforms’. None has ever yielded an orderly tread into a stable future.\nPakistan’s present population is over 240 million. By 2040, it will exceed 400m. That is the forecast not by idle sociologists but by the minister of state for health Dr M.A. Bharath. We are breeding like cockroaches and will pay the price. Hubris in leaders often leads to a fumbling myopia. They need a corrective. They should heed the classics.\nThe writer is an author.\nwww.fsaijazuddin.pk\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 80,
-    "paper": "Pakistan Affairs / Current Affairs / Ethics",
-    "topic": "Hubris in Leadership, Governance Failures, and Demographic Challenges in Pakistan",
-    "whyMatters": "This article critically analyzes the enduring human flaw of 'hubris' and directly applies it to Pakistan's political leadership and consequent national challenges. Competitive exam students can quote it to provide a unique, philosophical lens on governance failures, population dynamics, and the relevance of classical wisdom in contemporary issues.",
-    "summary": [
-      "Hubris, defined as usurping attributes or powers that invoke divine retribution, is an immutable condition of human nature, detected since ancient Greek times and persisting without evolutionary change.",
-      "Ancient epics and literary works, like Homer's Iliad and Odyssey or Shakespeare's plays, retain contemporary relevance, with their themes and characters seamlessly transposable to modern settings despite new adaptations sparking purist debates.",
-      "Modern interpretations of classical works, such as Christopher Nolan's cinematic 'The Odyssey' or Emily Wilson's translations, are valid as orally transmitted dastaans were never fixed texts but adapted to audiences, highlighting the dynamic nature of storytelling.",
-      "The article directly applies the concept of hubris to Pakistan's political leadership, arguing that successive regimes' 'fumbling myopia' and policy failures have led to a demographic crisis, with the population projected to exceed 400 million by 2040, likening the unchecked growth to 'breeding like cockroaches'."
-    ],
-    "facts": [
-      "Pakistan's current population is over 240 million.",
-      "By 2040, Pakistan's population is forecasted to exceed 400 million, according to Dr. M.A. Bharath, Minister of State for Health.",
-      "Emily Wilson's translation of 'The Odyssey' appeared in 2017, and her 'Iliad' translation in 2023."
-    ],
-    "academicReferences": [
-      "Pakistan Economic Survey (for demographic data and policy implications)",
-      "Reports by the Pakistan Institute of Development Economics (PIDE) on population growth and economic development",
-      "Works by Ayesha Jalal on governance and political history of Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "Hubris",
-        "type": "noun",
-        "definition": "Excessive pride or self-confidence, often leading to divine retribution or downfall.",
-        "sentence": "The leader's hubris prevented him from acknowledging his mistakes, leading to widespread discontent."
-      },
-      {
-        "word": "Usurping",
-        "type": "verb",
-        "definition": "Taking a position of power or importance illegally or by force.",
-        "sentence": "The military general was accused of usurping power from the elected government."
-      },
-      {
-        "word": "Foibles",
-        "type": "noun",
-        "definition": "A minor weakness or eccentricity in someone's character.",
-        "sentence": "Despite his brilliance, the professor had several endearing foibles, such as forgetting names."
-      },
-      {
-        "word": "Porcine",
-        "type": "adjective",
-        "definition": "Relating to or resembling a pig or pigs.",
-        "sentence": "The sculptor captured the porcine features of the animal with remarkable accuracy."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the forecasted population of Pakistan by 2040?",
-        "options": [
-          "Over 240 million",
-          "Under 300 million",
-          "Exceeding 400 million",
-          "Around 350 million"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that 'By 2040, it will exceed 400m', citing the Minister of State for Health."
-      },
-      {
-        "question": "The author uses the concept of 'hubris' to criticize which aspect of Pakistan's governance?",
-        "options": [
-          "Its foreign policy stances",
-          "The leadership's fumbling myopia and policy failures",
-          "The success of green revolutions",
-          "The adaptability of its ancient texts"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'Hubris in leaders often leads to a fumbling myopia' in the context of Pakistan's political experiments and failures."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article connect the ancient concept of 'hubris' to contemporary challenges in Pakistan?",
-        "back": "The article links 'hubris' in political leadership to a 'fumbling myopia' that has prevented orderly development in Pakistan and led to significant issues, including a rapidly growing population and repeated policy failures."
-      },
-      {
-        "front": "What does the article suggest about the relevance of ancient epics like Homer's Iliad and Odyssey in modern times?",
-        "back": "The article argues that these epics retain their appeal and relevance due to their universal themes and human nature insights, allowing them to be seamlessly transposed into modern settings or adapted without losing dramatic force, much like Shakespeare's plays."
-      },
-      {
-        "front": "What is the primary concern raised by the author regarding Pakistan's future, as directly linked to leadership decisions?",
-        "back": "The primary concern is Pakistan's unchecked population growth, projected to exceed 400 million by 2040, which the author attributes to the 'fumbling myopia' of leaders characterized by hubris and an inability to steer towards a stable future."
-      },
-      {
-        "front": "Why does the author suggest that modern adaptations of ancient works (like Christopher Nolan's 'The Odyssey') should be appreciated despite purist criticism?",
-        "back": "The author argues that ancient epics, like orally transmitted dastaans, were never fixed texts but evolved with each audience. Therefore, modern adaptations, like Nolan's film, are a continuation of this tradition, reflecting contemporary tastes and acting as a 'welcome abridgement' to introduce new audiences."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786149694625-979",
-    "title": "Need for dialogue\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020926/need-for-dialogue",
-    "date": "2026-08-06",
-    "author": "none@none.com (Editorial)",
-    "content": "THE interior minister’s comments at an Islamabad seminar last week have sparked many a conversation about the state of the ‘system’. Political leaders, as well as commentators, are all weighing in on the significance of his remarks, as he is seen to be close to those that matter in Pakistan.\nAt the event, Mohsin Naqvi had spoken, among other things, of the need for political parties to start a dialogue, and for national leaders to put aside their differences and discuss governance issues. Picking up on this thread, JUI-F chief Maulana Fazlur Rehman, while addressing an event in Quetta on Tuesday, stressed the need for holding a multiparty moot to discuss national problems, though he was critical of Mr Naqvi’s call for new provinces. Speaking before the interior minister’s comments, the PTI had last month similarly called for a ‘grand national dialogue’ involving political parties, the establishment and civil society.\n    \nAs the maulana said, “force alone cannot resolve the country’s political and security issues”. The only way out of the quagmire is sustained political engagement, and a pledge by all stakeholders to stand by the constitutional arrangement. There have been some attempts in the past, after the 2022 upheaval, to kick off a grand political dialogue, but none of these have succeeded.\nYet, since there is once again a feeling amongst the political tribes that dialogue is essential, and even those close to the powers that be have spoken of the need for engagement, a fresh attempt at reconciliation should be attempted. No doubt, this not an easy exercise to undertake as the trust deficit between the opposition and the ruling set-up is immense. But surely a moderate approach from both sides can break the ice.\nThere is precedent from the past that can be emulated. Two decades ago, the PPP and PML-N signed the Charter of Democracy to bury the hatchet, and promised to strengthen the democratic system. A similar approach can be tried now to break the current deadlock. But for any such attempt to succeed, there must be complete political freedom, and respect for fundamental rights.\n    \nThe issues confronting Pakistan are monumental. They include violent terrorist insurgencies in two provinces, as well as socioeconomic disaffection across the country, while there is geopolitical volatility on nearly every border. These issues demand a national response. They cannot be addressed if the polity remains fractured.\nDifferences between parties and groups are natural. But by addressing these in a democratic fashion, a way forward can be found. Both the government and opposition should support calls for national reconciliation and dialogue, and political veterans must take the initiative to get the ball rolling.\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2024-STAB",
-      "paper": "Pakistan Affairs",
-      "year": 2024,
-      "question": "Political stability remains an elusive concept in Pakistan. Explore the factors contributing to the fractured nature of Pakistan's polity and discuss potential reforms..."
-    },
-    "suitable": true,
-    "relevanceScore": 79,
-    "paper": "Pakistan Affairs",
-    "topic": "Political Stability, National Dialogue, and Democratic Consolidation in Pakistan",
-    "whyMatters": "This article directly addresses the factors contributing to Pakistan's fractured polity and proposes 'dialogue' as a crucial reform. It provides specific examples and historical precedents highly relevant for answering questions on political instability and potential solutions.",
-    "summary": [
-      "The article highlights a growing consensus among political figures (Interior Minister Mohsin Naqvi, JUI-F chief Maulana Fazlur Rehman, PTI) on the urgent need for national dialogue to address Pakistan's 'system' and governance issues.",
-      "It argues that 'force alone cannot resolve the country’s political and security issues,' advocating for sustained political engagement and adherence to constitutional arrangements as the only viable path forward.",
-      "Despite past failures (after the 2022 upheaval) and an immense trust deficit, the article calls for a fresh attempt at reconciliation, suggesting a moderate approach from all sides to break the ice.",
-      "The article proposes emulating historical precedents like the Charter of Democracy (signed by PPP and PML-N) and emphasizes that any successful dialogue requires complete political freedom and respect for fundamental rights to tackle monumental national challenges effectively."
-    ],
-    "facts": [
-      "Interior Minister Mohsin Naqvi's comments at an Islamabad seminar sparked conversations about the 'system' and the need for political dialogue.",
-      "JUI-F chief Maulana Fazlur Rehman called for a multiparty moot to discuss national problems, while criticizing Mr. Naqvi's call for new provinces.",
-      "The PTI had previously called for a 'grand national dialogue' involving political parties, the establishment, and civil society.",
-      "The Charter of Democracy, signed by the PPP and PML-N 'two decades ago,' is cited as a precedent for inter-party reconciliation.",
-      "Pakistan faces 'monumental' issues including violent terrorist insurgencies in two provinces, socioeconomic disaffection, and geopolitical volatility on its borders."
-    ],
-    "academicReferences": [
-      "Charter of Democracy (2006): A landmark agreement between PPP and PML-N aimed at strengthening democracy and constitutionalism.",
-      "18th Amendment to the Constitution of Pakistan (2010): Significantly strengthened parliamentary democracy, provincial autonomy, and fundamental rights, reflecting efforts towards democratic consolidation.",
-      "Lieven, Anatol. 'Pakistan: A Hard Country.' Penguin Books, 2011. (Provides critical context on Pakistan's complex political landscape, including civil-military relations and challenges to stability.)"
-    ],
-    "vocabulary": [
-      {
-        "word": "quagmire",
-        "type": "noun",
-        "definition": "A soft boggy area that gives way underfoot; a difficult, complicated, or unpleasant situation from which it is hard to extricate oneself.",
-        "sentence": "The country's political issues had become a deep quagmire, requiring concerted effort to navigate."
-      },
-      {
-        "word": "polity",
-        "type": "noun",
-        "definition": "A form or process of civil government or constitution; an organized society; a state or nation.",
-        "sentence": "The fractured nature of the polity prevented a unified national response to the crises."
-      },
-      {
-        "word": "disaffection",
-        "type": "noun",
-        "definition": "A state or feeling of being dissatisfied with people in authority or a system of control.",
-        "sentence": "Socioeconomic disaffection across the country fueled unrest and further destabilized the political environment."
-      },
-      {
-        "word": "elusive",
-        "type": "adjective",
-        "definition": "Difficult to find, catch, or achieve.",
-        "sentence": "Political stability remains an elusive concept in Pakistan, despite numerous attempts at reform."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which political figure initially sparked the recent conversation about the state of the 'system' and the need for dialogue?",
-        "options": [
-          "Maulana Fazlur Rehman",
-          "Mohsin Naqvi",
-          "A PTI leader",
-          "A PPP leader"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'THE interior minister’s comments at an Islamabad seminar last week have sparked many a conversation... Mohsin Naqvi had spoken, among other things, of the need for political parties to start a dialogue...'"
-      },
-      {
-        "question": "What historical agreement is cited as a precedent for breaking the current political deadlock?",
-        "options": [
-          "The Lahore Resolution",
-          "The Tashkent Declaration",
-          "The Charter of Democracy",
-          "The Simla Agreement"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'Two decades ago, the PPP and PML-N signed the Charter of Democracy to bury the hatchet... A similar approach can be tried now to break the current deadlock.'"
-      },
-      {
-        "question": "According to the article, what conditions are necessary for any attempt at national dialogue and reconciliation to succeed?",
-        "options": [
-          "Military intervention and economic aid",
-          "Complete political freedom and respect for fundamental rights",
-          "International mediation and sanctions",
-          "Formation of new provinces and a caretaker government"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'But for any such attempt to succeed, there must be complete political freedom, and respect for fundamental rights.'"
-      },
-      {
-        "question": "Which of the following is NOT listed as a monumental issue confronting Pakistan in the article?",
-        "options": [
-          "Violent terrorist insurgencies",
-          "Socioeconomic disaffection",
-          "Climate change disasters",
-          "Geopolitical volatility on nearly every border"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article lists 'violent terrorist insurgencies in two provinces, as well as socioeconomic disaffection across the country, while there is geopolitical volatility on nearly every border.' Climate change is not explicitly mentioned here, though it is a national issue."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is dialogue considered essential for resolving Pakistan's political and security issues, according to the article?",
-        "back": "The article argues that 'force alone cannot resolve the country’s political and security issues' and that sustained political engagement is the only way out of the current quagmire."
-      },
-      {
-        "front": "What historical precedent does the article suggest for fostering political reconciliation and strengthening the democratic system in Pakistan?",
-        "back": "The article points to the Charter of Democracy, signed by the PPP and PML-N two decades ago, as a successful precedent for burying differences and committing to democratic principles."
-      },
-      {
-        "front": "What are the primary obstacles highlighted by the article that hinder a successful national dialogue in Pakistan?",
-        "back": "The article emphasizes the 'immense trust deficit' between the opposition and the ruling set-up as the main hurdle, along with the difficulty of undertaking such an exercise."
-      },
-      {
-        "front": "How does a fractured polity exacerbate Pakistan's ability to address its national challenges, according to the article?",
-        "back": "The article states that monumental issues like terrorism, socioeconomic disaffection, and geopolitical volatility 'cannot be addressed if the polity remains fractured,' underscoring the need for a national, unified response."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786068641479-586",
-    "title": "Bad press\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020925/bad-press",
-    "date": "2026-08-06",
-    "author": "none@none.com (Editorial)",
-    "content": "THE government’s move to impose restrictions on international media will not only alienate the foreign press, it will also hamper the state’s own efforts to improve Pakistan’s image abroad. To recall, the government recently mandated that anyone working for foreign media must now seek a no-objection certificate if they wish to report from anywhere apart from Islamabad, Lahore and Karachi. These new rules, named in typically Orwellian fashion the ‘Foreign Media Facilitation Guidelines’, supposedly “provide an administrative mechanism” for verification, coordination and facilitating access to foreign publications, according to the government. However, given the latter’s unforgiving reaction to a recent foreign media report on the polls in Azad Kashmir, which seems to have catalysed their formulation, it is clear that ‘facilitation’ is not quite what these rules are meant to achieve.\nThe rules require “foreign media houses, organisations and outlets working in Pakistan and all eligible journalists, media owners, media professionals, sources, freelancers, sponsors, fixers, attached persons, assignees etc, of Pakistan working or contributing for them” to seek accreditation and registration with the Ministry of Information and Broadcasting. Additionally, any Pakistani organisation or individual working with or facilitating foreign media “in any capacity” is also required to register with the ministry’s External Publicity Wing. Buried within the rules is a provision that accreditation may be suspended or withdrawn if a journalist is judged to have acted against the country’s ideology, sovereignty, security or public order. This exposes Pakistani journalists, fixers, translators and drivers who work with foreign journalists to possible retribution if the state does not like what international media publishes. What is the need for all this? Misinformation is answered with facts, and the state has no shortage of them at its disposal. With rules like these, the government is only making itself look like the villain in the eyes of the press. The guidelines must be withdrawn, or at the very least stripped of the NOC requirement and open-ended grounds for cancelling accreditation. A country that can be reported on only by permission will simply be reported on from a distance, by people forced to rely on second-hand accounts and harbouring an uncharitable view of the country’s leadership. The picture that will emerge will be less flattering; and the government will have no one but itself to blame for it.\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Current Affairs / Governance",
-    "topic": "Media Regulations and State Image",
-    "whyMatters": "This article is crucial for understanding the interplay between press freedom, government policy, and international perception. It highlights how restrictions on media can paradoxically harm a nation's efforts to improve its global image.",
-    "summary": [
-      "The government's new restrictions on international media, particularly the No-Objection Certificate (NOC) requirement, will alienate foreign press and damage Pakistan's image abroad.",
-      "Dubbed 'Foreign Media Facilitation Guidelines,' these rules are Orwellian in nature, designed for control rather than actual facilitation, likely catalyzed by a negative foreign media report on Azad Kashmir polls.",
-      "The guidelines mandate extensive registration with the Ministry of Information and Broadcasting, including for local individuals working with foreign media, exposing them to potential state retribution.",
-      "The ability to suspend or withdraw accreditation based on vague grounds like 'acting against the country’s ideology, sovereignty, security or public order' poses a significant threat to journalistic independence and will result in reporting based on second-hand accounts, leading to a less flattering international view."
-    ],
-    "facts": [
-      "The 'Foreign Media Facilitation Guidelines' mandate NOCs for foreign media reporting outside Islamabad, Lahore, and Karachi.",
-      "All foreign media personnel and any Pakistani individual/organization collaborating with them must register with the Ministry of Information and Broadcasting (External Publicity Wing).",
-      "Accreditation can be suspended or withdrawn if a journalist is deemed to have acted against the country’s ideology, sovereignty, security, or public order.",
-      "The formulation of these rules was reportedly catalyzed by a recent foreign media report on the polls in Azad Kashmir."
-    ],
-    "academicReferences": [
-      "Freedom House's 'Freedom in the World' report (referencing Pakistan's press freedom score and trends)",
-      "Universal Declaration of Human Rights (Article 19 - Freedom of Opinion and Expression)",
-      "UNESCO's World Press Freedom Day resolutions and recommendations on journalist safety and media independence"
-    ],
-    "vocabulary": [
-      {
-        "word": "Alienate",
-        "type": "verb",
-        "definition": "To cause someone to feel isolated or estranged.",
-        "sentence": "The new visa policy threatened to alienate foreign investors and tourists alike."
-      },
-      {
-        "word": "Orwellian",
-        "type": "adjective",
-        "definition": "Characteristic of the dystopian future described in George Orwell's Nineteen Eighty-Four, implying oppressive governmental control and surveillance.",
-        "sentence": "Critics described the new surveillance bill as an Orwellian infringement on personal liberties."
-      },
-      {
-        "word": "Catalyzed",
-        "type": "verb",
-        "definition": "To cause or accelerate an action or process.",
-        "sentence": "The recent economic crisis catalyzed public demand for governmental reforms."
-      },
-      {
-        "word": "Retribution",
-        "type": "noun",
-        "definition": "Punishment inflicted in return for an injury or offense.",
-        "sentence": "Journalists fear retribution from the authorities for reporting on sensitive issues."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the underlying intention behind the 'Foreign Media Facilitation Guidelines' as suggested by their context and provisions?",
-        "options": [
-          "To genuinely streamline access for foreign journalists.",
-          "To improve Pakistan's global image through regulated reporting.",
-          "To exert control over foreign media narratives and potentially censor unfavorable reports.",
-          "To ensure the security of foreign journalists operating in sensitive areas."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states the guidelines are named in 'Orwellian fashion' and, given the 'unforgiving reaction to a recent foreign media report,' it is clear 'facilitation' is not what they are meant to achieve, implying control and censorship."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary concern raised by the article regarding the 'Foreign Media Facilitation Guidelines'?",
-        "back": "The guidelines are perceived as a means of control and potential censorship rather than genuine facilitation, especially exposing local staff to retribution."
-      },
-      {
-        "front": "According to the article, what negative consequence will the government face by imposing these restrictions on foreign media?",
-        "back": "It will alienate the foreign press, hamper efforts to improve Pakistan’s image abroad, and lead to less flattering reporting from a distance."
-      },
-      {
-        "front": "Which specific provision within the new rules is highlighted as a threat to Pakistani journalists and fixers working with foreign media?",
-        "back": "The provision allowing accreditation suspension/withdrawal if a journalist is judged to have acted against the country’s ideology, sovereignty, security, or public order."
-      },
-      {
-        "front": "What event is suggested to have catalyzed the formulation of these new 'facilitation' rules?",
-        "back": "A recent foreign media report on the polls in Azad Kashmir."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785979108000-476",
-    "title": "Rethinking governance in Pakistan\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020707/rethinking-governance-in-pakistan",
-    "date": "2026-08-05",
-    "author": "none@none.com (Tahsin Shah)",
-    "content": "EVERY few years, Pakistan revisits the debate on creating new provinces. The interior minister’s recent proposal to establish smaller administrative units has again raised an important question. Yet the real issue is not how many provinces Pa­­kistan should have. It is whether government is close enough to serve its citizens effectively. Adm­inistrative boundaries matter only because they influence how quickly people receive education, healthcare, justice, infrastructure and disaster relief. If governance remains distant and unresponsive, merely redrawing maps won’t improve lives.\nWith over 240 million people spread across nearly 796,000 square kilometres, Pakistan is one of the world’s largest federations. Its administrative challenges vary enormously — from the mountains of Gilgit-Baltistan to the deserts of Thar and the vast expanse of Balochistan. A governance model suited to Lahore or Karachi cannot automatically meet the needs of Kech, Upper Kohistan or Astore. The real challenge is one of state capacity rather than geography alone.\n    \nPakistan’s history reflects repeated efforts to balance national unity with effective administration. At independence in 1947, West Pakistan comprised Punjab, Sindh, the North-West Frontier Province, the Chief Commissioner’s Province of Balochistan, princely states — including Kalat, Bahawalpur and Swat — and the Tribal Areas. The 1955 One Unit scheme attempted to centralise administration; instead, it deepened regional grievances. Its abolition in 1970 and the federal framework established by the 1973 Constitution reaffirmed the importance of provincial autonomy. More recently, the merger of Fata into KP demonstrated that Pakistan’s administrative structure can evolve when necessary. Yet demands for South Punjab, Hazara and Bahawalpur continue because many citizens still feel distant from provincial capitals.\nThe case for smaller administrative units is fundamentally administrative rather than political. Punjab’s population exceeds that of many countries, while Balochistan covers almost 44 per cent of Pakistan’s territory but contains only a small share of its population. Administering such contrasting regions through similar institutional arrangements limits efficiency.\nHave power, resources and decision-making been devolved enough to serve citizens effectively?\nGovernments perform best when decision-makers are close to the communities they serve. Greater administrative proximity improves supervision of schools, hospitals, roads and development projects while strengthening transparency and public accountability. The devastating floods of 2022 illustrated the value of capable local institutions. Where local administrative capacity was stronger, relief reached affected communities more quickly.\nAt the same time, creating new provinces is neither simple nor inexpensive. Constitutional ame­n­­dments require broad political consensus, while new provinces need legislatures, secretariats, ju­­d­­icial institutions and sustainable financial res­o­u­­rces. Without careful planning, administrative re­­organisation risks creating additional bureaucracy without significantly improving governance.\nInternational experience offers useful lessons. India has repeatedly created new states — including Chhattisgarh, Jharkhand, Uttarakhand and Telangana — to improve governance in historically neglected regions. Although disputes over assets and water accompanied these reforms, smaller states enabled governments to focus more closely on local priorities. Bangladesh adopted a different approach.\nRather than creating provinces, it strengthened districts, upazilas and union parishads. Improvements in rural healthcare, primary education and disaster management owe much to effective local administration. Indonesia embarked on one of the world’s largest decentralisation programmes after reforms in 1998, transferring substantial authority and financial resources to districts and municipalities. Nigeria, by contrast, demonstrates the risks of expanding administrative units without fiscal sustainability; while political representation improved, the country developed an expensive state structure heavily dependent on federal revenues. France provides yet another model, devolving significant powers to departments and municipalities without repeatedly altering regional boundaries.\nDespite their different political systems, these countries illustrate one common principle: successful administrative reform depends less on the number of administrative units than on whether authority, financial resources and accountability actually reach local institutions.\nIronically, Pakistan already possesses the constitutional foundation for this approach. Article 140A requires provinces to establish elected local governments and devolve political, administrative and financial responsibility to them. Yet successive governments have implemented this provision unevenly. Pakistan’s own experience supports stronger LG. The 2001 Local Government Plan transferred significant responsibilities for education, healthcare and local development to elected district governments. Although politically controversial, it demonstrated the benefits of bringing decision-making closer to citizens. After the 18th Amendment, provinces gained substantial autonomy from Islamabad, but meaningful decentralisation often stopped at the provincial level. Many districts and municipalities remained dependent on provincial governments for authority and funding. Thus, the debate over new provinces and LG should be seen as complementary rather than competing.\n    \nWhere there is broad public consensus, administrative necessity and economic viability, new provinces should remain a legitimate constitutional option. But such reforms must be guided by transparent criteria and accompanied by agreed arrangements for finance, water, civil services and transitional administration. At the same time, meaningful LG reform should begin immediately. Provinces should guarantee predictable financial transfers to elected LGs, devolve responsibility for primary education, basic healthcare, water supply, sanitation and local infrastructure, conduct regular local elections, and protect local institutions from arbitrary dissolution. Devolution without financial autonomy cannot succeed.\nFor nearly eight decades, Pakistan has alternated between centralisation and decentralisation, often expecting structural changes alone to resolve governance failures. Experience at home and abroad suggests otherwise. Institutions matter more than boundaries. The purpose of administrative reform is not to redraw maps but to improve lives. When a child in Rajanpur, Tharpar­kar, Upper Kohistan, Kech, Astore or Neelum Valley enjoys the same access to education and healthcare as one in Lahore, Karachi, Peshawar, Quetta or Islamabad; when a mother in Dera Bugti can obtain timely medical care; and when citizens across Punjab, Sindh, KP, Balochistan, GB and Azad Kashmir experience responsive public institutions, Pakistan will know that administrative reform has achieved its purpose.\nA federation’s true strength is measured not by the number of provinces on its map, but by the confidence of its citizens that their government is never too distant to serve them.\nThe writer is a retired inspector general of police and former DG FIA.\nPublished in Dawn, August 5th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2024-PROV",
-      "paper": "Pakistan Affairs",
-      "year": 2024,
-      "question": "The creation of more provinces is a persistent demand from some circles in Pakistan. How do you see the creation of more provinces in Pakistan; as beneficial or harmful for the people? Explain your views with solid justification."
-    },
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Pakistan Affairs",
-    "topic": "Governance, Federalism and Administrative Reforms in Pakistan",
-    "whyMatters": "This article is crucial for the Pakistan Affairs paper as it directly addresses the 'creation of more provinces' debate, offering a nuanced perspective beyond mere geographical restructuring. It emphasizes the critical role of effective local governance and devolution of power, rather than just redrawing maps, for improving citizen services.",
-    "summary": [
-      "The core issue is not the number of provinces, but whether government is close enough and responsive to effectively serve its citizens.",
-      "True administrative challenges stem from state capacity and distance from citizens, not just geography, impacting service delivery in education, healthcare, justice, and infrastructure.",
-      "International experiences (India, Bangladesh, Indonesia, Nigeria, France) demonstrate that successful administrative reform hinges on the devolution of authority, financial resources, and accountability to local institutions, rather than merely creating new units.",
-      "Pakistan possesses the constitutional foundation (Article 140A) for strong local governments, and while new provinces remain a legitimate option under specific criteria, meaningful LG reform with financial autonomy is immediately needed and complementary."
-    ],
-    "facts": [
-      "Pakistan's population exceeds 240 million, spread across nearly 796,000 square kilometres.",
-      "Balochistan covers almost 44 percent of Pakistan’s territory but has a small share of its population.",
-      "Article 140A of the 1973 Constitution requires provinces to establish elected local governments and devolve political, administrative, and financial responsibility to them.",
-      "The 18th Amendment granted substantial autonomy to provinces, but often, meaningful decentralisation stopped at the provincial level."
-    ],
-    "academicReferences": [
-      "The Constitution of Pakistan, 1973 (specifically Article 140A)",
-      "The 18th Amendment to the Constitution of Pakistan (2010)",
-      "The Local Government Plan, 2001 (Pakistan)",
-      "Comparative analysis of decentralization models (India's state creation, Bangladesh's district strengthening, Indonesia's district/municipality reforms, Nigeria's fiscal dependency, France's departmental devolution)"
-    ],
-    "vocabulary": [
-      {
-        "word": "federations",
-        "type": "noun",
-        "definition": "A group of states or provinces that form a union but remain independent in internal affairs.",
-        "sentence": "Pakistan is one of the world's largest federations, facing unique administrative challenges across its diverse regions."
-      },
-      {
-        "word": "devolved",
-        "type": "verb",
-        "definition": "Transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
-        "sentence": "Governments perform best when decision-making power has been devolved enough to be close to the communities they serve."
-      },
-      {
-        "word": "arbitrary",
-        "type": "adjective",
-        "definition": "Based on random choice or personal whim, rather than any reason or system.",
-        "sentence": "Provinces must protect local institutions from arbitrary dissolution to ensure stability and continuity in governance."
-      },
-      {
-        "word": "autonomy",
-        "type": "noun",
-        "definition": "The right or condition of self-government; especially in a particular sphere.",
-        "sentence": "Devolution without financial autonomy cannot succeed in empowering local governments effectively."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary factor that determines effective governance?",
-        "options": [
-          "The proximity of government to its citizens and its responsiveness.",
-          "The number of provinces a country has.",
-          "The geographical size of administrative units.",
-          "The level of central government control over local affairs."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, 'Yet the real issue is not how many provinces Pakistan should have. It is whether government is close enough to serve its citizens effectively.'"
-      },
-      {
-        "question": "Which constitutional provision in Pakistan is highlighted as the foundation for strong local governments?",
-        "options": [
-          "Article 58(2)(b)",
-          "Article 140A",
-          "The First Schedule",
-          "The National Finance Commission Award"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions, 'Ironically, Pakistan already possesses the constitutional foundation for this approach. Article 140A requires provinces to establish elected local governments...'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the article identify as the 'real issue' behind Pakistan's governance challenges, beyond merely redrawing provincial maps?",
-        "back": "The real issue is whether the government is close enough to serve its citizens effectively, ensuring responsive service delivery in crucial sectors."
-      },
-      {
-        "front": "According to the article, what common principle underpins successful administrative reforms in various international contexts like India, Bangladesh, and Indonesia?",
-        "back": "Successful administrative reform depends less on the number of administrative units and more on whether authority, financial resources, and accountability actually reach local institutions."
-      },
-      {
-        "front": "How does the article suggest the debate over creating new provinces and strengthening local government (LG) should be framed in Pakistan?",
-        "back": "The article suggests viewing these debates as complementary rather than competing, advocating for new provinces under specific conditions while also immediately pursuing meaningful LG reform."
-      },
-      {
-        "front": "What key elements does the article emphasize are necessary for meaningful Local Government (LG) reform to succeed in Pakistan?",
-        "back": "Meaningful LG reform requires provinces to guarantee predictable financial transfers, devolve responsibility for essential services (education, healthcare, water), conduct regular local elections, and protect local institutions from arbitrary dissolution, ensuring financial autonomy."
-      }
-    ]
-  },
-  {
-    "id": "curated-1785979190692-222",
-    "title": "Climate & lactation\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020705/climate-lactation",
-    "date": "2026-08-05",
-    "author": "none@none.com (Hareem Sumbul Bari)",
-    "content": "EVERY year in August, Breastfeeding Week arrives with the same kind of messaging all over the media: ‘breastfeeding is best’. That is where the conversation begins and ends. This year, the World Alliance for Breastfeeding Action, alongside Unicef and the WHO, has deliberately questioned the math behind it all, instead of general awareness. The 2026 theme is ‘Breastfeeding for a sustainable start in life: strengthen what works’. This signifies that the world does not lack knowledge of the subject; however, it has an issue putting the money where the mouth is. Pakistan’s experience is no different.\nThe interventions that move exclusive breastfeeding rates are well tested and documented. The question is why we are not making use of them. The biggest issue in Pakistan in this regard is the gap in counselling and access to accurate information regarding breastfeeding. A systematic analysis across 16 studies found that skilled counselling on infant feeding raises exclusive breastfeeding rates by 58 per cent.\nPakistan already has a delivery mechanism for such counselling in place. It is not new or untested, and it has a wide enough net to address the challenge of low breastfeeding rates across the nation. The numbers presented publicly are unreliable and badly skewed (‘ever breastfed in any form or quantity’ shown as ‘breastfeeding rates’ etc, and almost no consistent or reliable year-on-year data tracking the journey the country is taking in this regard). This delivery system is our Lady Health Workers’ network. While it is a system with fantastic bones it is terribly understaffed and underfunded. As a result, it is not even monitored effectively. LHWs don’t need a pilot programme; in order to deliver, we need to pay for more workers and train the ones already active in the field.\nUnicef’s Baby Friendly Hospital Initiative (BFHI) is supported by an evidence base, which shows that, once implemented effectively, breastfeeding rates at six months rise by around 45pc, while continued breastfeeding increases by 26pc. We can use those numbers. There was some work back in the 1990s in Sindh, led by Dr Noorjahan Samad, and verified hospitals saw improvement in breastfeeding rates. However, over time, those certifications stopped being renewed.\nBreastfeeding support should be a part of NDMA’s response protocol.\nPakistan’s 2022 floods displaced millions of people and disrupted clean water access across acres. These are precisely the conditions in which formula feeding becomes exceptionally dangerous, as it requires clean water and frequent sterilisation — something that camps for the displaced cannot actually provide. Breastfeeding, on the other hand, does not need a supply chain or an external infrastructure like clean water or electricity. It remains in the most literal sense the absolute resilient infrastructure. Yet, breastfeeding support is rarely built into Pakistan’s disaster-response planning as a formal component — it is more of an afterthought voiced by a few activist circles.\nWith climate volatility now a regular feature of Pakistani summers, formalising accurate and useful lactation support should be an integral part of the National Disaster Management Authority’s standard response protocol. It must specifically include placing trained and accessible counsellors across the floodplains, creating safe spaces for mothers to discuss and find solutions to breastfeeding issues instead of jumping to formula at the first hurdle or the perception of one, and ensuring protection from needless formula-pushing by healthcare providers and the market.\nMost of these actions should be taken before a calamity as we cannot possibly establish or initiate breastfeeding journeys in the midst of disaster — the cost and logistics of which aren’t supported by the cir­­­-\ncumstances of that moment. In the years betw­een floods and climate calamities, we need to work tirelessly to build breastfeeding capacity in populations most susceptible to displacement on account of climate change, so that when disaster does strike, we only need to ensure that the general health of the mother and child is taken care of.\nNone of these suggestions require new groundwork. LHWs, BFHI, disaster response planning — we have the bones for all these areas. What is missing is the unphotogenic, unglamorous backend work of funding, monitoring, evaluation and implementation of each of these areas that will actually ‘strengthen what works’. That’s a harder story to tell than ‘breastfeeding is best for babies’ as part of the photo ops this week, but it is one that this year’s theme truly demands.\nThe writer works as a finance professional. Motivated by personal breastfeeding challenges, she transitioned to healthcare. She is an IBCLC and trains healthcare professionals, provides global telehealth support and runs a lactation clinic.\nPublished in Dawn, August 5th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change Adaptation, Public Health, and Disaster Management in Pakistan",
-    "whyMatters": "This article offers a crucial public health lens on the impact of climate change on Pakistan's water resources, specifically during climate-induced disasters like floods. It illustrates how disrupted clean water access makes basic necessities like infant feeding unsafe, highlighting an overlooked aspect of disaster management and societal vulnerability that can be used to add depth to answers on climate change consequences.",
-    "summary": [
-      "The global conversation on breastfeeding needs to shift from mere awareness to strengthening effective implementation mechanisms and addressing funding gaps.",
-      "Pakistan's primary challenge in improving breastfeeding rates is a significant gap in skilled counselling and access to accurate information, despite having established delivery systems like the Lady Health Workers (LHWs) network.",
-      "Climate volatility, exemplified by floods disrupting clean water, makes formula feeding exceptionally dangerous and positions breastfeeding as a resilient infrastructure, yet lactation support is rarely formalized in disaster response protocols.",
-      "Existing frameworks for effective lactation support in Pakistan (LHWs, BFHI, disaster planning) possess the necessary 'bones' but are hampered by insufficient funding, monitoring, evaluation, and implementation, particularly for climate-vulnerable populations."
-    ],
-    "facts": [
-      "A systematic analysis found that skilled counselling on infant feeding raises exclusive breastfeeding rates by 58%.",
-      "Unicef’s Baby Friendly Hospital Initiative (BFHI), when effectively implemented, can raise breastfeeding rates at six months by approximately 45% and continued breastfeeding by 26%.",
-      "Pakistan's 2022 floods displaced millions and severely disrupted clean water access across vast areas."
-    ],
-    "academicReferences": [
-      "Lady Health Workers’ (LHWs) Network (Pakistan's public health delivery mechanism)",
-      "Unicef’s Baby Friendly Hospital Initiative (BFHI)",
-      "National Disaster Management Authority (NDMA) response protocol (Pakistan)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Volatility",
-        "type": "noun",
-        "definition": "The tendency to change rapidly and unpredictably, especially for the worse.",
-        "sentence": "With climate volatility now a regular feature, Pakistan must integrate lactation support into disaster response."
-      },
-      {
-        "word": "Resilient",
-        "type": "adjective",
-        "definition": "Able to withstand or recover quickly from difficult conditions.",
-        "sentence": "Breastfeeding remains in the most literal sense the absolute resilient infrastructure during calamities."
-      },
-      {
-        "word": "Formalising",
-        "type": "verb",
-        "definition": "To give something a definite structure or status.",
-        "sentence": "Formalising accurate and useful lactation support should be an integral part of the NDMA’s standard response protocol."
-      },
-      {
-        "word": "Underfunded",
-        "type": "adjective",
-        "definition": "Not provided with sufficient money.",
-        "sentence": "The Lady Health Workers’ network, despite its fantastic bones, is terribly understaffed and underfunded."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the biggest issue in Pakistan regarding improving breastfeeding rates?",
-        "options": [
-          "Lack of awareness that 'breastfeeding is best'",
-          "Gap in counselling and access to accurate information",
-          "Absence of a delivery mechanism for counselling",
-          "High cost of breastfeeding support programs"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'The biggest issue in Pakistan in this regard is the gap in counselling and access to accurate information regarding breastfeeding.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is integrating breastfeeding support into disaster response critical in climate-vulnerable areas like Pakistan?",
-        "back": "Climate-induced disasters like floods disrupt clean water access, making formula feeding exceptionally dangerous due to the need for clean water and sterilization, whereas breastfeeding provides a resilient and infrastructure-independent solution."
-      },
-      {
-        "front": "What are the 'bones' Pakistan already possesses for improving breastfeeding rates, according to the article?",
-        "back": "Pakistan already has the Lady Health Workers (LHWs) network, the Unicef's Baby Friendly Hospital Initiative (BFHI), and disaster response planning structures in place."
-      },
-      {
-        "front": "How do climate-induced disasters like floods impact the safety of infant feeding practices in affected populations?",
-        "back": "Floods disrupt clean water access, making the preparation of formula milk exceptionally dangerous due to the lack of sterile water and proper hygiene conditions, thereby increasing risks to infant health."
-      },
-      {
-        "front": "What is the primary barrier to effective breastfeeding support in Pakistan, as identified by the article, despite existing mechanisms?",
-        "back": "The primary barrier is the lack of unglamorous backend work: insufficient funding, inadequate monitoring, poor evaluation, and inconsistent implementation of existing programs."
       }
     ]
   }
