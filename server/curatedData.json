@@ -1,5 +1,127 @@
 [
   {
+    "id": "curated-1789264162221-372",
+    "title": "Flawed NEV incentive\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029306/flawed-nev-incentive",
+    "date": "2026-09-12",
+    "author": "none@none.com (Editorial)",
+    "content": "THE draft New Energy Vehicle policy gets its destination right. Electrifying transport, cutting the oil import bill and building an export-oriented auto industry are worthwhile goals.\nBut the incentive structure chosen to achieve them rewards the wrong technology. The main flaw is treating plug-in hybrid and battery electric vehicles as interchangeable.\nBoth qualify for the same 1pc sales tax on CKD units and NEV inputs — as if a PHEV running mostly on petrol delivers the same environmental pay-off as a BEV. It does not. Pretending otherwise weakens the policy’s stated purpose.\nWeak charging infrastructure and real range anxiety discourage Pakistani consumers from buying BEVs. Subsidising PHEVs just as heavily hands them an easier option, which will show up as progress on paper while doing little to build the charging network or battery-vehicle demand the transition actually needs.\n    \nPHEV assemblers received generous concessions under the last auto policy but never delivered localisation or built charging infrastructure. Repeating that arrangement will invite the same outcome: subsidised assembly with no real technology transfer.\nTaxing conventional hybrids at 25pc, up from 8.5pc, while cutting PHEV tax to 1pc, amounts to picking a winner through the tax code rather than market competition. That stalls transition towards genuine transport electrification while penalising Japanese manufacturers who built much of Pakistan’s auto parts ecosystem.\nA more coherent policy would reserve the sharpest incentives for BEVs, and let others compete on their actual emissions and fuel-savings performance. Consumers, not tax brackets, should decide which of these technologies wins as charging infrastructure improves and prices come down.\n    \nThe rest of the draft holds up. Export targets, tighter localisation rules and incentives tied to auto-parts exports could finally push manufacturers to build for international markets, instead of just assembling for domestic buyers.\nBut those incentives need to reward genuine export growth and local value addition, not simply subsidise the same low-localisation assembly model that has defined the industry for decades.\nPublished in Dawn, September 12th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs / Economics / Current Affairs / Environmental Science",
+    "topic": "New Energy Vehicle (NEV) Policy and Economic Development in Pakistan",
+    "whyMatters": "This article offers a critical analysis of Pakistan's NEV policy, highlighting its economic implications, environmental impact, and potential for industrial development. Aspirants can use it to demonstrate their understanding of contemporary policy critiques, market distortions, and the challenges of transitioning to sustainable energy solutions.",
+    "summary": [
+      "Pakistan's draft New Energy Vehicle (NEV) policy has valid goals of transport electrification, reducing oil imports, and fostering an export-oriented auto industry.",
+      "The primary flaw in the policy's incentive structure is treating Plug-in Hybrid Electric Vehicles (PHEVs) and Battery Electric Vehicles (BEVs) interchangeably, granting them the same 1pc sales tax concession despite differing environmental benefits.",
+      "This flawed approach disincentivizes BEV adoption and charging infrastructure development, as PHEVs offer an easier, heavily subsidized option without genuine technology transfer or market-led localization.",
+      "The policy distorts market competition by increasing taxes on conventional hybrids (25pc) while drastically cutting PHEV taxes (1pc), potentially penalizing established Japanese manufacturers and hindering genuine transport electrification."
+    ],
+    "facts": [
+      "PHEVs and BEVs both qualify for a 1pc sales tax on CKD units and NEV inputs under the proposed policy.",
+      "Conventional hybrids are now taxed at 25pc, an increase from 8.5pc.",
+      "PHEV sales tax is reduced to 1pc under the new draft policy."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (for auto industry statistics, trade balance, and energy sector data)",
+      "National Climate Change Policy of Pakistan (context for environmental goals and sustainable transport)",
+      "World Trade Organization (WTO) Agreements (relevant to subsidies, market competition, and trade policies)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Electrifying transport",
+        "type": "verb phrase",
+        "definition": "The process of converting vehicles or transportation systems to operate on electricity, often to reduce reliance on fossil fuels.",
+        "sentence": "The policy aims at electrifying transport to reduce the national oil import bill."
+      },
+      {
+        "word": "PHEV",
+        "type": "acronym/noun",
+        "definition": "Plug-in Hybrid Electric Vehicle; a hybrid vehicle that combines a gasoline engine with an electric motor and a battery that can be recharged by plugging into an external power source.",
+        "sentence": "Subsidizing PHEVs as heavily as BEVs is seen as a major flaw in the new policy."
+      },
+      {
+        "word": "BEV",
+        "type": "acronym/noun",
+        "definition": "Battery Electric Vehicle; a vehicle that is powered solely by a battery-electric motor and does not have a gasoline engine.",
+        "sentence": "Weak charging infrastructure discourages consumers from buying BEVs in Pakistan."
+      },
+      {
+        "word": "CKD units",
+        "type": "acronym/noun phrase",
+        "definition": "Completely Knocked Down units; a kit of parts that are shipped to a country and assembled there, often to avoid higher import taxes on fully assembled vehicles.",
+        "sentence": "Both PHEVs and BEVs qualify for a 1pc sales tax on CKD units."
+      },
+      {
+        "word": "Localisation",
+        "type": "noun",
+        "definition": "The process of adapting products or services to a particular local market, often involving local manufacturing or sourcing of components.",
+        "sentence": "PHEV assemblers have not delivered on localisation despite generous concessions."
+      },
+      {
+        "word": "Range anxiety",
+        "type": "noun phrase",
+        "definition": "The fear that a battery electric vehicle has insufficient range to reach its destination and will leave the driver stranded.",
+        "sentence": "Real range anxiety discourages Pakistani consumers from buying BEVs."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as the main flaw in the draft NEV policy's incentive structure?",
+        "options": [
+          "Treating plug-in hybrids and battery electric vehicles as interchangeable.",
+          "Increasing the tax on conventional hybrids to 25pc.",
+          "Not including export targets for manufacturers.",
+          "Focusing too heavily on building charging infrastructure."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states: 'The main flaw is treating plug-in hybrid and battery electric vehicles as interchangeable.'"
+      },
+      {
+        "question": "What is the sales tax rate proposed for PHEV and BEV CKD units under the new policy?",
+        "options": [
+          "1pc",
+          "8.5pc",
+          "25pc",
+          "No sales tax"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article mentions: 'Both qualify for the same 1pc sales tax on CKD units and NEV inputs'."
+      },
+      {
+        "question": "What is a negative consequence of heavily subsidizing PHEVs according to the article?",
+        "options": [
+          "It will boost the export-oriented auto industry.",
+          "It will significantly reduce the oil import bill immediately.",
+          "It discourages BEV demand and charging network development.",
+          "It promotes genuine technology transfer and localization."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'Subsidising PHEVs just as heavily hands them an easier option, which will show up as progress on paper while doing little to build the charging network or battery-vehicle demand the transition actually needs.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the three worthwhile goals of the draft New Energy Vehicle policy mentioned in the article?",
+        "back": "Electrifying transport, cutting the oil import bill, and building an export-oriented auto industry."
+      },
+      {
+        "front": "How does the policy's treatment of PHEVs and BEVs undermine its stated purpose?",
+        "back": "By treating them interchangeably and giving them the same tax breaks, it undervalues the greater environmental payoff of BEVs and disincentivizes true transport electrification."
+      },
+      {
+        "front": "What is the impact of subsidizing PHEVs on BEV adoption and infrastructure in Pakistan?",
+        "back": "It hands consumers an easier option, doing little to build the necessary charging network or battery-vehicle demand for genuine BEV transition."
+      },
+      {
+        "front": "What alternative policy approach does the author suggest for incentivizing NEVs?",
+        "back": "Reserve the sharpest incentives for BEVs and let other technologies compete based on actual emissions and fuel-savings performance, with consumers deciding."
+      }
+    ]
+  },
+  {
     "id": "curated-1789177902725-902",
     "title": "Bank domination\n",
     "source": "Dawn",
@@ -394,6 +516,94 @@
     ]
   },
   {
+    "id": "curated-1789263945706-564",
+    "title": "Questions around CPEC 2.0",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2628812/questions-around-cpec-20",
+    "date": "2026-09-11",
+    "author": "\n\t\t\t\tImtiaz Gul\n\t\t\t",
+    "content": "A public-welfare SMS message that appeared across the Chinese mobile network on September 10 read: \"The rule of law to escort the new journey of the 15th Five-Year Plan and work together to build a solid electromagnetic space safety network. Let us join hands, cherish spectrum resources, and set frequencies in accordance with laws and regulations.\"\n\nThe unambiguous emphasis on the rule of law in a public message was striking. It reflects an important feature of China's political economy: an emphasis on governance anchored in law, public interest and a sustained pursuit of institutional and economic capacity.\n\nThis theme also resonated during a Sino-Pakistan roundtable involving Pakistani diplomats and Chinese scholars at the Fudan University in Shanghai. Beyond the customary pleasantries and positive references to bilateral ties, several Chinese participants raised some pointed questions about Pakistan's development priorities and the future of the relationship.\n\nMost of the Chinese conversation revolved around the rule of law, investment in education and skills and Pakistan's own priorities and commitment. One participant noted that effective absorption of technology required a sound business environment, protection of contracts and intellectual property, and adequate human capital.\n\nDoes Pakistan have a long-term development plan? Does it want to prioritise development at all or eager for a strategic role abroad? Can Pakistan convert its strategic relationship with China into sustained economic growth?\n\n\"CPEC 2.0 is very important, but in my understanding the first step is to establish national consensus and internal stability,\" one professor observed. \"No matter how much support comes from outside, absence of consensus among political parties and provinces will fail it,\" he cautioned.\n\nA female professor stressed that CPEC 2.0 should reflect the needs and aspirations of people on the ground. According to her, if Pakistan and China want to build on their cooperation, they should listen to the legitimate demands and aspirations of the Baloch people.\n\nWithout referring directly to Pakistan's current political circumstances, another scholar emphasised that \"state capacity does not necessarily mean a stronger state, its ability to coordinate policies, translate decisions into results and create a predictable business environment makes it strong.\"\n\nAnother professor was more direct: \"We would like to ask our Pakistani friends about their goals. Is the priority economic development at home or excellence in foreign relations? Do you want to play a leading role in the Islamic world, or educate your own people and build the foundations for development?\"\n\nShe also raised the implications of Pakistan's emerging strategic commitments. \"You may become militarily involved abroad in the event of a war between Saudi Arabia and Iran, but would that contribute to the goal of peace? How can you pursue peace by joining an alliance perceived as anti-Iran,\" she asked.\n\nRecalling Defence Minister Khawaja Asif's earlier television statement that Pakistan's nuclear capabilities \"will absolutely be available\" to Saudi Arabia under the bilateral Strategic Mutual Defense Agreement - although he subsequently walked back the statement - the Chinese scholar asked whether Pakistan wanted \"more wars and influence abroad or development and prosperity for its own people.\"\n\nPointing to China's own experience, another participant said, four decades of planning and sustained investment in education, skills and economic planning got the country to its current standing. Pakistan, too, needed to strengthen its human capital and technological base before expecting significantly greater investment and technology transfers from China, he said.\n\nPakistan's ability to absorb advanced technologies, including AI-based technologies, remains low; hi-tech transfers can generate broader economic and social benefits only when the recipient country has the skills, institutions and infrastructure needed to integrate and deploy them effectively.\n\nOne scholar also suggested that Pakistan and China should first consolidate their bilateral relationship and then look more systematically at multilateral cooperation and regional development. The broader objective should be to promote economic integration and improve living standards across the region.\n\nThe Chinese participants recognised that Pakistan wants greater investment, technology and economic opportunities from CPEC. But they stressed the need for well-thought-out and consistent planning as requisites.\n\n\"China got here on the back of focused economic planning. India is also planning,\" one participant observed. \"But do Pakistani leaders have a long-term plan for development and modernisation?\"\n\nAccording to him, infrastructure investment remains important, but projects should have practical economic utility and contribute directly to people's development.\n\nMilitary-to-military coordination between China and Pakistan remains an important component of the relationship. But, the discussion suggested, cooperation should increasingly extend to economic development, industry, technology and business. The objective should be to turn projects into industries and Chinese capabilities into Pakistani capacity.\n\nThe central challenge is therefore how to convert decades of strategic investment in friendship into growth-led and sustainable development. The recurring message was that solutions to Pakistan's economic and political challenges ultimately have to begin at home.\n\nAll eleven Chinese scholars agreed that the \"iron brotherhood\" between China and Pakistan was built over decades of mutual support, particularly during difficult periods, but believed that preserving the friendship also required updating its economic strategic content.\n\nFor Pakistan, the challenge is to convert the considerable strategic capital accumulated through decades of bilateral cooperation into productive capacity, industrial development, technological capability and sustained economic growth.\n\nThat is ultimately what CPEC 2.0 should seek to achieve: turning a longstanding strategic friendship into a foundation for sustainable development.",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs / International Relations / Economics / Governance",
+    "topic": "CPEC 2.0: Chinese Perspectives on Pakistan's Development and Bilateral Cooperation",
+    "whyMatters": "This article offers crucial Chinese perspectives on the future of CPEC, highlighting their expectations regarding Pakistan's governance, economic planning, and internal stability. Aspirants can use these insights to provide a nuanced analysis of Pakistan-China relations and CPEC's challenges in their competitive exam answers.",
+    "summary": [
+      "Chinese participants emphasized the rule of law, sound governance, and institutional capacity as foundational for CPEC 2.0's success and effective absorption of technology in Pakistan.",
+      "Concerns were raised regarding Pakistan's long-term development priorities, internal stability, national consensus among political parties and provinces, and the need for investment in education and skills.",
+      "CPEC 2.0 is viewed as needing to reflect the needs and aspirations of people on the ground, particularly the Baloch, to ensure legitimacy and sustained cooperation.",
+      "The central challenge for Pakistan is to convert decades of strategic 'iron brotherhood' into productive capacity, industrial development, technological capability, and sustainable economic growth, starting with domestic focus and human capital development."
+    ],
+    "facts": [
+      "A Chinese public-welfare SMS on September 10 emphasized 'the rule of law' to escort the 15th Five-Year Plan.",
+      "Defence Minister Khawaja Asif's earlier statement about Pakistan's nuclear capabilities being 'absolutely available' to Saudi Arabia was recalled by a Chinese scholar, despite being walked back.",
+      "China's current standing is attributed to four decades of focused planning and sustained investment in education, skills, and economic planning."
+    ],
+    "academicReferences": [
+      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics'",
+      "The concept of 'State Capacity' in public administration and development studies",
+      "China's 'Five-Year Plans' as a model for long-term economic and development planning"
+    ],
+    "vocabulary": [
+      {
+        "word": "Unambiguous",
+        "type": "adjective",
+        "definition": "Not open to more than one interpretation; clear.",
+        "sentence": "The unambiguous emphasis on the rule of law in a public message was striking."
+      },
+      {
+        "word": "Resonated",
+        "type": "verb",
+        "definition": "Evoke or suggest images, memories, and emotions; strike a chord.",
+        "sentence": "This theme also resonated during a Sino-Pakistan roundtable involving Pakistani diplomats and Chinese scholars."
+      },
+      {
+        "word": "Requisites",
+        "type": "noun",
+        "definition": "A thing that is necessary for the achievement of a specified end.",
+        "sentence": "But they stressed the need for well-thought-out and consistent planning as requisites."
+      },
+      {
+        "word": "Consolidate",
+        "type": "verb",
+        "definition": "Make (something) physically stronger or more solid; strengthen.",
+        "sentence": "One scholar also suggested that Pakistan and China should first consolidate their bilateral relationship."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following was NOT explicitly mentioned by Chinese scholars as a key concern or prerequisite for CPEC 2.0's success in Pakistan?",
+        "options": [
+          "Internal political stability and national consensus",
+          "Protection of contracts and intellectual property",
+          "Pakistan's participation in multilateral security alliances",
+          "Investment in education and human capital"
+        ],
+        "answerIndex": 2,
+        "explanation": "While 'emerging strategic commitments' and 'militarily involved abroad' were discussed, the concern was about these distracting from development, not that Pakistan's participation in multilateral security alliances was a prerequisite for CPEC 2.0. In fact, it was seen as potentially detrimental to peace and development goals."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What foundational principle did the Chinese public welfare SMS emphasize regarding governance and development, according to the article?",
+        "back": "The public welfare SMS emphasized 'the rule of law' as an escort for the new journey of the 15th Five-Year Plan and for building a solid electromagnetic space safety network, reflecting China's focus on governance anchored in law."
+      },
+      {
+        "front": "According to Chinese scholars, what is the 'first step' and crucial condition for the success of CPEC 2.0, regardless of external support?",
+        "back": "The first step is to establish national consensus and internal stability, as the absence of consensus among political parties and provinces would lead to failure, no matter how much external support comes."
+      },
+      {
+        "front": "How do Chinese participants suggest CPEC 2.0 should evolve to ensure its effectiveness and legitimacy?",
+        "back": "CPEC 2.0 should reflect the needs and aspirations of people on the ground, and both countries should listen to the legitimate demands of local populations, such as the Baloch people, to build on cooperation effectively."
+      },
+      {
+        "front": "What is the central challenge for Pakistan in converting its 'iron brotherhood' with China into sustainable development through CPEC 2.0?",
+        "back": "The central challenge is to convert decades of strategic investment in friendship into growth-led and sustainable development by building productive capacity, industrial development, technological capability, and sustained economic growth within Pakistan."
+      }
+    ]
+  },
+  {
     "id": "curated-1789177818726-596",
     "title": "The end of 9/11\n",
     "source": "Dawn",
@@ -472,6 +682,118 @@
       {
         "front": "How does the presence of Zohran Mamdani at a 9/11 memorial serve as a symbolic counter-narrative to the American-led war on terror?",
         "back": "As a Muslim mayor, Mamdani's presence and leadership are presented as the 'best testimony against the American-led war on terror and the delusions that promoted it,' especially against the backdrop of neoconservative Islamophobia."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789263727750-495",
+    "title": "Political order\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029054/political-order",
+    "date": "2026-09-11",
+    "author": "none@none.com (Ghulam Shabbir)",
+    "content": "MAN’S superiority over creation lies in his faculty of creative knowledge, ie, the capacity to discover the laws of, and thus achieve mastery over, nature, or, in Quranic terminology, “to know the names of all things”, and then use this mastery under the human initiative to create a just political world order. Endowed with choice and charged with responsibility, man is a bearer of ‘Trust’ under whose weight the entire universe chafed. He assumed the task which the heavens, despite their heights, the earth despite its vastness, and the mountains, despite their firmness, shrank from undertaking.\nThis task involves fulfilling the primordial covenant: to establish a just world order, since the challenge God gave man at creation was to create a sociopolitical order that reflects the equality all people share in the eyes of God. It was to orient the forces of history towards a just social order rather than to compromise with them under the cover of secularism. Hence, for Islam, politics is through and through a moral endeavour to accomplish the task. The Quranic idea of ‘fauz’ (success) or ‘khusran’ (failure) is rooted in executing the same task, since it is the quality of the political process through which civilisations rise and fall.\nThe Quran, in its coherent unity, shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests. And when exploitation reaches its critical point, the whole of society or civilisation is mowed down. When the Quran talks about the death of individuals like Pharaoh, Qarun and Haman, it is showing the self-destructiveness of the way of life of a society or civilisation. The remedy lies in building a just sociopolitical order, since societies built on unbelief may survive, but unjust ones may not.\nNow, because injustice is often rooted in socioeconomic disequilibrium and grave fiscal malpractices can lead to socioeconomic suicide (4:29-32), the Quran makes monotheism-based socioeconomic reforms the linchpin of its moral programme. Therefore, Islam, since its very inception, was socio-politically geared to uproot the corrupt socioeconomic structures of Persia and Byzantium and to build anew, to inject fresh blood into the veins of a decrepit and decadent humanity.\nIn Islam politics is through and through a moral endeavour.\nIslam views power as a means to an end, not an end in itself, as prayer and zakat are instruments of socioeconomic equality. Implementing them in letter and spirit required political power, so the Prophet (PBUH) felt duty-bound to build a state based on an ethical sociopolitical order.\nHence, man is a moral political being with ibada as his purpose of creation — which means to know the will of God and implement it in life, and to restore moral order in individual and social life to redeem the balance of history.\nThe Quran constituted an egalitarian community, with equal rights for all to participate in or lead the execution of the task through shura, or mutual consultation. The community’s internal conduct was based on active goodwill and cooperation with no trace of elitism. Externally, it kept inviting the religious others to share the burden of building a world moral order. It fared well and was blessed with political control of Arabia, eventually expanding into parts of Asia, Africa, and Europe.\nHowever, later, with the onset and patronage of dictatorship, Sufism Hellenised almost every bit of the faith. In the long run, this development resulted in the colonisation of Mus­lim Asia and Afri­­ca by Western po­­­­­-wers. At this critical juncture, Syed Jamal al-Din Af­­gh­ani rediscovered the Quran’s moral political vision. He proposed building an Islamic republic across a wide region of Central Asia and the Muslim-majority areas of northwest India to realise Islam’s sociopolitical ideals. He amply fired the imagination of Iqbal and Ali Shariati. The former conceived the idea of Pakistan, and the latter paved the way for the Islamic Revolution in Iran.\nToday, the Muslim world has either succumbed to secular structures or theocratic modes. The realisation of the Quran’s moral political vision that seeks just socioeconomic and democratic organisation of society seems like a distant dream.\nThe Quran hardly demands military conquests which could stand in the way of the prospects of the socio-democratic organisation of society. What the vision needs is a tract of land with a just political order whose fragrance may be smelt in the world around and which, in the long run, is destined to create a just world order. Does such a realisation prevail anywhere in the Muslim world?\nThe writer is an academic.\nPublished in Dawn, September 11th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "Islamic Studies / Political Science",
+    "topic": "Islamic Political Philosophy, Just World Order, and Societal Decline",
+    "whyMatters": "This article provides a foundational Islamic perspective on politics as a moral endeavor, essential for understanding the ideological underpinnings of various movements and states in the Muslim world. It offers a critical analysis of historical societal decline and proposes an ideal for a just socio-political order, highly relevant for essays on governance and religious philosophy.",
+    "summary": [
+      "Humanity's core 'Trust' is to establish a just world order reflecting divine equality, viewing politics as a moral task to orient history towards justice, not compromise with secularism.",
+      "The Quran attributes societal and civilizational collapse to the exploitative actions of a 'troika' of religious, political, and mercantile elites driven by vested interests.",
+      "Injustice, often stemming from socioeconomic disequilibrium and fiscal malpractices, necessitates monotheism-based socioeconomic reforms as the linchpin of Islam's moral program.",
+      "The article critiques the Muslim world's current succumbing to secular or theocratic structures, advocating for a just political order on a tract of land whose fragrance can inspire a global just order, echoing the vision of reformers like Afghani and Iqbal."
+    ],
+    "facts": [
+      "Quranic concepts highlighted include 'Trust' (Amanah), 'fauz' (success), 'khusran' (failure), 'ibada', and 'shura'.",
+      "The Quran uses figures like Pharaoh, Qarun, and Haman to illustrate the self-destructiveness of exploitative societal ways of life.",
+      "Key reformist thinkers mentioned are Syed Jamal al-Din Afghani (who proposed an Islamic republic), Iqbal (who conceived Pakistan), and Ali Shariati (who paved the way for Iran's Islamic Revolution).",
+      "Historically, the Hellenization of Sufism under dictatorship contributed to the colonization of Muslim Asia and Africa by Western powers."
+    ],
+    "academicReferences": [
+      "Iqbal, Muhammad. \"The Reconstruction of Religious Thought in Islam.\" (Directly mentioned, foundational for modern Islamic political thought).",
+      "Rahman, Fazlur. \"Islam and Modernity: Transformation of an Intellectual Tradition.\" (Relevant for understanding Islamic reform movements and the concept of an Islamic socio-political order).",
+      "Nasr, Seyyed Hossein. \"Ideals and Realities of Islam.\" (Offers a comprehensive overview of Islamic principles, including its socio-political dimensions).",
+      "Hallaq, Wael B. \"The Impossible State: Islam, Politics, and Modernity's Predicament.\" (Provides a critical academic perspective on the modern state in relation to classical Islamic political ideals)."
+    ],
+    "vocabulary": [
+      {
+        "word": "chafed",
+        "type": "verb",
+        "definition": "became annoyed or impatient with a restriction or situation",
+        "sentence": "Man assumed the task under whose weight the entire universe chafed."
+      },
+      {
+        "word": "primordial",
+        "type": "adjective",
+        "definition": "existing at or from the beginning of time; ancient",
+        "sentence": "This task involves fulfilling the primordial covenant: to establish a just world order."
+      },
+      {
+        "word": "troika",
+        "type": "noun",
+        "definition": "a group of three people, countries, or things working together",
+        "sentence": "The Quran, in its coherent unity, shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests."
+      },
+      {
+        "word": "decrepit",
+        "type": "adjective",
+        "definition": "worn out or ruined because of age or neglect",
+        "sentence": "Islam was socio-politically geared to inject fresh blood into the veins of a decrepit and decadent humanity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental 'Trust' bestowed upon man in Quranic terminology?",
+        "options": [
+          "To achieve mastery over nature and create a just political world order.",
+          "To accumulate wealth and establish mercantile power.",
+          "To gain religious knowledge and spiritual enlightenment.",
+          "To conquer lands and expand political control."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'man is a bearer of ‘Trust’... This task involves fulfilling the primordial covenant: to establish a just world order' and 'achieve mastery over nature... to create a just political world order.'"
+      },
+      {
+        "question": "What does the article identify as the primary cause of societal or civilizational collapse, according to the Quran?",
+        "options": [
+          "Lack of military power and defense.",
+          "Secular governance and separation of church and state.",
+          "Exploitation by a troika of religious, political, and mercantile elites.",
+          "Natural disasters and environmental degradation."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'the Quran... shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests. And when exploitation reaches its critical point, the whole of society or civilisation is mowed down.'"
+      },
+      {
+        "question": "What did Syed Jamal al-Din Afghani propose to realize Islam's sociopolitical ideals?",
+        "options": [
+          "Military conquests to expand Muslim empires.",
+          "Establishing secular democratic structures in Muslim-majority regions.",
+          "Building an Islamic republic across Central Asia and Muslim-majority areas of northwest India.",
+          "Promoting Sufi mysticism as a path to spiritual revival."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article clearly states, 'Syed Jamal al-Din Afghani rediscovered the Quran’s moral political vision. He proposed building an Islamic republic across a wide region of Central Asia and the Muslim-majority areas of northwest India.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the 'Trust' (Amanah) that man bears according to the Quran, as interpreted in the article?",
+        "back": "Man's 'Trust' is the capacity to discover nature's laws and use this mastery under human initiative to create a just political world order, fulfilling the primordial covenant to establish a socio-political order reflecting equality."
+      },
+      {
+        "front": "How does the article characterize Islam's perspective on politics?",
+        "back": "Islam views politics as a moral endeavor, not an end in itself, aimed at implementing God's will to restore moral order and establish an ethical sociopolitical system reflecting equality and justice."
+      },
+      {
+        "front": "What 'troika' does the Quran identify as responsible for the downfall of societies and civilizations?",
+        "back": "The Quran identifies a 'troika' of religious, political, and mercantile elites who manipulate historical materials for their vested interests, leading to exploitation and societal collapse when reaching critical points."
+      },
+      {
+        "front": "What was Syed Jamal al-Din Afghani's vision for realizing Islam's moral political ideals?",
+        "back": "Afghani envisioned building an Islamic republic across Central Asia and Muslim-majority areas of northwest India to realize Islam's sociopolitical ideals, influencing later thinkers like Iqbal and Ali Shariati."
       }
     ]
   },
@@ -9885,327 +10207,6 @@
       {
         "front": "What is the WASL framework mentioned in the context of the new policy, and what is its purpose?",
         "back": "The WASL framework is a new mechanism designed to enable secure exchange of data between individual government entities based on classification and governance standards, ensuring a federated model rather than centralizing all government data into a single pooled database."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786150624390-651",
-    "title": "Collapse and consequences\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021161/collapse-and-consequences",
-    "date": "2026-08-07",
-    "author": "none@none.com (Zafar Mirza)",
-    "content": "THE interior minister of Pakistan had said the other day that whether “we admit it or not, this system has collapsed” and that “this system has to be reset”.\nThe healthcare system of Pakistan is sadly a clear illustration of what the minister said, and the spread of HIV and hepatitis C symbolise this collapse. The latest reported figure of small children infected with HIV in the country due to reused syringes and transfusion of unscreened blood is 7,500, minus cases in 2026 from Punjab, which has reportedly not bothered to share its data with the federal government. The total number of deaths due to HIV is reported to be 25,000. The number of children’s deaths is not available. As for the case of hepatitis C, we have the world’s largest infected population, ie around 10 million. The current estimated prevalence of hepatitis C in Pakistan is 7.5 per cent, which is also the highest in the world. Twenty per cent of the global burden of hepatitis C is in Pakistan alone. HIV and hepatitis C share the same modes of transmission.\n    \nImagine a mother who takes her child to a health facility for a minor ailment — cough, fever or diarrhoea. The child is given an injection through a syringe which has been used on other patients drawing from the same multi-dose vial, or through a cannula that has also been reused or an IV drip. After a few days of this “treatment” the child starts losing weight and falls sick again and again. Every visit to the health facility brings the same “treatment”. Eventually someone suspects immune deficiency and tests the child for HIV and s/he turns out to be positive.\nThe HIV epidemic is part of a prevailing public health crisis in Pakistan.\nThis generic story is being repeated day in and day out in Pakistan. Children are being infected with HIV not through mother-to-child transmission, not through sexual contact, but through the very healthcare system meant to treat them. Most children, across the country, are never suspected and remain undiagnosed. This is why it is the tip of the iceberg.\nThose who are diagnosed have to be on daily treatment for the rest of their lives. If they are caught late, a child can slide into ‘advanced disease’ requiring intensive care. Even children who survive this stage may carry lasting effects on their body systems: slower growth, delayed brain and motor development, and problems affecting the heart and kidneys. Every six months, children on treatment are supposed to have their viral load tested — the single indicator of whether medicine is working or the child is sliding into advanced disease. Reportedly, this testing has been interrupted in Sindh since December last year. The monitoring chain in Punjab and other provinces is also unclear.\nWorking backwards from health facility level where our children are being infected with HIV, there are issues of system failure, governance failure and moral failure on the part of all those responsible, going up to the top-most level of policymakers.\nThe government of Pakistan runs prevention and treatment of HIV on grants from the Global Fund to Fight AIDS and Malaria — thanks to the Fund. In the last five years, more than 90pc funding for this disease and TB and malaria has come from the Global Fund. Out of this funding between 2013 and 2015, according to the 2025 Auditor-General of Pakistan report, Rs122 billion have remained unspent. Despite availability of money, many key positions in federal and provincial AIDS programmes remain vacant, and so on. And there is zero accountability for all this.\nIf this is not a system collapse, then what is it? The consequence of this collapse is 7,500 children infected with HIV, and the number is growing.\nThe unfolding HIV epidemic in Pakistan is gradually moving towards becoming a generalised epidemic from a concentrated epidemic limited to high-risk populations.\nBut the HIV epidemic is part of a prevailing public health crisis in Pakistan. We don’t pay attention to it because the elite classes take care of their health through super specialists in their expensive private clinics. The bulk of the population in smaller towns and villages suffers at the hands of an extremely unsafe public health system and suboptimal and minimally regulated private practitioners and outright quacks.\nIt is no coincidence, hence, that Pakistan has the second highest neonatal mortality in the world; 49pc of our women in reproductive age suffer from iron deficiency anaemia and they give birth to underweight children, 40pc of whom become stunted, physically and mentally; we along with Afghanistan are not able to eradicate polio whereas 192 countries have done it, including those poorer than us and those who have been chronically in emergency situations like Somalia, Haiti, Yemen and Syria; every third Pakistani above the age of 18 years is suffering from type II diabetes, 34.5m of them, which is the largest population in the world; every fourth Pakistani above the age of 40 years has high blood pressure; every fourth mother undergoes postnatal depression and every fifth child in our schools is suffering from emotional or behavioural disorders. These are those lucky children who go to school whereas there are more than 25m children who are out of school ie more than two crore and 25 lakh children — imagine!\nWe have very high inequity in healthcare. One figure says it all: government health expenditure per capita in Lahore is around $70.8, the same figure for district Rajanpur in southern Punjab $4.2. This is according to a government report. The Pakistan government is among the lowest spenders on health.\nThese are the consequences of the collapse. The accumulative effect of all the above is that an average Pakistani’s life expectancy at birth is eight to nine years less than an Iranian and a Sri Lankan.\nThere is a collapse, and there are consequences. After the outburst of the interior minister, Pakistan has started asking important questions about itself. Indeed, smaller administrative units are essential, but they are not sufficient as a solution. A much more comprehensive and deeper introspection and reform process is needed, and a precondition for that is a political consensus between all the main stakeholders in Pakistan. I hope we would not lose this opportunity. Otherwise, innocent children would continue to be infected with HIV, and much more.\nThe writer is a former SAPM on health with ministerial status, adjunct professor of health systems and president of the Pakistan Association of Lifestyle Medicine.\nzedefar@gmail.com\nPublished in Dawn, August 7th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs / Current Affairs / Social Issues of Pakistan",
-    "topic": "Healthcare System Collapse, Public Health Crisis, and Governance Failures in Pakistan",
-    "whyMatters": "This article critically analyzes the severe collapse of Pakistan's public health system and its devastating societal consequences, offering concrete data and arguments essential for essays and analytical questions on governance, social issues, and national development. It provides detailed insights into systemic failures, resource mismanagement, and human costs, making it a high-value source for competitive exam aspirants.",
-    "summary": [
-      "Pakistan's healthcare system has collapsed, evidenced by the unchecked spread of HIV and Hepatitis C, leading to thousands of children being infected through unsafe medical practices within the system itself.",
-      "This collapse stems from systemic, governance, and moral failures, including the non-utilization of substantial international grants (Rs122 billion unspent) and a stark lack of accountability for vacant key positions.",
-      "The public health crisis extends beyond infectious diseases to include alarmingly high neonatal mortality, widespread malnutrition, persistent polio, and a high prevalence of non-communicable diseases like diabetes and hypertension.",
-      "Extreme inequity in healthcare access and spending, with significantly lower per capita expenditure in rural areas compared to urban centers, exacerbates the overall public health emergency and results in a lower average life expectancy for Pakistanis."
-    ],
-    "facts": [
-      "7,500 small children are reported to be infected with HIV in Pakistan due to reused syringes and unscreened blood, excluding Punjab's data for 2026.",
-      "Pakistan has the world's largest Hepatitis C infected population (around 10 million), with a 7.5% prevalence rate and accounting for 20% of the global burden.",
-      "Rs122 billion of funding from the Global Fund to Fight AIDS, TB, and Malaria remained unspent in Pakistan between 2013 and 2015, according to a 2025 Auditor-General report.",
-      "Pakistan has the second highest neonatal mortality in the world, and 40% of its children are stunted due to maternal iron deficiency anaemia.",
-      "Government health expenditure per capita in Lahore is $70.8, starkly contrasting with $4.2 in district Rajanpur, highlighting extreme regional inequity."
-    ],
-    "academicReferences": [
-      "WHO Global Health Observatory Data (Relevant for comparing Pakistan's health indicators like neonatal mortality and disease prevalence with global standards).",
-      "Sustainable Development Goals (SDG 3: Good Health and Well-being; directly addresses targets related to maternal/child health, communicable diseases, and universal health coverage).",
-      "The Global Fund to Fight AIDS, Tuberculosis and Malaria Reports (Provides context for international aid and its utilization/non-utilization in Pakistan, as mentioned in the article).",
-      "18th Amendment to the Constitution of Pakistan (Relevant to the devolution of health services to provinces, impacting federal-provincial coordination and data sharing)."
-    ],
-    "vocabulary": [
-      {
-        "word": "suboptimal",
-        "type": "adjective",
-        "definition": "Less than optimal; not reaching the highest standard or best outcome.",
-        "sentence": "The minimally regulated private practitioners often provide suboptimal healthcare services, contributing to the crisis."
-      },
-      {
-        "word": "quacks",
-        "type": "noun",
-        "definition": "Unqualified or dishonest practitioners who pretend to have medical knowledge or skills.",
-        "sentence": "The bulk of the population in smaller towns suffers at the hands of outright quacks who further compromise public health."
-      },
-      {
-        "word": "generalized epidemic",
-        "type": "noun phrase",
-        "definition": "An epidemic where a disease is established and self-sustaining through transmission in the general population, not confined to specific high-risk groups.",
-        "sentence": "The unfolding HIV epidemic in Pakistan is gradually moving towards becoming a generalized epidemic, indicating its spread beyond high-risk populations."
-      },
-      {
-        "word": "stunted",
-        "type": "adjective",
-        "definition": "Having growth severely inhibited or restricted, often leading to being underdeveloped physically or mentally.",
-        "sentence": "Forty percent of children in Pakistan become stunted, physically and mentally, due to malnutrition and iron deficiency in mothers."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary reason for the HIV infection among children in Pakistan?",
-        "options": [
-          "Mother-to-child transmission",
-          "Sexual contact",
-          "Reused syringes and unscreened blood",
-          "Contaminated food and water"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that children are being infected with HIV 'not through mother-to-child transmission, not through sexual contact, but through the very healthcare system meant to treat them,' specifically citing 'reused syringes and transfusion of unscreened blood.'"
-      },
-      {
-        "question": "What percentage of the global burden of Hepatitis C is found in Pakistan?",
-        "options": [
-          "7.5%",
-          "10%",
-          "20%",
-          "25%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Twenty per cent of the global burden of hepatitis C is in Pakistan alone.'"
-      },
-      {
-        "question": "What significant issue is highlighted regarding the utilization of funds from the Global Fund to Fight AIDS, TB, and Malaria in Pakistan?",
-        "options": [
-          "Funds were entirely exhausted prematurely",
-          "Funds were diverted to other sectors",
-          "Rs122 billion remained unspent",
-          "The Global Fund ceased its operations in Pakistan"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Out of this funding between 2013 and 2015, according to the 2025 Auditor-General of Pakistan report, Rs122 billion have remained unspent.'"
-      },
-      {
-        "question": "The article contrasts government health expenditure per capita between Lahore and Rajanpur. What does this difference primarily illustrate?",
-        "options": [
-          "Urban-rural income disparity",
-          "Success of health initiatives in Punjab",
-          "High inequity in healthcare access and spending",
-          "Effectiveness of private healthcare providers"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'We have very high inequity in healthcare,' and uses the Lahore ($70.8) vs. Rajanpur ($4.2) figures as a prime example of this disparity, directly linking it to 'government health expenditure per capita'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What core issues does the author, Zafar Mirza, identify as underlying the collapse of Pakistan's healthcare system?",
-        "back": "The article points to systemic failure, governance failure, and moral failure on the part of all responsible parties, going up to the top-most level of policymakers."
-      },
-      {
-        "front": "How does the article link the specific spread of HIV and Hepatitis C to the broader public health crisis in Pakistan?",
-        "back": "It illustrates that children are being infected through unsafe healthcare practices, making the healthcare system itself a vector for disease, and that these epidemics are symptomatic of a wider crisis including high neonatal mortality, malnutrition, and persistent polio."
-      },
-      {
-        "front": "What is the primary consequence of Pakistan's low government health expenditure and high inequity, according to the article?",
-        "back": "An average Pakistani's life expectancy at birth is eight to nine years less than an Iranian and a Sri Lankan."
-      },
-      {
-        "front": "What solution does the author propose to address the systemic collapse and its consequences in Pakistan?",
-        "back": "A much more comprehensive and deeper introspection and reform process is needed, and a precondition for that is a political consensus between all the main stakeholders in Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786150158385-226",
-    "title": "Terrorist havens\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021155/terrorist-havens",
-    "date": "2026-08-07",
-    "author": "none@none.com (Editorial)",
-    "content": "DESPITE the use of both carrots and sticks by the international community, the Afghan Taliban refuse to cut their ties to terrorist groups such as the TTP. This poses a particular problem to Afghanistan’s neighbours, including Pakistan, which has borne the brunt of terrorist violence ever since the Taliban’s return to Kabul in 2021.\nBoth KP and Balochistan are currently in the grip of violent insurgencies, with the elements responsible for the bloodshed finding safe havens in Afghanistan. Pakistan raised the issue at the UN Security Council on Wednesday, with this country’s permanent representative highlighting the “increasingly permissive environment” for terrorist groups in Afghanistan after the Taliban takeover. He urged the Taliban to fulfil their obligations and ensure Afghan soil is not used against neighbouring states. China’s representative at the same forum echoed these concerns, urging the Taliban to take action, whilst supporting Pakistan’s counterterrorism efforts. The Chinese diplomat also called for sanctions on the BLA and Majeed Brigade.\n    \nThese issues have been raised repeatedly, while UNSC monitoring reports have endorsed Pakistan’s concerns regarding the permissive environment for terrorist groups in Afghanistan. It is not just the TTP; Al Qaeda, IS-K, ETIM and others are all believed to be active in Afghanistan. While the Taliban are opposed to IS-K, they have deep links with other violent actors. Moreover, nearly all of Afghanistan’s neighbours have complained of the threat these outfits pose to their security.\nYet the Taliban only pay lip service to these concerns, denying the fact that terrorists operate from their territory. These denials are implausible as there is a convincing body of evidence proving that violent outfits operate in an agreeable atmosphere in Taliban-ruled Afghanistan.\n    \nAs this paper has argued before, a regional response is required to tackle the problem of Afghanistan-based terrorist groups. The Afghan Taliban are an unpalatable reality and cannot be wished away. The challenge for the international community is to use a combination of deterrence and incentives to make them change their tune. Pakistan has tried kinetic methods to deter cross-border terrorism, but in the long term, continued hostilities are not sustainable.\nThe economic situation in Afghanistan is dire, and its people live in misery. Instead of protecting their terrorist comrades, the Taliban need to think about improving the lives of common Afghans. This can only happen through trade and regional integration. Yet Afghanistan will remain a pariah if its rulers keep harbouring terrorists. Therefore, Kabul’s neighbours need to continue diplomatic, political and, where needed, kinetic efforts to end the ‘export’ of terrorism from Afghanistan, both for its own development, and regional peace.\nPublished in Dawn, August 7th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 84,
-    "paper": "Current Affairs",
-    "topic": "Regional Security, Terrorism, and Obstacles to Regional Integration",
-    "whyMatters": "While not directly addressing ECO, this article is crucial for discussing the challenges to regional integration in South and Central Asia. It highlights how persistent security threats from Afghanistan directly impede economic cooperation, trade, and overall regional stability, thereby undermining the future prospects of regional bodies like ECO for Pakistan.",
-    "summary": [
-      "The Afghan Taliban continue to harbor terrorist groups like TTP, posing a severe security challenge to neighboring states, especially Pakistan.",
-      "Pakistan is bearing the brunt of cross-border terrorism, with insurgencies in KP and Balochistan linked to safe havens in Afghanistan, a concern echoed by China and raised at the UN Security Council.",
-      "Despite international pressure and clear evidence, the Taliban deny these groups operate from their territory, maintaining deep links with many violent actors while opposing only IS-K.",
-      "A regional response combining deterrence, incentives, and diplomatic/political/kinetic efforts is advocated to compel the Taliban to end the 'export' of terrorism, linking Afghanistan's economic woes and pariah status to its failure to curb terrorism."
-    ],
-    "facts": [
-      "Taliban's return to power in Kabul in 2021 marked an increase in terrorist violence against Pakistan.",
-      "Pakistan's permanent representative raised concerns about the 'increasingly permissive environment' for terrorist groups in Afghanistan at the UN Security Council.",
-      "Specific terrorist groups identified as active in Afghanistan include TTP, Al Qaeda, IS-K, ETIM, and concerns were raised about BLA and Majeed Brigade."
-    ],
-    "academicReferences": [
-      "UN Security Council Resolution 2593 (2021) on Afghanistan, addressing terrorism and calling for adherence to international obligations.",
-      "Financial Action Task Force (FATF) reports on counter-terrorist financing and state obligations.",
-      "Annual reports from the United Nations Assistance Mission in Afghanistan (UNAMA) on the security situation."
-    ],
-    "vocabulary": [
-      {
-        "word": "Carrots and sticks",
-        "type": "idiom",
-        "definition": "A method of persuasion involving both rewards and punishments.",
-        "sentence": "The international community has used both carrots and sticks to influence the Afghan Taliban's policies."
-      },
-      {
-        "word": "Permissive environment",
-        "type": "noun phrase",
-        "definition": "An atmosphere or condition that allows something (often undesirable) to thrive or operate freely.",
-        "sentence": "Pakistan highlighted the 'increasingly permissive environment' for terrorist groups in Afghanistan after the Taliban takeover."
-      },
-      {
-        "word": "Kinetic methods",
-        "type": "noun phrase",
-        "definition": "Pertaining to or involving motion, specifically military actions involving force and movement, such as targeted strikes.",
-        "sentence": "Pakistan has tried kinetic methods to deter cross-border terrorism, but they are not sustainable in the long term."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which specific regions of Pakistan are mentioned as being in the grip of violent insurgencies with elements finding safe havens in Afghanistan?",
-        "options": [
-          "Sindh and Punjab",
-          "Khyber Pakhtunkhwa (KP) and Balochistan",
-          "Gilgit-Baltistan and Azad Kashmir",
-          "Islamabad and Northern Areas"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'Both KP and Balochistan are currently in the grip of violent insurgencies, with the elements responsible for the bloodshed finding safe havens in Afghanistan.'"
-      },
-      {
-        "question": "Which international body did Pakistan raise the issue of Afghanistan-based terrorism at?",
-        "options": [
-          "NATO",
-          "Shanghai Cooperation Organization (SCO)",
-          "UN Security Council",
-          "Economic Cooperation Organization (ECO)"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions that 'Pakistan raised the issue at the UN Security Council on Wednesday, with this country’s permanent representative highlighting the 'increasingly permissive environment' for terrorist groups in Afghanistan.'"
-      },
-      {
-        "question": "According to the article, which terrorist group are the Taliban explicitly stated to be opposed to, despite having deep links with others?",
-        "options": [
-          "TTP",
-          "Al Qaeda",
-          "IS-K",
-          "ETIM"
-        ],
-        "answerIndex": 2,
-        "explanation": "The text states: 'While the Taliban are opposed to IS-K, they have deep links with other violent actors.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary security challenge Pakistan faces from Afghanistan, according to the article?",
-        "back": "Cross-border terrorism originating from safe havens in Afghanistan, fueled by the Afghan Taliban's refusal to cut ties with groups like TTP."
-      },
-      {
-        "front": "How does the international community, including China, view the Taliban's stance on terrorism?",
-        "back": "They view it with concern, noting a 'permissive environment' for terrorist groups in Afghanistan and urging the Taliban to fulfill their obligations against neighboring states."
-      },
-      {
-        "front": "What regional solution does the article propose to tackle Afghanistan-based terrorist groups?",
-        "back": "A regional response using a combination of deterrence and incentives, alongside diplomatic, political, and kinetic efforts to end the 'export' of terrorism."
-      },
-      {
-        "front": "How does the article connect Afghanistan's economic situation to its harboring of terrorists?",
-        "back": "It argues that Afghanistan's dire economic situation and pariah status will persist if its rulers continue to harbor terrorists, preventing trade and regional integration crucial for improving common Afghans' lives."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786068133539-148",
-    "title": "The growth-jobs paradox\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2020930/the-growth-jobs-paradox",
-    "date": "2026-08-06",
-    "author": "none@none.com (Ishrat Husain)",
-    "content": "THE 2024 upheaval that toppled Sheikh Hasina’s government in Bangladesh, alongside the youth-led protests over joblessness in India, point to a shared crisis across South Asia: strong economic growth has not translated into enough good jobs for a workforce that is more educated than ever before. As access to schooling and universities has expanded, so have people’s employment expectations — expectations that a narrow job market has failed to meet, sparking widespread anger. In India, nearly 40 per cent of graduates under 25 can’t find work; youth joblessness is near 29pc. Roughly four in five Indian workers depend on informal, insecure employment.\nEconomic theory holds that growth happens as workers shift from low-output farming to more productive factory and service jobs, and that this shift should expand labour demand and shrink joblessness. But India, Bangladesh and Pakistan complicate that story. India and Bangladesh have sustained 6-7pc annual growth for over three decades; Pakistan has managed only 3-4pc. Yet, none of the three has generated sufficient formal, productive work. Growth rate alone doesn’t explain the shortfall.\nData from the Centre for the Study of Developing Societies show Indian employment expanding just 1.6pc a year from 2000 to 2012, then flat-lining from 2012 to 2019 even as GDP kept climbing. The type of growth a country experiences, not merely its speed, appears to shape how many jobs it creates. India’s economic transformation makes the point vividly. Agriculture accounted for 35pc of GDP in 1990, absorbing 63pc of the workforce; by 2025, its GDP share had dropped to 16pc, yet it still employed about 42pc of workers. Agricultural productivity relative to the rest of the economy fell from 0.54 to 0.40 over this period, a sign of chronic underemployment and surplus labour stuck on the farm. Meanwhile, economy-wide productivity nearly quadrupled, ie, rising incomes came mostly from efficiency gains in industry and modern services, not new job creation. Workers haven’t left agriculture at the rate that genuine structural change requires. The outcome is reflected in living standards: CLSA data put average urban household income at around $20,000, and just $3,600 in rural areas.\nPart of the problem is that new, productivity-boosting technologies tend to displace low-skilled workers faster than emerging industries can absorb them. For instance, India’s IT sector has become a world-class tech hub, pulling in over $13 billion in venture capital each year, spawning countless start-ups and unicorns, and generating some $300bn in annual revenue. Yet, it employs only around six million people, barely 1pc of the national workforce.\nRapid GDP growth by itself cannot ensure enough jobs or social stability.\nThe roughly 2,000 global capability centres set up by MNCs add only about 2m jobs. Against this, India’s labour force grows by some 12m young people annually, including about 1m engineering graduates, only half of whom are considered employable in their field. Over the past decade, the IT sector has added only about 1m jobs. India may handle over 30pc of global outsourced business-process work, but this tech-driven growth has been skill-intensive, not job-intensive.\nAs Indian industry and services keep climbing the value chain, the need for unskilled and semi-skilled labour is set to shrink further, a trend that AI, robotics, and automation may speed up, leaving policymakers with a dilemma: how to keep India competitive in technology while generating enough jobs for millions of young people without advanced skills. As services focus on finance, IT, e-commerce, and other knowledge-heavy fields, older labour-intensive jobs in retail and community and personal services contract.\nAgriculture, the fallback employer for surplus labour, offers no real cure. Modernising it would raise productivity and rural incomes, but reform efforts run into political opposition — the Modi government’s three farm laws sparked mass protests and had to be repealed. Even so, nearly 480m people rely on farming, a large share of them underemployed. Here lies the central paradox: the more agriculture modernises and mechanises, the fewer workers it will need, eroding its role as a buffer for surplus labour. Seasonal migration from poorer states like Bihar and UP to richer farming regions may also taper off as mechanisation reduces demand for hired labour. Briefly, agriculture can’t continue absorbing new job-seekers indefinitely. Beyond the shifting nature of growth and its shrinking capacity to generate jobs, other structural issues compound youth unemployment: low participation by women in the workforce, premature decline of manufacturing, growing inequality, and above all, a widening gap between what education delivers and what employers need.\nIndia has expanded higher education dramatically: gross tertiary enrolment is approaching 28pc, with some 45m students in colleges and universities. Yet this growth hasn’t produced better job outcomes; millions of young people remain out of education, work, and training. From 2004 to 2023, Indian universities turned out around 5m graduates a year; only 2.8m or so found jobs annually. The mismatch between supply and demand is severe. Between 2014 and 2022, over 220m applications competed for just 72,000 central government position.\nThe quality gap is worse than the quantity gap. McKinsey research found only about a quarter of Indian graduates have globally competitive skills, with another fifth meeting domestic hiring standards, leaving more than half short of what employers want. Outmoded syllabi, rote memorisation and scant hands-on training have left graduates credentialled but not always employable. Educated unemployment stems from higher education’s disconnect with real economic needs. Students, families and institutions are fixated on degrees and scores rather than analytical thinking and problem-solving skills. Universities churn out graduates in fields with little market demand; technical and vocational roles go unfilled.\nGovernment funding patterns deepen these imbalances. Elite schools like IITs and IIMs receive outsized public investment due to their prestige, while the overall cost of higher education keeps rising, forcing families into major financial sacrifice, often for degrees that don’t pay off, as graduates face long jobless stretches or settle for work below their qualification level.\nThe lesson from South Asia is that rapid GDP growth by itself cannot ensure enough jobs or social stability. It needs to be more labour-absorbing, manufacturing needs new momentum, agriculture needs to enable rather than obstruct structural change, and education must build skills the modern economy actually demands. Otherwise, the gap between growth and employment will keep breeding frustration, endangering economic progress and political stability in the region.\nThe writer is the author of Development Pathways: India, Pakistan and Bangladesh 1947-2022.\nPublished in Dawn, August 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Economics / Current Affairs / Governance",
-    "topic": "Growth-Jobs Paradox, Youth Unemployment, and Structural Economic Challenges in South Asia",
-    "whyMatters": "This article critically analyzes the disconnect between rapid economic growth and insufficient job creation in South Asia, a fundamental challenge for socio-political stability. It provides specific data and structural arguments crucial for understanding and addressing development issues in essays and policy-oriented questions.",
-    "summary": [
-      "Despite strong economic growth (6-7% in India/Bangladesh, 3-4% in Pakistan) for decades, South Asia faces a shared crisis of insufficient 'good' jobs, leading to high youth unemployment and social unrest.",
-      "The *type* of growth, driven by efficiency gains in skill-intensive industry and modern services, rather than job creation, is key; agriculture still employs a disproportionately large, underemployed workforce despite its declining GDP share.",
-      "New, productivity-boosting technologies (IT, AI, automation) displace low-skilled workers faster than emerging industries can absorb them, creating a policy dilemma for job generation.",
-      "A severe mismatch between an expanded higher education system (focused on degrees/rote learning) and the actual skills demanded by the modern economy exacerbates educated unemployment."
-    ],
-    "facts": [
-      "In India, nearly 40% of graduates under 25 cannot find work; youth joblessness is near 29%.",
-      "India's agriculture share of GDP dropped from 35% (1990) to 16% (2025), yet it still employs ~42% of the workforce.",
-      "Between 2004 and 2023, Indian universities produced ~5 million graduates annually, but only ~2.8 million found jobs each year."
-    ],
-    "academicReferences": [
-      "Ishrat Husain's 'Development Pathways: India, Pakistan and Bangladesh 1947-2022'",
-      "Centre for the Study of Developing Societies (CSDS) reports on employment trends in India",
-      "McKinsey research on global skill competitiveness in India"
-    ],
-    "vocabulary": [
-      {
-        "word": "Upheaval",
-        "type": "noun",
-        "definition": "A sudden, violent, or drastic change or disruption.",
-        "sentence": "The 2024 upheaval in Bangladesh demonstrated the fragility of political stability amidst economic discontent."
-      },
-      {
-        "word": "Paradox",
-        "type": "noun",
-        "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
-        "sentence": "The central paradox lies in modernizing agriculture, which raises productivity but reduces its capacity to absorb surplus labor."
-      },
-      {
-        "word": "Flat-lining",
-        "type": "verb",
-        "definition": "Remaining at a consistently low or unchanging level; showing no improvement or decline.",
-        "sentence": "Indian employment, after expanding from 2000-2012, started flat-lining from 2012 to 2019 despite GDP growth."
-      },
-      {
-        "word": "Credentialled",
-        "type": "adjective",
-        "definition": "Having qualifications, certificates, or documented proof of achievements.",
-        "sentence": "Many graduates are credentialled with degrees but lack the practical skills to be truly employable."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT identified as a contributing factor to the 'growth-jobs paradox' in South Asia?",
-        "options": [
-          "Premature decline of manufacturing.",
-          "Low participation by women in the workforce.",
-          "An over-reliance on primary sector exports.",
-          "A widening gap between education and employer needs."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions premature decline of manufacturing, low female workforce participation, and the education-skills gap as contributing factors. It does not identify an over-reliance on primary sector exports as a direct cause of the paradox in the context of growth not creating jobs."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core issue that defines the 'growth-jobs paradox' in South Asia?",
-        "back": "Strong economic growth has not translated into enough formal, productive, and well-paying jobs for an increasingly educated workforce, leading to high youth unemployment and social instability."
-      },
-      {
-        "front": "How does the nature of India's economic growth contribute to the paradox, despite high GDP growth rates?",
-        "back": "Growth has been driven by skill-intensive efficiency gains in industry and modern services rather than job creation, leaving a large, underemployed surplus labor force in agriculture and in the informal sector."
-      },
-      {
-        "front": "What is the primary failing of the higher education system in India, according to the article, regarding employability?",
-        "back": "The education system is disconnected from real economic needs, focusing on degrees and rote memorization rather than analytical thinking, problem-solving skills, and market-demanded vocational competencies."
-      },
-      {
-        "front": "How do technological advancements like AI and automation pose a dilemma for policymakers in countries like India?",
-        "back": "They enhance competitiveness but are skill-intensive and displace low-skilled workers, challenging policymakers to maintain technological edge while creating sufficient jobs for millions without advanced skills."
       }
     ]
   }
