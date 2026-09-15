@@ -1,5 +1,338 @@
 [
   {
+    "id": "curated-1789438382175-77",
+    "title": "Extraction and delivery\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029798/extraction-and-delivery",
+    "date": "2026-09-14",
+    "author": "none@none.com (Umair Javed)",
+    "content": "AS the debate on changing provincial boundaries and decentralisation rages on, it is worth taking a step back to see what is at stake here. What are the main problems that require attention and which have made several people, including entrenched insiders, declare that the current system is ‘broken’?\nThe biggest issue being sidestepped by everyone involved (except opposition parties) remains constitutional rule and legitimacy of the state. The current discourse chooses to ignore this, considering it either taboo or a foregone conclusion. Bringing it up seems particularly futile in this discussion given how little it bears on those making decisions and increasingly with those tasked with interrogating these decisions.\n    \nThe second issue is macroeconomic growth, or the absence thereof. What changes are needed to the form of the state that can help kickstart broad-based and sustained capital accumulation? What needs to be done to make the state fiscally more viable?\nThe third issue is social development, and the slowdown in improvement of basic education, health, and other human capability-related indicators. What strategy or approach will help break through the current plateau, marked by a slowdown in literacy rate improvement, a persistently large number of out-of-school children, poor learning outcomes, and no considerable progress on health indicators?\nWhen the interior minister talks about a system collapse, the primary subject of this collapse is the state. The Pakistani state, like every other modern state, is engaged in a variety of tasks, none of which it seems to be doing too well. Broadly these tasks can be clubbed under two domains — extraction (getting something from its population) and delivery (doing something for or to the population). There is a third domain — regulation (setting boundaries or implementing rules for various things that private actors may be doing) — as well but we’ll keep that to one side for now.\nThere is no one-size-fits-all approach for the many developmental challenges confronting Pakistan today.\nThe historical record on extraction and delivery is generally poor. Extracting taxes from anyone other than a captive population has proven to be a challenge. Regulating private behaviour, from polluting emissions to urban sprawl to inter-gender interactions, has been difficult as well. And delivering basic services — law and order, education, health — remains highly uneven across rural-urban and provincial lines.\nIf one thinks about the state as the core of a governing system, the track record so far provides ample grounds for a complete overhaul. But a key question to ask is: do all of these functions require an overhaul of the same type?\nIt is possible to look at the exceedingly few examples of success on part of the state in each domain as a blueprint of sorts for what works, especially when thinking about administrative changes.\nWhat type of extraction has the state done well and where has it failed? In recent years, the state has done a ‘good’ job of getting people to pay for expensive electricity at cost, rather than delay tariff revisions or provide blanket subsidies. This is an example of a reform that is not really productivity enhancing, but it is certainly something that the state was not doing a decade and a half ago.\n    \nSimilarly, the state has been successful at extracting more taxes from the formal sector and the salaried segment of the population in recent years. This is both by raising the tax rate and by making it ever difficult for the formal sector to avoid its share through an entrenched withholding tax regime. This has happened even while the state has failed to bring many sections of the population into the tax net.\nWhen we review the evidence on what enables some types of extraction over others, the absence of discretion and fragmentation of functions comes out as a possible factor. In the case of electricity bills and withholding taxes, the state has centralised collection and removed discretion from its own functions. Local state functionaries have some leeway, sure, but by and large people have no option but to comply and pay directly to the state. In contrast, where economic activity has to be documented by state functionaries themselves (ie, a situation of increased discretion) local politics and influence come into play.\nOn the other hand, the evidence on delivery points in the opposite direction. The biggest gains in social development took place during times of greater decentralisation. When schools were being managed at the school council/local level, improvements in literacy rates and enrolment happened at a faster rate. Similarly, greater autonomy for basic health units and hospitals (with requisite oversight) allowed them to respond to actual patient-level challenges more effectively.\nEven in delivering basic municipal infrastructure — sanitation and sewage, roadworks — decentralised decision-making and expenditure (between 2002-2008) proved to be more effective.\nSince province-level centralisation took hold in 2011, gains in key delivery areas of health and education have slowed down. In some parts of the country, outcomes have stagnated altogether. The challenge of delivering to hard-to-access populations has become far more acute.\nGiven this admittedly speculative review of patterns in both extraction and delivery, it is clear there is no one-size-fits-all approach for the many developmental challenges confronting Pakistan today. In domains of extraction, there is an urgent need to reduce discretion and fragmentation of state authority, perhaps even with the use of automated structures in whatever form.\nIn delivery related domains, we likely need even more discretion and fragmentation of the state, via substantive decentralisation that devolves decision-making and accountability down to the level where delivery is supposed to take place.\nThe writer teaches politics and sociology at Lums.\nX: @umairjav\nPublished in Dawn, September 14th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs / Governance & Public Policy",
+    "topic": "State Functions: Extraction and Delivery, and Governance Reforms in Pakistan",
+    "whyMatters": "This article offers a critical analysis of the Pakistani state's core functions—extraction and delivery—highlighting systemic failures and proposing distinct reform approaches. It provides a nuanced argument for differentiated governance strategies, advocating centralization for extraction and decentralization for service delivery, which is crucial for answering analytical questions on state reform and public administration.",
+    "summary": [
+      "The current 'broken' system in Pakistan is attributed to three core issues: lack of constitutional rule/legitimacy, absence of macroeconomic growth, and slow social development.",
+      "The state's fundamental tasks can be broadly categorized into extraction (obtaining resources from the population) and delivery (providing services to the population), alongside regulation.",
+      "Successful state extraction functions (e.g., tax collection, utility payments) have historically been achieved by reducing discretion and centralizing collection mechanisms.",
+      "Effective state delivery functions (e.g., education, health, municipal services) have demonstrated better outcomes through greater decentralization and local-level autonomy, allowing for more responsive governance."
+    ],
+    "facts": [
+      "The state successfully extracted payments for expensive electricity at cost, a reform that was not being implemented a decade and a half ago.",
+      "Gains in key delivery areas of health and education have slowed down significantly since province-level centralization took hold in 2011.",
+      "Decentralized decision-making and expenditure between 2002-2008 proved more effective in delivering basic municipal infrastructure like sanitation and roadworks."
+    ],
+    "academicReferences": [
+      "The 18th Amendment to the Constitution of Pakistan (A landmark constitutional reform for provincial autonomy and decentralization)",
+      "National Finance Commission (NFC) Award (Mechanism for the distribution of financial resources between the federal and provincial governments in Pakistan)",
+      "Pakistan Economic Survey (An annual publication providing data and analysis on Pakistan's economic performance and social indicators)"
+    ],
+    "vocabulary": [
+      {
+        "word": "entrenched",
+        "type": "adjective",
+        "definition": "firmly established and difficult or unlikely to change; ingrained.",
+        "sentence": "Several people, including entrenched insiders, declare that the current system is ‘broken’."
+      },
+      {
+        "word": "taboo",
+        "type": "noun",
+        "definition": "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+        "sentence": "The current discourse chooses to ignore this, considering it either taboo or a foregone conclusion."
+      },
+      {
+        "word": "fiscal",
+        "type": "adjective",
+        "definition": "relating to government revenue, especially taxes.",
+        "sentence": "What needs to be done to make the state fiscally more viable?"
+      },
+      {
+        "word": "discretion",
+        "type": "noun",
+        "definition": "the freedom to decide what should be done in a particular situation.",
+        "sentence": "In contrast, where economic activity has to be documented by state functionaries themselves (ie, a situation of increased discretion) local politics and influence come into play."
+      },
+      {
+        "word": "devolves",
+        "type": "verb",
+        "definition": "transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
+        "sentence": "In delivery related domains, we likely need even more discretion and fragmentation of the state, via substantive decentralisation that devolves decision-making and accountability down to the level where delivery is supposed to take place."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what governance approach has been more effective for the state's *delivery* functions, such as education and health?",
+        "options": [
+          "Centralization of authority and reduced discretion at all levels.",
+          "Increased discretion and fragmentation of state functions via decentralization.",
+          "Exclusive reliance on automated structures for decision-making.",
+          "Delaying tariff revisions and providing blanket subsidies."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that 'The biggest gains in social development took place during times of greater decentralisation' and 'we likely need even more discretion and fragmentation of the state, via substantive decentralisation that devolves decision-making and accountability down to the level where delivery is supposed to take place.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the three main problems identified by the author that suggest the current system in Pakistan is 'broken'?",
+        "back": "The lack of constitutional rule and state legitimacy, the absence of macroeconomic growth, and the slowdown in social development indicators (education, health, human capability)."
+      },
+      {
+        "front": "How does the article differentiate the optimal governance approach for state *extraction* functions versus state *delivery* functions?",
+        "back": "For extraction, the article suggests reducing discretion and centralizing functions. For delivery, it advocates for greater discretion and decentralization to local levels."
+      },
+      {
+        "front": "What historical evidence does the author provide to support the argument for decentralization's effectiveness in social development?",
+        "back": "Improvements in literacy rates and enrolment were faster when schools were managed at the local level, and greater autonomy for basic health units led to more effective patient-level responses."
+      },
+      {
+        "front": "Give two specific examples where the Pakistani state has demonstrated improved capabilities in its *extraction* functions in recent years.",
+        "back": "Successfully getting people to pay for expensive electricity at cost, and extracting more taxes from the formal sector and salaried segments of the population through an entrenched withholding tax regime."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789438255009-787",
+    "title": "Political disconnect\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029799/political-disconnect",
+    "date": "2026-09-14",
+    "author": "none@none.com (Maleeha Lodhi)",
+    "content": "THE disconnect between the government and public concerns could not be starker. While people worry about their economic situation the government is focused on altering the country’s provincial structure. According to the latest Ipsos poll, three in four people believe the country is headed in the wrong direction. The economy and especially inflation are their top concerns. A majority of respondents also said they do not view the economy as strong.\nIt is this low public confidence and pessimism about the future that should concern the government rather than seeking to redraw the provincial map for ill-defined objectives. So far it hasn’t offered any coherent rationale for carving out more provinces. It has also not conducted any study on an issue of such consequence.\n    \nAlthough speculation had long been rife about the hybrid government’s intentions it was Interior Minister Mohsin Naqvi who made a public pitch for new provinces in July. Planning Minister Ahsan Iqbal went further, calling for 15 additional provinces. Each province, he said, should be subdivided into three. As an alternative, he proposed 160 district governments. He argued that establishing more administrative units would deliver effective governance and better social outcomes.\nThe proposal provoked a furious response from the ruling party’s ally, PPP, which opposed any plan to divide Sindh. The party got the Sindh Assembly to adopt a resolution rejecting the division of the province or creation of new administrative units. The MQM, which has long wanted Karachi as a separate province, boycotted the session. It said its proposals were not incorporated in the resolution, including establishing new administrative units. The resolution declared “Sindh is one and shall remain one” and “unequivocally rejected any proposal, plan, scheme or constitutional arrangement … which sought to divide Sindh … or create any new province out of its territory”.\nTechnical fixes are no panacea that will miraculously solve the country’s problems.\nThe government’s attempt to start a debate seemed to flounder and spin out of control after its key coalition partner came out in strong opposition. A senior PPP leader questioned Prime Minister Shehbaz Sharif’s silence and asked him to state his position publicly. Another PPP leader accused federal ministers pushing for new provinces of having a “fake mandate”. Meanwhile, PML-N ministers themselves issued contradictory statements. Rather than clarifying matters, this compounded the confusion and exposed divisions within the party. Punjab Chief Minister Maryam Nawaz is also said to be opposed to any division of her province.\n    \nThe joint parliamentary opposition comprising PTI, JUI-F and other smaller parties rejected any plan to divide provinces at its inaugural meeting in late August. Earlier, JUI-F chief Maulana Fazlur Rahman argued this was not the time to divide provinces given the country’s troubled economic and security situation. PTI is now planning a multiparty conference of the opposition on the issue. The party itself has yet to enunciate a clear public position. In the past, it advocated creating a new province in south Punjab. Some PTI leaders say the party opposes changes under “an illegitimate and fraudulent set-up”. The party chairman, however, has urged consultations and said any hasty decision would “harm the federation”. Meanwhile, the leader of the National Party in Balochistan has said creating new provinces would only exacerbate present tensions.\nNone of this has deterred federal ministers from continuing to insist on administrative restructuring. Mohsin Naqvi declared this was essential and no one can stop it. But he added it will only happen with the “will of the people”. He wasn’t walking back from his proposal. His statement implied a referendum might be held to ascertain the ‘will of the people’. Such a move would be deeply controversial and divisive. It would also lack credibility given the history of dubious referendums conducted by past military governments. Questions have also been raised about whether a referendum can constitutionally be used to create new provinces.\nProponents of ‘reform’ in the hybrid government ignore the fact that their proposal has already divided the country. It is clear that there is no political consensus on the issue. Consensus cannot be manufactured or coerced. While the government has rammed controversial constitutional amendments and other laws through parliament, using the same method to reorder the provincial structure carries much greater risks. Given the far-reaching consequences of the change and the opposition it faces across the country, the implications would be serious. If pursued, it would further undermine national cohesion and deepen polarisation.\n    \nThere is a clear constitutional procedure to change provincial boundaries. A referendum cannot override that. Any change requires two steps. First a resolution passed by a two-thirds majority in the relevant provincial assembly. Second a constitutional amendment adopted by a two-thirds majority in both the National Assembly and Senate. This effectively gives affected provinces a veto over any change. This requirement cannot be bypassed. Any political manoeuvre to circumvent this will be a disaster.\nThere is no doubt that the governance system needs to be improved. Government should be brought closer to the people to ensure their voices are heard and for better service delivery. But this goal can be realised by empowering local government. It is the third tier of government that needs to be strengthened through functional local bodies as mandated by the Constitution.\nImproving governance requires more than a technical fix. Above all, it demands an environment grounded in the rule of law. It needs accountability of both leaders and institutions. Administrative changes cannot substitute for competent leadership — with a clear vision and sense of purpose — who are legitimately elected. Good governance also requires prudent policies and much-needed economic reforms shaped and overseen by capable professionals.\nThis is not an argument against administrative change. It is an effort to emphasise three points. First, drawing new provincial lines is not a panacea that will miraculously solve the country’s problems. As noted above, other aspects of governance matter far more. Map-drawing and not fixing fundamentals is meaningless. Second, such changes do not figure among the public’s governance concerns, which are very different. Ignoring those priorities and focusing just on technical fixes will only show how out of touch the government is with people. Third, without broad national consensus, imposing administrative changes will make a mockery of democracy and serve to divide the country.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, September 14th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2024-PROV",
+      "paper": "Pakistan Affairs",
+      "year": 2024,
+      "question": "The creation of more provinces is a persistent demand from some circles in Pakistan. How do you see the creation of more provinces in Pakistan; as beneficial or harmful for the people? Explain your views with solid justification."
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs",
+    "topic": "Provincial Restructuring and Governance Challenges",
+    "whyMatters": "This article directly addresses the Pakistan Affairs 2024 question on the benefits vs. harms of creating new provinces by presenting a strong case against hasty administrative restructuring. It provides constitutional procedures, public opinion data, and political opposition arguments crucial for a nuanced answer on the 'harmful' aspects.",
+    "summary": [
+      "The government's focus on altering provincial structure disconnects sharply from public concerns, primarily economic hardship and inflation.",
+      "There is a significant lack of political consensus, coherent rationale, and proper study for creating new provinces, leading to widespread opposition from various political parties.",
+      "The article argues that creating new provinces without broad national consensus and adherence to constitutional procedures (two-thirds majorities in provincial and federal assemblies) risks undermining national cohesion and deepening polarization.",
+      "Effective governance should be achieved by empowering local governments, ensuring the rule of law, promoting accountability, and implementing prudent economic reforms, rather than through technical fixes like redrawing provincial maps."
+    ],
+    "facts": [
+      "Ipsos poll indicates three in four people believe the country is headed in the wrong direction, with economy and inflation as top concerns.",
+      "Planning Minister Ahsan Iqbal proposed 15 additional provinces (each subdivided into three) or 160 district governments.",
+      "The constitutional procedure for changing provincial boundaries requires a two-thirds majority resolution in the relevant provincial assembly AND a two-thirds majority constitutional amendment in both the National Assembly and Senate.",
+      "The article was published in Dawn on September 14th, 2026."
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan (specifically Articles 239 & 239A concerning amendments and provincial boundaries)",
+      "18th Amendment to the Constitution of Pakistan (for context on provincial autonomy and decentralization)",
+      "Local Government Acts/Ordinances of various provinces (as an alternative model for improved governance and service delivery)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Starker",
+        "type": "adjective",
+        "definition": "more severe or clear",
+        "sentence": "The disconnect between the government and public concerns could not be starker."
+      },
+      {
+        "word": "Panacea",
+        "type": "noun",
+        "definition": "a solution or remedy for all difficulties or diseases",
+        "sentence": "Technical fixes are no panacea that will miraculously solve the country’s problems."
+      },
+      {
+        "word": "Enunciate",
+        "type": "verb",
+        "definition": "to state clearly or express definitively",
+        "sentence": "The party itself has yet to enunciate a clear public position."
+      },
+      {
+        "word": "Exacerbate",
+        "type": "verb",
+        "definition": "to make a problem, bad situation, or negative feeling worse",
+        "sentence": "Creating new provinces would only exacerbate present tensions."
+      },
+      {
+        "word": "Coerced",
+        "type": "verb",
+        "definition": "persuade (an unwilling person) to do something by using force or threats",
+        "sentence": "Consensus cannot be manufactured or coerced."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the Ipsos poll mentioned in the article, what is the top concern for the public?",
+        "options": [
+          "Security situation",
+          "Provincial structure",
+          "Economy and inflation",
+          "Governance quality"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'The economy and especially inflation are their top concerns.'"
+      },
+      {
+        "question": "What is the primary reason the article gives for why creating new provinces is not a 'panacea'?",
+        "options": [
+          "It lacks international support.",
+          "It diverts from fundamental governance issues and public priorities.",
+          "It is too expensive to implement.",
+          "It would lead to a brain drain."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article emphasizes that map-drawing without fixing fundamentals is meaningless and ignores the public's real governance concerns."
+      },
+      {
+        "question": "What is the first step in the constitutional procedure to change provincial boundaries, as outlined in the article?",
+        "options": [
+          "A national referendum is held.",
+          "A resolution is passed by a two-thirds majority in the relevant provincial assembly.",
+          "The President issues an executive order.",
+          "A simple majority vote in the National Assembly is sufficient."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'First a resolution passed by a two-thirds majority in the relevant provincial assembly.'"
+      },
+      {
+        "question": "Which political party's ally strongly opposed the division of Sindh and got a resolution passed in the Sindh Assembly?",
+        "options": [
+          "PML-N",
+          "PTI",
+          "MQM",
+          "PPP"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article mentions: 'The proposal provoked a furious response from the ruling party’s ally, PPP, which opposed any plan to divide Sindh.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary disconnect highlighted by the author between the government's focus and public concerns?",
+        "back": "The government is focused on altering the country’s provincial structure, while the public is primarily concerned about their economic situation, especially inflation."
+      },
+      {
+        "front": "According to the article, why is a referendum not a constitutionally valid method for creating new provinces in Pakistan?",
+        "back": "A referendum cannot override the clear constitutional procedure, which requires a two-thirds majority resolution in the relevant provincial assembly and a two-thirds majority constitutional amendment in both the National Assembly and Senate."
+      },
+      {
+        "front": "What alternative solutions does the article propose for improving governance, instead of creating more provinces?",
+        "back": "The article suggests strengthening functional local bodies (the third tier of government), ensuring an environment grounded in the rule of law, fostering accountability, and implementing prudent economic reforms with competent leadership."
+      },
+      {
+        "front": "What are the three main points the author emphasizes regarding administrative changes like redrawing provincial lines?",
+        "back": "1) It's not a panacea for the country's problems; 2) It ignores the public's real governance concerns; and 3) Without broad national consensus, it would undermine democracy and divide the country."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789438980355-804",
+    "title": "Road to dignity\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029797/road-to-dignity",
+    "date": "2026-09-14",
+    "author": "none@none.com (Zafar U. Ahmed)",
+    "content": "IN Pakistan’s recent history, billionaire bankers and former staff of multilateral institutions, among others, have led national development. After assuming office as finance minister, one was alleged to have declared that he empathised with ordinary people and then promptly imposed a tax on baby food in a country where, due to malnutrition, 40 per cent of children are stunted. The results are hardly what we had hoped for.\nHow, then, should national development policy be made? Let us take a hypothetical case of a recently formed country, its borders determined by departing colonialists. It is not a ‘civilisational state’ with thousands of years of shared history, so the allegiance and love of its people should now be earned.\nThere must be a clear rationale for forming the new country. A civilised society might agree that its rationale is the welfare of its citizens: people come together to improve their standard of living, to have equal opportunity to reach their full potential, and to live by their values. The citizens are to pay a share of their income to a common fund, from which the state would administer services to all, such as education, healthcare, support for economic endeavour and security. The country must be sovereign and independent.\nIf the former colonialists offered to guide and direct the new country’s development, surely they would be spurned: after 200 years of ruthless exploitation, they could hardly be trusted. While the people’s priorities are likely to be efficient agriculture and affordable food, quality education and skills training, healthcare and economic development, outsiders might want to prioritise gender issues and preparedness for future disasters.\nPolicy must be made by those who represent the people.\nConventionally, to pay for imports such as oil, gas and advanced machinery, a country has to earn international currency through exports. If imports were double the exports, that would be untenable. The country would then have to take loans from foreign sources on conditions that absolutely compromise its sovereignty. Even multilateral institutions have voting systems firmly controlled by the West. At the IMF, for instance, Pakistan has 0.43pc of the vote, Russia 2.59pc, China 6.08pc, and the US 16.5pc, besides the votes of all its ‘loyal allies’.\nTo be sovereign, the country would focus its exports on markets where its products — including new ones beyond traditional leather goods, towels and the like — were more likely to find acceptance. A developing country’s products are more likely to be accepted in the Global South, among other developing countries that are more price-sensitive and less demanding about quality. It should try to exchange goods in national currencies or through a swap arrangement. The country would not implore its former colonial masters to grant it limited market access — as a great favour — that could be rescinded over any supposed breach, with sanctions imposed.\nThe country would encourage innovative, efficient and cost-effective production. Open and fair competition would bring forward businesspeople capable of competing internationally. Surely, ‘crony’ business groups with no merit beyond maintaining relationships with decision-makers would not be tolerated. Nor would rules be made or changed to benefit particular businesspeople, or unjustified subsidies and concessions be granted to them. Where a subsidy was justified, proportionate shares and profits would go to the state.\nTaking full advantage of its border with a great power — the world’s manufacturing centre — the developing country would offer every facility to serve as a goods-processing hub, especially in its coastal regions.\nThe key lessons are clear: policy ought to be made by people who understand and represent the people, not by narrowly focused technical specialists. A country’s national development policy must be predicated on an agreed direction — its rationale, and the people’s priorities, needs and values. Not foreign donor agendas. The country’s economic transformation requires open and fair business competition. ‘Cronyism’ sabotages it. Focus exports on the Global South and make every effort to exchange goods in national currencies or through similar arrangements. Especially in the coastal zones, offer every facility for goods processing from the bordering great power. Incentivise officials by aligning promotions with the performance of the areas they serve.\nThis is a time of great opportunity for the Global South. The global power balance and systems are changing — a change so fundamental that nothing comparable has happened in hundreds of years. Pakistan must tailor its public policy to the changing environment to achieve its national development goals and pursue national sovereignty and dignity. \nThe writer is the author of Pakistan: Principles of Public Policy Redefined.\nPublished in Dawn, September 14th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs / Economics / Current Affairs / Public Administration",
+    "topic": "National Development Policy, Economic Sovereignty, Post-Colonial Challenges, Global South Economic Alliances",
+    "whyMatters": "This article critically analyzes Pakistan's historical development policy failures and proposes a new framework centered on sovereignty and people's welfare. It offers concrete policy recommendations for economic transformation and geopolitical realignment, crucial for competitive exam essays and current affairs discussions.",
+    "summary": [
+      "National development policy must prioritize citizen welfare, equal opportunity, and shared values, rather than being dictated by external actors or narrowly focused technical specialists.",
+      "Economic sovereignty is vital, requiring a shift away from foreign loans with compromising conditions and towards earning international currency through strategic exports to the Global South.",
+      "Internal economic transformation demands open and fair competition, actively eliminating 'cronyism' and unjustified subsidies that sabotage merit-based progress.",
+      "Pakistan must leverage the changing global power balance, its geographical location (border with a great manufacturing power), and focus on goods processing hubs to achieve national dignity and development goals."
+    ],
+    "facts": [
+      "40 percent of children in Pakistan are stunted due to malnutrition.",
+      "Pakistan holds only 0.43% of the vote at the International Monetary Fund (IMF), compared to the US's 16.5%.",
+      "An economic situation where imports are double exports is untenable and leads to reliance on foreign loans with compromising conditions."
+    ],
+    "academicReferences": [
+      "Daron Acemoglu & James A. Robinson, \"Why Nations Fail: The Origins of Power, Prosperity, and Poverty\"",
+      "Pakistan's National Security Policy (NSP) 2022-2026",
+      "Belt and Road Initiative (BRI)"
+    ],
+    "vocabulary": [
+      {
+        "word": "multilateral institutions",
+        "type": "noun",
+        "definition": "International organizations formed by three or more nations to work on issues of common concern.",
+        "sentence": "Former staff of multilateral institutions have often led national development, sometimes with mixed results."
+      },
+      {
+        "word": "stunted",
+        "type": "adjective",
+        "definition": "Having growth or development severely hindered, especially in children due to malnutrition.",
+        "sentence": "Due to malnutrition, 40 per cent of children in the country are stunted."
+      },
+      {
+        "word": "sovereign",
+        "type": "adjective",
+        "definition": "Possessing supreme or ultimate power; independent and self-governing.",
+        "sentence": "The country must be sovereign and independent, free from external control over its policies."
+      },
+      {
+        "word": "untenable",
+        "type": "adjective",
+        "definition": "Not able to be maintained or defended against attack or objection; not viable.",
+        "sentence": "If imports were double the exports, that would be an untenable economic situation for any country."
+      },
+      {
+        "word": "rescinded",
+        "type": "verb",
+        "definition": "Revoked, cancelled, or repealed (a law, order, or agreement).",
+        "sentence": "Market access granted by former colonial masters could be rescinded over any supposed breach."
+      },
+      {
+        "word": "crony",
+        "type": "noun",
+        "definition": "A close friend or companion, especially one who benefits from a corrupt relationship with a person in power.",
+        "sentence": "Surely, 'crony' business groups with no merit beyond maintaining relationships with decision-makers would not be tolerated."
+      },
+      {
+        "word": "predicated",
+        "type": "verb",
+        "definition": "Based on or established upon something; affirmed as an attribute or quality.",
+        "sentence": "A country’s national development policy must be predicated on an agreed direction and the people’s priorities."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a key proposed strategy for a developing country to achieve economic sovereignty and dignity?",
+        "options": [
+          "A) Prioritizing exports to Western markets for higher quality demands.",
+          "B) Relying heavily on loans from multilateral institutions for development.",
+          "C) Focusing exports on the Global South and trading in national currencies.",
+          "D) Allowing former colonial powers to guide development policy."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that to be sovereign, the country would focus its exports on markets in the Global South and try to exchange goods in national currencies or through swap arrangements."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's core criticism of past national development leadership in Pakistan?",
+        "back": "Past leadership, including billionaire bankers and former multilateral institution staff, focused on policies that led to adverse outcomes like a tax on baby food and high child stunting, failing to prioritize ordinary people's welfare."
+      },
+      {
+        "front": "How does the article suggest a new country should earn the allegiance of its people, especially if it's not a 'civilisational state'?",
+        "back": "By establishing a clear rationale based on citizen welfare, improving standards of living, providing equal opportunities, and ensuring the state administers services from a common fund."
+      },
+      {
+        "front": "What specific economic strategy does the article recommend for a developing country to avoid compromising its sovereignty through foreign loans?",
+        "back": "It should focus its exports on the Global South, develop new products beyond traditional goods, and aim to exchange goods in national currencies or through swap arrangements to reduce reliance on international currency."
+      },
+      {
+        "front": "What role does the article assign to 'cronyism' in hindering a country's economic transformation?",
+        "back": "Cronyism sabotages economic transformation by preventing open and fair competition, allowing unmeritorious business groups to thrive through relationships with decision-makers, and distorting rules and subsidies."
+      }
+    ]
+  },
+  {
     "id": "curated-1789351548142-72",
     "title": "Britain’s liberal establishment\n",
     "source": "Dawn",
@@ -113,6 +446,139 @@
       {
         "front": "Name two political events or movements mentioned in the article that epitomize resentment towards the established 'liberal' political class.",
         "back": "Brexit and the rise of the far-right Reform Party in Britain."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789438476339-671",
+    "title": "Pakistan: 25 years post-2001\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2029570/pakistan-25-years-post-2001",
+    "date": "2026-09-13",
+    "author": "none@none.com (Muhammad Amir Rana)",
+    "content": "THE terrorist events of Sept 11, 2001, changed the world and brought about a new security order. Social engineering took place on a large scale, especially within Muslim societies. Conflict erupted across Africa and Asia, often linked to terrorism. These developments triggered large-scale migration towards the West and strengthened the far right in Western societies. Populism took multiple forms.\nIn short, the world changed course, and an era of increasingly controlled societies emerged, affecting technology, the economy, mobility and politics.\nThe 25th anniversary of the tragic incident has triggered a debate: what has the world gained and lost since these events, and what kind of world em­­erged in their aftermath? This question is equally important for Pakistan, as it became a front-line state in the global war against terrorism.\nPakistan’s 25-year experience can perhaps be summarised in one sentence: the country has fai­led to defeat terrorism completely, lost Afgha­nis­tan, witnessed weakened internal cohesion, experienced the rise of authoritarianism, and its economy remains in disarray.\n    \nThe return of the Taliban to power in Afghanistan in 2021 contributed to renewed challenges, particularly from the banned TTP. Meanwhile, Balochistan remains another major security theatre, with separatist groups targeting security forces, infrastructure, and Chinese interests.\nEconomically, Pakistan received billions of dollars in US assistance and Coalition Support Funds but failed to convert this geopolitical opportunity into lasting economic transformation. Terrorism imposed enormous costs through loss of life, reduced investment, damaged infrastructure, and increased security expenditure.\nHowever, Pakistan has also achieved significant strategic successes. Before 9/11, Pakistan was under sanctions because of its nuclear tests. The Kargil conflict had contributed to political instability and military rule, and Pakistan experienced some global isolation. After September 2001, however, Pakistan emerged from isolation to become a front-line ally of the US in its global ‘war on terror’. Pakistan was later designated a major non-Nato ally. However, this partnership came to be characterised by mistrust, particular­ly over Afghanistan, terrorist sanctuaries, drone strikes, and the 2011 Abbottabad operation.\nThe country’s biggest achievements and major failures have been in counterterrorism.\nPakistan’s biggest achievements and major failures have been in counterterrorism. Through operations including Rah-i-Raast, Rah-i-Nijaat, Zarb-i-Azb, and Raddul Fasaad, Pakistan dismantled major terrorist sanctuaries. It ended the ability of terrorist groups to exercise territorial control in areas such as Swat and the former tribal districts.\nIn foreign relations, Pakistan strengthened its strategic partnership with China and expanded ties with the Gulf countries and Türkiye, but its relations with Afghanistan have remained deeply problematic.\nWhile it took nearly two decades to fully abandon the use of radical and militant proxies on the external and internal political fronts, two factors played an important role. First, international pressure forced the establishment to take measures against militant groups such as Lashkar-e-Taiba and Jaish-e-Mohammed. Second, many members of such groups became disillusioned and joined the TTP, Al Qaeda, and IS-K, making it increasingly difficult for security operators to treat and manage these networks separately.\nAlthough these groups are no longer openly active in militancy, they still shoulder political and diplomatic baggage. India frequently exploits this issue to confront Pakistan at the diplomatic level and has used it to build pressure against Pakistan, contributing directly to the military confrontation last year.\nHowever, the international community increasingly recognises Pakistan’s efforts to overcome its terrorism problem, and India’s terrorism narrative against Pakistan appears to be losing some of its effectiveness internationally.\nOver the last 25 years, terrorism has emerged as a core problem for the country, while counterterrorism has become one of its key strengths.\nPakistan remains among the countries most affected by terrorism. Security concerns have negatively impacted Pakistan-China relations, especially CPEC. At the same time, counterterrorism has provided an avenue for cooperation between the US and Pakistan, and since President Donald Trump took office, the two have developed greater synergy against IS-K and in dealing with the Taliban, apart from their multilevel engagement in the Gulf region. In this re-engagement, Pakistan has lost the strategic vision for Afghanistan that Gen Ziaul Haq and his predecessors had crafted.\nTerrorism and counterterrorism have changed the country’s structure. Counterterrorism has created an imbalance of power, as civilian governments gradually handed over internal and external security affairs to the establishment and re­­frained from interfering in order to avoid friction. As a result, political engineering became more convenient for the establishment. Social and political engineering have also changed society and left it without direction. Terrorism remai­­ns a major obstacle to attracting foreign investment into the country, yet Pakistan’s counterterrorism capabilities have become a strength that allows it to engage with Western and Asian countries.\n    \nFrom Gen Pervez Musharraf onwards, military leaders have tried to take credit for the counterterrorism efforts. Yet it is paradoxical that very few acknowledged terrorism as an indigenous problem rooted partly in previous state policies of nurturing militant proxies. In alliance with the clergy, these policies created an infrastructure of extremism in the country. Religious groups were used for multiple purposes — from advancing nationalist projects to acting as pressure groups. Their perception of terrorism was simplistic, and simplistic approaches produced poor policies and flawed strategies.\nDuring these years, Pakistan lost 75,366 people, including 3,189 soldiers, 2,598 FC personnel, 3,599 police officers, and 26,547 civilians, apart from casualties in other security institutions. Pakistan launched 2,961 military operations, both medium- and large-scale, against terrorists, in addition to several other types of military operations against terrorism.\nThe country has established dedicated counterterrorism institutions, including Nacta (lately in the news for another reason), counter-extremism centres, NFTIC, and others. Pakistan has also produced 13 policy documents, ranging from the National Action Plan and National Security Policy to Paigham-i-Pakistan.\nAfter all these sacrifices, operations, institutions, and policy documents, is Pakistan still searching for a new counterterrorism policy?\nThe writer is a security analyst.\nPublished in Dawn, September 13th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2025-NEIG",
+      "paper": "Current Affairs",
+      "year": 2025,
+      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences."
+    },
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Post-9/11 Security Paradigm, Counterterrorism, and Regional Relations with Afghanistan and India",
+    "whyMatters": "This article is crucial for competitive exam students as it offers a comprehensive analysis of Pakistan's 25-year post-9/11 trajectory, directly addressing its strategic relations with Afghanistan and India. It provides a critical perspective on the nation's counterterrorism efforts, their paradoxical outcomes, and the resulting security challenges and transformations within the state, essential for detailed exam answers.",
+    "summary": [
+      "The post-9/11 era ushered in a new global security order and large-scale social engineering, with Pakistan becoming a front-line state in the global war against terrorism, experiencing significant internal and external shifts.",
+      "Pakistan's 25-year experience is characterized by a failure to completely defeat terrorism, the loss of Afghanistan, weakened internal cohesion, the rise of authoritarianism, and persistent economic disarray.",
+      "Despite strategic successes like emerging from international isolation and dismantling major terrorist sanctuaries through operations like Zarb-i-Azb, Pakistan's counterterrorism efforts faced challenges due to past policies of nurturing militant proxies and evolving threats from groups like TTP and IS-K.",
+      "Terrorism and counterterrorism have fundamentally altered Pakistan's state structure, creating an imbalance of power towards the establishment, impacting governance, foreign investment, and evolving its strategic partnerships with countries like China, Gulf states, Türkiye, and the US, while relations with Afghanistan remain deeply problematic."
+    ],
+    "facts": [
+      "Pakistan lost 75,366 people, including 3,189 soldiers, 2,598 FC personnel, 3,599 police officers, and 26,547 civilians in the War on Terror.",
+      "Pakistan launched 2,961 military operations, both medium- and large-scale, against terrorists.",
+      "Pakistan was designated a major non-Nato ally of the US after September 2001.",
+      "The return of the Taliban to power in Afghanistan in 2021 contributed to renewed challenges from the banned TTP."
+    ],
+    "academicReferences": [
+      "Muhammad Amir Rana (Security Analyst, Dawn): The provided article itself serves as a contemporary analytical source.",
+      "National Action Plan (NAP) and National Security Policy (NSP): Key policy documents mentioned in the article regarding counterterrorism efforts in Pakistan.",
+      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics': Relevant for understanding Pakistan's evolving strategic partnerships and geopolitical implications, including CPEC which is mentioned as affected by security concerns."
+    ],
+    "vocabulary": [
+      {
+        "word": "Social engineering",
+        "type": "noun",
+        "definition": "The use of centralized planning in an attempt to manage social change and regulate the future development and behavior of a society.",
+        "sentence": "Post-9/11, large-scale social engineering efforts took place, particularly within Muslim societies, to reshape their dynamics."
+      },
+      {
+        "word": "Authoritarianism",
+        "type": "noun",
+        "definition": "A form of government characterized by strong central power and limited political freedoms, where individual submission to the state is expected.",
+        "sentence": "Pakistan witnessed the rise of authoritarianism in its post-9/11 experience, affecting political structures."
+      },
+      {
+        "word": "Geopolitical opportunity",
+        "type": "noun",
+        "definition": "A chance arising from the intersection of geography and politics that can be leveraged for national gain or influence.",
+        "sentence": "Pakistan received billions in aid, but failed to convert this geopolitical opportunity into lasting economic transformation."
+      },
+      {
+        "word": "Militant proxies",
+        "type": "noun",
+        "definition": "Non-state armed groups used by a state to advance its foreign or domestic policy objectives, often operating indirectly.",
+        "sentence": "Pakistan's past state policies of nurturing militant proxies created an infrastructure of extremism, contributing to its current terrorism problems."
+      },
+      {
+        "word": "Indigenous problem",
+        "type": "noun",
+        "definition": "A problem originating or occurring naturally in a particular place; native.",
+        "sentence": "It is paradoxical that very few acknowledged terrorism as an indigenous problem rooted partly in previous state policies."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following was NOT explicitly mentioned as a negative consequence of Pakistan's 25-year post-9/11 experience in the article?",
+        "options": [
+          "Failure to defeat terrorism completely",
+          "Loss of Afghanistan",
+          "Weakened internal cohesion",
+          "Significant decline in military capabilities"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article mentions failure to defeat terrorism, loss of Afghanistan, and weakened internal cohesion, but does not explicitly state a significant decline in military capabilities; rather, it highlights successes in counterterrorism operations."
+      },
+      {
+        "question": "According to the article, what played a significant role in Pakistan's full abandonment of using radical and militant proxies?",
+        "options": [
+          "Increased economic aid from the US",
+          "International pressure and disillusionment among proxy members joining TTP/Al Qaeda",
+          "Regional peace initiatives with India",
+          "Successful democratic transitions in Afghanistan"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states two factors: international pressure forcing the establishment to act against groups like LeT and JeM, and many members of such groups becoming disillusioned and joining other terror outfits like TTP, Al Qaeda, and IS-K."
+      },
+      {
+        "question": "How did the 25-year post-9/11 period impact Pakistan's state structure, according to the author?",
+        "options": [
+          "Strengthened civilian governments' control over security affairs",
+          "Led to a balance of power between civilian and military institutions",
+          "Created an imbalance of power, with civilian governments ceding security affairs to the establishment",
+          "Resulted in complete elimination of political engineering"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Counterterrorism has created an imbalance of power, as civilian governments gradually handed over internal and external security affairs to the establishment and refrained from interfering'."
+      },
+      {
+        "question": "What is mentioned as a major obstacle to attracting foreign investment into Pakistan, despite its counterterrorism capabilities?",
+        "options": [
+          "Lack of skilled labor",
+          "High inflation rates",
+          "Persistent terrorism and security concerns",
+          "Outdated infrastructure"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Terrorism remains a major obstacle to attracting foreign investment into the country'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Identify the primary internal consequences Pakistan faced in the 25 years post-9/11, according to the article.",
+        "back": "Pakistan experienced a failure to defeat terrorism completely, weakened internal cohesion, the rise of authoritarianism, and its economy remaining in disarray."
+      },
+      {
+        "front": "Explain how Pakistan's relations with Afghanistan were characterized post-9/11, and a key factor contributing to renewed challenges.",
+        "back": "Relations with Afghanistan remained deeply problematic, exacerbated by mistrust and the return of the Taliban to power in 2021, which renewed challenges, particularly from the banned TTP."
+      },
+      {
+        "front": "Describe the paradoxical aspect of Pakistan's counterterrorism efforts as highlighted by the author.",
+        "back": "While military leaders took credit for counterterrorism, very few acknowledged terrorism as an indigenous problem rooted partly in previous state policies of nurturing militant proxies, which created an extremism infrastructure."
+      },
+      {
+        "front": "How did the post-9/11 counterterrorism efforts impact the balance of power within Pakistan's state structure?",
+        "back": "Counterterrorism created an imbalance of power, with civilian governments gradually handing over internal and external security affairs to the establishment, making political engineering more convenient."
       }
     ]
   },
@@ -9794,420 +10260,6 @@
       {
         "front": "What factors, besides the number of provinces, are identified as characteristics of a modern state for effective public service delivery?",
         "back": "Monopoly on power, a standing professional army, presence of a Weberian bureaucracy, ability to draw long-term plans, and capacity to effectively enforce laws and policies."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786409192417-508",
-    "title": "Governance failures\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021796/governance-failures",
-    "date": "2026-08-10",
-    "author": "none@none.com (Maleeha Lodhi)",
-    "content": "AN effort is underway to spark a debate on creating new administrative units in the country ostensibly on the grounds that the present system is not delivering. Interior Minister Mohsin Naqvi, whose proximity to the establishment is well known, tried to make the case. Claiming the present governance system has “collapsed”, he called for more provinces and administrative units. He offered no explanation of what “collapse” meant and how new units would magically fix Pakistan’s problems. His proposal found backing from the military spokesman. He echoed the call, urged a system “reset” and endorsed the creation of new administrative units.\nSuch calls are, of course, not new. Every so often, this proposal surfaces, mostly from the establishment or other interested groups. But any sweeping change has never found traction among major political parties or the public at large. This time was no different. Naqvi faced criticism from across the political spectrum. Prominent ruling party leaders questioned his statement. The PPP’s Sindh chief minister, Murad Ali Shah, roundly rejected the creation of new provinces. Awami Tehreek leaders accused the interior minister of advocating Sindh’s division. Other parties argued that an “illegitimate” government had no authority to undertake such a move. The Lahore High Court Bar Association condemned Naqvi’s proposal as unconstitutional. Its office-bearers said those responsible for the destruction of the existing order were now proposing a “new system”.\n    \nThe argument that Pakistan’s governance crisis is due to the number or size of its provinces simply doesn’t hold. One can make a case for administrative reorganisation on other grounds. For example, smaller units can bring government closer to the people. But that goal can be achieved by empowering local government. In any case, the Constitution lays out a clear process for making any changes to provinces. Naqvi’s proposal implied it can be done by executive fiat. Any change including altering the boundary of any province requires a resolution passed by a two-thirds majority in the relevant provincial assembly, followed by a constitutional amendment adopted by a two-thirds majority in both the National Assembly and Senate.\nThe timing of this debate is baffling. The debate is being initiated at a time when one province confronts an active insurgency, a second faces mounting militant violence, and Azad Kashmir is experiencing widespread protests and civil unrest.\nThere is a spurious connection between the provincial configuration and the governance crisis.\nThose who draw a spurious link between Pakistan’s provincial structure and its governance failures lack historical perspective of why the country today is beset with so many serious, overlapping challenges. These challenges are the cumulative result of prolonged political instability, deferred economic reforms, visionless leadership, rule without law, and a consistent preference by successive governments for foreign engagements over unresolved, festering domestic problems. External overreach and internal underreach has been a consistent pattern. Governance is adversely affected by these factors. But it is elite capture that has been the most damaging.\n    \nElite control of state power, of politics and much of the country’s resources has ensured elite interests consistently trump public interests. The power elite — a symbiotic nexus between political and military actors — has resisted meaningful reform and avoided tackling the economy’s structural problems — tax reforms, land reforms, reforms in governance. It has ‘rentier’ characteristics: using access to public office to leverage state resources for its own gain. Elite capture is principally why governance has broken down. This has left the country with interlocking crisis: state insolvency, insecurity, poverty, crumbling education and health systems, mounting energy shortages as well as environmental degradation. At the same time, the convergence between the country’s youth bulge, economic stagnation and the education deficit poses stark risks for the future.\nA closer look at Pakistan’s governance failures shows political instability to be the core driver. The country has lurched between military interventions and civilian rule in a recurring cycle, punctuated by outbreaks of public protests demanding political change. This political discontinuity has prevented the emergence of a stable and predictable environment in which to address the country’s problems. It also entrenched a power asymmetry between elected and unelected institutions. In recent years, this produced a hybrid model of informal power-sharing between the civilian government and the military. That arrangement has now been supplanted by military dominance.\nA major contributor to present challenges has been the persistent reliance by both civilian and military governments on dysfunctional and unsustainable economic policies. Rather than mobilise domestic resources, successive governments turned to borrowing and bailouts to cover widening budget and balance-of-payments deficits — the root of chronic financial crises. The country’s foreign alignments ensured steady access to economic aid and external funds. This ‘borrowed growth’ might have worked if the fiscal space had been used to fix structural problems. It wasn’t.\nInstead, external financing, combined with high remittances, allowed ruling elites to paper over those problems and avoid reform. The failure to raise adequate domestic resources together with low levels of savings and investment led to increased borrowing and higher debt. This resulted in an economy that lurches from one IMF tranche to the next. Today Pakistan is stuck in a low-growth, low-investment, high-debt equilibrium trap that clouds its economic future. But the power elite refuses to change course.\nGovernance challenges have also been compounded by the repercussions of protracted foreign engagements, the dynamics of great power competition, and the fault lines of regional geopolitics. An implacably hostile India, unresolved Kashmir dispute, and an unstable Afghanistan pushed security to the top of the national agenda. But this involved a strategic trade-off. Defence spending and objectives were prioritised at the expense of economic development, social services and broader policy goals.\nElite interests, flawed policies, failure to reform, chronic instability and the headwinds from geopolitical storms are all drivers of Pakistan’s governance crisis. It is not the number of provinces or the administrative architecture that are the source of the crisis. Improvements in provincial efficiency and delivery are certainly needed. But to justify altering the Constitution’s provincial framework using disingenuous arguments does no service to the country.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, August 10th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs",
-    "topic": "Governance, Economic Fragility, and Structural Reforms in Pakistan",
-    "whyMatters": "This article is highly relevant as it dissects the multifaceted causes of Pakistan's economic fragility, linking it directly to governance failures, elite capture, and dysfunctional policies. It provides critical arguments for diagnosing issues and implicitly highlights areas for pragmatic remedial measures often sought in competitive exams.",
-    "summary": [
-      "The article rejects the premise that Pakistan's governance crisis stems from the number or size of its provinces, arguing instead that such proposals are disingenuous diversions from real issues.",
-      "Elite capture of state power and resources by a symbiotic nexus of political and military actors is identified as the most damaging factor, leading to resistance against meaningful economic and governance reforms.",
-      "Prolonged political instability, a recurring cycle of military interventions and civilian rule, and a power asymmetry between institutions are core drivers of governance failure, preventing stable policy environments.",
-      "Dysfunctional economic policies, characterized by excessive borrowing, reliance on external aid, failure to mobilize domestic resources, and a strategic trade-off prioritizing defence over economic development, have trapped Pakistan in a low-growth, high-debt equilibrium."
-    ],
-    "facts": [
-      "The Constitution mandates a resolution passed by a two-thirds majority in the relevant provincial assembly, followed by a constitutional amendment adopted by a two-thirds majority in both the National Assembly and Senate for any provincial boundary changes.",
-      "Elite capture, defined as the control of state power and resources for elite interests over public interests, is identified as the principal reason for governance breakdown in Pakistan.",
-      "Pakistan is currently stuck in a 'low-growth, low-investment, high-debt equilibrium trap' due to persistent reliance on borrowing and unsustainable economic policies."
-    ],
-    "academicReferences": [
-      "Anatol Lieven's 'Pakistan: A Hard Country' (offers deep insights into Pakistan's internal dynamics, including state structures, elite behavior, and economic challenges).",
-      "Pakistan's National Finance Commission (NFC) Award (a constitutional mechanism for distributing financial resources between the federal and provincial governments, crucial for understanding fiscal stability and provincial autonomy).",
-      "IMF Stand-by Arrangement (SBA) conditions (details the policy commitments and structural reforms required by the International Monetary Fund, directly relevant to Pakistan's 'borrowed growth' and debt cycle)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Ostensibly",
-        "type": "adverb",
-        "definition": "Apparently or purportedly, but perhaps not actually.",
-        "sentence": "An effort is underway to spark a debate on creating new administrative units in the country ostensibly on the grounds that the present system is not delivering."
-      },
-      {
-        "word": "Executive fiat",
-        "type": "noun",
-        "definition": "A formal authorization or proposition by a high-ranking authority, often without external input or approval.",
-        "sentence": "Naqvi’s proposal implied it can be done by executive fiat."
-      },
-      {
-        "word": "Spurious",
-        "type": "adjective",
-        "definition": "Not being what it purports to be; false or fake.",
-        "sentence": "There is a spurious connection between the provincial configuration and the governance crisis."
-      },
-      {
-        "word": "Elite capture",
-        "type": "noun",
-        "definition": "A situation where a small group of powerful individuals or institutions manipulate policies, resources, or institutions for their own benefit, often at the expense of the public good.",
-        "sentence": "But it is elite capture that has been the most damaging."
-      },
-      {
-        "word": "Rentier characteristics",
-        "type": "noun phrase",
-        "definition": "Describes a system or an elite group that primarily derives income from owning land, capital, or, in this context, leveraging access to public office and state resources rather than productive enterprise.",
-        "sentence": "It has 'rentier' characteristics: using access to public office to leverage state resources for its own gain."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason why new administrative units would not magically fix Pakistan's problems?",
-        "options": [
-          "The Constitution does not allow for new provinces.",
-          "The governance crisis is not due to the number or size of provinces, but rather deeper structural issues.",
-          "Political parties do not support the idea.",
-          "The military spokesman did not endorse the proposal."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'The argument that Pakistan’s governance crisis is due to the number or size of its provinces simply doesn’t hold.' It attributes the crisis to political instability, elite capture, and economic policies."
-      },
-      {
-        "question": "Which of the following is identified as the 'most damaging' factor contributing to Pakistan's governance breakdown?",
-        "options": [
-          "Unresolved Kashmir dispute",
-          "Protracted foreign engagements",
-          "Elite capture",
-          "Mounting energy shortages"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'But it is elite capture that has been the most damaging.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the author argue that proposals for new administrative units are not a solution to Pakistan's governance crisis?",
-        "back": "The author argues that the governance crisis is not caused by the number or size of provinces, but by deeper structural issues like political instability, elite capture, and dysfunctional economic policies. New units are seen as a distraction from meaningful reforms."
-      },
-      {
-        "front": "How does 'elite capture' contribute to economic fragility and prevent sustainable growth in Pakistan?",
-        "back": "Elite capture ensures that elite interests consistently trump public interests, leading to resistance against meaningful reforms (tax, land, governance). This prevents the tackling of structural economic problems and perpetuates a 'rentier' state, directly causing governance breakdown and interlocking crises like state insolvency and poverty."
-      },
-      {
-        "front": "Identify two key economic policy failures highlighted in the article that contribute to Pakistan's low-growth, high-debt trap.",
-        "back": "Two key failures are: 1) Persistent reliance on borrowing and bailouts (foreign aid, IMF tranches) instead of mobilizing domestic resources, leading to chronic financial crises. 2) Prioritizing defence spending and objectives at the expense of economic development, social services, and broader policy goals, driven by geopolitical concerns."
-      },
-      {
-        "front": "What role does 'political instability' play in exacerbating Pakistan's governance failures and economic problems?",
-        "back": "Political instability, characterized by recurring cycles of military interventions and civilian rule and a power asymmetry between institutions, prevents the emergence of a stable and predictable environment necessary for addressing national problems, thereby entrenching dysfunctional policies and hindering economic growth."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786322891023-73",
-    "title": "Wrong solution to the right problem\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021615/wrong-solution-to-the-right-problem",
-    "date": "2026-08-09",
-    "author": "none@none.com (Ahmad Hassan)",
-    "content": "PAKISTAN’S governance crisis is fundamentally institutional rather than geographical.\nWhile the creation of new provinces may address certain concerns relating to regional identity, representation, and administrative reach, it cannot by itself remedy systemic deficiencies in governance. Without meaningful institutional reform, decentralisation, and fiscal planning, new provinces risk reproducing existing problems at a greater administrative and financial cost.\nModern federal democracies increasingly function through a three-tier system of governance, in which constitutional authority is distributed among the federal government, provincial governments and elected local governments. The rationale is both democratic and practical; decisions should be taken at the lowest level capable of addressing them effectively.\nNational defence and foreign affairs belong to the federation, provincial policy belongs to the provinces while matters such as municipal services, sanitation, local infrastructure and community development are most effectively managed by local governments. This principle of democratic decentralisation ensures that government remains closer, more responsive and more accountable to the people.\nPakistan’s Constitution already embraces this model. Article 140A requires provinces to establish local governments and devolve political, administrative and financial responsibility to elected local representatives.\nIn other words, the Constitution already provides a mechanism for bringing government closer to the people. The challenge, therefore, is not the absence of a constitutional framework but the failure to implement it meaningfully.\n    \nUnfortunately, Pakistan’s experience has often been the opposite. Local governments have frequently been weakened, dissolved or deprived of meaningful financial autonomy, while development funds and administrative authority remain concentrated at the provincial level.\nThis is, in part, a consequence of the political incentive structure within provincial governance. Meaningful devolution inevitably reduces the concentration of power, resources and political visibility enjoyed by the provincial leadership, creating little incentive to transfer genuine authority to local institutions.\nThe consequence is a constitutional distortion. Members of the provincial assemblies, instead of focusing on legislation, policy formulation, executive oversight and public finance, increasingly involve themselves in roads, schools, local development schemes and other matters of municipal administration.\nLegislators are elected to make laws and hold the executive accountable, not to perform functions that properly belong to elected local governments. When legislative institutions assume executive responsibilities, both governance and lawmaking suffer.\nThe question is whether good governance will be achieved by creating more provinces or by strengthening the institutions that already exist.\nBefore creating additional provinces, Pakistan must therefore ask why the existing constitutional model of local government has not been fully implemented. If governance is the primary objective, strengthening local governments may prove to be a more effective and less costly reform than creating entirely new provincial structures.\nAnother aspect that merits consideration is the financial implications of creating new provinces. A province is not merely a new chief minister and provincial assembly. It requires a complete governmental framework, including a high court, provincial secretariat, public service institutions, tax authorities, police administration, regulatory bodies, specialised departments and thousands of public servants. These institutions create permanent financial obligations in terms of salaries, pensions, infrastructure and operational costs.\n    \nThe question is not whether Pakistan can create new provinces. It can. The question is whether the anticipated governance benefits justify the substantial administrative and financial costs.\nAnother important consideration is economic sustainability. Many proposed provinces, particularly less industrialised regions, possess significant agricultural potential but limited industrial and service-sector capacity. Without a diversified economic base, newly created provinces may remain heavily dependent on federal transfers for their survival. Therefore, any restructuring of provincial boundaries must be preceded by serious fiscal analysis.\nThis is not an argument against creating new provinces. It is an argument that constitutional restructuring must be accompanied by institutional and financial planning.\nThe identity dimension of this debate must also not be forgotten. For many communities, demands for new provinces are not only about administration but also about recognition, representation and political inclusion. Historical regions such as Bahawalpur and Hazara have long sought acknowledgment of their distinct identities. Such aspirations cannot simply be dismissed.\nHowever, political representation must translate into actual improvement in the lives of citizens. Creating new provinces may provide opportunities for regional leadership and address feelings of exclusion, but changing boundaries alone cannot resolve deeper issues of governance, economic opportunity, institutional capacity and public service delivery.\nPakistan’s governance challenges require a comprehensive approach. Strong local governments, professional civil services, transparent administration, fiscal responsibility and constitutional continuity are the foundations of effective governance.\n    \nIf, after meaningful reforms and careful fiscal assessment, parliament concludes that additional provinces are necessary, such decisions should be taken on constitutional and administrative grounds rather than political expediency.\nPakistan undoubtedly needs better governance. The question is whether that objective will be achieved by creating more provinces or by strengthening the institutions that already exist.\nThe problems undermining governance are not merely products of geography. Before redrawing the map, we should first reform the machinery that governs it.\nThe writer is a practising lawyer based in Lahore.\nahmad.hassan@hthlaw.pk\nPublished in Dawn, August 9th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-GOV",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Numerous political systems - Parliamentary as well as Presidential, have been in vogue in Pakistan with limited success. Draft your own proposed but practical system that would result in good governance of the country."
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs",
-    "topic": "Governance Reforms and Decentralization in Pakistan",
-    "whyMatters": "This article directly addresses the challenge of achieving good governance in Pakistan by offering a practical system: strengthening existing local government institutions instead of merely redrawing provincial boundaries. It provides a nuanced argument against superficial solutions, making it invaluable for students to craft a well-reasoned answer to questions about designing effective governance systems.",
-    "summary": [
-      "Pakistan's governance crisis is fundamentally institutional, not geographical, and cannot be solved by merely creating new provinces without systemic reforms.",
-      "The Constitution (Article 140A) already mandates a three-tier system of governance with devolved powers to elected local governments, but this framework has been poorly implemented.",
-      "Provincial leadership's political incentives lead to the weakening of local governments, causing provincial assembly members to focus on local administration rather than legislation.",
-      "Strengthening existing local governments is a more effective, less costly, and constitutionally aligned reform than creating new provinces, which carry significant administrative and financial burdens.",
-      "While identity demands for new provinces are valid, they must be accompanied by comprehensive institutional and financial planning to translate into actual improvements in citizens' lives and avoid economic unsustainability."
-    ],
-    "facts": [
-      "Pakistan’s Constitution embraces a three-tier governance model, distributing authority among federal, provincial, and elected local governments.",
-      "Article 140A of Pakistan's Constitution requires provinces to establish local governments and devolve political, administrative, and financial responsibility.",
-      "New provinces require a complete governmental framework, including a high court, provincial secretariat, public service institutions, tax authorities, and thousands of public servants, creating permanent financial obligations."
-    ],
-    "academicReferences": [
-      "The 18th Constitutional Amendment, 2010 (related to provincial autonomy and Article 140A implementation)",
-      "National Finance Commission (NFC) Award (for understanding fiscal distribution and its impact on provincial/local autonomy)",
-      "Reports by the National Commission for Human Development or UNDP on Local Governance in Pakistan (for empirical data on implementation challenges)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Systemic deficiencies",
-        "type": "noun phrase",
-        "definition": "Fundamental flaws inherent throughout a system or organization",
-        "sentence": "Without meaningful institutional reform, new provinces risk reproducing existing problems due to systemic deficiencies in governance."
-      },
-      {
-        "word": "Devolve",
-        "type": "verb",
-        "definition": "Transfer (power or authority) to a lower level, especially from central government to local administration",
-        "sentence": "Article 140A requires provinces to establish local governments and devolve political, administrative, and financial responsibility."
-      },
-      {
-        "word": "Fiscal planning",
-        "type": "noun phrase",
-        "definition": "The process of managing a government's finances, including taxation, spending, and debt",
-        "sentence": "Without meaningful institutional reform, decentralisation, and fiscal planning, new provinces risk reproducing existing problems."
-      },
-      {
-        "word": "Expediency",
-        "type": "noun",
-        "definition": "The quality of being convenient and practical despite being possibly improper or immoral; convenience",
-        "sentence": "Decisions regarding additional provinces should be taken on constitutional and administrative grounds rather than political expediency."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the fundamental nature of Pakistan's governance crisis?",
-        "options": [
-          "Geographical",
-          "Institutional",
-          "Economic",
-          "Cultural"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'PAKISTAN’S governance crisis is fundamentally institutional rather than geographical.'"
-      },
-      {
-        "question": "Which constitutional article in Pakistan is highlighted for providing a mechanism for local governments?",
-        "options": [
-          "Article 58(2)(b)",
-          "Article 140A",
-          "Article 2A",
-          "Article 239"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions, 'Pakistan’s Constitution already embraces this model. Article 140A requires provinces to establish local governments...'"
-      },
-      {
-        "question": "What is identified as a consequence of weakening local governments in Pakistan?",
-        "options": [
-          "Increased legislative focus by provincial assemblies",
-          "More efficient service delivery at the local level",
-          "Provincial legislators involving themselves in municipal administration",
-          "Greater financial autonomy for local institutions"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Members of the provincial assemblies, instead of focusing on legislation... increasingly involve themselves in roads, schools, local development schemes and other matters of municipal administration.'"
-      },
-      {
-        "question": "What does the article propose as a more effective and less costly reform than creating new provinces for good governance?",
-        "options": [
-          "Increasing federal government's powers",
-          "Strengthening existing local governments",
-          "Inviting international governance experts",
-          "Nationalizing all industries"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article argues, 'If governance is the primary objective, strengthening local governments may prove to be a more effective and less costly reform than creating entirely new provincial structures.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary argument against creating new provinces as a standalone solution for Pakistan's governance issues?",
-        "back": "The article argues that new provinces alone cannot remedy systemic institutional deficiencies without meaningful reform, decentralization, and fiscal planning, risking the reproduction of existing problems at a higher cost."
-      },
-      {
-        "front": "How does Pakistan's Constitution already support a decentralized system of governance, according to the article?",
-        "back": "Article 140A requires provinces to establish local governments and devolve political, administrative, and financial responsibility to elected local representatives, thus providing a mechanism for bringing government closer to the people."
-      },
-      {
-        "front": "Why do provincial leaders often have little incentive to transfer genuine authority to local institutions?",
-        "back": "Meaningful devolution inevitably reduces the concentration of power, resources, and political visibility enjoyed by the provincial leadership, creating a disincentive for genuine authority transfer."
-      },
-      {
-        "front": "Beyond administrative issues, what other significant consideration should precede any restructuring of provincial boundaries?",
-        "back": "Serious fiscal analysis and consideration of economic sustainability are crucial, as many proposed provinces may lack a diversified economic base and remain heavily dependent on federal transfers."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786149860858-531",
-    "title": "The supreme sacrifice\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021430/the-supreme-sacrifice",
-    "date": "2026-08-08",
-    "author": "none@none.com (Afzal Ali ShigriTariq ParvezTariq Khosa)",
-    "content": "THE police are a vital pillar of our social fabric, serving not only as guardians of the law but also as protectors of the community, said President Asif Ali Zardari on Police Martyrs Day on Aug 4. “Their exemplary courage, firm dedication and ultimate sacrifice in the service of the nation will always inspire pride and command the deepest respect of every citizen of Pakistan,” he added. The prime minister, too, honoured the bravery of police officers who had laid down their lives in the line of duty, noting that the force displays “exceptional professionalism and unflinching resolve” in the nation’s fight against terrorism, violent extremism and crime.\nThe Pakistan Institute for Conflict and Security Studies reported that the first seven months of 2026 witnessed 2,786 deaths linked to terrorist violence and counterterrorism operations — 434 security forces’ personnel lost their lives, including 152 police officials in KP and 89 in Balochistan. So far, July has been the deadliest month of 2026, with 112 security officials offering the supreme sacrifice in the line of duty, compared to 38 fatalities a month earlier in June. This is an unprecedented 195 per cent increase in the deaths of law enforcers. \nAt least eight suicide attacks were recorded last month, the highest number in a single month during the past decade. The recent deadly attack near a police station in Swat caused 17 fatalities. As this paper rightly asserted after the Swat bombing, it “is far too high a toll, and the state needs to urgently refine its CT strategy to prevent further loss of precious lives”.\nFollowing Police Martyrs Day, one of us convened a forum of serving and retired police officers to discuss the current vulnerabilities and challenges faced by police in general, and those in KP and Balochistan in particular. The trajectory and tenor of violence in these provinces have distinct traits. KP has been on the receiving end since 9/11, paying a huge price in the so-called war against terror. Since Kabul’s takeover by the Taliban in August 2021, violence and bloodshed have assumed greater intensity. Acts of terror have risen exponentially, with fatalities among security forces and civilians progressively rising each year. The last two years have been the worst so far, with police losing 314 personnel.\nThe last two years have been the worst so far, with police losing 314 personnel.\nBalochistan is facing its fifth (and longest) phase (20 years) of insurgency by separatists. Nawab Akbar Bugti’s killing in a cave near Kohlu in August 2006 was an unfortunate incident that led to a sharp escalation in Baloch militancy. The terrorist nexus of the BLA, BRA and BLF has added lethality to insurgent attacks. BLA’s Majeed Brigade is well-equipped and emulates TTP’s violent tactics. It has superior weaponry, indicating the role of hostile foreign agencies in fomenting unrest in the province. The police’s challenge has increased manifold now that the entire province has been converted into police jurisdiction. The gap in human resources, infrastructure and training for the job is pronounced. A recent significant development is the incursion of the TTP in the Pakhtun areas as witnessed in the tragic July 6 attack on the Mangi Dam pumping station police post by the terrorist group, leading to the kidnapping and killing of 27 policemen. Our deliberations have led to identification of certain vulnerabilities and constraints that beset the police operating in the terror and insurgency-prone areas of KP and Balochistan where violence is driven by a combination of enhanced militant capability, difficult terrain, cross-border dynamics and institutional challenges. The following issues are pertinent.\nIntelligence coordination and information sharing: Coordination between police, intel agencies and other law-enforcement institutions is not always seamless; delays in sharing actionable intelligence reduce the ability to prevent attacks or intercept terrorists before they strike.\nInadequate protection of police personnel and infrastructure: Police stations, check posts and patrols are often targeted because they have limited physical protection, surveillance or early-warning capabilities; some units in dangerous zones lack sufficient protective equipment, secure transport and modern communication systems, increasing their vulnerability.\nLimited capacity and community-based policing: In remote and conflict-affected areas, a trust deficit exists between communities and police. Without strong local engagement, authorities receive fewer timely reports about suspicious activities, allowing terrorist networks to operate with greater freedom.\nThe merger of Fata into KP and the conversion of ‘B’ areas into ‘A’ areas in Balochistan was undertaken without adequate planning, capacity building or the provision of necessary financial and operational resources. The denial of these essential resources has exposed both police and the civil armed forces to avoidable risks, contributing to a significant increase in casualties among personnel. Expressions of support and appreciation for their sacrifices must therefore be matched by meaningful investment in manpower, training, equipment, intelligence, mobility and welfare to enable police to perform their duties effectively and safely.\nAs former police chiefs we acknowledge that the challenges faced by current police commanders are far more daunting and require a strategic and operational rethink to restore order and promote peace in the restive borderlands in Pakistan’s north and south. Serving and retired police officers agree that the revised CT NAP must be implemented through professional tactics and strategic oversight. Here are a few recommendations at the operational level.\nStrengthen intelligence-led policing: Establish integrated intelligence coordination mechanisms that facilitate timely information-sharing among police, intelligence services and local administration; expand analytical capabilities and use technology to identify emerging threats, while ensuring operations remain consistent with the law and human rights standards.\nModernise police protection and training: Upgrade security at vulnerable police facilities through better surveillance, convoy drills, ambush response, communications and sound infrastructure; provide regular training in CT tactics, drone threat response, incident command and officer safety, along with appropriate protective equipment.\nExpand community policing and public partnerships: Build stronger relationships with local communities, tribal elders, religious leaders and CSOs to improve trust and encourage lawful reporting of suspicious activities; develop accessible mechanisms for citizens to share information confidentially; promote public awareness programmes that strengthen resilience.\nThe trend of rising terrorist attacks against, and thus higher casualties among, the police must be immediately stopped before it derails the entire CT effort in KP and Balochistan. This requires a balanced approach that combines effective policing, better intelligence coordination, professional training and meaningful community engagement. Strengthening these areas can enhance the safety of police personnel while also increasing public confidence and contributing to a more secure environment for local communities. Finally, for the policymakers and political leadership, our message is simple: invest in police and trust them to deliver. \nThe writers are former inspectors-general of police.\nPublished in Dawn, August 8th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Pakistan Affairs / Current Affairs / Internal Security",
-    "topic": "Internal Security Challenges and Counter-Terrorism Strategy in Pakistan",
-    "whyMatters": "This article provides critical insights into the evolving internal security landscape of Pakistan, particularly focusing on law enforcement challenges in KP and Balochistan. It offers concrete data, identifies key vulnerabilities, and proposes strategic recommendations essential for understanding and analyzing the state's efforts against terrorism and insurgency for competitive exams.",
-    "summary": [
-      "Police forces are a vital pillar of Pakistan's social fabric, facing unprecedented challenges and escalating casualties in the fight against terrorism and insurgency, particularly in Khyber Pakhtunkhwa (KP) and Balochistan.",
-      "The article highlights a significant surge in terrorist violence in 2026, with a 195% increase in law enforcer deaths in July compared to June, and a decade-high eight suicide attacks last month.",
-      "Key vulnerabilities include poor intelligence coordination, inadequate physical protection for police personnel and infrastructure, limited operational capacity, and a trust deficit with local communities, exacerbated by unplanned administrative mergers like FATA into KP.",
-      "Recommendations for refining counter-terrorism strategies include strengthening intelligence-led policing, modernizing police protection and training, expanding community policing, and ensuring meaningful investment in manpower, equipment, and welfare."
-    ],
-    "facts": [
-      "In the first seven months of 2026, Pakistan witnessed 2,786 deaths linked to terrorist violence and counterterrorism operations.",
-      "Out of these, 434 security forces' personnel lost their lives, including 152 police officials in KP and 89 in Balochistan, during the first seven months of 2026.",
-      "July 2026 was the deadliest month, with 112 security officials killed, marking an unprecedented 195% increase from the 38 fatalities recorded in June.",
-      "At least eight suicide attacks were recorded in July 2026, the highest number in a single month during the past decade."
-    ],
-    "academicReferences": [
-      "National Action Plan (NAP) - explicitly mentioned in the article as needing revised implementation.",
-      "National Internal Security Policy (NISP) - the overarching policy framework for Pakistan's internal security.",
-      "Pakistan Institute for Conflict and Security Studies (PICSS) reports - mentioned as a source of conflict data.",
-      "18th Amendment to the Constitution of Pakistan - relevant for administrative restructuring affecting FATA's merger into KP."
-    ],
-    "vocabulary": [
-      {
-        "word": "Exemplary",
-        "type": "adjective",
-        "definition": "serving as a desirable model; excellent.",
-        "sentence": "Their exemplary courage, firm dedication and ultimate sacrifice in the service of the nation will always inspire pride."
-      },
-      {
-        "word": "Unflinching",
-        "type": "adjective",
-        "definition": "not showing fear or hesitation; resolute.",
-        "sentence": "The force displays “exceptional professionalism and unflinching resolve” in the nation’s fight against terrorism."
-      },
-      {
-        "word": "Trajectory",
-        "type": "noun",
-        "definition": "the path or direction of development or progress.",
-        "sentence": "The trajectory and tenor of violence in these provinces have distinct traits."
-      },
-      {
-        "word": "Fomenting",
-        "type": "verb",
-        "definition": "instigating or stirring up (an undesirable or violent sentiment or course of action).",
-        "sentence": "It has superior weaponry, indicating the role of hostile foreign agencies in fomenting unrest in the province."
-      },
-      {
-        "word": "Restive",
-        "type": "adjective",
-        "definition": "unable to keep still or silent, especially because of impatience or dissatisfaction; restless.",
-        "sentence": "A strategic and operational rethink to restore order and promote peace in the restive borderlands."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what was the percentage increase in law enforcer deaths in July 2026 compared to the previous month, June?",
-        "options": [
-          "38%",
-          "112%",
-          "195%",
-          "2786%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'This is an unprecedented 195 per cent increase in the deaths of law enforcers' in July compared to June."
-      },
-      {
-        "question": "Which administrative change is identified in the article as having exposed police and civil armed forces to avoidable risks due to inadequate planning and resources?",
-        "options": [
-          "Creation of new districts in Punjab",
-          "Merger of Fata into KP and conversion of 'B' areas into 'A' areas in Balochistan",
-          "Establishment of new cantonments across the country",
-          "Decentralization of police command structure in Sindh"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'The merger of Fata into KP and the conversion of 'B' areas into 'A' areas in Balochistan was undertaken without adequate planning, capacity building or the provision of necessary financial and operational resources.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the primary institutional challenges and vulnerabilities faced by police operating in terror and insurgency-prone areas of KP and Balochistan?",
-        "back": "These include poor intelligence coordination and information sharing, inadequate protection of police personnel and infrastructure, and limited capacity for community-based policing leading to a trust deficit."
-      },
-      {
-        "front": "How has the security situation in KP evolved since 9/11 and specifically after August 2021?",
-        "back": "KP has been severely impacted since 9/11, paying a huge price in the 'war against terror.' Violence and bloodshed have assumed greater intensity since Kabul's takeover by the Taliban in August 2021, leading to exponentially rising acts of terror and fatalities."
-      },
-      {
-        "front": "What specific operational recommendations are suggested by former police chiefs to address the current security challenges?",
-        "back": "Recommendations include strengthening intelligence-led policing, modernizing police protection and training, and expanding community policing and public partnerships to improve trust and information sharing."
-      },
-      {
-        "front": "What role do hostile foreign agencies and militant groups like BLA’s Majeed Brigade play in exacerbating the insurgency in Balochistan?",
-        "back": "BLA’s Majeed Brigade is well-equipped and emulates TTP’s violent tactics, possessing superior weaponry. This indicates the role of hostile foreign agencies in fomenting unrest in the province, adding lethality to insurgent attacks."
-      }
-    ]
-  },
-  {
-    "id": "curated-1786150242331-514",
-    "title": "Before AI hits the grid\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2021429/before-ai-hits-the-grid",
-    "date": "2026-08-08",
-    "author": "none@none.com (Mahwish Khan)",
-    "content": "PAKISTAN’S announcement that it would allocate 2,000 megawatts of electricity for Bitcoin mining and AI data centres has triggered a predictable debate: can the country afford to supply that much power? It is an important question, but not the most useful one. Bitcoin mining, AI training and real-time digital services do not exactly place identical demands on the electricity system.\nPakistan’s electricity challenge is about more than the amount of generation capacity available. It is about when and where electricity is needed, whether the network can deliver it reliably, and how that demand is managed during periods of stress. During the hottest months, cooling demand pushes the grid towards its limits. At other times, generation capacity remains underused. But nationally available capacity does not automatically translate into reliable electricity at the location and hour a data centre requires it. Transmission constraints, substation capacity and power quality matter just as much as the headline allocation.\nThe better question is this: how should this new demand be designed and integrated into the electricity system from the outset?\nData centres are not ordinary consumers. Their location, cooling systems, computing equipment and grid connections are decided before construction begins. That gives Pakistan a rare opportunity to shape a major new category of demand before it becomes embedded in the system. But doing so requires recognising that not all computing demand is the same. Some services are highly sensitive to delay. User-facing AI applications, financial platforms and communications systems may require continuous availability. Their loads cannot simply be switched off whenever the grid comes under pressure. Other workloads may offer more flexibility. Certain forms of data processing and model training can be scheduled within broader time windows, distributed across locations or paused at planned checkpoints, depending on how the systems are designed.\nPakistan’s electricity challenge is about more than the amount of generation capacity available.\nWhere genuine flexibility exists, it can be reflected in tariffs and connection agreements. Eligible workloads could be scheduled outside critical peak hours. Operators could provide more accurate demand forecasts, limit abrupt changes in consumption, or use storage to reduce pressure on the network during short periods of stress. This is not a hypothetical mechanism. The UN referred to Ireland as a “cautionary tale” when the country faced a severe energy crisis because data centres consume roughly 23 per cent of the nation’s total electricity — nearly rivalling the power used by all residential homes combined. Ireland’s grid operator now assesses new data centre connections in constrained areas partly on whether the applicant can prove its demand is flexible, and writes that commitment directly into the connection agreement rather than leaving it voluntary. Pakistan can build the same discipline in from the start, instead of retrofitting it once the grid is already under strain, the way Ireland had to.\nPakistan does not need to begin from scratch. The country already has a cloud-governance and accreditation framework. The Cloud Office is mandated to set standards and compliance requirements for cloud service providers, while the existing accreditation criteria cover security, service availability, resilient power infrastructure and recognised data centre certification.\nWhat the framework does not yet fully address is how efficiently these facilities use electricity and water, or how they interact with the wider power system.\nThe Ministry of IT & Telecom’s own concept note identifies this gap. It notes that the current framework does not explicitly prescribe standards for energy management, environmental performance, power usage effectiveness, water usage effectiveness or renewable energy integration. It proposes a national sustainability framework for data centres to fill that gap. That is the right direction. But the framework should go one step further by connecting digital-infrastructure planning with power sector planning.\nLarge facilities should provide credible forecasts of their electricity and water demand. Projects should be assessed against local network capacity, not simply national generation figures. Energy and water performance should be measured consistently. And tariffs should reward verified efficiency and flexibility rather than merely offering cheap electricity to large consumers.\nThis is not anti-investment. Serious data centre investors already consider reliable power, cooling, environmental compliance and long-term energy security when choosing markets. Good standards are not a barrier to investment, but rather, a part of a credible investment proposition. The first generation of AI infrastructure will shape the one that follows. Early decisions on location, efficiency and grid connection will become precedents that are harder to change once major investments have been made.\nPakistan does not need to wait for its grid to buckle before it asks this question, the way Ireland did. It has the chance to design demand before it hits the grid, not renegotiate it after the fact. \nThe writer is director, Awareness and Outreach, National Energy Efficiency & Conservation Authority.\nPublished in Dawn, August 8th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs / Economics / Current Affairs",
-    "topic": "Energy Policy & Digital Infrastructure Integration: Challenges and Opportunities for Pakistan",
-    "whyMatters": "This article provides a critical, forward-looking analysis of Pakistan's energy policy in the context of emerging technologies like AI and blockchain. It highlights the importance of strategic planning and sustainable integration of new demand to prevent future energy crises, offering actionable policy recommendations.",
-    "summary": [
-      "Pakistan's electricity challenge is complex, involving not just generation capacity but also transmission, demand management, and location-specific reliability for high-demand services like data centers.",
-      "The integration of new, large-scale electricity demand from AI data centers and Bitcoin mining offers Pakistan a unique opportunity to design this demand proactively from the outset.",
-      "Distinguishing between flexible and inflexible computing workloads is crucial for demand management, allowing for scheduled consumption or load shedding for flexible operations, potentially reflected in tariffs and connection agreements.",
-      "Pakistan needs to expand its existing cloud-governance framework to include comprehensive sustainability standards for energy and water efficiency, power usage effectiveness (PUE), water usage effectiveness (WUE), and renewable energy integration, linking digital infrastructure planning with power sector planning."
-    ],
-    "facts": [
-      "Pakistan's announced allocation: 2,000 megawatts of electricity for Bitcoin mining and AI data centers.",
-      "Ireland's data center consumption: Roughly 23% of the nation's total electricity, nearly rivaling residential use.",
-      "Current framework gap: Does not explicitly prescribe standards for energy management, environmental performance, PUE, WUE, or renewable energy integration."
-    ],
-    "academicReferences": [
-      "Economic Survey of Pakistan (latest edition)",
-      "Pakistan National Electricity Policy (latest edition)",
-      "UN Sustainable Development Goals (SDGs 7 & 9)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Retrofitting",
-        "type": "verb",
-        "definition": "adding something to an existing system that was not originally included",
-        "sentence": "Ireland had to retrofit demand flexibility into its system after facing an energy crisis, a situation Pakistan aims to avoid."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary lesson Pakistan can learn from Ireland's experience with data centers?",
-        "options": [
-          "A) Data centers consume a negligible amount of electricity.",
-          "B) It's better to retroactively impose flexibility requirements on data centers.",
-          "C) Proactive integration of demand management and sustainability standards from the outset is crucial.",
-          "D) Data centers should only be built in areas with surplus generation capacity."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states Ireland faced a severe energy crisis due to data centers consuming 23% of electricity, leading to retrofitting flexibility. It advocates for Pakistan to 'build the same discipline in from the start' by proactively designing demand before it impacts the grid."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core problem with Pakistan's electricity challenge, beyond just generation capacity, as highlighted in the article?",
-        "back": "It's about when and where electricity is needed, reliable delivery, and demand management during stress, along with transmission constraints and power quality."
-      },
-      {
-        "front": "Why does the article consider data centers a 'rare opportunity' for Pakistan's electricity system?",
-        "back": "Their location, cooling, computing, and grid connections are decided before construction, allowing Pakistan to shape a major new category of demand proactively."
-      },
-      {
-        "front": "What key aspects are missing from Pakistan's current cloud-governance framework regarding data centers, according to the Ministry of IT & Telecom's concept note?",
-        "back": "Standards for energy management, environmental performance, power usage effectiveness (PUE), water usage effectiveness (WUE), and renewable energy integration."
-      },
-      {
-        "front": "How can tariffs and connection agreements be leveraged to manage data center demand effectively?",
-        "back": "By reflecting genuine flexibility, scheduling eligible workloads outside peak hours, requiring accurate demand forecasts, and rewarding verified efficiency and flexibility."
       }
     ]
   }
