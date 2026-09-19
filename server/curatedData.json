@@ -1,5 +1,405 @@
 [
   {
+    "id": "curated-1789783074089-896",
+    "title": "Urban air pollution\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2031064/urban-air-pollution",
+    "date": "2026-09-18",
+    "author": "none@none.com (Umair Ahmad Ghumman)",
+    "content": "ACCORDING to IQAir’s World Air Quality Report 2025, Pakistan recorded the worst air quality among 143 monitored countries, with an annual average PM2.5 concentration more than 13 times the WHO guideline. The Pakistan Economic Survey 2025-26 confirms that around 22,000 deaths each year are linked to air pollution. Four of the world’s 10 most polluted cities are in Pakistan. Lahore is the worst, followed by Faisalabad, Multan and Peshawar. This insight argues that Pakistan’s urban air pollution crisis stems mainly from local factors, with transport being the largest contributor. Long-term improvements will come from consistent, city-specific reforms rather than temporary emergency measures that emerge each smog season.\nPakistan’s National Clean Air Policy, approved by the federal cabinet in 2023, attributes 235,000 premature deaths annually to air pollution exposure. Similarly, the University of Chicago’s Air Quality Life Index suggests that complying with the WHO guideline could extend average life expectancy by 3.3 years, and by more than five in Lahore and Peshawar. Punjab took the serious step of declaring a health emergency. At the same time, provincial records showed nearly 1.93 million respiratory cases in just one month. Unicef warned that 11m children under five breathe toxic air each day.\nThe Pakistan Air Quality Initiative’s national landscape report from December 2025, which is the country’s first comprehensive inventory that looks at each city individually, helps clear up a lot of the confusion. In Lahore, transport makes up 35 per cent of PM2.5 levels. Rawalpindi-Islamabad sees transport as the main source at 53pc; Peshawar is at 51pc, and Karachi stands out as being predominantly industrial, with 49pc from industry and port operations. Since each city faces different pollution sources, the situation calls for tailored solutions.\nCleaner fuel is most effective when paired with cleaner engines.\nWith Pakistan’s heavy reliance on roads, transport has emerged as the top urban issue. In Lahore, studies link about 36pc of fine-particle pollution to diesel and two-stroke exhaust, with two- and three-wheelers being particularly high emitters. Peshawar’s problem is compounded by over 50,000 unregistered two-stroke engine rickshaws, a vehicle class that emits more particulate matter per kilometre than any other on the road. After the decline caused by the 2022 floods, sales bounced back in 2024, making Pakistan one of the fastest-growing two-wheeler markets globally. Many cities have faced similar choices between making long-term structural changes and applying temporary solutions.\nPeshawar’s TransPeshawar bus rapid transit system, which uses hybrid-electric buses, moves over 345,000 passengers daily, making it the busiest BRT in the country. Lahore’s Metrobus and Orange Line together transport more than 250,000 people each day. The Rawalpindi-Islamabad Metrobus system serves around 135,000 commuters daily, now supported by 160 electric buses imported from China. Expanding and linking these systems is a powerful step, offering the greatest benefits.\nCleaner fuel is most effective when paired with cleaner engines. Pakistan is now providing Euro-5 fuel nationwide and aims to reach Euro-6 standards by 2030. However, the impact is limited because there is no strict enforcement of vehicle-emission standards; for example, Punjab has only 32 inspection stations to serve over 24m vehicles. Implementing mandatory emission testing and fitness certification could be a simple yet significant step forward.\nImproving rail freight and the ML-1 corridor can help red­uce heavy diesel trucking on urban roads, which in turn can help lower city pollution. That’s a great reason to support the Rail­w­ays’ goal of increasing its passenger modal share from around 4pc to 20pc.\nRenewing the fleet is the next positive step. A trustworthy scrappage scheme for the oldest and most polluting vehicles would be an effective follow-up. Electrification then directly tackles the most harmful segment. The National Electric Vehicle Policy 2025-30 aims for 30pc of new vehicle sales to be electric by 2030, supported by over Rs100 billion in incentives. Focusing on two- and three-wheelers offers the fastest path to cleaner city air.\nThe response should match the problem: a city-specific programme built on mass transit, cleaner fuels and fleet electrification. Paid parking to discourage private vehicle use, organised parking facilities, and a congestion charge in major urban centres would reduce traffic and increase dem­and for mass transit. Development of public transport infrastructure should be prioritised over the construction of new flyovers and underpasses. Clean air is a strategic priority rather than a seasonal concern. \nThe writer is an assistant research associate at the Institute for Strategic Studies, Research and Analysis, National Defence University.\nPublished in Dawn, September 19th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ENV",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
+    },
+    "suitable": true,
+    "relevanceScore": 97,
+    "paper": "Pakistan Affairs",
+    "topic": "Environmental Degradation and Sustainable Rehabilitation (Urban Air Pollution)",
+    "whyMatters": "This article is highly relevant as it provides current data and specific local factors contributing to urban air pollution (a major aspect of environmental degradation) in Pakistan. It also offers concrete, city-specific remedial measures and policy suggestions vital for answering questions on sustainable environmental rehabilitation.",
+    "summary": [
+      "Pakistan holds the undesirable distinction of having the worst air quality globally, with significant health and economic repercussions, primarily driven by local factors.",
+      "Transport is identified as the largest contributor to PM2.5 levels in most major Pakistani cities, with specific variations like Karachi's predominant industrial pollution.",
+      "Long-term improvements require consistent, city-specific structural reforms, emphasizing tailored solutions over temporary emergency measures.",
+      "Key remedial strategies include transitioning to cleaner fuels and engines, expanding mass transit, improving rail freight, implementing vehicle scrappage schemes, and aggressively promoting fleet electrification, especially for two- and three-wheelers."
+    ],
+    "facts": [
+      "IQAir’s World Air Quality Report 2025 states Pakistan recorded the worst air quality among 143 monitored countries, with PM2.5 concentration over 13 times the WHO guideline.",
+      "Pakistan Economic Survey 2025-26 links around 22,000 annual deaths to air pollution, and the National Clean Air Policy 2023 attributes 235,000 premature deaths annually to air pollution exposure.",
+      "Transport accounts for 35% of PM2.5 in Lahore, 53% in Rawalpindi-Islamabad, and 51% in Peshawar, while industry and port operations contribute 49% in Karachi."
+    ],
+    "academicReferences": [
+      "IQAir’s World Air Quality Report 2025",
+      "Pakistan Economic Survey 2025-26",
+      "Pakistan's National Clean Air Policy 2023"
+    ],
+    "vocabulary": [
+      {
+        "word": "Compounded",
+        "type": "verb",
+        "definition": "Made worse or more intense, often by adding to an existing problem.",
+        "sentence": "Peshawar’s problem is compounded by over 50,000 unregistered two-stroke engine rickshaws, a vehicle class that emits more particulate matter per kilometre than any other on the road."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the Pakistan Air Quality Initiative’s national landscape report 2025, which sector is the main contributor to PM2.5 levels in Lahore?",
+        "options": [
+          "Industry",
+          "Transport",
+          "Agriculture",
+          "Waste Burning"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that in Lahore, transport makes up 35 per cent of PM2.5 levels, identifying it as the main source."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is Pakistan's global standing in terms of air quality, according to IQAir’s World Air Quality Report 2025?",
+        "back": "Pakistan recorded the worst air quality among 143 monitored countries, with PM2.5 concentration over 13 times the WHO guideline."
+      },
+      {
+        "front": "What is the primary factor identified as the largest contributor to urban air pollution in most Pakistani cities?",
+        "back": "Transport is identified as the largest contributor to urban air pollution in most Pakistani cities, particularly from diesel and two-stroke exhaust."
+      },
+      {
+        "front": "What approach does the article advocate for achieving long-term improvements in urban air quality?",
+        "back": "The article advocates for consistent, city-specific structural reforms built on mass transit, cleaner fuels, and fleet electrification, rather than temporary emergency measures."
+      },
+      {
+        "front": "Name two specific policy initiatives mentioned for reducing transport-related air pollution.",
+        "back": "Implementing mandatory emission testing and fitness certification, and focusing on the National Electric Vehicle Policy 2025-30 for fleet electrification, especially for two- and three-wheelers."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789782993247-388",
+    "title": "Why isn’t the economy growing?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2030809/why-isnt-the-economy-growing",
+    "date": "2026-09-18",
+    "author": "none@none.com (Syed Sardar Ali)",
+    "content": "DURING the roughly 150-year period between 1760 and World War I, England, the countries of northwest Europe, and the US went through the economic transformation of the Industrial Revolution. Real per capita GDP, which had remained stagnant at $2-3 per day, started to rise. Real wages that had historically remained slightly above subsistence level doubled. The percentage of labour force employed in agriculture plummeted. The West’s share of global manufacturing — around 25 per cent before the Industrial Revolution — jumped to more than 80pc by 1914. Some economic historians have labelled this shift as humanity’s ‘great escape’ from poverty, disease, and squalor.\nIn the past 200 years, Japan, South Korea, and China stand as the only non-European nations to have bridged the economic divide with the West. These countries accomplished in decades what the West achieved in centuries by sustaining long periods of nearly double-digit economic growth.\n    \nAfter the destruction wreaked by World War II, Japan grew at an average annual rate of nearly 10pc from 1955 to 1973. In 1968, it surpassed Germany to become the second largest economy. Starting in the early 1960s, South Korea entered a period of sustained economic growth, described as the ‘Miracle on the Han River’. Real GDP increased 25-fold in three decades. In 1996, South Korea became a member of the OECD. In the 40 years following the ‘reform and opening up’ of 1978, China’s economy grew at an average annual rate of about 9.5pc, increasing the size of its GDP roughly 35- to 40-fold in real terms. In the process, China lifted nearly 800 million people out of poverty and became the world’s largest economy in PPP terms in 2014.\nThe high-speed economic growth of the East Asian economies displayed three characteristics. First, the period of rapid economic growth was preceded by fundamental restructuring of society’s political and cultural institutions. Second, the shift from an agricultural to industrial economy was spearheaded by the state. Third, during the transformation period, the attainment of econo­m­­ic goals was prioritised over political freedoms.\nFor Pakistanis to live better, the economy must grow at near double-digit rates for decades.\nFrom 1945 until 1951, Gen Douglas MacArthur presided over Japan’s post-World War II transformation as supreme commander of the allied powers. He had Emperor Hirohito issue a rescript denouncing his divinity, promulgated a new constitution, carried out land reforms, changed the education system, and introduced American cultural elements to Japanese life. In South Korea, before Gen Park seized power in 1961, land reforms had already been accomplished through the initiative of the United States Army Military Government in Korea. Gen Park launched the New Community Movement, promoted traditional ethno-nationalism, and strictly regulated social life. During the first 30 years after the revolution of 1949, the Communist Party of China dismantled the 2,000-year-old imperial system, gave land title to nearly 300m peasants, and laid the foundations of a modern state.\nThe post-World War II reconstruction in Japan was led by the ‘iron triangle’ of bureaucrats from the trade and industry ministry, Liberal Democratic Party politicians, and the captains of Japan’s leading industrial conglomerates. In South Korea, Gen Park adopted the policy of export-led economic growth by providing subsidised credit to chaebols, suppressing domestic demand, and quashing labour unions. In China, the state laid the foundations of basic and heavy industry through financial and technical Soviet assistance. Even after Deng Xiaoping’s liberalisation, the state still controls strategic sectors of the economy and takes the lead in pioneering new technologies.\n    \nNominally, Japan was a parliamentary democracy during the post-World War II economic tra­n­s­­formation, but the Liberal Democratic Party re­­mained in power for 38 years in what is described as a ‘one-and-a-half party system’. Following a coup in 1961, Gen Park first ruled South Korea as a military dictator and then adopted a constitution giving him near absolute powers without term limits. China has remained a one-party-led state since its founding in 1949. Deng Xiaoping, who launched the economic ‘reform and opening up’ in 1978, rejected dem­ands for Western-style democracy and suppressed the 1989 demonstrations in Tiananmen Square.\nIn varying degrees, these conditions were present in all countries that successfully transformed into industrialised nations. Pakistan experienced something similar during its first two decades, when it attempted land reforms, passed the Muslim Family Laws Ordinance, and adopted the five-year planning system, with input from the Harvard Advisory Group. All the economic and social gains of these early decades were lost starting in the 1970s. In 1998, Pakistan discontinued the practice of drawing five-year plans and began transitioning to a medium-term development framework. Slow growth in the last two decades has caused Pakistan to fall behind its South Asian neighbours in living standards. The manufacturing sector represents less than 13pc of GDP, and the country runs an average annual trade deficit of around $30 billion.\nHarsh policy measures have stabilised Pakistan’s economy. During FY2024-2025, Pakistan recorded a current account surplus because of import restrictions and robust remittances. Fiscal deficit dropped to a multi-decade low of 2.6pc of GDP in 2025-26. Record-high inflation has come down to more manageable levels. Pakistan’s sovereign credit rating has improved because of lower external risks. However, growth has remained stagnant at around 3.5pc per annum for the last decade. The IMF projects an annual growth rate of 3.5pc for 2026-27, which is barely sufficient to offset the depreciation of the capital stock and compensate for population growth.\nFor Pakistanis to experience any meaningful improvement in living standards, the economy needs to grow at near double-digit rates for several decades. Our current subsistence level agricultural economy with a rudimentary level of industrialisation has reached the limits of its productive capacity. Transformative growth can only come by making the quantum leap to industry. However, industrialisation requires us to fundamentally restructure the political and social order of society, and the state should lead the industrialisation process, with political differences subordinated to the pursuit of economic goals. The poverty trap will not be broken by incremental policy reforms. It requires restructuring the entire system of society.\nThe writer has a background in public administration. He has worked with international financial institutions, including the World Bank.\nPublished in Dawn, September 18th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Challenges and Transformative Growth Strategies for Pakistan",
+    "whyMatters": "This article is crucial for understanding Pakistan's deep-rooted economic challenges by comparing its stalled growth to successful global transformation models. It offers radical, institution-centric recommendations, directly addressing the 'economic challenges and recommendations' component of the Pakistan Affairs paper.",
+    "summary": [
+      "The Industrial Revolution marked humanity's 'great escape' from poverty, a transformation achieved by Western nations over centuries.",
+      "Non-European nations like Japan, South Korea, and China replicated this success in decades through sustained, rapid economic growth, exhibiting characteristics such as fundamental political/cultural restructuring, state-led industrialization, and prioritizing economic goals over political freedoms.",
+      "Pakistan has experienced stagnant economic growth (around 3.5% for the last decade), falling behind regional peers, with its manufacturing sector under 13% of GDP and a persistent trade deficit, despite recent stabilization measures.",
+      "To achieve meaningful improvement in living standards, Pakistan requires near double-digit growth for decades, necessitating a fundamental restructuring of its political and social order, with the state leading industrialization and subordinating political differences to economic pursuits."
+    ],
+    "facts": [
+      "The West's share of global manufacturing increased from ~25% before the Industrial Revolution to over 80% by 1914.",
+      "China's economy grew at an average annual rate of about 9.5% for 40 years post-1978 reforms, lifting nearly 800 million people out of poverty.",
+      "Pakistan's manufacturing sector represents less than 13% of GDP, and its growth has remained stagnant at around 3.5% per annum for the last decade."
+    ],
+    "academicReferences": [
+      "Chalmers Johnson, 'MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975' (for state-led industrialization and developmental states)",
+      "World Bank, 'The East Asian Miracle: Economic Growth and Public Policy' (for detailed analysis of East Asian growth characteristics)",
+      "IMF Country Reports on Pakistan / Economic Survey of Pakistan (for specific economic data, challenges, and policy recommendations for Pakistan)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Stagnant",
+        "type": "adjective",
+        "definition": "Showing no activity; dull and sluggish.",
+        "sentence": "For the last decade, Pakistan's economy has remained stagnant at around 3.5% growth."
+      },
+      {
+        "word": "Subsistence",
+        "type": "noun",
+        "definition": "The action or fact of maintaining or supporting oneself at a minimum level.",
+        "sentence": "Real wages historically remained slightly above subsistence level before the Industrial Revolution."
+      },
+      {
+        "word": "Plummeted",
+        "type": "verb",
+        "definition": "Fall or drop straight down at high speed.",
+        "sentence": "The percentage of the labor force employed in agriculture plummeted during the Industrial Revolution."
+      },
+      {
+        "word": "Spearheaded",
+        "type": "verb",
+        "definition": "Lead an attack or movement.",
+        "sentence": "The shift from an agricultural to an industrial economy in East Asia was spearheaded by the state."
+      },
+      {
+        "word": "Rescript",
+        "type": "noun",
+        "definition": "An official edict or announcement, especially by a pope or emperor.",
+        "sentence": "General MacArthur had Emperor Hirohito issue a rescript denouncing his divinity as part of Japan's post-war reforms."
+      },
+      {
+        "word": "Chaebols",
+        "type": "noun",
+        "definition": "Large industrial conglomerates in South Korea, typically owned and controlled by a single family.",
+        "sentence": "General Park adopted export-led growth by providing subsidized credit to chaebols in South Korea."
+      },
+      {
+        "word": "Rudimentary",
+        "type": "adjective",
+        "definition": "Involving or limited to basic principles; undeveloped.",
+        "sentence": "Pakistan's current subsistence-level agricultural economy has only a rudimentary level of industrialization."
+      },
+      {
+        "word": "Subordinated",
+        "type": "verb",
+        "definition": "Treat or regard as of lesser importance than something else.",
+        "sentence": "For transformative growth, political differences must be subordinated to the pursuit of economic goals."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified as a characteristic of high-speed economic growth in East Asian economies?",
+        "options": [
+          "Fundamental restructuring of society’s political and cultural institutions.",
+          "Shift from an agricultural to an industrial economy spearheaded by foreign aid.",
+          "The state leading the industrialization process.",
+          "Prioritization of economic goals over political freedoms."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that the shift to an industrial economy was 'spearheaded by the state', not primarily by foreign aid, though Soviet assistance was mentioned for China's basic industry."
+      },
+      {
+        "question": "What was the average annual growth rate of China's economy for 40 years following its 'reform and opening up' in 1978?",
+        "options": [
+          "Approximately 5%",
+          "Approximately 7.5%",
+          "Approximately 9.5%",
+          "Approximately 12%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states China's economy grew at an average annual rate of about 9.5% during that period."
+      },
+      {
+        "question": "According to the article, what is Pakistan's approximate annual growth rate projected by the IMF for 2026-27?",
+        "options": [
+          "Around 1.5%",
+          "Around 3.5%",
+          "Around 6.0%",
+          "Around 8.0%"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions that the IMF projects an annual growth rate of 3.5% for 2026-27 for Pakistan."
+      },
+      {
+        "question": "What radical measure does the author propose for Pakistan to achieve meaningful improvement in living standards?",
+        "options": [
+          "Focus solely on agricultural reforms and boosting remittances.",
+          "Implement incremental policy reforms and deregulate all state sectors.",
+          "Fundamentally restructure the political and social order, with the state leading industrialization.",
+          "Privatize all state-owned enterprises immediately and seek extensive foreign loans."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author explicitly states, 'Transformative growth can only come by making the quantum leap to industry... industrialisation requires us to fundamentally restructure the political and social order of society, and the state should lead the industrialisation process, with political differences subordinated to the pursuit of economic goals.' He also notes, 'The poverty trap will not be broken by incremental policy reforms.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What key economic indicators began to rise, distinguishing the Industrial Revolution as 'humanity’s great escape' from previous eras?",
+        "back": "Real per capita GDP and real wages started to rise, moving significantly above subsistence levels, alongside a drastic drop in the labor force employed in agriculture."
+      },
+      {
+        "front": "Identify three common characteristics displayed by the high-speed economic growth of East Asian economies (Japan, South Korea, China).",
+        "back": "First, a period of rapid growth was preceded by fundamental restructuring of society's political and cultural institutions. Second, the state spearheaded the shift from an agricultural to an industrial economy. Third, economic goals were prioritized over political freedoms during the transformation."
+      },
+      {
+        "front": "What institutional reforms were implemented in Japan under Gen. Douglas MacArthur post-WWII to lay the foundation for economic transformation?",
+        "back": "MacArthur oversaw Emperor Hirohito's denunciation of divinity, promulgated a new constitution, carried out land reforms, changed the education system, and introduced American cultural elements."
+      },
+      {
+        "front": "What fundamental change does the author recommend for Pakistan to achieve transformative economic growth, beyond incremental policy reforms?",
+        "back": "Pakistan needs to fundamentally restructure the political and social order of society, with the state leading the industrialization process, and political differences being subordinated to the pursuit of economic goals, rather than relying on incremental policy reforms."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789783710274-141",
+    "title": "Beyond the dollar\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2031058/beyond-the-dollar",
+    "date": "2026-09-18",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN’S plan to seek a larger currency-swap facility with China while pursuing a similar arrangement with the US is a prudent financial diversification effort. Despite improvements, our foreign exchange reserves remain vulnerable to debt repayments, import costs and external shocks. More liquidity backstops can ease that pressure. A currency swap lets central banks temporarily exchange their respective currencies, giving the liquidity-constrained country access to foreign exchange for payments and easing pressure during shortages. Pakistan has drawn China’s 30bn yuan facility, due for renewal in 2027 when Islamabad seeks an increase, while awaiting America’s approval for $10bn.\nPursuing both arrangements would give Pakistan more options when external financing comes under pressure. The Chinese facility can also support trade and payments with China in renminbi, reducing the immediate need for dollars for some transactions. A dollar facility would provide more direct support for dollar-denominated obligations and foreign-exchange market pressures. But the limits of these facilities must be clear. A drawn facility creates a liability that must be repaid. The State Bank reserve figures should therefore disclose and distinguish between freely available reserves and funds with repayment obligations. That said, these facilities are not a substitute for economic reform. They can provide breathing space, but cannot permanently strengthen the external account. The risk would be to use easier access to liquidity to postpone the difficult work of raising productivity, expanding exports and reducing dependence on external borrowing. For now, however, the strategy is useful. Pakistan needs stronger buffers against oil-price spikes, debt-service pressures and other external shocks. A wider network of bilateral liquidity facilities can reduce the risk of a temporary shock turning into another protracted balance-of-payment crisis. The aim should be simple. Build credible external buffers and use them sparingly. More importantly, increase exports, attract stable FDI and boost the economy’s capacity to earn foreign exchange.\nPublished in Dawn, September 19th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs",
+    "topic": "Foreign Exchange Reserves Management, Balance of Payments, and Economic Diversification",
+    "whyMatters": "This article directly addresses Pakistan's perennial balance-of-payments constraint and the vulnerability of its foreign exchange reserves, a core theme in the past exam question. It provides specific strategies and long-term solutions, making it a highly relevant contemporary case study for aspirants.",
+    "summary": [
+      "Pakistan is pursuing currency-swap facilities with China (30bn yuan, seeking increase) and the US (awaiting $10bn approval) for financial diversification and to ease pressure on foreign exchange reserves.",
+      "These currency swaps offer temporary liquidity, providing breathing space against external shocks, but they are not a substitute for fundamental economic reforms.",
+      "The facilities create a liability that must be repaid, and central bank figures should differentiate between freely available reserves and those with repayment obligations.",
+      "The long-term solution lies in strengthening external buffers, increasing exports, attracting stable FDI, and boosting the economy’s capacity to earn foreign exchange, rather than relying on temporary liquidity.",
+      "Misusing easier access to liquidity to postpone difficult reforms like raising productivity and expanding exports poses a significant risk."
+    ],
+    "facts": [
+      "Pakistan has drawn China’s 30bn yuan currency-swap facility, due for renewal in 2027.",
+      "Islamabad is seeking an increase in the Chinese facility and awaits US approval for a $10bn arrangement.",
+      "The article was published in Dawn on September 19th, 2026."
+    ],
+    "academicReferences": [
+      "Ishrat Husain's 'Pakistan's Economy: Challenges and Opportunities for the 21st Century'",
+      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics and Beijing's CPEC Strategy'",
+      "International Monetary Fund (IMF) Stand-By Arrangement (SBA) Reports for Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "Prudent",
+        "type": "adjective",
+        "definition": "Acting with or showing care and thought for the future.",
+        "sentence": "Pakistan's plan to seek currency-swap facilities is described as a prudent financial diversification effort."
+      },
+      {
+        "word": "Liquidity Backstops",
+        "type": "noun phrase",
+        "definition": "Temporary financial arrangements or support that provide access to cash or easily convertible assets, preventing a liquidity crisis.",
+        "sentence": "More liquidity backstops can ease the pressure on foreign exchange reserves during economic shortages."
+      },
+      {
+        "word": "Protracted",
+        "type": "adjective",
+        "definition": "Lasting for a long time or longer than expected or usual.",
+        "sentence": "A wider network of bilateral liquidity facilities can reduce the risk of a temporary shock turning into another protracted balance-of-payment crisis."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary limitation of currency-swap facilities?",
+        "options": [
+          "They are a permanent solution for economic growth.",
+          "They create a liability that must be repaid.",
+          "They increase dependence on a single currency.",
+          "They are difficult to secure from international partners."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'A drawn facility creates a liability that must be repaid,' indicating that currency swaps are temporary measures that incur obligations, not permanent solutions."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main purpose of Pakistan seeking currency-swap facilities with China and the US?",
+        "back": "To achieve financial diversification, gain temporary access to foreign exchange for payments, and ease pressure on foreign exchange reserves during shortages and external shocks."
+      },
+      {
+        "front": "Why does the article caution against relying solely on currency-swap facilities for Pakistan's economic stability?",
+        "back": "They provide only temporary breathing space and are not a substitute for fundamental economic reforms, as they create liabilities that must be repaid and can risk postponing difficult structural changes."
+      },
+      {
+        "front": "According to the article, what are the long-term solutions for strengthening Pakistan's external account and addressing the balance-of-payments constraint?",
+        "back": "Increasing exports, attracting stable Foreign Direct Investment (FDI), and boosting the economy’s indigenous capacity to earn foreign exchange."
+      },
+      {
+        "front": "How do currency swap facilities relate to Pakistan's vulnerability to external shocks like oil-price spikes and debt-service pressures?",
+        "back": "They act as a buffer, providing temporary liquidity to reduce the risk of temporary shocks escalating into a protracted balance-of-payment crisis by easing pressure on foreign exchange reserves."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789783157282-553",
+    "title": "The forgotten NSP\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2031066/the-forgotten-nsp",
+    "date": "2026-09-18",
+    "author": "none@none.com (Khurram Abbas)",
+    "content": "WHEN the PTI government introduced Pakis­tan’s first-ever National Security Policy (NSP) in 2022, the framework placed its primary emphasis on geo-economics and the pursuit of economic security. However, as this five-year policy nears expiration, it seems that the geo-economic vision and citizen-centric approach envisioned under the NSP have failed to achieve their objectives. This lack of success stems from three major reasons.\nThe foremost reason is the curse of political discontinuity. When prime minister Imran Khan unveiled Pakistan’s first-ever NSP in January 2022, it was hailed as a revolutionary pivot towards a citizen-centric geo-economic future. Yet, just months later, the predictable wheel of Pakistani political instability turned, and with the ouster of the PTI government, the strategic document was promptly relegated to bureaucratic limbo. It seems that in Pakistan’s deeply polarised political landscape, structural continuity is a luxury. Successive administrations traditionally suffer from a profound ‘ownership gap’, and view the policy blueprints of their predecessors with suspicion. This does not mean that the incoming coalition government ripped up the NSP. Rather, the subsequent administrations of the PDM alliance and then the PML-N-led coalition found itself completely consumed by the base instincts of political survival and immediate fiscal fires. These priorities diluted institutional focus and shifted the national priority from long-term economic integration to immediate to short-term emergency bailouts.\nSecondly, a viable geo-economic vision cannot survive in a fortress state. Rather, it demands liberalised trade policies, open borders, and a hyper-competitive export sector. But Islamabad remains wedded to an inward-looking protective regime, that maintains high tariffs on intermediate inputs averaging eight per cent, which is twice as high as Indian and Bangladeshi standards, effectively cutting off Pakistan’s industries from global value chains. This protectionism has pushed Pakistan’s export capacity against a hard structural ceiling, rendering regional competitive advantage remarkably weak. When the NSP was introduced, Pakistan’s total exports had reached a record $39.52 billion. Yet, while the policy promised a geo-economic turnaround to boost these numbers, subsequent years brought severe political instability and soaring energy tariffs that caused total exports to contract.\nThird, for Pakistan, a fractured and hostile neighbourhood is a major constraint in realising its geo-economic strategy. Even the most robust economic policies are ultimately at the mercy of geography. The regional assumptions that underpinned Pakistan’s first-ever NSP collapsed almost as soon as the ink dried. At the time of the NSP’s release, there was cautious optimism in the strategic community of Islamabad. Backchannel diplomacy with India had successfully culminated in a 2021 understanding to ‘strictly observe’ a ceasefire along the Line of Control. This development indicated a slow path towards normalisation despite the scar of the 2019 Pulwama-Balakot crisis. However, New Delhi’s uncompromising policy of refusing any structural dialogue effectively froze the eastern front for Pakistan. Furthermore, New Delhi’s subsequent decision to hold the 1960 Indus Waters Treaty in abeyance, coupled with the intense four-day armed hostilities of May 2025, has effectively slammed the door on any lingering hopes for normalisation in the foreseeable future.\nA viable geo-economic vision cannot survive in a fortress state.\nSimultaneously, Islamabad’s grand calculations on its western border have turned to dust. The initial hope that the Afghan Taliban regime in Kabul would secure transit corridors to Central Asia was quickly shattered. Instead of acting as a cooperative partner, Kabul chose to prioritise its ideological fraternity with the TTP over its relationship with Islamabad. This policy decision of the Taliban regime plunged the Pak-Afghan border into a volatile cycle of skirmishes, trade closures, and a sev­ere domestic security crisis that completely derai­led the NSP’s transit-hub ambitions. Resultantly, bilateral commerce between Pakistan and Afghanistan, Afghan transit trade volume via Pakistan, and third-country exports through Pakistan contracted sharply. Adding to this paralysis, Pakistan’s southwestern frontier remains structurally locked. While the diplomatic relationship with Iran has managed to be stable and progressive, the pervasive American sanctions regime has severely strangled any realistic potential to further enhance economic ties with Tehran. \nPakistan’s geo-economic vision cannot be realised until Islamabad radically restructures its domestic priorities and foreign policy architecture on three major fronts. First and foremost, Islamabad must insulate its core economic strategy from the volatile swings of its political cycles. This demands a rare moment of political maturity, where cross-party consensus elevates econo­mic diplomacy to a non-partisan national objecti­­ve and ensures that a change at the Prime Minister’s Office doesn’t translate into abandonment of the country’s long-term economic roadmap.\nSecond, Islamabad must formally divorce its economy from its security apparatus, and treat them as separate, independent domains so that trade channels are never again sacrificed to the knee-jerk impulses of geopolitical friction. Instead of attempting a grand, macro-level regional integration that is easily checked by state-level hostility, Islamabad must pivot towards a bottom-up approach that maximises its leverage by creating dedicated border economic zones and automated, high-tech transit terminals with its eastern and western neighbours. \nThird, to transition from a security state to a true citizen-centric development state, Pakistan must boldly address its structural bottlenecks. This means dismantling the protectionist tariff walls that stifle innovation, aggressively diversifying the low-tech export basket beyond textiles, and creating a stable, predictable regulatory environment capable of attracting genuine foreign direct investment. Regionally, while the geopolitical landscape remains treacherous, Islamabad cannot afford to be economically isolated. It must leverage its strategic partnership with Beijing to optimise the next phase of CPEC, while simultaneously utilising creative, localised trade arrangements with Kabul and Delhi, where formal diplomatic breakthroughs remain stalled. \nIslamabad must realise that, while it has regained significant strategic importance in the Middle East, and beyond to some extent, it finds itself increasingly isolated within its own region. To fix this, Pakistan must fundamentally rethink its regional and domestic policies so it can truly benefit from its renewed global influence and turn its geo-economic objectives into lasting economic growth. \nThe writer is a strategic analyst of international security. The views expressed are his own.\nX: @itskhurramabbas\nPublished in Dawn, September 19th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs",
+    "topic": "National Security Policy, Geo-economics, and Regional Integration Challenges in Pakistan",
+    "whyMatters": "This article critically analyzes Pakistan's failed geo-economic vision and obstacles to regional integration, providing a crucial framework to understand the challenges Pakistan faces in leveraging organizations like ECO. It offers strategic insights into necessary domestic and foreign policy shifts required for successful regional economic engagement.",
+    "summary": [
+      "Pakistan's first-ever National Security Policy (NSP) introduced in 2022, with a primary emphasis on geo-economics and economic security, has largely failed to achieve its objectives due to political discontinuity.",
+      "The 'fortress state' mentality, characterized by inward-looking protectionist policies and high tariffs, has severely hampered Pakistan's export capacity and integration into global value chains.",
+      "A fractured and hostile neighborhood, including frozen relations with India, volatile Pak-Afghan borders, and US sanctions on Iran, has derailed the NSP's regional integration and transit-hub ambitions.",
+      "To succeed, Pakistan must insulate its core economic strategy from political cycles, formally divorce its economy from its security apparatus, and implement structural reforms like dismantling protectionism and leveraging CPEC and localized trade arrangements."
+    ],
+    "facts": [
+      "Pakistan’s first-ever National Security Policy (NSP) was introduced in 2022.",
+      "Pakistan maintains high tariffs on intermediate inputs averaging eight percent, which is twice as high as Indian and Bangladeshi standards.",
+      "At the time of NSP's introduction, Pakistan’s total exports had reached a record $39.52 billion."
+    ],
+    "academicReferences": [
+      "National Security Policy of Pakistan (2022-2026)",
+      "China-Pakistan Economic Corridor (CPEC) Framework under Belt and Road Initiative (BRI)",
+      "Stephen Cohen's 'The Idea of Pakistan' (for broader historical and state-centric analysis)"
+    ],
+    "vocabulary": [
+      {
+        "word": "geo-economics",
+        "type": "noun",
+        "definition": "The study or practice of using economic tools and strategies to achieve geopolitical objectives.",
+        "sentence": "The NSP aimed for a revolutionary pivot towards a citizen-centric geo-economic future."
+      },
+      {
+        "word": "relegated",
+        "type": "verb",
+        "definition": "Consigned to an inferior position, place, or condition.",
+        "sentence": "With the ouster of the PTI government, the strategic document was promptly relegated to bureaucratic limbo."
+      },
+      {
+        "word": "strangled",
+        "type": "verb",
+        "definition": "To restrict or inhibit the development or activity of.",
+        "sentence": "The pervasive American sanctions regime has severely strangled any realistic potential to further enhance economic ties with Tehran."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is identified as the foremost reason for the failure of Pakistan’s geo-economic vision under the NSP?",
+        "options": [
+          "Political discontinuity and lack of ownership.",
+          "High energy tariffs and contraction of exports.",
+          "New Delhi’s uncompromising policy towards dialogue.",
+          "The Afghan Taliban regime’s policy decisions."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'The foremost reason is the curse of political discontinuity' leading to an 'ownership gap' by successive administrations."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What were the primary objectives of Pakistan's National Security Policy (NSP) introduced in 2022?",
+        "back": "The NSP primarily emphasized geo-economics and the pursuit of economic security, aiming for a citizen-centric approach."
+      },
+      {
+        "front": "How does Pakistan's 'fortress state' mentality hinder its geo-economic strategy?",
+        "back": "It maintains inward-looking protective regimes with high tariffs on intermediate inputs, effectively cutting off industries from global value chains and limiting export capacity."
+      },
+      {
+        "front": "Identify two major regional challenges that impeded the NSP's geo-economic vision.",
+        "back": "Frozen eastern front due to India's uncompromising policy (e.g., Indus Waters Treaty, hostilities) and a volatile western border due to the Afghan Taliban's ideological fraternity with TTP, derailing transit-hub ambitions."
+      },
+      {
+        "front": "What are the three major fronts on which Islamabad must radically restructure its policies to realize its geo-economic vision?",
+        "back": "Insulate economic strategy from political cycles, formally divorce economy from security apparatus, and boldly address structural bottlenecks (dismantle protectionism, diversify exports, attract FDI)."
+      }
+    ]
+  },
+  {
     "id": "curated-1789697274017-487",
     "title": "Ties with UAE\n",
     "source": "Dawn",
@@ -308,6 +708,93 @@
       {
         "front": "What is the Houthi stated condition for passage through the Bab al-Mandeb strait, as mentioned in the article?",
         "back": "The Houthis state that passage is open for all vessels except Saudi vessels, against whom they have vowed to enforce a 'blockade for blockade'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1789782909438-720",
+    "title": "Some critical questions\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2030559/some-critical-questions",
+    "date": "2026-09-17",
+    "author": "none@none.com (Shahab Usto)",
+    "content": "TRUE to tradition, a ‘plan’ to ‘reset’ the country’s entire structure has come down like an epiphany from apparently ‘non-political’ quarters. The plan envisages creating multiple provinces and changing the country’s very tapestry — its geography, topography, demography, ethnic relations, resource distribution, power sharing, and broader political calculus. The situation raises critical questions.\nWhy new provinces? The interior minister, who announced the plan, hasn’t held forth on the reasoning or offered an acceptable justification for adopting such an extreme and hazardous course. However, he has mentioned bad governance, population implosion, and systemic failures as some of the causes. Nor are there any official authoritative studies proposing a close nexus between good governance and smaller administrative structures. In fact, the global landscape reveals a mixed pattern. Some countries have fewer or territorially larger constituent units, and yet they are stable, functional, even enviable. Others have multiple small units/ provinces, but are perennially afflicted with broken, inept and even failed political systems.\n    \nThe factors that generally determine the performance and vitality of a state are the legitimacy and efficacy of its political system, the character and ability of its leadership, and the maturity and capacity of its institutions — not only to deliver better governance, but also to meet the continuing challenges thrown up by ever-changing societal and state imperatives. In revitalising the ‘failed’ political systems, we don’t know if the so-called plan contemplates these factors.\nWho is demanding them? Interestingly, most of these ideas have originated outside regular political processes, whether as One Unit, Basic Democracy, ‘Islamisation’, enlightened moderation, or hybrid governance. People have always been on the receiving end of new-fangled ideas and their pernicious consequences. The call for a structural ‘reset’, too, appears to have similar origins. So far, none of the governments — federal, provincial or even local — or the mainstream political leaderships have called for restructuring the provinces. However, there is near-consensus across the political spectrum on creating provinces in south Punjab, and KP’s Hazara belt. In fact, the Punjab and KP assemblies passed resolutions for these provinces, but they went nowhere.\nInstead of new units, the country needs softer options to heal societal wounds.\nReorganising the state structures would be an extremely risky exercise. India’s Congress party had included the ‘linguistic’ provinces in its manifesto as early as 1917. Yet, after Partition, both prime minister Jawaharlal Nehru and home minister Vallabhbhai Patel were reluctant to reorganise the states, fearing balkanisation of the fledgling country. It was many months of intense political agitations across the country, expert studies, judicial commissions, and a much-mourned fast unto death by Telugu nationalist Potti Sriramulu that finally brought the government around. Still, the Reorganisation Act of 1955 was not passed to improve governance but to group various linguistic communities in their own separate states. In other words, distinctive ethno-cultural identities were recognised and restored, rather than brutally denied and suppressed as would have been the case if the states had been broken up in a manner that dispersed the historically located ethno-cultural communities — something that is being contemplated here.\n    \nIs referendum feasible? Perhaps encouraged by the smooth passage of the controversial 26th and 27th constitutional amendments, and not expecting a large section of the political establishment to oppose the proposed move, some elements here had appeared confident of securing the required numbers to ensure restructuring. However, the JUI-F, ANP, PTI, and even the ruling party’s major coalition partner have dug in their heels. In fact, even the prime minister and his party seem reluctant to support the restructuring, though some government ministers are backing it, albeit without the cabinet’s approval. Likewise, the Sindh Assembly has also rejected the break-up of the province.\nAs a result, other means are being sought — preferably, a referendum to execute the plan. But a referendum would not validate the wholesale reorganisation of the state. It lacks legitimacy and credibility. It cannot be used to circumvent or be a substitute for the mandatory constitutional amendment. People will not accept it because every military dictator has used it to legitimise their rule. Instead, a referendum will be seen as farcical and incite public anger, triggering a maelstrom of pushback.\nWill the ‘plan’ succeed? Any idea, policy, or law that is imposed on the people has miserably failed to achieve its objectives; in fact, it has often led to disasters. Steamrolling the restructuring of provinces — against the will of the people — will further aggravate identity-driven politics across a fragile multiethnic landscape. It may even ignite the tinderbox the country has become, particularly for poor and disgruntled youth who have endured the harrowing realities of failed systems. The numbers are dreadful. Half the population lives in poverty, around 28 million children are out of school, four out of 10 children suffer from stunted growth, three-fourths of the populace is consuming contaminated water, and the increasingly murky security environment scares away local and foreign investors.\nIn these dire circumstances, the country desperately needs softer options to heal societal wounds — options that recompense the people through justice, equity, peace, opportunity, and development, which are democracy’s tested tools. The yawning fault lines — ethnic, social, political, inter-provincial and centre-province — must be mended, and federal democracy, which remains buried under the hybrid regime, restored.\nThe system does need a ‘reset’. But the reset should mean building efficient and accountable institutions, strengthening rules-based governance, and allowing legitimate and representative leadership to run political and public offices. That requires a continuous process of fair, free elections held on time, so that dead wood can be replaced with a fresher, cleaner leadership at the federal, provincial, and local levels.\nFinally, a ‘reset’ would be fatal if it ignored the emotional, even spiritual, bonding of the various ethno-cultural communities with their respective provinces. This bonding goes beyond ideology or politics. It is the product of the centuries-long interplay between these communities and their distinctive land, history, culture, language, literature and art. This bonding leads many in Sindh to conceive their province as an indivisible historical entity — a firmer federalised version of Scotland or Quebec.\nThe writer is a lawyer.\nshahabusto@hotmail.com\nPublished in Dawn, September 17th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2024-PROV",
+      "paper": "Pakistan Affairs",
+      "year": 2024,
+      "question": "The creation of more provinces is a persistent demand from some circles in Pakistan. How do you see the creation of more provinces in Pakistan; as beneficial or harmful for the people? Explain your views with solid justification."
+    },
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Pakistan Affairs",
+    "topic": "Provincial Restructuring, Governance, and Federalism in Pakistan",
+    "whyMatters": "This article critically evaluates proposals for creating new provinces, directly addressing whether such a move would be beneficial or harmful. It provides solid justifications rooted in historical context, political legitimacy, and socio-economic consequences, crucial for high-scoring answers.",
+    "summary": [
+      "The proposed 'plan' for provincial restructuring originates from 'non-political' quarters, lacking clear justification (e.g., improved governance) and mainstream political demand.",
+      "Historical precedents (e.g., India's state reorganization) demonstrate that successful changes were based on recognizing ethno-cultural identities through intense public and political processes, not imposed administrative convenience.",
+      "Imposing restructuring through non-constitutional means like a referendum would lack legitimacy, incite public anger, and fail to address the core issues of governance and systemic failures, reminiscent of past dictatorial tactics.",
+      "Instead of new provinces, the country desperately needs 'softer options' focusing on justice, equity, peace, opportunity, development, and strengthening existing democratic institutions through fair elections and accountability."
+    ],
+    "facts": [
+      "Resolutions for creating provinces in South Punjab and KP's Hazara belt were previously passed by respective provincial assemblies but did not materialize.",
+      "India's Congress party included 'linguistic' provinces in its 1917 manifesto, but post-partition leaders were initially reluctant to reorganize states, fearing balkanization.",
+      "Current dire societal conditions include half the population living in poverty, around 28 million children out of school, and four out of ten children suffering from stunted growth."
+    ],
+    "academicReferences": [
+      "The 18th Constitutional Amendment (2010): Significantly enhanced provincial autonomy and resource distribution, directly relevant to the current federal structure.",
+      "India's States Reorganisation Act (1956): A historical precedent for large-scale provincial restructuring based on linguistic lines, referenced in the article.",
+      "Studies on Federalism and Decentralization in Pakistan: General reference to academic works discussing the dynamics of power-sharing and administrative divisions in the country."
+    ],
+    "vocabulary": [
+      {
+        "word": "epiphany",
+        "type": "noun",
+        "definition": "A sudden, striking realization.",
+        "sentence": "The 'plan' to 'reset' the country’s entire structure has come down like an epiphany from apparently 'non-political' quarters."
+      },
+      {
+        "word": "pernicious",
+        "type": "adjective",
+        "definition": "Having a harmful effect, especially in a gradual or subtle way.",
+        "sentence": "People have always been on the receiving end of new-fangled ideas and their pernicious consequences."
+      },
+      {
+        "word": "maelstrom",
+        "type": "noun",
+        "definition": "A situation of confused movement or violent turmoil.",
+        "sentence": "Instead, a referendum will be seen as farcical and incite public anger, triggering a maelstrom of pushback."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary concern regarding the use of a referendum for wholesale provincial reorganization in Pakistan?",
+        "options": [
+          "A) Referendums are constitutionally forbidden for provincial matters.",
+          "B) It lacks legitimacy and credibility, having been used by military dictators to legitimize their rule.",
+          "C) The current political establishment is united against any form of referendum.",
+          "D) Referendums are too expensive and time-consuming to implement effectively."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that a referendum 'lacks legitimacy and credibility' and that 'People will not accept it because every military dictator has used it to legitimise their rule,' making it a farcical means to circumvent constitutional amendments."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What core factors, beyond administrative size, does the article emphasize for determining a state's performance and vitality?",
+        "back": "The legitimacy and efficacy of its political system, the character and ability of its leadership, and the maturity and capacity of its institutions."
+      },
+      {
+        "front": "Why does the article argue that the current 'plan' for structural 'reset' is unlikely to succeed if imposed against the people's will?",
+        "back": "Any idea imposed on the people has historically failed, leading to aggravation of identity-driven politics, igniting social tensions, and exacerbating issues for disgruntled youth."
+      },
+      {
+        "front": "What historical parallel from India does the article use to caution against arbitrary provincial restructuring?",
+        "back": "India's State Reorganisation Act of 1955, which, unlike the proposed 'plan,' was implemented after intense public agitation and recognized distinct ethno-cultural identities, not just for governance improvement."
+      },
+      {
+        "front": "What does the article suggest as the true meaning of a 'reset' for Pakistan, instead of creating new provinces?",
+        "back": "Building efficient and accountable institutions, strengthening rules-based governance, and allowing legitimate and representative leadership through continuous fair, free, and timely elections."
       }
     ]
   },
@@ -9738,516 +10225,6 @@
       {
         "front": "What 'uncomfortable question' does the article pose regarding industries benefiting from war?",
         "back": "The article asks if industries that profit exponentially from war would prefer the settlement of conflicts or their prolonged continuation."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787358962646-331",
-    "title": "Protecting privacy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024436/protecting-privacy",
-    "date": "2026-08-21",
-    "author": "none@none.com (Rafia Zakaria)",
-    "content": "IT has been two decades since British mathematician Clive Humby coined the phrase ‘data is the new oil’. The world’s largest companies — from Google to Facebook and Apple — were amassing large amounts of data on user desires and behaviour. This meant that these companies increasingly had more and more power to predict how people would behave. Think of it like a massive intelligence network to which users were willingly giving information about themselves all day. \nIn Pakistan, people do not always take these risks seriously. The assumption is that because Pakistan is not as heavily digitised as the West, there is less reason to worry about who has your data and what they do with it. The idea that one’s identity and the data attached to it is accessible to someone else is not something that has worried a lot of Pakistanis. Companies like Apple and Amazon that together have so much data on so many consumers in the West do not yet have that kind of penetration in Pakistan. As a result, these two behemoths, who have information on everything from a consumer’s heartbeat and activity and sleeping habits to the food present in his refrigerator, do not dominate the Pakistani consumer’s life.\nHowever, Pakistan is fast moving towards digitisation and connecting identity to behaviour. One of the earlier examples of this is the Computerised National Identity Card (CNIC), which, today, is necessary for everything — from owning a cellular phone to opening a bank account. A couple of decades ago, the shanakhti card was rarely used unless one had to get a driving licence or register a marriage, or do something similar. Now a CNIC number is required across the board for banking, travel, buying property, university admissions, etc.\nPakistanis are increasingly turning to electronic banking and entrusting their data to networks and servers to access their money. However, according to at least one cybersecurity analyst the systems used by even some top financial institutions can be hacked. A password system was tested to reveal how reliance on old-style passwords, instead of passphrases, could constitute a vulnerability in the system. This is because AI-fuelled and OSINT (Open Source Intelligence) credential guessing make it easy to crack passwords.\nPakistan hasn’t kept pace with the demands of data protection.\nFurthermore, the absence of two-factor authentication — which “verifies a user’s identity by asking for two pieces of proof, such as an online account password and a one-time passcode” —  is not routinely enforced across many digital platforms, including apps and websites, in the country. This means that it is easy for someone else to log into your account and potentially steal your money. It is especially easy for criminal elements who use unsecured Wi-Fi networks to harvest data which is being transmitted.\nThe point is that data is increasingly important and Pakistan is behind the times when it comes to its protection. CNIC numbers can be fraudulently utilised by criminals — who are guilty of stealing one’s legal identity — for all kinds of unlawful activities.\nAt the moment, Pakistan has not legislated on data protection. As lawyer Salma Khan noted in her article earlier this month, the Personal Data Protection Bill has been languishing in parliament since 2018. Consequently, there are no minimum standards with which financial institutions and utility companies that have your data must comply in order to protect your information. This means that, in the absence of a set policy of complia­nce, companies have no incentive to in­­vest in foolproof cybersecurity for their customers.\nFortunately, the courts have given us some hope. In a recent landmark decision pertaining to bank fraud, the Lahore High Court ruled, according to a report, that “customer data entrusted to a bank constitutes ‘property’ under the law and its dishonest misuse may amount to criminal breach of trust”. \nAccording to the court, bank employees who had access to sensitive financial information could be held liable for its misuse. While this is helpful, it still leaves consumers very vulnerable to someone other than bank employees misusing that data.\nAs Pakistan digitises and data becomes a powerful resource (like oil) it is imperative that people understand the consequences of the information they transmit, enter and freely provide to companies via the internet. Knowing who you are, what you do, where your money is and what you desire is all possible just by looking at your phone. And those who know everything about you can, in the end, control what you do. \nThe writer is an attorney teaching constitutional law and political philosophy.\nrafia.zakaria@gmail.com\nPublished in Dawn, August 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs / Governance / Current Affairs",
-    "topic": "Digital Governance, Data Protection, and Citizen Privacy in Pakistan",
-    "whyMatters": "This article critically examines Pakistan's lagging data protection infrastructure and legislative framework amidst rapid digitization. Quoting it demonstrates an understanding of contemporary governance challenges, citizen rights in the digital age, and the policy void that impacts national security and individual privacy, essential for high scores in essays and analytical questions.",
-    "summary": [
-      "The concept 'data is the new oil' highlights the immense power of global tech giants like Google, Facebook, and Apple in predicting user behavior through extensive data collection.",
-      "Despite currently lower digitization compared to the West, Pakistan is rapidly advancing towards connecting identity to behavior, exemplified by the mandatory Computerised National Identity Card (CNIC) for essential services and the rise of electronic banking.",
-      "Pakistan's data protection measures are inadequate, characterized by vulnerabilities such as reliance on old-style passwords susceptible to AI/OSINT cracking, a lack of mandatory two-factor authentication, and the ease with which criminal elements can exploit unsecured Wi-Fi networks.",
-      "The absence of comprehensive data protection legislation, with the Personal Data Protection Bill languishing since 2018, leaves consumers vulnerable and provides no incentive for companies to invest in robust cybersecurity.",
-      "A recent Lahore High Court ruling, which declared customer data as 'property' under the law and its misuse a 'criminal breach of trust', offers a glimmer of hope for accountability, though its scope is primarily focused on misuse by bank employees."
-    ],
-    "facts": [
-      "British mathematician Clive Humby coined the phrase 'data is the new oil' two decades ago.",
-      "The Personal Data Protection Bill has been languishing in Pakistan's parliament since 2018.",
-      "The Lahore High Court recently ruled that customer data entrusted to a bank constitutes 'property' under the law, and its dishonest misuse may amount to 'criminal breach of trust'."
-    ],
-    "academicReferences": [
-      "General Data Protection Regulation (GDPR) - EU Law (A global benchmark for comprehensive data protection laws).",
-      "Prevention of Electronic Crimes Act (PECA) 2016 (Pakistan's existing, though often criticized, cybercrime legislation).",
-      "Personal Data Protection Bill (2018) (The specific proposed legislation in Pakistan aimed at addressing data protection, currently stalled)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Amassing",
-        "type": "verb",
-        "definition": "Gathering or accumulating (a large amount of something).",
-        "sentence": "Companies like Google and Facebook are amassing vast amounts of user data, providing them with immense power."
-      },
-      {
-        "word": "Penetration",
-        "type": "noun",
-        "definition": "The action or process of making a way into or through something; the extent to which a product or service is bought or used by a population.",
-        "sentence": "These global tech behemoths do not yet have the same market penetration in Pakistan as they do in the West."
-      },
-      {
-        "word": "Languishing",
-        "type": "verb",
-        "definition": "Suffering from being forced to remain in an unpleasant or restrictive place or situation, often implying a lack of progress or attention.",
-        "sentence": "The Personal Data Protection Bill has been languishing in parliament since 2018, hindering legal safeguards for citizens."
-      },
-      {
-        "word": "Imperative",
-        "type": "adjective",
-        "definition": "Of vital importance; crucial.",
-        "sentence": "As Pakistan digitises, it is imperative that people understand the consequences of the information they transmit and share online."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is one primary reason Pakistanis may not take data privacy risks as seriously as people in the West?",
-        "options": [
-          "A) A perception that Pakistan is less heavily digitized than the West.",
-          "B) The existence of robust data protection laws in Pakistan.",
-          "C) Universal implementation of two-factor authentication in Pakistan.",
-          "D) A widespread belief that their data holds no value."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states: 'The assumption is that because Pakistan is not as heavily digitised as the West, there is less reason to worry about who has your data and what they do with it.'"
-      },
-      {
-        "question": "What is a key vulnerability identified in the article regarding Pakistan's digital systems for protecting user data?",
-        "options": [
-          "A) Over-reliance on advanced biometric security features.",
-          "B) Mandatory use of passphrases instead of passwords.",
-          "C) The absence of routinely enforced two-factor authentication.",
-          "D) The exclusive use of highly secured government servers for all data."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article highlights: 'the absence of two-factor authentication — which 'verifies a user’s identity by asking for two pieces of proof...— is not routinely enforced across many digital platforms...in the country.'"
-      },
-      {
-        "question": "What significant legal precedent did the Lahore High Court establish in a recent landmark decision regarding bank fraud?",
-        "options": [
-          "A) That all digital data is public property and accessible to law enforcement.",
-          "B) That bank employees are immune from liability in cases of data misuse.",
-          "C) That customer data entrusted to a bank constitutes 'property' and its misuse may be 'criminal breach of trust'.",
-          "D) That foreign companies are not subject to Pakistan's data protection laws."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'the Lahore High Court ruled...that 'customer data entrusted to a bank constitutes ‘property’ under the law and its dishonest misuse may amount to criminal breach of trust'.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the article suggest Pakistanis may underestimate data privacy risks despite growing digitization?",
-        "back": "Pakistanis often assume lower digitization compared to the West, leading to a belief that there is less to worry about regarding personal data collection and misuse, even as local digital services expand rapidly."
-      },
-      {
-        "front": "How has the Computerised National Identity Card (CNIC) contributed to the increasing connection between identity and behavior in Pakistan?",
-        "back": "The CNIC, once used sparingly, is now mandatory for almost all essential services like owning a phone, opening bank accounts, travel, buying property, and university admissions, thus significantly digitizing and centralizing individual identity data."
-      },
-      {
-        "front": "What are the key vulnerabilities in Pakistan's current digital systems that expose citizens to data theft, as highlighted in the article?",
-        "back": "Key vulnerabilities include reliance on old-style passwords easily cracked by AI/OSINT, the absence of routinely enforced two-factor authentication, and criminal elements harvesting data via unsecured Wi-Fi networks."
-      },
-      {
-        "front": "What is the significance of the Lahore High Court's recent ruling on customer data, according to the article?",
-        "back": "The Lahore High Court ruled that customer data entrusted to a bank constitutes 'property' under the law, and its dishonest misuse may amount to 'criminal breach of trust', establishing a legal precedent for accountability, though primarily for bank employees."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787359041582-43",
-    "title": "New units\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024435/new-units",
-    "date": "2026-08-21",
-    "author": "none@none.com (Dr Noman Ahmed)",
-    "content": "FOLLOWING the interior minister’s recent remarks on new administrative units, there has been much discussion in political and intellectual circles on the topic. It seems that the powers that be are pressing for administrative devolution. Earlier, they had favoured local governments and often attempted to transfer decision-making powers and resources to the lower tiers. Is the current push the same approach in different packaging? While we frequently hear about smaller provinces and administrative units , cities, towns and rural locations are not mentioned. The fact is that cities, especially large urban regions, need a special arrangement for governance, resource allocation and service delivery. If the current rulers sincerely want a workable reset, then this aspect must be factored in. \nFuture devolution plans must begin with a gradual reduction in the number of cantonment administrations. Ap­­proximately  four dozen cantonments exist across the country, especially in the larger cities. Many view them as administrative and developmental anomalies. Residents and civil administrations complain that these areas are not aligned with urban development initiatives. Their planning and zonal control must, therefore, be given to local regulatory authorities to facilitate uniform policymaking and planning. All neighbourhoods under federal land management agencies must also fall under local land management bodies. \nMoreover, the definition of urban and rural structures cannot be left to provincial governments. We have seen that, over the years, no effective and innovative effort has been made to bring about institutional reforms. Our urban development authorities are merely poor upgrades of colonial improvement trusts. A visit to any municipal office takes one back to the 19th century. \nModern, efficient and accountable institutions are long overdue. Similarly, capable tehsil and taluka administrations must focus on the betterment of small farmers, entrepreneurs, industries and digital businesses. One would hate to see our peasants bowing before corrupt and cruel feudals. \nCities must be allowed to look after their own governance issues.\nThe sway that provincial governments have over city administrations must also be phased out. Large and medium cities must be empowered to tackle their own administrative, economic and governance challenges. In addition, a desperately needed overhaul of the police department can neither be overlooked nor postponed. The growing law-and-order challenges in many parts of the country, particularly Karachi, cannot be addressed without a competent and locally accountable police force. If law enforcers continue to serve the influential, then reform will remain a pipe dream.\nCities and local units should be effectively empowered when it comes to taxation. The transfer of resources through national and provincial financial commissions should be carried out through a just and transparent mechanism. It is ironic that while hundreds of new projects are announced and their foundation stones are laid with tremendous fanfare, a sound method for the maintenance of existing infrastructure is nowhere in sight. \nAn oft-discussed aspect of the new design is that the restructuring will be an irreversible process. Therefore, a pragmatic, large-scale approach for the benefit of urban and rural populations is crucial, particularly for poor communities in underdeveloped areas. It is hoped that the anticipated administrative makeover will be initiated through planned procedures around a comm­o­nly shared vision for durable impro-vement and prog­ress. There should also be new platforms for experts’ participation in the development of our urban and rural regions. \nCities are the seats of our civilisation and engines of progress. If we fail to give direction to their growth and sustenance, we will not have a future. Besides, cities are our common habitat. Therefore, the opinions of experts from a variety of disciplines and the aspirations of every cross-section of society need to be accommodated to shape consensus on what Pakistan’s cities and adjoining regions should look like.\nCertain elements see the rise of cities, urban culture and the attainment of an urban identity as politically undesirable. It must be remembered that the recognition of all cities as units of effective administration is the first step towards acknowledging the dreams of youth and especially women. Millions of young people in this country can live a decent life with a sense of purpose if Pakistan has a collection of large, medium and small cities and rural areas that are capable of providing good opportunities, safety, education and essential facilities. This is not unattainable. \nThe writer is an academic and researcher.\nPublished in Dawn, August 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 80,
-    "paper": "Pakistan Affairs / Governance",
-    "topic": "Administrative Devolution and Urban Governance Reforms",
-    "whyMatters": "This article critically analyzes Pakistan's administrative devolution efforts, proposing essential reforms for urban governance, local autonomy, and resource allocation. It is crucial for understanding contemporary challenges in public administration and for developing nuanced arguments in essay and current affairs examinations.",
-    "summary": [
-      "The article discusses a governmental push for administrative devolution, questioning if it's a new approach or a mere repackaging of old policies, especially regarding urban regions.",
-      "It advocates for significant reforms including a gradual reduction in cantonment administrations and the transfer of federal land management to local authorities for uniform urban development.",
-      "The author emphasizes the need to empower large and medium cities with greater autonomy in governance, economic management, and locally accountable police forces, phasing out provincial control.",
-      "It calls for a pragmatic, large-scale administrative makeover, ensuring just resource transfer, expert participation, and accommodating societal aspirations for durable urban and rural improvement."
-    ],
-    "facts": [
-      "Approximately four dozen cantonments exist across the country, especially in larger cities, which are often viewed as administrative and developmental anomalies.",
-      "Urban development authorities are described as merely poor upgrades of colonial improvement trusts, with municipal offices resembling the 19th century.",
-      "The article mentions that future devolution plans must begin with a gradual reduction in the number of cantonment administrations."
-    ],
-    "academicReferences": [
-      "18th Constitutional Amendment of Pakistan (2010)",
-      "National Finance Commission (NFC) Award",
-      "UN-Habitat's New Urban Agenda"
-    ],
-    "vocabulary": [
-      {
-        "word": "Devolution",
-        "type": "noun",
-        "definition": "The transfer or delegation of power from a central government to local or regional administration.",
-        "sentence": "The article discusses the interior minister’s recent remarks on administrative devolution to new units."
-      },
-      {
-        "word": "Pragmatic",
-        "type": "adjective",
-        "definition": "Dealing with problems in a practical and sensible way, rather than by relying on theoretical considerations.",
-        "sentence": "A pragmatic, large-scale approach for the benefit of urban and rural populations is crucial."
-      },
-      {
-        "word": "Anomaly",
-        "type": "noun",
-        "definition": "Something that deviates from what is standard, normal, or expected.",
-        "sentence": "Many view cantonments as administrative and developmental anomalies."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary concern regarding cantonment administrations?",
-        "options": [
-          "They are effectively integrated into urban development plans.",
-          "They are viewed as administrative and developmental anomalies.",
-          "They primarily serve rural areas.",
-          "Their planning is already aligned with local regulatory authorities."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that 'Many view them as administrative and developmental anomalies' and that their planning and zonal control must be given to local regulatory authorities."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What fundamental change does the article propose regarding cantonment administrations and federal land management?",
-        "back": "It proposes a gradual reduction in cantonment administrations and transferring their planning and zonal control, along with all federal land management areas, to local regulatory and land management bodies for uniform policymaking and planning."
-      },
-      {
-        "front": "Why does the author argue that cities, especially large urban regions, need a special arrangement for governance?",
-        "back": "Cities require special arrangements for governance, resource allocation, and service delivery because they are complex systems with unique challenges that current provincial oversight and outdated institutions cannot effectively address."
-      },
-      {
-        "front": "What is the article's critique of existing urban development authorities and municipal offices in Pakistan?",
-        "back": "The article criticizes urban development authorities as mere poor upgrades of colonial improvement trusts and describes municipal offices as being stuck in the 19th century, indicating a lack of modern, efficient, and accountable institutions."
-      },
-      {
-        "front": "What specific reforms are highlighted as crucial for empowering cities and local units in terms of taxation and police?",
-        "back": "Cities and local units should be effectively empowered in taxation with just and transparent resource transfers. Additionally, a complete overhaul of the police department is needed to create a competent and locally accountable force, free from the influence of powerful individuals."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787445392932-215",
-    "title": "Cost of heat\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024060/cost-of-heat",
-    "date": "2026-08-20",
-    "author": "none@none.com (Dur e Sameen Akhund)",
-    "content": "AT some point this summer, somewhere along the value chain, output fell. Nobody logged it as a climate loss. It was absorbed instead as a missed delivery window, a spike in afternoon defects, an absenteeism figure that went unexamined. The cause was heat, and most Pakistani businesses are neither measuring it nor pricing it.\nThe backdrop is no longer deniable. This spring’s pre-monsoon heatwave pushed temperatures across the region above 46 degrees Celsius, an event that scientists at World Weather Attribution found was made roughly three times more likely by climate change. The human toll is systematically undercounted: during Karachi’s June 2024 heatwave, the Edhi Foundation received 568 bodies in five days, against a normal average of about 40 a day, while the local government attributed just 13 deaths that month to the weather. If deaths on this scale can go unrecorded, quieter losses of output and productivity certainly do.\nCorporate Pakistan is not ignoring climate change. CERB’s case study on business climate readiness found companies working seriously on transition risk: decarbonisation targets, renewable procurement, positioning for a low-carbon economy. All of this is necessary, and investors reward it. But the same study found very few businesses with any grasp of physical risk — the direct hit a changing climate delivers to assets, operations and people. Almost none had a considered response to the most immediate threat of all, which is what heat does to worker health, safety and productivity. In the world’s most climate-affected country, businesses prepare for the climate risk set out in regulation and miss the one unfolding on the ground. Part of the reason is that heat, unlike a flood, announces nothing. It leaves no wreckage to photograph and no claim to file, only a slow leak of hours and output that is never traced back to its cause.\nThese are not sustainability numbers; they are operating numbers. The WHO and WMO report that “worker productivity declines by two to three per cent for every degree above 20°C”. The ILO finds that heat stress generally sets in above 35°C in humid conditions, and international benchmarks now call for outdoor work to stop when wet-bulb globe temperature exceeds 32.1°C. Karachi crossed 47°C in June 2024. Globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030, and Southern Asia stands to lose up to 5pc of working hours, placing it among the worst affected regions anywhere. No business would tolerate an unexamined 5pc hit to capacity from any other cause.\nPakistan’s heat problem is a business problem.\nOnce businesses begin tracing these risks along the value chain, industry-specific patterns emerge. Take textiles, the country’s largest export earner. The exposure starts in the field, where extreme heat during flowering cuts cotton yields before a single bale reaches the mill. It continues through ginning and spinning units sited in some of the hottest districts in Punjab and Sindh, and on to stitching floors where piece-rate workers, paid by output rather than hours, have every reason to work through heat stress instead of resting it out. Defects and accidents climb with the temperature, absenteeism follows, and load-shedding arrives just as cooling demand peaks. By the time the shipment leaves late, the invoice records everything except the cause.\nSo what?\nNone of this requires waiting for the government or for a re­gulatory requirem­ent. It requires businesses to understand and measure their own vulnerability to rising temperatures. A climate risk assessment maps operati­o­­ns and suppliers agai­nst physical climate scenarios, identifies where heat, flooding and water stress leave them most exposed, and quantifies that vulnerability so it can be managed like any other risk. The interventions that follow are mostly unglamorous and affordable: shaded and cooled work areas, adjusted shift timings and heat protocols, supplier diversification and more resilient infrastructure. But none of them can be targeted until a business knows where its value chain is actually exposed, and the assessment is where that work has to start.\nTransition risk is real and it deserves the attention it gets. But the more immediate threat needs no modelling: heat arrives every summer and it is already costing lives, hours and output. The companies that stress-test their exposure now will be better placed to keep delivering when the next heatwave sets records. For everyone else, the losses will not stop; they will simply keep appearing under other names.\nThe writer is a senior manager for sustainability at the Pakistan Business Council’s Centre of Excellence in Responsible Business.\nPublished in Dawn, August 20th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Current Affairs / Pakistan Affairs / Economics / Environmental Science",
-    "topic": "Climate Change Impact on Pakistan's Economy and Business Sector",
-    "whyMatters": "This article provides a critical perspective on how climate change, specifically heat, is already impacting Pakistan's economy and businesses, offering concrete data and actionable solutions. It is crucial for competitive exam students to understand the nuanced economic consequences of climate change beyond environmental rhetoric, especially in the context of Pakistan.",
-    "summary": [
-      "Economic losses due to heat stress (missed deliveries, defects, absenteeism) are substantial in Pakistani businesses but remain largely unmeasured and unpriced.",
-      "Pakistani corporations prioritize 'transition risk' (decarbonization) but significantly neglect 'physical risk' (direct impacts of climate like heat) on operations, assets, and worker productivity.",
-      "Global and regional data project severe consequences: worker productivity declines with temperature, and heat stress could erase 80 million full-time jobs globally by 2030, with Southern Asia losing up to 5% of working hours.",
-      "Businesses can address these issues by conducting climate risk assessments to identify vulnerabilities and implementing practical, affordable interventions like shaded work areas, adjusted shifts, and resilient infrastructure without waiting for government regulation."
-    ],
-    "facts": [
-      "Scientists at World Weather Attribution found that the Spring 2024 pre-monsoon heatwave (temperatures above 46°C) was made roughly three times more likely by climate change.",
-      "During Karachi's June 2024 heatwave, the Edhi Foundation received 568 bodies in five days, against a normal average of about 40 a day, while local government attributed just 13 deaths that month to the weather.",
-      "The WHO and WMO report that 'worker productivity declines by two to three per cent for every degree above 20°C', and globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030."
-    ],
-    "academicReferences": [
-      "World Weather Attribution reports on climate change attribution.",
-      "WHO and WMO reports on climate change and health/productivity.",
-      "International Labour Organization (ILO) findings on heat stress and worker productivity."
-    ],
-    "vocabulary": [
-      {
-        "word": "undercounted",
-        "type": "verb",
-        "definition": "To estimate or record a lower number than the actual amount, often due to insufficient data or deliberate omission.",
-        "sentence": "The human toll of the heatwave is systematically undercounted, masking the true impact on lives and livelihoods."
-      },
-      {
-        "word": "decarbonisation",
-        "type": "noun",
-        "definition": "The process of reducing or eliminating carbon dioxide emissions, particularly from energy production and industrial processes.",
-        "sentence": "Many companies are setting ambitious decarbonisation targets as part of their transition risk strategies."
-      },
-      {
-        "word": "absenteeism",
-        "type": "noun",
-        "definition": "The practice of regularly staying away from work or school without good reason.",
-        "sentence": "As temperatures climb, absenteeism follows, impacting overall operational efficiency."
-      },
-      {
-        "word": "interventions",
-        "type": "noun",
-        "definition": "Actions taken to improve or remedy a situation.",
-        "sentence": "The interventions that follow are mostly unglamorous and affordable, yet crucial for mitigating heat-related risks."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason Pakistani businesses are largely failing to address the economic impact of heat?",
-        "options": [
-          "They are unaware of climate change entirely.",
-          "They focus more on 'transition risk' (decarbonization) than 'physical risk' (direct climate impacts).",
-          "The government has not mandated heat-related risk assessments.",
-          "They lack the technology to measure heat-induced productivity losses."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that corporate Pakistan is 'working seriously on transition risk' but 'found very few businesses with any grasp of physical risk — the direct hit a changing climate delivers'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the key difference between 'transition risk' and 'physical risk' as explained in the article?",
-        "back": "Transition risk relates to the challenges and opportunities in shifting to a low-carbon economy (e.g., decarbonisation), while physical risk refers to the direct impacts of a changing climate on assets, operations, and people (e.g., heatwaves, floods)."
-      },
-      {
-        "front": "How does the article illustrate the systematic undercounting of heat-related deaths in Pakistan?",
-        "back": "It highlights that during Karachi's June 2024 heatwave, the Edhi Foundation received 568 bodies in five days (compared to a normal 40/day), yet the local government attributed only 13 deaths that month to the weather."
-      },
-      {
-        "front": "What are the projected global and regional economic consequences of heat stress by 2030, according to the article?",
-        "back": "Globally, heat stress is projected to erase the equivalent of 80 million full-time jobs by 2030, with Southern Asia specifically facing a loss of up to 5% of its working hours."
-      },
-      {
-        "front": "What actionable first step does the author suggest for businesses to combat heat-related economic losses?",
-        "back": "Businesses should conduct a climate risk assessment to map operations and suppliers against physical climate scenarios, identifying specific vulnerabilities to heat, flooding, and water stress to quantify and manage these risks."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787358708163-613",
-    "title": "Resetting the system\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024064/resetting-the-system",
-    "date": "2026-08-20",
-    "author": "none@none.com (Ishrat Husain)",
-    "content": "INTERIOR Minister Mohsin Naqvi has rightly diagnosed Pakistan’s poor performance. But will his prescription — the creation of 12 or 32 provinces and administrative units — take us towards inclusive and sustained economic growth? If the present system is to be reset, this should be the end goal against which any proposed restructuring must be judged.\nTwo pillars need strengthening. The first is the delivery of basic services — education, healthcare, drinking water, garbage disposal, public transport, etc. — at the grassroots level. Citizens must have easy access to their elected representatives. The second is to unleash the private sector’s entrepreneurial energies by replacing intrusive, remotely located and unaccountable bureaucratic agencies with local, facilitative institutions. Businesses must be enabled to produce exportable goods and services, create economic opportunities for the youth and raise living standards. It is against these two criteria that the proposal for new provinces should be evaluated.\n    \nFirst, the proposal could disrupt the process of fiscal consolidation. Pakistan is making progress on this front, with a remarkably low fiscal deficit and a surplus on the primary balance. Medium-term tax reforms are also being contemplated: rationalising tariffs, abolishing the super tax, easing the burden on salaried taxpayers, providing relief to exporters and expediting refunds, reducing GST on selected items used by the poor, improving collection of agricultural income tax, urban property tax and GST on professional services, and harmonising federal and provincial tax filing. These reforms could lose momentum if political and administrative energies are diverted to territorial reorganisation. Our history shows that just when things begin moving in the right direction, we take one step forward and two steps backwards, returning to square one.\nSecond, new provinces would impose additional fiscal costs. It was commendable that the provinces agreed to support the federal government for three years through grants under Article 164 of the Constitution and exceeded their surplus targets. It is difficult to see how this arrangement will continue if numerous new provinces are created. Each would require headquarters, legislatures, administrative departments, buildings, etc. Even if incremental, the provinces would have less room to transfer resources to the centre, which would resort to heavy borrowing from banks, precisely when banks are beginning to expand lending to SMEs, agriculture and low-cost housing. This would be a setback to advancing inclusive growth.\nAt this critical juncture, Pakistan should avoid experiments in political and economic fragmentation.\nThird, the National Finance Commission process would be further complicated. The NFC Award has already proved so contentious that a new award has not been agreed on since 2010, despite Article 160(1). Increasing the number and diversity of provinces would make consensus more difficult. Less-developed provinces would demand criteria to increase their share, while better-off ones would want to preserve existing allocations. Prolonged negotiations could further delay resource allocation.\nFourth, administrative restructuring would absorb enormous political and bureaucratic attention. New provinces would initially be busy setting up headquarters, bureaucratic structures and legislatures, dividing assets and liabilities and making their administrations functional. Attention would be diverted from development, service delivery and reforms. Having been associated with the reorganisation of One Unit into four provinces, I can attest that the pre- and post-dissolution processes took several years before routine administration could function normally. Imagine repeating the exercise for 12 or 32 provinces. Disputes over assets could reach the higher courts, while the CCI could spend months resolving inter-provincial disputes. The aim of improving public services could therefore be compromised.\nFifth, coordination problems would multiply. We’ve already faced serious difficulties in coordinating policies in food and agriculture, education, health, climate change and population planning since the 18th Amendment. Previous decisions made by the federation in these areas are no longer binding on the provinces. Hence, implementation has been uneven, even ignored. The wheat support price controversy is an example of coordination failure. More provinces would mean more governments, more divergent interests and more difficult coordination.\nFinally, the constitutional and political process shouldn’t be underestimated. The Constitution has a clear procedure for creating new provinces. Indications are that this process would be difficult, particularly when some provincial assemblies have already expressed opposition. Much political capital would have to be spent building consensus among provinces and political parties. The political leadership could become absorbed in this exercise at the expense of monitoring economic revival.\nAgainst this backdrop, the balance of risks weighs heavily against creating a large number of new provinces. Is there a better alternative to achieve the same goals without disrupting the momentum towards economic stability? There is:\nA fully empowered, adequately resourced and directly elected local government system offers a tested alternative. Pakistan had such a system in the early and mid-2000s; citizen satisfaction reached 58 per cent, a level not achieved before or since. The system had weaknesses, but these can be corrected. Alongside this, the Police Order provided greater accountability of the police. Dev­o­lving political, administrative and financial auth­ority to LGs would bring decision-making closer to the people without creating a new layer of provincial governments. LGs could provide land, uti­lities, infrastructure and other facilities required by businesses, reducing the cost of doing business. Regulatory reform could be targeted more effectively at the local level to help create jobs and stimulate private investment and exports.\nEncouragingly, recent discussions among political parties show support for greater devolution from provinces to LGs. This pathway offers many advantages: continuity in economic policies, preservation of fiscal consolidation, savings in unproductive administrative expenditure, progress towards a new NFC Award, better service delivery and a stronger stimulus to private enterprise.\nWe’ve already paid a price for interruptions in economic and political continuity, including the dismissal of a government in 2017 and a no-confidence vote in 2022. Had reforms been allowed to continue uninterrupted, the economic situation might have been different. At this critical juncture, Pakistan should avoid experiments in political and economic fragmentation. The priority should be to complete ongoing reforms and stren­gthen LGs, making them accountable to citizens.\nAs an editorial in Dawn observed, “Changing boundaries without reforming the underlying political and institutional culture will only lead to governance failures.” The real reset needed is not a redrawing of boundaries but a transformation of governance — bringing government closer to citizens, enabling the private sector and ensuring continuity in economic reforms.\nThe writer was deputy secretary of the One Unit Reorganisation Committee.\nPublished in Dawn, August 20th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Governance Reforms, Fiscal Stability, and Sustainable Economic Growth in Pakistan",
-    "whyMatters": "This article critically analyzes proposals for administrative restructuring, directly linking governance choices to Pakistan's economic stability and growth. It provides a strong argument against political fragmentation and advocates for continuity in reforms and strengthening local governance as pragmatic solutions for sustainable economic development.",
-    "summary": [
-      "The article critiques the proposal for creating numerous new provinces in Pakistan, arguing it would disrupt economic stability and inclusive growth rather than achieve it.",
-      "It posits that any system reset must prioritize two pillars: strengthened delivery of basic services at the grassroots and unleashing private sector entrepreneurial energies.",
-      "The author details six major risks associated with new provinces: disruption of fiscal consolidation, additional fiscal costs, NFC process complications, diversion of administrative attention, multiplication of coordination problems, and significant constitutional/political hurdles.",
-      "As a pragmatic alternative, the article strongly advocates for a fully empowered, adequately resourced, and directly elected local government system, drawing on Pakistan's positive past experience with such a system."
-    ],
-    "facts": [
-      "The proposal involves creating 12 or 32 new provinces/administrative units.",
-      "Pakistan made progress on fiscal consolidation, achieving a remarkably low fiscal deficit and a primary balance surplus.",
-      "A new National Finance Commission (NFC) Award has not been agreed upon since 2010, despite Article 160(1) of the Constitution.",
-      "Citizen satisfaction with Pakistan's local government system reached 58 percent in the early and mid-2000s.",
-      "The 18th Amendment led to decentralization to provinces, contributing to coordination difficulties in sectors like food, agriculture, and education."
-    ],
-    "academicReferences": [
-      "The 18th Amendment (Constitutional reform impacting federal-provincial relations and decentralization)",
-      "National Finance Commission (NFC) Award (Key fiscal distribution mechanism between federal and provincial governments, governed by Article 160(1))",
-      "Police Order (Specific governance reform cited for greater police accountability at the local level)",
-      "One Unit Reorganisation (Historical administrative restructuring experience in Pakistan, cited by the author)"
-    ],
-    "vocabulary": [
-      {
-        "word": "fiscal consolidation",
-        "type": "noun phrase",
-        "definition": "A set of policies designed to reduce government deficits and debt accumulation.",
-        "sentence": "Pakistan is making progress on the front of fiscal consolidation with a remarkably low fiscal deficit."
-      },
-      {
-        "word": "intrusive",
-        "type": "adjective",
-        "definition": "Causing disruption or annoyance through being unwelcome or uninvited; meddling.",
-        "sentence": "The article suggests replacing intrusive, remotely located bureaucratic agencies with local, facilitative institutions."
-      },
-      {
-        "word": "entrepreneurial",
-        "type": "adjective",
-        "definition": "Relating to or characteristic of an entrepreneur; taking financial risks to operate a business.",
-        "sentence": "The second pillar requires unleashing the private sector’s entrepreneurial energies."
-      },
-      {
-        "word": "fragmentation",
-        "type": "noun",
-        "definition": "The process or state of breaking or being broken into small or separate parts.",
-        "sentence": "At this critical juncture, Pakistan should avoid experiments in political and economic fragmentation."
-      },
-      {
-        "word": "devolving",
-        "type": "verb",
-        "definition": "To transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
-        "sentence": "Devolving political, administrative and financial authority to LGs would bring decision-making closer to the people."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What are the two primary pillars that need strengthening for inclusive and sustained economic growth, according to the article?",
-        "options": [
-          "Industrialization and foreign investment",
-          "Delivery of basic services and unleashing private sector energies",
-          "Military spending and national security",
-          "International aid and debt relief"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that the two pillars are 'the delivery of basic services' and 'to unleash the private sector’s entrepreneurial energies'."
-      },
-      {
-        "question": "According to the author, which of the following is NOT a potential negative consequence of creating new provinces?",
-        "options": [
-          "Disruption of fiscal consolidation efforts",
-          "Complication of the National Finance Commission (NFC) process",
-          "Simplification of inter-provincial coordination",
-          "Diversion of political and administrative attention from reforms"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that new provinces would 'multiply coordination problems' and make consensus more difficult, directly contradicting simplification."
-      },
-      {
-        "question": "What alternative does the article propose to achieve goals of improved service delivery and private sector enablement without creating new provinces?",
-        "options": [
-          "Centralizing all administrative powers",
-          "A fully empowered, adequately resourced, and directly elected local government system",
-          "Relying solely on foreign direct investment",
-          "Implementing a unitary system of government"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'A fully empowered, adequately resourced and directly elected local government system offers a tested alternative.'"
-      },
-      {
-        "question": "The author uses his experience with the reorganisation of 'One Unit' to highlight which of the following challenges?",
-        "options": [
-          "The immediate improvement in public services after boundary changes.",
-          "The ease of asset division between new administrative units.",
-          "The rapid establishment of routine administration post-dissolution.",
-          "The prolonged time required for administrative structures to function normally after reorganisation."
-        ],
-        "answerIndex": 3,
-        "explanation": "The author attests that 'the pre- and post-dissolution processes took several years before routine administration could function normally' after the One Unit reorganisation."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the two core criteria against which any proposed administrative restructuring, such as creating new provinces, should be judged for Pakistan's economic future?",
-        "back": "The two criteria are: 1) Strengthening the delivery of basic services at the grassroots level, and 2) Unleashing the private sector's entrepreneurial energies through local, facilitative institutions."
-      },
-      {
-        "front": "Explain how the creation of numerous new provinces could negatively impact Pakistan's ongoing fiscal consolidation efforts and resource allocation, according to the article.",
-        "back": "New provinces would disrupt ongoing fiscal consolidation by diverting political/administrative energies from tax reforms, impose additional fiscal costs (requiring new infrastructure), and make the National Finance Commission (NFC) process far more complicated and contentious, delaying resource allocation due to increased number and diversity of claimants."
-      },
-      {
-        "front": "Why does the author argue that strengthening a local government system is a superior alternative to creating new provinces for improving governance and economic growth?",
-        "back": "A fully empowered LG system brings decision-making closer to the people, provides essential facilities for businesses (reducing costs), enables targeted regulatory reform, ensures continuity in economic policies, preserves fiscal consolidation, and stimulates private enterprise without the political and economic fragmentation risks of new provinces."
-      },
-      {
-        "front": "What historical examples does the author provide to support the argument that interruptions in economic and political continuity are detrimental to Pakistan's progress?",
-        "back": "The author cites the dismissal of a government in 2017 and a no-confidence vote in 2022 as instances where interruptions prevented reforms from continuing uninterrupted, thus hindering economic improvement. He also references his experience with the One Unit reorganisation, which took several years for routine administration to normalize."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787272381648-898",
-    "title": "Burning the buffers\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024063/burning-the-buffers",
-    "date": "2026-08-20",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "HERE is an interesting question: if they decide to throw caution to the winds and pump growth this fiscal year, what sort of growth rates could they fetch given the state of the fiscal and foreign exchange buffers these days? A tentative answer suggests they could realistically produce up to two consecutive years of six per cent GDP growth before the buffers are fully exhausted. This is the outer envelope of what is possible at the moment, but there are ways to extend this horizon by as much as one more year.\nMy calculation is a relatively simple one. Let’s start with the last growth episode we saw that was fuelled by burning the country’s fiscal and FX buffers. The boom began in September 2020, when the Quantum Index of Manufacturing first turned positive after a long spell in negative territory. It continued for 22 months till June 2022, when it turned negative again. Then came a 12-month hangover, during which QIM remained negative while reserves continued to burn.\n    \nOver these 22 months of boom times, the fiscal buffer burned by Rs2.7 trillion — roughly Rs125 billion a month of primary deficits — and the reserve buffer burned by $2.9bn, about $130 million a month. These are average figures and they hide an important detail. The real reserve burn began in August 2021, a full year after the boom started. Until then, the reserves were still rising, driven by surging remittances and borrowing. But once the peak hit, the burn rate leapt up sharply to $1bn per month, or $16bn between September 2021 and the trough of January 2023.\nThere seems to be a reason why this happened. The first year of the boom saw idle capacity activated and the financing requirements of this period were mainly working capital and raw material imports. But once the output gap closed, around September 2021, imports leapt up. It is important to mention, though, that at least half of this rise was driven by the oil import bill from this point onwards. It is equally important to point out that non-oil imports ran 44pc higher during these months than the baseline established in the pre-Covid months.\nBurning your buffers to fuel growth is a little like burning your furniture to heat your house.\nThen came the hangover months from July 2022 to June 2023. Growth in the preceding two years had burned away the reserves and the fiscal buffers of the state, and a sharp contraction was now necessary as well as an emergency return to the IMF. From July 2022 the economy was hit by a wave of debt-related outflows since creditors, many of them short-term, refused to roll over their commitments. Debt repayments and related outflows had totalled $10.8bn in the first year of the growth boom. They rose to $14bn in the second year. By the time the hangover came, they leapt up to cross $18bn. Some of this was short-term money they had borrowed to keep financing the drains from the growth phase, and seeing the reserves dwindle and a severe power struggle grip the country, paralysing its decision-making, creditors bolted for the exit. Over this period, official FX reserves fell from $9.8bn to $4.4bn, not even enough for one month of import cover.\nOfficial reserves today are at $18.4bn while the primary balance is around 2.5pc of GDP, or Rs3.2tr in total. If we take June 2023 as our baseline and assume we can gun growth till these FX reserves and the primary balance have returned to their baselines, we can get a rough estimate of how much headroom exists in which to pump growth.\nWith these FX reserves, they can sustain a growth boom like the last one for roughly 24 to 32 months, or 2 –2.5 years. This is because past cycles show that the real burn in the reserves begins in the second year or sometimes even later of the growth boom. With $18bn in hand and an endpoint of $4.4bn (the June 2023 reserves level), this gives them headroom of around $14bn which can sustain the FX requirements of a growth boom for anywhere between 14-20 months at burn rates from the last growth boom.\nThe first year of the boom can be considered FX neutral since reserves will still be rising and the real demands of the growing economy kick in after the output gap has closed. They can stretch this by arranging fresh inflows. For example, a $3bn Eurobond floated in this fiscal year adds three to four more months, but nothing more. Further bilateral inflows and maybe favourable debt rescheduling can add a few more months. But it will take a lot of debt and a lot of work to stretch the outer envelope of the FX runway from 32 to 48 months.\nThe fiscal buffer is a little trickier because it includes both a domestic-currency and foreign-currency component. Its lowest level, measured by the primary balance, was hit at the end of FY22 when it came in at negative 3.1pc of GDP. Today, it stands at positive 2.5pc of GDP, which means there is potentially room for it to fall by almost 5.6 percentage points of GDP, or Rs8tr at FY27 nominal GDP. The last growth boom saw a burn rate of the fiscal buffer at around 1.9 percentage points per year. That gives us around three years of runway before the present buffer hits crisis levels.\nOf course, they can always augment these resources with more externally arranged inflows to extend the burn. That is what they always do. But this augmentation rarely buys more than a 12-month extension. But the larger point here is that burning your buffers to fuel growth is a little like burning your furniture to heat your house. The temptation to pump growth, to spend the buffers built with such sacrifice, is great. But the costs, when they inevitably arrive, are always greater still.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, August 20th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Challenges: Balance of Payments and Fiscal Stability",
-    "whyMatters": "This article is highly relevant as it directly explains how Pakistan's economic growth cycles are 'Balance-of-Payments' constrained, leading to persistent pressure on foreign exchange reserves. It provides concrete examples and data from recent history to illustrate the unsustainable nature of growth fueled by depleting buffers.",
-    "summary": [
-      "Pakistan's economic growth often relies on 'burning' fiscal and foreign exchange (FX) buffers, leading to short-term booms followed by severe contractions.",
-      "A recent growth episode (Sept 2020 - June 2022) saw significant depletion of Rs2.7 trillion in fiscal buffers and $16 billion in FX reserves (concentrated burn in the second year), primarily due to surging imports after the output gap closed.",
-      "The current available FX reserves ($18.4bn) and primary balance (2.5% of GDP) offer headroom for only 2-3 years of growth at best, before hitting crisis levels, necessitating an IMF return.",
-      "Augmenting resources through external inflows (e.g., Eurobonds, bilateral loans) can only temporarily extend this growth runway, but the fundamental issue of unsustainable growth via buffer depletion remains, likened to 'burning furniture to heat a house'."
-    ],
-    "facts": [
-      "The 2020-2022 growth boom resulted in a fiscal buffer burn of Rs2.7 trillion (Rs125bn/month primary deficits) and an FX reserve burn of $2.9 billion on average, with a concentrated burn of $16 billion between Sept 2021 and Jan 2023.",
-      "During the boom, non-oil imports ran 44% higher than the pre-Covid baseline, and debt repayments surged from $10.8bn (1st year) to $18bn (hangover period).",
-      "Current official FX reserves stand at $18.4 billion, having plummeted to $4.4 billion during the 'hangover' period (not even one month of import cover).",
-      "The primary balance shifted from a positive 2.5% of GDP to a negative 3.1% of GDP (FY22), representing a potential fall of 5.6 percentage points of GDP, or Rs8 trillion at FY27 nominal GDP, indicating fiscal headroom for about three years."
-    ],
-    "academicReferences": [
-      "International Monetary Fund (IMF) Country Reports on Pakistan (e.g., Staff Report for the Article IV Consultation)",
-      "World Bank Pakistan Development Update",
-      "Economic Survey of Pakistan (Annual Publication by Ministry of Finance, Pakistan)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Buffers",
-        "type": "noun",
-        "definition": "Financial or economic reserves that provide stability or protection against shocks.",
-        "sentence": "The country exhausted its foreign exchange buffers to fuel a short-lived growth spurt."
-      },
-      {
-        "word": "Primary Deficits",
-        "type": "noun",
-        "definition": "The difference between government spending and revenue, excluding interest payments on debt.",
-        "sentence": "Rising primary deficits indicate a government is spending more than it earns, even without considering debt servicing costs."
-      },
-      {
-        "word": "Output Gap",
-        "type": "noun",
-        "definition": "The difference between an economy's actual output and its potential output (the maximum sustainable output without increasing inflation).",
-        "sentence": "Once the output gap closed, the economy faced inflationary pressures and increased import demand for further growth."
-      },
-      {
-        "word": "Fiscal Year (FY)",
-        "type": "noun",
-        "definition": "A 12-month period used for financial reporting by governments and businesses, not necessarily coinciding with the calendar year.",
-        "sentence": "The government aims to reduce its budget deficit by the end of the current fiscal year."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason the 'real reserve burn' usually begins later in a growth boom?",
-        "options": [
-          "A. Initial growth activates idle capacity, requiring less foreign exchange.",
-          "B. Global remittances surge significantly in the initial phase.",
-          "C. Government imposes strict import controls in the first year.",
-          "D. International aid inflows are concentrated at the start of the boom."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that 'The first year of the boom saw idle capacity activated and the financing requirements of this period were mainly working capital and raw material imports. But once the output gap closed, around September 2021, imports leapt up.' This means the initial phase is less FX-intensive."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What analogy does the author use to describe the unsustainable nature of fueling growth by depleting national buffers?",
-        "back": "The author compares it to 'burning your furniture to heat your house', highlighting its short-sighted and ultimately self-destructive nature."
-      },
-      {
-        "front": "How long, at most, can Pakistan realistically sustain a growth boom using current buffers before exhaustion, according to the article?",
-        "back": "Pakistan could realistically sustain up to two consecutive years of six percent GDP growth, possibly stretching to three years with significant external inflows."
-      },
-      {
-        "front": "What key economic indicators suffered significant depletion during the 2020-2022 growth episode that led to an 'emergency return to the IMF'?",
-        "back": "Both fiscal buffers (primary balance) and foreign exchange (FX) reserves suffered significant depletion, leading to a balance of payments crisis and necessitating IMF intervention."
-      },
-      {
-        "front": "Beyond just oil, what significant import trend contributed to the FX burn during the latter part of the 2020-2022 growth boom?",
-        "back": "Non-oil imports ran 44% higher than the pre-Covid baseline, indicating a broad-based increase in import demand beyond just energy costs, once the output gap had closed."
       }
     ]
   }
