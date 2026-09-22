@@ -1389,6 +1389,362 @@
     ]
   },
   {
+    "id": "curated-1790043221492-672",
+    "title": "Sugar threat\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2030802/sugar-threat",
+    "date": "2026-09-18",
+    "author": "none@none.com (Editorial)",
+    "content": "THE sugar industry has renewed pressure on the government for permission to export 1m tonnes of sugar. Millers say they may delay the next crushing season unless the government complies. It is not a request or demand; it is a threat. The Pakistan Sugar Mills Association projects a 1.25m tonne surplus. That number needs independent verification. Sugar millers do not have a clean record on stock reporting. They have been accused repeatedly of inflating surpluses to obtain export permission. Past inquiries have flagged manipulation and coordination among them. None of that makes industry estimates a reliable basis for policy.\nThe export track record itself is the strongest argument for caution. Each time exports have been approved, shortages have followed, with the government importing sugar to fix the mess it created by exporting the commodity. Selling a ‘surplus’ abroad only to buy it back later at a higher price is not trade policy. It is a subsidy for politically influential sugar producers. The government should avoid extremes. It should refrain from imposing an outright export ban or greenlighting the export of 1m tonnes on the industry’s pressure. If independent verification confirms a surplus, it can be exported in tranches. More exports can be approved only if the data shows that the local supply is holding up. That said, deregulation of the sugar sector is the real, long-term fix — not case-by-case export permissions but a supply chain that is freed end to end. The market should set the price of cane and sugar, while imports and exports must be run according to fixed rules and not at political discretion. For this, the industry must open its books for independent checks to verify stock claims, and be exposed to real competition, instead of operating as a tight-knit cartel. In such a scenario, millers will not need to issue threats; a functioning market would give them what they want. And farmers would no longer find themselves in the crossfire.\nPublished in Dawn, September 18th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Economics",
+    "topic": "Agricultural Sector Reform and Market Regulation",
+    "whyMatters": "While this article does not directly address Pakistan's role in ECO or regional integration, it provides an excellent case study for domestic economic governance and the challenges of market regulation. Students can quote it to illustrate issues like rent-seeking behavior, cartelization, and failures in agricultural policy, which are vital themes in Economics and Current Affairs papers concerning Pakistan's internal economic landscape.",
+    "summary": [
+      "Pakistan's sugar industry exerts undue pressure on the government, threatening to delay the next crushing season unless permission to export 1m tonnes of sugar is granted.",
+      "The industry's claims of surplus are historically unreliable and frequently manipulated to obtain export approval, often resulting in domestic shortages and subsequent costly re-imports.",
+      "The government's past actions of approving exports followed by imports are critiqued as a subsidy for politically influential sugar producers rather than sound trade policy.",
+      "The long-term solution involves deregulating the sugar sector to allow market forces to set prices, establishing fixed rules for imports and exports, promoting competition, and ensuring industry transparency."
+    ],
+    "facts": [
+      "Sugar millers are demanding permission to export 1m tonnes of sugar.",
+      "The Pakistan Sugar Mills Association projects a 1.25m tonne surplus (requiring independent verification).",
+      "The article was published in Dawn on September 18th, 2026."
+    ],
+    "academicReferences": [
+      "Ishrat Husain's 'The Political Economy of Pakistan: State, Class and Development' (for insights into rent-seeking and industrial policy challenges).",
+      "World Trade Organization (WTO) Agreement on Agriculture (for framework on trade policies, subsidies, and export/import regulations in agricultural commodities).",
+      "Reports by the International Food Policy Research Institute (IFPRI) on agricultural market distortions and policy recommendations in developing countries."
+    ],
+    "vocabulary": [
+      {
+        "word": "crushing season",
+        "type": "noun",
+        "definition": "The period when sugarcane is harvested and processed into sugar in mills.",
+        "sentence": "Millers say they may delay the next crushing season unless the government complies."
+      },
+      {
+        "word": "inflating surpluses",
+        "type": "verb phrase",
+        "definition": "Artificially increasing the reported amount of excess stock or supply.",
+        "sentence": "They have been accused repeatedly of inflating surpluses to obtain export permission."
+      },
+      {
+        "word": "tranches",
+        "type": "noun",
+        "definition": "Portions or installments of a larger amount, especially of money or an issue of shares.",
+        "sentence": "If independent verification confirms a surplus, it can be exported in tranches."
+      },
+      {
+        "word": "deregulation",
+        "type": "noun",
+        "definition": "The process of removing or reducing government controls and restrictions on an industry or sector.",
+        "sentence": "That said, deregulation of the sugar sector is the real, long-term fix."
+      },
+      {
+        "word": "cartel",
+        "type": "noun",
+        "definition": "An association of manufacturers or suppliers formed to maintain prices at a high level and restrict competition.",
+        "sentence": "The industry must be exposed to real competition, instead of operating as a tight-knit cartel."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary long-term solution proposed for addressing issues within Pakistan's sugar sector?",
+        "options": [
+          "A) Imposing an outright export ban on sugar to ensure domestic supply.",
+          "B) Providing targeted subsidies to sugar millers to improve efficiency and reduce costs.",
+          "C) Deregulation of the sugar sector, allowing market forces to set prices and trade rules, with independent checks.",
+          "D) Nationalizing sugar mills to bring them under direct government control."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'deregulation of the sugar sector is the real, long-term fix — not case-by-case export permissions but a supply chain that is freed end to end. The market should set the price of cane and sugar, while imports and exports must be run according to fixed rules and not at political discretion.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary concern raised by the article regarding the sugar industry's demand for export permission?",
+        "back": "The concern is that the industry's projected surplus figures are unreliable and historically manipulated to gain export approval, often leading to domestic shortages."
+      },
+      {
+        "front": "How does the article characterize past government actions concerning sugar exports and subsequent re-imports?",
+        "back": "It characterizes past actions as a 'subsidy for politically influential sugar producers,' where the government exports a 'surplus' only to re-import it later at a higher price."
+      },
+      {
+        "front": "What specific immediate actions does the article recommend for the government regarding sugar exports?",
+        "back": "The government should independently verify any claimed surplus, avoid extremes (total ban or large-scale export), and if a surplus is confirmed, export in tranches based on local supply data."
+      },
+      {
+        "front": "What key structural changes does the article suggest for the sugar industry to foster a 'functioning market'?",
+        "back": "The industry must open its books for independent verification, be exposed to real competition, and cease operating as a tight-knit cartel."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790042983046-742",
+    "title": "Restructuring lessons\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2030808/restructuring-lessons",
+    "date": "2026-09-18",
+    "author": "none@none.com (Ghazan Jamal)",
+    "content": "INTERIOR Minister Mohsin Naqvi’s proposal for more provinces wasn’t the first time someone close to the establishment made the suggestion. However, this time a stated motivation was also provided: namely, the complete collapse of the existing governance system. While much has been written about this issue, it has largely been theoretical and speculative, with the closest real-world examples coming from other countries. The problem with those examples is that, while informative, they mostly exist in a context very different to Pakistan’s, making it difficult to draw parallels. But an example closer to home can help us predict better. The last time Pakistan’s internal borders were redrawn was in 2018 with Fata’s merger with KP through the 25th Amendment.\n    \nA similarly stated motivation for the merger was given at the time — the utter collapse of the old Fata governance system. That system has been blamed for the militant takeover in many parts of Fata (now called the merged districts). Many also hold it responsible for erstwhile Fata’s extremely poor human development indices compared to the Pakistani average. The merger with KP, and thus the extension of KP’s institutional structures, laws, and systems, was deemed necessary to resolve Fata’s problems. Another proclaimed benefit was that the merger would bring the government closer to the public. The state believed that the militants had filled the void created by an unresponsive government. So, in many ways, the motivation to merge rested on two beliefs: first, to replace an old, collapsed system with one offering better governance; and second, to involve communities in decision-making by bringing government closer to them. Similar justifications are now being touted to support the idea of new provinces.\nEight years after the merger, the question is: how effectively has the change improved both aspects for residents of the merged areas? The question of whether decision-making has been brought closer to the people and thereby made government institutions more responsive to the public’s needs is perhaps the easier one to answer: there’s no evidence that matters have improved; if anything, the opposite appears to be true. The merged areas still have no share in the NFC and continue to depend on discretionary federal funding. In fact, they are a step removed from that planning process, as it must come through KP rather than directly to them. Similarly, the tribal system is, by definition, participatory and community-led. Replacing it with a more centralised, institutional state structure has decreased community involvement and the power of the local people to run their own affairs.\n    \nThe question of governance is more complex, but even here, there is not much improvement. First, the new system is less participatory even in governance, further alienating people from their government. Second, the administrative system is now far too bureaucratic to respond promptly. It is increasingly bloated — current administrative expenditures for the merged areas have more than doubled, from about Rs50 billion at the time of the merger to over Rs100bn now. Similarly, the judicial process, like elsewhere in the country, is painfully slow, making locals increasingly likely to turn to traditional jirgas rather than the courts. The creation of alternative dispute resolution me­­chanisms and dispute resolution councils, aligned with traditional jirgas and under the guise of the district administration and district police respectively, acknowledges the delay in dispensing justice. Worse, there has been no marked improvement in any human development indicator; apart from isolated instances, no real examples of systemic improvement in service delivery exist. Where security is concerned, there is a surge in militant activity in the region, with terrorist incidents and casualty figures worse than in the years before the merger. Clearly, the merger is not preventing the resurgence of militancy in the area.\nWhat insights does the Fata merger offer into the recently proposed move to create new administrative units?\nThe merger failed to achieve the improvements that proponents vowed it would bring, even though it had backing at the national level, unlike the idea of new provinces, especially from the three major national political parties (the PML-N, PTI and PPP), establishment experts and development partners. It was a rare moment in Pakistan’s recent political history in which all three major national parties came together to pass the 25th Constitutional Amendment and then saw it passed in the KP Assembly by consensus. The idea of new provinces has no such national consensus at the moment; it would look more like arm-twisting if the political parties go ahead with it. However, even in the case of the merger, locals were excluded from the decision-making process, and a majority of Fata’s elected parliamentarians at the time favoured reforms, though they raised serious reservations about how these reforms were being pursued. This was cause for concern. Regrettably, their alarm was disregarded; in fact, it was termed a vain effort by locals to save an archaic system.\nOne might argue that the merger was, in many ways, a different reform than creating new provinces. Yet both reforms ignore the same basic issue of structure and approach, which must be addressed before there is any redrawing of internal provincial borders or creation of new administrative units. To have a responsive government, communities need more involvement through a regularly functioning, well-resourced local government system. Helping communities decide the policies they want is essential for a successful transition to new systems. Whether this happens in a larger administrative unit or a smaller one matters less.\nMost importantly, Pakistan needs a mindset shift in how it pursues policy and reforms. We need an approach that replaces preconceived notions and unsubstantiated beliefs that dictate policy. We must move away from a mindset that envisions the state as a mere administrative entity; instead, the state must assume the role of a citizen-empowering force that serves the people. Without this, even the most logical ‘reforms’ will prove cosmetic and do little to address systemic failures.\nThe writer is a development practitioner and a former parliamentarian.\nX: @GhaziGJ\nPublished in Dawn, September 18th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Pakistan Affairs / Governance and Public Policy",
+    "topic": "Administrative Restructuring, Decentralization, and Local Governance in Pakistan: Lessons from the FATA Merger",
+    "whyMatters": "This article provides a critical, evidence-based analysis of large-scale administrative reforms in Pakistan, using the FATA merger as a local case study. It offers crucial insights into the pitfalls of top-down approaches and the necessity of local government empowerment and community involvement, which are vital arguments for civil service exams.",
+    "summary": [
+      "The proposal for new provinces, motivated by the collapse of the existing governance system, parallels the 2018 FATA merger with KP (25th Amendment).",
+      "The FATA merger aimed to replace a collapsed system, improve governance, and bring government closer to the people by extending KP's institutional structures and laws.",
+      "Eight years later, the FATA merger largely failed to achieve its goals: it decreased community involvement, increased bureaucracy and administrative costs, slowed justice, showed no human development improvement, and led to a surge in militancy.",
+      "The article argues that successful administrative restructuring, whether through new provinces or mergers, requires a well-resourced local government system, community involvement in decision-making, and a mindset shift towards citizen empowerment."
+    ],
+    "facts": [
+      "FATA's merger with KP occurred in 2018 through the 25th Constitutional Amendment.",
+      "Administrative expenditures for the merged areas more than doubled from approximately Rs50 billion at the time of the merger to over Rs100 billion now.",
+      "Militant activity and casualty figures in the merged areas are currently worse than in the years preceding the merger."
+    ],
+    "academicReferences": [
+      "25th Constitutional Amendment, 2018 (Pakistan)",
+      "National Finance Commission (NFC) Award",
+      "Khyber Pakhtunkhwa Local Government Act, 2013/2019"
+    ],
+    "vocabulary": [
+      {
+        "word": "Discretionary",
+        "type": "adjective",
+        "definition": "Based on individual judgment or choice rather than fixed rules.",
+        "sentence": "The merged areas still have no share in the NFC and continue to depend on discretionary federal funding."
+      },
+      {
+        "word": "Archaic",
+        "type": "adjective",
+        "definition": "Very old or old-fashioned; no longer relevant or applicable.",
+        "sentence": "Regrettably, their alarm was disregarded; in fact, it was termed a vain effort by locals to save an archaic system."
+      },
+      {
+        "word": "Cosmetic",
+        "type": "adjective",
+        "definition": "Affecting only the surface or appearance; not deep or significant.",
+        "sentence": "Without this, even the most logical ‘reforms’ will prove cosmetic and do little to address systemic failures."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following was NOT an observed outcome of the FATA merger with KP?",
+        "options": [
+          "A) A significant improvement in human development indicators.",
+          "B) A doubling of administrative expenditures in the merged areas.",
+          "C) A decrease in community involvement in decision-making.",
+          "D) A surge in militant activity and terrorist incidents."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'there has been no marked improvement in any human development indicator' and 'no real examples of systemic improvement in service delivery exist.' Options B, C, and D are all mentioned as negative outcomes of the merger."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the primary stated motivation behind the FATA merger with KP in 2018, as well as the recent proposal for new provinces?",
+        "back": "The primary stated motivation was the complete collapse of the existing governance system, with the aim to replace it with better governance and involve communities in decision-making."
+      },
+      {
+        "front": "How did the FATA merger impact community involvement and local decision-making according to the article?",
+        "back": "It decreased community involvement and the power of local people to run their own affairs, as the participatory tribal system was replaced by a more centralized, institutional state structure."
+      },
+      {
+        "front": "List two significant negative consequences related to governance and security that occurred after the FATA merger, as highlighted by the author.",
+        "back": "Governance became less participatory and more bureaucratic, with administrative expenditures doubling and judicial processes slowing down. Security worsened, with a surge in militant activity and higher casualty figures than before the merger."
+      },
+      {
+        "front": "What fundamental changes in approach does the article advocate for successful administrative reforms in Pakistan?",
+        "back": "The article advocates for stronger, well-resourced local government systems, greater community involvement in policy decisions, and a mindset shift where the state acts as a citizen-empowering force rather than a mere administrative entity."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790043627903-429",
+    "title": "For Ishmal\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2031063/for-ishmal",
+    "date": "2026-09-18",
+    "author": "none@none.com (Rafia Zakaria)",
+    "content": "IN Pakistan fatherless daughters walk with a target pinned to their backs. No male guardian leaves them unprotected from the eyes of the men who surround them. In a recent heart-breaking case of the cruelty of this truth, a nine-year-old girl named Ishmal was shot dead.\nIshmal lived in upper Swat. She was the youngest of six children who were all left orphans when their father passed away. According to family accounts and police reports, Ishmal went to school as usual on Sept 9, 2026. When she came home, she changed out of her school uniform and went to a neighbour’s house (she reportedly often did this). According to media reports citing the police complaint, not long after she had left her home, her sister heard screams and then gunshots. When the sister rushed to the neighbour’s house, she saw Ishmal lying on the floor covered in blood. The man who would turn out to be the accused in this case was seen going into a room.\nFamily members and neighbours rushed to help, and Ishmal was taken to the hospital. Ishmal died on the way to the hospital or shortly after getting there. The investigation revealed that she had been allegedly sexually assaulted, shot twice and left to die. Such was the alarming cruelty perpetrated on her. She was simply a child, a fatherless girl, who was adjudged to be worthless except to fulfil the lust and will of a man. \nThe suspect, a man identified as Sultan, has been arrested. The suspect had a government job as a watchman. He is the father of six children, some of whom were Ishmal’s friends and the reason why she would go to his house in the afternoons after school. His wife was also taken into custody — possibly because she was present during the assault and murder. The accused has been booked on murder charges under the Pakistan Penal Code.\nOnce media attention ends, no one pursues cases of assault and murder.\nOn Sept 11, 2026, a huge protest was held in Madyan in Swat, where women came out to protest against the murder and what they saw as the unlikelihood of the culprit (who is reportedly seen by the locals as having government contacts) being brought to justice.\nThe answer to that question is unlikely to be known soon. Swat has been the site of some alarming violence against minor girls of late. On June 24, 2026, a 17-year-old girl Ayesha was found missing from her home in Abbottabad. According to the FIR, the girl had been abducted by two men who took her to a hotel, where she was sexually assaulted. She was allegedly given a poisonous or intoxicating substance afterwards. She was left abandoned at Saidu Sharif Teaching Hospital in critical condition and died during treatment.\nIn that case, too, there were arrests, including of a man named Muzammil who was identified as the chief suspect in an FIR registered in Mingora. Cases for murder, rape, kidnapping and administering a poisonous substance have all been registered against him. There was initial outrage, but as soon as it died down, it was unclear what became of the prosecution and how many more suspects had been arrested.\nCases are registered; suspects are caught and even charged and put in prison. The court process begins, but after that it becomes increasingly unclear as to what happens to the men who commit these crimes with such impunity. While it seems that the government and law enforcement in Pakistan believe they should give the impression that ‘something is being done’, once the media attention dissipates, no one bo­­thers to find out whether those who are caught, charged and jai­led are ever real­­-ly punished.\nSo, in the wake of the ever-growing numbers of dead Pakistani girls, one can only make a plea to the government to demand that all provinces and all police stations start providing end-of-year reports on the status of various convictions for the murder and sexual assaults of girls within their jurisdiction. \nWhile the numbers of actual cases will always be low because the vast majority of them are never reported, at least there would be some accountability for what happens to the accused in the year or two years following. \nOnce the relevant institutions start to take some responsibility and are made to feel accountable for any lack of action, and when the conviction of femicidal maniacs who abduct and sexually assault women becomes a priority, a cultural change might ensue, in which women and girls are not seen as worthless and expendable — lesser citizens who can be raped and murdered at the whim of a man. \nThe writer is an attorney teaching constitutional law and political philosophy. \nrafia.zakaria@gmail.com\nPublished in Dawn, September 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs / Sociology / Current Affairs",
+    "topic": "Gender-Based Violence, Rule of Law, and State Accountability in Pakistan",
+    "whyMatters": "This article offers a critical analysis of systemic failures in Pakistan's justice system regarding violence against women and girls. It provides strong arguments and specific policy recommendations that are highly relevant for essays and analytical questions on governance, human rights, and social justice.",
+    "summary": [
+      "Fatherless daughters in Pakistan face extreme vulnerability, often becoming targets of sexual assault and murder due to perceived lack of protection.",
+      "Despite initial media attention and arrests, cases of violence against girls frequently stall in the justice system, with perpetrators rarely facing genuine punishment.",
+      "The government and law enforcement agencies are criticized for giving an impression of taking action without ensuring real accountability or convictions.",
+      "The author advocates for mandatory end-of-year reports from police stations and provinces on the status of convictions for violence against girls to foster accountability and drive cultural change."
+    ],
+    "facts": [
+      "Ishmal, a 9-year-old fatherless girl from upper Swat, was sexually assaulted and shot dead on September 9, 2026.",
+      "The suspect, Sultan, a government watchman and father of six, was arrested, and his wife was also taken into custody on suspicion of being present during the assault and murder.",
+      "Another case mentioned involves 17-year-old Ayesha from Abbottabad, who was abducted, sexually assaulted, given a poisonous substance, and died after being abandoned at Saidu Sharif Teaching Hospital on June 24, 2026."
+    ],
+    "academicReferences": [
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports on Human Rights in Pakistan",
+      "United Nations Convention on the Rights of the Child (UN CRC) / Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+      "Pakistan Penal Code (PPC) sections related to murder, sexual assault, and kidnapping"
+    ],
+    "vocabulary": [
+      {
+        "word": "impunity",
+        "type": "noun",
+        "definition": "exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "The article highlights how men often commit these crimes with such impunity, rarely facing real justice."
+      },
+      {
+        "word": "dissipates",
+        "type": "verb",
+        "definition": "(of a feeling or other intangible thing) disappear or cause to disappear.",
+        "sentence": "Once the media attention dissipates, it becomes unclear what happens to the prosecution of these cases."
+      },
+      {
+        "word": "femicidal",
+        "type": "adjective",
+        "definition": "relating to or characterized by femicide (the killing of a woman or girl, in particular by a man and on account of her gender).",
+        "sentence": "The writer urges that the conviction of femicidal maniacs who abduct and sexually assault women must become a priority."
+      },
+      {
+        "word": "perpetrated",
+        "type": "verb",
+        "definition": "carry out or commit (a harmful, illegal, or immoral action).",
+        "sentence": "Such was the alarming cruelty perpetrated on the child, Ishmal."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary recommendation made by the author to improve accountability in cases of violence against girls in Pakistan?",
+        "options": [
+          "A) Increased media coverage for all such cases.",
+          "B) Mandatory end-of-year reports from provinces and police stations on convictions.",
+          "C) Stricter punishments under the Pakistan Penal Code.",
+          "D) More protests and public demonstrations by women's rights organizations."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states the author's plea to the government to demand that 'all provinces and all police stations start providing end-of-year reports on the status of various convictions for the murder and sexual assaults of girls within their jurisdiction.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What particular vulnerability does the article highlight for \"fatherless daughters\" in Pakistan?",
+        "back": "They are perceived as unprotected and often become targets for sexual assault and murder due to the absence of a male guardian."
+      },
+      {
+        "front": "According to the author, what is the major flaw in Pakistan's justice system regarding cases of violence against girls?",
+        "back": "While cases are registered and suspects arrested, prosecution often stalls, and culprits rarely face real punishment once media attention fades, indicating a systemic lack of accountability."
+      },
+      {
+        "front": "What specific institutional change does the writer propose to combat the impunity of perpetrators of violence against girls?",
+        "back": "The writer pleads for all provinces and police stations to provide end-of-year reports on the status of convictions for the murder and sexual assaults of girls within their jurisdiction."
+      },
+      {
+        "front": "How does the article suggest that greater accountability in the justice system could lead to cultural change regarding women and girls?",
+        "back": "When relevant institutions take responsibility and the conviction of perpetrators becomes a priority, women and girls might no longer be seen as worthless, expendable, or lesser citizens."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790043136709-255",
+    "title": "Court vs court\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2030804/court-vs-court",
+    "date": "2026-09-18",
+    "author": "none@none.com (Editorial)",
+    "content": "A SUPREME Court order directing the hospitalisation of former prime minister Imran Khan for medical tests and treatment has now turned into a much bigger crisis than anyone anticipated.\nAfter the court’s original order was disregarded by the government, like so many others before it, the matter landed before the Federal Constitutional Court via a separate case filed by three other Adiala inmates seeking similar treatment. The FCC has since taken control of the Imran Khan hospitalisation case as well, much to the SC’s chagrin.\nTo observers, the FCC’s move directly challenges a May ruling issued by Chief Justice of Pakistan Yahya Afridi, in which he had described the SC and FCC as “coordinate courts exercising clearly demarcated jurisdictions over distinct matters”. However, the current dispute underlines a clear jurisdictional collision between the two courts, which still seem rather uncertain regarding what each is supposed to be doing since the 27th Amendment.\n    \nAt the heart of the crisis is the 27th Amendment, which had substantially rearranged constitutional jurisdiction by creating a completely new judicial forum, the FCC, and placing major constitutional questions and fundamental rights matters within its domain. The FCC invoked that same jurisdiction days ago to summon the complete records of cases concerning Mr Khan’s hospital transfer from the SC, indicating that it intended to frame the matter as a question of determining whether prisoners are constitutionally entitled to such treatment.\nHowever, it then went a step further and also fixed the case before itself. To its credit, the SC has responded with restraint. The three-member bench hearing the case merely remarked that the FCC’s order had raised “considerable legal and constitutional significance” and then adjourned for three weeks while seeking comment from the attorney general over whether the FCC’s order was, indeed, binding on the SC. Mr Khan’s hospitalisation, of course, seems moot at this point.\n    \nPerhaps matters were bound to arrive at this juncture thanks to the undue haste with which the 27th Amendment was foisted upon the nation. It appears that its text never settled the matter of what happens when a constitutional question arises in an ongoing SC case, especially when such a case pertains to the Code of Criminal Procedure and the Contempt of Court Ordinance, which are very much within the SC’s remit.\nIt is even more remarkable that a crisis of this nature has erupted at the highest level of the judiciary over what was otherwise a rather straightforward order to transfer an ailing prisoner to a hospital and get them the treatment required. It is certainly not a good look for the current dispensation that the fragility of the architecture that props it up keeps being exposed, and over matters that ought to be minor in perspective.\nPublished in Dawn, September 18th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Pakistan Affairs",
+    "topic": "Judiciary's Role in Constitutional Development and Jurisdictional Conflicts in Pakistan",
+    "whyMatters": "This article provides a contemporary case study of the judiciary's evolving role post-27th Amendment, directly illustrating how constitutional developments lead to jurisdictional challenges. Students can use this specific example to demonstrate an in-depth understanding of the complexities of judicial architecture and constitutional interpretation in Pakistan.",
+    "summary": [
+      "A significant jurisdictional dispute has erupted between the Supreme Court (SC) and the newly formed Federal Constitutional Court (FCC) over the hospitalisation of a former prime minister.",
+      "The core of the crisis lies in the 27th Amendment, which created the FCC and assigned it jurisdiction over major constitutional questions and fundamental rights matters.",
+      "The article highlights a clear jurisdictional collision, suggesting that the 27th Amendment, introduced with \"undue haste,\" left ambiguities regarding overlapping powers, especially when constitutional questions arise in ongoing SC cases.",
+      "This high-level judicial crisis, stemming from a seemingly minor issue, exposes the fragility of Pakistan's constitutional architecture and the challenges in clearly demarcating judicial roles."
+    ],
+    "facts": [
+      "The dispute involves the Supreme Court (SC) and the Federal Constitutional Court (FCC).",
+      "The crisis is explicitly rooted in the 27th Amendment to the Constitution.",
+      "Chief Justice of Pakistan Yahya Afridi had previously described the SC and FCC as \"coordinate courts exercising clearly demarcated jurisdictions.\""
+    ],
+    "academicReferences": [
+      "The Constitution of the Islamic Republic of Pakistan (specifically referencing the 27th Amendment)",
+      "Chief Justice of Pakistan Yahya Afridi's May ruling regarding SC and FCC as 'coordinate courts'",
+      "Code of Criminal Procedure and Contempt of Court Ordinance (as legal frameworks within SC's traditional remit)"
+    ],
+    "vocabulary": [
+      {
+        "word": "chagrin",
+        "type": "noun",
+        "definition": "distress or embarrassment at having failed or been humiliated",
+        "sentence": "The Supreme Court's chagrin over the FCC's intervention was evident as its authority appeared to be undermined."
+      },
+      {
+        "word": "demarcated",
+        "type": "verb",
+        "definition": "set the boundaries or limits of something",
+        "sentence": "The 27th Amendment failed to clearly demarcate the jurisdictions of the SC and FCC, leading to the current crisis."
+      },
+      {
+        "word": "foisted",
+        "type": "verb",
+        "definition": "impose an unwelcome or unnecessary person or thing on someone",
+        "sentence": "The article suggests the 27th Amendment was foisted upon the nation with undue haste, leading to unresolved jurisdictional ambiguities."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary constitutional development highlighted as the root cause of the jurisdictional crisis between the SC and FCC?",
+        "options": [
+          "The 27th Amendment to the Constitution",
+          "A ruling by Chief Justice of Pakistan Yahya Afridi",
+          "The government's disregard for court orders",
+          "The Code of Criminal Procedure"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'At the heart of the crisis is the 27th Amendment, which had substantially rearranged constitutional jurisdiction by creating a completely new judicial forum, the FCC.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the central jurisdictional conflict discussed in the article 'Court vs court'?",
+        "back": "The conflict is between the Supreme Court (SC) and the Federal Constitutional Court (FCC) over overlapping jurisdictions, specifically concerning a former prime minister's hospitalisation."
+      },
+      {
+        "front": "How did the 27th Amendment contribute to the current judicial crisis?",
+        "back": "The 27th Amendment created the FCC, placing major constitutional questions and fundamental rights within its domain, but failed to clearly settle jurisdictional boundaries when such questions arise in ongoing SC cases."
+      },
+      {
+        "front": "What was the Supreme Court's initial response to the FCC taking over the hospitalisation case?",
+        "back": "The SC responded with restraint, remarking that the FCC's order raised 'considerable legal and constitutional significance,' adjourning for three weeks, and seeking comments from the attorney general."
+      },
+      {
+        "front": "What does the article imply about the process of enacting the 27th Amendment?",
+        "back": "The article implies the 27th Amendment was enacted with 'undue haste,' leading to unresolved ambiguities and the current jurisdictional dispute at the highest levels of the judiciary."
+      }
+    ]
+  },
+  {
     "id": "curated-1789697274017-487",
     "title": "Ties with UAE\n",
     "source": "Dawn",
@@ -9942,356 +10298,6 @@
       {
         "front": "According to the article, what is the government's critical choice to ensure the long-term success of the privatisation program beyond the power sector?",
         "back": "The government must treat investor concerns as structural gaps to be fixed rather than bargaining noise, by extending the tariff regime, building real regulatory independence, and providing contractual guarantees beyond future reversal."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787902081906-908",
-    "title": "The missing millions\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024915/the-missing-millions",
-    "date": "2026-08-24",
-    "author": "none@none.com (Editorial)",
-    "content": "SINDH’S five-year pledge with the UN to bring children into school is welcome, but the province never had any shortage of plans. What it lacks is progress. Unicef estimates that 7.4m children aged five to 16 in Sindh — 44pc of the age group — are out of school. The 2023 census found that 6.6m children in this bracket had never attended school at all, showing that the problem is not one of retention. This is damning because the Sindh Right of Children to Free and Compulsory Education Act, 2013, guarantees free schooling to every child aged five to 16 and obliges the government to ensure admission and attendance. There has been movement: girls’ stipends, school-meal schemes, teacher-led school budgets and non-formal education programmes address barriers. Yet the scale is inadequate. In 2024-25, Sindh had 1,152 non-formal centres serving 58,411 learners, while 14,343 schools damaged in the 2022 floods were still awaiting restoration in March.\nThe new plan must be judged by children reached, not programmes announced. Sindh needs a district-by-district register of out-of-school children, with local authorities responsible for finding them, identifying why they are excluded and getting them into an appropriate learning pathway. Poverty, child labour, distance, unsafe travel for girls, disability and missing middle and secondary schools require different responses. Stipends and meals should be expanded to improve attendance; reliable transport is needed for communities without nearby schools; and accelerated learning must be scaled for older children who cannot simply enter age-inappropriate classes. Flood reconstruction needs firmer deadlines and public progress reporting. Teacher deployment should follow enrolment needs, while schools must be evaluated for learning, not just attendance. Above all, annual district targets should be published and independently verified. Thirteen years after Sindh legislated a right to education, millions of children are still out of school. Another five-year plan deserves support only if it converts that right into a classroom seat.\nPublished in Dawn, August 24th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs / Social Issues / Current Affairs",
-    "topic": "Education Crisis in Sindh: Challenges and Policy Recommendations",
-    "whyMatters": "This article provides critical data and policy recommendations regarding the education emergency in Sindh, making it highly valuable for essays and analytical questions on social issues, governance, and development. It equips aspirants with specific examples of policy failures and actionable solutions, essential for a nuanced understanding of Pakistan's challenges.",
-    "summary": [
-      "Despite existing legislation and various plans, Sindh faces a severe education crisis with millions of children out of school, indicating a lack of progress over plans.",
-      "The core issue is not retention but a large number of children (6.6m) who have never attended school, highlighting systemic barriers beyond just keeping enrolled students in school.",
-      "Current interventions like girls' stipends and school meals are inadequate in scale and scope to address diverse barriers such as poverty, child labour, distance, disability, and lack of infrastructure.",
-      "The new plan must prioritize concrete, independently verifiable district-level targets, improved accountability for local authorities, and tailored responses to ensure every child gets a classroom seat."
-    ],
-    "facts": [
-      "Unicef estimates 7.4m children (44% of age group 5-16) in Sindh are out of school.",
-      "The 2023 census found 6.6m children in Sindh aged 5-16 had never attended school.",
-      "The Sindh Right of Children to Free and Compulsory Education Act, 2013, guarantees free schooling for children aged 5-16.",
-      "As of March, 14,343 schools damaged in the 2022 floods were still awaiting restoration.",
-      "In 2024-25, Sindh had 1,152 non-formal centres serving only 58,411 learners."
-    ],
-    "academicReferences": [
-      "Sindh Right of Children to Free and Compulsory Education Act, 2013",
-      "United Nations Convention on the Rights of the Child (UNCRC)",
-      "Sustainable Development Goal 4 (SDG 4): Quality Education",
-      "UNICEF Reports on Out-of-School Children in Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "Damning",
-        "type": "adjective",
-        "definition": "Highly critical or condemnatory; revealing a serious flaw or failure.",
-        "sentence": "This is damning because the Sindh Right of Children to Free and Compulsory Education Act, 2013, guarantees free schooling to every child aged five to 16 and obliges the government to ensure admission and attendance."
-      },
-      {
-        "word": "Stipends",
-        "type": "noun",
-        "definition": "A fixed regular sum paid as a salary or allowance.",
-        "sentence": "Stipends and meals should be expanded to improve attendance; reliable transport is needed for communities without nearby schools."
-      },
-      {
-        "word": "Deployment",
-        "type": "noun",
-        "definition": "The movement of troops or equipment to a place or position of readiness; the strategic arrangement of resources.",
-        "sentence": "Teacher deployment should follow enrolment needs, while schools must be evaluated for learning, not just attendance."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason identified for the large number of out-of-school children in Sindh?",
-        "options": [
-          "Lack of retention of enrolled students.",
-          "A shortage of educational plans and policies.",
-          "Children never attending school at all.",
-          "Inadequate stipends for girls."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'The 2023 census found that 6.6m children in this bracket had never attended school at all, showing that the problem is not one of retention.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What percentage of children aged five to 16 in Sindh are estimated by Unicef to be out of school?",
-        "back": "Unicef estimates that 44% (7.4m) of children aged five to 16 in Sindh are out of school."
-      },
-      {
-        "front": "What key legislative act in Sindh guarantees free and compulsory education for children?",
-        "back": "The Sindh Right of Children to Free and Compulsory Education Act, 2013, guarantees free schooling to every child aged five to 16."
-      },
-      {
-        "front": "What are some diverse barriers to education in Sindh that require different responses, as mentioned in the article?",
-        "back": "Poverty, child labour, distance, unsafe travel for girls, disability, and missing middle and secondary schools."
-      },
-      {
-        "front": "What is a crucial recommendation for judging the new five-year plan for education in Sindh?",
-        "back": "The new plan must be judged by children reached, not programmes announced, with published and independently verified annual district targets."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787618026810-139",
-    "title": "Unlearnt lessons of history\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024931/unlearnt-lessons-of-history",
-    "date": "2026-08-24",
-    "author": "none@none.com (Maleeha Lodhi)",
-    "content": "TODAY, the country’s hybrid government is fixated on altering Pakistan’s constitutionally mandated provincial structure and multiplying administrative units. To sell the idea, establishment apologists have rolled out some disingenuous arguments. They claim this will improve governance and miraculously solve the country’s problems overnight.\nA debate has been generated in the media about the pros and cons of administrative changes and breaking provinces into more units. Parliament has yet to discuss this. That is unsurprising. Deliberation is not this legislature’s strong suit. It has rushed through constitutional amendments in record time, once in the dead of night and without meaningful debate. Meanwhile, speculation is mounting that another constitutional amendment is being prepared to push through ‘administrative changes’.\n    \nAbsent from the establishment’s consideration of these sweeping changes are lessons from Pakistan’s history. Over the decades, the country’s rulers have experimented with parliamentary, presidential, semi-presidential, quasi-parliamentary systems, direct military rule, and more recently a hybrid model, which involves informal power-sharing between the military and civilians, with the former as dominant partner. Pakistan has tried them all. Yet each switch only contributed to political instability. The only system to command legitimacy and broad support is parliamentary democracy, despite the fact that parliamentary supremacy over the executive has never been realised.\nLinked to these experiments has been the status and rights of provinces in a federal system. As the provincial configuration and federating units largely coincided with the ethnic composition of people of each province, the need was always felt to make federalism a reality, not just a constitutional precept to ensure the people of all four provinces felt they were part of an inclusive and fair system.\nPakistan’s troubled history offers a cautionary lesson against altering the provincial structure.\nBut the federal structure and provincial rights have always been contested issues in Pakistan’s history. Contested on many counts. Smaller provinces have long resented Punjab’s political hegemony, sought greater powers and autonomy and felt the distribution of resources has been unfair. Unelected institutions have always preferred a centralised polity while military rule meant the country functioned as a virtual unitary state. Long periods of unrepresentative rule fuelled alienation among the smaller provinces by marginalising them, suppressing regional identities, concentrating power at the centre and weakening federalism.\n    \nThe creation of One Unit in the 1950s, which merged all the provinces of what was then West Pakistan into a single unit, was aimed at creating ‘parity’ with the more populous eastern wing of the country to undercut its numerical majority. This politically motivated project imposed a unitary system and all but destroyed the country’s federal character. It was justified by totally false and frivolous arguments. They included claims it would end “provincial prejudices”, reduce adm­i­nistrative expenses and help develop backward areas. The move had disastrous consequences. It fanned the flames of nationalist and regionalist sentiment in the smaller provinces of West Pak­istan and strengthened centrifugal forces across the country. It contributed to the sense of discrimination among the people of East Pakistan that, along with other factors, found expression in the Bengali nationalist movement and ultimately led to the break-up of Pakistan in 1971.\nThe issue of provincial rights continued to be a source of tensions and contestation. The 1973 Constitution struck a delicate balance between the centre and provinces in a multiethnic state, assured provincial autonomy and enjoined reciprocal obligations between the federating units. Unfortunately, this was observed more in its breach than in its adherence. Opposition-run provincial governments were ousted in the 1970s by prime minister Zulfikar Ali Bhutto. This reinforced a political tradition that began in the early years after independence when provincial governments were summarily dismissed by the central government. This seriously undermined national unity.\nThese and other actions widened interprovincial disparities, deepened alienation among smaller provinces and led to the insurgency in Balochistan in the 1970s. This intensified during the 2000s but their antecedents reached back to the 1950s. The insurgency continues today as a result of monumental mishandling of the province and Baloch sentiment by successive governments. Authoritarian measures also gave a fillip to Pakhtun nationalism, even though over time this waned with the increasing representation of KP in the country’s power elite and bure­aucracy.\n    \nThe troubled history of federalism and provincial tensions in Pakistan offers a cautionary lesson against altering the country’s four ethnically distinct provinces. Past attempts to do that or erode constitutionally guaranteed provincial rights only widened fault lines and created new ones. These efforts were never about better governance or a stronger administrative system. They were about control. They reflected the interests of a ruling elite seeking to entrench political dominance, with little regard for national unity and cohesion. The same logic applies to those in the current hybrid government pushing to create new provinces and fragment existing ones. This is about control, not reform.\nTrue ethnic minorities in some provinces, such as Seraiki speakers in southern Punjab, have long wanted their own province. Some political parties have actively supported this. But the challenge is how to square this with carving out a new unit that could undermine the delicate constitutional balance, spark controversy and encourage others to demand new provinces.\nThe 18th Constitutional Amendment, backed by all parties in 2010, opened a new chapter in provincial empowerment. Over a dozen ministries were devolved from the federal level to the provinces. But this also raised capacity issues and whether provinces could handle the increased fiscal power and resources devolved to them. The fiscal aspect evoked the most criticism. Because with the 2009 National Finance Commission award, the substantial transfer of resources to the provinces left the federal government unable to meet its financial obligations. While this tussle over revenue needs to be resolved and provinces should mobilise their own resources, creating smaller provinces or rolling back the amendment is not the answer.\nIn fact, the rationale for redrawing provincial boundaries remains opaque. This lack of clarity reinforces the impression that the motive is to increase control, not to improve governance. If we want real reform, it’s not by carving out new provinces. It’s by empowering local government.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, August 24th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-GOV",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Numerous political systems - Parliamentary as well as Presidential, have been in vogue in Pakistan with limited success. Draft your own proposed but practical system that would result in good governance of the country."
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs",
-    "topic": "Federalism, Governance, and Constitutional Reforms in Pakistan",
-    "whyMatters": "This article is crucial for understanding the historical failures and contemporary challenges of political systems and administrative reforms in Pakistan. It provides critical arguments and historical precedents necessary for developing a nuanced and practical system of good governance, directly addressing the provided past exam question.",
-    "summary": [
-      "The current hybrid government is fixated on altering Pakistan's provincial structure and multiplying administrative units, driven by control rather than genuine governance improvement.",
-      "Pakistan's history is replete with failed experiments in political systems (parliamentary, presidential, military, hybrid), consistently leading to political instability, with only parliamentary democracy holding broad legitimacy despite its shortcomings.",
-      "Past attempts to alter the provincial structure, notably the One Unit policy, or erode provincial rights, have historically deepened alienation, fueled regionalist sentiments, and contributed to national fragmentation, such as the 1971 break-up and Balochistan insurgency.",
-      "True reform for governance lies in empowering local governments and resolving fiscal issues, rather than redrawing provincial boundaries or rolling back constitutional amendments like the 18th Amendment, which aimed at provincial empowerment."
-    ],
-    "facts": [
-      "The creation of One Unit in the 1950s merged all provinces of West Pakistan to achieve 'parity' with East Pakistan.",
-      "The 1973 Constitution aimed to strike a delicate balance between the centre and provinces, ensuring provincial autonomy in a multiethnic state.",
-      "The 18th Constitutional Amendment, passed in 2010, devolved over a dozen ministries from the federal level to the provinces, marking a new chapter in provincial empowerment."
-    ],
-    "academicReferences": [
-      "1973 Constitution of Pakistan (specifically articles pertaining to federalism and provincial autonomy)",
-      "18th Constitutional Amendment (2010) (devolution of powers and provincial empowerment)",
-      "National Finance Commission (NFC) Award 2009 (pertaining to fiscal transfers to provinces and federal financial obligations)"
-    ],
-    "vocabulary": [
-      {
-        "word": "disingenuous",
-        "type": "adjective",
-        "definition": "not candid or sincere, typically by pretending that one knows less about something than one really does.",
-        "sentence": "The establishment apologists presented disingenuous arguments to justify administrative changes, claiming they would miraculously solve all problems."
-      },
-      {
-        "word": "hegemony",
-        "type": "noun",
-        "definition": "leadership or dominance, especially by one state or social group over others.",
-        "sentence": "Smaller provinces have long resented Punjab's political hegemony and sought greater powers and autonomy."
-      },
-      {
-        "word": "centrifugal",
-        "type": "adjective",
-        "definition": "moving or tending to move away from a center.",
-        "sentence": "The One Unit move had disastrous consequences, fanning the flames of nationalist sentiment and strengthening centrifugal forces across the country."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What does the article identify as the 'only system to command legitimacy and broad support' in Pakistan, despite its unrealized potential for parliamentary supremacy?",
-        "options": [
-          "Parliamentary democracy",
-          "Presidential system",
-          "Direct military rule",
-          "Hybrid model"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'The only system to command legitimacy and broad support is parliamentary democracy,' even while acknowledging that parliamentary supremacy over the executive has never been fully realized."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "According to the article, what has been the consistent outcome of Pakistan's various political system experiments?",
-        "back": "Each switch in political system has only contributed to political instability, with parliamentary democracy being the only system to command broad legitimacy."
-      },
-      {
-        "front": "What was the primary negative consequence of the One Unit policy introduced in the 1950s?",
-        "back": "It fanned nationalist and regionalist sentiment, strengthened centrifugal forces, contributed to discrimination against East Pakistan, and ultimately led to the break-up of Pakistan in 1971."
-      },
-      {
-        "front": "What does the author suggest is the true underlying motive behind current attempts to create new provinces and fragment existing ones?",
-        "back": "The author argues that such attempts are 'about control, not reform,' reflecting the interests of a ruling elite seeking to entrench political dominance."
-      },
-      {
-        "front": "Instead of carving out new provinces, what alternative does the author propose for achieving 'real reform' and improving governance?",
-        "back": "The author suggests that real reform is achieved by empowering local governments."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787620184210-188",
-    "title": "Women’s leadership\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024929/womens-leadership",
-    "date": "2026-08-24",
-    "author": "none@none.com (Usama Khilji)",
-    "content": "PAKISTAN doesn’t fare well on indices related to gender gap and women’s empowerment. The damning statistics include the number of girls who are out of school, the wide gender digital divide, high rates of violence against women, and women’s low representation in private and public leadership positions.\nHowever, over time, there have been significant advances for Pakistani women leaders. Mohammad Ali Jinnah’s sister, Fatima Jinnah, was a key figure in Pakistan’s independence movement. She later became a presidential candidate, derided by the dictator Gen Ayub Khan. When Benazir Bhutto was elected prime minister in 1988, Pakistan became the first Muslim-majority country to be led by a woman. Pakistani women have led movements against dictators, including generals Ayub, Zia and Musharraf. Asma Jahangir was the first woman to be elected president of the Supreme Court Bar Association. Begum Naseem Wali Khan was the first woman to win a general election seat in the country. Justice Ayesha Malik is the first woman Supreme Court judge. Currently, Maryam Nawaz is the first woman chief minister in Pakistan.\n    \nTrans women have also made their mark, with Aisha Mughal being the first to represent a country at a UN session. Recently, Nayyab Ali was nominated for a civilian award by the government.\nBut despite these significant positives, the prosecution of political women in Pakistan is at an all-time high. Several women leaders of the PTI remain behind bars, including the ageing cancer survivor, Dr Yasmin Rashid, who has health issues. Since January, award-winning human rights lawyer Imaan Mazari Hazir has been in jail serving a 17-year sentence for mere tweets. Baloch women have now joined numerous men who have been forcibly disappeared; several remain in jail in politically motivated cases.\nThe prosecution of political women in the country is at an all-time high.\nDo such incarcerations, cases and disappearances send an encouraging message to young girls across Pakistan? Does it motivate reluctant families to send girls to school so they can get an education and start careers? Does it motivate young lawyers to take up cases of the voiceless pro bono? Does it encourage young women to enter politics and do good for the people?\nThe incarcerations reflect a deep-rooted patriarchy that plagues the entire system. Take, for instance, gender-based attacks against women during election campaigns. The Digital Rights Foundation documented at least 163 social media posts in the run-up to the 2024 election that included gendered disinformation against women politicians, and at least 47 posts targeting “journalists covering the elections, subjecting them to gendered insults and online trolling campaigns that included online threats of physical assault”.\nDeepfakes targeting women human rights defenders have become commonplace, with dehumanising content being disseminated online of women that are critical of state policies, with little to no consequences for such actions — despite Section 22 of the Prevention of Electronic Crimes Act that makes edited and non-consensual imagery a crime. Since the 2025 amendment to Peca, the state is an eager complainant against journalists who are critical of it. Whereas the new ability of the state to file cybercrime cases against activists, journalists and politicians is to be condemned and should be reversed; it is worth noting that the state doesn’t take cognisance of instances of harassment and vitriol on social media that lead to crimes against women and children. This includes routine cases of men mercilessly killing women for rejecting their advances and proposals. The victims include women who are public figures on social media platforms as content creators.\nOn Aug 20, former professor and motivational speaker Faisal Asghar Imam was named in the murder case of his wife in their home, and social media was rife with testimonies of him making his students uncomfortable in class and online. The link between online misogyny and physical harm to life must not be taken lightly.\nWhen Peca was being promulgated, those of us who opposed it were labelled anti-women for opposing the law. Today, we see how women are harassed, jailed, and punished including for naming their harassers by the same law meant to protect them.\nThe abuse of the law is not restricted to targeting women who dare to speak truth to power. Human rights lawyer Hadi Ali Chattha is currently serving a 17-year sentence for supporting his wife Imaan Mazari Hazir, with his punishment framed for the “crime” of reposting her tweets. Seemingly, men who support women related to them, they too will be punished.\nIn our geopolitical context, targeting women in the public sphere is particularly alarming. Girls in Afghanistan are not allowed to go to school after Class 6; women are not allowed to leave their house for employment, and they cannot even sing or be heard in public. In Iran, women have been killed for simply opposing the state’s enforcement of head covering rules.\nIn such an environment, it would be a powerful message to the neighbourhood if Pakistan has women in positions of power. Sadly, the current women’s leadership in Pakistan is hardly representative of half the population. There are no women federal ministers, and only one woman minister of state. In Sindh, the PPP that brought us a woman prime minister has only two women cabinet members; while the party’s cabinet in Balochistan has only one woman minister. In KP, the PTI has no women in the cabinet. A woman chief minister leads Punjab, but her cabinet has only two women ministers, with Marriyum Aurangzeb holding six portfolios.\nAs a pluralist federal democracy, at least on paper, Pakistan must move in line with Article 25 of the Constitution that empowers the government to make special provisions to protect women and children, apart from ensuring equal treatment for them. Women political prisoners, along with men, must be released; and women being half the population must be given half of the governing share. We owe this to every young girl in Pakistan.\nThe writer is director of Bolo Bhi, an advocacy forum for digital rights.\nX: @UsamaKhilji\nPublished in Dawn, August 24th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / Gender Studies / Current Affairs",
-    "topic": "Women's Leadership, Empowerment, and Systemic Challenges in Pakistan",
-    "whyMatters": "This article offers a critical analysis of women's leadership in Pakistan, contrasting historical achievements with contemporary systemic hurdles. It provides valuable arguments on legal abuses, constitutional mandates, and social barriers, essential for essays and analytical questions on governance, gender equality, and human rights.",
-    "summary": [
-      "Pakistan exhibits a paradox: a history of pioneering women leaders despite consistently poor rankings on global gender gap and women's empowerment indices.",
-      "There is a troubling rise in the prosecution, incarceration, and disappearance of political women and human rights defenders, which reflects deep-rooted patriarchy within the system.",
-      "This punitive environment, combined with rampant online misogyny and gendered disinformation, actively discourages girls from pursuing education and careers, and women from entering politics.",
-      "The Prevention of Electronic Crimes Act (PECA), intended for protection, is allegedly misused by the state against women critics and their supporters, while failing to address real online harassment and violence against women.",
-      "Current women's representation in federal and provincial cabinets is severely inadequate, contradicting Pakistan's constitutional mandate (Article 25) for equal treatment and special provisions for women."
-    ],
-    "facts": [
-      "Benazir Bhutto's election in 1988 made Pakistan the first Muslim-majority country to be led by a woman.",
-      "The Digital Rights Foundation documented at least 163 social media posts with gendered disinformation against women politicians in the run-up to the 2024 election.",
-      "As of the article's publication, there are no women federal ministers and only one woman minister of state in Pakistan's federal cabinet.",
-      "Human rights lawyer Imaan Mazari Hazir is serving a 17-year sentence for tweets, and her husband Hadi Ali Chattha is also serving a 17-year sentence for reposting her tweets."
-    ],
-    "academicReferences": [
-      "Pakistan Constitution, Article 25 (Equality of Citizens)",
-      "Prevention of Electronic Crimes Act (PECA), 2016 (and 2025 amendment)",
-      "Digital Rights Foundation (DRF) reports on online gender-based violence and disinformation in Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "derided",
-        "type": "verb",
-        "definition": "Expressed contempt for; ridiculed.",
-        "sentence": "She later became a presidential candidate, derided by the dictator Gen Ayub Khan."
-      },
-      {
-        "word": "incarcerations",
-        "type": "noun",
-        "definition": "The state of being confined in prison; imprisonment.",
-        "sentence": "Do such incarcerations, cases and disappearances send an encouraging message to young girls across Pakistan?"
-      },
-      {
-        "word": "cognisance",
-        "type": "noun",
-        "definition": "Knowledge or awareness of something.",
-        "sentence": "it is worth noting that the state doesn’t take cognisance of instances of harassment and vitriol on social media that lead to crimes against women and children."
-      },
-      {
-        "word": "vitriol",
-        "type": "noun",
-        "definition": "Cruel and bitter criticism or abuse.",
-        "sentence": "This includes routine cases of men mercilessly killing women for rejecting their advances and proposals."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary consequence of the increased prosecution of political women in Pakistan?",
-        "options": [
-          "It leads to greater international recognition for Pakistani female leaders.",
-          "It encourages young girls to pursue education and careers in politics.",
-          "It deters young girls from seeking education and discourages women from entering politics.",
-          "It strengthens the rule of law and democratic principles in the country."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that such incarcerations and disappearances do not send an encouraging message and do not motivate reluctant families to send girls to school or for young women to enter politics."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What paradox does the article highlight regarding women's leadership in Pakistan?",
-        "back": "Pakistan has a history of pioneering women leaders but consistently ranks low on global gender gap and women's empowerment indices."
-      },
-      {
-        "front": "How does the article criticize the application of the Prevention of Electronic Crimes Act (PECA)?",
-        "back": "PECA, initially for protection, is misused by the state against women activists and their supporters for critical speech, while failing to address genuine online harassment and violence against women."
-      },
-      {
-        "front": "What is the author's main concern regarding the high rate of prosecution and incarceration of political women?",
-        "back": "It sends a discouraging message to young girls, deterring them from seeking education, starting careers, and entering politics, while also discouraging lawyers from taking pro bono cases."
-      },
-      {
-        "front": "How does the current representation of women in Pakistan's cabinets contradict constitutional mandates?",
-        "back": "Despite Article 25 of the Constitution ensuring equal treatment and provisions for women, current federal and provincial cabinets show severely inadequate female representation, falling short of providing women half of the governing share."
-      }
-    ]
-  },
-  {
-    "id": "curated-1787704443433-23",
-    "title": "‘Grand dialogue’\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2024917/grand-dialogue",
-    "date": "2026-08-24",
-    "author": "none@none.com (Editorial)",
-    "content": "THE country’s top civil and military leaders are absolutely right when they say that dialogue and development are needed to address Balochistan’s crises.\nBut perhaps one should recall that many earlier attempts by the state to bring peace to the province were stalled or remain unimplemented. In order to truly stabilise Balochistan and bring lasting peace to this troubled province, a credible political process must begin, with the state guaranteeing that it will fully implement previous promises, as well as new agreements.\n    \nWhile speaking at the Balochistan National Workshop in Islamabad recently, Prime Minister Shehbaz Sharif called for a “grand, frank and meaningful dialogue” to address the province’s issues. He added that the province’s people had first right over its resources. In a similar vein the chief of defence forces stressed the need for empowering Balochistan’s youth.\nIt is certainly welcome that the rulers see the need to tackle Balochistan’s political problems through dialogue. While kinetic measures are needed to deal with immediate terrorist threats, the underlying factors fuelling discontent can only be handled through a political process. The state must keep in mind previous attempts to address the province’s problems.\nFor example, the PPP government had in 2009 launched the Aghaz-i-Huqooq-i-Balochistan package. Despite the passage of 17 years, many of the package’s key points remain unimplemented. For example, it had proposed releasing political workers, except those involved in heinous crimes. However, over the past few months, we have seen peaceful activists rounded up and thrown in jail. Similarly, the 2009 package had sought to address the province’s socioeconomic woes; suffice it to say, social indicators in Balochistan remain miserable. The PML-N had launched a package of its own in 2015. Much of that scheme also remains unfulfilled. CPEC was similarly supposed to transform the province’s fortunes. It has not.\n    \nInstead of reinventing the wheel, the state must implement what it had promised in these packages. Many of these schemes’ salient points reflect the demands of the province’s nationalist politicians. Therefore, to implement these promises in full, a grand dialogue should bring on board the province’s genuine political leadership, as well as peaceful activists, while a verifiable and transparent mechanism needs to be worked out to help implement previous and new promises.\nThe past few months have seen a sharp spike in terrorist activity in Balochistan. The only sustainable way of addressing the insurgency is to supplement kinetic actions with a genuine political process that can, in the long-term, eliminate the underlying factors that are fuelling discontent.\nPublished in Dawn, August 24th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Pakistan Affairs / Current Affairs / Governance",
-    "topic": "Balochistan Crisis: Dialogue, Development, and State-Province Relations",
-    "whyMatters": "This article provides critical insights into the political and developmental challenges in Balochistan, a frequently tested topic in competitive exams. It equips aspirants with arguments on the necessity of political dialogue, the historical context of failed state initiatives, and the importance of implementing past promises for lasting peace and stability.",
-    "summary": [
-      "Dialogue and development are essential to address Balochistan's crises, as acknowledged by top civil and military leaders.",
-      "Previous state attempts, such as the Aghaz-i-Huqooq-i-Balochistan package (2009) and PML-N's package (2015), largely failed due to a lack of genuine implementation.",
-      "A credible political process, guaranteed by the state, is necessary to stabilize the province, implement past promises, and forge new agreements.",
-      "A 'grand, frank and meaningful dialogue' must engage the province's genuine political leadership and peaceful activists, supported by a transparent implementation mechanism."
-    ],
-    "facts": [
-      "The Aghaz-i-Huqooq-i-Balochistan package was launched in 2009 by the PPP government.",
-      "After 17 years (since 2009), many key points of the Aghaz-i-Huqooq-i-Balochistan package remain unimplemented.",
-      "The PML-N also launched a package in 2015, which similarly remains largely unfulfilled."
-    ],
-    "academicReferences": [
-      "18th Constitutional Amendment (for provincial autonomy and resource distribution)",
-      "7th National Finance Commission (NFC) Award (for fiscal decentralization and provincial share in resources)",
-      "Gwadar Port development under CPEC (relevant for economic transformation and local benefits)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Kinetic",
-        "type": "adjective",
-        "definition": "Relating to or resulting from motion; in a military context, actions involving physical force.",
-        "sentence": "While kinetic measures are needed to deal with immediate terrorist threats, underlying factors require political solutions."
-      },
-      {
-        "word": "Socioeconomic",
-        "type": "adjective",
-        "definition": "Of, relating to, or involving a combination of social and economic factors.",
-        "sentence": "The 2009 package sought to address the province’s socioeconomic woes, but indicators remain miserable."
-      },
-      {
-        "word": "Salient",
-        "type": "adjective",
-        "definition": "Most important or noticeable.",
-        "sentence": "Many of these schemes’ salient points reflect the demands of the province’s nationalist politicians."
-      },
-      {
-        "word": "Insurgency",
-        "type": "noun",
-        "definition": "An organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflict.",
-        "sentence": "The only sustainable way of addressing the insurgency is to supplement kinetic actions with a genuine political process."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following state initiatives aimed at resolving Balochistan's issues is explicitly mentioned as largely unfulfilled despite its launch in 2009?",
-        "options": [
-          "Aghaz-i-Huqooq-i-Balochistan package",
-          "PML-N's 2015 development scheme",
-          "CPEC project for Gwadar",
-          "National Action Plan for security"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article specifically states that the Aghaz-i-Huqooq-i-Balochistan package, launched in 2009 by the PPP government, has many key points that remain unimplemented even after 17 years."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "According to the article, what is the primary reason past state attempts to bring peace to Balochistan have been largely unsuccessful or stalled?",
-        "back": "The primary reason is the non-implementation of previous promises and agreements made by the state."
-      },
-      {
-        "front": "What did Prime Minister Shehbaz Sharif recently call for to address Balochistan's issues?",
-        "back": "He called for a 'grand, frank and meaningful dialogue'."
-      },
-      {
-        "front": "Beyond 'kinetic measures,' what does the article suggest is the only sustainable way to address the underlying factors fueling discontent and insurgency in Balochistan?",
-        "back": "A genuine political process that can, in the long-term, eliminate the underlying factors fuelling discontent."
-      },
-      {
-        "front": "What key stakeholders does the article suggest must be brought on board for a 'grand dialogue' to be effective?",
-        "back": "The province’s genuine political leadership and peaceful activists."
       }
     ]
   }
