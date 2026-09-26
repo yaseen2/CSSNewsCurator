@@ -1,5 +1,845 @@
 [
   {
+    "id": "curated-1790389267346-248",
+    "title": "The value of knowing\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032771/the-value-of-knowing",
+    "date": "2026-09-26",
+    "author": "none@none.com (David WalmsleyLiz CorbinMariya Gabriel)",
+    "content": "WE are not short of information. We have never had more of it. Yet across the world, people struggle to answer the simplest questions: What actually happened? Who decided what? Is it true?\nThis is the paradox of our age. The most connected societies in history are also among the most vulnerable to confusion, manipulation and distrust. Information moves faster than accountability. Algorithms reward outrage before accuracy. Artificial intelligence generates plausible falsehoods at scale. In such an environment, the right to know is not just a matter of transparency; it is the heartbeat of freedom.\nWithout an accurate understanding of what is going on and what is being done in your name, the fog of deceit thickens, and bad actors can mislead with impunity.\nSociety is most vulnerable when access to information is denied. Access Now and the #KeepItOn coalition documented 313 internet shutdowns in 52 countries in 2025, the highest number ever recorded. Shutdowns block journalism, silence communities and deny people potentially life-saving information.\nDisinformation is not just a communications problem. It is a governance risk, an economic liability and a direct threat to people’s ability to make informed decisions.\nAccess to information laws are an anchor of information integrity, and Unesco’s latest monitoring shows progress. Its 2025 survey showed that 141 countries have legal guarantees for access to information. But adoption is not implementation, and many countries still face practical gaps in oversight, appeals, enforcement, record-keeping and data management. Of the countries surveyed, 51 could not provide record-keeping data, despite reporting they had systems or procedures in place.\nInformation commissioners and other overseers turn legal provisions into enforceable rights. Yet many of them are hampered by weak mandates, delayed appointments, budget cuts, political interference, limits on their powers and attacks on their independence. For access to information to work, these bodies must be protected by law, given adequate powers and resources, and shielded from undue influence.\nThe gap was further confirmed by a 2025 test of access to information laws, jointly conducted by Unesco and the Centre for Law and Democracy. Across 146 identical requests in 76 countries, 38 per cent received no substantive response, only 42pc resulted in full disclosure, and the average response time was 22 days. A similar exercise will be repeated this year to measure any change.\nAccess to information has to evolve, but examples of the shortcomings are everywhere, even in countries with well-intentioned legislation.\nAnd in an information vacuum, brave and independent journalism is indispensable. Journalism distils information into public understanding. It investigates, interrogates, corroborates and contextualises, but it also counters disinformation. It asks questions that some parties would rather avoid. And it gives citizens the means to participate meaningfully in public life.\nThe damage caused by disinformation is real. Unesco estimates that individual disinformation cases can incur economic and social costs of $350 billion to $510bn, annually, through weakened public health responses, distorted elections, delayed climate action, financial losses, reputational harm and the erosion of trust in institutions. Disinformation is therefore not just a communications problem. It is a governance risk, an economic liability and a direct threat to people’s ability to make informed decisions.\nPublic service broadcasters and independent news media organisations are a key counterweight to this problem. Their mandate is not to chase engagement at any cost, but to inform and serve all audiences. But they face the simultaneous pressures of fragmented audiences, declining trust, political interference, financial constraints, platform dependency and rampant false, synthetic and manipulated content. Their struggle to keep producing quality journalism is not a sectoral concern, it’s a democratic one.\nThe response must include renewed investment in public-interest journalism, editorial independence, fact-checking, open-source verification, media and information literacy, and collaboration across borders. Just as falsehoods travel globally, so purveyors of trusted journalism must cooperate transnationally.\nThe information ecosystem would be poorer and much more fragile without public service media — but they cannot defend it alone.\nOn World News Day and the International Day for Universal Access to Information, the challenge is practical, and we call on all actors in the information space to do better:\n— Governments must enforce access to information laws and protect independent oversight.\n— Platforms and technology companies must take full responsibility for the information spaces they create, in total alignment with international human rights law.\n— And media organisations of all stripes should always choose rigour over reach. \nFree-flowing, reliable information is a shared benefit. But it depends on the authorities that protect access to information, journalists who pursue the truth above all else, and citizens’ right to the facts. The integrity dividend is real, but it is only paid when all of us play our part. \nDavid Walmsley is president, World Editors Forum, and editor in chief, Globe and Mail. \nMariya Gabriel is assistant director-general for Communication and Information at Unesco. \nLiz Corbin is director of news, European Broadcasting Union. This opinion piece was commissioned to mark the International Day for Universal Access to Information and World News Day on Sept 28.\nPublished in Dawn, September 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Current Affairs / Governance",
+    "topic": "Information Integrity, Disinformation, and Democratic Governance",
+    "whyMatters": "This article highlights the critical nexus between information access, disinformation, and democratic health, offering crucial insights for essays on governance, media, and public policy. It provides specific data and policy recommendations essential for a nuanced understanding of contemporary global challenges in the information age.",
+    "summary": [
+      "The paradox of the information age is an abundance of data coexisting with widespread confusion and vulnerability to manipulation.",
+      "Access to information, though legally guaranteed in many countries, faces significant practical gaps, internet shutdowns, and hindrances to oversight bodies.",
+      "Disinformation poses a severe governance risk, economic liability, and direct threat to informed decision-making, incurring hundreds of billions in annual costs.",
+      "Independent journalism, robust legal frameworks for information access, and responsible technology companies are indispensable for countering disinformation and fostering a healthy information ecosystem."
+    ],
+    "facts": [
+      "Access Now and the #KeepItOn coalition documented 313 internet shutdowns in 52 countries in 2025, the highest number ever recorded.",
+      "Unesco's 2025 survey showed that 141 countries have legal guarantees for access to information.",
+      "A 2025 Unesco/Centre for Law and Democracy test found that 38% of identical information requests in 76 countries received no substantive response, and only 42% resulted in full disclosure.",
+      "Unesco estimates individual disinformation cases can incur economic and social costs of $350 billion to $510 billion annually."
+    ],
+    "academicReferences": [
+      "Unesco's Global Report series on Access to Information.",
+      "International Covenant on Civil and Political Rights (Article 19, Right to Freedom of Opinion and Expression).",
+      "Reports by Access Now and the #KeepItOn coalition on internet shutdowns.",
+      "Universal Declaration of Human Rights (Article 19)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Paradox",
+        "type": "noun",
+        "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+        "sentence": "This is the paradox of our age. The most connected societies in history are also among the most vulnerable to confusion, manipulation and distrust."
+      },
+      {
+        "word": "Accountability",
+        "type": "noun",
+        "definition": "The fact or condition of being accountable; responsibility.",
+        "sentence": "Information moves faster than accountability."
+      },
+      {
+        "word": "Impunity",
+        "type": "noun",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "Without an accurate understanding of what is going on and what is being done in your name, the fog of deceit thickens, and bad actors can mislead with impunity."
+      },
+      {
+        "word": "Indispensable",
+        "type": "adjective",
+        "definition": "Absolutely necessary.",
+        "sentence": "And in an information vacuum, brave and independent journalism is indispensable."
+      },
+      {
+        "word": "Corroborates",
+        "type": "verb",
+        "definition": "Confirm or give support to (a statement, theory, or finding).",
+        "sentence": "It investigates, interrogates, corroborates and contextualises, but it also counters disinformation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is described as the 'paradox of our age' in the article?",
+        "options": [
+          "Societies are less connected despite technological advancements.",
+          "Information abundance leads to widespread confusion and vulnerability.",
+          "Artificial intelligence primarily generates accurate information.",
+          "Accountability moves faster than information."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'The most connected societies in history are also among the most vulnerable to confusion, manipulation and distrust,' highlighting the paradox of information abundance leading to confusion."
+      },
+      {
+        "question": "According to Unesco's 2025 survey, how many countries have legal guarantees for access to information?",
+        "options": [
+          "52",
+          "76",
+          "141",
+          "313"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'Its 2025 survey showed that 141 countries have legal guarantees for access to information.'"
+      },
+      {
+        "question": "What are the estimated annual economic and social costs incurred by individual disinformation cases, according to Unesco?",
+        "options": [
+          "$50 billion to $100 billion",
+          "$150 billion to $200 billion",
+          "$350 billion to $510 billion",
+          "$700 billion to $1 trillion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Unesco estimates that individual disinformation cases can incur economic and social costs of $350 billion to $510bn, annually.'"
+      },
+      {
+        "question": "Which of the following is NOT identified as a pressure faced by public service broadcasters and independent news media organizations?",
+        "options": [
+          "Fragmented audiences",
+          "Declining trust",
+          "Increased government funding",
+          "Political interference"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article lists 'fragmented audiences, declining trust, political interference, financial constraints, platform dependency and rampant false, synthetic and manipulated content' as pressures. Increased government funding is not listed; rather, 'financial constraints' implies the opposite."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary challenge faced by societies despite the unprecedented availability of information, according to the article?",
+        "back": "The paradox where abundant information leads to increased confusion, manipulation, and distrust, making societies vulnerable."
+      },
+      {
+        "front": "Besides communication, what other critical risks does disinformation pose?",
+        "back": "Disinformation is a governance risk, an economic liability, and a direct threat to people’s ability to make informed decisions."
+      },
+      {
+        "front": "What specific obstacles hinder the effective implementation of access to information laws, even where legal guarantees exist?",
+        "back": "Practical gaps in oversight, appeals, enforcement, record-keeping, and data management, alongside weak mandates, budget cuts, and political interference for oversight bodies."
+      },
+      {
+        "front": "What are the three main calls to action for different actors in the information space to ensure free-flowing, reliable information?",
+        "back": "Governments must enforce access to information laws and protect oversight; platforms must take responsibility aligned with human rights law; and media organizations must choose rigor over reach."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389431242-957",
+    "title": "Discussions on terrorism\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032772/discussions-on-terrorism",
+    "date": "2026-09-26",
+    "author": "none@none.com (Ahmed Bilal Mehboob)",
+    "content": "WHILE visiting the British parliament a few years ago, I was struck by the tradition —observed by prime ministers — of paying homage and expressing gratitude at the start of the weekly question time session to British armed forces personnel who had been killed or injured in action. It was the time of the Afghan war and British troops were stationed in Afghanistan. I thought it was a great tradition that reminded everyone of the sacrifices made by the soldiers and sent a powerful message to the troops that their countrymen had the highest regard for them and their sacrifices. \nAlthough Pakistan follows the British parliamentary system, almost all Pakistani prime ministers have avoided personally answering questions in parliament. As prime minister, Yousuf Raza Gilani used to answer many supplementary questions himself when he was in the House — but that was not a part of the set parliamentary procedure. Imran Khan had promised to follow this British tradition when he was prime minister and personally answer questions. However, he neither tried to change the parliamentary rules nor did he ever answer any questions in parliament.\nBoth Houses and the provincial assemblies observe question hour but there is no parliamentary tradition of routinely acknowledging the sacrifices of the country’s shuhda and ghazis. The president, prime minister, ministers and senior civil and military officers do issue statements, and legislatures occasionally pass resolutions honouring those fighting a bloody war against terrorism; but the possibility of a weekly tribute did cross my mind. After all, hardly a day passes without hearing of security personnel — in the armed forces, paramilitaries, police and other security bodies — who have lost their lives in the line of duty.\nWe need committees that are more active in debating national security.\nAlmost all sources of information show that the number of violent terrorist incidents, casualties and fatalities in Pakistan have reached their highest level in a decade. In fact, 2025 was the bloodiest year since 2014. According to the South Asian Terrorism Portal, the number of violent terrorist incidents in 2025 was 1,077 with fatalities among the forces and civilians touching 1,229 and 655 respectively during the year. The data gathered for 2026 points to even higher figures when compared to the average monthly figures for 2025. For example, the number of terrorism incidents increased to a monthly average of 118, compared to 90 in 2025. Similarly, average monthly fatalities of civilian and security forces personnel in the first nine months of 2026 (up to Sept 21) have increased to 74 from 55 last year and to 114 from 102, respectively. These figures indicate a steep spike in attacks, particularly carried out by two major terrorist groups that the state aptly refers to as Fitna al-Khawarij and Fitna al-Hindustan.\nWe do not see the level of concern and debate within democratic institutions that is warranted by the rise in acts of terrorism. We have four key standing committees relating to the issue in parliament — separate Senate and National Assembly standing committees on defence and two other committees of the Senate and National Assembly on the interior. In addition, each of the four provincial assemblies has a standing committee on home affairs. Whatever little record is available on these legislatures’ official websites does not indicate that the committees have been often and actively debating the rising incidence of terrorism in the country — especially in KP and Balochistan —in detail, which should have been done in view of the situation.\nThe plenaries of the six national and provincial legislatures have debated the issue on and off, and passed resolutions too. I am sure that more frequent discussions in the legislative bodies would not only contribute to finding more effective ways in which the menace of terrorism can be combated at the people’s level, but the attention given by the legislators to this issue would further boost security personnel’s morale. In 2019, the Speaker of the National Assembly had constituted a joint (National Assembly and Senate) committee on national security under his own chairmanship and included the senior-most parliamentarians and ministers. But since the last election in 2024, the committee has apparently ceased to exist. It doesn’t necessarily mean that we need a parliamentary committee on national security while the committees on defence and interior already exist. However, what we need are committees that are more active in debating national security.  \nThe public should be confident that national security issues are being discussed and timely decisions being made at the appropriate forum. In this context, it is difficult to understand the relatively inactive state of the National Security Committee, which was created in 2013. The Committee, which brings together the top civil and military leadership under the chairmanship of the prime minister, has not met even once during the current calendar year. Given the prevailing circumstances and the mandate of the NSC, it should meet more regularly, preferably on a monthly basis. Just for comparison, Britain’s National Security Council meets every week under the prime minister although the UK has far fewer security issues than Pakistan.\nIt is hoped that the National Counter Terrorism Authority — a very important body especially in the present context — will not only become more active under its new national coordinator Maj-Gen Faisal Naseer but will also attempt to raise its public profile by, for example, sharing at least a sanitised version of the progress on the implementation of the National Action Plan with the people, their representatives and the media. Extending its outreach will bolster public trust.  \nThe writer is president of the Pakistan-based think tank Pildat.      \npresident@pildat.org            \nX: @ABMPildat           \nPublished in Dawn, September 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Pakistan Affairs / Current Affairs",
+    "topic": "Rising Terrorism in Pakistan and Institutional Inactivity",
+    "whyMatters": "This article provides critical, up-to-date data on the surge in terrorism in Pakistan and offers a sharp critique of the institutional response. Competitive exam students can use its facts and arguments to analyze national security challenges and propose governance reforms.",
+    "summary": [
+      "Pakistan lacks the parliamentary tradition of regularly acknowledging the sacrifices of its security personnel, unlike the British system which pays homage to fallen soldiers.",
+      "Violent terrorist incidents and fatalities in Pakistan have reached a decade-high in 2025-2026, with a steep spike attributed to groups like Fitna al-Khawarij and Fitna al-Hindustan.",
+      "Despite the escalating terrorism, parliamentary standing committees on defence, interior, and home affairs, along with the National Security Committee (NSC), are criticized for their inadequate and inactive engagement on the issue.",
+      "The author advocates for more active parliamentary committees, regular meetings of the NSC, and for the National Counter Terrorism Authority (NACTA) to enhance its public profile and share progress on the National Action Plan (NAP)."
+    ],
+    "facts": [
+      "In 2025, Pakistan experienced 1,077 violent terrorist incidents, resulting in 1,229 fatalities among forces and 655 civilian fatalities.",
+      "The monthly average of terrorism incidents increased to 118 in the first nine months of 2026, up from 90 in 2025.",
+      "Average monthly fatalities for civilian and security forces personnel increased to 74 and 114 respectively in 2026 (up to Sept 21), compared to 55 and 102 in 2025."
+    ],
+    "academicReferences": [
+      "Christine Fair's 'Fighting to the End: The Pakistan Army's Way of War'",
+      "National Action Plan (NAP) 2014 (Pakistan's Counter-Terrorism Strategy)",
+      "UN Security Council Resolutions on Counter-Terrorism (e.g., UNSCR 1373, UNSCR 1267)"
+    ],
+    "vocabulary": [
+      {
+        "word": "homage",
+        "type": "noun",
+        "definition": "special honor or respect shown publicly.",
+        "sentence": "WHILE visiting the British parliament a few years ago, I was struck by the tradition —observed by prime ministers — of paying homage and expressing gratitude at the start of the weekly question time session to British armed forces personnel who had been killed or injured in action."
+      },
+      {
+        "word": "plenaries",
+        "type": "noun",
+        "definition": "meetings or sessions attended by all members of a body or group.",
+        "sentence": "The plenaries of the six national and provincial legislatures have debated the issue on and off, and passed resolutions too."
+      },
+      {
+        "word": "menace",
+        "type": "noun",
+        "definition": "a person or thing that is likely to cause harm; a threat or danger.",
+        "sentence": "I am sure that more frequent discussions in the legislative bodies would not only contribute to finding more effective ways in which the menace of terrorism can be combated at the people’s level, but the attention given by the legislators to this issue would further boost security personnel’s morale."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the trend of violent terrorist incidents and fatalities in Pakistan from 2025 to 2026, according to the article?",
+        "options": [
+          "A) A steady decline in both incidents and fatalities.",
+          "B) A significant surge, reaching the highest level in a decade.",
+          "C) Stagnation with minor fluctuations in terrorist activity.",
+          "D) A shift in focus to non-violent forms of extremism."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that the number of violent terrorist incidents, casualties, and fatalities have reached their highest level in a decade, indicating a significant surge."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What British parliamentary tradition does the author suggest Pakistan adopt regarding acknowledgment of security personnel's sacrifices?",
+        "back": "The tradition of prime ministers paying homage and expressing gratitude at the start of weekly question time sessions to armed forces personnel killed or injured in action."
+      },
+      {
+        "front": "According to the article, identify two major terrorist groups responsible for the recent spike in attacks in Pakistan.",
+        "back": "Fitna al-Khawarij and Fitna al-Hindustan."
+      },
+      {
+        "front": "What criticism does the author level against Pakistan's parliamentary committees (defence, interior, home affairs) and the National Security Committee (NSC) concerning the rise in terrorism?",
+        "back": "They are largely inactive or not sufficiently debating the rising incidence of terrorism, with the NSC not meeting even once during the current calendar year despite its mandate."
+      },
+      {
+        "front": "What specific actions are recommended for the National Counter Terrorism Authority (NACTA) to bolster public trust and combat terrorism more effectively?",
+        "back": "Become more active, raise its public profile, and share at least a sanitized version of the progress on the implementation of the National Action Plan (NAP) with the public, their representatives, and the media."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389514315-362",
+    "title": "Disposable humans\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032766/disposable-humans",
+    "date": "2026-09-26",
+    "author": "none@none.com (Editorial)",
+    "content": "DESCENDING into dirt, disease and uncertainty for a living is inhuman. Sanitation workers — the pillars of urban hygiene — often perish as poisonous gases fill their lungs. In eight months, 26 have died across the country. Karachi recorded eight losses, with 18 in Punjab. None of the workers were Muslim. In Pakistan, discrimination takes many forms. Among its most shameful manifestations have been job advertisements for sewerage management and garbage disposal. These have humiliated scores of underprivileged citizens with their ‘only Christians and Hindus may apply’ criteria — a practice banned by the Islamabad High Court. The Amnesty International and the Centre for Law & Justice report last year also highlighted the bigotry that stigmatises an essential service and creates social marginalisation. The call to do away with this practice at the recent Citizens Commission for Equality and Human Rights conference in Karachi deserves support. Compensation cannot persist as an escape for the government. \nThe situation has remained unchanged for years. The lack of protective gear and no health cover or stable employment mean we are normalising ‘disposability’ of vulnerable segments. The government is obligated under the Universal Declaration of Human Rights and domestic labour laws to provide safe working conditions for the people. Manual scavenging violates fundamental freedoms and strips away human dignity, besides exposing the state’s utter disregard for its constitutional duties. In an age when modern machinery makes urban hygiene possible, why should individuals be made to risk their health and lives by descending into gutters? Those in power must be made to answer for the illness, harm and deaths inflicted on those who live on the fringes of society. Sadly, the deaths of workers who risk life and limb to make our environment livable are a reminder of our lost humanity.\nPublished in Dawn, September 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs / Sociology / Human Rights",
+    "topic": "Labour Rights, Social Inequality, and Human Rights Violations in Pakistan",
+    "whyMatters": "This article critically exposes systemic human rights violations and deep-seated social discrimination against sanitation workers in Pakistan. Citing it demonstrates an aspirant's awareness of pressing social justice issues, governmental accountability, and the state's failure to uphold constitutional and international obligations, making it highly relevant for essays and analytical questions.",
+    "summary": [
+      "Sanitation workers in Pakistan face hazardous, life-threatening conditions, leading to numerous deaths from poisonous gases, highlighting a grave human rights crisis.",
+      "Institutionalized discrimination, evident in job advertisements explicitly excluding Muslims, targets vulnerable religious minorities for these dangerous jobs, despite being legally banned.",
+      "The government implicitly normalizes the 'disposability' of these workers by neglecting to provide basic safety gear, health coverage, or stable employment.",
+      "The state's failure to eradicate manual scavenging and ensure safe working conditions constitutes a violation of domestic labour laws, constitutional duties, and international human rights commitments like the UDHR."
+    ],
+    "facts": [
+      "26 sanitation workers died in 8 months across the country (8 in Karachi, 18 in Punjab).",
+      "None of the deceased workers were Muslim, indicating a pattern of discrimination.",
+      "An Amnesty International and Centre for Law & Justice report last year highlighted the bigotry and stigmatization faced by sanitation workers."
+    ],
+    "academicReferences": [
+      "Amnesty International and Centre for Law & Justice Report (a key reference point for discussing discrimination against sanitation workers in Pakistan).",
+      "Universal Declaration of Human Rights (UDHR) - specifically Articles 3 (right to life), 23 (right to just and favourable conditions of work), and 25 (right to a standard of living adequate for health and well-being).",
+      "International Labour Organization (ILO) Conventions, particularly C155 on Occupational Safety and Health and C111 on Discrimination (Employment and Occupation)."
+    ],
+    "vocabulary": [
+      {
+        "word": "descending",
+        "type": "verb",
+        "definition": "moving or falling downwards.",
+        "sentence": "Descending into dirt, disease and uncertainty for a living is inhuman."
+      },
+      {
+        "word": "stigmatises",
+        "type": "verb",
+        "definition": "to describe or regard (something, such as a characteristic or group of people) in a way that shows strong disapproval.",
+        "sentence": "The bigotry that stigmatises an essential service creates social marginalisation."
+      },
+      {
+        "word": "marginalisation",
+        "type": "noun",
+        "definition": "the treatment of a person, group, or concept as insignificant or peripheral.",
+        "sentence": "The bigotry that stigmatises an essential service and creates social marginalisation."
+      },
+      {
+        "word": "disposability",
+        "type": "noun",
+        "definition": "the quality of being available to be discarded after use; the state of being easily discarded.",
+        "sentence": "The lack of protective gear and no health cover or stable employment mean we are normalising ‘disposability’ of vulnerable segments."
+      },
+      {
+        "word": "bigotry",
+        "type": "noun",
+        "definition": "intolerance toward those different from oneself, especially in matters of opinion, creed, or race.",
+        "sentence": "The Amnesty International and the Centre for Law & Justice report last year also highlighted the bigotry that stigmatises an essential service."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What specific practice mentioned in the article exemplifies institutionalized discrimination against sanitation workers in Pakistan?",
+        "options": [
+          "A) Lower wages for non-Muslim workers.",
+          "B) Job advertisements stating 'only Christians and Hindus may apply'.",
+          "C) Exclusion from health insurance schemes.",
+          "D) Denial of stable employment contracts."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Among its most shameful manifestations have been job advertisements for sewerage management and garbage disposal. These have humiliated scores of underprivileged citizens with their ‘only Christians and Hindus may apply’ criteria.' This is a direct example of institutionalized discrimination."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article link the deaths of sanitation workers to a broader societal issue of 'lost humanity'?",
+        "back": "The article argues that the deaths of workers who risk their lives to make environments livable are a stark reminder of society's lost humanity, implying a collective failure to value and protect vulnerable lives."
+      },
+      {
+        "front": "According to the article, what key failures of the government contribute to the 'disposability' of vulnerable segments like sanitation workers?",
+        "back": "The government's failures include the lack of protective gear, no health cover, unstable employment, and relying on compensation as an escape rather than ensuring safe working conditions."
+      },
+      {
+        "front": "What legal and ethical obligations does the article highlight the Pakistani state is failing to uphold regarding manual scavenging?",
+        "back": "The state is failing its obligations under the Universal Declaration of Human Rights and domestic labour laws to provide safe working conditions, as manual scavenging violates fundamental freedoms and strips away human dignity."
+      },
+      {
+        "front": "What is the core argument presented against the persistence of manual scavenging in modern times?",
+        "back": "The core argument is that in an age when modern machinery makes urban hygiene possible, there is no justification for individuals to risk their health and lives by descending into gutters."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389352221-513",
+    "title": "India’s killer tourists\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032769/indias-killer-tourists",
+    "date": "2026-09-26",
+    "author": "none@none.com (Rafia Zakaria)",
+    "content": "THE date was January 2024, and Israel’s destruction of Gaza was underway for all to see. Among the Israeli soldiers demolishing Palestinian homes was a man named Eitan Gilboa. In videos obtained by the Hind Rajab Foundation, which analyses publicly available data to identify Israeli soldiers it alleges are implicated in war crimes, Gilboa and his unit can be seen detonating residential buildings and celebrating their destruction. The foundation alleges that in June of the same year, Gilboa was in Rafah ordering the demolition of multiple buildings and in July was involved in another demolition. It argues that Gilboa’s actions — and the actions of thousands of Israeli soldiers who took part in similar mayhem — are in violation of the Fourth Geneva Convention.\nWhere do these Israeli war criminals go to ‘rest’ after destroying the lives of innocent Palestinians? Many go to India, following a backpacking route so well known for hosting Israeli soldiers that it is called the ‘Hummus Trail’. It stretches through destinations like Kasol and the Parvati Valley, Dharamkot and Tosh in Himachal Pradesh and on to places like Pushkar in Rajasthan, and Goa. Around 80,000 Israeli soldiers are said to travel there annually.\nThis is also where Gilboa went. The path of guest houses frequented by Israeli travellers is well established and Indians have gone through a lot of trouble to accommodate them. Attractions include raves where visitors can lose themselves in trance music and drugs. \nSo established is this trade in providing peace and ‘healing’ that one writer called towns on the Hummus Trail the “ashrams for war criminals”. Dharamsala even boasts of a ‘mini-Israel’, where shopkeepers speak Hebrew and serve Israeli food. In 2015, a cafe in Kasol was accused of refusing to serve Indian customers while admitting white tourists. \nIsraeli soldiers reviled in other parts are welcome in India.\nThe most important thing that India provides is absolution. Here, Israeli soldiers condemned and excoriated in most other parts of the world, are welcome. They can partake of a commercialised, tourist-friendly mix of ‘healing’ from the trauma of war, without having to take accountability for their actions in Gaza.\nGilboa was no different. The Hind Rajab Foundation analysed photographs and other material from his Indian journey and filed complaints with the Himachal police, the home ministry and the Bureau of Immigration seeking his arrest. No arrest followed and Gilboa eventually left India.\nIndia’s ties with Israel run deep and increasingly point to an ideological, economic and military alignment. Hindutva’s founder Vinayak Damodar Savarkar praised the idea of a Jewish state in Palestine, describing Palestine as the Jews’ “Fatherland and Holyland”. Zionism’s blend of attachment to a motherland and religious attachment to a holy land was precisely what Savarkar wanted for Hindus.\nModi’s India in this sense is like Zionist Israel. India’s Citizenship Amendment Act created an expedited route to citizenship for specified non-Muslim migrants from neighbouring countries while excluding Muslims from its provisions. Israel’s 2018 nation-state law similarly privileged Jewish national identity by declaring that the right to national self-determination in Israel is unique to the Jewish people. \nIn contemporary India, the state supports these Israeli enclaves on the Hummus Trail even as it punishes people for expressing their support for Palestinians. An editorial published in The Edict, a newspaper at Ashoka University, noted how eager Hin­­dutva supporters want to fraternise with Israeli tourists, imagining their sha­red hostility tow­ards Muslims as a natural alignment, while some Israeli travellers treat br­­own Indians as les­ser locals there to serve them. In Pu­­shkar, The Edict re­­ported that the Chabad House has Hebrew signage and a perimeter fence, with Indians facing restrictions on entry while white tourists were admitted with less scrutiny.\nSo India welcomes Israeli soldiers on their ‘healing journeys’, including those facing allegations of war crimes. The Indian state — as evidenced by Prime Minister Narendra Modi’s eager embrace of Israeli officials — is keen to emphasise the closeness of the two countries. In his speech at the Knesset, Modi even peddled yoga and ayurveda as sources of holistic wellness that Israelis could partake in when they visited India.\nThis, then, is the tale of two hatreds. Men like Eitan Gilboa, accused of participating in the destruction of civilian homes, can leave Gaza and seek succour in a new environment where they can forget the cruelties of war. Hosting those accused of such acts without demanding accountability raises its own moral questions, but this is a truth that India, drowning in its own hatreds, appears unable to acknowledge.  \nThe writer is an attorney teaching constitutional law and political philosophy. \nrafia.zakaria@gmail.com\nPublished in Dawn, September 26th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Current Affairs / International Relations",
+    "topic": "India-Israel Relations, Geopolitics, and International Law",
+    "whyMatters": "While this article is not relevant to the specific past exam question on ECO and Pakistan's regional integration, it is crucial for competitive exam students to understand contemporary geopolitical alignments, international law pertaining to war crimes, and the evolving dynamics of India's foreign policy and its ideological underpinnings.",
+    "summary": [
+      "The article details allegations against Israeli soldiers, such as Eitan Gilboa, for committing war crimes in Gaza, including the demolition of residential buildings.",
+      "India, particularly its 'Hummus Trail' destinations, serves as a popular backpacking route for approximately 80,000 Israeli soldiers annually, providing a space for 'healing' without accountability.",
+      "A deep ideological, economic, and military alignment exists between India and Israel, rooted in shared nationalist principles like Hindutva and Zionism, exemplified by their respective discriminatory citizenship/nation-state laws.",
+      "India's state apparatus allegedly supports these Israeli enclaves while simultaneously suppressing pro-Palestinian sentiments, raising significant moral questions about accountability for alleged war criminals."
+    ],
+    "facts": [
+      "Eitan Gilboa is alleged by the Hind Rajab Foundation to have detonated residential buildings in Gaza in January 2024, and ordered further demolitions in June and July 2024.",
+      "Around 80,000 Israeli soldiers are reported to travel annually to India's 'Hummus Trail', which includes destinations like Kasol, Parvati Valley, Dharamkot, Tosh, Pushkar, and Goa.",
+      "India's Citizenship Amendment Act (CAA) and Israel's 2018 nation-state law are cited as examples of legislation privileging a specific national/religious identity while excluding others."
+    ],
+    "academicReferences": [
+      "Fourth Geneva Convention (relevant to protection of civilians and war crimes)",
+      "Rome Statute of the International Criminal Court (framework for prosecuting war crimes, crimes against humanity, genocide)",
+      "International Humanitarian Law (IHL) Principles (fundamental rules governing armed conflict)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Excoriated",
+        "type": "verb",
+        "definition": "To criticize severely; to express strong disapproval of.",
+        "sentence": "The politician was excoriated by the media for his controversial remarks."
+      },
+      {
+        "word": "Absolution",
+        "type": "noun",
+        "definition": "A formal declaration of forgiveness of sin, guilt, or punishment.",
+        "sentence": "Many seek absolution for their past mistakes through acts of charity."
+      },
+      {
+        "word": "Fraternise",
+        "type": "verb",
+        "definition": "To associate or form a friendship with someone, especially with an enemy or someone forbidden.",
+        "sentence": "The new recruits were warned not to fraternise with known agitators."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the 'Hummus Trail' primarily known for in India, according to the article?",
+        "options": [
+          "A backpacking route frequented by Israeli soldiers",
+          "A famous culinary festival",
+          "A historical trade route for spices",
+          "A spiritual pilgrimage for locals"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states that the 'Hummus Trail' is a backpacking route so well known for hosting Israeli soldiers that it is named after them."
+      },
+      {
+        "question": "Which international convention does the Hind Rajab Foundation allege Eitan Gilboa's actions violate?",
+        "options": [
+          "The Fourth Geneva Convention",
+          "The Kyoto Protocol",
+          "The Vienna Convention on Diplomatic Relations",
+          "The Universal Declaration of Human Rights"
+        ],
+        "answerIndex": 0,
+        "explanation": "The foundation argues that Gilboa’s actions are in violation of the Fourth Geneva Convention, which protects civilians in times of war."
+      },
+      {
+        "question": "What ideological alignment is drawn between Modi's India and Zionist Israel in the article?",
+        "options": [
+          "Both privilege a specific national/religious identity through legislation.",
+          "Both are democratic socialist states.",
+          "Both are secular states promoting multiculturalism.",
+          "Both have historically opposed Western alliances."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states that both India's CAA and Israel's 2018 nation-state law similarly privilege a specific national/religious identity, indicating an ideological alignment."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary criticism leveled against India for hosting Israeli soldiers on the 'Hummus Trail'?",
+        "back": "India is criticized for providing 'absolution' and a space for 'healing' to alleged war criminals without demanding accountability for their actions in Gaza."
+      },
+      {
+        "front": "How does the article link India's Citizenship Amendment Act (CAA) to Israel's 2018 nation-state law?",
+        "back": "Both laws are presented as examples of privileging a specific national/religious identity (non-Muslim migrants/Jewish people, respectively) while excluding others, reflecting a shared ideological alignment."
+      },
+      {
+        "front": "What actions is Eitan Gilboa, a named Israeli soldier, accused of according to the Hind Rajab Foundation?",
+        "back": "He is accused of detonating residential buildings and ordering demolitions of multiple buildings in Gaza in violation of the Fourth Geneva Convention."
+      },
+      {
+        "front": "What specific accusation was made against a cafe in Kasol on the 'Hummus Trail' in 2015?",
+        "back": "The cafe was accused of refusing to serve Indian customers while admitting white tourists, highlighting a discriminatory aspect of these enclaves."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389595886-171",
+    "title": "Safeguarding and harnessing AI\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032521/safeguarding-and-harnessing-ai",
+    "date": "2026-09-25",
+    "author": "none@none.com (Shahid Ahmed MallickAftab Ahmad Khokher)",
+    "content": "THE launch of the World Artificial Intelligence Cooperation Organisation in Shanghai on July 16, 2026, may mark an important moment in global AI governance. Initiated by China, the body aims to promote cooperation and keep AI beneficial, safe and fair. It has attracted 29 countries, mostly from the Global South, and is expected to grow. To become globally effective, WAICO must broaden its membership across North and South and evolve into a genuinely multilateral institution. President Xi Jinping summarised its ambition: AI development, he said, should not be “a solo performance by a single country, but a symphony of international cooperation”.\nWAICO emerges amid a technological dilemma. Like nuclear technology, AI promises major benefits but also raises fears of misuse, instability and harm. The new organisation’s task is not simply to control AI, but to also manage risks while widening access to benefits without discrimination. Its founders should therefore study the International Atomic Energy Agency (IAEA), which faced a similar challenge almost seven decades ago.\nThe atomic bomb demonstrated that nuclear technology could transform the strategic balance between nations and threaten civilisation; the same science also offered advances in medicine, agriculture, industry and energy. The challenge was to prevent destructive applications and share peaceful benefits. President Dwight Eisenhower’s ‘Atoms for Peace’ address to the UN General Assembly in 1953 proposed an international agency to make nuclear technology available for peaceful purposes “for the benefit of all mankind”. His initiative led to the IAEA’s creation in 1957.\nThe IAEA was never merely a nuclear policeman. Its statute covered peaceful applications, scientific exchange, training, safeguards and safety standards. Its founding principle was to make nuclear technology safer without denying humanity its benefits — a central lesson for WAICO. Safeguards became a core IAEA function, assuring states that civilian nuclear materials and activities were not diverted to military purposes. After the 1968 Nuclear Non-Proliferation Treaty, they became central to the global non-proliferation regime. Yet the Agency also helped countries acquire knowledge, train personnel, build infrastructure and use nuclear science peacefully. An organisation that only prohibits will meet resistance; one that also advances legitimate development creates stronger cooperation.\nThe IAEA’s institutional logic offers five useful lessons for the World Artificial Intelligence Cooperation Organisation.\nThe IAEA developed complementary roles in verification, peaceful uses, technical cooperation, safety and security. As nuclear technology spread, countries needed not only non-proliferation controls but also secure materials, safe operations, capable regulators, trained personnel and strong national institutions.\nAI can transform healthcare, education, agriculture, energy, manufacturing, public administration and research, helping developing countries overcome barriers. Yet it also brings job displacement, misinformation, cyberattacks, fraud and potentially harmful autonomous decision-making. The question is how to keep this power aligned with progress without letting its destructive potential escape control. While the IAEA experience is relevant, WAICO should not copy the Agency. AI is software-based, diffuse, fast-moving and developed by thousands of private actors. Nevertheless, the IAEA’s institutional logic offers five useful lessons.\nRisk management cannot be separated from development: Governance cannot be framed only as restriction. For many developing countries, the priority is access. A regime in which advanced states possess AI while others merely follow rules designed elsewhere will deepen inequality. So, WAICO should make capacity building a central pillar. China’s plan to offer developing countries 5,000 AI training and seminar opportunities over five years and establish international application centres could become a permanent multilateral programme. It should build national capacity — universities, research institutions, regulators, data infrastructure, etc. — much as IAEA technical cooperation has done in the nuclear field.\nDevelop an AI safeguards concept: Trust cannot rest on declarations. AI safeguards should not block access but identify exceptionally powerful capabilities, manage their risks and verify commitments. A risk-based system could grade capabilities, set standards, require transparency, establish testing methods, and independently assess declared advanced systems through continuous monitoring and peer review like the IAEA verification and peer review system. It should focus on consequential applications, not intrusively control every system.\nAI safety should be an international public good: This is necessary because failures and malicious use can cross borders. WAICO could develop shared principles, standards, testing methods and incident-reporting mechanisms, and enable countries to share failures and near misses so others can prevent their recurrence. IAEA safety standards and operating experience systems show how consensus guidance and corrective learning can reduce risk without assigning blame.\nSecurity must be distinguished from safety: Safety addresses accidents, failures and unintended harm; security addresses deliberate misuse, manipulation and attack. Distinguishing between them would support clearer legal, regulatory and ethical responses.\nStandards aren’t enough — people and institutions matter: Standards work only when countries have capable institutions and people. WAICO could create regional centres of excellence along with training, fellowships, laboratories and regulatory capacity programmes, helping developing countries implement commitments similar to IAEA technical cooperation programmes.\nWAICO should learn from the IAEA but not become the IAEA of AI. AI differs fundamentally from nuclear technology. Nuclear material can be physically controlled and is concentrated in capital-intensive facilities; AI software can be copied, modified and distributed instantly. WAICO cannot transplant the IAEA model, but it can adopt its balanced approach: enable beneficial use, build capacity, set safety and security standards, and prevent misuse.\nThe international community has spent nearly 70 years learning to govern a beneficial but dangerous technology. The IAEA also has its limitations and is politically constrained, yet WAICO should study its successes, failures and adaptations rather than reinvent the wheel.\nEisenhower sought to turn the atom from an instrument of destruction into a force for peace. Today, the challenge is to ensure that AI serves humanity rather than subordinates or harms it. WAICO should place safety and security alongside development and capacity building; promote cooperation without blocking developing country access; set international standards that respect national contexts; and focus oversight on the gravest risks rather than every application.\nIn 1953, the world answered Eisenhower’s call and created the IAEA. Today, Xi has called for AI to become “an important driver for shared prosperity and common security”. The world should respond with equal seriousness.\nShahid Ahmed Mallick was director at IAEA and Aftab Ahmad Khokher was ambassador in Austria/IAEA.\nPublished in Dawn, September 25th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "International Relations / Science & Technology / Governance",
+    "topic": "Global AI Governance and Cooperation: Lessons from Nuclear Diplomacy",
+    "whyMatters": "This article provides a foundational understanding of the emerging global governance framework for Artificial Intelligence (AI), drawing crucial parallels with nuclear technology. It is vital for discussing international cooperation, technological diplomacy, and policy formulation concerning future technologies in competitive exams.",
+    "summary": [
+      "The World Artificial Intelligence Cooperation Organisation (WAICO), launched by China, aims to foster international cooperation for beneficial, safe, and fair AI, necessitating broader global membership for effectiveness.",
+      "WAICO faces a dilemma similar to early nuclear technology: managing AI's immense benefits alongside its risks, requiring an approach that balances control with equitable access.",
+      "The International Atomic Energy Agency (IAEA) serves as a key institutional model, demonstrating how to promote peaceful technological applications while establishing safeguards, safety standards, and capacity-building programs.",
+      "WAICO should adapt five core IAEA lessons—integrating risk management with development, devising AI safeguards, treating AI safety as a public good, differentiating security from safety, and emphasizing human and institutional capacity—while acknowledging AI's fundamental differences from nuclear technology."
+    ],
+    "facts": [
+      "The World Artificial Intelligence Cooperation Organisation (WAICO) was launched in Shanghai on July 16, 2026, initiated by China.",
+      "President Dwight Eisenhower's 'Atoms for Peace' address was delivered to the UN General Assembly in 1953, leading to the IAEA's creation in 1957.",
+      "The Nuclear Non-Proliferation Treaty (NPT), under which IAEA safeguards became central to the global non-proliferation regime, was established in 1968."
+    ],
+    "academicReferences": [
+      "UN Secretary-General's High-Level Advisory Body on Artificial Intelligence (AI) reports and recommendations.",
+      "Nuclear Non-Proliferation Treaty (NPT).",
+      "International Atomic Energy Agency (IAEA) Statute and Safeguards Agreements."
+    ],
+    "vocabulary": [
+      {
+        "word": "dilemma",
+        "type": "noun",
+        "definition": "a situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+        "sentence": "WAICO emerges amid a technological dilemma, balancing AI's major benefits with fears of misuse and harm."
+      },
+      {
+        "word": "multilateral",
+        "type": "adjective",
+        "definition": "involving three or more parties, especially international organizations.",
+        "sentence": "To become globally effective, WAICO must evolve into a genuinely multilateral institution with broader membership."
+      },
+      {
+        "word": "diffuse",
+        "type": "adjective",
+        "definition": "spread out over a large area; not concentrated.",
+        "sentence": "AI differs from nuclear technology as it is software-based, diffuse, and developed by thousands of private actors."
+      },
+      {
+        "word": "consequential",
+        "type": "adjective",
+        "definition": "important; significant, especially in terms of future impact.",
+        "sentence": "An AI safeguards system should focus on consequential applications rather than intrusively controlling every system."
+      },
+      {
+        "word": "subordinates",
+        "type": "verb",
+        "definition": "treat or regard as of lesser importance than something else.",
+        "sentence": "The challenge for WAICO is to ensure that AI serves humanity rather than subordinates or harms it."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which existing international organization does the article suggest WAICO should primarily study and learn from?",
+        "options": [
+          "International Atomic Energy Agency (IAEA)",
+          "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+          "World Trade Organization (WTO)",
+          "World Health Organization (WHO)"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article extensively discusses the IAEA as a model for WAICO due to its historical experience in governing a dual-use technology like nuclear science."
+      },
+      {
+        "question": "What core principle, learned from the IAEA, should WAICO adopt regarding risk management and development?",
+        "options": [
+          "Risk management must be completely separate from development to avoid hindering innovation.",
+          "Governance should be framed only as restriction to ensure maximum safety.",
+          "Risk management cannot be separated from development; capacity building must be a central pillar.",
+          "Advanced states should primarily possess AI, while others merely follow rules."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article emphasizes that 'Risk management cannot be separated from development' and for many developing countries, 'the priority is access,' making capacity building a central pillar."
+      },
+      {
+        "question": "According to the article, what is a fundamental difference between AI and nuclear technology that WAICO must consider?",
+        "options": [
+          "Nuclear technology is more beneficial to humanity than AI.",
+          "AI is software-based, diffuse, fast-moving, and developed by private actors, unlike concentrated nuclear material.",
+          "Nuclear technology has more ethical dilemmas than AI.",
+          "AI is easier to control and regulate than nuclear technology."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'AI differs fundamentally from nuclear technology. Nuclear material can be physically controlled and is concentrated in capital-intensive facilities; AI software can be copied, modified and distributed instantly.'"
+      },
+      {
+        "question": "What two distinct concepts does the article suggest WAICO should clearly differentiate in AI governance?",
+        "options": [
+          "Innovation and Regulation",
+          "Security and Privacy",
+          "Safety and Security",
+          "Development and Prohibition"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Security must be distinguished from safety: Safety addresses accidents, failures and unintended harm; security addresses deliberate misuse, manipulation and attack.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why is the IAEA considered a relevant model for WAICO, despite technological differences?",
+        "back": "The IAEA provides a model for balancing beneficial technological use with risk management, establishing safeguards and safety standards, promoting scientific exchange, and building capacity in member states."
+      },
+      {
+        "front": "What is the core distinction between 'safety' and 'security' as proposed for AI governance?",
+        "back": "AI safety addresses accidental failures, unintended harm, and system malfunctions, while AI security addresses deliberate misuse, manipulation, cyberattacks, and malicious applications of the technology."
+      },
+      {
+        "front": "According to the article, why is it crucial for WAICO to prioritize capacity building, especially for developing countries?",
+        "back": "Capacity building is crucial to ensure equitable access to AI's benefits for developing countries, preventing deepened inequality that would result from a regime where advanced states possess AI and others merely follow rules designed elsewhere."
+      },
+      {
+        "front": "What is President Xi Jinping's vision for AI development, as quoted in the article?",
+        "back": "President Xi Jinping stated that AI development should not be 'a solo performance by a single country, but a symphony of international cooperation'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389112071-619",
+    "title": "Education for society\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032522/education-for-society",
+    "date": "2026-09-25",
+    "author": "none@none.com (Faisal Bari)",
+    "content": "NOTWITHSTANDING what might be going on in other countries, Pakistan has a real problem regarding violence against women. In the past few months alone, we have seen some horrendous incidents: ‘honour’ killings, marriage-of-choice killings, rapes, domestic violence, spousal violence and killings, abduction, rape and killing of minors, and violence against employees and staff. There is no dearth of reports from national and international bodies documenting the extent and severity of these issues.\nA couple of points stand out in these reports. One, we do not have good data on violence against women. Incidents are underreported, and there are no national registries or data sets of any sort. Most reported data comes from newspaper reporting, police case registrations, hotline reports, and so on.\nTwo, though many reasons — poor laws and weak implementation, few protections, pathetic institutional arrangements, low reporting and conviction rates, delays, social and societal taboos, etc — are cited in these reports, a primary one is the impact of patriarchy: the control of men over society. Patriarchy shapes not only laws, norms, and expectations in this society; it also shapes responses: what she was wearing, why she was out at that time, why she was driving, and so on.\nPatriarchy is hard to spot, fight, and neutralise because it is embedded in almost every norm, rule, and law. Most societies have, historically and even today, used education to address society’s main issues. What it means to be educated has varied across societies and times, and one element (other than the ability to carry out tasks) has been the larger socialisation of the individual within society and the shaping of their values and norms. I want to pose the question: should we not be shaping our education to take on the issue of patriarchy and its impacts directly?\nRecently, my daughter started school as a fifth-grader in a public school in London. On the very first day, after introductions and other formalities, her teacher spent a couple of hours talking about the autism spectrum and notions of inclusion, expected behaviour, and what was not expected or what would not be tolerated. This came before any conversation about the English or math curriculum. This term, the heroes the class will be introduced to include Frida Kahlo, Mahatma Gandhi, Simone Biles, and a couple of human rights defenders from across the globe.\nWe must address the most urgent social and cultural issues of our society through education.\nEvery day when I walk her back from school and ask her about her day, she tells me about the book they have been reading in class, the documentary they saw, the discussions they had, etc. I have to ask specifically about her math, English and history lessons. They are there, and she is learning the subjects she is supposed to, but the school and her education are much more than that. This has been true every school day. It is about what she needs as a human being and a citizen; it is about values and the kind of society that needs to be there. Specific skills are just a small part of the ‘education’ she is getting.\nI went to some of the best schools in Lahore in the day. But when I landed in England for undergraduate studies, one of the first things I noticed, comparing my own educational experiences with those of my undergraduate peers from England, was that almost each one of my peers had been exposed to things I had not. All of them had good exposure to and knowledge of a major European language other than English. All of them had studied music for many years in their schools, and many could play one instrument fairly well or had a good understanding of it. Many of them had had singing lessons: some were good choir singers. So, language, music and singing. Their exposure to art was also more advanced than mine. The schools I attended focused much more on doing well in academic subjects and preparing for school-leaving examinations.\nThough schools, especially high-fee private schools, have changed a lot, including in Pakistan over the years, even the best of them today remain narrowly focused on subject understanding and examination performance. They do not give any importance to preparing citizens and human beings. Nor is there a demand for this from parents.\nIn fact, the trend, at least in public schools, is the opposite. With clear evidence that most children in schools are not learning enough (77 per cent are ‘learning poor’), the focus has shifted to foundational learning to ensure students grasp the basics of language and math. But the danger is that this approach narrows the scope of education even more. We focus on only essential learning objectives and try to drill them into students. We teach these and test only these. We test only these, so we teach only these. Foundational learning is the flavour right now, and it is hard even to raise concerns about what this might mean for broader educational objectives.\nEducation has always been about creating citizens and human beings who can take us forward. We must address the most pressing social and cultural issues of our society through education. If we do not, what is the point of education, and how else can we plan for a better society? Violence against women, in all its forms, and the grip of patriarchy on our society is exactly the kind of embedded issue that cannot be tackled through law alone and has to be challenged through education and with a sense of purpose. The sheer brutality of what we keep seeing should wake us up to the urgency with which this needs to be addressed.\nThe writer is a senior research fellow at the Institute of Development and Economic Alternatives and an associate professor of economics at Lums.\nPublished in Dawn, September 25th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs / Sociology / Essay / Current Affairs",
+    "topic": "Role of Education in Combating Patriarchy and Gender-Based Violence in Pakistan",
+    "whyMatters": "This article offers a critical perspective on the deep-rooted issue of violence against women in Pakistan, linking it directly to patriarchy and proposing a systemic educational reform. It provides valuable arguments for essays and analytical questions on social issues, gender studies, and education policy.",
+    "summary": [
+      "Pakistan faces a severe and underreported problem of violence against women, encompassing 'honour' killings, rapes, domestic abuse, and violence against minors, with a significant lack of comprehensive national data.",
+      "Patriarchy is identified as the primary driver of this violence, deeply embedded in societal norms, laws, and expectations, making it challenging to detect and address through conventional means.",
+      "The author advocates for a fundamental shift in education, proposing that it should be purposefully shaped to directly confront patriarchy and address pressing social issues, going beyond mere academic instruction.",
+      "Unlike the holistic, value-based education observed in some international schools focused on citizen-building, Pakistani education, even in its best institutions, remains narrowly focused on academic performance and foundational learning, neglecting broader socialisation."
+    ],
+    "facts": [
+      "Incidents of violence against women in Pakistan include 'honour' killings, marriage-of-choice killings, rapes, domestic violence, spousal violence and killings, abduction, rape and killing of minors, and violence against employees and staff.",
+      "Data on violence against women is primarily sourced from newspaper reporting, police case registrations, and hotline reports, indicating an absence of robust national registries or comprehensive data sets.",
+      "Approximately 77 percent of children in Pakistani schools are classified as 'learning poor', leading to a narrow focus on foundational learning in language and math, potentially at the expense of broader educational objectives."
+    ],
+    "academicReferences": [
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports on the State of Human Rights",
+      "UN Sustainable Development Goal 4 (Quality Education) and Goal 5 (Gender Equality)",
+      "National Commission on the Status of Women (NCSW) Reports on Gender-Based Violence in Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "Notwithstanding",
+        "type": "preposition",
+        "definition": "In spite of; despite.",
+        "sentence": "Notwithstanding the challenges, the community launched an initiative to promote girls' education."
+      },
+      {
+        "word": "Patriarchy",
+        "type": "noun",
+        "definition": "A system of society or government in which men hold the power and women are largely excluded from it.",
+        "sentence": "The author argues that patriarchy shapes not only laws and norms but also societal responses to violence against women."
+      },
+      {
+        "word": "Horrendous",
+        "type": "adjective",
+        "definition": "Extremely unpleasant, horrifying, or terrible.",
+        "sentence": "In the past few months alone, we have seen some horrendous incidents of violence against women."
+      },
+      {
+        "word": "Embedded",
+        "type": "adjective",
+        "definition": "Fixed firmly and deeply in a surrounding mass; forming an integral part of something.",
+        "sentence": "Patriarchy is hard to fight because it is embedded in almost every norm, rule, and law of society."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary reason cited for the prevalence of violence against women in Pakistan?",
+        "options": [
+          "Poor laws and weak implementation",
+          "Impact of patriarchy",
+          "Low reporting and conviction rates",
+          "Lack of national registries"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that 'a primary one is the impact of patriarchy: the control of men over society.'"
+      },
+      {
+        "question": "What critical aspect of education does the author emphasize as lacking in Pakistani schools compared to a holistic model?",
+        "options": [
+          "Emphasis on foundational learning",
+          "Focus on academic subjects for examinations",
+          "Preparation of citizens and human beings with values",
+          "Exposure to diverse academic curricula"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author contrasts Pakistani schools, which are narrowly focused on academic performance, with a model that prioritizes 'what she needs as a human being and a citizen; it is about values and the kind of society that needs to be there.'"
+      },
+      {
+        "question": "Which of the following is NOT mentioned as a type of violence against women in the article?",
+        "options": [
+          "'Honour' killings",
+          "Marriage-of-choice killings",
+          "Cyberbullying and harassment",
+          "Domestic violence"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article lists 'honour' killings, marriage-of-choice killings, rapes, domestic violence, spousal violence and killings, abduction, rape and killing of minors, and violence against employees and staff. Cyberbullying is not explicitly mentioned."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the key shortcomings in data collection regarding violence against women in Pakistan, as highlighted in the article?",
+        "back": "Incidents are underreported, and there are no national registries or comprehensive data sets; most data comes from newspaper reports, police registrations, and hotlines."
+      },
+      {
+        "front": "How does the author differentiate the educational approach in his daughter's London school from that of Pakistani schools?",
+        "back": "The London school prioritises holistic development, teaching inclusion, values, and human rights alongside academic subjects, whereas Pakistani schools remain narrowly focused on subject understanding and exam performance."
+      },
+      {
+        "front": "According to the article, why is patriarchy particularly difficult to combat in society?",
+        "back": "Patriarchy is hard to spot, fight, and neutralise because it is deeply embedded in almost every social norm, rule, and law."
+      },
+      {
+        "front": "What critical role does the author argue education must play beyond foundational learning in the context of societal progress?",
+        "back": "Education must create citizens and human beings capable of addressing pressing social and cultural issues, such as violence against women and patriarchy, which cannot be tackled through law alone."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790389028961-953",
+    "title": "The IMF loop\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032516/the-imf-loop",
+    "date": "2026-09-25",
+    "author": "none@none.com (Editorial)",
+    "content": "IF anything, the IMF reviews capture the paradox of Pakistan’s economic management. The numbers may be improving, but the economy itself remains largely unchanged.\nThe government is meeting some fiscal and monetary targets while missing reforms that would alter how the state and markets actually function. There is something increasingly tiring about watching these IMF reviews. The IMF mission arrives. The government presents its case. Officials hold meetings. Statements are issued. Then the Fund’s assessment comes out, identifying almost exactly the same strengths and weaknesses that were previously pointed out. The purpose of the reviews cannot simply be to pass successive tests. Yet much of the economic effort still appears organised around precisely that objective: meet the quantitative targets, secure the next tranche and move on to the next review.\n    \nThe government has achieved an important degree of macroeconomic stability. Fiscal discipline has improved. Foreign exchange reserves have been rebuilt — even if they remain fragile. The external account is less precarious than it was. These are not small gains. But stability is supposed to create the space for reform and sustainable growth. It cannot become an end in itself. The more uncomfortable question is what has actually changed underneath the stabilisation numbers.\nThe IMF itself continues to point to delayed critical reforms, market interventions, weak governance and missed social-sector spending. The government has also yet to fully implement several legislative and institutional changes agreed under the programme. This suggests a bigger problem. The government, like its predecessors, may be trying to complete the programme without fundamentally changing the economic model that repeatedly produces the need for such programmes. Once the programme is completed and reserves rebuilt, it may loosen the fiscal and monetary brakes to accelerate growth before the election. The temptation will be to spend the gains of stabilisation on a short-term growth push and flaunt the resulting numbers as economic success. We have been there before — not once, not twice, but more than two dozen times. The danger is repeating this cycle after the current programme. Growth must come from structural reform, not spending the gains of stability and returning to the IMF yet again.\nPublished in Dawn, September 25th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's Economic Challenges: IMF, Structural Reforms, and External Balance",
+    "whyMatters": "This article is crucial for understanding the cyclical nature of Pakistan's economic crises, particularly its persistent balance-of-payments issues and reliance on IMF programs. It provides a critical perspective on the lack of fundamental structural reforms necessary for sustainable growth and stable foreign exchange reserves.",
+    "summary": [
+      "Pakistan's economic management exhibits a paradox: achieving temporary macroeconomic stability without fundamental structural change.",
+      "IMF reviews consistently identify the same weaknesses, indicating a failure to implement critical legislative and institutional reforms.",
+      "The government's economic effort is primarily focused on meeting quantitative targets to secure IMF tranches, rather than altering the underlying economic model.",
+      "This perpetuates a cycle where gains from stabilization are spent on short-term growth pushes, leading back to the need for future IMF programs."
+    ],
+    "facts": [
+      "Pakistan has achieved an important degree of macroeconomic stability, including improved fiscal discipline and rebuilt (though fragile) foreign exchange reserves.",
+      "The external account is described as 'less precarious' than before stabilization efforts.",
+      "The IMF continues to point to delayed critical reforms, market interventions, weak governance, and missed social-sector spending.",
+      "Pakistan has repeated the cycle of temporary stability followed by crisis 'more than two dozen times' with the IMF."
+    ],
+    "academicReferences": [
+      "Ishrat Husain's 'Pakistan: The Economy of an Elitist State' (provides historical context on structural issues)",
+      "Annual 'Pakistan Economic Survey' (for official data on BoP, reserves, and fiscal performance)",
+      "IMF Country Reports for Pakistan (for detailed analysis of program conditionality and performance)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Paradox",
+        "type": "noun",
+        "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+        "sentence": "The article captures the paradox of Pakistan’s economic management, where numbers improve but the economy remains unchanged."
+      },
+      {
+        "word": "Macroeconomic",
+        "type": "adjective",
+        "definition": "Relating to the branch of economics concerned with large-scale or general economic factors, such as interest rates and national productivity.",
+        "sentence": "The government has achieved an important degree of macroeconomic stability, focusing on aggregate economic indicators."
+      },
+      {
+        "word": "Precarious",
+        "type": "adjective",
+        "definition": "Not securely held or in position; dangerously likely to fall or collapse; dependent on chance circumstances; uncertain.",
+        "sentence": "Although foreign exchange reserves have been rebuilt, they remain fragile and the external account is less precarious than it was."
+      },
+      {
+        "word": "Fiscal discipline",
+        "type": "noun phrase",
+        "definition": "The ability of a government to manage its budget responsibly, avoiding excessive deficits and debt accumulation.",
+        "sentence": "A key gain of the current program has been improved fiscal discipline, leading to better management of public finances."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason why Pakistan's economic situation often reverts to needing IMF assistance despite achieving short-term stability?",
+        "options": [
+          "A. The government prioritizes political gains over economic reforms.",
+          "B. Global economic slowdowns disproportionately affect Pakistan.",
+          "C. Lack of fundamental structural reforms to change the economic model.",
+          "D. Foreign aid dries up after initial stability is achieved."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'The government, like its predecessors, may be trying to complete the programme without fundamentally changing the economic model that repeatedly produces the need for such programmes.' This highlights the lack of structural reforms as the core issue."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the 'paradox of Pakistan's economic management' as described in the article?",
+        "back": "The paradox is that while economic numbers (like fiscal discipline and reserves) may improve, the underlying economic structure and its fundamental functioning remain largely unchanged, leading to recurring issues."
+      },
+      {
+        "front": "How does the article connect the 'IMF loop' to Pakistan's struggle with sustainable economic growth?",
+        "back": "The article suggests the 'IMF loop' hinders sustainable growth by focusing on short-term quantitative targets for tranches, rather than implementing deep structural reforms necessary for organic, export-led growth, thus perpetuating dependency."
+      },
+      {
+        "front": "What does the article identify as the main danger after an IMF program is completed and reserves are rebuilt?",
+        "back": "The danger is that the government will loosen fiscal and monetary brakes, spend the gains of stabilization on a short-term growth push for political reasons before elections, and thereby repeat the cycle of economic instability and return to the IMF."
+      },
+      {
+        "front": "How does the article implicitly link to Pakistan's 'Balance-of-Payments' constraint, even without explicitly mentioning export performance?",
+        "back": "By highlighting the recurring need for IMF programs due to an unchanging economic model and fragile reserves, the article implicitly points to an inability to generate sufficient foreign exchange sustainably through structural reforms (which would include improving export performance), thus maintaining BoP pressure."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790390083253-549",
+    "title": "Taxing traders\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032270/taxing-traders",
+    "date": "2026-09-24",
+    "author": "none@none.com (Editorial)",
+    "content": "THE government’s much-publicised fixed tax scheme for traders is already showing signs of failure. Reportedly, with barely a week left to the Sept 30 tax filing deadline, only two previously unregistered shopkeepers have opted in. With 317 traders registered under the scheme, which is meant to bring shopkeepers into the tax net, only Rs26m has been generated against a budgeted target of Rs50bn. The Tajir Dost scheme introduced earlier had similarly failed to bring traders into the system. The government has again tried to make compliance attractive by offering traders a 1pc tax on turnover, exemption from routine audits and withholding obligations, as well as relief from installing digital payment systems. The lack of response to both schemes reveals a deeper problem: traders are unwilling to enter the formal tax regime even when the state offers concessions.\nMany traders believe that their political influence and collective bargaining power offer greater protection than any incentive offered by the tax authorities. Their ability to shut shops, mobilise trader bodies and exert pressure has proved useful in resisting taxation and enforcement. It is easier, in their calculation, to oppose audits and documentation than to accept even a relatively modest fixed tax. The government cannot build a broad tax base on this basis. Nor can it continue compensating for the under-taxation of influential sectors by squeezing those within the system. The contrast with the salaried class is telling. Income tax collected from salaried taxpayers rose 7.5pc to Rs91bn in July-August, an increase of Rs6.3bn over the same period last year. Real estate, meanwhile, contributed Rs28bn, down 28pc, despite expectations of stronger property activity. This is precisely why the government must stop confusing incentives with tax reform. Incentives can facilitate compliance, but they cannot substitute for credible enforcement. If traders refuse even a highly concessional regime, the state must rethink its policy and ensure enforcement. A credible tax system requires equal treatment across sectors, reliable documentation, enforceable rules and the political will to apply them.\nPublished in Dawn, September 24th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Economics / Public Administration",
+    "topic": "Taxation System Reform and Enforcement Challenges in Pakistan",
+    "whyMatters": "This article is crucial for understanding the persistent challenges in tax collection, particularly from informal sectors, and the policy dilemmas faced by the government. It provides a real-world case study of governance failure and sectoral inequalities in taxation, vital for analytical questions on fiscal policy and state capacity.",
+    "summary": [
+      "Government's fixed tax schemes for traders (e.g., 'Tajir Dost' and the latest scheme) are consistently failing to bring shopkeepers into the formal tax net, generating significantly less revenue than budgeted.",
+      "Traders actively resist taxation, not due to lack of incentives, but because they believe their political influence and collective bargaining power offer greater protection against audits and documentation.",
+      "This resistance creates an inequitable tax burden, with the salaried class bearing an increasing share of income tax while influential sectors like real estate show declining contributions.",
+      "The article argues that the government must shift its strategy from offering incentives to ensuring credible enforcement, establishing equal treatment across sectors, reliable documentation, and political will for effective tax reform."
+    ],
+    "facts": [
+      "Only 2 previously unregistered shopkeepers opted into the latest fixed tax scheme by the deadline (Sept 30).",
+      "The scheme registered 317 traders and generated only Rs26m against a budgeted target of Rs50bn.",
+      "Income tax collected from salaried taxpayers rose 7.5pc to Rs91bn in July-August, an increase of Rs6.3bn year-on-year.",
+      "Real estate contributed Rs28bn, a 28pc decrease despite expectations of stronger property activity."
+    ],
+    "academicReferences": [
+      "Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. (Relevant for institutional weaknesses and state capacity in tax collection)",
+      "International Monetary Fund (IMF) Reports on Pakistan's Fiscal Reform Programs. (Regularly detail challenges and recommendations for tax revenue generation)",
+      "OECD (Organisation for Economic Co-operation and Development) Best Practices for Tax Administration and Compliance. (Provides international benchmarks for effective tax systems and enforcement)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Fixed tax scheme",
+        "type": "noun phrase",
+        "definition": "A government program where taxpayers pay a predetermined, flat amount of tax rather than a percentage of income or complex calculation.",
+        "sentence": "The government introduced a fixed tax scheme to simplify compliance for small traders."
+      },
+      {
+        "word": "Tax net",
+        "type": "noun phrase",
+        "definition": "The total number of individuals and entities subject to taxation within an economy.",
+        "sentence": "Bringing more informal businesses into the tax net is crucial for increasing government revenue."
+      },
+      {
+        "word": "Withholding obligations",
+        "type": "noun phrase",
+        "definition": "The legal duty of a payer to deduct tax from payments (like salaries, rents, or service charges) before remitting the net amount to the payee, and then submitting the deducted tax to the government.",
+        "sentence": "Traders were offered relief from withholding obligations as an incentive to join the tax scheme."
+      },
+      {
+        "word": "Concessional regime",
+        "type": "noun phrase",
+        "definition": "A system or policy offering favorable or lenient terms, often for tax or trade.",
+        "sentence": "The state offered a highly concessional regime, yet traders remained unwilling to comply."
+      },
+      {
+        "word": "Credible enforcement",
+        "type": "noun phrase",
+        "definition": "The effective and believable application of laws and regulations, ensuring that rules are consistently followed and penalties are imposed for non-compliance.",
+        "sentence": "Without credible enforcement, even well-designed tax policies can fail to achieve their objectives."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason for the failure of government's fixed tax schemes for traders?",
+        "options": [
+          "Traders' political influence and collective bargaining power to resist taxation.",
+          "The schemes offered insufficient financial incentives compared to other sectors.",
+          "The tax rates proposed were too high for small shopkeepers.",
+          "Lack of awareness among traders about the benefits of the schemes."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'traders believe that their political influence and collective bargaining power offer greater protection than any incentive offered by the tax authorities,' making them unwilling to enter the formal tax regime."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the observed outcome of the government's latest fixed tax scheme for traders, specifically regarding revenue generation against its target?",
+        "back": "The scheme generated only Rs26 million against a budgeted target of Rs50 billion, indicating a significant failure to meet revenue goals."
+      },
+      {
+        "front": "How does the article contrast the tax contributions of the salaried class with the real estate sector?",
+        "back": "Income tax from the salaried class rose 7.5% to Rs91bn, showing an increase, while the real estate sector's contribution dropped 28% to Rs28bn, highlighting a disparity in tax burden."
+      },
+      {
+        "front": "What alternative approach does the article suggest for the government to achieve effective tax reform, moving beyond current strategies?",
+        "back": "The article suggests the government must stop confusing incentives with tax reform and instead focus on ensuring credible enforcement, equal treatment across sectors, reliable documentation, and political will to apply rules."
+      },
+      {
+        "front": "What specific incentives were offered to traders under the scheme, and how did they respond?",
+        "back": "Incentives included a 1% tax on turnover, exemption from routine audits and withholding obligations, and relief from installing digital payment systems. Traders largely did not respond, with only a minimal number opting in."
+      }
+    ]
+  },
+  {
     "id": "curated-1790302442126-815",
     "title": "Lack of planning\n",
     "source": "Dawn",
@@ -9449,794 +10289,6 @@
       {
         "front": "Beyond seeking new listings, what does the article suggest is Pakistan's strongest case for future additions to the World Heritage List?",
         "back": "Pakistan's strongest case is to demonstrate that the sites already recognized by the world are being cared for effectively and responsibly."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788658490261-400",
-    "title": "Ties with Kabul\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027398/ties-with-kabul",
-    "date": "2026-09-04",
-    "author": "none@none.com (Editorial)",
-    "content": "WHILE diplomatic efforts are underway to restore dialogue with Taliban-ruled Afghanistan, as the Foreign Office has pointed out, talks can only succeed when there is a firm commitment from Kabul to end support for terrorist groups based on Afghan soil.\n\nDuring a briefing on Wednesday, the FO welcomed China’s efforts to bridge the gap between Kabul and Islamabad, but cautioned that only firm action from the Taliban could take the process forward. Beijing’s envoy for Afghanistan was recently in Pakistan reportedly to restart the Urumqi process. The FO also downplayed the recent engagement of the Afghan ambassador to speak at the NDU as “not unusual”.\n\nThis may be true, but the fact that the Afghan diplomat spoke at the nation’s top defence university at a time when bilateral ties are near rock bottom is significant. But, despite these efforts, the fact remains that terrorist groups based in Afghanistan are the biggest obstacle to peace. The ISPR announced yesterday that several terrorists trying to infiltrate Pakistan at the Afghan border were eliminated. The military’s media wing highlighted that “the Afghan Taliban regime has consistently failed to ensure border management”.\n\nThe efforts by sincere friends like China are welcome. Beijing wants calm in the region to protect its investments in Afghanistan, as well as to neutralise anti-China militant groups such as ETIM based on Afghan soil. Yet, as the FO pointed out, these endeavours can only succeed when there is determination from Kabul to take action against terrorist groups. The Taliban regime has taken steps such as relocating TTP fighters and their families away from the common border, while the Taliban supreme leader has also reportedly asked the banned TTP to stop attacks on Pakistan. But these are cosmetic moves, and as the latest firefight at the border indicates, they have had a limited impact on the TTP and other terrorist groups.\n\nIf diplomatic efforts are to succeed, then the roadmap, as identified by the FO, must be followed. This entails “verifiable, written assurances” from the Afghan Taliban that their territory will not be used against Pakistan. If this apparently simple principle is followed, engagement and long-term peace are possible. It may be worth reviving the Urumqi process, but Kabul must affirm its resolve to act against anti-Pakistan terrorists.\n\nWhile sustained hostilities are not good for either country, Pakistan has shown that it can defend itself against terrorist groups, as well as states that host them. Pakistan has said time and again that it is ready for dialogue if Afghanistan withdraws its support for violent groups. It is now up to Kabul to create a conducive atmosphere for talks, primarily by stopping all cross-border movement of terrorists.\n\nPublished in Dawn, September 4th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2025-NEIG",
-      "paper": "Current Affairs",
-      "year": 2025,
-      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences."
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Current Affairs",
-    "topic": "Pakistan-Afghanistan Relations and Regional Security",
-    "whyMatters": "This article directly addresses the security challenges posed by Afghanistan, a key neighbor, providing contemporary evidence and Pakistan's policy stance. It is crucial for understanding the 'strategic relations' and 'security challenges' aspect of the exam question.",
-    "summary": [
-      "Pakistan's diplomatic efforts with the Taliban are contingent on Kabul's firm commitment to end support for terrorist groups on Afghan soil.",
-      "China's mediation (Urumqi process) is welcomed, but Pakistan emphasizes that only verifiable action from the Taliban can advance the peace process.",
-      "Despite some steps by the Taliban like relocating TTP fighters, these are deemed 'cosmetic moves' and have had limited impact on cross-border terrorism.",
-      "Pakistan demands 'verifiable, written assurances' from the Afghan Taliban that their territory will not be used against Pakistan as a prerequisite for long-term peace and dialogue."
-    ],
-    "facts": [
-      "The Foreign Office (FO) welcomed China’s efforts to bridge the gap between Kabul and Islamabad.",
-      "An Afghan diplomat recently spoke at Pakistan's National Defence University (NDU).",
-      "The ISPR announced the elimination of several terrorists attempting to infiltrate Pakistan at the Afghan border, highlighting the Afghan Taliban regime's failure in border management."
-    ],
-    "academicReferences": [
-      "United Nations Security Council (UNSC) Reports on Afghanistan and Counter-Terrorism Sanctions Regime",
-      "National Action Plan (NAP) on Counter-Terrorism (Pakistan)",
-      "Andrew Small, 'The China-Pakistan Axis: Asia's New Geopolitics'"
-    ],
-    "vocabulary": [
-      {
-        "word": "downplayed",
-        "type": "verb",
-        "definition": "To make something seem less important or significant than it really is.",
-        "sentence": "The FO downplayed the recent engagement of the Afghan ambassador, calling it 'not unusual'."
-      },
-      {
-        "word": "bilateral ties",
-        "type": "noun phrase",
-        "definition": "The relationship or connection between two countries.",
-        "sentence": "The fact that the Afghan diplomat spoke at NDU when bilateral ties are near rock bottom is significant."
-      },
-      {
-        "word": "neutralise",
-        "type": "verb",
-        "definition": "To make something ineffective or harmless; to counterbalance.",
-        "sentence": "Beijing wants calm in the region to neutralise anti-China militant groups such as ETIM based on Afghan soil."
-      },
-      {
-        "word": "cosmetic moves",
-        "type": "noun phrase",
-        "definition": "Actions that are superficial and intended to improve the outward appearance of a situation, without addressing the underlying problems.",
-        "sentence": "The relocation of TTP fighters and supreme leader's request are cosmetic moves with limited impact."
-      },
-      {
-        "word": "conducive atmosphere",
-        "type": "noun phrase",
-        "definition": "A suitable or favorable environment for something to happen.",
-        "sentence": "It is now up to Kabul to create a conducive atmosphere for talks by stopping cross-border movement of terrorists."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is Pakistan's primary condition for successful diplomatic engagement with the Taliban-ruled Afghanistan?",
-        "options": [
-          "A firm commitment from Kabul to end support for terrorist groups.",
-          "China's full endorsement of the Urumqi process.",
-          "Relocation of all TTP fighters away from the common border.",
-          "Economic aid packages for Afghanistan from Pakistan."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'talks can only succeed when there is a firm commitment from Kabul to end support for terrorist groups based on Afghan soil'."
-      },
-      {
-        "question": "What does the article suggest about the impact of the Taliban's actions, such as relocating TTP fighters?",
-        "options": [
-          "They have significantly improved border security.",
-          "They are decisive steps towards long-term peace.",
-          "They are cosmetic moves with limited impact on terrorist groups.",
-          "They were taken under direct pressure from the ISPR."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'But these are cosmetic moves, and as the latest firefight at the border indicates, they have had a limited impact on the TTP and other terrorist groups.'"
-      },
-      {
-        "question": "What specific demand has Pakistan's Foreign Office (FO) identified as crucial for long-term peace with Afghanistan?",
-        "options": [
-          "A joint economic development plan.",
-          "Verifiable, written assurances from the Afghan Taliban against using their territory for anti-Pakistan activities.",
-          "Establishment of joint border patrols.",
-          "Recognition of the Taliban regime by all regional powers."
-        ],
-        "answerIndex": 1,
-        "explanation": "The FO's roadmap entails 'verifiable, written assurances' from the Afghan Taliban that their territory will not be used against Pakistan."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why are Pakistan's diplomatic efforts with the Taliban described as conditional?",
-        "back": "They are conditional on Kabul's firm commitment to end support for terrorist groups based on Afghan soil, which is seen as the biggest obstacle to peace."
-      },
-      {
-        "front": "What role is China playing in Pakistan-Afghanistan relations, and what is its stated motivation?",
-        "back": "China is attempting to bridge the gap between Kabul and Islamabad, reportedly to restart the Urumqi process. Beijing's motivation is to ensure regional calm to protect its investments in Afghanistan and neutralize anti-China militant groups like ETIM."
-      },
-      {
-        "front": "How does the article assess the effectiveness of the Taliban's current actions, such as relocating TTP fighters?",
-        "back": "The article describes them as 'cosmetic moves' that have had a 'limited impact' on the TTP and other terrorist groups, as evidenced by ongoing border firefights."
-      },
-      {
-        "front": "What is Pakistan's ultimate requirement for establishing a conducive atmosphere for talks with Afghanistan?",
-        "back": "Pakistan requires Kabul to stop all cross-border movement of terrorists and provide verifiable, written assurances that Afghan territory will not be used against Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788658733505-524",
-    "title": "‘Kindly adjust’\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027640/kindly-adjust",
-    "date": "2026-09-04",
-    "author": "none@none.com (Ehsan Malik)",
-    "content": "‘KINDLY adjust’ is a peculiarly South Asian expression. It means tolerating inconvenience or accommodating what is not quite right. While courteous, it captures the relationship between citizens and the institutions that govern them. When electricity disappears, arrange a generator. When water is scarce or unsafe, call a tanker and install a filter. When schools, hospitals, roads or air disappoint, pay privately, reroute, stay indoors or stretch the household budget. In other words: kindly adjust.\n\nPakistanis have become exceptionally good at adjusting. What we proudly call resilience is often the ability of citizens to compensate privately for the failure of public institutions. Those with money buy electricity, water, education, healthcare, security and protection. The middle class stretches to follow; the poor endure or leave for work abroad.\n\nBut there are limits to adjustment. The recent deaths of newborn babies in a fire at Islamabad’s premier government hospital brought this home with unbearable force. When something as fundamental as the safety of infants in a public hospital cannot be assured, institutional failure is no longer an inconvenience. It becomes a matter of life and death.\n\nPakistan’s problem is that government too often mistakes programmes, budgets, authorities and committees for real delivery and measurable achievement. Education is counted in schools, teachers and budgets, not whether children learn. Healthcare is counted in hospitals and beds, not outcomes and safety. Environmental policy represents aspiration while citizens face unreliable supply, polluted air and untreated waste.\n\nThe first adjustment, therefore, must come from government itself. Public institutions should be judged by outcomes. Every major public service should publish standards: learning outcomes, hospital safety, healthcare availability, affordable and reliable utilities including safe municipal water and garbage collection. Performance against them should be public. When government fails, citizens pay through illness, lost productivity and private expenditure.\n\nResilience has become an excuse for poor governance.\n\nAccountability must match authority. Pakistan has many officials empowered to approve, regulate, inspect and prohibit, but too few who are clearly answerable when things go wrong. Each disaster is followed by an inquiry, suspension or committee, yet real learning remains elusive. Serious failures should automatically trigger independent investigation. Regulators need professional leadership. Senior appointments should carry measurable objectives. Authority without consequence encourages indifference.\n\nGovernment also needs capability. Car­eer civil servants remain indispensable, but a modern economy needs specialisation, lateral entry, merit-based appointments, fixed tenures and measurable objectives. The aim is to combine institutional experience with specialist knowledge and managerial competence. Government must also simplify procedures, reduce overlapping respo­nsibilities and give managers enough auth­ority to be accountable. Pakistan needs better people in government, and systems in which good people can perform.\n\nThe state must also reconsider what it tries to do. Pakistan has a government that is simultaneously too large and too weak: involved in too many activities, yet frequently unable to deliver basics. It should do fewer essential things much better at lower cost, which would also reduce the burden of taxes on the narrow formal sector.\n\nAnother adjustment is to take government closer to citizens. Pakistan dev­olved authority to the provinces under the 18th Amend­m­ent but largely fai­led to complete the journey. Neighb­ou­rh­ood water, garb­age collection, primary schools, local roads and district hospitals require empowered elected local governments with pred­ictable resources and clear accountability.\n\nNone of this absolves citizens or businesses of responsibility. Citizens cannot demand good services while evading taxes, stealing electricity, encroaching on public land, bribing officials or ignoring regulations. Businesses cannot demand predictable policy while seeking exemptions, protection and preferential treatment. Citizens should pay fair taxes and obey reasonable laws. Businesses should compete rather than seek privilege.\n\nFor too long we have treated people’s capacity to cope as a national virtue. But resilience has become an excuse for poor governance. As Pakistan approaches its 80th year, citizens should not be expected to continue to adjust to shortages, inflation, insecurity, poor services, weak regulation and repeated economic crises. The state must deliver through declared standards, competent management and strong accountability.The elite who can afford to bypass state services should join the masses in demanding delivery.\n\nThe writer is a former CEO of Unilever Pakistan and of the Pakistan Business Council.\n\nPublished in Dawn, September 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Pakistan Affairs / Public Administration / Governance and Public Policy",
-    "topic": "Institutional Failure, Public Service Delivery, and Accountability in Pakistan",
-    "whyMatters": "This article critically analyzes the chronic failure of public institutions in Pakistan, a core issue in governance. It provides strong arguments and recommendations that can be directly quoted in essays and answers on public policy, state capacity, and accountability.",
-    "summary": [
-      "The expression 'kindly adjust' symbolizes citizens' private compensation for systemic institutional failures in public service delivery across South Asia, particularly Pakistan.",
-      "The author argues that what is often celebrated as 'resilience' in Pakistan is, in fact, an ability of citizens to privately offset the failures of public institutions.",
-      "Government frequently misinterprets progress by counting inputs (schools, budgets) rather than measuring real outcomes (learning, safety, utility delivery) and lacks robust accountability mechanisms for failures.",
-      "The article advocates for government reforms including outcome-based performance, matching accountability with authority, building capability through merit-based appointments, state simplification, and empowered local governments, alongside emphasizing citizens' and businesses' responsibilities."
-    ],
-    "facts": [
-      "The article cites the 'recent deaths of newborn babies in a fire at Islamabad’s premier government hospital' as a tragic example of the ultimate cost of institutional failure.",
-      "It mentions Pakistan approaching its '80th year,' emphasizing the long-standing nature of the governance challenges discussed.",
-      "The '18th Amendment' is noted for devolving authority to the provinces, although the journey towards complete local empowerment is deemed incomplete."
-    ],
-    "academicReferences": [
-      "18th Amendment to the Constitution of Pakistan (for devolution and federal-provincial relations).",
-      "World Bank Governance Indicators (for measuring institutional performance and state capacity).",
-      "Pakistan Economic Survey (for data on public expenditure, education, health sectors).",
-      "Reports by organizations like PIDE (Pakistan Institute of Development Economics) on public sector reforms or governance challenges in Pakistan."
-    ],
-    "vocabulary": [
-      {
-        "word": "Peculiarly",
-        "type": "adverb",
-        "definition": "In a strange or unusual way; characteristic of only one person, thing, or place.",
-        "sentence": "‘KINDLY adjust’ is a peculiarly South Asian expression."
-      },
-      {
-        "word": "Resilience",
-        "type": "noun",
-        "definition": "The capacity to recover quickly from difficulties; toughness.",
-        "sentence": "What we proudly call resilience is often the ability of citizens to compensate privately for the failure of public institutions."
-      },
-      {
-        "word": "Elusive",
-        "type": "adjective",
-        "definition": "Difficult to find, catch, or achieve.",
-        "sentence": "Each disaster is followed by an inquiry, suspension or committee, yet real learning remains elusive."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary issue with how the Pakistani government often measures progress in sectors like education and healthcare?",
-        "options": [
-          "Focusing on outcomes and safety.",
-          "Counting schools, teachers, and budgets.",
-          "Prioritizing citizen feedback.",
-          "Implementing international best practices."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Education is counted in schools, teachers and budgets, not whether children learn. Healthcare is counted in hospitals and beds, not outcomes and safety,' indicating a focus on inputs rather than outcomes."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the expression 'kindly adjust' signify in the context of Pakistan's governance, according to the article?",
-        "back": "It signifies citizens tolerating inconvenience or accommodating what is not quite right by privately compensating for the systemic failure of public institutions."
-      },
-      {
-        "front": "How does the author differentiate between genuine 'resilience' and what is often labeled as such in Pakistan?",
-        "back": "The author argues that much of what is called resilience is actually citizens' ability to privately compensate for the failure of public institutions, rather than a true national virtue."
-      },
-      {
-        "front": "What fundamental shift does the article propose for how government institutions should be judged regarding public service delivery?",
-        "back": "Government institutions should be judged by outcomes and measurable achievements (e.g., learning outcomes, hospital safety), not just inputs like programs, budgets, or infrastructure."
-      },
-      {
-        "front": "What dual problem does the article identify regarding the Pakistani government's scope and capacity?",
-        "back": "The government is simultaneously 'too large and too weak,' involved in too many activities but frequently unable to deliver basic essential services effectively."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788572728040-274",
-    "title": "Jumping the gun\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027402/jumping-the-gun",
-    "date": "2026-09-04",
-    "author": "none@none.com (Nazir A. Jogezai)",
-    "content": "THE Balochistan government has announced that future government employment will be made possible through an AI-based recruitment system managed by a dedicated unit. This method, it claims, will be transparent and based on merit. There is a general consensus in society regarding the fact that public employment should be free from political pressures, opaque decision-making, and unnecessary delays. However, this step, despite the promise of strengthening meritocracy through technology, must be carried out with careful consideration.\n\nWe often witness initiatives in specific sectors, finance in particular, where technology filters in to replace manual and cash-based processes with digital payments, automated government systems, AI and data-driven tax administration, online public services, and a modern financial infrastructure. Their goal is to shape a more transparent and efficient form of governance. But the overall management of administrative nerve centres is largely conducted via paper files, handwritten approvals, and the physical movement of files from one office to another.\n\nAdministrative records remain fragmented, the workflow is slow, and routine processes almost entirely dependent on procedures designed decades ago.\n\nAgainst this backdrop, AI-based recruitment appears as an isolated technological intervention — a digitised gateway to a largely unchanged, outdated and status quo-driven bureaucratic structure. Unfortunately, the pattern of isolated initiatives is particularly pronounced in public administration in underdeveloped countries. The pattern can easily be termed an ‘automation island’. While it can enhance individual functions, institutional restructuring of governance is compromised.\n\nThe greatest risk is not that AI makes mistakes but that humans stop questioning its conclusions.\n\nSupporters of AI-based employment methods argue that algorithms can improve efficiency, reduce human bias, and strengthen merit-based hiring. Automated systems can process thousands of applications within minutes, apply standardised evaluation criteria, and minimise arbitrary interference. While these assumptions may hold true for the public sector, its practices are fundamentally different from those of the private sector. A democratic state pursues fairness, legality, accoun­tability, transparency, and public trust. Upholding these values through algorithms is no mean task.\n\nAlgorithms are biased; they alter the source of bias but do not eliminate it. A Stanford study analysed a dataset of four million applications through an AI-based screening tool. It found bias against African and Asian candidates, reflecting the assumptions embedded in the design, the quality of the training data, and the priorities of developers. AI can reproduce recruitment bias as it learns from past hiring patterns. For instance, if candidates from elite universities were hired often, an AI tool may rank such applicants higher. The primary flaw in AI-based recruitment systems is the ambiguous concept of responsibility, which in conventional recruitment rests with public officials. In contrast, no algorithm carries constitutional or legal responsibility.\n\nThe second flaw is the automation bias. Public administration researchers interpret this as the decision-makers’ tendency to accept computer-generated recommendations without critical scrutiny. The greatest risk is not that AI makes mistakes, but that humans gradually stop questioning its conclusions.\n\nThe establishment of a dedicated AI-based recruitment unit suggests that AI has been treated as a separate administrative function rather than another means to strengthen governance. The unit boasts financial and technical expertise with institutional support. Studies on public administration have consistently warned against creating new entities such as AI-driven recruitment systems. These duplicate existing responsibilities, create overlapping jurisdictions as well as increase administrative fragmentation instead of reducing it.\n\nGovernments integrate typewriters and computers as tools to assist operations. These are not treated as independent functions or as separate departments. Additionally, real transformation re­­­­quires combining the latest technology with org­anisational, legal and administrative alterations.\n\nIt would have been more appropriate had the government introduced digital governance — electronic file management, process re-engineering, integrated dashboards, cybersecurity, digital records, citizen services, and a responsible application of AI across governance functions. These steps will make recruitment one element of a comprehensive digital governance ecosystem with ample consideration for technological shortcomings, preventing a specific technology from being pitched as a justification for a new institutional structure.\n\nThe promised arrangement forces us to ask an uncomfortable question: what exactly are we recruiting for? At present, it seems that we are using AI to recruit more efficiently for yesterday’s bureaucracy. The technologically recruited personnel will continue with the same old administrative tasks — maintain records, retrieve files, draft routine correspondence, process applications, and manage documentation. Ironically, these are precisely the activities that AI assists or automates around the world. Sadly, an AI-assisted recruitment scheme will only help preserve a governance model that has become archaic — transporting files from one office to the other.\n\nHistorically, what has dominated the sequence of events in governance areas is the introduction of highly visible technologies to project a modern image. In AI-based recruitment, AI serves as a ‘technology of symbolism’ rather than a technology of management. AI undoubtedly carries significant appeal today. But we must not confuse technological sophistication with institutional reforms.\n\nPurchasing and installing software is easier than redesigning bureaucracy. Such announcements are convenient and temporary replacements for improving our organisational culture. The objectives of transparency and merit in public recruitment are important. We must, therefore, appreciate the digital push by Balochistan’s authorities. But AI can boost recruitment efficiency; it cannot, on its own, overcome recruitment biases or modernise governance. The government must show a commitment to reforming institutions. The launch of new technologies in the same system is counterproductive. A digitised model risks prioritising technology over a long-overdue governance overhaul.\n\nPublished in Dawn, September 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Public Administration / Governance",
-    "topic": "AI in Public Recruitment and Digital Governance Reforms",
-    "whyMatters": "This article is crucial for understanding the complexities of integrating modern technology into public administration, highlighting the risks of isolated interventions versus holistic digital transformation. It provides arguments against superficial technological adoption, relevant for essays and analytical questions on governance and technology.",
-    "summary": [
-      "The Balochistan government's AI-based recruitment system is an 'automation island,' an isolated technological intervention in an otherwise archaic bureaucratic structure, risking institutional restructuring.",
-      "Algorithms inherently carry biases (from training data and developer assumptions), which can perpetuate existing discrimination against specific groups (e.g., African and Asian candidates as shown in a Stanford study).",
-      "A significant risk is 'automation bias,' where decision-makers uncritically accept AI-generated recommendations, thus shifting accountability from human officials who bear constitutional responsibility.",
-      "True governance reform requires comprehensive digital governance (electronic file management, process re-engineering, integrated dashboards, cybersecurity) and institutional overhaul, rather than just symbolic technological adoption."
-    ],
-    "facts": [
-      "A Stanford study analyzed four million applications via an AI-based screening tool and found bias against African and Asian candidates.",
-      "The Balochistan government announced an AI-based recruitment system managed by a dedicated unit for future government employment.",
-      "AI-based systems can process thousands of applications within minutes, demonstrating efficiency."
-    ],
-    "academicReferences": [
-      "Cathy O'Neil's 'Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy' (for algorithmic bias and societal impact)",
-      "UN e-Government Survey Report (for global benchmarks and comprehensive digital governance frameworks)",
-      "OECD Principles on Artificial Intelligence (for ethical guidelines and responsible application of AI in public sectors)"
-    ],
-    "vocabulary": [
-      {
-        "word": "meritocracy",
-        "type": "noun",
-        "definition": "A system where advancement is based on an individual's ability or achievement rather than on wealth or social privilege.",
-        "sentence": "The government aims to establish a true meritocracy in public services, ensuring only the most qualified candidates are selected."
-      },
-      {
-        "word": "opaque",
-        "type": "adjective",
-        "definition": "Not transparent or clear; difficult to understand or see through.",
-        "sentence": "The previous hiring process was criticized for its opaque decision-making, leading to public mistrust."
-      },
-      {
-        "word": "archaic",
-        "type": "adjective",
-        "definition": "Very old or old-fashioned; primitive.",
-        "sentence": "The article argues that an AI-assisted recruitment scheme risks preserving an archaic governance model."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the 'greatest risk' associated with AI-based recruitment systems in public administration?",
-        "options": [
-          "That AI makes mistakes in processing applications.",
-          "That algorithms introduce new forms of bias.",
-          "That humans stop questioning AI's conclusions.",
-          "That the system is too slow to process a large volume of applications."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'The greatest risk is not that AI makes mistakes but that humans stop questioning its conclusions,' referring to automation bias."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the article categorize AI-based recruitment as an 'automation island'?",
-        "back": "It's termed an 'automation island' because it's an isolated technological intervention (AI recruitment) within a largely unchanged, outdated, and paper-based bureaucratic structure, failing to integrate with broader governance reforms."
-      },
-      {
-        "front": "How do algorithms, despite claims of reducing bias, actually perpetuate or alter it in recruitment?",
-        "back": "Algorithms learn from past hiring patterns and embedded assumptions in their design and training data. If past hiring showed bias (e.g., favoring elite university candidates or discriminating against certain ethnicities), the AI will reproduce and amplify these biases."
-      },
-      {
-        "front": "What is 'automation bias' and what danger does it pose in public administration?",
-        "back": "Automation bias is the tendency of decision-makers to uncritically accept computer-generated recommendations without critical scrutiny. Its danger is that it shifts responsibility away from public officials, as no algorithm carries constitutional or legal accountability."
-      },
-      {
-        "front": "What comprehensive approach does the article suggest for digitalizing governance instead of just AI-based recruitment?",
-        "back": "The article suggests implementing comprehensive digital governance, including electronic file management, process re-engineering, integrated dashboards, cybersecurity, digital records, and citizen services, with AI as one element within this broader ecosystem."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788658998826-942",
-    "title": "Kashmir PM, CPEC and the crisis of credibility",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2627496/kashmir-pm-cpec-and-the-crisis-of-credibility",
-    "date": "2026-09-04",
-    "author": "\n\t\t\t\tImtiaz Gul\n\t\t\t",
-    "content": "Four recent developments explain the credibility - or the absence of it - of Pakistan's self-centred, visionless rulers and the inability of the archaic, rent-seeking bureaucracy. Both remain anchored in a mindset that has resulted in squandered opportunities. These developments also highlight the contradictions and gaps between words and actions, ideals and practice. There is little doubt that the country is facing an acute crisis of credibility and integrity. Every delay in critically important plans, every constitutional or moral violation and every defiance of Supreme Court orders makes this crisis more serious.\n\nFirstly, the selection of Azad Kashmir's Prime Minister on a technocrat seat is nothing but a brazen affront to the people at large. Voters had rejected Iftikhar Gillani in the general election, but Nawaz Sharif - on the face of it - dumped his long-time associate Shah Ghulam Qadir, only to undermine his own slogan: \"Honour the vote.\" Why would the voter - betrayed in February 2024 - trust him or the system anymore?\n\nSecondly, on August 30, the Central Development Working Party (CDWP) recommended reducing the estimated cost of the \"Construction of Water Supply Scheme to Gwadar Town from Mirani Dam under Balochistan Socio-Economic Development Projects Phase-III\" by around 20 per cent, to Rs23.82 billion, against the Rs29 billion proposed by the Balochistan government. Planning Minister Ahsan Iqbal directed the provincial government to initiate a study on wastewater treatment in Gwadar, observing that the city should not be allowed to become another Karachi, with sewage polluting the sea.\n\nThe forum, however, asked ECNEC to approve the project subject to satisfactory resolution of outstanding technical observations, particularly regarding demand figures, hydrology, confirmation of the water source, procurement strategy, land acquisition status, a self-sustainable operation and maintenance (O&M) strategy and a realistic implementation plan.\n\nStaggering, isn't it? Eleven years after the signing of multiple CPEC projects, with Gwadar at the centre of it all?\n\nEqually intriguing was another meeting on August 28, chaired by Ahsan Iqbal, which formally rejected a Frontier Works Organization (FWO) proposal for developing the 460km Rohri-Multan section of ML-1 and decided to explore alternatives for this section. The estimates did not adequately include locomotives, coaches and operating costs.\n\nIsn't it telling that a minister who has been crying hoarse about CPEC being a game-changer, including the Gwadar and ML-1 projects, is now seeking alternative sources of funding? He nevertheless deserves commendation for two things: a) refusing to clear the FWO proposal for the Rohri-Multan section because of multiple deficiencies; and b) ordering an independent audit of the costing prepared by the organisation itself.\n\nThe August 28 meeting offered yet another sad comment: planners have not finalised the ML-1 proposal, let alone secured alternative sources of funding. Nor do they appear serious; reportedly, only junior officials represented the federal ministries involved. This suggests that the bureaucracy does not expect the project to take off anytime soon.\n\nIt is a sad story indeed. Until shortly before Covid-19 struck in late 2019, the Chinese leadership was more than keen to finance the entire ML-1.\n\n\"Brother, $78 billion are peanuts for us, but tell your people to come prepared with feasible plans on ML-1. We have also worked very hard to get here and expect others to follow the same path,\" a very senior Chinese official told me when I asked about the possibility of funding for ML-1.\n\nWhat the meeting confirms is that Beijing's promised financing for the project is no longer forthcoming. For years, the promised investment was presented as the backbone of ML-1. Now the government is struggling to fill the gap.\n\nBut with its incompetence, the Pakistani bureaucracy - presumably including those with vested interests in the West and those disinclined towards Chinese investment and influence in the country - stalled the Chinese goodwill, and the project seems to have finally hit a dead end as far as Beijing is concerned.\n\nIt is perhaps a blessing in disguise that the Chinese stepped back from their earlier commitments on ML-1 financing. Why? Our politicians and bureaucracy have already messed up Chinese power-sector investments through spiralling circular debt, delayed loan repayments and hurdles in profit repatriation.\n\nThe larger issue relates to the rule of law. Locals and foreigners alike are shocked by the way superior court orders are flouted by the authorities. The latest reversal, on September 2, of a 2022 Islamabad High Court (IHC) judgment on naval farms and the sailing club offered yet another glimpse into the exceptionalism exercised by the higher courts when it comes to protecting deeply entrenched power elites. Of late, Supreme Court and IHC orders concerning former Prime Minister Imran Khan have been spurned more than once.\n\nSuch defiance of the rule of law hardly inspires confidence among the people at large or foreign investors. They see that if companies from even a \"time-tested friendly country\" such as China face enormous administrative and legal challenges, what could possibly happen to investors accustomed to having absolute confidence in the judiciary and the rule of law?",
-    "matchedQuestion": {
-      "id": "PA-2017-JUD",
-      "paper": "Pakistan Affairs",
-      "year": 2017,
-      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
-    },
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs",
-    "topic": "Crisis of Credibility: Governance, CPEC Challenges, and Rule of Law in Pakistan with Judicial Implications",
-    "whyMatters": "This article offers critical contemporary examples of how political decisions, bureaucratic inefficiencies, and the defiance of judicial orders undermine state institutions and the rule of law in Pakistan. It provides valuable analytical points for addressing questions on constitutional development by highlighting the practical challenges in upholding constitutional principles and the judiciary's role.",
-    "summary": [
-      "Pakistan faces an acute crisis of credibility due to self-centred rulers, an archaic bureaucracy, and a significant gap between stated ideals and actual practices.",
-      "Political decisions, such as the selection of Azad Kashmir's Prime Minister on a technocrat seat despite voter rejection, are seen as affronts to democratic principles and a betrayal of public trust.",
-      "Major CPEC projects like the Gwadar water supply scheme and ML-1 face substantial delays, cost-reduction mandates, lack of finalized planning, and withdrawal of promised Chinese financing, attributed to bureaucratic incompetence and potential vested interests.",
-      "The repeated defiance of superior court orders by authorities, coupled with perceived exceptionalism by higher courts for entrenched power elites, severely erodes public and foreign investor confidence in the rule of law and justice system."
-    ],
-    "facts": [
-      "The Central Development Working Party (CDWP) recommended reducing the estimated cost of the Gwadar Water Supply Scheme by 20% to Rs23.82 billion, from Rs29 billion.",
-      "Eleven years after multiple CPEC projects were signed, Gwadar's water supply project still awaits satisfactory resolution of technical observations.",
-      "The 460km Rohri-Multan section of ML-1, for which China previously offered $7-8 billion in financing, has had its FWO proposal rejected due to deficiencies, and alternative funding is now being sought."
-    ],
-    "academicReferences": [
-      "Andrew Small, \"The China-Pakistan Axis: Asia's New Geopolitics\" (Offers detailed insights into CPEC's strategic and implementation aspects).",
-      "18th Constitutional Amendment, 2010 (Crucial for understanding changes in parliamentary sovereignty, judicial appointments, and provincial autonomy).",
-      "Supreme Court of Pakistan judgments on 'public interest litigation' and 'rule of law' (Illustrates the judiciary's evolving role in governance and upholding constitutional principles amidst challenges)."
-    ],
-    "vocabulary": [
-      {
-        "word": "archaic",
-        "type": "adjective",
-        "definition": "very old or old-fashioned; primitive.",
-        "sentence": "The article criticizes the archaic, rent-seeking bureaucracy for squandering opportunities and hindering progress."
-      },
-      {
-        "word": "rent-seeking",
-        "type": "noun",
-        "definition": "the act of manipulating public policy or economic conditions as a strategy for increasing one's share of existing wealth without creating new wealth.",
-        "sentence": "The bureaucracy's rent-seeking mindset is blamed for its inability to make timely and effective decisions on critical national projects."
-      },
-      {
-        "word": "affront",
-        "type": "noun",
-        "definition": "an action or remark that causes outrage or offense.",
-        "sentence": "The selection of a rejected candidate for the Azad Kashmir PM seat was described as a brazen affront to the people and democratic values."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, which of the following best describes the impact of authorities defying superior court orders?",
-        "options": [
-          "A) It strengthens national unity and political stability.",
-          "B) It enhances confidence among foreign investors and the general public.",
-          "C) It severely damages public and investor confidence in the rule of law.",
-          "D) It leads to faster implementation of development projects."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'Such defiance of the rule of law hardly inspires confidence among the people at large or foreign investors,' indicating a severe negative impact on confidence."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article link political appointments to the crisis of credibility?",
-        "back": "The article links political appointments, specifically the selection of Iftikhar Gillani as AJK PM despite voter rejection, to the crisis of credibility by portraying it as a 'brazen affront to the people' and a betrayal of democratic principles, eroding trust."
-      },
-      {
-        "front": "What are the primary criticisms leveled against Pakistan's bureaucracy regarding CPEC projects?",
-        "back": "The bureaucracy is criticized for being 'archaic' and 'rent-seeking', demonstrating incompetence that results in significant delays, lack of preparedness for project financing (e.g., ML-1), and failure to resolve technical observations for crucial CPEC initiatives like Gwadar's water supply."
-      },
-      {
-        "front": "How does the article illustrate the challenges in financing CPEC's ML-1 project?",
-        "back": "Despite China's earlier willingness to finance the entire ML-1 project (estimated $7-8 billion), bureaucratic incompetence and potential vested interests stalled the process, leading to Beijing's withdrawal of commitments and forcing the Pakistani government to seek alternative funding sources."
-      },
-      {
-        "front": "According to the article, how does the defiance of judicial orders impact public and investor confidence?",
-        "back": "The article asserts that the frequent flouting of superior court orders, combined with perceived judicial exceptionalism for power elites, severely undermines confidence among both the general public and foreign investors regarding the rule of law and the reliability of the justice system in Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788572565190-712",
-    "title": "Managing external debt\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027100/managing-external-debt",
-    "date": "2026-09-03",
-    "author": "none@none.com (Ishrat Husain)",
-    "content": "PAKISTAN’S debt has crossed Rs100 trillion raising doubts about the stabilisation programme’s veracity. First, it’s not advisable to use absolute amounts or per capita debt. The correct way is to use indicators that relate public debt stock and debt servicing to national income, exports of goods and services, revenues, total foreign exchange earnings and foreign exchange reserves to gauge the future capacity to discharge these obligations.\n\nTo begin with, clarify the various definitions that have created a lot of confusion in laymen’s minds. Pakistan’s total debt and liabilities consist of public debt and private debt. Public debt accounted for 91 per cent of the total stock of outstanding debt and liabilities on June 30, 2026. The remaining 9pc is the private debt mostly to borrowers abroad, for which the government has no fiscal obligation. However, the State Bank of Pakistan (SBP) has to provide foreign exchange to service this debt.\n\nWithin the gross public debt, the government’s share was almost 92pc while the balance was owed by public enterprises but guaranteed by the government. Borrowing from the IMF is also included in the gross public debt, although it is the SBP’s liability. The total debt and liabilities is made up of borrowings in rupees from the SBP, banks, national savings schemes, prize bonds, Sukuk etc., and borrowings in foreign currency from multilateral institutions such as the World Bank, ADB, IDB, bilateral governments or global financial markets in the form of Eurobonds or Sukuk.\n\nRupee-denominated borrowing is termed ‘domestic debt’ and foreign currency-denominated borrowing ‘external debt’. Domestic debt risks are different from those of the external debt. Lumping them together is analytically incorrect. While both create debt-servicing liability for budgetary purposes and thus affect fiscal balances, the risk profile of each is quite different. Domestic debt has to be paid in rupees, which can be printed, or the central bank can acquire those obligations on its balance sheet by creating reserve money. It involves creating possible inflationary pressures but there is no risk of default — a real threat in case of foreign currency-denominated debt. Countries that have suffered debt crises have faced solvency and liquidity risks in servicing their foreign currency loans. Risks from domestic debt include rollover risk, interest rate risk, and crowding out of private-sector credit. Here, we’ll focus largely on external debt and liabilities and its servicing.\n\nThe reform journey to increase exports, investment and productivity must be accelerated.\n\nPakistan’s external debt and liabilities amount to $139 billion, of which public sector debt accounts for almost two-thirds and the private sector one-third. In the public sector, direct government debt is 80pc of the total. What are the diagnostics of vulnerability indicators of the stock of EDL and debt-servicing capacity? First is the break-up between medium- and long-term and short-term loans. In our case, the ratio is: 88 MLT and 12 ST. Official liquid reserves are enough to cover the ST loans and loans maturing during the year. However, the rollover of friendly country deposits next year will go up to $12bn again. Second is concessionality — the average interest rate, years to maturity, and proportion of fixed rate loans. The higher the element of concessionality, the stronger the safety valve. Fifty per cent of loans are concessional, showing a downward slide from the past ratios. Other stock indicators don’t look healthy. Third, EDL-to-GDP ratio has moved from 24pc to 31pc in the last decade. Fourth, EDL-to-export of goods and services too has worsened — from 210 to 340. Fifth, EDL-to-foreign exchange earnings shows an upward movement from 100 to 168 — not a satisfactory trend. Sixth, EDL-to-foreign exchange reserves has shot up alarmingly from 350 to 750, despite a build-up of reserves in the last two years.\n\nDebt-servicing indicators show that external debt servicing-to-GDP has risen from 1.7pc to 4pc, while EDS-to-exports of goods and services has more than doubled from 18pc to 44pc. So has EDS-to-foreign exchange earnings from 10pc to 22pc and EDS-to-foreign exchange reserves from 37pc to 98pc.\n\nThis picture shows that to exit the IMF programme after October 2027, palliative measures are needed over the next two years to relieve the debt situation and build up capacity to absorb shocks. There are four levers to reduce the ratios: a) faster growth of exports and foreign exchange earnings; b) faster GDP growth in US dollars; c) lower current account deficits; and (d) lower interest and refinancing costs via concessional financing and maturity extension.\n\nAssuming 4pc GDP growth in FY27-29, inflation contained at 6.5pc, fiscal deficit of 2.9pc and primary surplus of 2pc, the target should be to bring the debt-to-GDP ratio to 60pc and external debt-to-GDP ratio to 25pc by FY29 by implementing these policy measures: a) export of goods to reach $40bn rather than $36bn — a $4bn increase; b) import of goods to reach $76bn instead of $79bn — savings of $3bn; c) export of services to move up to $12bn instead of $11bn — a $1bn increase; d) workers’ remittances to go up to $46bn instead of $43bn — an increase of $3bn; and e) an FDI of $3.7bn rather than $2.7bn — a jump of $1bn.\n\nThe reform journey to increase exports, investment and productivity must be accelerated. The list of delayed and deferred decisions is long. To mention a few — reducing the tax burden and overregulation of manufacturing and export, upgrading oil refineries, third-party access to oil exploration companies, introduction of weighted average cost of gas, opening up retail electricity and gas business to the private sector, elimination of cross-subsidy from industrial to domestic consumers rather than targeting through BISP, the ML-I railway track (announced in 2015), the Sukkur-Hyderabad motorway, increased share of railway freight traffic, tax collection under agriculture income tax, property tax, GST on professional services, operationalising Exim Bank for export financing and insurance, streamlining FBR’s export facilitation scheme, expeditious ref­u­­nds to exporters, increasing productivity of small­­holder agriculture, financial access for SMEs, agriculture, low-cost housing, and SEZs for CPEC 2.0. The announcement and implementation of the industrial policy can help achieve the outlined increases and savings in the external account.\n\nThe amount of $12bn can be used for liquidating the bilateral deposits if they are not swapped for equity in long gestation investment projects or their maturities are not extended to the long term. By FY29, the removal of this Damocles sword over our heads should be able to moderate the vulnerability indicators discussed earlier. We don’t have to seek another loan from the IMF and can regain our economic sovereignty.\n\nThe writer is a former State Bank governor.\n\nPublished in Dawn, September 3rd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Challenges of Pakistan: External Debt, Balance of Payments, and Export Performance",
-    "whyMatters": "This article provides a comprehensive diagnosis of Pakistan's external debt vulnerabilities, directly linking them to the balance-of-payments constraint by analyzing key indicators like EDL-to-exports and foreign exchange earnings. It offers concrete policy recommendations, particularly emphasizing accelerated export growth and FDI, which are crucial for addressing the long-term challenge of Pakistan's export performance and reducing pressure on foreign exchange reserves.",
-    "summary": [
-      "It is crucial to analyze debt using relative indicators (e.g., debt-to-GDP, debt-to-exports) rather than absolute amounts to accurately gauge a country's capacity to service obligations.",
-      "A clear distinction must be made between domestic and external debt, as they carry different risk profiles, with external debt posing solvency and liquidity risks and domestic debt primarily inflationary and crowding-out risks.",
-      "Pakistan's external debt vulnerability indicators, such as EDL-to-GDP, EDL-to-exports, and debt servicing ratios, have significantly worsened over the last decade, pointing to a precarious economic situation.",
-      "To exit the IMF program and achieve economic sovereignty, Pakistan must implement policy measures focused on increasing exports, services, remittances, and FDI, while reducing imports and refinancing costs through concessional financing and maturity extensions."
-    ],
-    "facts": [
-      "Pakistan’s external debt and liabilities amount to $139 billion, of which public sector debt accounts for almost two-thirds.",
-      "The ratio of External Debt and Liabilities (EDL) to exports of goods and services has worsened from 210 to 340 in the last decade.",
-      "The article targets an increase in export of goods to $40 billion (from $36 billion) and workers’ remittances to $46 billion (from $43 billion) by FY29."
-    ],
-    "academicReferences": [
-      "International Monetary Fund (IMF) Country Reports on Pakistan",
-      "World Bank Pakistan Development Update",
-      "Government of Pakistan's Economic Survey",
-      "State Bank of Pakistan (SBP) Annual Reports"
-    ],
-    "vocabulary": [
-      {
-        "word": "veracity",
-        "type": "noun",
-        "definition": "truthfulness, accuracy",
-        "sentence": "Doubts about the stabilisation programme’s *veracity* were raised as Pakistan’s debt crossed Rs100 trillion."
-      },
-      {
-        "word": "concessionality",
-        "type": "noun",
-        "definition": "the condition of being granted at reduced or favorable terms, especially regarding loans or aid",
-        "sentence": "The higher the element of *concessionality* in loans, the stronger the safety valve for a country's economy."
-      },
-      {
-        "word": "palliative",
-        "type": "adjective",
-        "definition": "relieving pain or symptoms without curing the cause; mitigating",
-        "sentence": "To exit the IMF programme, *palliative* measures are needed over the next two years to relieve the debt situation."
-      },
-      {
-        "word": "Damocles sword",
-        "type": "noun",
-        "definition": "an impending danger or threat",
-        "sentence": "The amount of $12bn represents a *Damocles sword* over our heads if these bilateral deposits are not strategically managed."
-      },
-      {
-        "word": "sovereignty",
-        "type": "noun",
-        "definition": "supreme power or authority; the full right and power of a governing body over itself, without any interference from outside sources",
-        "sentence": "By effectively managing its external debt, Pakistan can regain its economic *sovereignty* and avoid seeking another loan from the IMF."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the correct way to assess a country's debt burden?",
-        "options": [
-          "By focusing on absolute amounts like Rs100 trillion.",
-          "By calculating per capita debt figures.",
-          "By relating public debt stock and servicing to national income, exports, and reserves.",
-          "By comparing domestic debt to private debt ratios."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'The correct way is to use indicators that relate public debt stock and debt servicing to national income, exports of goods and services, revenues, total foreign exchange earnings and foreign exchange reserves to gauge the future capacity to discharge these obligations.'"
-      },
-      {
-        "question": "What is the primary risk associated with foreign currency-denominated (external) debt, as highlighted in the article?",
-        "options": [
-          "Inflationary pressures.",
-          "Crowding out of private-sector credit.",
-          "Risk of default (solvency and liquidity risks).",
-          "Rollover risk specific to domestic debt."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article differentiates risks, stating, 'Domestic debt... involves creating possible inflationary pressures but there is no risk of default — a real threat in case of foreign currency-denominated debt. Countries that have suffered debt crises have faced solvency and liquidity risks in servicing their foreign currency loans.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article suggest appropriately gauging a country's future capacity to discharge debt obligations?",
-        "back": "By using indicators that relate public debt stock and debt servicing to national income, exports, revenues, foreign exchange earnings, and foreign exchange reserves, rather than absolute amounts or per capita debt."
-      },
-      {
-        "front": "What critical distinction does the article make regarding different types of debt, and why is this analytical separation important?",
-        "back": "The article distinguishes between domestic (rupee-denominated) and external (foreign currency-denominated) debt. This separation is crucial because they carry different risk profiles: domestic debt poses inflationary and crowding-out risks, while external debt carries a real threat of default (solvency and liquidity risks)."
-      },
-      {
-        "front": "Identify two specific external debt vulnerability indicators cited in the article that show a worsening trend for Pakistan.",
-        "back": "The EDL-to-GDP ratio has moved from 24pc to 31pc, and the EDL-to-export of goods and services has worsened from 210 to 340 in the last decade. (Other acceptable answers include EDL-to-foreign exchange earnings and EDL-to-foreign exchange reserves)."
-      },
-      {
-        "front": "According to the article, what are four key policy levers Pakistan can use to reduce debt ratios and build capacity to absorb shocks?",
-        "back": "The four levers are: faster growth of exports and foreign exchange earnings; faster GDP growth in US dollars; lower current account deficits; and lower interest and refinancing costs via concessional financing and maturity extension."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788572646157-389",
-    "title": "Diplomatic success\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027096/diplomatic-success",
-    "date": "2026-09-03",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S star in the field of foreign policy is on the ascendant. Not too long ago, because of our own mistakes and the malevolence of some in the neighbourhood, Pakistan’s reputation had suffered internationally. That situation has changed. Today, in the region and the world, Pakistan is recognised for its diplomatic finesse, for bringing together adversaries, and for contributing to regional peace. Yet for all the accolades, the country can only capitalise on this improved reputation by addressing the internal hurdles holding it back from the path of progress.\n\nPrime Minister Shehbaz Sharif was recently in Bishkek, Kyrgyzstan, to attend the SCO Council of Heads of State summit. Pakistan has assumed the SCO chair and the next summit will be held in Islamabad. At the event, Mr Sharif met with leaders from within the Eurasian bloc, including those of Russia and China. Just before the summit, the first formal meeting of the Makkah Defence Alliance was held in Istanbul.\n\nAt this forum too, Pakistan’s relevance on the global stage was highlighted — this country has been chosen to head the pact’s secretariat. The pact itself is the extension of last year’s defence agreement signed with the Saudis; that development, too, had attracted global attention. But perhaps the biggest diplomatic coup Pakistan has pulled off in the recent past was to bring Iran and the US to the negotiating table in Islamabad in April. While violence has again flared between these two states, the global consensus remains that the Islamabad MoU offers the best path to peace.\n\nAll of these laurels are well-earned, as Pakistan’s leadership has gone the extra mile to promote peace in the region. However, the true value of these diplomatic successes can only be realised when there is peace and prosperity within. Internally, the challenges remain formidable. Pakistan faces two major terrorist insurgencies in KP and Balochistan. Meanwhile, though the economic situation is now comparatively stable to what it had been not too long ago, the country is still far from the path of sustainable growth.\n\nPolitical instability is another major concern. Unless space is granted to all political forces in Pakistan, stability will elude us. The PM also spoke of the importance of regional connectivity in Bishkek. Regional integration is key, but when Pakistan faces two hostile neighbours — India to the east and Taliban-ruled Afghanistan to the west — as well as a war in Iran and the Gulf, achieving this integration becomes challenging.\n\nWhile Pakistan can again extend the hand of friendship to New Delhi and Kabul, much depends on how these states respond, while the situation in the Gulf is beyond Pakistan’s control. What can be done is to address internal matters such as security, economic policy and political reconciliation.\n\nPublished in Dawn, September 3rd, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Current Affairs",
-    "topic": "Pakistan's Regional Integration and Foreign Policy Challenges",
-    "whyMatters": "While the article does not mention ECO, it offers crucial insights into Pakistan's current regional integration efforts through SCO and other alliances, directly addressing the 'framework of regional integration' aspect of the question. It provides recent examples of diplomatic successes and the internal hurdles Pakistan faces, enabling a nuanced discussion on the broader prospects for regional engagement.",
-    "summary": [
-      "Pakistan's foreign policy stature is on the ascendant, earning international recognition for diplomatic finesse and contributions to regional peace.",
-      "Recent diplomatic achievements include assuming the SCO chair, heading the Makkah Defence Alliance secretariat, and mediating talks between Iran and the US.",
-      "These external successes are undermined by significant internal challenges such as terrorism in KP and Balochistan, economic instability, and political instability.",
-      "Regional connectivity is a key goal, but is complicated by hostile neighbors (India, Afghanistan) and regional conflicts (Iran, Gulf war).",
-      "To fully capitalize on diplomatic gains, Pakistan must prioritize addressing internal security, economic policy, and political reconciliation.",
-      "The Islamabad MoU between Iran and the US is highlighted as a significant diplomatic coup, offering a path to peace despite renewed violence."
-    ],
-    "facts": [
-      "Prime Minister Shehbaz Sharif attended the SCO Council of Heads of State summit in Bishkek, Kyrgyzstan.",
-      "Pakistan has assumed the SCO chair, with the next summit scheduled to be held in Islamabad.",
-      "Pakistan has been chosen to head the secretariat of the Makkah Defence Alliance, whose first formal meeting was held in Istanbul.",
-      "Pakistan facilitated the first formal meeting between Iran and the US in Islamabad in April, resulting in an MoU for peace."
-    ],
-    "academicReferences": [
-      "Shanghai Cooperation Organisation (SCO) Charter and Declarations",
-      "Organisation of Islamic Cooperation (OIC) Resolutions on collective security and defence cooperation (relevant to Makkah Defence Alliance)",
-      "International Monetary Fund (IMF) and World Bank Reports on Pakistan's economic stability and regional trade integration"
-    ],
-    "vocabulary": [
-      {
-        "word": "Ascendant",
-        "type": "adjective",
-        "definition": "Rising in power, influence, or prominence.",
-        "sentence": "Pakistan's star in the field of foreign policy is on the ascendant, gaining international recognition."
-      },
-      {
-        "word": "Malevolence",
-        "type": "noun",
-        "definition": "The state or condition of being malicious or evil.",
-        "sentence": "Because of our own mistakes and the malevolence of some in the neighbourhood, Pakistan’s reputation had suffered internationally."
-      },
-      {
-        "word": "Finesse",
-        "type": "noun",
-        "definition": "Refinement or delicacy of workmanship, skill, or style.",
-        "sentence": "Today, in the region and the world, Pakistan is recognised for its diplomatic finesse, for bringing together adversaries."
-      },
-      {
-        "word": "Accolades",
-        "type": "noun",
-        "definition": "An award or privilege granted as a special honor or as an acknowledgment of merit.",
-        "sentence": "Yet for all the accolades, the country can only capitalise on this improved reputation by addressing the internal hurdles."
-      },
-      {
-        "word": "Formidable",
-        "type": "adjective",
-        "definition": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
-        "sentence": "Internally, the challenges remain formidable, including two major terrorist insurgencies."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which international organization's chair has Pakistan recently assumed, with the next summit scheduled in Islamabad?",
-        "options": [
-          "OIC",
-          "ECO",
-          "SCO",
-          "SAARC"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states Pakistan has assumed the SCO chair, and the next summit will be held in Islamabad."
-      },
-      {
-        "question": "What significant diplomatic 'coup' did Pakistan achieve regarding Iran and the US?",
-        "options": [
-          "Facilitating a trade agreement",
-          "Arranging their first formal negotiating meeting in Islamabad",
-          "Mediating a prisoner exchange",
-          "Establishing a joint military exercise"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions Pakistan brought Iran and the US to the negotiating table in Islamabad in April, leading to an MoU."
-      },
-      {
-        "question": "According to the article, which of the following is NOT an internal hurdle holding Pakistan back from progress?",
-        "options": [
-          "Economic instability",
-          "Terrorist insurgencies",
-          "Political instability",
-          "Hostile neighbours"
-        ],
-        "answerIndex": 3,
-        "explanation": "Hostile neighbours are described as an external challenge to regional integration, whereas economic instability, terrorist insurgencies, and political instability are listed as internal challenges."
-      },
-      {
-        "question": "What alliance is Pakistan chosen to head the secretariat for, following its first formal meeting in Istanbul?",
-        "options": [
-          "SCO",
-          "Makkah Defence Alliance",
-          "SAARC",
-          "ECO"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that Pakistan has been chosen to head the secretariat of the Makkah Defence Alliance."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary reason the article states Pakistan's international reputation has improved recently?",
-        "back": "Pakistan is recognized for its diplomatic finesse, for bringing together adversaries, and for contributing to regional peace."
-      },
-      {
-        "front": "List two major internal challenges Pakistan faces that hinder it from fully capitalizing on diplomatic successes.",
-        "back": "Two major internal challenges are terrorist insurgencies in KP and Balochistan, and political instability preventing space for all political forces."
-      },
-      {
-        "front": "How does the article describe the impact of Pakistan's hostile neighbors on regional integration efforts?",
-        "back": "Hostile neighbors (India to the east and Taliban-ruled Afghanistan to the west) make achieving regional integration challenging, despite the importance of regional connectivity."
-      },
-      {
-        "front": "What, according to the article, is considered the 'biggest diplomatic coup' Pakistan has pulled off in the recent past?",
-        "back": "Bringing Iran and the US to the negotiating table in Islamabad in April, with the resulting Islamabad MoU offering the best path to peace."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788572390572-750",
-    "title": "Regulatory failure\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027099/regulatory-failure",
-    "date": "2026-09-03",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "WHEN a regulator fails to do its job, the consequences are felt by everyone, even if in ways too subtle to notice directly. The Securities and Exchange Commission of Pakistan (SECP) is the apex regulator for all financial markets and incorporated companies in the country. Next to it is the front-line regulator, the Pakistan Stock Exchange (PSX), whose job is to regulate listed companies and trading activity on the stock market floor. And the State Bank of Pakistan (SBP) is the main regulator for all banks.\n\nIt is the job of these three entities to ensure that companies under their watch are not breaking the law, or taking risks that threaten systemic stability, or concealing material information from their shareholders (in the case of listed companies), or engaging in insider trading. The job is not easy and requires constant vigilance. It also requires moral courage.\n\nWhat reportedly happened at Unity Foods, a listed company operating in edible oil and rice, now in the crosshairs of the FIA, was a stark example of regulatory failure. The company is accused of having discrepancies totalling more than Rs44 billion between its published accounts and internal record. The SECP reportedly smelled trouble in the company as far back as 2019, but ran into legal hurdles in its efforts to try and investigate. By the time the investigation finally concluded and enough material was gathered to merit accusations of alleged criminal liability, almost six years had passed.\n\nThe big problem here is the sanctity of accounts of listed companies that are publicly owned and traded. In the case of Unity Foods, the biggest shareholder happened to be a Singapore-based company called Wilmar International, which announced earlier this year that they have taken a loss of $150 million on their books due to their investment in Pakistan. Their statement said the audited statements they were shown by company management all along appeared to show profitability and healthy material assets. Then, in 2025, the company began having difficulty servicing its bank debts, leading to questions from the Board, and the eventual departure of its CEO and founder in December 2025, followed by its CFO in January. Since then, Wilmar said it discovered a string of inconsistencies on the company’s books in financial and working capital items, leading ultimately to an FIR a few days ago.\n\nIf regulators can’t detect malpractices until a company’s solvency is in doubt, then why would investors feel safe putting their money in the country?\n\nThe bigger story here is the hit that Pakistan’s corporate governance framework takes with this episode. If this could happen in a listed company, overseen by two highly staffed regulators (the PSX and SECP), and auditors could sign off on the company’s health one year, only for criminal charges to be filed against massive discrepancies between its published and internal data to be discovered a year later, then what does it say for the quality of our regulators and auditors?\n\nThis episode shows why investment, whether foreign or domestic, is so difficult to arrange in Pakistan. If two regulators and an auditing firm can fail to detect these kinds of malpractices for so long, until the company has reached a point where its solvency is in doubt, then how is an investor supposed to feel confident about putting money down in Pakistan with long repayment horizons? And this is only the most extreme example of regulatory failure.\n\nConsider another problem that is brewing in our banking industry but has not yet detonated into a crisis. Everyone knows that one bank is so overextended in the amounts it has borrowed short term from the State Bank that it is today the single most concentrated source of systemic risk that the financial system has seen. The bank’s borrowing from the short-term window known as Open Market Operations (OMO) is now larger than its total deposit base, meaning it owes more to the SBP than it does to its own depositors. I cannot recall a similar situation in our financial history, at least not over the last quarter of a century.\n\nIn the last three years, its borrowing from the OMO window went from six per cent of the total to more than 50pc today. From around the summer of 2023, the SBP’s OMO book grew by Rs5.5 trillion, and the bank took on more than 100pc of this. Read that again. Not only did the SBP grow its entire OMO book by a staggering amount, injecting all that money into the monetary system, but it also allowed one bank to soak up all of it, as well as whatever was rolling off the books of other banks.\n\nMore than 97pc of this borrowing from the OMO window was set to mature between one to seven days in the bank’s last annual report. Nobody knows whether this maturity structure has changed much in the last eight or nine months. This is disturbing. The bank is refinancing its entire SBP position almost every week. The amount that is at stake is more than 10 times its total equity.\n\nClearly, this situation is untenable. Yes, the build-up is secured against government paper and does not present default risk in the narrow sense. But if the SBP has to stop rolling this mess over, or if there is an external shock that forces a rate hike for example, it could force a fire sale of this same government paper into a market that cannot absorb them, at a bank whose equity is a tiny fraction of the total position. The central bank has lent itself into a corner, and nobody there seems to be asking any questions about this. Its OMO book is how the SBP manages market liquidity, and today almost half of it is held by one bank, that cannot repay without liquidating itself. This is also regulatory failure.\n\nThe writer is a business and economy journalist.\n\nPublished in Dawn, September 3rd, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Current Affairs / Economics",
-    "topic": "Regulatory Failure and Investor Confidence in Pakistan's Financial Sector",
-    "whyMatters": "This article critically examines profound regulatory failures within Pakistan's financial sector, using specific case studies to illustrate their detrimental impact on corporate governance and investor confidence. It is crucial for aspirants to understand these issues for questions pertaining to economic stability, governance, and challenges to investment in the country.",
-    "summary": [
-      "Pakistan's apex regulators (SECP, PSX, SBP) are responsible for ensuring legal compliance, preventing systemic risks, promoting transparency, and curbing illicit activities like insider trading in financial markets.",
-      "The Unity Foods scandal, involving over Rs44 billion in discrepancies and a six-year regulatory investigation, starkly exemplifies deep-seated regulatory failure and severely damaged foreign investor confidence, notably Wilmar International's $150 million loss.",
-      "The article critically questions the effectiveness of Pakistan's corporate governance framework, regulators, and auditors, as they failed to detect massive financial malpractices until a company's solvency was threatened.",
-      "A brewing crisis in the banking sector involves a single unidentified bank's excessive short-term borrowing from the SBP's Open Market Operations (OMO), creating an unprecedented concentrated systemic risk that is larger than its deposit base and equity."
-    ],
-    "facts": [
-      "Unity Foods is accused of having discrepancies totalling more than Rs44 billion between its published accounts and internal records.",
-      "Wilmar International, a major shareholder in Unity Foods, announced a loss of $150 million on its books due to its investment in Pakistan.",
-      "One unnamed bank's borrowing from SBP's OMO window went from 6% to over 50% of the total in three years, exceeding its total deposit base and being more than 10 times its total equity."
-    ],
-    "academicReferences": [
-      "International Monetary Fund (IMF) Country Reports on Pakistan's Financial Sector Assessment Program (FSAP)",
-      "Basel Accords (I, II, III) on international banking regulations and capital adequacy standards",
-      "Reports and recommendations from the Financial Stability Board (FSB) on effective resolution regimes and corporate governance"
-    ],
-    "vocabulary": [
-      {
-        "word": "Regulator",
-        "type": "noun",
-        "definition": "An official or agency controlling a particular activity or industry.",
-        "sentence": "The Securities and Exchange Commission of Pakistan (SECP) is the apex regulator for all financial markets."
-      },
-      {
-        "word": "Solvency",
-        "type": "noun",
-        "definition": "The state of being able to pay all debts.",
-        "sentence": "If regulators can’t detect malpractices until a company’s solvency is in doubt, then why would investors feel safe?"
-      },
-      {
-        "word": "Untenable",
-        "type": "adjective",
-        "definition": "Not able to be maintained or defended against attack or objection.",
-        "sentence": "Clearly, this situation with the overextended bank's borrowing is untenable and poses significant systemic risk."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What primary consequence does the article attribute to prolonged regulatory failure in Pakistan?",
-        "options": [
-          "Increased government revenue through fines.",
-          "Significant erosion of investor confidence and difficulty in attracting investment.",
-          "Rapid expansion of new financial markets.",
-          "Stronger regional economic integration with ECO members."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article repeatedly emphasizes that regulatory failures like the Unity Foods case make investors lose confidence and make it 'difficult to arrange investment, whether foreign or domestic,' directly impacting economic growth."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the key impact of regulatory failure on investor confidence, as illustrated by the Unity Foods scandal?",
-        "back": "Regulatory failure, especially when malpractices are undetected for years, severely damages investor confidence and makes it challenging to attract both foreign and domestic investment due to perceived high risk and weak corporate governance."
-      },
-      {
-        "front": "Identify two major regulatory bodies in Pakistan's financial sector mentioned in the article.",
-        "back": "The Securities and Exchange Commission of Pakistan (SECP) and the State Bank of Pakistan (SBP) are highlighted as apex regulators."
-      },
-      {
-        "front": "Describe the systemic risk presented by the unnamed bank's extensive borrowing from the SBP's Open Market Operations (OMO).",
-        "back": "The bank's OMO borrowing, surpassing its deposit base and equity, creates a concentrated systemic risk where SBP is 'lent into a corner,' potentially facing fire sales of government paper if refinancing stops or an external shock occurs."
-      },
-      {
-        "front": "How does the article link regulatory shortcomings to Pakistan's broader economic challenges?",
-        "back": "The article explicitly states that such regulatory failures hinder Pakistan's ability to secure investment, both foreign and domestic, directly impacting economic stability and growth prospects."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788659160247-413",
-    "title": "Rights in jail\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027094/rights-in-jail",
-    "date": "2026-09-03",
-    "author": "none@none.com (Editorial)",
-    "content": "THE Islamabad High Court earlier this week ruled on two petitions challenging the conditions in which former prime minister Imran Khan and former first lady Bushra Bibi have been kept in Adiala Jail, ordering the jail superintendent to ensure they receive the privileges they are entitled to as prisoners and that neither is kept in isolation.\n\nIt is disturbing to note that though jail officials and government representatives have consistently denied allegations that the two prisoners are being held in solitary confinement for extended periods, medical records submitted by the authorities indicate that the former prime minister has started suffering physically from the effects of isolation. Indeed, the court noted that “the admitted fact remains that access of the general prison population to his place of confinement is substantially restricted and his meaningful social interaction is consequently limited”, and that the record “prima facie recognises the adverse impact of restricted social and familial interaction upon the prisoner’s psychological and physical well-being”.\n\nAs the court rightly noted, a prisoner’s right to life, dignity and humane treatment “are not extinguished at the prison gate”. This, in particular, seems to be something that those running the Pakistani penal system have never quite wrapped their heads around. Human beings cannot be mistreated, even when they have erred. The law may prescribe the most severe punishment for their crimes, but that does not mean prisoners can be treated by their jailers as they see fit.\n\nUnfortunately, most Pakistani prisoners are frequently made to suffer far more than what is just or right. The injustices done to them are also very rarely remedied. Therefore, for a once powerful leader to be made to suffer in this manner is merely a symptom of a much larger disease. Our penal system needs much more than one-time interventions to address its maladies; it needs to be rebuilt as an instrument of justice rather than remain a means of inflicting pain.\n\nPublished in Dawn, September 3rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 75,
-    "paper": "Pakistan Affairs / Current Affairs / Human Rights Law",
-    "topic": "Prisoner Rights, Humane Treatment, and Penal System Reform in Pakistan",
-    "whyMatters": "This article is crucial as it highlights the judicial assertion of fundamental human rights for prisoners, even high-profile ones, against the backdrop of systemic issues within Pakistan's penal system. Students can use it to illustrate judicial activism, the importance of constitutional rights, and the urgent need for comprehensive penal reforms to ensure justice and human dignity.",
-    "summary": [
-      "The Islamabad High Court (IHC) ruled against the isolation of former PM Imran Khan and Bushra Bibi, affirming their entitlement to prisoner privileges.",
-      "Medical records submitted by authorities confirmed physical suffering caused by isolation, contradicting denials of solitary confinement.",
-      "The court emphasized that a prisoner's fundamental rights to life, dignity, and humane treatment are not forfeited upon incarceration.",
-      "The article criticizes Pakistan's penal system as being fundamentally flawed, serving as a means of inflicting pain rather than justice, and needing complete rebuilding."
-    ],
-    "facts": [
-      "The Islamabad High Court ruled on petitions challenging the conditions of Imran Khan and Bushra Bibi in Adiala Jail.",
-      "Medical records indicated the former prime minister started suffering physically from the effects of isolation.",
-      "The court noted that \"access of the general prison population to his place of confinement is substantially restricted,\" leading to limited social interaction."
-    ],
-    "academicReferences": [
-      "Constitution of Pakistan: Articles 9 (Security of person), 14 (Dignity of man), and 25 (Equality of citizens).",
-      "International Human Rights Law: Universal Declaration of Human Rights (UDHR) Article 5, and International Covenant on Civil and Political Rights (ICCPR) Article 10.",
-      "Penal Reform Standards: United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules)."
-    ],
-    "vocabulary": [
-      {
-        "word": "extinguished",
-        "type": "verb",
-        "definition": "to put an end to; abolish or destroy.",
-        "sentence": "a prisoner’s right to life, dignity and humane treatment 'are not extinguished at the prison gate'."
-      },
-      {
-        "word": "maladies",
-        "type": "noun",
-        "definition": "diseases or serious problems.",
-        "sentence": "Our penal system needs much more than one-time interventions to address its maladies."
-      },
-      {
-        "word": "penal system",
-        "type": "noun",
-        "definition": "a system of laws, policies, and institutions concerning the punishment of criminals.",
-        "sentence": "those running the Pakistani penal system have never quite wrapped their heads around [prisoner rights]."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the Islamabad High Court's ruling highlighted in the article, what core principle governs the treatment of prisoners?",
-        "options": [
-          "A) Prisoners forfeit all rights upon conviction",
-          "B) Jailers can treat prisoners as they see fit",
-          "C) A prisoner's rights to life, dignity, and humane treatment are not extinguished at the prison gate",
-          "D) High-profile prisoners are entitled to superior treatment"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly quotes the court stating, 'a prisoner’s right to life, dignity and humane treatment 'are not extinguished at the prison gate',' making this the central principle asserted."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the key directive of the Islamabad High Court regarding the living conditions of Imran Khan and Bushra Bibi?",
-        "back": "The IHC ordered the jail superintendent to ensure they receive entitled privileges and are not kept in isolation."
-      },
-      {
-        "front": "What fundamental human rights does the article, referencing the court, argue are *not* extinguished for prisoners?",
-        "back": "The rights to life, dignity, and humane treatment."
-      },
-      {
-        "front": "What medical evidence was presented to the court regarding the impact of isolation on Imran Khan?",
-        "back": "Medical records indicated he had started suffering physically from the effects of isolation."
-      },
-      {
-        "front": "What is the overarching criticism of the Pakistani penal system presented in the article?",
-        "back": "It is seen as a means of inflicting pain rather than an instrument of justice, requiring fundamental rebuilding."
       }
     ]
   }
