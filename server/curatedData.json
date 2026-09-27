@@ -541,6 +541,116 @@
     ]
   },
   {
+    "id": "curated-1790475149910-765",
+    "title": "Palestine in focus\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032517/palestine-in-focus",
+    "date": "2026-09-25",
+    "author": "none@none.com (Editorial)",
+    "content": "ISRAEL’S barbaric violence in Gaza, as well as rampages by extremist Jewish settlers in the West Bank, have earned the Zionist state the opprobrium of several states during the ongoing UN General Assembly.\n    \nWhile the impassioned speeches will not be enough to stop the violence against the Palestinian people, they do indicate that even some of Israel’s allies in the West are having a difficult time justifying its monstrous behaviour. French President Emmanuel Macron said the “spectacle” in Gaza should “shame us all”. He also highlighted the grim situation in the West Bank. Similarly, Turkish President Recep Erdogan termed Gaza an “inhumane … concentration camp”.\nAt a separate meeting on the two-state solution, Deputy Prime Minister Ishaq Dar slammed the Israeli “machinery of occupation”. At the same event, UN Secretary-General António Guterres said “time is running out” for the two-state solution. Perhaps the outgoing UN head was being overly optimistic — Israel has done all possible to ensure a viable Palestinian state does not emerge.\nNot too far from these meetings the Board of Peace was also holding a session, pledging $2.45bn for Gaza’s ‘recovery’. While the promise of these funds should be welcomed, the reality in the occupied Strip tempers any hopes for Gaza’s betterment. After all, since last year’s ceasefire Israel has murdered some 1,400 people in Gaza, mostly civilians, while Tel Aviv has refused to end its occupation of the Strip, even though Hamas agreed to give up its arms. Meanwhile, illegal settlements have exploded in the West Bank, with Jewish settlers growing more vicious in their attacks by the day. Therefore, throwing money at Gaza will do little if the Palestinians remain under siege, and the theft of their land continues.\nIf conscientious members of the international community are serious about their concern for Palestine, they must back their talk with action. Israel must be held to account for its genocidal violence in Gaza, while settlers in the West Bank should be punished for their occupation of Palestinian land, and frequent physical attacks on Arabs.\nAll illegal settlements need to be uprooted. Sadly, while calls for a two-state solution continue, the current Israeli regime — and whatever dispensation emerges after the coming elections in the Zionist state — will remain hell-bent on preventing a sovereign Palestinian state from emerging. Meanwhile, Israel’s most powerful foreign patron — the US — seems utterly uninterested in making Tel Aviv commit itself to the peace process. PR stunts under the Board of Peace are one thing; genuine pressure on Israel to end the occupation is another. Can the Palestinian people expect relief when such powerful actors remain committed to prolonging their suffering?\nPublished in Dawn, September 25th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-PAL",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Palestine conflict is a long-standing one on the United Nations table. Discuss its recent escalation since October 2023 and critically assess the big powers’ reaction to it."
+    },
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Current Affairs",
+    "topic": "Palestine Conflict and International Response",
+    "whyMatters": "This article provides a critical, forward-looking assessment (dated 2026) of the international community's response to the Palestine conflict post-October 2023, offering specific examples of world leaders' statements and a strong critique of major powers' inaction. It directly addresses the long-standing nature of the conflict and the big powers' reactions, making it highly valuable for answering the exact exam question.",
+    "summary": [
+      "Israel's violence in Gaza and the West Bank has drawn significant opprobrium from various states during the UN General Assembly.",
+      "Despite impassioned speeches and pledges of aid, international responses are deemed insufficient to halt the violence and prevent the ongoing Israeli occupation and settlement expansion.",
+      "The article critically notes that Israel is actively preventing a viable two-state solution, with the UN Secretary-General acknowledging time is running out.",
+      "The United States, as Israel's most powerful foreign patron, is assessed as uninterested in genuine pressure for peace, thereby prolonging the suffering of the Palestinian people."
+    ],
+    "facts": [
+      "French President Emmanuel Macron stated the \"spectacle\" in Gaza should \"shame us all.\"",
+      "Turkish President Recep Erdogan termed Gaza an \"inhumane … concentration camp.\"",
+      "UN Secretary-General António Guterres stated \"time is running out\" for the two-state solution.",
+      "The Board of Peace pledged $2.45bn for Gaza’s ‘recovery’."
+    ],
+    "academicReferences": [
+      "UN Security Council Resolution 242 (1967) - Call for withdrawal of Israeli forces from occupied territories and peace in the region.",
+      "Fourth Geneva Convention (1949) - Protection of civilians in times of war, relevant to occupied territories and settlement activities.",
+      "Oslo Accords (1993, 1995) - Landmark agreements between Israel and the PLO on interim Palestinian self-government, providing context for the two-state solution's historical framework."
+    ],
+    "vocabulary": [
+      {
+        "word": "Opprobrium",
+        "type": "noun",
+        "definition": "Harsh criticism or censure.",
+        "sentence": "Israel's actions earned the state the opprobrium of several nations."
+      },
+      {
+        "word": "Dispensation",
+        "type": "noun",
+        "definition": "A political or religious system governing a people or nation.",
+        "sentence": "Whatever dispensation emerges after the coming elections will likely continue current policies."
+      },
+      {
+        "word": "Hell-bent",
+        "type": "adjective",
+        "definition": "Determined to do something, especially something bad, regardless of the consequences.",
+        "sentence": "The Israeli regime remains hell-bent on preventing a sovereign Palestinian state from emerging."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which international body was holding an ongoing session where several states expressed condemnation of Israel's actions?",
+        "options": [
+          "UN Security Council",
+          "World Economic Forum",
+          "UN General Assembly",
+          "International Criminal Court"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, \"several states during the ongoing UN General Assembly\" expressed opprobrium."
+      },
+      {
+        "question": "According to the article, what is the primary criticism regarding the effectiveness of financial aid for Gaza's recovery?",
+        "options": [
+          "The funds are insufficient for the scale of destruction.",
+          "The aid is not reaching the intended beneficiaries.",
+          "The aid will do little if the occupation and land theft continue.",
+          "There is no accountability for how the funds are spent."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, \"throwing money at Gaza will do little if the Palestinians remain under siege, and the theft of their land continues.\""
+      },
+      {
+        "question": "What is the article's main criticism of the United States' role in the Palestine conflict?",
+        "options": [
+          "The US provides too much military aid to Israel.",
+          "The US is uninterested in making Israel commit to the peace process.",
+          "The US is actively supporting Palestinian armed groups.",
+          "The US has imposed sanctions on Palestinian territories."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article directly states, \"Israel’s most powerful foreign patron — the US — seems utterly uninterested in making Tel Aviv commit itself to the peace process.\""
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How do Western allies' reactions to Israel's actions demonstrate a shift in international perception, as per the article?",
+        "back": "Even some of Israel’s Western allies, like French President Emmanuel Macron, find it difficult to justify its behavior, expressing shame over the 'spectacle' in Gaza, indicating a growing international unease."
+      },
+      {
+        "front": "What specific actions does the article recommend for 'conscientious members of the international community' to address the Palestine conflict effectively?",
+        "back": "They must hold Israel accountable for genocidal violence, punish settlers in the West Bank for occupation and attacks, and ensure all illegal settlements are uprooted, backing talk with concrete action."
+      },
+      {
+        "front": "Why does the article suggest that the two-state solution is increasingly unlikely, despite continued calls for it?",
+        "back": "The current and future Israeli regimes are described as 'hell-bent on preventing a sovereign Palestinian state from emerging,' combined with the US's disinterest in pressuring Israel towards a peace process."
+      },
+      {
+        "front": "Beyond financial aid, what fundamental issues must be addressed for any improvement in Gaza's situation, according to the article?",
+        "back": "The article emphasizes that financial aid is ineffective if Palestinians remain under siege, and the theft of their land continues, pointing to the need to end occupation and violence."
+      }
+    ]
+  },
+  {
     "id": "curated-1790389112071-619",
     "title": "Education for society\n",
     "source": "Dawn",
@@ -741,6 +851,122 @@
       {
         "front": "How does the article implicitly link to Pakistan's 'Balance-of-Payments' constraint, even without explicitly mentioning export performance?",
         "back": "By highlighting the recurring need for IMF programs due to an unchanging economic model and fragile reserves, the article implicitly points to an inability to generate sufficient foreign exchange sustainably through structural reforms (which would include improving export performance), thus maintaining BoP pressure."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790474998900-132",
+    "title": "Container city\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032518/container-city",
+    "date": "2026-09-25",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "EVEN after butchering local ecologies and evicting tens of thousands from their decades-old homes, they insist on calling it Islamabad the beautiful. It really ought to be called Container City. The federal capital — and its twin city, Rawalpindi — once again resembles a loading dock for cargo ships. And as always, we are told that besieging the twin cities is in the greater national interest.\nThe fact that official definitions of the national interest are completely unrelated to popular sentiment is not a new quandary for the powers that be. But in comparison to almost every other dispensation in Pakistan’s history, this regime is not bothered with gaining even a modicum of consent from the people, having liberally deployed the big stick in the country’s core regions to match what has always been the historical norm in the peripheries.\n    \nBarely veiled threats have been issued this time too, ‘violent groups’ warned against trying to enter Islamabad. There have been a series of pre-emptive strikes against anyone and everyone that the government designates a ‘security risk’. From Imran Khan’s elderly sisters to the president of the Islamabad street vendors’ association, the regime is intent on ensuring that it alienates even those who have no link to the PTI. Whether the latter’s ‘long march’ even materialises is irrelevant, because the optics of a heavily contained population is the real story.\nThe container city, in fact, is a microcosm of the country at large. If you have a dissenting political opinion, you can be locked up, issued a Peca notice, or maybe even disappeared. To aspire to an economic situation beyond bare survival requires one to work longer and harder for slave wages — if you are amongst those from the army of unemployed that can actually find work.\nThe container city is a microcosm of the country at large.\nIt should not go unnoticed that Islamabad’s police officials have asked for Rs827 million to manage the yet-to-happen protests. Meanwhile, there is no suggestion that even a pittance of that sum will be allocated to upgrade facilities and quality of services in PIMS in the wake of the horrific fire which claimed the lives of 14 newborns.\nThere is no pretence at play here, no meaningful hegemonic strategy. The only consistent and conscious interest of the regime is in the realm of geopolitics. But unlike authoritarian rule under Ayub, Zia and Musharraf, today’s rulers cannot count on a structural windfall due to favourable geopolitical winds.\nAside from acquiring geostrategic rents from anti-communist Seato and Cento pacts, the Ayub regime actually had an industrial policy, cultivating something resembling a manufacturing sector and absorbing some labouring masses displaced from the agrarian sector. The 22 families, including emergent state profiteers, may have captured the major spoils, but there was some logic to the regime’s claim that a little wealth would eventually ‘trickle down’ to the masses.\nEven while presiding over de-industrialisation, Zia benefited from the Gulf remittances as well as big industrial investments made under the Bhutto dispensation, not to mention windfalls from the ‘Afghan jihad’. Musharraf came to power after industrial policy was definitively declared dead, but the dictatorship nevertheless benefited from post 9/11 remittances and ‘war on terror’ dollars.\nThe current dispensation only secures fuel to keep government running the next day by extorting the masses through a levy, while its economic imagination is limited to FDI and a developmental logic revolving around resource grabs. It has shut down border trade with Afghanistan, which is a major supply of the everyday eco­­nomy. Mean­while, members of the Pakistani bourgeoisie itself lament its comp­rador character, the CEO of the Sentinel Group recently penn­ing a telling essay on ‘Pakistan’s missing multinationals’.\nTo be sure, the rot extends much deeper than the present regime. The so-called ‘demographic dividend’ which has been hyped up for at least 15 years is, instead, a huge pressure cooker; neither the state nor the private bourgeoisie — and for the most part this nexus operates in unison — has the capacity or interest to develop the skills of an exceedingly young population let alone guarantee it a dignified income.\nAnd where young and old working people alike demonstrate enterprise so as to make ends meet, the response of the state is to suppress, confiscate, even destroy. Look no further than the treatment of Islamabad’s katchi abadi dwellers and street vendors in recent months.\nContainment of the political and economic freedoms of Pakistan’s teeming masses is what the militarised state apparatus knows best. But building container cities does not make acute contradictions disappear, they only magnify them.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, September 25th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "State-Society Relations, Economic Governance, and Political Instability in Pakistan",
+    "whyMatters": "While the article does not directly discuss the Economic Cooperation Organization (ECO) or regional integration, it is crucial for a competitive exam student as it provides a critical internal analysis of Pakistan's political economy. It highlights the internal systemic issues, state priorities, and economic governance failures that fundamentally impact the country's capacity for effective regional engagement and sustainable development, indirectly influencing its role and prospects within organizations like ECO.",
+    "summary": [
+      "The article uses 'Container City' as a metaphor for Islamabad and Rawalpindi, representing a state of political containment and repression where popular sentiment is disregarded in the 'national interest'.",
+      "The current regime is criticized for prioritizing geopolitics and deploying 'the big stick' over gaining consent, alienating even those unlinked to political opposition, and suppressing dissent through various means.",
+      "Unlike previous authoritarian regimes (Ayub, Zia, Musharraf) that benefited from geopolitical windfalls and at times had some semblance of industrial policy, the current dispensation lacks a coherent economic vision beyond extortion and resource grabs.",
+      "Pakistan faces deep-seated structural issues, including an inability to develop human capital, suppressive state responses to local enterprise, and a 'militarized state apparatus' focused on containing political and economic freedoms."
+    ],
+    "facts": [
+      "Islamabad police requested Rs827 million to manage yet-to-happen protests.",
+      "14 newborns died in a fire at PIMS, with no allocation suggested for facility upgrades.",
+      "Ayub regime cultivated a manufacturing sector, benefiting from SEATO/CENTO, while Zia benefited from Gulf remittances and 'Afghan jihad' windfalls; Musharraf from post-9/11 'war on terror' dollars.",
+      "The current regime has shut down border trade with Afghanistan, a major supply for the everyday economy."
+    ],
+    "academicReferences": [
+      "Ayesha Siddiqa, 'Military Inc.: Inside Pakistan's Military Economy' (For understanding the militarized state apparatus and economic influence).",
+      "Anatol Lieven, 'Pakistan: A Hard Country' (For a comprehensive analysis of state structure, power dynamics, and societal challenges).",
+      "International Monetary Fund (IMF) Reports on Pakistan's Economy (For understanding the structural economic challenges and policy recommendations mentioned)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Dispensation",
+        "type": "noun",
+        "definition": "A political or religious system or order prevailing at a particular time.",
+        "sentence": "In comparison to almost every other dispensation in Pakistan’s history, this regime is not bothered with gaining even a modicum of consent."
+      },
+      {
+        "word": "Modicum",
+        "type": "noun",
+        "definition": "A small quantity of a particular thing, especially something desirable or valuable.",
+        "sentence": "The regime is not bothered with gaining even a modicum of consent from the people."
+      },
+      {
+        "word": "Hegemonic",
+        "type": "adjective",
+        "definition": "Ruling or dominating in a political or social context; exhibiting hegemony.",
+        "sentence": "There is no pretence at play here, no meaningful hegemonic strategy."
+      },
+      {
+        "word": "Comprador",
+        "type": "adjective",
+        "definition": "Relating to or denoting a person, typically a local agent, who acts as an intermediary for foreign businesses or colonial powers, often implying a lack of independent national economic interest.",
+        "sentence": "Meanwhile members of the Pakistani bourgeoisie itself lament its comprador character."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT presented as a characteristic of the current regime's approach, according to the article?",
+        "options": [
+          "Liberal deployment of the 'big stick'",
+          "Focus on gaining popular consent",
+          "Economic imagination limited to FDI and resource grabs",
+          "Prioritization of geopolitics"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states the current regime 'is not bothered with gaining even a modicum of consent from the people,' directly contradicting this option."
+      },
+      {
+        "question": "The 'Container City' metaphor primarily represents what aspect of Pakistan?",
+        "options": [
+          "Rapid urbanization and infrastructure development",
+          "A highly militarized state apparatus that restricts political and economic freedoms",
+          "The increasing number of cargo ports in Islamabad and Rawalpindi",
+          "Successful integration into global supply chains"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Containment of the political and economic freedoms of Pakistan’s teeming masses is what the militarised state apparatus knows best. But building container cities does not make acute contradictions disappear, they only magnify them.'"
+      },
+      {
+        "question": "According to the article, what differentiated previous authoritarian regimes (Ayub, Zia, Musharraf) from the current dispensation regarding economic policy?",
+        "options": [
+          "Previous regimes relied solely on foreign aid, while the current one promotes self-sufficiency.",
+          "Previous regimes lacked any economic strategy, unlike the current one's focus on IT exports.",
+          "Previous regimes benefited from geopolitical windfalls and at times pursued industrial policies, whereas the current one's economic imagination is limited to FDI and resource grabs.",
+          "Previous regimes had no connection to the '22 families', while the current one does."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states Ayub had an industrial policy, Zia benefited from Gulf remittances and industrial investments, and Musharraf from post-9/11 dollars, contrasting this with the current regime's limited economic imagination focused on FDI and resource grabs without structural windfalls."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the central metaphor used in the article to describe Islamabad and Rawalpindi, and what does it signify?",
+        "back": "The 'Container City' metaphor signifies the containment and suppression of political and economic freedoms, reflecting a state focused on control rather than popular consent or development."
+      },
+      {
+        "front": "How does the article contrast the current regime's economic approach with that of historical authoritarian rulers like Ayub or Zia?",
+        "back": "Unlike historical rulers who benefited from geopolitical windfalls and sometimes pursued industrial policies, the current regime's economic imagination is limited to extorting masses for daily operations, seeking FDI, and resource grabs, lacking a structural economic advantage."
+      },
+      {
+        "front": "What does the author identify as the primary interest of the current regime, and how does this impact state-society relations?",
+        "back": "The primary interest is in geopolitics, leading to a disregard for popular sentiment, deployment of repression, and alienation of citizens, thus magnifying acute contradictions within society."
+      },
+      {
+        "front": "What systemic issues does the article highlight regarding Pakistan's 'demographic dividend' and local enterprise?",
+        "back": "The article suggests the 'demographic dividend' is a 'pressure cooker' because neither the state nor the private bourgeoisie has the capacity or interest to develop youth skills or guarantee dignified incomes, instead suppressing and destroying local enterprise."
       }
     ]
   },
@@ -1904,6 +2130,128 @@
       {
         "front": "What does the article imply about the 'never again' vow made after the Holocaust, in the context of current global events?",
         "back": "The article states that the horrific Nazi Judeocide did not prove to be the last genocide, and the 'never again' vow is being contradicted by new genocides, reviving the worst fears of Holocaust survivors and their descendants."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790474912245-875",
+    "title": "Revamped partnership\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2032017/revamped-partnership",
+    "date": "2026-09-23",
+    "author": "none@none.com (Masood Khan)",
+    "content": "PAKISTAN has long desired a stand-alone, broad-based relationship with the US. That objective is now within reach. On the sidelines of the UN high-level session, the leaders of Pakistan and the US are scheduled to meet to scan the evolving regional and international situation and strengthen bilateral ties.\nIn the past year, especially during the ongoing war between Iran and the US, both countries have worked closely to explore pathways to de-escalate the situation. Washington has publicly recognised contributions toward securing peace across South and Central Asia. Moreover, Pakistan has enjoyed trust from both Washington and Tehran to broker a ceasefire, facilitate face-to-face talks, and sign a memorandum of understanding that provided a framework for talks. Regrettably, that process has not moved forward, but Pakistan continues to pursue all avenues to end the war.\nPakistani and US leaderswill meet when Pakistan’sdiplomatic standingis at an all-time high. Over the past year,the rapport that Field Marshal Asim Munir and Prime Minister Shehbaz Sharif developed with President Donald Trump and Vice President J.D. Vance has widened the bandwidth to move Pak-US relations to a higher level. \nDeep historical roots bind the two countries’ relationship, which began at the height of the Cold War. In 1971, Pakistan facilitated a détente between the US and China. In the 1980s, it partnered with the US and its allies to restore Afghanistan’s freedom. After 9/11, the US and Pakistan collaborated to fight against terrorism. This sustained cooperation has built a stronger foundation of understanding between the political and military leaderships of the two countries.\nOver the decades, Pakistan has learnt one clear lesson: cooperation centred solely on security imperatives can leave political troughs and institutional vacuums in its wake.\nPakistan and the US have taken many steps to boost ties.\nInstead of goodwill, mistrust surfaces. We have an opportunity to rectify this trend. We have an opportunity to craft a multifaceted model that survives periods of intense strategic partnerships. The good news is that officials from both nations have taken steps to move the relationship beyond purely transactional security dynamics. However, much work remains.\nFollowing the May 2025 Pakistan-India war, the US successfully mediated an end to hostilities. Many think this marked a new phase of bonhomie between the two nations. US Secretary of State Marco Rubio, however, confirmed that the US initiated outreach to Pakistan for a diplomatic reset before the war to rebuild “an alliance, a strategic partnership”. He stressed that while fully aware of regional complexities regarding India, the US goal was to expand counterterrorism (CT) cooperation with Pakistan into broader economic and strategic avenues. He clarified this would not come at the expense of America’s ties with India. \nPakistan is one of the most consequential states in West Asia. Significantly, it has huge economic potential. As Washington seeks more diversified supply and value chains in Eurasia, Pakistan should be seen as a developing hub for trade, energy, transport and overall connectivity. \nIn New York, the US and Pakistani leadership should reignite diplomacy, in collaboration with regional countries, to end the wars in the Middle East and to resolve the long-standing issue of Palestine under the auspices of the Board of Peace.\nOver the past year, Pakistan and the US have taken several steps to strengthen bilateral ties. The approval of nearly $1 billion for military hardware, such as F-16 sustainment packages, bolsters shared security goals. CT dialogues have given a roadmap for countering threats from IS-K and other terrorist organisations. More importantly, the two sides are crossing new thresholds to deepen cooperation in cryptocurrency, critical minerals, new technologies, agriculture, and renewable energy. But the pace of implementing agreements needs to be accelerated.\nFor the rest of the world, the war on terror may have ended, but for Pakistan it continues to be a potent threat. What is shocking is that the TTP, operating from Afghan soil, are using sophisticated American arms left behind by US troops in 2021. Pakistan needs a matching platform to eliminate terrorism from this region. \nLast year in May, President Trump had promised that he would work with both India and Pakistan to see if a solution concerning Kashmir could be reached. It is high time Kashmir was put back on the international diplomatic radar, as the issue continues to imperil peace in the region.\nPakistan and the US have worked together successfully in different phases of their history. Now is the time to take this relationship to a higher, stronger level. \nThe writer is a former ambassador to the US, UN and China.\nPublished in Dawn, September 23rd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Current Affairs / International Relations",
+    "topic": "Pakistan-US Bilateral Relations and Regional Diplomacy",
+    "whyMatters": "This article, while highly relevant for understanding Pakistan-US bilateral relations and Pakistan's broader foreign policy objectives in West Asia, does not directly address the Economic Cooperation Organization (ECO) or its framework for regional integration. Therefore, it offers limited direct utility for the given exam question but provides general context on Pakistan's diplomatic efforts and economic potential in the region.",
+    "summary": [
+      "Pakistan seeks a stand-alone, broad-based relationship with the US, moving beyond security-centric cooperation to multifaceted ties.",
+      "The article highlights historical cooperation between Pakistan and the US (1971 US-China détente, 1980s Afghanistan, post-9/11 CT) as a foundation for stronger understanding.",
+      "Current efforts include de-escalating regional conflicts (Iran-US war), expanding cooperation into cryptocurrency, critical minerals, new technologies, agriculture, and renewable energy, and bolstering shared security goals with military aid.",
+      "Pakistan's diplomatic standing is noted as high, with an emphasis on its economic potential as a hub for trade, energy, transport, and connectivity in Eurasia, while also stressing the need to resolve issues like Kashmir and Middle East conflicts."
+    ],
+    "facts": [
+      "Pakistan facilitated a détente between the US and China in 1971, marking a key historical role.",
+      "The US successfully mediated an end to hostilities following the May 2025 Pakistan-India war.",
+      "Nearly $1 billion for military hardware, including F-16 sustainment packages, has been approved to bolster shared security goals.",
+      "The article was published in Dawn on September 23rd, 2026."
+    ],
+    "academicReferences": [
+      "The Pashtun Question: The End of an Era and the Future of Pakistan and Afghanistan by Abubakar Siddique",
+      "Pakistan National Security Policy 2022-2026 (Official Government Document)",
+      "US National Security Strategy (Relevant US Policy Document)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Revamped",
+        "type": "adjective",
+        "definition": "To give new and improved form, structure, or appearance to.",
+        "sentence": "The article discusses the desire for a revamped partnership between Pakistan and the US, suggesting a significantly updated relationship."
+      },
+      {
+        "word": "De-escalate",
+        "type": "verb",
+        "definition": "To reduce the intensity or severity of (a conflict, situation, etc.).",
+        "sentence": "Both countries have worked closely to explore pathways to de-escalate the situation during the ongoing war between Iran and the US."
+      },
+      {
+        "word": "Troughs",
+        "type": "noun",
+        "definition": "A long, narrow, generally shallow receptacle for holding water or food for animals; in a metaphorical sense, a low point or period of difficulty.",
+        "sentence": "Cooperation centred solely on security imperatives can leave political troughs and institutional vacuums in its wake."
+      },
+      {
+        "word": "Bonhomie",
+        "type": "noun",
+        "definition": "Good-natured geniality; an atmosphere of good cheer and friendliness.",
+        "sentence": "Many think the US mediation in the Pakistan-India war marked a new phase of bonhomie between the two nations."
+      },
+      {
+        "word": "Consequential",
+        "type": "adjective",
+        "definition": "Following as an effect or result; important or significant.",
+        "sentence": "Pakistan is one of the most consequential states in West Asia, signifying its significant influence in the region."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following historical events is NOT mentioned as an instance of Pakistan-US cooperation?",
+        "options": [
+          "Facilitating détente between the US and China in 1971",
+          "Partnering to restore Afghanistan’s freedom in the 1980s",
+          "Collaborating to fight against terrorism after 9/11",
+          "Jointly establishing the Economic Cooperation Organization (ECO)"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article mentions Pakistan's historical roles in US-China détente, Afghanistan in the 1980s, and counterterrorism post-9/11, but does not mention the ECO."
+      },
+      {
+        "question": "According to the article, what is a key desired shift in the Pakistan-US relationship?",
+        "options": [
+          "To focus exclusively on military cooperation to counter regional threats.",
+          "To move beyond purely transactional security dynamics towards a multifaceted model.",
+          "To prioritize resolving the Kashmir issue over all other bilateral engagements.",
+          "To reduce economic ties and emphasize cultural exchange programs."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states the opportunity to craft a multifaceted model that survives periods of intense strategic partnerships, moving beyond purely transactional security dynamics."
+      },
+      {
+        "question": "What role does the article suggest for Pakistan in Washington's search for diversified supply chains in Eurasia?",
+        "options": [
+          "A primary consumer market for US goods.",
+          "A developing hub for trade, energy, transport, and overall connectivity.",
+          "A strategic military outpost for US forces.",
+          "A broker for peace exclusively between India and the US."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that 'Pakistan should be seen as a developing hub for trade, energy, transport and overall connectivity' as Washington seeks more diversified supply and value chains in Eurasia."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What historical lesson has Pakistan learned regarding its cooperation with the US?",
+        "back": "Cooperation centered solely on security imperatives can leave political troughs and institutional vacuums in its wake, necessitating a broader engagement."
+      },
+      {
+        "front": "How has Pakistan's diplomatic standing improved in the past year, according to the article?",
+        "back": "Its diplomatic standing is at an all-time high, with leaders like Field Marshal Asim Munir and PM Shehbaz Sharif developing rapport with US leadership, widening bandwidth for elevated relations."
+      },
+      {
+        "front": "Beyond traditional security, in what new areas are Pakistan and the US deepening cooperation?",
+        "back": "They are deepening cooperation in cryptocurrency, critical minerals, new technologies, agriculture, and renewable energy."
+      },
+      {
+        "front": "What significant regional issue, besides the Middle East wars, does the article highlight as needing international diplomatic attention?",
+        "back": "The long-standing issue of Kashmir, which continues to imperil peace in the region and needs to be put back on the international diplomatic radar."
       }
     ]
   },
@@ -10025,270 +10373,6 @@
       {
         "front": "Name two historical reports or global policy examples mentioned in the article that could offer lessons for Pakistan's healthcare reform.",
         "back": "The article mentions the Beveridge and Black reports, which were instrumental in the development and strengthening of the National Health Service in the UK, as potential sources of lessons for Pakistan's reform efforts."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788658910896-958",
-    "title": "Chiniot dam plan\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027400/chiniot-dam-plan",
-    "date": "2026-09-04",
-    "author": "none@none.com (Naseer Memon)",
-    "content": "ARE Sindh and Punjab set to enter into a round of hydro tensions? This time, a string of dams on the Chenab river are being proposed. The case for one of the four — the Chiniot dam — has been presented to Irsa by Wapda. The Chiniot dam is envisioned as a multi-purpose project on the Chenab, about 100 kilometres downstream of the Qadirabad barrage and 5km from Chiniot city. According to the project’s PC-1, the reservoir will have a gross storage capacity of 1 MAF. The project envisages the storage of surplus monsoon flows, flood mitigation, the generation of 80MW of hydropower, and water supply to Faisalabad city. The structure includes an earth-fill main dam, two gated barrages, 77km of reservoir dykes on both banks, and a surface powerhouse.\n\nWapda, through this initiative, is quietly reviving the Cholistan project, which the Council of Common Interests halted last year. The project is riddled with serious flaws. In a technical appraisal, the federal planning ministry has made more than 50 observations regarding the project. A working paper reveals that the project will inundate about 47,000 acres of land within the floodplain of the Chenab river; the local population is deeply concerned about the loss of their agricultural land, livelihoods and residential structures.\n\nThe estimated cost of the project is Rs298 billion, of which the federal government will finance 80 per cent. Wapda will serve as the executing agency. A technical appraisal has also questioned the cost and time rationale. Wapda’s dam portfolio of Bhasha, Dasu, Neelum-Jhelum and Nai Gaj dams has been plagued by years of delays and cost overruns of several billion rupees. Wapda failed to complete any of these projects within the allocated cost and time framework.\n\nIntriguingly, Wapda has submitted the PC-1 to the pre-Central Development Working Party meeting, without an approved environmental impact assessment. This undermines the EIA’s significance, reducing it to a mere formality. Stakeholder consultation is a critical component of the EIA. But the PC-1 is silent on whether the lower riparian, Sindh, was consulted as a highly important and vulnerable stakeholder. Wapda’s presentation before Irsa shows four dams on the Chenab at Wazirabad, Mudh Ranjha, Chiniot, and Shah Jewna, with a total storage capacity of about 4.5 MAF.\n\nSindh has expressed serious concerns about the dam.\n\nMoreover, Wapda plans to increase the capacity of three upstream link canals. Recently, the Jalalpur canal was commissioned with an estimated annual withdrawal of 0.5 MAF. In the case of a project cascade, EIAs for individual projects are not advised. Instead, a strategic EIA is needed to understand the full spectrum of potential environmental and social impacts. Wapda should disclose all projects as a single package, as they will have a huge cumulative impact on the lower riparian.\n\nTechnical appraisal has also pointed to an inexplicable claim of an irrigation benefit of Rs35,768 million per year for claimed 80,000 acres. It works out to Rs447,000 per acre per year, which is four to nine times higher than the realistic agricultural revenue in Punjab. The federal ministry has said that the estimated economic internal rate of return of 18.67pc is based on implausibly inflated assumptions.\n\nThe appraisal has also raised concerns over possible dam failure in Pakistan’s third-largest city and an industrial hub downstream. It warns of an ominous scenario for a dam with storage capacity of 1 MAF behind 77km of dykes. Any dyke failure could prove catastrophic, especially as an emergency action plan is missing. During the 2025 floods, Che­nab attained a peak of 1,077,951 cusecs on Aug 27. It created a risk for the Qadirabad barrage, which has a capacity of 900,000 cusecs. The administration had to artificially breach the right marginal bund to secure the barrage structure.\n\nSindh has expressed serious concerns about the project. The building of the Chiniot dam will mark the start of the construction of several storage and diversion structures. The flow data of 1999-2025 reveals that Punjab’s barrages below the Rasool-Qadirabad-Sulemanki link canals received almost 16pc less than the allocated share of water in the early Kharif season. Water availability had plummeted to -36.4pc by early June. The PC-1 mentions that the filling of the Chiniot dam is to commence in June. The dam’s construction can place severe stress on downstream areas in Punjab, leading to excessive withdrawal of the Indus through link canals. The situation will be compounded when all four dams require storage. Sindh often remains water-stressed in June. Additional withdrawals will adversely affect flows of Sindh’s barrages.\n\nThe writer is a water governance expert.\n\nPublished in Dawn, September 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs / Current Affairs / Environmental Science / Economics",
-    "topic": "Water Disputes and Infrastructure Development in Pakistan; Inter-provincial Water Issues",
-    "whyMatters": "This article highlights critical inter-provincial water disputes and environmental concerns surrounding major infrastructure projects in Pakistan. It provides insights into the challenges of water resource management, project planning, and the importance of stakeholder consultation.",
-    "summary": [
-      "Wapda is proposing the multi-purpose Chiniot dam on the Chenab river, along with three other dams, with significant storage capacity for flood mitigation, hydropower, and water supply.",
-      "The project faces severe criticism from the federal planning ministry due to over 50 flaws, including inflated costs, questionable economic projections, inundation of agricultural land, and a history of delays and cost overruns by Wapda on previous projects.",
-      "A major concern is the submission of the PC-1 without an approved Environmental Impact Assessment (EIA) and the lack of consultation with lower riparian Sindh, undermining environmental governance and stakeholder rights.",
-      "Sindh has expressed serious concerns about the cumulative impact of these dams and increased link canal capacities, fearing exacerbated water stress and adverse effects on its barrages, especially during critical early Kharif seasons."
-    ],
-    "facts": [
-      "The Chiniot dam is envisioned with a gross storage capacity of 1 MAF and is designed for flood mitigation, 80MW hydropower generation, and water supply to Faisalabad.",
-      "The estimated cost of the Chiniot dam project is Rs298 billion, of which the federal government is expected to finance 80 per cent.",
-      "The project is projected to inundate approximately 47,000 acres of land within the floodplain of the Chenab river."
-    ],
-    "academicReferences": [
-      "Indus Waters Treaty (1960)",
-      "Council of Common Interests (CCI) (Article 153 of Constitution of Pakistan)",
-      "Pakistan Environmental Protection Act (PEPA) 1997"
-    ],
-    "vocabulary": [
-      {
-        "word": "barrage",
-        "type": "noun",
-        "definition": "A low dam built across a river to divert its water for irrigation or other purposes.",
-        "sentence": "The Qadirabad barrage, mentioned in the article, manages water flow on the Chenab river."
-      },
-      {
-        "word": "inundate",
-        "type": "verb",
-        "definition": "To flood or overwhelm with water; to cover with a large amount of water.",
-        "sentence": "The proposed Chiniot dam is expected to inundate about 47,000 acres of agricultural land."
-      },
-      {
-        "word": "riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the banks of a river or stream.",
-        "sentence": "Sindh, as a lower riparian province, expressed serious concerns about the upstream dam construction."
-      },
-      {
-        "word": "exacerbated",
-        "type": "verb",
-        "definition": "To make a problem, bad situation, or negative feeling worse.",
-        "sentence": "Additional water withdrawals could exacerbate water stress in downstream areas, especially in June."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT listed as a major flaw or concern regarding the Chiniot dam project in the article?",
-        "options": [
-          "A) Lack of an approved Environmental Impact Assessment (EIA) at PC-1 submission.",
-          "B) Inundation of significant agricultural land and displacement of local population.",
-          "C) Concerns from the lower riparian province, Sindh, regarding water scarcity.",
-          "D) Absence of hydropower generation capability."
-        ],
-        "answerIndex": 3,
-        "explanation": "The article clearly states the Chiniot dam envisages the generation of 80MW of hydropower, making option D an incorrect concern. All other options are explicitly mentioned as major flaws or concerns in the article."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary institutional oversight body that previously halted a project similar to the Cholistan project, which Wapda is now quietly reviving?",
-        "back": "The Council of Common Interests (CCI)."
-      },
-      {
-        "front": "Why is the absence of an approved Environmental Impact Assessment (EIA) for the Chiniot dam a significant point of criticism in the article?",
-        "back": "It undermines the EIA's significance, reducing it to a mere formality, and raises concerns about proper environmental governance and stakeholder consultation, especially with lower riparian provinces like Sindh."
-      },
-      {
-        "front": "How does the article criticize the economic projections for the Chiniot dam, specifically regarding irrigation benefits and the economic internal rate of return?",
-        "back": "The article highlights an inexplicably high claim of irrigation benefits (Rs447,000 per acre per year, 4-9 times higher than realistic revenue) and an implausibly inflated economic internal rate of return of 18.67%."
-      },
-      {
-        "front": "What cumulative impact does Sindh fear from the proposed cascade of dams and increased link canal capacities, particularly during the early Kharif season?",
-        "back": "Sindh fears severe exacerbated water stress and adverse effects on its barrages due to additional withdrawals of Indus water through link canals, especially during the critical early Kharif season when water availability is already low."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788573029579-842",
-    "title": "New AJK government’s task\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027642/new-ajk-governments-task",
-    "date": "2026-09-04",
-    "author": "none@none.com (Ahmed Bilal Mehboob)",
-    "content": "DESPITE hurdles, doubts, speculation, a protest movement and delayed polls on seven out of 45 directly contested Legislative Assembly seats, the task of installing a new government in Azad Jammu and Kashmir has finally been accomplished. There had been serious questions about the fairness of the elections. The bitterest criticism was from the PPP, the PML-N’s ally in the national parliament.\n\nEven the AJK prime minister’s election was not without controversy. Barrister Iftikhar Gillani was not selected or even recommended as a candidate for the office by the PML-N parliamentary party of the AJK assembly; rather, he was picked by the president of PML-N Pakistan. The choice was resented by some senior party leaders, including Shah Ghulam Qadir, the party president in AJK, who boycotted the assembly session that elected the PM.\n\nThe key objection to Mr Gillani’s election as PM was not his relative inexperience compared to veterans such as former PM Raja Farooq Haider or former speaker Shah Ghulam Qadir but the mode of his election as an assembly member. He had lost his seat — the Muzaffarabad constituency, LA-29 — to his PPP rival in the election by over 3,000 votes. Still, he returned to the assembly on a seat reserved for technocrats. There is no legal bar to the eligibility of a member who is defeated in the general election and subsequently elected on a reserved seat to seek the PM’s office. But many politicians believe that a PM should win the confidence of his constituency before seeking the coveted position.\n\nHowever, despite a turbulent electoral phase that had been ongoing for some months, the new government and PM have assumed office in AJK. Given the PML-N’s clear majority in the assembly, the election of a new AJK president of the PML-N’s choice will likely be a formality. The most important question, however, concerns the new government’s agenda and how far it can overcome the most serious challenges ever faced by an AJK government.\n\nA negotiated solution must be found for all contentious issues.\n\nIn view of the circumstances surrounding the entire electoral process, the foremost challenge before the new government and the PM is to establish the government’s moral and performance legitimacy, even if one accepts its electoral legitimacy. Opening the lines of communication with the outlawed Joint Awami Action Committee, engaging with the saner elements within the organisation, and convincing them to abandon the agitation will be the government’s first major test. If successful, it will pave the way for legitimacy of performance. Although the outlawed JAAC can justifiably be blamed for several irresponsible and anti-state utterances and actions, the fact remains that the defunct organisation has a sizeable following, especially in Poonch division, where, despite its best efforts, including organising phased polls, the AJK Election Commission could not hold elections in seven out of 11 constituencies.\n\nA sizeable crowd has been staging a sit-in for almost three months, partly paralysing civic life and links with the rest of AJK and Pakistan. The confrontation and deaths of some agitators and law-enforcement personnel have polarised Kashmiris not only in AJK but also among the diaspora. This confrontation has damaged goodwill and the moral standing of authorities in AJK and Pakistan. The situation, therefore, must be defused immediately and a negotiated solution found for the contentious issues.\n\nIt was unreasonable, arguably, for the outlawed JAAC to insist on immediately abolishing the 12 AJK assembly seats reserved for Kashmiri refugees settled in various parts of Pakistan. This demand became even more absurd after the AJK Supreme Court ruled in June that the legislative assembly seats reserved for refugees were constitutionally protected and could not be abolished through executive action or street protests. However, it is also true that the constitutional reforms on the allocation of seats between refugees from the occupied Kashmir valley and Jammu need to be seriously considered, along with the election procedure. The election to the AJK assembly from various parts of Pakistan is generally heavily influenced by the federal and provincial governments during the poll cycle. Now that the new legislative assembly is in place, it should seriously initiate deliberations on constitutional reforms.\n\nIn general, the outlawed JAAC’s demands are not unreasonable and are mostly directed at welfare measures and better governance. For example, the demand for a smaller cabinet and the abolition of lavish facilities for elected representatives and senior bureaucrats should be sympathetically considered, alongside calls for roads, tunnels, bridges, safe drinking water, and preventing development budgetary funds from lapsing. Demanding empowered local governments and elected students’ unions is also fair. These are not just JAAC demands, but what every Kashmiri and also many in Pakistan demand. The new government can build on the previous government’s acceptance of most demands and begin implementing the points already agreed upon.\n\nThe new PM may begin by forming a smaller cabinet and cutting back on unnecessary protocol and unproductive spending. If tangible steps are taken early for better governance, a solid foundation may be laid for broader reconciliation. In the long term, both the federal government in Pakistan and the AJK government should consider granting AJK the same rights and privileges enjoyed by the four provinces. The same goes for Gilgit-Baltistan.\n\nA constitutional way should be found to provide interim representation to AJK and GB in federal institutions such as parliament, the Council of Common Interests, the National Economic Council and the water regulator Irsa, without compromising our position on the Kashmir dispute. The denial of these rights over the last 80 years has become a major source of grievance.\n\nThe writer is president of the Pakistan-based think tank Pildat.\n\nPublished in Dawn, September 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs / Current Affairs / Political Science",
-    "topic": "AJK Governance Challenges, Constitutional Reforms, and Federal Integration",
-    "whyMatters": "This article is crucial for understanding the complex internal political dynamics and governance challenges within Azad Jammu and Kashmir. It highlights ongoing constitutional debates and calls for greater integration of AJK and Gilgit-Baltistan into Pakistan's federal structure, key themes for competitive exams on Pakistan's political landscape and the Kashmir issue.",
-    "summary": [
-      "The new AJK government has been installed amidst significant controversy regarding the fairness of elections and the selection of the Prime Minister, Barrister Iftikhar Gillani.",
-      "The immediate challenge for the new government is to establish moral and performance legitimacy, primarily by engaging with the Joint Awami Action Committee (JAAC) to defuse ongoing protests.",
-      "The article stresses the need for constitutional reforms within AJK, particularly concerning the allocation and election procedures for reserved assembly seats, despite a Supreme Court ruling on their constitutional protection.",
-      "It advocates for granting AJK and Gilgit-Baltistan interim representation in federal institutions (Parliament, CCI, NEC, IRSA) to address long-standing grievances without compromising Pakistan's stance on the Kashmir dispute."
-    ],
-    "facts": [
-      "Elections were delayed on seven out of 45 directly contested Legislative Assembly seats in AJK.",
-      "Barrister Iftikhar Gillani, the newly elected AJK PM, lost his general election seat (LA-29 Muzaffarabad) by over 3,000 votes but returned to the assembly on a technocrat seat.",
-      "The Joint Awami Action Committee (JAAC) has maintained a sit-in for almost three months, partly paralyzing civic life in AJK."
-    ],
-    "academicReferences": [
-      "AJK Interim Constitution, 1974",
-      "UN Security Council Resolutions on Kashmir",
-      "Council of Common Interests (CCI) framework in Pakistan's Constitution"
-    ],
-    "vocabulary": [
-      {
-        "word": "hurdles",
-        "type": "noun",
-        "definition": "Obstacles or difficulties.",
-        "sentence": "Despite hurdles, doubts, speculation, a protest movement and delayed polls..."
-      },
-      {
-        "word": "legitimacy",
-        "type": "noun",
-        "definition": "The quality of being justifiable or rightful.",
-        "sentence": "The foremost challenge before the new government and the PM is to establish the government’s moral and performance legitimacy..."
-      },
-      {
-        "word": "contentious",
-        "type": "adjective",
-        "definition": "Likely to cause an argument or controversy.",
-        "sentence": "A negotiated solution must be found for all contentious issues."
-      },
-      {
-        "word": "defused",
-        "type": "verb",
-        "definition": "Made a dangerous or tense situation calmer.",
-        "sentence": "The situation, therefore, must be defused immediately and a negotiated solution found for the contentious issues."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the foremost challenge for the new AJK government to establish moral and performance legitimacy, even if electoral legitimacy is accepted?",
-        "options": [
-          "Engaging with the outlawed Joint Awami Action Committee (JAAC).",
-          "Immediately abolishing the 12 AJK assembly seats reserved for Kashmiri refugees.",
-          "Forming a large cabinet with broad representation.",
-          "Securing complete financial autonomy from the federal government."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states, \"the foremost challenge before the new government and the PM is to establish the government’s moral and performance legitimacy... Opening the lines of communication with the outlawed Joint Awami Action Committee... will be the government’s first major test.\""
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the primary controversy surrounding the election of Barrister Iftikhar Gillani as AJK Prime Minister?",
-        "back": "He lost his general election constituency but returned on a reserved technocrat seat, and was not the parliamentary party's choice but picked by the PML-N Pakistan president."
-      },
-      {
-        "front": "What is the central demand of the Joint Awami Action Committee (JAAC) regarding AJK assembly seats, which the AJK Supreme Court has ruled against?",
-        "back": "They insisted on immediately abolishing the 12 AJK assembly seats reserved for Kashmiri refugees settled in various parts of Pakistan."
-      },
-      {
-        "front": "Beyond immediate governance, what long-term constitutional change does the article advocate for AJK and Gilgit-Baltistan concerning federal institutions?",
-        "back": "Granting AJK and GB interim representation in federal institutions such as parliament, the Council of Common Interests, the National Economic Council, and IRSA, without compromising the position on the Kashmir dispute."
-      },
-      {
-        "front": "What are some reasonable demands of the outlawed JAAC mentioned in the article that align with broader public sentiment?",
-        "back": "Demands include a smaller cabinet, abolition of lavish facilities for elected representatives, better welfare measures (roads, water), empowered local governments, and elected students' unions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1788832439003-478",
-    "title": "Beyond listings\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2027396/beyond-listings",
-    "date": "2026-09-04",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S request to Unesco to consider Rani Ghat and Banbhore for the World Heritage List is welcome. It follows the recent expansion of the country’s tentative list from 25 to 37 properties, with 12 new cultural and heritage sites added this year.\n\nBoth Rani Ghat and Banbhore speak to civilisations that flourished on this land long before the modern state existed, and greater international recognition could help attract scholarship, tourism and conservation funding.\n\nPlans to take Gandhara exhibitions abroad, establish “Gandhara Corners” and facilitate longer visits to Buddhist sites are also sensible. Pakistan has for too long treated its archaeological wealth as a niche interest rather than a cultural and economic asset. But enthusiasm for adding names to Unesco’s list must be matched by equal seriousness about the six Pakistani properties already inscribed on it.\n\nSimilar vigilance is required at Lahore Fort and Shalamar Gardens, where planning and development around the property must not compromise its heritage value.\n\nThe record there is mixed. The World Heritage Committee this year acknowledged conservation progress at Mohenjodaro and Makli, while making clear that considerable work remains. Mohenjodaro still requires attention to drainage, salinity and an integrated management plan; Makli needs sustained conservation and adequate financial and human resources.\n\nRecognition cannot become an end in itself. Federal and provincial authorities should publish conservation plans and budgets for every listed site, maintain specialist teams, improve visitor facilities, signage and access, and promote these places intelligently and consistently at home and abroad.\n\nTourism revenues should be transparently reinvested in preservation, with local communities given a stake in protecting the sites. Seeking recognition for Rani Ghat and Banbhore is worthwhile.\n\nBut Pakistan’s strongest case for adding new treasures to the World Heritage List is to show that those already recognised by the world are being cared for as if they matter.\n\nPublished in Dawn, September 4th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / Current Affairs",
-    "topic": "Cultural Heritage Management, Tourism Promotion, and UNESCO World Heritage Sites in Pakistan",
-    "whyMatters": "This article highlights critical issues regarding Pakistan's cultural heritage, its economic potential, and the governance challenges in conservation and tourism. It provides relevant arguments and facts for essays and analytical questions on national development, international relations (cultural diplomacy), and public policy.",
-    "summary": [
-      "Pakistan is actively pursuing international recognition for its cultural heritage by requesting UNESCO to list Rani Ghat and Banbhore, following a significant expansion of its tentative list.",
-      "The country's rich archaeological wealth, including Gandhara sites, holds substantial untapped potential for attracting international scholarship, tourism, and vital conservation funding.",
-      "The enthusiasm for adding new sites to the UNESCO list must be paralleled by a serious and sustained commitment to the conservation and effective management of the six properties already inscribed.",
-      "Sustainable heritage management necessitates transparent conservation plans, dedicated specialist teams, improved visitor facilities, strategic promotion, and transparent reinvestment of tourism revenues with active local community involvement."
-    ],
-    "facts": [
-      "Pakistan's tentative list for UNESCO World Heritage Sites expanded from 25 to 37 properties this year, with 12 new cultural and heritage sites added.",
-      "Six Pakistani properties are currently inscribed on the UNESCO World Heritage List.",
-      "The World Heritage Committee acknowledged conservation progress at Mohenjodaro and Makli but noted that Mohenjodaro still needs attention to drainage, salinity, and an integrated management plan, while Makli requires sustained conservation and adequate financial and human resources."
-    ],
-    "academicReferences": [
-      "UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage (1972)",
-      "National Heritage & Culture Division, Government of Pakistan Policy Framework on Archaeological Sites and Monuments",
-      "World Tourism Organization (UNWTO) reports on sustainable cultural tourism and heritage management"
-    ],
-    "vocabulary": [
-      {
-        "word": "inscribed",
-        "type": "verb",
-        "definition": "To officially add a name to a list or record.",
-        "sentence": "Six Pakistani properties are already inscribed on the UNESCO World Heritage List."
-      },
-      {
-        "word": "niche",
-        "type": "noun",
-        "definition": "A specialized but profitable segment of the market or an area of interest.",
-        "sentence": "Pakistan has for too long treated its archaeological wealth as a niche interest."
-      },
-      {
-        "word": "vigilance",
-        "type": "noun",
-        "definition": "The action or state of keeping careful watch for possible danger or difficulties.",
-        "sentence": "Similar vigilance is required at Lahore Fort and Shalamar Gardens to protect their heritage value."
-      },
-      {
-        "word": "flourished",
-        "type": "verb",
-        "definition": "To grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.",
-        "sentence": "Rani Ghat and Banbhore speak to civilisations that flourished on this land long before the modern state existed."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary concern regarding existing Pakistani properties already inscribed on the UNESCO World Heritage List?",
-        "options": [
-          "A) Inadequate conservation efforts and management plans.",
-          "B) Lack of international interest in these sites.",
-          "C) Over-commercialization due to excessive tourism.",
-          "D) Absence of new sites being added to the tentative list."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that 'enthusiasm for adding names to Unesco’s list must be matched by equal seriousness about the six Pakistani properties already inscribed on it,' citing issues at Mohenjodaro and Makli that require attention to drainage, salinity, and resources, indicating inadequate conservation and management."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the article welcome Pakistan's request to UNESCO for Rani Ghat and Banbhore's inclusion on the World Heritage List?",
-        "back": "The request is welcomed because these sites represent ancient civilizations, and international recognition can attract scholarship, tourism, and crucial conservation funding."
-      },
-      {
-        "front": "What is the main criticism leveled by the author regarding Pakistan's historical approach to its archaeological wealth?",
-        "back": "Pakistan has historically treated its archaeological wealth as a niche interest rather than recognizing its significant cultural and economic asset potential."
-      },
-      {
-        "front": "What specific challenges were noted by the World Heritage Committee for Mohenjodaro and Makli, despite acknowledging conservation progress?",
-        "back": "Mohenjodaro requires attention to drainage, salinity, and an integrated management plan, while Makli needs sustained conservation and adequate financial and human resources."
-      },
-      {
-        "front": "Beyond seeking new listings, what does the article suggest is Pakistan's strongest case for future additions to the World Heritage List?",
-        "back": "Pakistan's strongest case is to demonstrate that the sites already recognized by the world are being cared for effectively and responsibly."
       }
     ]
   }
