@@ -1,5 +1,646 @@
 [
   {
+    "id": "curated-1790909376270-310",
+    "title": "‘China model’ fallacies\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034189/china-model-fallacies",
+    "date": "2026-10-02",
+    "author": "none@none.com (Shahid Mehmood)",
+    "content": "ECONOMIC discourse in this country, especi­al­­ly with folks in governance circles, can throw up some very interesting — as well as disturbing — insights. A recent conversation brought up the int­e­­resting case of a preference for the ‘China model’.\nWhat is their conception of this model? Briefly, the belief is in an all-powerful centre that forces its economic commands through long-term plans across the entire country, whips up economic growth through major government interventions, and leaves a limited role for the lower tiers (local) of governance. It is worth contemplating whether these views align with ground realities.\nA good place to start is the recent paper by Fengming Lu and Xiao Ma, ‘The rise of China’s electric vehicle industry’, which helps demolish several myths. Champion EV firms like BYD and NIO are all private firms that did not get a single penny in state grants, which, instead, went to SOEs for EV research. Even more astonishing, these firms rose in cities the state apparatus did not identify for EV cluster development. How, then, did these firms accomplish this feat? The short answer: mayors of the cities that were left out teamed up with entrepreneurs, helping them usher in the latest achievement of China’s stellar development story.\nNotice that city mayors have the authority to act as they please within their locality. In this case, their initiative and actions undermined the SOEs. Yet, the central government never intervened to prevent it, thus demolishing the myth of an all-powerful centre that micromanages everything and does not tolerate local authority.\nThe Chinese state mainly acts as a facilitator for development in any way it can. In Pakistan, it’s the opposite.\nChina has a highly competitive and well-established local tier system. Passage to the higher echelons of the central party is possible only through performance at this level. Unlike in Pakistan, there is no chance of attaining a prominent party position merely by being a scion or progeny of a party head. (Interested readers can look up President Xi Jinping’s road to the presidency.)\nSecond, it demonstrates that the state is willing to tolerate ‘creative destruction’, a term coined by economist Joseph Schumpeter, to describe how competition and creativity can render some businesses useless. This is classic capitalism, not socialism or communism. In the race for EVs, private competitors left state-run SOEs far behind, but the centre never intervened to prevent their slide. In fact, competition is so intense that it has led to price wars, with some firms expected to fail (one county reportedly lost 6.6 billion yuan on a carmaker it supported).\nSimilar misconceptions exist around its long-term plans. These actually contain insights of tremendous depth, coming from top-tier experts. Plans are contemplated and debated at length rather than rushed through. The economic debates preceding the 14th party congress offer an apt illustration. In the wake of the Soviet Union’s collapse, between October and December 1991 (known as ‘eleven half-days’), the debate centred on why the USSR’s economy collapsed and what could be done to prevent the same from happening to China.\nThe end result was the adoption of the famous ‘modern enterprise system’, approved by the party in November 1993, which enunciated “clear property rights, clearly defined rights and responsibilities, separation of government and enterprise, and scientific management”, that would prove to be a critical moment in China’s march to prosperity.\nThe gist is that prevailing conceptions of China as a centrally administered economy with a benevolent dictator at the helm directing its stellar rise are misplaced. In fact, it is arguably the most decentralised governance system in the world, with more than 80 per cent of public expenditure at the local level, and mayors who enjoy independence in their fiscal and administrative decision-making.\nThe centre is still very powerful, but not in a manner that we understand. It has some red lines that it enforces. The rich, for example, are not allowed to attain influence to an extent that they are in a position to manipulate the state apparatus by tailoring it in their favour to the detriment of the country and its people. This explains, for example, why Communist Party members are banned from holding golf club memberships.\nThe underlying philosophy is simple: facilitate capital creation and growth, but prevent it from working against the public good and the country. The state mainly acts as a facilitator for development in any way it can. In Pakistan, it’s the complete opposite. Big capital dictates and manipulates policies, whether through tax exemptions or trillions doled out in public-sector contracts. The sugar mafia is a pertinent example, whose powerful members, sitting in the legislature, sway policies and regulations in their favour. (Note: the above should not be taken as advocacy for anti-capital formation policies. Instead, it should be viewed in terms of regulating capital’s negative spillovers.)\nAnd lest we forget, the corrupt in China are handed the death penalty. Try naming a few cases in Pakistan where a similar predicament befell the corrupt. In essence, China’s remarkable transformation to where it stands today constitutes a long, arduous, and messy process that began with Deng Xiaoping’s 1978 reforms, with the above merely offering a glimpse of that long journey.\nWhy then clamour for this ‘model’ that no one in our power halls would be willing to implement? After all, that would be hara-kiri for a corrupt, compromised elite which thrives on central control and illegally accrued rents via this system.\nWell, more than four years into the current experiment, the economy is still struggling to get out of the stagflationary rut in which it has been stuck since 2022; the average GDP growth has barely surpassed population growth, and all the ‘game changers’ (SIFC, $6 trillion mineral wealth, corporate farming, crypto, and geopolitical rents) have fizzled out. Expectedly, in comes yet another game changer — the ‘China model’.\nI cannot speak for others, but if it were up to me, I’d start implementing this model tomorrow. I assume, though, that once the enthusiastic folks in power circles come to grips with what it really implies, they’ll discard it immediately.\nThe writer is an economist. His current research focuses on long-term analyses of the various issues plaguing Pakistan’s economy, economic reforms and the history of economic thought.\nshahid.mohmand@gmail.com\nX: @ShahidMohmand79\nPublished in Dawn, October 2nd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
+    },
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Governance, Decentralization, and State's Role in Development",
+    "whyMatters": "This article deconstructs common misconceptions about China's economic success, offering crucial insights into effective governance, decentralization, and state-capital relations. It provides a comparative lens to evaluate Pakistan's economic fragility and identify pragmatic policy shifts required for sustainable growth.",
+    "summary": [
+      "The 'China model' is often misconstrued as an all-powerful, micromanaging central government; however, it is actually a highly decentralized system with significant local authority.",
+      "China's state primarily acts as a facilitator for development, tolerating 'creative destruction' where private firms outcompete state-owned enterprises, unlike the prevailing perception of state control.",
+      "China's governance features a highly competitive and meritocratic local tier system, where performance at lower levels is crucial for advancement to higher echelons.",
+      "The Chinese central government enforces 'red lines' to prevent big capital from manipulating state apparatus for self-interest, contrasting sharply with Pakistan's system where capital often dictates policy."
+    ],
+    "facts": [
+      "Champion EV firms like BYD and NIO are private and did not receive state grants, which instead went to SOEs for EV research.",
+      "China's governance system is highly decentralized, with more than 80% of public expenditure managed at the local level.",
+      "The 'modern enterprise system' was adopted in November 1993, emphasizing 'clear property rights, clearly defined rights and responsibilities, separation of government and enterprise, and scientific management'.",
+      "Pakistan's economy has been stuck in a stagflationary rut since 2022, with average GDP growth barely surpassing population growth."
+    ],
+    "academicReferences": [
+      "Joseph Schumpeter's concept of 'creative destruction' (as discussed in the context of competition in China's EV industry)",
+      "Fengming Lu and Xiao Ma, 'The rise of China’s electric vehicle industry' (cited in the article for debunking myths about China's EV sector)",
+      "Deng Xiaoping's 1978 reforms (mentioned as the origin of China's transformative journey)",
+      "Economic Survey of Pakistan (for contextual data on Pakistan's GDP growth and economic challenges)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Fallacies",
+        "type": "noun",
+        "definition": "Mistaken beliefs or unsound arguments based on invalid reasoning.",
+        "sentence": "The article aims to expose the fallacies surrounding the common understanding of the 'China model'."
+      },
+      {
+        "word": "Stagflationary",
+        "type": "adjective",
+        "definition": "Relating to stagflation, an economic condition characterized by slow economic growth, high unemployment, and rising prices.",
+        "sentence": "Pakistan's economy is struggling to get out of the stagflationary rut it has been stuck in since 2022."
+      },
+      {
+        "word": "Hara-kiri",
+        "type": "noun",
+        "definition": "A form of ritual suicide, often used metaphorically to mean an act of self-destruction or self-sabotage.",
+        "sentence": "Implementing the true 'China model' would be hara-kiri for a corrupt elite that thrives on central control and illegal rents."
+      },
+      {
+        "word": "Progeny",
+        "type": "noun",
+        "definition": "A descendant of a person, animal, or plant; offspring.",
+        "sentence": "Unlike Pakistan, a prominent party position in China cannot be attained merely by being a scion or progeny of a party head."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is a primary misconception about the 'China model' debunked in the article?",
+        "options": [
+          "It is an all-powerful, micromanaging central government.",
+          "Private firms cannot thrive against state-owned enterprises.",
+          "Local governments lack significant administrative and fiscal autonomy.",
+          "The state never intervenes in economic matters."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the belief in an all-powerful centre that micromanages everything is a myth, highlighting China's decentralized governance."
+      },
+      {
+        "question": "According to the article, what role do city mayors primarily play in China's economic development?",
+        "options": [
+          "They enforce central government commands without deviation.",
+          "They have limited power and are subordinate to SOEs.",
+          "They possess significant independence in fiscal and administrative decision-making.",
+          "They are responsible for identifying national EV cluster development sites."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article notes that 'mayors of the cities that were left out teamed up with entrepreneurs' and 'enjoy independence in their fiscal and administrative decision-making'."
+      },
+      {
+        "question": "The concept of 'creative destruction' in China's EV industry illustrates the state's willingness to:",
+        "options": [
+          "Protect state-owned enterprises from private competition.",
+          "Intervene to prevent the failure of any firm, state or private.",
+          "Allow competition and innovation to render some businesses useless, even state-backed ones.",
+          "Provide direct state grants only to private firms for innovation."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explains 'creative destruction' as competition rendering businesses useless, citing private EV firms outperforming SOEs and the centre not intervening to prevent their slide."
+      },
+      {
+        "question": "What is a key difference between China and Pakistan highlighted in the article regarding the state's interaction with big capital?",
+        "options": [
+          "China actively encourages big capital to dictate and manipulate policies.",
+          "Pakistan's state mainly acts as a facilitator for development, like China.",
+          "China enforces 'red lines' to prevent the rich from manipulating the state against the public good.",
+          "In China, big capital is primarily responsible for public-sector contracts."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that China prevents the rich from manipulating the state apparatus, whereas in Pakistan, big capital dictates and manipulates policies."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary fallacy debunked about the 'China model' concerning central government control?",
+        "back": "The fallacy is that China operates with an all-powerful, micromanaging central government; in reality, it's highly decentralized with significant local autonomy and decision-making power."
+      },
+      {
+        "front": "How does China's approach to local governance contribute to its economic development, as per the article?",
+        "back": "Mayors have considerable independence in fiscal and administrative decision-making, fostering local initiative, competition, and enabling private firms to thrive even against central SOEs, leading to stellar development."
+      },
+      {
+        "front": "Explain the concept of 'creative destruction' as applied to China's EV industry in the article.",
+        "back": "Private EV firms like BYD and NIO, through intense competition and innovation, outcompeted state-run SOEs, demonstrating the Chinese state's tolerance for the failure of less efficient entities."
+      },
+      {
+        "front": "What fundamental difference does the article highlight between China and Pakistan regarding the state's interaction with big capital?",
+        "back": "China facilitates capital creation and growth but enforces 'red lines' to prevent the rich from manipulating the state apparatus for private gain, contrasting with Pakistan where big capital often dictates policies to its advantage."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790909630927-279",
+    "title": "Politics of agitation\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034192/politics-of-agitation",
+    "date": "2026-10-02",
+    "author": "none@none.com (Khurram Abbas)",
+    "content": "SEPTEMBER emerged as a politically charged month. The PTI and Jamaat-i-Islami announced their plans for long marches on Islamabad. The simultaneous mobilisation by the two parties had raised concerns about potentially prolonged street protests and disruptions in the capital. However, both parties postponed their marches (although the PTI has indicated it would begin its protest over the weekend), which temporarily eased the immediate concern of large-scale agitation. But, despite the postponements, the episode has once again highlighted the recurring pattern of opposition parties resorting to street agitation. It has raised several questions regarding the rationale of this politics of agitation.\nWhy do some political parties in Pakistan consistently resort to street agitation, road blockades, and prolonged sit-ins, while others continue to place their faith in parliamentary procedures and institutional mechanisms? What does this divergence reveal about the country’s political cultu­re? These questions lie at the heart of understanding the recurring cycle of protests that has come to define much of Pakistan’s contemporary politics.\nIn Pakistan’s political culture, agitation has recently served as a potent instrument for opposition parties to convert street power into tangible political gains through the ballot box. By orchestrating prolonged protests and sit-ins, parties have succeeded in mobilising their grassroots workers, reinvigorating cadre loyalty, and projecting an im­­­age of resistance against the status quo. Ex­­ces­sive media coverage provides publicity that often elevates relatively smaller actors to the level of na­­tional relevance, while the narrative of standing up for the ‘common man’ against an unresponsive system helps cultivate a saviour-like persona.\nThis dynamic was most visibly demonstrated by the PTI, whose 2014 Islamabad dharna and 2016 ‘lockdown’ agitation not only kept the party in the headlines for months but also laid the organisational and perceptual groundwork for its dramatic electoral expansion in 2018. Through this strategy, the PTI secured phenomenal electoral gains, from a modest 34 National Assembly seats in 2013 to 120 seats in 2018.\nSince 2012, the state’s response to political agitation has undergone a noticeable evolution.\nSimilar patterns are evident at the regional levels. The TLP registered itself as a political party in 2016 and after its long march on Islamabad in November 2017, it remarkably secured 2.2 million votes in the 2018 elections. Maulana Hidayatur Rehman’s sustained agitation in Gwadar transformed him from a marginal local political figure into a formidable voice of Gwadar, while Hafiz Naeemur Rehman’s high-visibility protests in Karachi have allowed the Jamaat-i-Islami to reclaim political space in urban Sindh. It is precisely this proven formula of converting agitation into both visibility and voter sympathy that appears to have encouraged the current Jamaat chief to attempt replicating the strategy on a national scale.\nAt its core, however, the recurring resort to agitation also reflects a deep lack of trust in the government, legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption. When citizens believe that taxes are routinely misappropriated rather than spent on public welfare, protests become the default language of political expression, as institutional channels are viewed as ineffective or compromised.\nHowever, this strategy of political agitation also carries significant socioeconomic costs. Prolonged protests and road blockades not only disrupt daily economic activities, they also impose heavy financial burdens on businesses, trade, and ordinary citizens. The PTI’s 2014 Islamabad sit-ins, which stretched for 126 days, and the subsequent waves of agitation in later years, created extended periods of uncertainty, including around 152 days of political and economic instability within a span of two years. As per a recent statement by the finance minister, every single day of protest may inflict an economic loss of around Rs120 billion on Pakistan’s economy. When this figure is applied to the 152 days of protests witnessed over the past decade, the cumulative financial damage is staggering and exposes the severe economic cost of sustained political agitation. These disruptions led to substantial losses in the trade, transport, and retail sectors, while simultaneously damaging market sentiment and eroding investor confidence, as prolonged street unrest signals political instability and policy unpredictability.\nSince 2012, the state’s response to political agitation has undergone a noticeable evolution. In the earlier phase, the government largely avoided direct confrontation. Instead, it opted for dialogue and negotiation. Federal ministers were frequently nominated by the prime minister of the time to engage with protest leaders, as seen during Tahirul Qadri’s 2012-13 sit-ins in Islamabad, the PTI’s prolonged 2014 dharna, and the TLP’s 2017 long march. These episodes reflected the government’s preference for political management over force. From 2012 to 2017, the state apparatus largely attempted to defuse tensions through concessions or mediated settlements rather than immediate crackdowns.\nOver time, however, this approach has shifted towards greater repression. Successive governments have increasingly relied on heavy-handed tactics, including the use of force, communication blackout, mass arrests, and restrictions on movement to disperse protests. While this strategy has, to some extent, discouraged repeated large-scale national-level agitations by raising the cost of mobilisation, it has simultaneously deepened public resentment towards state institutions. The perception of an increasingly authoritarian response has further eroded public trust in the system, and reinforced the very sense of institutional alienation that often fuels street protests in the first place.\nAlthough both the Jamaat and PTI postponed their long marches to Islamabad, the underlying tension between the opposition’s inclination towards street agitation and the government’s readiness to suppress such mobilisations remains. This recurring pattern continues to raise important questions: Can Pakistan continue to afford the repeated economic and institutional costs of agitation and repression? Or will the state and political actors eventually recognise the need to strengthen formal institutions such as the judiciary, parliament, and the standing committees of the National Assembly and Senate so that grievances can be resolved through dialogue and established democratic mechanisms rather than through the streets?\nThe writer is a strategic analyst of international security. The views expressed are his own.\nX: @itskhurramabbas\nPublished in Dawn, October 2nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "Political Culture, Governance, and Economic Impact of Instability in Pakistan",
+    "whyMatters": "This article provides critical insights into the recurring pattern of political agitation in Pakistan, offering concrete examples, economic costs, and the evolving state response. It helps aspirants analyze the interplay between street power, electoral gains, institutional trust, and national stability, crucial for high-scoring answers on governance and political dynamics.",
+    "summary": [
+      "Political agitation is a recurring pattern in Pakistan, used by opposition parties to gain political mileage and convert 'street power' into electoral success.",
+      "Parties like PTI, TLP, and Jamaat-i-Islami have successfully leveraged sustained protests to mobilize cadre, project resistance, gain media visibility, and secure significant electoral gains.",
+      "The resort to agitation is rooted in a deep lack of trust in governmental legitimacy, the electoral system, and the taxation system, exacerbated by widespread corruption perceptions.",
+      "This strategy incurs significant socioeconomic costs, including daily economic disruptions, financial burdens on businesses, damaged market sentiment, and eroded investor confidence, with estimated losses of Rs120 billion per protest day.",
+      "The state's response to agitation has evolved from initial dialogue and negotiation (2012-2017) to a more repressive approach involving force, communication blackouts, and mass arrests, which, while discouraging large-scale protests, has deepened public resentment and eroded trust in institutions.",
+      "The article concludes by questioning Pakistan's capacity to sustain these costs and emphasizes the need to strengthen formal institutions for grievance resolution over street protests."
+    ],
+    "facts": [
+      "PTI's electoral expansion: from 34 National Assembly seats in 2013 to 120 seats in 2018, significantly influenced by its 2014 dharna (126 days) and 2016 'lockdown' agitation.",
+      "TLP secured 2.2 million votes in the 2018 elections after its November 2017 long march on Islamabad.",
+      "Estimated economic loss: Around Rs120 billion per single day of protest on Pakistan’s economy.",
+      "Over the past decade, Pakistan witnessed approximately 152 days of political and economic instability due to sustained protests.",
+      "The state's response shifted from negotiation (e.g., Tahirul Qadri's 2012-13 sit-ins, PTI's 2014 dharna, TLP's 2017 long march) to increased repression post-2017."
+    ],
+    "academicReferences": [
+      "PILDAT Reports on the State of Democracy in Pakistan (e.g., assessing electoral reforms and institutional strengthening).",
+      "Transparency International's Corruption Perception Index (relevant for 'widespread perception of corruption' fueling distrust).",
+      "Economic Survey of Pakistan (provides data on economic performance and impact of political instability on various sectors)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Agitation",
+        "type": "noun",
+        "definition": "The act of arousing public interest in a cause or issue, often leading to protests or demonstrations.",
+        "sentence": "The politics of agitation has become a defining feature of Pakistan's contemporary political landscape."
+      },
+      {
+        "word": "Cadre loyalty",
+        "type": "noun",
+        "definition": "The strong allegiance and commitment shown by members or activists of a political party to its leadership and ideology.",
+        "sentence": "Prolonged protests helped reinvigorate cadre loyalty and mobilize grassroots workers for the party."
+      },
+      {
+        "word": "Perceptual groundwork",
+        "type": "noun",
+        "definition": "The foundational understanding, beliefs, or perceptions established in the public's mind that later enable or support a specific outcome.",
+        "sentence": "The 2014 dharna laid the organisational and perceptual groundwork for the party's dramatic electoral expansion."
+      },
+      {
+        "word": "Socioeconomic costs",
+        "type": "noun",
+        "definition": "The combined financial, social, and human impact of an event or policy on society and the economy.",
+        "sentence": "The strategy of political agitation, however, also carries significant socioeconomic costs for the nation."
+      },
+      {
+        "word": "Authoritarian response",
+        "type": "adjective/noun",
+        "definition": "A reaction or policy characterized by a strict, controlling, and often repressive approach by authority, limiting individual freedoms.",
+        "sentence": "The perception of an increasingly authoritarian response has further eroded public trust in the system."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following parties is NOT mentioned as having successfully used street agitation to gain political visibility and electoral advantage?",
+        "options": [
+          "PTI",
+          "TLP",
+          "PML-N",
+          "Jamaat-i-Islami"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions PTI, TLP, and Jamaat-i-Islami as parties that have successfully used street agitation. PML-N is not cited in this context."
+      },
+      {
+        "question": "What is identified as a primary reason for political parties resorting to agitation in Pakistan?",
+        "options": [
+          "Desire for international recognition",
+          "Deep lack of trust in government and institutions",
+          "Lack of access to media",
+          "Abundance of parliamentary procedures"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'At its core, however, the recurring resort to agitation also reflects a deep lack of trust in the government, legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption.'"
+      },
+      {
+        "question": "What was the estimated daily economic loss for Pakistan due to protests, according to a recent statement by the finance minister?",
+        "options": [
+          "Rs12 billion",
+          "Rs60 billion",
+          "Rs120 billion",
+          "Rs240 billion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'As per a recent statement by the finance minister, every single day of protest may inflict an economic loss of around Rs120 billion on Pakistan’s economy.'"
+      },
+      {
+        "question": "How has the state's response to political agitation evolved since 2012?",
+        "options": [
+          "From repression to dialogue",
+          "It has remained consistently repressive",
+          "From dialogue and negotiation to greater repression",
+          "It has become more supportive of protests"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article details an evolution 'from political management over force' (dialogue and negotiation phase from 2012-2017) to a shift 'towards greater repression' (use of force, arrests, etc., post-2017)."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the core motivations for opposition parties to resort to street agitation in Pakistan, as per the article?",
+        "back": "Opposition parties resort to agitation to convert street power into tangible political gains through the ballot box, mobilize grassroots workers, reinvigorate cadre loyalty, project an image of resistance, gain media coverage, and cultivate a saviour-like persona against an unresponsive system."
+      },
+      {
+        "front": "Identify the significant socioeconomic costs associated with prolonged political agitation in Pakistan.",
+        "back": "Prolonged agitation leads to disrupted daily economic activities, heavy financial burdens on businesses, trade, and citizens, substantial losses in trade, transport, and retail sectors, damaged market sentiment, eroded investor confidence, political instability, and policy unpredictability."
+      },
+      {
+        "front": "How has the state's approach to managing political protests in Pakistan changed over the last decade (since 2012)?",
+        "back": "Initially (2012-2017), the state preferred dialogue, negotiation, and mediated settlements to defuse tensions. Over time, this shifted to greater repression, employing heavy-handed tactics like force, communication blackouts, mass arrests, and restrictions on movement."
+      },
+      {
+        "front": "What is the fundamental 'lack of trust' that the article identifies as fueling recurring agitation?",
+        "back": "The article points to a deep lack of trust in the government, the legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption, making protests the default language of political expression."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790909997736-178",
+    "title": "Exit from Iraq\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034184/exit-from-iraq",
+    "date": "2026-10-02",
+    "author": "none@none.com (Editorial)",
+    "content": "AMERICAN and British troops have once again shipped out of Iraq. On Wednesday, the foreign forces left the Arab country as per an agreement with the Iraqi government in 2024 that called for wrapping up their decade-old mission against the self-styled Islamic State group. While this deployment was requested by the Iraqis, the Americans and their allies had earlier arrived uninvited, invading Iraq in 2003 to topple its strongman Saddam Hussein. That misadventure had left Iraq in ruins, torn apart by sectarian civil war and a terrorist onslaught by IS. On Wednesday, there was great joy on the streets of Baghdad, indicating that many Iraqis were happy to see the foreign forces go home. Iraqi Prime Minister Ali al-Zaidi termed it “a new phase” and declared that Oct 1 would be observed as ‘Sovereignty Day’ every year. Long after IS had been mostly neutralised, the US military presence in Iraq had actually become a liability, with American bases attacked by both Iran and the pro-Tehran Hashd as-Shaabi militias. US President Donald Trump welcomed the latest withdrawal as a “victory”. However, though justifying the need to bring his troops home from Iraq, Mr Trump has gotten stuck in a quagmire because of his war with Iran.\nThe fact is that American military bases in the Middle East offer only an illusion of security. In reality, they have been a source of instability. Not only have these facilities been used to destabilise and occupy regional states — Afghanistan, Iraq, Syria, etc — they also put targets on the countries that host them. The fantasy of the American security umbrella was very quickly shattered for the Gulf states when Iranian missiles targeted them, as Tehran claimed that the attacks against it were launched from these US bases. Following the example of its departure from Iraq, the US must further reduce its military footprint in the Middle East. It is by no means a global policeman, and its military forays have only resulted in chaos in the region. Instead, the people of the region — the Arabs, Iranians, Turks, and other nations — should be able to work out a mutual security structure based on non-aggression. The age of empire and Cold War calculations is over. Sovereign states of the Middle East can decide their fate for themselves, and do not need powerful external patrons to ‘protect’ them.\nPublished in Dawn, October 2nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "International Relations / Current Affairs / World History",
+    "topic": "US Withdrawal from Iraq and the Future of Middle East Security",
+    "whyMatters": "This article provides a critical perspective on US foreign policy in the Middle East, highlighting its perceived failures and advocating for regional self-determination. It is crucial for analyzing contemporary geopolitical shifts and understanding arguments for reduced external intervention.",
+    "summary": [
+      "American and British troops completed their withdrawal from Iraq on Wednesday, October 1st, 2026, as per a 2024 agreement with the Iraqi government, concluding their decade-old mission against the Islamic State group.",
+      "The 2003 US invasion of Iraq, aimed at toppling Saddam Hussein, is critically viewed as a 'misadventure' that resulted in the country's devastation, sectarian civil war, and the rise of IS.",
+      "The article asserts that the prolonged US military presence in Iraq became a 'liability' after IS was largely neutralized, attracting attacks from Iran and pro-Tehran Hashd as-Shaabi militias.",
+      "It argues that American military bases in the Middle East are a source of instability rather than security, advocating for the US to significantly reduce its military footprint and for regional nations to establish their own mutual security structure based on non-aggression."
+    ],
+    "facts": [
+      "Foreign forces, including US and British troops, left Iraq on Wednesday, October 1st, 2026.",
+      "The withdrawal was conducted as per an agreement with the Iraqi government made in 2024.",
+      "The US had originally invaded Iraq in 2003 to remove Saddam Hussein.",
+      "Iraqi Prime Minister Ali al-Zaidi declared October 1st as 'Sovereignty Day' to be observed annually."
+    ],
+    "academicReferences": [
+      "United Nations Security Council Resolution 1483 (2003) - concerning the situation in Iraq post-invasion.",
+      "Huntington, Samuel P. 'The Clash of Civilizations and the Remaking of World Order' - provides a framework for understanding cultural and regional conflicts.",
+      "Barnett, Thomas P.M. 'The Pentagon's New Map' - offers a contrasting view on US military engagement and global security."
+    ],
+    "vocabulary": [
+      {
+        "word": "Self-styled",
+        "type": "adjective",
+        "definition": "So-called or self-proclaimed, especially when adopting a name or title without official or general recognition.",
+        "sentence": "The self-styled Islamic State group was the target of the foreign forces' mission."
+      },
+      {
+        "word": "Misadventure",
+        "type": "noun",
+        "definition": "An unfortunate incident; a bad or hazardous undertaking.",
+        "sentence": "That misadventure had left Iraq in ruins, torn apart by sectarian civil war."
+      },
+      {
+        "word": "Onslaught",
+        "type": "noun",
+        "definition": "A fierce or destructive attack.",
+        "sentence": "Iraq was torn apart by sectarian civil war and a terrorist onslaught by IS."
+      },
+      {
+        "word": "Neutralised",
+        "type": "verb",
+        "definition": "Rendered ineffective or harmless.",
+        "sentence": "Long after IS had been mostly neutralised, the US military presence in Iraq remained."
+      },
+      {
+        "word": "Liability",
+        "type": "noun",
+        "definition": "A person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage.",
+        "sentence": "The US military presence in Iraq had actually become a liability, with American bases attacked."
+      },
+      {
+        "word": "Quagmire",
+        "type": "noun",
+        "definition": "An awkward, complex, or hazardous situation.",
+        "sentence": "Mr Trump has gotten stuck in a quagmire because of his war with Iran."
+      },
+      {
+        "word": "Illusion",
+        "type": "noun",
+        "definition": "A deceptive appearance or impression.",
+        "sentence": "American military bases in the Middle East offer only an illusion of security."
+      },
+      {
+        "word": "Destabilise",
+        "type": "verb",
+        "definition": "To upset the stability of; to cause to become unstable.",
+        "sentence": "These facilities have been used to destabilise and occupy regional states."
+      },
+      {
+        "word": "Forays",
+        "type": "noun",
+        "definition": "Sudden attacks or incursions into enemy territory.",
+        "sentence": "Its military forays have only resulted in chaos in the region."
+      },
+      {
+        "word": "Patrons",
+        "type": "noun",
+        "definition": "A person or organization that uses its money or influence to support a person, group, or activity.",
+        "sentence": "Sovereign states of the Middle East do not need powerful external patrons to ‘protect’ them."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary reason for the US and British troops' latest departure from Iraq?",
+        "options": [
+          "A) A UN Security Council mandate.",
+          "B) A bilateral agreement with the Iraqi government.",
+          "C) A complete defeat of the Islamic State group.",
+          "D) A change in US presidential administration."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'On Wednesday, the foreign forces left the Arab country as per an agreement with the Iraqi government in 2024'."
+      },
+      {
+        "question": "According to the article, what was a significant consequence of the 2003 US invasion of Iraq?",
+        "options": [
+          "A) Immediate peace and stability across the region.",
+          "B) A successful transition to a strong democratic government without external aid.",
+          "C) Sectarian civil war and a terrorist onslaught by IS.",
+          "D) Stronger alliances between the US and all regional states."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions that the 2003 'misadventure had left Iraq in ruins, torn apart by sectarian civil war and a terrorist onslaught by IS'."
+      },
+      {
+        "question": "What date did Iraqi Prime Minister Ali al-Zaidi declare as 'Sovereignty Day' for Iraq?",
+        "options": [
+          "A) October 2nd",
+          "B) September 30th",
+          "C) October 1st",
+          "D) January 1st"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that Iraqi Prime Minister Ali al-Zaidi declared that 'Oct 1 would be observed as ‘Sovereignty Day’ every year'."
+      },
+      {
+        "question": "The article argues that American military bases in the Middle East have primarily served as:",
+        "options": [
+          "A) A source of security for host nations.",
+          "B) A deterrent against Russian influence.",
+          "C) A source of instability and targets for attacks.",
+          "D) Centers for economic development and aid."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'In reality, they have been a source of instability. Not only have these facilities been used to destabilise... they also put targets on the countries that host them.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's central argument regarding the impact of US military presence in the Middle East?",
+        "back": "The article argues that the US military presence in the Middle East, including its bases, has been a source of instability rather than security, leading to destabilization and making host countries targets."
+      },
+      {
+        "front": "What alternative security framework does the article propose for the Middle East?",
+        "back": "The article proposes that the people of the region (the Arabs, Iranians, Turks, and other nations) should work out a mutual security structure based on non-aggression, without the need for powerful external patrons."
+      },
+      {
+        "front": "How does the article characterize the 2003 US invasion of Iraq?",
+        "back": "The article describes the 2003 invasion as a 'misadventure' that left Iraq in ruins, torn apart by sectarian civil war and a terrorist onslaught by the Islamic State."
+      },
+      {
+        "front": "According to the article, why did the US military presence in Iraq become a 'liability' after IS was mostly neutralized?",
+        "back": "The US military presence became a liability because American bases were subsequently attacked by both Iran and pro-Tehran Hashd as-Shaabi militias, demonstrating its role as a target rather than a protector."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790909547995-487",
+    "title": "Lahore’s ozone warning\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034183/lahores-ozone-warning",
+    "date": "2026-10-02",
+    "author": "none@none.com (Editorial)",
+    "content": "LAHORE has received another warning that its air pollution crisis cannot be treated as a problem that begins with winter smog. A new assessment by the EU’s Copernicus Atmosphere Monitoring Service places the city among those with “extremely poor” ground-level ozone levels. Unlike the protective ozone layer high in the atmosphere, ground-level ozone is a harmful pollutant formed when sunlight and heat act on emissions from vehicles, industry and other sources. The finding is especially troubling because rising temperatures can intensify its formation. Lahore is, therefore, confronting a year-round interaction between dirty air, urban emissions and climate change. Globally, almost 40pc of the population was exposed to extremely high ozone levels this year, according to CAMS. Asia fared even worse, with about 60pc of its population facing such exposure.\nPunjab deserves credit for acting earlier this year. Its pre-smog crackdown on construction dust, waste and crop burning, brick kilns and vehicle emissions was a welcome shift from reactive governance. But the latest assessment reinforces the point made then: temporary drives will not be enough. Ozone cannot be reduced by targeting dust alone. The government must cut the precursor gases that create it, particularly nitrogen oxides and volatile organic compounds. That means rigorous vehicle emissions testing, cleaner fuels, stronger industrial controls, reliable public transport and enforcement against open burning. Lahore also needs continuous monitoring that separately tracks ozone, particulate matter and other pollutants, with readings and enforcement data made public. Agricultural residue management must be supported with affordable alternatives to burning, while industries and kilns should face sustained compliance checks. Urban planning, traffic policy and energy use must also be treated as air quality policy. The province must recognise that Lahore’s pollution emergency does not end when the winter haze lifts. Clean air requires permanent policy, transparent enforcement and measurable reductions in emissions.\nPublished in Dawn, October 2nd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ENV",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
+    },
+    "suitable": true,
+    "relevanceScore": 86,
+    "paper": "Pakistan Affairs",
+    "topic": "Environmental Degradation and Remedial Measures",
+    "whyMatters": "This article is crucial for civil service aspirants studying environmental degradation in Pakistan as it provides a specific case study (Lahore's ozone crisis) demonstrating the complex interplay of urban emissions, climate change, and air quality issues. It comprehensively outlines both systemic reasons for environmental degradation and a detailed set of remedial policy measures, directly addressing the past exam question's requirement to discuss reasons and suggest solutions for sustainable environmental rehabilitation.",
+    "summary": [
+      "Lahore faces a severe, year-round air pollution crisis due to \"extremely poor\" ground-level ozone levels, which are exacerbated by rising temperatures and a nexus of dirty air, urban emissions, and climate change.",
+      "Ground-level ozone, a harmful pollutant, forms when sunlight and heat act on emissions (unlike the protective atmospheric ozone layer) and its formation is intensified by rising temperatures.",
+      "Despite Punjab's earlier proactive crackdown efforts, temporary drives focusing solely on dust are insufficient; comprehensive, permanent policy targeting precursor gases is essential for long-term improvement.",
+      "Sustainable solutions require cutting specific precursor gases (nitrogen oxides, volatile organic compounds), implementing rigorous emissions testing, promoting cleaner fuels, strengthening industrial controls, developing reliable public transport, managing agricultural residue, and integrating urban planning, traffic, and energy policies with air quality goals."
+    ],
+    "facts": [
+      "Lahore has been identified by the EU’s Copernicus Atmosphere Monitoring Service among cities with “extremely poor” ground-level ozone levels.",
+      "Globally, almost 40% of the population was exposed to extremely high ozone levels this year; in Asia, this figure rose to about 60%.",
+      "Ground-level ozone is formed when sunlight and heat act on emissions from vehicles, industry, and other sources, and its formation is intensified by rising temperatures."
+    ],
+    "academicReferences": [
+      "Pakistan's National Climate Change Policy (2012, updated periodically)",
+      "UN Environment Programme (UNEP) Air Quality Reports",
+      "The Paris Agreement (2015)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Precursor gases",
+        "type": "Noun phrase",
+        "definition": "Chemical compounds that react to form another substance, in this case, ground-level ozone.",
+        "sentence": "The government must cut the *precursor gases* that create ground-level ozone, particularly nitrogen oxides and volatile organic compounds."
+      },
+      {
+        "word": "Volatile Organic Compounds (VOCs)",
+        "type": "Noun phrase",
+        "definition": "Organic chemicals that have a high vapor pressure at ordinary room temperature, often contributing to ground-level ozone formation.",
+        "sentence": "Reducing emissions of *volatile organic compounds* from industrial sources is crucial for improving air quality."
+      },
+      {
+        "word": "Reactive governance",
+        "type": "Noun phrase",
+        "definition": "A style of governance that responds to problems only after they have occurred, rather than proactively preventing them.",
+        "sentence": "Punjab's shift from *reactive governance* to a pre-smog crackdown was a welcome development, though more is needed."
+      },
+      {
+        "word": "Nexus",
+        "type": "Noun",
+        "definition": "A connection or series of connections linking two or more things.",
+        "sentence": "Lahore is confronting a year-round interaction between dirty air, urban emissions, and climate change, forming a dangerous environmental *nexus*."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary cause of ground-level ozone formation?",
+        "options": [
+          "Sunlight and heat acting on emissions",
+          "High-altitude atmospheric reactions",
+          "Excessive rainfall",
+          "Cold winter temperatures"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'ground-level ozone is a harmful pollutant formed when sunlight and heat act on emissions from vehicles, industry and other sources.'"
+      },
+      {
+        "question": "Which of the following is NOT explicitly listed as a precursor gas to ground-level ozone in the article?",
+        "options": [
+          "Nitrogen oxides",
+          "Volatile organic compounds",
+          "Sulphur dioxide",
+          "Both A and B"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions 'nitrogen oxides and volatile organic compounds' as precursor gases, but not Sulphur dioxide in this context."
+      },
+      {
+        "question": "What does the article suggest about the effectiveness of 'temporary drives' in combating Lahore's ozone crisis?",
+        "options": [
+          "They are highly effective if sustained",
+          "They are a long-term solution",
+          "They are insufficient and not enough",
+          "They effectively target all precursor gases"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'But the latest assessment reinforces the point made then: temporary drives will not be enough.'"
+      },
+      {
+        "question": "According to CAMS, what percentage of Asia's population was exposed to extremely high ozone levels this year?",
+        "options": [
+          "Almost 40%",
+          "About 60%",
+          "Less than 30%",
+          "Over 75%"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Asia fared even worse, with about 60pc of its population facing such exposure.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How do rising temperatures impact ground-level ozone formation in cities like Lahore?",
+        "back": "Rising temperatures can intensify the formation of ground-level ozone, which is created when sunlight and heat act on urban emissions."
+      },
+      {
+        "front": "Why are 'temporary drives' or targeting 'dust alone' insufficient for addressing Lahore's ozone crisis?",
+        "back": "Temporary measures are insufficient because ozone is formed from precursor gases (like nitrogen oxides and VOCs), not just dust, requiring permanent policy and continuous efforts for reduction."
+      },
+      {
+        "front": "What broad categories of policy interventions does the article suggest for sustainable air quality improvement in Lahore?",
+        "back": "The article suggests rigorous vehicle emissions testing, cleaner fuels, stronger industrial controls, reliable public transport, agricultural residue management, and integrating urban planning, traffic policy, and energy use with air quality goals."
+      },
+      {
+        "front": "What is the critical distinction between ground-level ozone and the protective ozone layer high in the atmosphere?",
+        "back": "Ground-level ozone is a harmful pollutant formed by human activity and emissions, whereas the ozone layer high in the atmosphere is natural and provides essential protection from harmful UV radiation."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790909461816-194",
+    "title": "Afghan irredentism\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034186/afghan-irredentism",
+    "date": "2026-10-02",
+    "author": "none@none.com (Dr Raashid Wali Janjua)",
+    "content": "PAKISTAN’S relations with Afghanistan have remained hostage to Afghan irredentism, which is a consequence of deep-seated historical animosities. The antipathy towards Pakistan was engendered through a false sense of entitlement about areas of Pakistan that in the past had once supposedly been part of Afghanistan. Generations in Afghanistan have been reared on a distorted version of history that regards the Pak-Afghan border as a historical injustice.\nLittle do these irredentists know that goi­ng by that logic Afghanistan has remained part of the Maurya and Mughal empires, while Sikhs, under Maharaja Ranjit Singh, had advanced up to Peshawar in 1834. Sub­sequently, the British and Afghans kept sparring over territories across British India and the Afghan frontier, resulting in three Anglo-Afghan wars.\nThe frontier between British India and Afghanistan was formalised in 1893 throu­­gh the Durand Line Agreement between Emir Abdur Rahman of Afghanistan and Sir Hen­ry Mortimer Durand, foreign secretary of British India. In fact, it was Emir Abdur Rah­­man who wanted to formalise Afghan­istan’s borders both with Russia and British India.\nAbdur Rahman requested the British In­­dian government to delineate the border bet­­ween the two states. He specifically req­uested Mortimer Durand to lead the mission. Following the agreement, joint commissions demarcated the border over several years and thereafter, several treaties were concluded. Each reaffirmed both parties’ commitments to respecting the boundary.\nAfghan irredentism has kept emerging with regularity.\nDuring the course of demarcation, Afghanistan gained territory not only from British India but also from Russia and Iran.\nAs a legatee state of British India, Pakis­tan inherited the border agreement as per the customary international law principle of uti possidetis juris (new states inherit pre-existing borders). However, Afghanistan’s representative cast the sole dissenting vote against Pakistan’s inclusion in the UN. Tho­ugh that negative vote was removed after a few weeks, the bad blood of Afghan irredentism continued to plague bilateral ties.\nA Loya Jirga declared all previous agreements regarding the international boundary invalid in July 1949, followed by border skirmishes and diplomatic stand-offs. Afghan forces entered Pakistani territory and were repelled after six days. Afghanistan kept providing political and financial support to Pakhtunistan-oriented elements in the 1950s while Afghan prime minister Mohammad Daoud condemned Pakistan’s One Unit arrangement, promising Afghan government support to Pakhtuns in Pakistan. Afghan mobs violated Pakistan’s diplomatic missions at Kabul, Jalalabad and Kandahar.\nAfghan troops in disguise, along with anti-Pakistan tribesmen, entered Bajaur in September 1960 under the direction of prime minister Daoud. Local tribesmen and Frontier Corps scouts initially resisted their advance while regular Pakistani forces, including air force and artillery, beat back Afghan troops, souring relations till 1963.\nAfter the deposition of King Zahir Shah by Daoud in 1973, Afghan intervention in Pakistan became more brazen. Afghanistan openly supported pro-Pakhtunistan elements. Afghanistan under Sardar Daoud also remained a veritable support base for the Baloch insurgency. Despite maximum support to Afghans in their freedom struggle during the Soviet invasion (1979-89), Afghan irredentism kept emerging with metronomic regularity, irrespective of the regime in power.\nFrom 1996 to 2001, Taliban-controlled Af­­ghanistan kept harbouring terrorist org­a­n­i­s­­ations including Al Qaeda, ETIM, and IMU. These groups influenced Pakistan’s ex-Fata region as well. The armed groups based in Afghan territory kept conducting cross-border at­­tacks against Pakis­­­tan from 2002 to 2006, encouraging the rise of terrorist entities like TTP. When Pak­istan fin­ally started fencing its border in 2017, Afghan troops targeted Pakistani forces at Torkham, repeating similar actions at Parachinar, Chaman, Bajaur and Chitral.\nPakistan had welcomed the Taliban regime after the 2021 US withdrawal in good neighbourly spirit, offering humanitarian and economic support at a time when most of the world was treating it as a pariah regime. The Taliban regime in turn gave impetus to anti-Pakistan terrorists like the TTP holed up in Afghanistan. In 2021, terrorist incidents saw a 42 per cent rise, owing to the Afghan Taliban’s takeover of Kabul and the subsequent release of hardened militants from various Afghan jails. From 128 terrorist incidents in 2021 to over 1,200 in 2025, there has been a steady rise in Taliban-regime enabled terrorist violence in Pakistan.\nDespite continued positive engagement by Pakistan, the Taliban regime has displayed obduracy and non-cooperation on the counterterrorism front by using terrorism as a low-cost option for leverage.\nThe writer holds a PhD from Nust.\nrwjanj@hotmail.com\nPublished in Dawn, October 2nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2025-NEIG",
+      "paper": "Current Affairs",
+      "year": 2025,
+      "question": "Discuss the contours of Pakistan's strategic relations with India and Afghanistan in detail. Do you foresee any serious security challenges from these neighbours in near future? Explain your opinion with scholarly evidences."
+    },
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Current Affairs",
+    "topic": "Pakistan-Afghanistan Relations: Historical Context and Contemporary Security Challenges",
+    "whyMatters": "This article is crucial for understanding the deep-rooted historical and ongoing security challenges in Pakistan's relationship with Afghanistan. It provides substantial evidence and historical context to address questions about regional security dynamics and the future trajectory of bilateral ties.",
+    "summary": [
+      "Afghan irredentism, stemming from a distorted historical narrative regarding the Pak-Afghan border and claims over Pakistani territories, has persistently strained Pakistan-Afghanistan relations since 1947.",
+      "The Durand Line, established in 1893 and reaffirmed by subsequent treaties, is the internationally recognized border, inherited by Pakistan under the customary international law principle of 'uti possidetis juris'.",
+      "Historically, Afghanistan has challenged this border, opposed Pakistan's UN membership, supported 'Pakhtunistan' elements, and engaged in cross-border incursions, diplomatic stand-offs, and state-sponsored terrorism.",
+      "Despite Pakistan's past support (e.g., during the Soviet invasion) and recent humanitarian aid to the Taliban regime, Afghan governments, including the current Taliban, continue to harbor and enable anti-Pakistan terrorist groups like TTP, leading to a significant increase in terrorist incidents in Pakistan."
+    ],
+    "facts": [
+      "The Durand Line Agreement was formalized in 1893 between Emir Abdur Rahman of Afghanistan and Sir Henry Mortimer Durand of British India.",
+      "Afghanistan cast the sole dissenting vote against Pakistan's inclusion in the UN in 1947, a vote later removed.",
+      "Terrorist incidents in Pakistan saw a 42% rise in 2021 following the Afghan Taliban's takeover and the release of militants, projected to reach over 1,200 incidents in 2025 from 128 in 2021."
+    ],
+    "academicReferences": [
+      "Dr. C. Christine Fair, \"Fighting to the End: The Pakistan Army's Way of War\" (Discusses the security implications of militancy and border dynamics).",
+      "The Durand Line Agreement, 1893 (The primary treaty establishing the border between Afghanistan and British India/Pakistan).",
+      "Principle of Uti Possidetis Juris in International Law (A customary international law principle applied to newly independent states inheriting colonial borders)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Irredentism",
+        "type": "noun",
+        "definition": "A policy of advocating the restoration to a country of any territory formerly belonging to it.",
+        "sentence": "Afghan irredentism has been a consistent source of tension, fueling claims over historically contested territories."
+      },
+      {
+        "word": "Engendered",
+        "type": "verb",
+        "definition": "Cause or give rise to (a feeling, situation, or condition).",
+        "sentence": "The distorted version of history engendered a false sense of entitlement among certain Afghan factions."
+      },
+      {
+        "word": "Metronomic",
+        "type": "adjective",
+        "definition": "(Of a process) regular and precise, like a metronome.",
+        "sentence": "Afghan irredentism kept emerging with metronomic regularity, irrespective of the regime in power."
+      },
+      {
+        "word": "Obduracy",
+        "type": "noun",
+        "definition": "The quality or state of being stubbornly persistent in wrongdoing.",
+        "sentence": "Despite continued positive engagement, the Taliban regime displayed obduracy and non-cooperation on the counterterrorism front."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What international law principle is cited in the article to explain how Pakistan inherited the border agreement with Afghanistan?",
+        "options": [
+          "A) Res judicata",
+          "B) Uti possidetis juris",
+          "C) Pacta sunt servanda",
+          "D) Jus cogens"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that Pakistan inherited the border agreement 'as per the customary international law principle of uti possidetis juris (new states inherit pre-existing borders)'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core historical claim driving Afghan irredentism, as presented in the article?",
+        "back": "A distorted version of history that regards the Pak-Afghan border as a historical injustice, claiming areas of Pakistan as formerly part of Afghanistan."
+      },
+      {
+        "front": "Which agreement formalized the border between British India and Afghanistan, and who were the key signatories?",
+        "back": "The Durand Line Agreement in 1893, signed between Emir Abdur Rahman of Afghanistan and Sir Henry Mortimer Durand of British India."
+      },
+      {
+        "front": "Name two significant actions taken by Afghanistan immediately after Pakistan's independence that demonstrated its irredentist stance.",
+        "back": "Afghanistan cast the sole dissenting vote against Pakistan's inclusion in the UN, and a Loya Jirga in July 1949 declared all previous border agreements invalid."
+      },
+      {
+        "front": "According to the article, what is the primary security challenge posed by the current Taliban regime in Afghanistan to Pakistan?",
+        "back": "The Taliban regime has given impetus to anti-Pakistan terrorists like the TTP, leading to a significant rise in cross-border terrorist incidents in Pakistan."
+      }
+    ]
+  },
+  {
     "id": "curated-1790822859057-915",
     "title": "Fragile cryosphere\n",
     "source": "Dawn",
@@ -640,6 +1281,121 @@
       {
         "front": "What trilateral approach does the article propose as a just solution to the Kashmir dispute?",
         "back": "A trilateral dialogue involving India, the legitimate representatives of the Kashmiri people, and Pakistan."
+      }
+    ]
+  },
+  {
+    "id": "curated-1790910282641-301",
+    "title": "The geography we cannot change",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2632311/the-geography-we-cannot-change",
+    "date": "2026-09-30",
+    "author": "\n\t\t\t\tDurdana Najam\n\t\t\t",
+    "content": "Long after today's governments have gone, Pakistan and Afghanistan will still share the same mountains, passes, tribes, markets and frontier. That simple geographical truth should matter more than the anger of the present moment.\n\nRelations between Islamabad and Kabul have rarely appeared as dangerous as they do today. Pakistan accuses the Afghan Taliban authorities of allowing the TTP and other militants to use Afghan territory for attacks inside Pakistan. Kabul rejects the allegation and accuses Pakistan of violating Afghan sovereignty. Air strikes, border clashes and competing accusations have gradually turned a security dispute into something close to direct confrontation between two states that have neither the geographical space nor the economic luxury for permanent hostility.\n\nThe difficulties are old. Afghanistan opposed Pakistan's entry into the United Nations in 1947 and has contested the Durand Line ever since. The Soviet invasion, the arrival of millions of refugees in Pakistan and the years of the Afghan jihad tied the two societies together. After 2001, each side blamed the other for the instability that followed. When the Taliban returned to power in 2021, many in Pakistan expected a more manageable western border. Instead, the TTP became the central dispute.\n\nThe record since then shows a gradual shift. Pakistan's early strikes in Afghanistan in 2022 and 2024 were limited and followed by quick de-escalation. In 2025 Islamabad also pursued diplomacy: visits to Kabul, a trilateral meeting with China in Beijing, an agreement to raise diplomatic ties to ambassador level, and a framework for a joint feasibility study of the Uzbekistan-Afghanistan-Pakistan railway. When attacks continued regardless, the approach hardened.\n\nThe Taliban's failure to rein in the TTP cannot be justified on any ground. It repeats an earlier mistake. Sheltering armed groups that other country regards as a mortal threat has once again put Afghanistan on a collision course. Pakistan's response was a strike in Kabul in October 2025 and a sustained air campaign from February 2026, making force a main tool of interaction.\n\nYet force has not brought security, and confrontation is a course neither country can sustain for long. The strongest argument for peace is not sentimental. It is arithmetic.\n\nAfghanistan is landlocked, and Pakistan offers it some of the shortest routes to the Arabian Sea. Bilateral trade reached nearly $2 billion in FY2024-25 despite political friction. Pakistan, for its part, needs a land route to Central Asia, and Afghanistan is the natural one. Projects such as the Trans-Afghan Railway, CASA-1000 and TAPI are meant to link Central Asia's energy and markets with South Asia. All of them pass through this one border.\n\nConflict already carries a cost that does not show up on the battlefield. Afghan traders have moved towards Iran and Central Asia after repeated closures of routes through Pakistan, and Afghanistan's total trade actually grew in 2025 as they did so. Pakistan is exploring alternative access to Central Asia through China and Iran. This should worry both governments. Once traders build new supply chains, they rarely return simply because the politics improve. Every prolonged closure moves a share of commerce away, possibly for good.\n\nThere is a deeper change required in Kabul. Afghanistan's celebrated resistance to foreign domination has been central to its national memory. But resistance is an instrument of survival, not a model of governance. A society cannot permanently organise itself around the virtues needed to defeat invaders. The qualities that win a war, such as secrecy, hierarchy, ideological rigidity and suspicion, are not necessarily those needed to build universities, run cities, attract investment, educate women and men, negotiate trade agreements and take part confidently in the modern economy. The move from insurgency to government demands an intellectual transition as profound as the military victory that preceded it.\n\nRestraining the TTP is therefore a matter of sovereignty and self-interest, not a favour to Pakistan. A government that hosts groups attacking its largest neighbour will find it hard to attract the capital its economy needs.\n\nPakistan has its own homework. Geography does not translate into permanent influence and on the expectation that past support buys present.\n\nThat is where a new relationship could begin. The two states do not need to agree about everything. France and Germany did not erase their wars before building Europe. Southeast Asian states did not settle every territorial disagreement before building economic cooperation. Successful regions are not composed of countries without historical grievances. They are often composed of countries that eventually decide that prosperity is a more productive use of geography than revenge.\n\nPakistan and Afghanistan face precisely that choice. One road leads towards an increasingly militarised frontier, alternative trade routes, proxy accusations, radicalisation and generations taught to regard the people across the border as adversaries. The other turns the same geography into corridors: Karachi and Gwadar connected northward, Kabul connected southward, Central Asian energy flowing towards South Asia, and families, traders and students crossing a border regulated by states rather than militants.\n\nThe mountain passes will remain whichever road is chosen. So will the Durand Line, Pakistan and Afghanistan. That is the lesson both countries have taken too long to learn: you can choose your policies, allies and governments, but not your neighbour.\n\nSometimes the most useful act available to societies accustomed to conflict is not to win another battle. It is to turn the page.",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Current Affairs",
+    "topic": "Pakistan-Afghanistan Relations; Regional Economic Integration and Connectivity; Geopolitics of South and Central Asia",
+    "whyMatters": "This article is vital for understanding the complex geopolitical realities hindering regional economic integration, particularly Pakistan's connectivity to Central Asia. It offers a critical case study of how shared geography, despite ongoing conflict, necessitates cooperation for economic prosperity, which is a core objective of organizations like ECO.",
+    "summary": [
+      "Pakistan and Afghanistan's shared geography (mountains, passes, tribes, markets) mandates cooperation despite present political friction and anger.",
+      "Ongoing conflict, particularly over the TTP, has escalated tensions, but neither state can sustain permanent hostility due to economic and geographical constraints.",
+      "Regional economic projects (Trans-Afghan Railway, CASA-1000, TAPI) are crucial for linking Central Asian energy/markets with South Asia, but conflict diverts trade and creates costly alternative routes.",
+      "Both states must acknowledge their self-interest in stability and economic cooperation, with Afghanistan needing to shift from 'resistance' to 'governance' and Pakistan realizing geography alone doesn't guarantee influence."
+    ],
+    "facts": [
+      "Afghanistan opposed Pakistan's entry into the United Nations in 1947.",
+      "Bilateral trade between Pakistan and Afghanistan reached nearly $2 billion in FY2024-25.",
+      "Pakistan conducted air strikes in Afghanistan in 2022, 2024, October 2025 (Kabul), and a sustained campaign from February 2026."
+    ],
+    "academicReferences": [
+      "C. Raja Mohan, 'Samudra Manthan: Sino-Indian Rivalry in the Indo-Pacific' (for regional geopolitics and connectivity)",
+      "Shireen M. Mazari, 'The Afghanistan-Pakistan Imbroglio: A Critical Analysis' (for specific bilateral relations)",
+      "Andrew Small, 'The China-Pakistan Axis: Asia's New Geopolitics' (for broader regional strategic context)"
+    ],
+    "vocabulary": [
+      {
+        "word": "confrontation",
+        "type": "noun",
+        "definition": "a hostile or argumentative meeting or situation between opposing parties",
+        "sentence": "Air strikes and border clashes have gradually turned a security dispute into something close to direct confrontation between Pakistan and Afghanistan."
+      },
+      {
+        "word": "de-escalation",
+        "type": "noun",
+        "definition": "the action of reducing the intensity of a conflict or potentially violent situation",
+        "sentence": "Pakistan's early strikes in Afghanistan were limited and followed by quick de-escalation, showing an initial cautious approach."
+      },
+      {
+        "word": "landlocked",
+        "type": "adjective",
+        "definition": "enclosed or nearly enclosed by land; having no direct access to the sea",
+        "sentence": "Afghanistan is landlocked, making its access to the Arabian Sea through Pakistan strategically vital for its economy."
+      },
+      {
+        "word": "militarised",
+        "type": "adjective",
+        "definition": "equipped with military forces, fortifications, or military features",
+        "sentence": "One possible future leads towards an increasingly militarised frontier, which would only exacerbate regional tensions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary geographical truth emphasized in the article regarding Pakistan and Afghanistan?",
+        "options": [
+          "They share a long history of conflict.",
+          "They are separated by vast deserts.",
+          "They share the same mountains, passes, and frontier.",
+          "They are both landlocked nations."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that 'Pakistan and Afghanistan will still share the same mountains, passes, tribes, markets and frontier. That simple geographical truth should matter more...'"
+      },
+      {
+        "question": "What economic benefit does Pakistan specifically seek from a stable relationship with Afghanistan?",
+        "options": [
+          "Access to Afghanistan's mineral resources.",
+          "A land route to Central Asia.",
+          "Agricultural imports from Afghanistan.",
+          "A market for its manufactured goods."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Pakistan, for its part, needs a land route to Central Asia, and Afghanistan is the natural one.'"
+      },
+      {
+        "question": "According to the article, what is a significant long-term consequence of repeated closures of trade routes through Pakistan for Afghanistan?",
+        "options": [
+          "Increased reliance on Pakistan for trade.",
+          "Reduced total trade for Afghanistan.",
+          "Diversion of trade towards Iran and Central Asia.",
+          "A significant decrease in global aid."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, 'Afghan traders have moved towards Iran and Central Asia after repeated closures of routes through Pakistan, and Afghanistan's total trade actually grew in 2025 as they did so.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What core geographical reality underlines the unavoidable interdependence of Pakistan and Afghanistan?",
+        "back": "Pakistan and Afghanistan permanently share mountains, passes, tribes, markets, and a frontier, making cooperation a geographical imperative despite political differences."
+      },
+      {
+        "front": "How does the article argue that force and confrontation are unsustainable for both Pakistan and Afghanistan?",
+        "back": "Force has not brought security, and neither country possesses the geographical space nor the economic luxury to sustain permanent hostility."
+      },
+      {
+        "front": "What are the mutual economic benefits highlighted for Pakistan and Afghanistan through cooperation in regional integration projects?",
+        "back": "Afghanistan gains access to the Arabian Sea via Pakistan, while Pakistan gains crucial land routes to Central Asian energy and markets through projects like CASA-1000 and TAPI."
+      },
+      {
+        "front": "What 'homework' does the article prescribe for Afghanistan to facilitate regional stability and economic growth?",
+        "back": "Afghanistan must transition from a 'resistance' to a 'governance' model, restraining militant groups like the TTP, which is essential for attracting capital and participating in the modern economy."
       }
     ]
   },
@@ -9808,579 +10564,6 @@
       {
         "front": "What concept does the article suggest the US has failed to learn lessons from in its post-9/11 foreign policy?",
         "back": "The article concludes that the US has learned no lessons from 'imperial overreach' and how not to fight terrorism."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789263727750-495",
-    "title": "Political order\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2029054/political-order",
-    "date": "2026-09-11",
-    "author": "none@none.com (Ghulam Shabbir)",
-    "content": "MAN’S superiority over creation lies in his faculty of creative knowledge, ie, the capacity to discover the laws of, and thus achieve mastery over, nature, or, in Quranic terminology, “to know the names of all things”, and then use this mastery under the human initiative to create a just political world order. Endowed with choice and charged with responsibility, man is a bearer of ‘Trust’ under whose weight the entire universe chafed. He assumed the task which the heavens, despite their heights, the earth despite its vastness, and the mountains, despite their firmness, shrank from undertaking.\nThis task involves fulfilling the primordial covenant: to establish a just world order, since the challenge God gave man at creation was to create a sociopolitical order that reflects the equality all people share in the eyes of God. It was to orient the forces of history towards a just social order rather than to compromise with them under the cover of secularism. Hence, for Islam, politics is through and through a moral endeavour to accomplish the task. The Quranic idea of ‘fauz’ (success) or ‘khusran’ (failure) is rooted in executing the same task, since it is the quality of the political process through which civilisations rise and fall.\nThe Quran, in its coherent unity, shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests. And when exploitation reaches its critical point, the whole of society or civilisation is mowed down. When the Quran talks about the death of individuals like Pharaoh, Qarun and Haman, it is showing the self-destructiveness of the way of life of a society or civilisation. The remedy lies in building a just sociopolitical order, since societies built on unbelief may survive, but unjust ones may not.\nNow, because injustice is often rooted in socioeconomic disequilibrium and grave fiscal malpractices can lead to socioeconomic suicide (4:29-32), the Quran makes monotheism-based socioeconomic reforms the linchpin of its moral programme. Therefore, Islam, since its very inception, was socio-politically geared to uproot the corrupt socioeconomic structures of Persia and Byzantium and to build anew, to inject fresh blood into the veins of a decrepit and decadent humanity.\nIn Islam politics is through and through a moral endeavour.\nIslam views power as a means to an end, not an end in itself, as prayer and zakat are instruments of socioeconomic equality. Implementing them in letter and spirit required political power, so the Prophet (PBUH) felt duty-bound to build a state based on an ethical sociopolitical order.\nHence, man is a moral political being with ibada as his purpose of creation — which means to know the will of God and implement it in life, and to restore moral order in individual and social life to redeem the balance of history.\nThe Quran constituted an egalitarian community, with equal rights for all to participate in or lead the execution of the task through shura, or mutual consultation. The community’s internal conduct was based on active goodwill and cooperation with no trace of elitism. Externally, it kept inviting the religious others to share the burden of building a world moral order. It fared well and was blessed with political control of Arabia, eventually expanding into parts of Asia, Africa, and Europe.\nHowever, later, with the onset and patronage of dictatorship, Sufism Hellenised almost every bit of the faith. In the long run, this development resulted in the colonisation of Mus­lim Asia and Afri­­ca by Western po­­­­­-wers. At this critical juncture, Syed Jamal al-Din Af­­gh­ani rediscovered the Quran’s moral political vision. He proposed building an Islamic republic across a wide region of Central Asia and the Muslim-majority areas of northwest India to realise Islam’s sociopolitical ideals. He amply fired the imagination of Iqbal and Ali Shariati. The former conceived the idea of Pakistan, and the latter paved the way for the Islamic Revolution in Iran.\nToday, the Muslim world has either succumbed to secular structures or theocratic modes. The realisation of the Quran’s moral political vision that seeks just socioeconomic and democratic organisation of society seems like a distant dream.\nThe Quran hardly demands military conquests which could stand in the way of the prospects of the socio-democratic organisation of society. What the vision needs is a tract of land with a just political order whose fragrance may be smelt in the world around and which, in the long run, is destined to create a just world order. Does such a realisation prevail anywhere in the Muslim world?\nThe writer is an academic.\nPublished in Dawn, September 11th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Islamic Studies / Political Science",
-    "topic": "Islamic Political Philosophy, Just World Order, and Societal Decline",
-    "whyMatters": "This article provides a foundational Islamic perspective on politics as a moral endeavor, essential for understanding the ideological underpinnings of various movements and states in the Muslim world. It offers a critical analysis of historical societal decline and proposes an ideal for a just socio-political order, highly relevant for essays on governance and religious philosophy.",
-    "summary": [
-      "Humanity's core 'Trust' is to establish a just world order reflecting divine equality, viewing politics as a moral task to orient history towards justice, not compromise with secularism.",
-      "The Quran attributes societal and civilizational collapse to the exploitative actions of a 'troika' of religious, political, and mercantile elites driven by vested interests.",
-      "Injustice, often stemming from socioeconomic disequilibrium and fiscal malpractices, necessitates monotheism-based socioeconomic reforms as the linchpin of Islam's moral program.",
-      "The article critiques the Muslim world's current succumbing to secular or theocratic structures, advocating for a just political order on a tract of land whose fragrance can inspire a global just order, echoing the vision of reformers like Afghani and Iqbal."
-    ],
-    "facts": [
-      "Quranic concepts highlighted include 'Trust' (Amanah), 'fauz' (success), 'khusran' (failure), 'ibada', and 'shura'.",
-      "The Quran uses figures like Pharaoh, Qarun, and Haman to illustrate the self-destructiveness of exploitative societal ways of life.",
-      "Key reformist thinkers mentioned are Syed Jamal al-Din Afghani (who proposed an Islamic republic), Iqbal (who conceived Pakistan), and Ali Shariati (who paved the way for Iran's Islamic Revolution).",
-      "Historically, the Hellenization of Sufism under dictatorship contributed to the colonization of Muslim Asia and Africa by Western powers."
-    ],
-    "academicReferences": [
-      "Iqbal, Muhammad. \"The Reconstruction of Religious Thought in Islam.\" (Directly mentioned, foundational for modern Islamic political thought).",
-      "Rahman, Fazlur. \"Islam and Modernity: Transformation of an Intellectual Tradition.\" (Relevant for understanding Islamic reform movements and the concept of an Islamic socio-political order).",
-      "Nasr, Seyyed Hossein. \"Ideals and Realities of Islam.\" (Offers a comprehensive overview of Islamic principles, including its socio-political dimensions).",
-      "Hallaq, Wael B. \"The Impossible State: Islam, Politics, and Modernity's Predicament.\" (Provides a critical academic perspective on the modern state in relation to classical Islamic political ideals)."
-    ],
-    "vocabulary": [
-      {
-        "word": "chafed",
-        "type": "verb",
-        "definition": "became annoyed or impatient with a restriction or situation",
-        "sentence": "Man assumed the task under whose weight the entire universe chafed."
-      },
-      {
-        "word": "primordial",
-        "type": "adjective",
-        "definition": "existing at or from the beginning of time; ancient",
-        "sentence": "This task involves fulfilling the primordial covenant: to establish a just world order."
-      },
-      {
-        "word": "troika",
-        "type": "noun",
-        "definition": "a group of three people, countries, or things working together",
-        "sentence": "The Quran, in its coherent unity, shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests."
-      },
-      {
-        "word": "decrepit",
-        "type": "adjective",
-        "definition": "worn out or ruined because of age or neglect",
-        "sentence": "Islam was socio-politically geared to inject fresh blood into the veins of a decrepit and decadent humanity."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the fundamental 'Trust' bestowed upon man in Quranic terminology?",
-        "options": [
-          "To achieve mastery over nature and create a just political world order.",
-          "To accumulate wealth and establish mercantile power.",
-          "To gain religious knowledge and spiritual enlightenment.",
-          "To conquer lands and expand political control."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'man is a bearer of ‘Trust’... This task involves fulfilling the primordial covenant: to establish a just world order' and 'achieve mastery over nature... to create a just political world order.'"
-      },
-      {
-        "question": "What does the article identify as the primary cause of societal or civilizational collapse, according to the Quran?",
-        "options": [
-          "Lack of military power and defense.",
-          "Secular governance and separation of church and state.",
-          "Exploitation by a troika of religious, political, and mercantile elites.",
-          "Natural disasters and environmental degradation."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'the Quran... shows that it is a troika of religious, political, and mercantile elites that manoeuvres the materials of history towards their vested interests. And when exploitation reaches its critical point, the whole of society or civilisation is mowed down.'"
-      },
-      {
-        "question": "What did Syed Jamal al-Din Afghani propose to realize Islam's sociopolitical ideals?",
-        "options": [
-          "Military conquests to expand Muslim empires.",
-          "Establishing secular democratic structures in Muslim-majority regions.",
-          "Building an Islamic republic across Central Asia and Muslim-majority areas of northwest India.",
-          "Promoting Sufi mysticism as a path to spiritual revival."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article clearly states, 'Syed Jamal al-Din Afghani rediscovered the Quran’s moral political vision. He proposed building an Islamic republic across a wide region of Central Asia and the Muslim-majority areas of northwest India.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the 'Trust' (Amanah) that man bears according to the Quran, as interpreted in the article?",
-        "back": "Man's 'Trust' is the capacity to discover nature's laws and use this mastery under human initiative to create a just political world order, fulfilling the primordial covenant to establish a socio-political order reflecting equality."
-      },
-      {
-        "front": "How does the article characterize Islam's perspective on politics?",
-        "back": "Islam views politics as a moral endeavor, not an end in itself, aimed at implementing God's will to restore moral order and establish an ethical sociopolitical system reflecting equality and justice."
-      },
-      {
-        "front": "What 'troika' does the Quran identify as responsible for the downfall of societies and civilizations?",
-        "back": "The Quran identifies a 'troika' of religious, political, and mercantile elites who manipulate historical materials for their vested interests, leading to exploitation and societal collapse when reaching critical points."
-      },
-      {
-        "front": "What was Syed Jamal al-Din Afghani's vision for realizing Islam's moral political ideals?",
-        "back": "Afghani envisioned building an Islamic republic across Central Asia and Muslim-majority areas of northwest India to realize Islam's sociopolitical ideals, influencing later thinkers like Iqbal and Ali Shariati."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789178216268-607",
-    "title": "Terror forever\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2029053/terror-forever",
-    "date": "2026-09-11",
-    "author": "none@none.com (Aasim Sajjad Akhtar)",
-    "content": "THE 9/11 attacks happened 25 years ago, ushering in a new epoch. The so-called global war on terror was launched by the Bush administration a few days later, and Washington has wreaked havoc across the globe ever since.\n\nThe majority of the world’s states have followed the US lead by making the prosecution and hunting down of ‘terrorists’ their primary raison d’être. Ideological apparatuses, including the culture industry, have indoctrinated generations of young and old alike into believing that ‘terror’ is ubiquitous and that the state must be endlessly empowered to snuff it out, even at the cost of basic liberties.\n\nPakistan was one of the major staging grounds of the ‘war on terror’, facilitating both the US invasion and occupation of Afghanistan whilst also launching innumerable military operations on its own soil. A plethora of ‘anti-terrorist’ laws have been promulgated since 2001, the scope of which is growing wider. While these instruments are deployed to clamp down on all forms of dissent and popular political mobilisation, the insurgencies and other forms of political violence that ostensibly should have been curbed by the state’s various ‘counterterrorist’ initiatives have only become more intense.\n\nBeneath the surface, a global military-industrial complex profits endlessly from the West’s totalitarian regime. Washington has thrown $8 trillion at various wars since 2001, a significant chunk of which has been pocketed by private defence contractors integrated with the deep state. In Pakistan, too, the ‘war on terror’ inaugurated a host of opportunities for state functionaries and private contractors to mint money.\n\nThe policing of dissent is paralleled by Big Tech’s power.\n\nToday, we are at another crossroads. With the rise of Big Tech to the apex of global capitalism, the nexus of state and private capital has morphed into a behemoth without historical precedent. The discourse around ‘terrorism’ expanded some years ago in conjunction with the dramatic transformations of cultural, economic and political life provoked by digitalisation. Terms like ‘cyberterrorism/‘cybersecurity’ and ‘fifth-generation war’ reflect the evolution of a political idiom that both incorporates the logics of the war on terror and extends well beyond it.\n\nThe policing of dissent by the state and aligned propagandists in the digital lifeworld is paralleled by the immense power of Big Tech companies to access, share and manipulate data. Earlier this week, a whistleblower resigned from Anthropic, warning that AI development is being allowed to spiral into an existential threat to humanity. Anthropic’s Claude tool has already shown its destructive capabilities at the outset of the war on Iran. Edward Snowden told us what was coming as early as 2013.\n\nDespite their claims of being pro-market libertarians, billionaires like Peter Thiel and Elon Musk are buttressing the state’s immense coercive and surveillance capacities. They view humanity as a plaything that is, at best, ‘saved’ and, at worst, sacrificed in the interests of landing on Mars or crafting more ‘intelligent’ species. Quite aside from hyperbolic claims that an AI-triggered extinction event is around the corner, the unbridled pursuit of power and profit by Big Tech alongside the contemporary state’s unlimited quest for social control must surely trouble anyone concerned with the age-old quest for human emancipation.\n\nEven non-human life is at stake. At a time when climate breakdown events are playing out with ever greater frequency and intensity, states everywhere are bending over backwards to build huge data centres to serve Big Tech’s interests by guaranteeing eno­rmous and unint­errupted supplies of electricity and water. The US st­­a­te and Silicon Val­ley billionaires are the primary protagonists of the contemporary militarised capitalist order. But we cannot be seduced by blind-faith arguments that there are ‘good’ states — not least of them our own — and ‘green’ capitalisms that do not conform to the overarching logic of the system.\n\nWe need, instead, to learn the lessons from the ‘war on terror’ and stop being cheerleaders for an even more sinister and unhinged digitalised fusion of state and corporate power that will shape our present and future.\n\nA critical mass in Pakistan continues to speak truth to the militarised ruling class over its whittling away of the few civil liberties we still possess, including in the digital domain, whilst also resisting resource grabs and dispossession. The challenge, however, is outlined every time an episode of ‘terrorism’ is capitalised upon by the state to whip up a nationalist frenzy in which all good sense is abandoned.\n\nIf the global totalitarian regime’s march is to be halted, we must coalesce around an anti-capitalist ideological politics rooted in working people and nature. And soon.\n\nThe writer teaches at Quaid-i-Azam University, Islamabad.\n\nPublished in Dawn, September 11th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "International Relations / Pakistan Affairs / Current Affairs",
-    "topic": "The Global War on Terror, State Surveillance, and the State-Big Tech Nexus",
-    "whyMatters": "This article offers a critical lens on the post-9/11 global order, linking the 'war on terror' to state overreach, the military-industrial complex, and the unprecedented power of Big Tech. It provides crucial arguments for analyzing contemporary challenges related to civil liberties, digital surveillance, and the evolving nature of capitalism.",
-    "summary": [
-      "The post-9/11 'global war on terror' ushered in a new epoch marked by widespread state empowerment, erosion of basic liberties, and ideological indoctrination to justify constant state intervention.",
-      "This 'war' functions as a profit engine for a global military-industrial complex and state functionaries, exemplified by Washington's $8 trillion expenditure since 2001, largely benefiting private defense contractors.",
-      "The rise of Big Tech has forged an unprecedented state-private capital nexus, expanding surveillance and policing dissent through new digital idioms like 'cyberterrorism' and 'fifth-generation war,' further eroding freedoms.",
-      "This militarized capitalist order, driven by the US state and Silicon Valley billionaires, poses existential threats to human emancipation and non-human life, necessitating a collective anti-capitalist politics rooted in working people and nature."
-    ],
-    "facts": [
-      "The 9/11 attacks happened 25 years ago (as per the article's publication date of Sept 11th, 2026, implying 9/11/2001).",
-      "Washington has spent $8 trillion on various wars since 2001, with a significant chunk pocketed by private defence contractors.",
-      "Edward Snowden warned about pervasive surveillance and its implications as early as 2013."
-    ],
-    "academicReferences": [
-      "Naomi Klein's 'The Shock Doctrine: The Rise of Disaster Capitalism' (for understanding how crises are exploited for profit and policy shifts).",
-      "Shoshana Zuboff's 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power' (for insights into Big Tech's power and data manipulation).",
-      "Michel Foucault's 'Discipline and Punish: The Birth of the Prison' (for conceptualizing state control, disciplinary power, and the normalization of surveillance in society)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Epoch",
-        "type": "noun",
-        "definition": "A period in history or a person's life, typically one marked by notable events or particular characteristics.",
-        "sentence": "The 9/11 attacks happened 25 years ago, ushering in a new epoch."
-      },
-      {
-        "word": "Raison d’être",
-        "type": "noun",
-        "definition": "The most important reason or purpose for someone or something's existence.",
-        "sentence": "The majority of the world’s states have followed the US lead by making the prosecution and hunting down of ‘terrorists’ their primary raison d’être."
-      },
-      {
-        "word": "Ubiquitous",
-        "type": "adjective",
-        "definition": "Present, appearing, or found everywhere.",
-        "sentence": "Ideological apparatuses have indoctrinated generations of young and old alike into believing that ‘terror’ is ubiquitous."
-      },
-      {
-        "word": "Promulgated",
-        "type": "verb",
-        "definition": "To put (a law or decree) into effect by official proclamation.",
-        "sentence": "A plethora of ‘anti-terrorist’ laws have been promulgated since 2001."
-      },
-      {
-        "word": "Nexus",
-        "type": "noun",
-        "definition": "A connection or series of connections linking two or more things.",
-        "sentence": "The nexus of state and private capital has morphed into a behemoth without historical precedent."
-      },
-      {
-        "word": "Coalesce",
-        "type": "verb",
-        "definition": "To come together to form one mass or whole.",
-        "sentence": "If the global totalitarian regime’s march is to be halted, we must coalesce around an anti-capitalist ideological politics rooted in working people and nature."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what was a primary consequence of the 'global war on terror' launched after 9/11?",
-        "options": [
-          "Enhanced global cooperation on human rights.",
-          "Reduced military spending worldwide.",
-          "Empowerment of states at the cost of basic liberties.",
-          "Decline of the military-industrial complex."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that states were 'endlessly empowered to snuff it out, even at the cost of basic liberties'."
-      },
-      {
-        "question": "What amount did Washington reportedly spend on various wars since 2001, according to the article?",
-        "options": [
-          "$8 billion",
-          "$800 billion",
-          "$8 trillion",
-          "$80 trillion"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'Washington has thrown $8 trillion at various wars since 2001'."
-      },
-      {
-        "question": "How does the article characterize the relationship between Big Tech and the state in the contemporary era?",
-        "options": [
-          "A competitive dynamic for market control.",
-          "A benevolent partnership for technological advancement.",
-          "A 'behemoth without historical precedent' due to their combined power.",
-          "An alliance primarily focused on environmental protection."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article describes 'the nexus of state and private capital has morphed into a behemoth without historical precedent' with the rise of Big Tech."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What major shift did the 9/11 attacks and the subsequent 'war on terror' usher in, according      to the article?",
-        "back": "A new epoch characterized by states being endlessly empowered to combat 'terror,' often at the cost of basic liberties and through ideological indoctrination."
-      },
-      {
-        "front": "How does the article link the 'war on terror' to economic interests?",
-        "back": "It highlights how a global military-industrial complex and state functionaries profit endlessly, with Washington spending $8 trillion since 2001, much of which goes to private defense contractors."
-      },
-      {
-        "front": "What is the core concern raised about the rise of Big Tech in conjunction with the state?",
-        "back": "The formation of an unprecedented state and private capital nexus, which expands surveillance and the policing of dissent through digital means, threatening human emancipation."
-      },
-      {
-        "front": "What ultimate political action does the author advocate to counter the 'global totalitarian regime’s march'?",
-        "back": "To coalesce around an anti-capitalist ideological politics rooted in working people and nature, learning lessons from the 'war on terror'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789091152207-985",
-    "title": "Message from Nepal\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2028799/message-from-nepal",
-    "date": "2026-09-10",
-    "author": "none@none.com (Ali Tauqeer Sheikh)",
-    "content": "THREE features of the catastrophic flood that tore through Nepal on Aug 16, 2026, do not fit Pakistan’s mountain disaster strategy: it started without rains; it originated across the border; it had huge compounding factors. None of these three is a one-off. They describe a disaster category that has been forming across the region for over a decade, growing more frequent, widespread and severe. But Pakistan’s climate planning has stayed focused almost entirely on the monsoon.\n\nA mass of rock and glacier ice broke away from an altitude of about 5,200 metres in the upper mountain range, generating seismic energy equivalent to a 5.2-magnitude earthquake. The fall produced enough friction to melt the ice on the way down, turning a dry avalanche into a slurry of mud, ice and boulders moving at up to 167 kilometres an hour at a height of 9m. The debris choked the river and formed a dam. When that gave way, a second surge followed; both hit settlements and the hydropower works below.\n\nIt started above the cloud levels. Slopes at this altitude are held up by permafrost gluing the rock and glacial ice buttressing the valley walls. Warming removes both: thawing permafrost raises pore pressure and cuts shear strength, while retreating glaciers stop bracing the slopes from outside. The rock fails on temperature’s schedule, not the monsoon’s, which is why Chamoli in Uttarakhand in India went down under clear skies in 2021 and Langtang followed five years later.\n\nThe record before both confirms a trend, not two isolated events. The 2015 avalanche off Langtang Lirung, the 2016 Gongbatongsha outburst crossing from the Tibet area into Nepal, and the 2024 Thame outburst in the Everest region struck without warning, each widening the geography of a hazard.\n\nHigh-altitude disasters underscore the need for Pakistan to go beyond monsoon planning.\n\nIn Pakistan, the 2010 Attabad collapse dammed the Hunza River and submerged 24 kilometres of the Karakoram Highway. The Shisper Glacier’s ice-dammed lake breached without rain in 2022 and destroyed the highway bridge at Hassanabad. Each event has moved higher in elevation, wider in geography, and heavier in what it destroys, from one buried village in 2015 to a cascading event spread over several kilometres.\n\nPakistan keeps no comparable dataset on its own landslide activity. But a study in the National Science Review, covering more than 8,000 landslides across the eastern Himalayas, found a five-fold increase in high-elevation slope failures over three decades, tracking a doubling of Hindu Kush Himalaya glacier mass loss since 2000. Failures are also rising and entering the 5,000m-6,000m band that was once too frozen to fail.\n\nThe Langtang collapse struck Gyirong Port, before the debris continued into Nepal’s own river systems. The direction of travel is not new. Nearly half of the more than 25 major glacial lake outburst floods recorded in Nepal since the mid-20th century have originated across the same border, arriving from a stretch neither country monitors jointly. This event was not itself a Glof — no lake burst before the collapse — but the debris dam it left behind and the discharge that followed sit inside the same unmonitored corridor.\n\nPakistan belongs to the same geography, through the Kyagar Glacier’s periodic surges in the Shaksgam Valley. But China is not just Nepal’s or Pakistan’s upstream neighbour. It is South Asia’s upper riparian. It is the source plateau for the Indus, the Sutlej and the Brahmaputra — the headwaters of most of South Asia’s major rivers. That makes bilateral arrangements structurally insufficient. What this event calls for is a South Asia-wide early warning architecture, built and shared across every state whose rivers begin on that plateau, not a patchwork of separate deals each covering one border and missing the rest.\n\nNone of Nepal’s responses fixed the underlying failure. Built for a slow monsoon rise, its flood sensors were destroyed before they could warn of a moving slurry. Existing bilateral arrangements track slow glacial lake outbursts, not sudden ice-rock collapse. Nepal had no real-time alert before the surge. Pakistan, sharing the same upstream geography, has the identical gap.\n\nWhat Pakistan needs: Dasu, Diamer-Bhasha and Mohmand are located in river corridors engineered for a monsoon flood profile, not the debris slurry that trapped 500 workers in Nepal. The Karakoram Highway has already been severed once at Attabad and once at Hassanabad. A third closure is not hypothetical.\n\nNepal rewrote its school-siting rules before rebuilding, not after. It accepted specialised help without inviting chaos. Pakistan’s community-based disaster risk management networks in Gilgit-Baltistan and KP already have the local trust that saved lives on the Trishuli corridor before state machinery arrived. What they lack is a local government signal to act on before the water reaches them.\n\nFour steps are needed. First, convert the existing weather arrangement with China into automated, real-time information sharing on slope deformation and barrier-lake formation in the Shaksgam and Xinjiang zones — the exact category the Nepal-China arrangement missed.\n\nSecond, focus on joint satellite monitoring with the Chinese Academy of Sciences, ICIMOD and Suparco, using synthetic aperture radars across the Karakoram, Pamirs and Hindu Kush structured from the outset as a Saarc-wide facility that India, Bhutan and Bangladesh can draw on since all sit downstream of the same plateau.\n\nThird, install seismic and hydrological sensors along the Indus and Shyok corridors calibrated for a slurry, not a rising river, so that downstream infrastructure gets lead time measured in hours instead of minutes.\n\nFourth, join the consortium undertaking primary technical monitoring, satellite radar analysis, and field assessments, led by ICIMOD, the United States Geological Survey, Integrated Research on Disaster Risk, Nepal Environment Society, and academic glaciologists from such institutions as the University of Michigan. They are combining real-time remote-sensing satellite tracking with ground-level hydrological stations. These entities are quantifying the initial collapse volume, utilising synthetic aperture radar to monitor adjacent unstable slopes, assessing secondary barrier-lake outburst risks, and advancing regional hazard-mapping protocols — areas of critical importance to Pakistan.\n\nThis catastrophe combines rapid- and slow-onset — the compound hazard now falling inside the mandate of the Fund for Responding to Loss and Damage.\n\nThe writer serves on the Board of the Fund for Responding to Loss and Damage.\n\nPublished in Dawn, September 10th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 95,
-    "paper": "Current Affairs / Pakistan Affairs / Environmental Science / International Relations",
-    "topic": "Climate Change Induced Disasters and Transboundary Cooperation in South Asia",
-    "whyMatters": "This article highlights the evolving nature of climate-induced disasters, moving beyond monsoon-centric planning to include high-altitude, 'dry' events. It provides concrete examples and actionable policy recommendations for Pakistan, making it invaluable for essays and analytical questions on disaster management, climate adaptation, and regional cooperation.",
-    "summary": [
-      "Pakistan's current mountain disaster strategy is inadequate as it primarily focuses on monsoon floods, failing to account for new categories of catastrophic events that originate without rain, are transboundary, and involve complex compounding factors.",
-      "High-altitude slope failures, driven by thawing permafrost and retreating glaciers due to global warming, are increasing in frequency and severity across the Hindu Kush Himalaya region, exemplified by incidents in Nepal and Pakistan.",
-      "Many of these new disasters, particularly in Nepal and Pakistan, originate across international borders (e.g., from China), underscoring the critical need for a South Asia-wide, real-time early warning and information-sharing architecture.",
-      "Pakistan requires a four-step policy overhaul: automated, real-time data sharing with China, joint satellite monitoring with regional and international partners, installation of slurry-calibrated sensors along river corridors, and active participation in international technical monitoring consortia."
-    ],
-    "facts": [
-      "The Nepal flood on Aug 16, 2026, started without rains, originated across the border, and involved a rock/glacier ice fall from 5,200m generating seismic energy equivalent to a 5.2-magnitude earthquake.",
-      "A study covering over 8,000 landslides across the eastern Himalayas found a five-fold increase in high-elevation slope failures over three decades, coinciding with a doubling of Hindu Kush Himalaya glacier mass loss since 2000.",
-      "Nearly half of the more than 25 major glacial lake outburst floods (GLOFs) recorded in Nepal since the mid-20th century have originated across its border with China."
-    ],
-    "academicReferences": [
-      "ICIMOD (International Centre for Integrated Mountain Development) Reports on Himalayan Glaciers and Climate Change",
-      "Sendai Framework for Disaster Risk Reduction 2015-2030",
-      "The Paris Agreement and the Fund for Responding to Loss and Damage",
-      "United Nations Environment Programme (UNEP) Reports on Mountain Ecosystems and Climate Change"
-    ],
-    "vocabulary": [
-      {
-        "word": "Permafrost",
-        "type": "noun",
-        "definition": "Ground (soil, rock, ice) that remains frozen for two or more consecutive years.",
-        "sentence": "The thawing of permafrost in high-altitude regions significantly contributes to slope instability."
-      },
-      {
-        "word": "Buttressing",
-        "type": "verb",
-        "definition": "To provide support or strength to something; often in the context of glaciers supporting valley walls.",
-        "sentence": "Retreating glaciers no longer brace or buttress the valley walls, leading to increased rock fall."
-      },
-      {
-        "word": "Riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the bank of a river or stream; often refers to upstream/downstream countries sharing a river.",
-        "sentence": "China, as South Asia's upper riparian, controls the headwaters of most major rivers in the region."
-      },
-      {
-        "word": "Slurry",
-        "type": "noun",
-        "definition": "A semi-liquid mixture, typically of fine particles suspended in water.",
-        "sentence": "The dry avalanche turned into a destructive slurry of mud, ice, and boulders moving at high speeds."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT a feature of the catastrophic flood in Nepal that challenges Pakistan’s current mountain disaster strategy, according to the article?",
-        "options": [
-          "It started without rains.",
-          "It originated across the border.",
-          "It was primarily a glacial lake outburst flood (GLOF).",
-          "It had huge compounding factors."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'This event was not itself a Glof — no lake burst before the collapse — but the debris dam it left behind and the discharge that followed sit inside the same unmonitored corridor.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the three core features of the new disaster category emerging in the region that Pakistan's climate planning fails to address?",
-        "back": "The disasters start without rains, originate across international borders, and involve huge compounding factors, contrasting with Pakistan's monsoon-focused strategy."
-      },
-      {
-        "front": "How do thawing permafrost and retreating glaciers contribute to high-altitude slope failures?",
-        "back": "Thawing permafrost raises pore pressure and reduces shear strength of slopes, while retreating glaciers stop bracing the valley walls from outside, both leading to rock failures."
-      },
-      {
-        "front": "Why are bilateral arrangements structurally insufficient for addressing transboundary high-altitude disasters originating from China?",
-        "back": "China is the upper riparian for most of South Asia's major rivers (Indus, Sutlej, Brahmaputra), making isolated bilateral deals inadequate. A South Asia-wide early warning architecture is needed."
-      },
-      {
-        "front": "What are two specific policy steps Pakistan needs to implement to address the identified gaps in its disaster preparedness?",
-        "back": "Pakistan needs to convert its weather arrangement with China into real-time data sharing on slope deformation and barrier-lake formation, and focus on joint satellite monitoring with entities like the Chinese Academy of Sciences and ICIMOD."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789004697311-18",
-    "title": "The confidence game\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2028798/the-confidence-game",
-    "date": "2026-09-10",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "NOTHING gives them confidence like a pile of dollars in the reserves. Over the decades, I have seen this trend. Whoever is ruling Pakistan lacks confidence in themselves while the foreign exchange reserves are low and large debt-service payments are looming on the horizon. But the situation always turns, like these things do. After a few years of a gruelling, IMF-mandated adjustment, the reserves are rebuilt; import cover and debt service cover both rise, and with them also the confidence of the ruler.\n\nIt is happening one more time. The foreign exchange reserves have been rebuilt since July 2023. Both reserve adequacy ratios — import and debt service cover — show notable improvements since their low points between the summer of 2022 and 2023. The reserves were barely able to cover 13 per cent of scheduled maturities in the year ahead and three weeks of imports at the low point of both these ratios in December 2022. From there, they have risen and today can cover almost 70pc of scheduled maturities over the next 12 months and more than three months of imports.\n\nThe rulers have gained confidence alongside this development, to the point where they feel they are now in a position to dictate terms to their partners in government and seek a major and far-reaching change in the structure of the federation. It almost seems like they took the critique that they had failed to bring about structural reforms to heart. But in seeking to change the very structure of the state, over the objections of the parties whose support helped usher in their government, they might be acting out of a sense of overconfidence.\n\nThe improvement in the reserve adequacy ratios is real, but it is already showing signs of having peaked. Consider just what the last seven months have seen. Reserves rose during this period, but the pace of the rise decelerated. Average 12-month reserve increases remained at a high of $5.7 billion till May, then fell to $3.9bn in June and then to $2.7bn in July. More importantly, the rising reserves procured diminishing adequacy when measured against rising import requirements. Despite a billion-dollar increase in liquid reserves between January and July, import cover barely moved past 3.1 months.\n\nOnce the trajectory peaks and the reserve decline kicks in, confidence drains out of the government.\n\nThis is usually how it begins. It is not clear yet whether the recent $3bn raised via the Eurobond auction will actually stay in the country or be used to retire bilateral debt, as some of the reporting suggests. If the latter, then it will help raise the debt-service coverage ratio but will place more pressure on import cover.\n\nThese are signs that on the present trajectory, the reserve accumulation that began in July 2023 has peaked. Once the incremental reserves procure diminishing increases in the twin coverage ratios, and trade-offs begin appearing between improvements in debt-service coverage and import cover, it can be said that the organic trajectory driving reserve accumulation has hit its built-in limit.\n\nFrom here on, either the trade-offs will sharpen, leading to a peak in reserves followed by a decline, or the government will find alternative sources to continue the build-up. The alternative sources could be Exim Bank financing of some sort from the US, coupled with a line from the US Treasury, assuming it comes through. It could also be more favourable rollovers of existing bilateral maturities, something we will see by December when the Saudi deposits mature.\n\nBut one thing is certain. Once the trajectory peaks and the reserve decline kicks in, confidence drains out of the government. The window in which to do dramatic things closes, the resource envelope shrinks and the government goes into defensive mode. That time may still be a little while away. But given how the reserve metrics are shaping up, it would seem that either the rulers have some large-scale inflows lined up or they have come a little late to the game of rearranging the deckchairs.\n\nThe situation is aggravated by high oil prices, brought on by the prolonged stand-off that the war in the Middle East has devolved into. With oil already touching $100, global oil inventories depleted and the Hormuz and Bab Al Mandeb straits both under fire, the outlook for oil prices is anything but sunny. Given high oil prices and the great difficulty they are having in procuring LNG cargoes, the real impact of energy prices is yet to land.\n\nThe external sector has improved over the past few years — there is no doubt about that. But three things need to be underlined again and again. First, the improvement is not on the scale needed to support a revival of growth, because the burn rates of the reserves that come with growth rates of 6pc or more in Pakistan mean these reserves will barely last 12 months. Second, the improvement is hitting a plateau and will need a fresh line of inflows to sustain itself in the months ahead. And third, a high-energy-price scenario is rapidly taking shape before us; this might be prolonged, which could aggravate the fragility of the external sector in Pakistan.\n\nThis is not the time for adventurism or for opening up unnecessary fronts domestically. Going forward, the government is likely to see a rising arc of pressure spreading across the horizon from multiple directions. At a time like this, it needs its decision-making system at home to be on an even keel. This is a bad time to be an embattled ruler, especially if that is a choice that can be avoided. All rulers in the past 25 years have succumbed to the overconfidence that comes with a healing external sector and rising foreign exchange reserves. It’s almost funny how that works: the confidence game in Pakistan is so closely tied to the quantity of dollars in its treasury. But it’s a good idea not to over-count those dollars just yet.\n\nThe writer is a business and economy journalist.\n\nPublished in Dawn, September 10th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs",
-    "topic": "Pakistan's Balance of Payments, Foreign Exchange Reserves, and Economic Stability",
-    "whyMatters": "This article directly addresses the cyclical nature of Pakistan's foreign exchange reserve challenges and their impact on economic stability and governance, offering a critical perspective on the 'Balance-of-Payments' constraint. It provides concrete examples and data points essential for articulating the fragility of the external sector in exam answers.",
-    "summary": [
-      "Pakistan's government confidence is inherently tied to the level of foreign exchange reserves, which follow a cyclical pattern of rebuilding after IMF-mandated adjustments and subsequent decline.",
-      "Recent improvements in foreign exchange reserves and adequacy ratios (import and debt service cover) since July 2023 are significant but are already showing signs of peaking.",
-      "The article highlights that reserve accumulation is becoming less efficient, with diminishing adequacy gains from incremental reserves and emerging trade-offs between improving debt-service coverage and import cover, indicating limits to the 'organic trajectory'.",
-      "The external sector's fragility is exacerbated by high global energy prices and is deemed insufficient to support sustained high economic growth, requiring continued fresh inflows and caution against policy adventurism."
-    ],
-    "facts": [
-      "At its low point in December 2022, Pakistan's reserves covered only 13% of scheduled maturities and three weeks of imports.",
-      "Currently, reserves can cover almost 70% of scheduled maturities over the next 12 months and more than three months of imports.",
-      "The average 12-month reserve increases decelerated from $5.7 billion till May to $2.7 billion in July, indicating a slowing pace of accumulation."
-    ],
-    "academicReferences": [
-      "International Monetary Fund (IMF) Stand-By Arrangement (SBA) documents for Pakistan (relevant to 'IMF-mandated adjustment')",
-      "Economic Survey of Pakistan (latest edition) (for official macro-economic data and context)",
-      "World Bank's 'Pakistan Development Update' reports (for structural reform recommendations and economic outlook)"
-    ],
-    "vocabulary": [
-      {
-        "word": "adventurism",
-        "type": "noun",
-        "definition": "The tendency to take risks, often excessively or unwisely, especially in politics or finance.",
-        "sentence": "The article warns against policy adventurism at a time when the external sector is fragile and facing multiple pressures."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a key indicator that the organic trajectory of reserve accumulation has hit its built-in limit?",
-        "options": [
-          "A. Government confidence reaches its peak.",
-          "B. Diminishing adequacy from incremental reserves and trade-offs between coverage ratios.",
-          "C. Global oil prices exceed $100 per barrel.",
-          "D. The Eurobond auction successfully raises $3 billion."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Once the incremental reserves procure diminishing increases in the twin coverage ratios, and trade-offs begin appearing between improvements in debt-service coverage and import cover, it can be said that the organic trajectory driving reserve accumulation has hit its built-in limit.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article link foreign exchange reserves to government confidence in Pakistan?",
-        "back": "The article asserts that rulers' confidence directly rises and falls with the level of foreign exchange reserves, often leading to overconfidence during periods of accumulation and defensive actions when reserves decline."
-      },
-      {
-        "front": "What evidence does the article provide for the peaking of reserve accumulation despite recent increases?",
-        "back": "The article highlights the deceleration in the pace of reserve increases (e.g., average 12-month increases falling from $5.7bn to $2.7bn) and diminishing adequacy gains from incremental reserves, such as import cover barely moving despite a billion-dollar increase."
-      },
-      {
-        "front": "Why does the article suggest that the current external sector improvement is insufficient for sustained economic growth?",
-        "back": "The article argues that the improvement is not on the scale needed to support high growth (6pc or more) because the 'burn rates' of reserves associated with such growth mean they would barely last 12 months, indicating a fundamental lack of sustainability."
-      },
-      {
-        "front": "What external factor is identified as significantly aggravating Pakistan's external sector fragility in the near future?",
-        "back": "High global oil prices, exacerbated by the prolonged Middle East conflict, depleted global oil inventories, and disruptions to key shipping straits (Hormuz and Bab Al Mandeb), are identified as a major factor that could intensify the external sector's fragility."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789178558759-629",
-    "title": "Beyond abeyance: rethinking the future of IWT",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2628596/beyond-abeyance-rethinking-the-future-of-iwt",
-    "date": "2026-09-10",
-    "author": "\n\t\t\t\tSyed Mohammad Ali.\n\t\t\t",
-    "content": "India's placing of the Indus Waters Treaty (IWT) in \"abeyance\" has no legal justification. A neutral expert process and, more recently, the Court of Arbitration at The Hague reaffirmed that the 1960 treaty remains in force and rejected the notion that India can unilaterally suspend it. Pakistan has welcomed these decisions, while India has rejected them.\n\nThe result is a paradox: the treaty remains legally in force but has become increasingly dysfunctional in practice.\n\nThe Permanent Indus Commission, the principal bilateral mechanism for implementing the treaty, has not held a formal annual meeting since 2022. Its commissioners are required to meet at least once a year to facilitate communication, information exchange and cooperation. The disruption of this vital mechanism has made technical disagreements harder to manage.\n\nEven before declaring the treaty in abeyance in 2025, New Delhi had sought its modification, issuing notices to Pakistan in 2023 and 2024. Pakistan has also challenged the design of Indian run-of-river dams on the western rivers, seeking arbitration under the treaty to resolve these disputes. A more constructive approach would have been for both countries to address these differences through bilateral negotiations.\n\nSome experts point out how the IWT's rigid division of the rivers has encouraged a narrow, zero-sum approach to water rather than fostering genuine basin-wide cooperation. Yet, Pakistan is understandably wary of abandoning or renegotiating the treaty, especially when India is now unwilling to cooperate within its existing framework.\n\nIWT does contain an underused mechanism for expanding cooperation. Article VII recognises that India and Pakistan have a \"common interest\" in the optimum development of the rivers and provides for further cooperation by mutual agreement. This offers a framework for addressing issues the original treaty did not adequately anticipate, including groundwater management, water quality and climate change.\n\nIndia and Pakistan could also negotiate memoranda of understanding and technical protocols alongside the IWT without necessarily reopening its core provisions.\n\nThe division of the six rivers under the IWT in 1960 provided an imperfect but durable framework for managing India-Pakistan water relations. But the treaty was not designed to address the challenges facing the Indus Basin in the twenty-first century.\n\nThe Indus Basin is changing. Climate change is altering precipitation and snow and glacier melt patterns, increasing the risks of both flooding and water stress. The Indus delta has also suffered from reduced freshwater and sediment flows, contributing to significant ecological stress.\n\nClimate monitoring, glacier observation and flood forecasting are practical and mutually beneficial areas of cooperation that do not require either country to resolve its broader political disputes first.\n\nThe immediate priority should be restoring the treaty's institutional machinery, including resumption of regular meetings of the Permanent Indus Commission, and restoring routine data exchange and inspections. This could set the stage for initiating discussions on climate-proofing the treaty and ensuring its long-term sustainability.\n\nIndia cannot afford to view itself simply as an upstream riparian dealing with a downstream Pakistan. With the Indus originating in Tibet and its tributaries flowing through both countries, the health of its rivers, glaciers and associated ecosystems affects both. India is thus a co-riparian within a shared and increasingly stressed Indus basin.\n\nInternational actors, including the United States, should encourage both countries to preserve the treaty framework rather than allow water cooperation to become another casualty of their broader security tensions. Using a water treaty as leverage in a separate security dispute risks undermining one of the few institutional mechanisms that has endured repeated crises between the two nuclear neighbours.",
-    "matchedQuestion": {
-      "id": "PA-2025-IWT",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "How did the Indus Waters Treaty (1960) affect water distribution and relations between Pakistan and India?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Pakistan Affairs",
-    "topic": "Indus Waters Treaty: Current Challenges, Dysfunction, and Future Cooperation between Pakistan and India",
-    "whyMatters": "This article offers a contemporary analysis of the Indus Waters Treaty (IWT), detailing its current state of dysfunction and the legal challenges faced. It critically evaluates how the 1960 treaty, while originally providing a durable framework, now struggles to address 21st-century environmental and political realities, making it essential for understanding evolving India-Pakistan water relations.",
-    "summary": [
-      "The IWT (1960) established an imperfect but durable framework by dividing the six Indus rivers, assigning eastern rivers to India and western rivers predominantly to Pakistan, which initially stabilized water distribution and relations.",
-      "Despite India's unilateral declaration of the treaty in \"abeyance\" in 2025, international expert processes and the Court of Arbitration have reaffirmed its legal force, creating a paradox of legal validity but practical dysfunction.",
-      "The principal bilateral mechanism, the Permanent Indus Commission, has not held formal annual meetings since 2022, severely disrupting communication, data exchange, and making technical disagreements between the two nations harder to manage.",
-      "The treaty is not equipped to address modern challenges like climate change, groundwater management, and water quality, necessitating expanded cooperation through underused mechanisms like Article VII or new technical protocols, rather than renegotiation."
-    ],
-    "facts": [
-      "The Indus Waters Treaty (IWT) was signed in 1960.",
-      "India sought modification of the IWT, issuing notices to Pakistan in 2023 and 2024, and declared the treaty in \"abeyance\" in 2025.",
-      "The Permanent Indus Commission, the core bilateral mechanism, has not held a formal annual meeting since 2022."
-    ],
-    "academicReferences": [
-      "International Law Commission's Articles on the Law of the Non-Navigational Uses of International Watercourses (1997)",
-      "World Bank's Role in brokering the Indus Waters Treaty (1960) and subsequent reports on transboundary water management",
-      "Comparative analysis of other transboundary water treaties (e.g., Nile Waters Agreement, Mekong River Commission agreements)"
-    ],
-    "vocabulary": [
-      {
-        "word": "abeyance",
-        "type": "noun",
-        "definition": "A state of temporary disuse or suspension.",
-        "sentence": "India's placing of the Indus Waters Treaty (IWT) in 'abeyance' has no legal justification."
-      },
-      {
-        "word": "riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the banks of a river.",
-        "sentence": "India cannot afford to view itself simply as an upstream riparian dealing with a downstream Pakistan."
-      },
-      {
-        "word": "paradox",
-        "type": "noun",
-        "definition": "A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.",
-        "sentence": "The result is a paradox: the treaty remains legally in force but has become increasingly dysfunctional in practice."
-      },
-      {
-        "word": "unilaterally",
-        "type": "adverb",
-        "definition": "Done or undertaken by one person or party without the agreement of another.",
-        "sentence": "A neutral expert process and, more recently, the Court of Arbitration at The Hague reaffirmed that the 1960 treaty remains in force and rejected the notion that India can unilaterally suspend it."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following best describes the current status of the Indus Waters Treaty (IWT) according to the article?",
-        "options": [
-          "A) It has been legally suspended by India and is no longer in force.",
-          "B) It remains legally in force but is practically dysfunctional due to lack of bilateral cooperation.",
-          "C) It has been renegotiated to include climate change provisions.",
-          "D) Pakistan has unilaterally withdrawn from the treaty."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'the treaty remains legally in force but has become increasingly dysfunctional in practice,' despite India's attempts to place it in abeyance, which international bodies rejected."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How did the IWT initially affect water distribution between India and Pakistan?",
-        "back": "The IWT divided the six Indus rivers, granting India control over the eastern rivers (Ravi, Beas, Sutlej) and Pakistan control over the western rivers (Indus, Jhelum, Chenab), establishing a clear, albeit imperfect, distribution framework."
-      },
-      {
-        "front": "What is the primary reason for the IWT's current dysfunction despite remaining legally in force?",
-        "back": "The primary reason is the breakdown of the Permanent Indus Commission, which has not held formal annual meetings since 2022, disrupting vital communication, data exchange, and dispute resolution mechanisms."
-      },
-      {
-        "front": "According to the article, what key challenge does the IWT fail to adequately address in the 21st century?",
-        "back": "The treaty was not designed to address contemporary challenges such as climate change (altering precipitation, snow/glacier melt), groundwater management, and water quality issues in the Indus Basin."
-      },
-      {
-        "front": "What mechanism does the article suggest within the existing IWT for expanding cooperation?",
-        "back": "Article VII of the IWT recognizes 'common interest' in optimum river development, providing a framework for further cooperation by mutual agreement on issues like climate monitoring and flood forecasting, without necessarily reopening core provisions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789091323991-356",
-    "title": "Wrong target\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2028793/wrong-target",
-    "date": "2026-09-10",
-    "author": "none@none.com (Editorial)",
-    "content": "THERE is a difference between enforcing immigration law and punishing students for the passport they carry. The Pakistan Medical and Dental Council’s decision to bar Afghan nationals from medical and dental admissions this session, while requiring those already enrolled to return home, crosses that line. The ostensible rationale is not difficult to discern. Relations with Kabul are badly strained and Pakistan is pressing ahead with its repatriation drive. The government has the right to regulate entry, residence and national security. But none of that explains why students studying through recognised institutions, particularly those with valid documentation, should have their education abruptly terminated. Indeed, the Foreign Office says visa-extension applications from Afghan students continue to be processed under existing rules, making the blanket nature of the PMDC directive even harder to defend.\n\nFor many Afghan students, return can amount to the destruction of an educational future. Afghanistan’s higher-education system is in tatters, while the Taliban’s restrictions have made prospects especially bleak for women. Girls remain barred from secondary school and women from university, and female medical education has also been suspended. To send students back into such an environment after they have secured places, paid fees and completed years of study is cruel. Pakistan’s anger over cross-border terrorism and Kabul’s failure to act against terrorist sanctuaries is justified. But students are not the Taliban government, nor should they be made instruments of bilateral pressure. At minimum, those legally enrolled should be allowed to complete their degrees, while new admissions can be reviewed under transparent visa and security rules. Pakistan has sheltered generations of Afghans, often at considerable cost. That history should not now end in a policy that mistakes vulnerability for culpability. Security policy can be firm without becoming indiscriminate. The state must withdraw this measure.\n\nPublished in Dawn, September 10th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Pakistan Affairs / International Relations",
-    "topic": "Pakistan-Afghanistan Relations & Refugee Policy",
-    "whyMatters": "This article highlights a critical dilemma in Pakistan's foreign and domestic policy regarding Afghan refugees and students, essential for understanding bilateral relations and human rights challenges. It serves as a compelling case study on how geopolitical tensions can impact vulnerable populations, a frequent theme in competitive examinations.",
-    "summary": [
-      "The Pakistan Medical and Dental Council's directive to bar Afghan students and expel current ones is an unjustified punitive measure, blurring the line between immigration law enforcement and punishing individuals for diplomatic tensions.",
-      "This policy is particularly cruel given the dire state of Afghanistan's higher education system, especially for women, making forced return tantamount to destroying educational futures.",
-      "While Pakistan's concerns over cross-border terrorism are legitimate, students should not be used as instruments of bilateral pressure, nor should their vulnerability be conflated with culpability.",
-      "The state should revoke this indiscriminate measure, allowing legally enrolled students to complete their degrees and implementing transparent visa and security rules for new admissions, consistent with Pakistan's history of sheltering Afghans."
-    ],
-    "facts": [
-      "The Pakistan Medical and Dental Council (PMDC) decided to bar Afghan nationals from medical and dental admissions and require those already enrolled to return home.",
-      "The Foreign Office continues to process visa-extension applications from Afghan students under existing rules, directly contradicting the PMDC's blanket directive.",
-      "Afghanistan's higher-education system is significantly disrupted, with the Taliban banning women from university and suspending female medical education."
-    ],
-    "academicReferences": [
-      "Universal Declaration of Human Rights (UDHR) - Article 26 (Right to Education)",
-      "International Human Rights Law concerning refugee and migrant rights",
-      "UNHCR reports on Afghan refugees in Pakistan and access to services"
-    ],
-    "vocabulary": [
-      {
-        "word": "Ostensible",
-        "type": "adjective",
-        "definition": "Stated or appearing to be true, but not necessarily so; apparent.",
-        "sentence": "The ostensible rationale is not difficult to discern."
-      },
-      {
-        "word": "Repatriation",
-        "type": "noun",
-        "definition": "The return of someone to their own country.",
-        "sentence": "Pakistan is pressing ahead with its repatriation drive."
-      },
-      {
-        "word": "Indiscriminate",
-        "type": "adjective",
-        "definition": "Done at random or without careful judgment.",
-        "sentence": "Security policy can be firm without becoming indiscriminate."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary criticism leveled against the PMDC's decision regarding Afghan students in the article?",
-        "options": [
-          "It punishes students for diplomatic tensions, misconstruing vulnerability for culpability.",
-          "It violates Pakistan's domestic immigration laws and security protocols.",
-          "It is inconsistent with the Foreign Office's broader foreign policy objectives.",
-          "It prioritizes national security over the economic benefits of international students."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly criticizes the PMDC's decision as 'crossing that line' by punishing students for their passport and mistaking 'vulnerability for culpability,' which aligns with using students as instruments of bilateral pressure."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core ethical dilemma highlighted by the PMDC's directive regarding Afghan students?",
-        "back": "The directive presents an ethical dilemma between enforcing immigration law and punishing vulnerable students for geopolitical tensions, potentially destroying their educational futures."
-      },
-      {
-        "front": "How does the article argue against using Afghan students as instruments of bilateral pressure?",
-        "back": "The article argues that students are not the Taliban government, and using their education as leverage for bilateral issues like cross-border terrorism mistakes their vulnerability for culpability."
-      },
-      {
-        "front": "What specific challenges would Afghan female students face upon forced return, according to the article?",
-        "back": "Afghan female students would face particularly bleak prospects upon return, as the Taliban has barred women from university and suspended female medical education, leaving their educational future in tatters."
-      },
-      {
-        "front": "What policy recommendation does the article propose to balance national security with humanitarian concerns?",
-        "back": "The article recommends allowing legally enrolled Afghan students to complete their degrees and reviewing new admissions under transparent visa and security rules, rather than implementing a blanket ban."
       }
     ]
   }
