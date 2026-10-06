@@ -1,5 +1,317 @@
 [
   {
+    "id": "curated-1791257786586-699",
+    "title": "Gendered future\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035108/gendered-future",
+    "date": "2026-10-06",
+    "author": "none@none.com (Aisha Khan)",
+    "content": "THE UN secretary-general’s recent observation that peace lasts longer when women are at the table, economies become more dynamic when women have equal opportunity, societies more resilient when women can learn and lead, and institutions more effective when power is shared, is not simply a statement about fairness. For Pakistan, it is a development proposition. The question is not whether Pakistani women can lead. It is why a country of more than 240 million people still uses so little of that capacity. The numbers expose the gap. Pakistan’s 2024-25 HIES puts literacy among people aged 10 and above at 63 per cent: 73pc for men but only 54pc for women. The rural female rate is 44pc, compared with 68pc for urban women. Literacy determines whether a woman can understand a contract, use a digital service, claim a benefit, read a disaster warning or participate confidently in a public meeting.\nThe economic divide is sharper. World Bank gender data put female labour force participation at 24pc in 2025, against 80.1pc for men. Women are heavily concentrated in vulnerable work: 73.2pc of employed women were in vulnerable employment, compared with 50.4pc of men. Agriculture accounts for 68pc of women’s employment. A nation cannot fully mobilise its human capital while most women remain outside paid work or confined to insecure work and excluded from productive assets and markets.\nThe unpaid economy tells another story. UN Women reports that women and girls aged 10 and above spend 19.9pc of their time on unpaid domestic and care work, against 1.8pc for men. This invisible workload limits education, employment, entrepreneurship, mobility and public leadership. Empowerment, therefore, cannot mean merely inviting women into existing institutions; it must also redistribute the time, resources and care responsibilities that determine who can enter them.\nPakistan has made gains in formal representation, but presence is not the same as power. Women currently hold about 21.7pc of seats in the National Assembly, according to the Inter-Parliamentary Union. At the local level, UN Women reports women constitute about 16pc of members of local deliberative bodies, with 23,852 elected women. Yet women remain scarce in senior institutional decision-making. The National Assembly’s gender-mainstreaming committee rep­orted in 2025 that women represented only 0.93pc in the law, civil armed forces and Interior Division, and just 5pc of vice-chancellors in general universities were women.\nPresence is not the same as power.\nThe federal civil service illustrates the institutional problem. An Establishment Division census found women were only 5.23pc of federal civil servants, with just 26.06pc of female civil servants in grades 17-22. The data is old and should be treated as a benchmark, not a current headcount; still, it shows the depth of the pipeline problem. Corporate Pakistan presents a mixed picture. SECP’s 2024 annual report says 7,573 companies were headed by female CEOs and 5,220 women-owned businesses had accessed financing. It also reports women directors on 90pc of companies in its 2024 comparison, up from 34pc in 2019 and 10pc in 2015. Yet the World Bank’s latest gender data put women’s share of senior and middle management at only 9.6pc in 2025.\nThe same principle matters most in a climate-stressed country. The World Bank estimates that climate-related risks, environmental degradation and air pollution could reduce Pakistan’s GDP by at least 18-20pc by 2050. Pakistan’s climate reporting notes that women’s unequal access to reso­urces, services, mobility and decision-making increases their vulnerability and limits effective climate action. Wom­en are oft­en responsible for wat­er, food and household ene­rgy, yet can be underrepresented where adaptation budgets and disaster plans are designed. This is why slow progress on gender empowerment is not a peripheral social issue. By 2050, it could mean fewer educated women in the workforce, weaker household resilience, less diverse institutions and a smaller pool of leaders able to respond to floods, heat, water stress, food insecurity and displacement. Expanding women’s literacy, economic agency and authority would enlarge Pakistan’s decision-making capacity precisely when climate pressure is rising.\nA practical policy test should measure women not only by enrolment, employment or seats occupied, but by authority exercised. Count women who control budgets, lead departments, own firms, sit on boards, negotiate land and finance, design climate policy and make decisions in their homes and communities. The secretary-general’s point can be interpreted to suggest that power is not optional for development. For Pakistan, the low level of female representation remains part of its unfinished development agenda.\nThe writer is a climate policy analyst.\naisha@csccc.org.pk\nPublished in Dawn, October 6th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ENV",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
+    },
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs",
+    "topic": "Gender Equality, Climate Change, and Sustainable Development in Pakistan",
+    "whyMatters": "This article is crucial as it links gender inequality directly to Pakistan's capacity for climate resilience and sustainable development, arguing that empowering women is not merely a social issue but a development imperative. It provides a unique perspective for addressing environmental degradation by emphasizing gender mainstreaming as a vital remedial measure for effective climate action.",
+    "summary": [
+      "Pakistan's significant gender gap in literacy, labor force participation, and economic empowerment severely limits its overall development and human capital mobilization.",
+      "Despite formal representation gains, women lack substantial power in senior decision-making roles within government institutions, corporations, and community leadership.",
+      "The invisible burden of unpaid domestic and and care work disproportionately borne by women restricts their opportunities for education, employment, entrepreneurship, and public leadership.",
+      "Gender empowerment is not a peripheral social issue but a critical development proposition for Pakistan, essential for building climate resilience and effectively responding to environmental challenges."
+    ],
+    "facts": [
+      "Pakistan's female literacy rate (10 and above) is 54%, compared to 73% for men (HIES 2024-25).",
+      "Female labor force participation in Pakistan is 24%, significantly lower than 80.1% for men (World Bank, 2025).",
+      "Women constitute only 5.23% of federal civil servants in Pakistan (Establishment Division census, benchmark data)."
+    ],
+    "academicReferences": [
+      "United Nations Development Programme (UNDP) Human Development Reports (HDR) focusing on Gender Inequality Index (GII) for Pakistan.",
+      "Sustainable Development Goals (SDGs), particularly SDG 5 (Gender Equality) and SDG 13 (Climate Action), and their interlinkages.",
+      "National Climate Change Policy of Pakistan (2012) and its subsequent action plans, emphasizing gender mainstreaming in climate adaptation and mitigation strategies."
+    ],
+    "vocabulary": [
+      {
+        "word": "Resilient",
+        "type": "adjective",
+        "definition": "Able to withstand or recover quickly from difficult conditions; tough.",
+        "sentence": "Societies become more resilient when women can learn and lead, better equipped to face crises."
+      },
+      {
+        "word": "Mainstreaming",
+        "type": "verb",
+        "definition": "To incorporate a particular group or concern into the main body of something; to integrate.",
+        "sentence": "The gender-mainstreaming committee aims to integrate women's perspectives into all policy areas."
+      },
+      {
+        "word": "Agency",
+        "type": "noun",
+        "definition": "The capacity of a person to act independently and to make their own free choices; power or influence.",
+        "sentence": "Expanding women’s literacy, economic agency, and authority is crucial for national development."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason why gender empowerment is considered a 'development proposition' for Pakistan?",
+        "options": [
+          "It ensures fairness and social justice for women.",
+          "It mobilizes human capital, leading to more dynamic economies and effective institutions.",
+          "It primarily focuses on increasing women's political representation.",
+          "It addresses the issue of unpaid domestic and care work."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states it's 'not simply a statement about fairness' but a 'development proposition' because economies become more dynamic, societies more resilient, and institutions more effective when women participate equally."
+      },
+      {
+        "question": "What is the approximate female literacy rate (for people aged 10 and above) in Pakistan, according to the 2024-25 HIES cited in the article?",
+        "options": [
+          "73%",
+          "63%",
+          "54%",
+          "44%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'Pakistan’s 2024-25 HIES puts literacy among people aged 10 and above at 63 per cent: 73pc for men but only 54pc for women.'"
+      },
+      {
+        "question": "How does the article link gender inequality to climate change in Pakistan?",
+        "options": [
+          "Women are the sole cause of environmental degradation due to their household roles.",
+          "Gender inequality increases women's vulnerability to climate risks and limits effective climate action.",
+          "Climate change primarily affects men's employment, leading to gender inequality.",
+          "Only male leaders are capable of designing effective climate policies."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'Pakistan’s climate reporting notes that women’s unequal access to reso­urces, services, mobility and decision-making increases their vulnerability and limits effective climate action.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why is gender empowerment considered a 'development proposition' for Pakistan, according to the article?",
+        "back": "It's a development proposition because it mobilizes human capital, leading to more dynamic economies, resilient societies, and effective institutions, which are crucial for overall national progress."
+      },
+      {
+        "front": "How does women's unpaid domestic and care work impact their societal participation in Pakistan?",
+        "back": "This invisible workload severely limits women's opportunities for education, employment, entrepreneurship, mobility, and public leadership by consuming their time and resources."
+      },
+      {
+        "front": "What is the article's main argument regarding women's 'presence' versus 'power' in institutions?",
+        "back": "While Pakistan has made gains in formal representation (presence) in bodies like the National Assembly, women remain scarce in senior institutional decision-making roles, indicating a lack of actual power and authority."
+      },
+      {
+        "front": "How is gender inequality linked to Pakistan's climate resilience and potential GDP reduction by 2050?",
+        "back": "Gender inequality increases women's vulnerability to climate risks and limits effective climate action. Without women's equal participation and leadership, Pakistan will have fewer educated people, weaker household resilience, and a smaller pool of leaders to respond to climate pressures, potentially reducing GDP by 18-20% by 2050."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791257696816-281",
+    "title": "Middle class by habit\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035109/middle-class-by-habit",
+    "date": "2026-10-06",
+    "author": "none@none.com (Jawed Naqvi)",
+    "content": "IT may not be inaccurate to say that Manmohan Singh created India’s middle class, and the middle class created Narendra Modi. Marxists call them/us the ‘vacillating class’. Janus-like, we are suspiciously double-faced and have a split identity. We look towards the capitalists with one face, wishing to join their ranks and protect property rights. And we look towards the working class with the other face, sharing their economic anxiety and fear of being ruined by big corporations. Given that powerful protests have mushroomed since July across India, mostly led by young students and unemployed youth, it could be signalling a significant disenchantment with the system that has wooed middle class support since 1991.\nBefore Manmohan Singh’s economic reforms as finance minister and his subsequent decade as prime minister (2004-2014), India’s middle class was miniscule, estimated at roughly 2.5 million people earning over $10,000 annually or representing a small, state-controlled bureaucratic and managerial stratum.\nFollowing the 1991 liberalisation and the growth of the IT, services, and corporate sectors, the middle class expanded dramatically. By 2015, the number of Indians earning over $10,000 annually grew to 55m. Other estimates placed the middle class at roughly 142m people (about 12 per cent of the population) by the early 2010s, when they were entering various tiers of the middle or ‘neo-middle’ class depending on purchasing power parity of around $10-$50 per day.\nAfter Singh left office in 2014, the expansion plateaued for many households due to rising living costs, stagnant real wages, and a K-shaped economic recovery, where wealth concentrated more heavily at the very top. The Modi-led alliance of big business and right-wing street thugs peaked during the Covid-19 episode when the government asked the people to bang their pots and pans to drive away the virus and the UN secretary-general warned that liberalising the exploitation of coal, which the government had announced bang in the middle of the crisis, was hardly the prescribed method to fight the deadly scourge sweeping India and the rest of the world.\nThe young protesters may have to engage with the fact that India’s growth has been consumer-led and K-shaped, with deepening inequality.\nAn Oxfam report in November 2021 said Indian billionaires increased their wealth by 35pc during the lockdown to three trillion, ranking India after the US, China, Germany, Russia, and France. Out of these, the rise in fortunes for the top 100 billionaires since the lockdown was estimated as enough to give every one of the 138m poorest Indian people a cheque for Indian rupees 94,045 each. Oxfam’s Inequality Virus Report was released at the remotely conducted World Economic Forum in Davos.\nShould it interest the protesters that the wealth of just the top 11 billionaires during the pandemic could easily sustain the MGNREGS — the 2005 social welfare law guaranteeing rural employment — or the health ministry for the next 10 years? Instead, inequalities deepened during Covid-19 when the wealthiest escaped the worst impact of the pandemic and the poor faced joblessness, starvation, and death.\nA tycoon who emerged as the richest man in India and Asia, earned INR900m an hour during the pandemic when around 24pc of the people in the country were earning under INR3,000 a month during the lockdown.\nA reintroduction of the wealth tax was advised as a one-time Covid-19 cess of 4pc on taxable income of over a million Indian rupees to help the economy recover from the lockdown. The rejected tax on the nation’s 954 richest families could have raised the equivalent of 1pc of GDP.\nEven as they seek to repair India’s broken democracy, which is a most crucial task, the young protesters may have to engage with the fact that India’s growth has been consumer-led and K-shaped, with deepening inequality. In comparison, China’s modern economic growth model has been state-led, investment-heavy, and steered by a policy of ‘common prosperity’.\nIndia’s middle classes must relearn that China’s current economic strategy shares striking structural DNA with Jawaharlal Nehru’s original vision for India, albeit with a divergence in political execution. Both models share the foundational belief that a post-colonial nation cannot rely on the unbridled free market to achieve greatness or equity. Ergo, the state must control the ‘commanding heights’ of the economy to guide development.\nNehru, reviled by the Modi echo chamber, famously insisted that the state must control the core sectors of the economy (steel, power, heavy machinery, and infrastructure) through public sector undertakings. China achieved this exact goal through its massive state-owned enterprises and state-run banks, ensuring that private billionaires never overpower the national agenda.\nSingh swore by Nehru but failed to appreciate that Nehru was deeply wary of the concentration of private wealth, fearing it would corrupt society and exploit the poor. China’s common prosperity drive — manifested in aggressive regulatory crackdowns on tech monopolies, tutoring companies, and real estate moguls — is driven by the same suspicion of oligarchic power.\nNehru viewed heavy industries as the “temples of modern India”. Beijing’s pursuit of “new productive forces” (semiconductors, green energy, EVs, and AI) represents a modern, high-tech version of Nehruvian import-substitution and state-directed scientific self-reliance.\nUnlike Singh’s rely-on-services trajectory, China historically built a manufacturing-and-export juggernaut, which is currently transitioning into a paradigm-focused, state-mandated wealth redistribution. Indira Gandhi nationalised banks to pursue an equitable Nehruvian agenda to serve the masses. Singh, however, set the stage for opening the backdoor of state-owned banks to private plunderers that Modi turned into an art.\nSingh saw Babri Masjid’s destruction as finance minister but concluded that the biggest internal threat to India came from Maoist tribespeople, exactly the opposite of Nehru’s assessment that it was the right-wing Hindu movement that posed a mortal challenge to Indian democracy, not communists. Would the protesters, overwhelmingly from the middle classes, heed the discussion — but only after winning their battle against the current right-wing government — and ask why 800m compatriots remain on food dole in one of the world’s largest economies built by Manmohan Singh?\nThe writer is Dawn’s correspondent in Delhi.\njawednaqvi@gmail.com\nPublished in Dawn, October 6th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Inequality and the State's Role in Sustainable Development",
+    "whyMatters": "This article, though focused on India, offers crucial insights into the fragility of economic stability stemming from consumer-led, K-shaped growth and deepening inequality. It provides a comparative framework by contrasting these outcomes with state-led models like China's 'common prosperity' and Nehru's vision, offering valuable lessons and potential remedies for Pakistan's pursuit of sustainable and equitable economic growth.",
+    "summary": [
+      "India's middle class, initially expanded by Manmohan Singh's economic reforms, faces disillusionment due to stagnant wages, rising costs, and a K-shaped economic recovery where wealth concentrates at the top.",
+      "The article highlights India's consumer-led growth model has exacerbated inequality, with billionaires significantly increasing wealth during the pandemic while the poor faced severe hardship.",
+      "It contrasts India's post-1991 liberalized economy with China's state-led, investment-heavy 'common prosperity' model and Jawaharlal Nehru's original vision for state control over the 'commanding heights' of the economy.",
+      "The author argues that neglecting state control and allowing unchecked concentration of private wealth, as observed in India's trajectory, can corrupt society and exploit the poor, undermining equitable development."
+    ],
+    "facts": [
+      "India's middle class (earning over $10,000 annually) grew from ~2.5 million pre-1991 to 55 million by 2015.",
+      "An Oxfam report (Nov 2021) stated Indian billionaires increased their wealth by 35% during the Covid-19 lockdown to three trillion dollars.",
+      "The wealth of just the top 11 billionaires during the pandemic could have sustained India's MGNREGS (rural employment guarantee scheme) or the health ministry for the next 10 years."
+    ],
+    "academicReferences": [
+      "Oxfam's Inequality Virus Report (November 2021)",
+      "MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme), 2005",
+      "China's 'Common Prosperity' policy initiative",
+      "Nehruvian Economic Model / State-controlled Public Sector Undertakings (PSUs)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Vacillating",
+        "type": "adjective",
+        "definition": "Wavering between different opinions or actions; indecisive.",
+        "sentence": "The article describes the middle class as a 'vacillating class' due to its split identity between capitalist and working-class aspirations."
+      },
+      {
+        "word": "Janus-like",
+        "type": "adjective",
+        "definition": "Having two contrasting aspects; double-faced or contradictory.",
+        "sentence": "The middle class is portrayed as Janus-like, simultaneously looking towards capitalists and the working class."
+      },
+      {
+        "word": "Plateaued",
+        "type": "verb",
+        "definition": "Reached a stable level or period after a period of increase; flattened out.",
+        "sentence": "After Singh left office, the expansion of the middle class plateaued for many households due to rising costs and stagnant wages."
+      },
+      {
+        "word": "Scourge",
+        "type": "noun",
+        "definition": "A person or thing that causes great trouble or suffering.",
+        "sentence": "The UN secretary-general warned that liberalizing coal exploitation was not the prescribed method to fight the deadly scourge sweeping India."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which term best describes India's economic recovery mentioned in the article, leading to concentrated wealth at the top?",
+        "options": [
+          "V-shaped recovery",
+          "U-shaped recovery",
+          "K-shaped recovery",
+          "L-shaped recovery"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states India's growth has been 'consumer-led and K-shaped,' indicating wealth concentrated at the very top while others stagnated."
+      },
+      {
+        "question": "Jawaharlal Nehru's original economic vision for India, as described, primarily emphasized what?",
+        "options": [
+          "Unbridled free markets and private enterprise",
+          "Consumer-led growth through services sector",
+          "State control over 'commanding heights' of the economy",
+          "Exclusive focus on export-oriented manufacturing"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states Nehru famously insisted that the state must control the core sectors of the economy, viewing heavy industries as 'temples of modern India,' to prevent wealth concentration."
+      },
+      {
+        "question": "What was the advised one-time Covid-19 cess that was rejected, which could have helped India's economy recover?",
+        "options": [
+          "A 4% wealth tax on taxable income over a million rupees",
+          "A 10% income tax increase for all citizens",
+          "A 2% sales tax on essential goods",
+          "A 5% corporate tax on all businesses"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article mentions a 'one-time Covid-19 cess of 4pc on taxable income of over a million Indian rupees' was advised but rejected."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How did India's economic growth model under Manmohan Singh contrast with Jawaharlal Nehru's original vision?",
+        "back": "Singh's model, initiated by 1991 reforms, was consumer-led and liberalized, while Nehru advocated state control over core economic sectors to guide development and prevent wealth concentration."
+      },
+      {
+        "front": "What does a 'K-shaped economic recovery' imply for societal welfare, according to the article?",
+        "back": "A K-shaped recovery implies that wealth concentrates at the very top, leading to deepening inequality, while the majority (including the middle class and poor) experience stagnant wages or economic decline."
+      },
+      {
+        "front": "How does China's 'common prosperity' strategy, as described, reflect a different approach to economic development compared to post-1991 India?",
+        "back": "China's strategy is state-led, investment-heavy, and involves aggressive regulatory crackdowns to prevent oligarchic power and ensure wealth redistribution, contrasting with India's more liberalized, consumer-led model that resulted in wealth concentration."
+      },
+      {
+        "front": "According to the article, what was Nehru's primary concern regarding unbridled free markets in a post-colonial nation?",
+        "back": "Nehru feared that relying on unbridled free markets would lead to the concentration of private wealth, corrupt society, and exploit the poor, hence his emphasis on state control over the economy's 'commanding heights'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791257543835-827",
+    "title": "AI beyond evidence\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035107/ai-beyond-evidence",
+    "date": "2026-10-06",
+    "author": "none@none.com (Huzaifa bin Muneer)",
+    "content": "THE real test of AI is not what it knows, but how it judges. Now what happens when an AI system is given better evidence and still reaches the same unfair conclusion? That question has become more urgent as AI systems increasingly stand between information and judgement. We tend to assume that if a model can search reliable documents before answering, its decisions will improve. But this confidence may be misplaced.\nMost people understand the basic appeal of retrieval-based AI. Instead of asking a language model to rely only on what it learned during training, we first give it relevant material. A system judging a country’s climate record, for instance, can be shown official climate pledges and international agreements. The expectation seems reasonable: better evidence should lead to better judgement.\nYet judgement is not the same as fact-finding. A model can locate a date or a treaty clause with precision. But deciding whether a country has acted responsibly on climate change requires something more. The model must interpret evidence, weigh it against an external standard and revise whatever assumptions it carries. That last step is where the real difficulty appears.\nConsider climate governance. Large language models can be asked to assess countries having very different economic circumstances and levels of vulnerability to climate change. Their judgements can then be compared with independent assessments such as those produced by the Climate Action Tracker, which evaluates national climate action using policy and emissions evidence. The models can also be supplied with official climate material, including international conference decisions and country-specific commitments.\nGood evidence is essential, but not enough.\nThe surprising result is not that the models sometimes err. That is not out of the ordinary. The fact is that improving the evidence does not reliably improve judgement. Even when the information is relevant to the country being assessed, the final verdict may be no closer to the independent benchmark. More revealingly, the models react to what they are shown. Their answers often change after receiving evidence. But a changed answer is not necessarily a better one. Helpful revisions can be cancelled out by harmful revisions. The system is reading the material, yet it is not consistently converting that material into sounder judgement.\nThis distinction goes far beyond climate policy. Imagine an AI system assisting in university admissions, recruitment, credit decisions, or public policy. An institution may proudly say that the model is connected to verified records and current documents. That sounds reassuring. But access to reliable information does not guarantee that the model will interpret it fairly. A system can possess good evidence, while continuing to filter that evidence through assumptions formed during training.\nClimate governance makes this problem concrete. Language models can still place undue blame for climate inaction on vulnerable countries, even after accounting for variations in their actual climate performance. As a result, nations that have made a comparatively small contribution to the historical issue could face harsher criticism than their independent climate data support.\nThis shouldn’t feel abstract to Pakistanis. Countries exposed to floods, heatwaves, and other climate shocks already have to argue their case in global systems shaped by unequal power. If automated systems begin to support decisions about climate responsibility, finance, or credibility, an old inequality can acquire the new appearance of neutrality. A mac­hine-generated jud­gement may look objective bec­ause it is produced by software and supported by documents. That appearance can be dangerously per­suasive.\nA key takeaway is that missing info­rmation isn’t necessarily the main issue. A model may occasionally have a systemic tendency that fresh data finds difficult to overcome. Judgement can improve when that tendency is rectified and measured against external benchmarks rather than when better recovered material is provided. This is not a panacea. But it does let us know where the true vulnerability might lie.\nHence, the debate on responsible AI must go beyond asking ‘what information did the model receive?’ We should also inquire as to how such information influenced its assessment and whether the outcome was more in line with a reliable external norm. Before such systems are trusted with important judgements, this distinction should influence how they are tested. Good evidence is essential. It is simply not enough. As AI enters decisions about countries, institutions and people, we should resist the comforting belief that connecting a model to better documents automatically makes it fair. Information can reach the machine and still fail to reach judgement.\nThe writer is an AI engineer and researcher.\nPublished in Dawn, October 6th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2020-CLIM",
+      "paper": "Pakistan Affairs",
+      "year": 2020,
+      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Artificial Intelligence, Climate Justice, and Global Governance",
+    "whyMatters": "This article is crucial as it offers a critical perspective on how AI systems, despite access to good evidence, can perpetuate biases in global climate governance, potentially misjudging vulnerable nations like Pakistan. It equips students to analyze the complex interplay of technology, climate justice, and international relations, enhancing arguments on Pakistan's challenges and its quest for equitable global climate decisions.",
+    "summary": [
+      "AI's judgment is not reliably improved by better evidence; it can still reach unfair conclusions due to inherent assumptions formed during training.",
+      "True judgment involves interpreting evidence, weighing it against external standards, and revising assumptions, which goes beyond mere fact-finding by AI.",
+      "AI systems, particularly in climate governance, can perpetuate biases, placing undue blame on vulnerable countries like Pakistan despite their lower historical contribution to climate change.",
+      "The debate on responsible AI must extend beyond just the information received to how that information influences assessment and whether the outcome aligns with reliable external norms and fairness."
+    ],
+    "facts": [
+      "AI systems can filter evidence through assumptions formed during training, leading to unchanged unfair conclusions despite better data.",
+      "Language models can place undue blame for climate inaction on vulnerable countries, even after accounting for their actual climate performance.",
+      "Independent assessments like the Climate Action Tracker evaluate national climate action, providing benchmarks against which AI judgments can be compared."
+    ],
+    "academicReferences": [
+      "AI Ethics: Global Perspectives and Local Imperatives by Virginia Dignum (Book)",
+      "IPCC Assessment Reports (e.g., AR6 Synthesis Report) (Report)",
+      "National Climate Change Policy of Pakistan (2012, revised 2021) (Policy Document)"
+    ],
+    "vocabulary": [
+      {
+        "word": "retrieval-based AI",
+        "type": "noun phrase",
+        "definition": "AI systems that first retrieve relevant documents or data from an external source before generating responses.",
+        "sentence": "The article questions the efficacy of retrieval-based AI in improving judgment, even with good evidence."
+      },
+      {
+        "word": "undue blame",
+        "type": "noun phrase",
+        "definition": "Excessive or unwarranted responsibility or criticism placed on someone or something.",
+        "sentence": "Language models can still place undue blame for climate inaction on vulnerable countries, perpetuating inequalities."
+      },
+      {
+        "word": "panacea",
+        "type": "noun",
+        "definition": "A solution or remedy for all difficulties or diseases; a cure-all.",
+        "sentence": "Rectifying systemic tendencies in AI is not a panacea, but it points to a crucial vulnerability in current AI development."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary challenge for AI in achieving sound judgment, even when provided with better evidence?",
+        "options": [
+          "The model's inability to interpret evidence fairly due to ingrained assumptions.",
+          "Lack of sufficient data to train the AI system effectively.",
+          "The model's slowness in processing new and reliable information.",
+          "The absence of external standards to compare AI judgments against."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article emphasizes that AI systems can possess good evidence but continue to filter it through assumptions formed during training, leading to unfair conclusions. The difficulty lies in interpreting evidence and revising assumptions against external standards, not just finding facts."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why is 'good evidence' not enough for sound AI judgment according to the article?",
+        "back": "Good evidence is not enough because AI systems can filter that evidence through pre-existing assumptions formed during training, preventing fair interpretation and revision of judgment."
+      },
+      {
+        "front": "What is the core difficulty AI faces in making fair judgments, even with good evidence?",
+        "back": "The core difficulty is that AI must interpret evidence, weigh it against external standards, and revise its assumptions, a process where its ingrained tendencies can lead to unfair outcomes."
+      },
+      {
+        "front": "How can AI systems perpetuate global inequalities, particularly in climate governance?",
+        "back": "AI systems can perpetuate global inequalities by placing undue blame on vulnerable countries for climate inaction, even when their actual climate performance and historical contributions are accounted for, thus reinforcing existing power imbalances."
+      },
+      {
+        "front": "What should be the focus of the debate on responsible AI, beyond just the information received?",
+        "back": "The debate on responsible AI should also inquire how the information influenced the AI's assessment and whether the outcome was more in line with a reliable external norm, focusing on fairness and justice."
+      }
+    ]
+  },
+  {
     "id": "curated-1791168260431-300",
     "title": "Humanising medicine\n",
     "source": "Dawn",
@@ -10271,338 +10583,6 @@
       {
         "front": "Beyond creating new provinces, what fundamental reforms does the article advocate for addressing misrule in Pakistan?",
         "back": "The article advocates for adopting sound policies for growth, devolving power and purse locally for better public services, ensuring policy coherence, and addressing foundational gaps like the lack of legitimate and empowered set-ups."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789524842425-625",
-    "title": "Shiny new toys\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030058/shiny-new-toys",
-    "date": "2026-09-15",
-    "author": "none@none.com (Danyal Adam Khan)",
-    "content": "LAST week, an MNA from Islamabad expressed his gratitude to the interior minister for proposing that the capital be given provincial status. The MNA fully backed the minister’s statement, terming this a “long-standing demand of residents of the capital”.\nThis is intriguing for several reasons, not least of which is that in the list of priorities of the capital’s residents one encounters daily, the ‘long-standing demand’ for a new province is not one that features anywhere, let alone prominently. What Islamabad’s residents have categorically demanded, on the other hand, is not being evicted from their land and having their homes bulldozed, access to affordable housing, piped water connections, a functioning solid and liquid waste management system, and a fully integrated public transport network.\nAs far as governance architecture goes, the most tangible demand Islamabad has made for years is having an elected local government — not just a tick-box of procedural democracy, but one that is politically, administratively, and fiscally empowered to deliver its mandate too. Ironically, the MNA referencing the democratic aspirations of his constituency belongs to the ruling party which has delayed LG elections in Islamabad four times over the past four years. Each time, this is done ostensibly to strengthen the structure of a system the residents never actually get to experience.\nThe latest round in this carousel was meant to end in October, when the Election Commission would conclude delimitation and issue an election schedule. However, it is now likely that this will be kicked further down the road as the ruling coalition gears up to introduce a new governance model for Islamabad Capital Territory (ICT). Unlike previous tweaks, this one aims to overhaul the entire system.\nProvincial status isn’t a priority for Islamabad’s residents.\nFor the uninitiated, the proposed ICT governance model creates a ‘province-like’ status for Islamabad by establishing a 27-member elected legislative assembly, including reserved seats. It provides for a chief executive — likely in the form of a chief minister — and probably a governor. There’s a chief secretary, four secretaries, 26 departments, six specialised authorities.\nTo be fair to this proposal, it has both merits and demerits. Meaningful engagement with the capital’s governance model is long overdue, and this recognition of the need to remedy a fractured system is welcome. There is also much to critique, including the retention of basic powers such as master planning and law and order with the federal government, ambiguities in the executive structure, federal secretaries continuing to govern ICT authorities, and the lack of thought towards reforming fiscal architecture.\nSince the proposal is still in the works, much may yet be remedied. However, the fatal flaw is not hidden in the details but buried at the foundations. The model creates an effectively bloated structure at the top, while the decay at the grassroots union councils remains unaddressed. It establishes a legislative assembly, without empowering the LGs whose job it is to provide essential service delivery. It may give political leaders a ribbon to cut and a tangible reform package to point towards, but will it make for better results for the \nresidents? Instead of an elaborate new scheme, could more have been achieved by simply extending basic legislative powers to the now-dismembered Metropolitan Corporation of Islamabad?\nThis aspiration to give Islamabad a ‘province-like’ structure has found support in the nationwide frenzy of new provinces, and an al­­ready bloated pro-\nposal may now be pursued beyond its limits. Perhaps the biggest red flag is the confirmation of the earlier perception that this newfound interest in Islamabad’s gover­nance model has something to do with securing an extra NFC share at the centre.\nThis demand is both half-baked and dangerous. The federal government is responsible for Islamabad in the same way that KP is for Peshawar. If the latter is not demanding a separate slice of the NFC to govern its metropolis, then the former’s 42.5 per cent share should also be sufficient. In case it isn’t, it may finally be time to consider meaningful urban fiscal reform that allows cities like Islamabad to raise own-source revenue, particularly through its overpriced real estate. But that will also require political leaders to take on a state-backed property mafia, and we don’t seem ready for that kind of conversation.\nWe’ve heard a lot recently about how the devolution of power is inevitable. Instead of carving up the country into new provinces just to see where it may take us, perhaps we might take the obvious route and try empowering LGs first. Perhaps we might try to work with what we already have instead of chasing shiny new toys. \nThe writer is a governance specialist working on devolution, cities, and climate.\nPublished in Dawn, September 15th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs / Political Science / Public Administration",
-    "topic": "Local Governance Reforms, Federalism, and Fiscal Decentralization in Pakistan (Case Study: Islamabad)",
-    "whyMatters": "This article critically analyzes proposed governance reforms for Islamabad, highlighting the disconnect between elite policy-making and public priorities. It provides a strong argument for the importance of robust local governments and fiscal decentralization, crucial themes for understanding Pakistan's administrative and political landscape.",
-    "summary": [
-      "Islamabad residents' actual priorities are basic services (like water, waste management, public transport) and an empowered, elected local government, not provincial status.",
-      "The proposed 'province-like' governance model for ICT creates a bloated, top-heavy legislative and executive structure without addressing grassroots decay or empowering existing local bodies like union councils.",
-      "The primary motivation behind the push for a new ICT governance model is suspected to be securing an extra share from the National Finance Commission (NFC), which the author deems a 'half-baked and dangerous' demand.",
-      "The article advocates for strengthening existing local governments and implementing meaningful urban fiscal reform to allow cities to raise own-source revenue, rather than creating new, elaborate structures."
-    ],
-    "facts": [
-      "Local Government (LG) elections in Islamabad have been delayed four times over the past four years by the ruling party.",
-      "The proposed ICT governance model envisions a 27-member elected legislative assembly, a chief executive (likely chief minister), chief secretary, four secretaries, 26 departments, and six specialized authorities.",
-      "The federal government currently has a 42.5% share from the National Finance Commission (NFC) Award."
-    ],
-    "academicReferences": [
-      "18th Amendment to the Constitution of Pakistan (2010) (for devolution of power and provincial autonomy)",
-      "National Finance Commission (NFC) Award Reports (for fiscal distribution mechanisms in Pakistan)",
-      "Local Government Acts (e.g., Punjab Local Government Act 2019 / Sindh Local Government Act 2013) (for understanding structures and powers of LGs)"
-    ],
-    "vocabulary": [
-      {
-        "word": "ostensibly",
-        "type": "adverb",
-        "definition": "Apparently or seemingly, but perhaps not actually.",
-        "sentence": "Each time, this is done ostensibly to strengthen the structure of a system the residents never actually get to experience."
-      },
-      {
-        "word": "fractured",
-        "type": "adjective",
-        "definition": "(Of a system or organization) broken, split, or severely disrupted.",
-        "sentence": "Meaningful engagement with the capital’s governance model is long overdue, and this recognition of the need to remedy a fractured system is welcome."
-      },
-      {
-        "word": "fiscal",
-        "type": "adjective",
-        "definition": "Relating to government revenue, especially taxes, and public finance.",
-        "sentence": "There is also much to critique, including... the lack of thought towards reforming fiscal architecture."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason why Islamabad's residents are *not* demanding provincial status?",
-        "options": [
-          "A) They already have adequate representation in the National Assembly.",
-          "B) Their priorities are basic services and empowered local government.",
-          "C) Provincial status would lead to increased taxation.",
-          "D) The federal government already handles all their concerns efficiently."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that residents' demands are for basic services like water, waste management, public transport, and a politically, administratively, and fiscally empowered elected local government, rather than provincial status."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the author's main critique of the proposed 'province-like' governance model for Islamabad Capital Territory (ICT)?",
-        "back": "The model creates a bloated, top-heavy structure at the expense of addressing grassroots issues and empowering local governments, potentially failing to improve service delivery for residents."
-      },
-      {
-        "front": "What does the article suggest is the real motivation behind the push for Islamabad's new governance model, beyond addressing resident needs?",
-        "back": "The article suggests the newfound interest in Islamabad’s governance model might be driven by a desire to secure an extra share from the National Finance Commission (NFC)."
-      },
-      {
-        "front": "Instead of creating new provincial-like structures, what alternative approach does the author recommend for improving governance and service delivery in cities like Islamabad?",
-        "back": "The author recommends empowering existing local governments (LGs) with basic legislative, political, administrative, and fiscal powers, and undertaking meaningful urban fiscal reform."
-      },
-      {
-        "front": "Why does the author argue against the federal government demanding an extra NFC share for Islamabad, comparing it to other metropolitan areas?",
-        "back": "The author argues that if KP's existing NFC share is sufficient to govern Peshawar, the federal government's 42.5% share should also suffice for Islamabad, implying the issue is not lack of funds but lack of proper fiscal reform and political will."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789524108300-71",
-    "title": "Rethinking relief\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030055/rethinking-relief",
-    "date": "2026-09-15",
-    "author": "none@none.com (Editorial)",
-    "content": "THE prime minister’s decision to subsidise petrol purchases for motorcycle and small-car owners is understandable amid consumer outcry against high fuel rates. But it is unlikely to offer much relief.\nThe Rs75bn package may sound substantial but is barely a fraction of annual petrol sales. Its reach will be narrower because eligibility depends on conditions such as vehicle and SIM ownership. A monthly subsidy of Rs2,000 for motorcycles and Rs3,000 for small cars may help households, but cannot shield them from sustained global oil price increases. Nor does it assist those who rely on public transport. The question that arises is whether the government is trying to soften the political impact of another fuel price shock.\n    \nThe government must rethink the relief architecture. The BISP National Socio-Economic Registry already has a mechanism to target assistance by household income. Additional support through this system would be more equitable than subsidising a particular fuel purchase. Cash transfers are preferable because recipients can decide whether they need petrol, bus fare, food or another essential. Fuel subsidies make that choice for them and risk encouraging consumption of an imported commodity when foreign exchange pressures are rising.\nThe demand is for a cut in the petroleum levy for broader relief. But the government has little fiscal space for that. Slashing it would create another fiscal hole. Islamabad should, instead, work with the provinces to support public transport users through targeted — and transparent — assistance.\nThe other problem that subsidies cannot solve concerns rising prices of food and other essentials. Fuel price hikes are passed on by transporters and traders to consumers through higher fares and commodity prices; reductions rarely produce equivalent decreases. Provincial and district administrations must monitor this asymmetric pricing more seriously. The global oil market outlook offers little comfort due to the uncertainty caused by the Middle East conflict. Petrol was around $135 a barrel at the end of last week, against the $120-122 benchmark underlying domestic calculations. Every $1 increase in the global benchmark is estimated to add around Rs1.80 per litre to domestic petrol prices. A sustained $10 rise in annual average oil prices could add $1bn-$1.25bn to Pakistan’s import bill, further draining scarce foreign exchange.\nThe pressure could intensify in winter as lower hydropower generation increases reliance on imported fuels and raises electricity costs. The government’s dilemma is clear: higher fuel prices fuel inflation and hurt households, while subsidies put pressure on imports and the fiscal deficit. It has no painless option. Relief must therefore follow need, not vehicle ownership. A poor household using public transport deserves no less consideration than a relatively better-off motorcycle or a small car owner.\nPublished in Dawn, September 15th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2019-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2019,
-      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Challenges, Subsidies, and Fiscal Policy in Pakistan",
-    "whyMatters": "This article directly addresses critical economic challenges faced by Pakistan, such as inflation, fiscal deficit, and foreign exchange pressure. It provides concrete policy recommendations for targeted relief, making it highly relevant for answering questions on economic issues and proposed solutions in competitive exams.",
-    "summary": [
-      "The prime minister's decision to provide blanket petrol subsidies offers limited relief, is inefficient, and fails to address the underlying economic issues or assist those relying on public transport.",
-      "A more equitable and effective relief architecture involves targeted cash transfers through existing mechanisms like the BISP National Socio-Economic Registry, allowing recipients choice in their spending and avoiding imported commodity consumption.",
-      "The government lacks the fiscal space to cut the petroleum levy broadly, necessitating a focus on transparent assistance for public transport users in coordination with provinces.",
-      "Rising food and essential prices, driven by fuel costs, require strict monitoring of asymmetric pricing by provincial and district administrations, especially given the volatile global oil market and its impact on Pakistan's import bill."
-    ],
-    "facts": [
-      "The announced petrol subsidy package is Rs75bn.",
-      "A monthly subsidy of Rs2,000 for motorcycles and Rs3,000 for small cars is proposed.",
-      "Every $1 increase in the global oil benchmark is estimated to add around Rs1.80 per litre to domestic petrol prices.",
-      "A sustained $10 rise in annual average oil prices could add $1bn-$1.25bn to Pakistan's import bill."
-    ],
-    "academicReferences": [
-      "Pakistan Economic Survey (annual publication of the Ministry of Finance): Provides comprehensive data and analysis on Pakistan's economic performance and challenges.",
-      "International Monetary Fund (IMF) Stand-By Arrangement (SBA) / Extended Fund Facility (EFF) Reports on Pakistan: Detail macroeconomic stability, fiscal reforms, and subsidy restructuring requirements.",
-      "Benazir Income Support Programme (BISP) Annual Reports and Policy Frameworks: Outline the mechanisms and impact of targeted cash transfer programs in Pakistan."
-    ],
-    "vocabulary": [
-      {
-        "word": "Subsidise",
-        "type": "verb",
-        "definition": "To support an organization or activity financially.",
-        "sentence": "The government decided to subsidise petrol purchases to alleviate public pressure amidst rising fuel costs."
-      },
-      {
-        "word": "Equitable",
-        "type": "adjective",
-        "definition": "Fair and impartial in the distribution of resources or opportunities.",
-        "sentence": "The article argues that cash transfers are a more equitable form of relief than universal fuel subsidies."
-      },
-      {
-        "word": "Fiscal space",
-        "type": "noun",
-        "definition": "The financial capacity of a government to provide resources for a desired purpose without jeopardizing financial stability.",
-        "sentence": "The government's limited fiscal space prevents a broad cut in the petroleum levy, as it would create another fiscal hole."
-      },
-      {
-        "word": "Asymmetric",
-        "type": "adjective",
-        "definition": "Having two sides or halves that are not the same; not balanced.",
-        "sentence": "The article highlights the problem of asymmetric pricing, where price hikes are passed on but reductions rarely produce equivalent decreases."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the most significant flaw of the current petrol subsidy package?",
-        "options": [
-          "It primarily benefits public transport users.",
-          "It is too small to offer substantial relief and is not equitably targeted.",
-          "It encourages the use of electric vehicles.",
-          "It helps reduce the national import bill significantly."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states the Rs75bn package is 'barely a fraction of annual petrol sales' and 'its reach will be narrower because eligibility depends on conditions', implying it is both too small and not equitably targeted for broad relief."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism of blanket fuel subsidies in Pakistan, according to the article?",
-        "back": "They offer limited relief, are inefficiently targeted, disproportionately benefit vehicle owners over public transport users, and risk encouraging consumption of imported commodities, exacerbating foreign exchange pressures."
-      },
-      {
-        "front": "What alternative 'relief architecture' does the article propose to replace fuel subsidies?",
-        "back": "The article proposes targeted cash transfers through existing mechanisms like the BISP National Socio-Economic Registry, allowing recipients to decide how to spend the aid (e.g., petrol, food, bus fare)."
-      },
-      {
-        "front": "Why does the government face a dilemma regarding fuel prices and subsidies, as explained in the article?",
-        "back": "Higher fuel prices fuel inflation and hurt households, while attempting to mitigate this with subsidies puts pressure on imports and exacerbates the fiscal deficit. The government has no 'painless option'."
-      },
-      {
-        "front": "Beyond direct subsidies, what other policy recommendation does the article make to address rising commodity prices?",
-        "back": "The article suggests that provincial and district administrations must more seriously monitor 'asymmetric pricing' where fuel price hikes are passed on to consumers, but reductions rarely lead to equivalent decreases in commodity prices."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789524443967-595",
-    "title": "Burdens of politicians\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030060/burdens-of-politicians",
-    "date": "2026-09-15",
-    "author": "none@none.com (Arifa Noor)",
-    "content": "IT was a humid Sunday afternoon in Islamabad. The small pharmacy was empty with just one man behind the cash counter. A woman approached him, prescription and medicines in hand. She was simply but not shabbily dressed. But she still returned a quarter of the medication once the bill was generated. The man behind the counter explained the bill was around Rs4,000, and she returned about Rs1,000 worth of medication. This took place at a pharmacy in the heart of Islamabad, where real estate sells or rents at eye-watering prices. There was no doctor nearby or a hospital. The woman, chances are, lived close by.\nIt is not a dramatic story or one that really shocks. Tell it to a group of people and they will nod, and, in fact, recount similar stories. Of people’s difficulties. The loans they have taken. How someone got a utility bill higher than their salary. How a colleague had switched from his car to a motorbike. How another had begun shopping for lower-quality food.\nConversations such as these abound. And this is before the past week when petrol hikes — even those of a daily kind — had begun to hit the headlines. People are now taking bets on when the price of petrol will hit 400 — a far more probable prospect than the cricket team managing a respectable score.\n    \nThat the government realises the impact of the petrol hikes is evident from its announcement to relaunch its subsidy scheme. There is little clarity on how effective the last one had been and how long it lasted, but it’s now back with some tweaks. Ask the government to reduce the petrol levy, and suddenly the big bad IMF enters the conversation; the same IMF which can’t get the government to impose a proper tax on traders or agriculture income or even stop it from giving relief to real estate. Apparently, the petrol levy is the red line.\nThere is little conversation about what inflationary impact this petrol hike will have.\nAnd of course, there is little conversation about what inflationary impact this petrol hike will have on food, transport and more — what will happen to the electricity bills, and what this new cycle of inflation will do to already weakened purchasing power.\nBefore the reader rolls her eyes at my audacity to write a piece on the economy, let me clarify that I am about to do no such thing. This is simply going to be a clutch-my-pearls piece on the callousness of the ruling elite. It doesn’t get simpler than that.\n    \nLong before the Iran war and its impact on the global economy, Pakistan’s human story was already a matter of shame. Our infant mortality rate (46 to 58 deaths per 1,000 births) is higher than the rest of the region and comparable to Afghanistan and Yemen. Nearly 20 per cent of the population has an insufficient caloric intake, and around 40pc of children under five years are malnourished and suffer from stunting — in this, Pakistan is comparable to countries hit by conflict and civil war. The numbers are not recent so as to be linked to the economic mess of the past few years.\nThis is the real story, with facts and figures, along with our own experiences and the anecdotes we all hear of the suffering of the people. But for those ruling us, there is little empathy or awareness of the crisis. This may seem a bit harsh but what else does one say when governments are incapable of curbing even their own lavish personal lifestyles in the face of human misery?\nThe prime minister and his deputy, it seems, spend more time abroad than in the country. Newly born babies recently died in a hospital fire in the heart of the capital, petrol is going up faster than pollution, and we already know he is off to New York on the 20th to tell the world about Pakistan’s efforts in mediation. When one’s home is on fire, shouldn’t saving it be more important? A rhetorical question — for soon we will be subjected to a bunch of ministers and advisers walking on the tarmac and entering a plane.\nThe rest are not far behind. Just recently both the president and the chief minister of Punjab travelled to Europe on personal visits on private planes. And only widespread criticism forced them both to make public the information that the trips were paid for personally. As if anyone needed any more proof of such disconnect from the lives of ordinary Pakistanis.\nThe president was on a personal visit while the party and the government he heads was announcing war on proposals to divide Sindh. If the situation was that dire politically, shouldn’t he have been in Pakistan and in the province? And the Punjab CM — two-and-a-half years later — does not seem to realise that a display of wealth in these times is just poor judgement. Despite the widespread criticism of the aircraft purchased by the Punjab government, it was used for a personal trip.\nHowever, this criticism is simply water off a duck’s back. The display of a lavish wedding followed all of this. This is not to say that politicians should not be allowed private lives; they have every right to it. However, extensive footage and images displaying the grandeur of an event is simply a poor decision.\nNo one expects Pakistan’s ruling elite to behave like their counterparts in the West where ministers carry their own baggage and fly economy. We are far too realistic to expect miracles here but a little discretion can do no harm. And for once, it is not enough to argue that there are powerful people in Pakistan who perhaps enjoy even more perks than politicians but are not spoken about.\nIndeed, those who take part in electoral exercise and claim to be popular have different burdens than those who simply wield power. And the people in government need to understand this difference.\nThe writer is a journalist.\nPublished in Dawn, September 15th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Current Affairs / Governance / Economy",
-    "topic": "Governance, Public Accountability, and Economic Hardship in Pakistan",
-    "whyMatters": "This article does not directly address Pakistan's role in the Economic Cooperation Organization (ECO) or regional integration. However, it provides crucial context on Pakistan's severe internal socio-economic challenges and governance issues, which can indirectly influence its capacity and focus on international and regional engagements.",
-    "summary": [
-      "Ordinary Pakistanis are facing severe economic hardship, evidenced by rising costs of living, petrol price hikes, and an inability to afford essential medications.",
-      "The ruling elite demonstrates a significant disconnect and lack of empathy towards the public's suffering, maintaining lavish lifestyles and making questionable public displays of wealth.",
-      "Pakistan's human development indicators, such as high infant mortality, malnutrition, and insufficient caloric intake, are abysmal and comparable to conflict-ridden nations, indicating a long-standing crisis.",
-      "The government's priorities are critiqued for focusing on foreign visits and international diplomacy while domestic crises worsen, and for succumbing to IMF pressure on petrol levies but not on taxing other powerful sectors."
-    ],
-    "facts": [
-      "A woman returned Rs. 1,000 worth of medication from a Rs. 4,000 bill due to financial constraints.",
-      "Pakistan's infant mortality rate is 46 to 58 deaths per 1,000 births, comparable to Afghanistan and Yemen.",
-      "Nearly 20% of the population has an insufficient caloric intake, and around 40% of children under five are malnourished and suffer from stunting."
-    ],
-    "academicReferences": [
-      "IMF Country Reports on Pakistan (e.g., 'Pakistan: Sixth Review Under the Extended Arrangement Under the Extended Fund Facility')",
-      "United Nations Development Programme (UNDP) Human Development Report (specifically sections on Pakistan's social indicators)",
-      "Transparency International's Corruption Perception Index (for insights into governance and elite behavior)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Shabbily",
-        "type": "adverb",
-        "definition": "In a deteriorated or disreputable state; poorly.",
-        "sentence": "She was simply but not shabbily dressed, indicating she maintained her dignity despite circumstances."
-      },
-      {
-        "word": "Eye-watering",
-        "type": "adjective",
-        "definition": "Extremely high or expensive.",
-        "sentence": "Real estate in the heart of Islamabad sells or rents at eye-watering prices."
-      },
-      {
-        "word": "Abound",
-        "type": "verb",
-        "definition": "To exist in large numbers or amounts.",
-        "sentence": "Conversations about people's difficulties and financial struggles abound."
-      },
-      {
-        "word": "Audacity",
-        "type": "noun",
-        "definition": "The willingness to take bold risks; rude or disrespectful behavior.",
-        "sentence": "Before the reader rolls her eyes at my audacity to write a piece on the economy, let me clarify."
-      },
-      {
-        "word": "Callousness",
-        "type": "noun",
-        "definition": "Insensitivity or cruel disregard for others.",
-        "sentence": "This is simply going to be a clutch-my-pearls piece on the callousness of the ruling elite."
-      },
-      {
-        "word": "Curbing",
-        "type": "verb",
-        "definition": "Restraining or keeping in check.",
-        "sentence": "Governments are incapable of curbing even their own lavish personal lifestyles in the face of human misery."
-      },
-      {
-        "word": "Rhetorical",
-        "type": "adjective",
-        "definition": "Asked in order to produce an effect or to make a statement rather than to elicit information.",
-        "sentence": "When one's home is on fire, shouldn't saving it be more important? A rhetorical question."
-      },
-      {
-        "word": "Discretion",
-        "type": "noun",
-        "definition": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information.",
-        "sentence": "A little discretion can do no harm, especially for public figures."
-      },
-      {
-        "word": "Wield",
-        "type": "verb",
-        "definition": "Hold and use (a weapon or tool); to have and exercise (power or influence).",
-        "sentence": "Indeed, those who take part in electoral exercise have different burdens than those who simply wield power."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following social indicators is NOT mentioned as a major crisis in Pakistan?",
-        "options": [
-          "High infant mortality rate",
-          "Insufficient caloric intake",
-          "High literacy rate",
-          "Malnutrition and stunting in children"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions high infant mortality, insufficient caloric intake, and malnutrition/stunting. A high literacy rate is not mentioned as a crisis; in fact, the article implies issues that might suggest the opposite."
-      },
-      {
-        "question": "What is the author's primary criticism of the ruling elite?",
-        "options": [
-          "Their lack of economic expertise.",
-          "Their lavish lifestyles and disconnect from public suffering.",
-          "Their focus on military spending.",
-          "Their inability to form stable coalitions."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article heavily criticizes the elite's lavish personal lifestyles, foreign trips, and public displays of wealth, contrasting them with the widespread human misery."
-      },
-      {
-        "question": "According to the article, what is the 'red line' that the IMF apparently enforces for Pakistan's government?",
-        "options": [
-          "Taxation on agricultural income.",
-          "Reduction in the petrol levy.",
-          "Curbing real estate relief.",
-          "Imposing proper tax on traders."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Ask the government to reduce the petrol levy, and suddenly the big bad IMF enters the conversation; the same IMF which can’t get the government to impose a proper tax on traders or agriculture income or even stop it from giving relief to real estate. Apparently, the petrol levy is the red line.'"
-      },
-      {
-        "question": "The anecdote about the woman returning medication highlights which issue?",
-        "options": [
-          "Lack of pharmacies in Islamabad.",
-          "High cost of essential medicines.",
-          "Inefficiency of the healthcare system.",
-          "Poor quality of generic drugs."
-        ],
-        "answerIndex": 1,
-        "explanation": "The woman returned medication because the bill was around Rs. 4,000, indicating she could not afford the full amount, thus highlighting the high cost of essential medicines and economic hardship."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What specific examples does the article provide to illustrate the severe economic hardship faced by ordinary Pakistanis?",
-        "back": "The article cites a woman returning Rs. 1,000 worth of medication from a Rs. 4,000 bill, people taking loans, utility bills higher than salaries, switching from cars to motorbikes, and shopping for lower-quality food, alongside constant petrol price hikes."
-      },
-      {
-        "front": "How does the author characterize the ruling elite's response to the public's suffering, and what evidence supports this view?",
-        "back": "The author characterizes the elite as callous and disconnected, citing their lavish personal lifestyles, frequent foreign trips (e.g., PM, President, CM Punjab), and public displays of grandeur (e.g., weddings), contrasting these with the severe human misery."
-      },
-      {
-        "front": "What long-standing human development crises in Pakistan are highlighted, and what is their significance?",
-        "back": "The article highlights an infant mortality rate of 46-58 per 1,000 births, 20% of the population with insufficient caloric intake, and 40% of children under five suffering from malnutrition and stunting. These 'real story' facts are not recent, showing a chronic, systemic crisis pre-dating recent economic messes."
-      },
-      {
-        "front": "What is the author's primary critique of the government's priorities concerning economic policy and international engagement?",
-        "back": "The author criticizes the government for prioritizing foreign visits and international mediation (e.g., PM's New York trip) while domestic crises like hospital fires and petrol hikes worsen. Economically, the government is seen as bowing to IMF demands on petrol levies but failing to tax powerful sectors like traders or agriculture, highlighting skewed priorities."
       }
     ]
   }
