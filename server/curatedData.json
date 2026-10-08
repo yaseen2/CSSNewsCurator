@@ -1,5 +1,388 @@
 [
   {
+    "id": "curated-1791429280967-368",
+    "title": "Chain of custody\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035607/chain-of-custody",
+    "date": "2026-10-08",
+    "author": "none@none.com (Ali Tauqeer Sheikh)",
+    "content": "LAST month, at the London School of Economics’ Environment Week, the International Growth Centre asked a roundtable of policymakers, researchers and funders how evidence systems should change to support harder climate choices. I opened with a case: a major climate decision Pakistan took without the evidence it needed.\nThe obvious case is the 2022 floods. The obvious diagnosis is that the evidence did not exist. The case is obviously right. The diagnosis is obviously wrong.\nWhen a third of the country went under water, every decision that followed, from evacuation to the Geneva appeal, was taken in the dark. Yet the Met department had forecast an above-normal monsoon. The national socio-economic registry held geo-coded records on 38 million households. River and satellite data sat with Wapda, the Federal Flood Commission and Suparco. The knowledge existed, in different buildings. No one was mandated to bring it to the table.\nPakistan does not have a data shortage. The usual verdict is poor coordination. That is the wrong word. Coordination is voluntary. What Pakistan lacks is a chain of custody: someone legally obliged to carry evidence to the point of decision.\nThe five federal agencies that hold hazard data share no protocol.\nThe roundtable framed three tensions: whether evidence serves the decisions governments actually take, whether it arrives in time to be used, and whether it supports implementation or only design. In Pakistan, each tension marks a break in that chain. Each break has a price tag.\nEvidence and decision: Pakistan’s research agenda follows what funders find easy to finance, not what the state must prioritise. A warning system has four parts: knowing the risk, forecasting it, getting the message out, and making people act on it. Since before the 2022 floods, the money has gone to the first two. Radars can be procured, counted and inaugurated. Dissemination and response are institutional work. They are not as lucrative as procurement tenders.\nNor has the state compiled basic baselines: tested district plans, embankment condition, maintenance costs. That absence is political economy. The reason is elite capture: new schemes bring contracts, win constituencies and visibility. Maintenance brings none.\nSpeed and usability: Pakistan models slowly what it needs fast and leaves its fastest evidence unconnected. The five federal agencies that hold hazard data share no protocol. In Buner in August 2025, a red alert was in force and households still did not move. No one told them what to do, and local governments had no assigned role in last-mile delivery. An SMS that says a flood is coming is information, not a warning for immediate action.\nThe BISP registry is a simpler case. Laid over hazard maps, it could tell a provincial authority within hours who stands in the path of a surge and how to pay them. It is the most decision-ready evidence Pakistan owns. It costs nothing new to produce. Usable evidence in Pakistan rarely needs a better model. It needs a legal duty to share and an interface between databases that already exist.\nImplementation and capability: This is where costs are highest and evidence thinnest. After 2022, cash transfers were the state’s fastest instrument. They reached only households already on the registry. Exclusion ran to a third in some districts, and nearly half the unregistered did not know how to register. The design was sound. No one was tasked with the evidence that would have exposed the gap during delivery.\nDamage assessment has no owner either. No platform links damage to recovery, and there is no loss and damage registry. The 2022 needs assessment was built for the Geneva appeal, not the reconstruction. Pakistan chaired the G77 when the loss and damage fund was agreed at COP27. A country that cannot document its losses will struggle to draw on the fund it fought to create.\nAfter the 18th Amendment, disaster management and irrigation are provincial; hydromet data, the registry and international finance are federal. Evidence must cross that line twice: up for financing, down for delivery. When a donor project closes, its capability leaves with it, because the analysts sat in a project unit, not a line department with a budget head.\nThe cost of moving blind: These are not administrative inefficiencies. They are why Pakistan’s development agenda is now set by its flood cycle rather than its plans. The 2010, 2022 and 2025 floods each erased growth, reopened IMF negotiations and diverted development money into rehabilitation and reconstruction. Every rupee spent rebuilding what better evidence could have protected is a rupee taken from schools, clinics and the investment that would shrink the next shock. The logic is simple: the Global Commission on Adaptation estimates that 24 hours’ warning of a coming storm can cut the damage by 30pc.\nHigh-tech or grassroots: My notes for the roundtable ended with a question for funders: should a country like Pakistan invest in predictive modelling or in grassroots readiness? It is a false choice. The answer is sequence. Better models will lengthen lead times and should be pursued. But a 72-hour forecast is worthless to a household off the registry, in a town with no local government, receiving a non-specific message. The next rupee should buy a messenger, not a model.\nMoving forward: Three steps, in sequence.\nFirst, assign ownership. Notify a binding data-sharing protocol across federal and provincial agencies, and name one owner for assessment data. Informal sharing must become a legal duty.\nSecond, connect what exists before the next monsoon. Link the registry to hazard maps in every province. Compile the missing baselines and open a loss and damage registry. Give local governments a formal role in warnings.\nThird, commission evidence to decisions. Funders, including those around that table in London, should finance all four parts of the warning chain, not the two that are easiest to procure, and embed analysts in provincial departments under budget heads that outlive the project.\nPakistan does not lack evidence. It lacks a chain of custody. Until someone is responsible for carrying knowledge to the point of decision, every flood will end with the same verdict: the data existed, and no one was duty-bound to use it.\nThe writer is a climate expert.\nPublished in Dawn, October 8th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2023-COP",
+      "paper": "Current Affairs",
+      "year": 2023,
+      "question": "The UN climate summit (COP-27) in Sharm el Sheikh (Egypt) discussed Pakistan catastrophic summer floods... Discuss the COP-27 roadmap to face the challenge of climate change."
+    },
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Current Affairs",
+    "topic": "Climate Change Resilience and Governance in Pakistan",
+    "whyMatters": "This article directly addresses Pakistan's internal systemic failures in leveraging climate data, crucial for understanding its challenges in benefiting from international initiatives like the COP-27 Loss and Damage fund. It provides a critical perspective on the country's capacity to implement climate change strategies, making it highly relevant for discussions on Pakistan's climate roadmap.",
+    "summary": [
+      "Pakistan possesses ample climate-related data, but lacks a 'chain of custody' – a legal mandate for agencies to share evidence for decision-making.",
+      "Breaks in this chain manifest as research agendas driven by funding ease (not state priority), slow data usability, and a failure to embed evidence in implementation processes.",
+      "Elite capture leads to a focus on new, lucrative projects (procurement) over essential but less visible maintenance and institutional work for disaster preparedness.",
+      "Post-18th Amendment, the division of disaster management responsibilities between federal and provincial agencies creates further disconnects in data flow and capability retention.",
+      "The repeated floods (2010, 2022, 2025) demonstrate the high cost of this 'blind' approach, diverting development funds and hindering economic growth.",
+      "Key solutions proposed include assigning ownership for data sharing, connecting existing databases, formally involving local governments, and funding all parts of the warning chain with embedded analysts in line departments."
+    ],
+    "facts": [
+      "One-third of Pakistan went underwater during the 2022 floods.",
+      "The national socio-economic registry (BISP) holds geo-coded records for 38 million households, representing decision-ready evidence.",
+      "The Global Commission on Adaptation estimates that 24 hours' warning of a coming storm can cut damage by 30%.",
+      "Pakistan chaired the G77 when the loss and damage fund was agreed upon at COP27."
+    ],
+    "academicReferences": [
+      "18th Amendment to the Constitution of Pakistan (regarding federal-provincial distribution of powers)",
+      "COP27 Loss and Damage Fund (established at the 27th Conference of the Parties to the UNFCCC)",
+      "Global Commission on Adaptation (for statistics on early warning benefits)",
+      "International Growth Centre (context for roundtable discussion on evidence systems)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Chain of custody",
+        "type": "noun phrase",
+        "definition": "A documented, legal process or record of who has control over evidence from the moment it is collected until it is presented in court or at the point of decision.",
+        "sentence": "What Pakistan lacks is a chain of custody: someone legally obliged to carry evidence to the point of decision."
+      },
+      {
+        "word": "Geo-coded",
+        "type": "adjective",
+        "definition": "Assigned a geographical identifier, such as latitude and longitude coordinates, to a piece of data or information.",
+        "sentence": "The national socio-economic registry held geo-coded records on 38 million households."
+      },
+      {
+        "word": "Elite capture",
+        "type": "noun phrase",
+        "definition": "A phenomenon where a small group of influential individuals or elites disproportionately benefit from public policies, programs, or resources, often at the expense of the wider population.",
+        "sentence": "The reason is elite capture: new schemes bring contracts, win constituencies and visibility."
+      },
+      {
+        "word": "Hydromet data",
+        "type": "noun phrase",
+        "definition": "Data related to hydrological and meteorological phenomena, such as rainfall, river levels, temperature, and humidity, crucial for forecasting floods and other weather events.",
+        "sentence": "After the 18th Amendment, disaster management and irrigation are provincial; hydromet data, the registry and international finance are federal."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the fundamental issue hindering Pakistan's effective use of climate evidence for decision-making?",
+        "options": [
+          "A shortage of available climate data.",
+          "A lack of sophisticated predictive modeling tools.",
+          "The absence of a legal 'chain of custody' for evidence.",
+          "Insufficient international funding for climate projects."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Pakistan does not have a data shortage...What Pakistan lacks is a chain of custody: someone legally obliged to carry evidence to the point of decision.'"
+      },
+      {
+        "question": "Which of the following is NOT a proposed step to improve Pakistan's climate evidence system?",
+        "options": [
+          "Assigning clear ownership and legal duty for data sharing.",
+          "Investing heavily in new, high-tech predictive modeling.",
+          "Connecting existing databases like the BISP registry to hazard maps.",
+          "Giving local governments a formal role in warning dissemination."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article argues against prioritizing 'better models' over immediate action, stating 'The next rupee should buy a messenger, not a model,' emphasizing sequence and foundational steps before high-tech investments."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What does the author identify as the core problem preventing Pakistan from effectively using existing climate data for critical decisions?",
+        "back": "The core problem is the absence of a 'chain of custody,' meaning no one is legally mandated to carry evidence to the point of decision, despite data availability."
+      },
+      {
+        "front": "How does 'elite capture' contribute to Pakistan's vulnerability to climate disasters, according to the article?",
+        "back": "Elite capture prioritizes funding for new schemes and procurement tenders, which offer contracts and political visibility, over less lucrative but crucial maintenance, institutional work (like dissemination and response), and compiling basic baselines."
+      },
+      {
+        "front": "What is the significance of the 18th Amendment in the context of Pakistan's disaster management challenges?",
+        "back": "The 18th Amendment devolved disaster management and irrigation to provinces, while hydromet data and international finance remain federal, creating a disconnect in evidence flow that must cross federal-provincial lines twice (up for financing, down for delivery)."
+      },
+      {
+        "front": "What are the three sequential steps the article proposes for Pakistan to move forward in strengthening its climate evidence system?",
+        "back": "The three steps are: 1) Assign ownership with binding data-sharing protocols and a legal duty for sharing; 2) Connect existing resources like registries to hazard maps and compile missing baselines; 3) Commission evidence to decisions by funding all parts of the warning chain and embedding analysts in line departments."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791429971452-544",
+    "title": "Broken people\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035604/broken-people",
+    "date": "2026-10-08",
+    "author": "none@none.com (Naeem Sadiq)",
+    "content": "TWO sanitation workers, 17-year-old Vanesh and 35-year-old Ramesh, tragically died while cleaning an underground tank at a building in Bhimpura, Karachi, on Sept 10. These deaths occurred exactly in the same manner and for exactly the same reason as the deaths that occur week after week in the sewage gutters of Pakistan. Cruelly exploited sanitation workers, compelled by poverty, are made to enter raw gutters to clean faecal matter with their bare hands, under barbaric and inhumane conditions. Some never come out alive. Those who make it back to the surface emerge with bruises, cuts and wounds with the filth having permeated not just their bodies, but their entire existence.\nMore than two dozen sanitation workers have died in sewage gutters across Pakistan this year. They were unknown privately contracted individuals, not listed as employees of any organisation. No individual or organisation was held accountable for gross criminal negligence. The families of the deceased were silenced by giving a few thousand rupees to sign a certificate that they shall not pursue any legal action. The unconcerned state looked the other way, as if nothing ever happened. There were no investigations, no FIRs, nor any compensation. Those who caused these deaths continued to live a life of luxury and were never held accountable.\nIn a landmark judgment delivered on Aug 13, 2026, the Bombay High Court declared that the families of deceased sanitation workers would be compensated by the state or the government agency, even if the death occurred because of work undertaken by a private contractor. This direction unequivocally places the compensation obligation on government entities and not private employers, thus protecting vulnerable families from running after the reluctant private entities for compensation. The court also determined the compensation value at Rs30 lakhs per deceased worker.\nHow come no one in Pakistan questioned the fact that none of the two dozen sanitation workers who died this year were employees of the government departments who are paid billions to do this job. Should we not ask as to why we have parked highly paid managing directors in dysfunctional organisations such as Karachi or Hyderabad Water and Sewerage Corporations or the Water and Sanitation Agencies of Punjab? Why does no one in Pakistan question the uncomfortable paradox: how come all those who died were non-Muslims?\nVulnerable citizens cannot be left to die because of negligence.\nGlobally, the practice of sending workers into sewerage systems for cleaning and desilting has been largely eliminated and replaced by mechanised equipment and modern technologies. Several countries including India have also enacted legal prohibitions against such practices, recognising them as incompatible with human dignity and occupational safety. Pakistan today possesses both the technology and the capacity to adopt safer alternatives. Mechanical sewer-cleaning equipment is now readily available, while major utility organisations already possess fleets of mechanised cleaning vehicles.\nPakistan cannot continue to practise cruelty and inhumanity in dealing with its minorities and its most vulnerable citizens. They cannot be left to die because of the negligence, incompetence or criminal failure of individuals and organisations. A state that has achieved distinction in high-speed legislation can easily and urgently pass a bill that states: “No worker shall be required or permitted to enter sewage gutters, manholes, drains, or septic tanks for the purpose of cleaning, desilting, or removing blockages. Such activities shall be carried out through mecha­nical means and equipment.” Any order, instruction or permission to enter a sewage gutter for cleaning could be declared a cognizable offence, and the head of the organisation made to bear direct legal responsibility.\nA nation with the slightest conscience, humanity or remorse must begin by legislating the above-mentioned prohibition and ordering a judicial inquiry to investigate all deaths that took place in the last one year. The state must register FIRs against the responsible organisations and individuals, even where a settlement was reached with the families of the deceased. If the families of Gul Plaza victims could be compensated by Rs10 million each, why can the state not exemplify the same generosity for its non-Muslim citizens? The adoption of these measures could demonstrate our nation’s forgotten commitment to human rights, occupational safety, and social justice. Must the healing of our most oppressed, brutalised and broken people not be our first step towards building a progressive Pakistan?\nnaeemsadiq@gmail.com\nPublished in Dawn, October 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs / Current Affairs / Essay (Social Justice)",
+    "topic": "Manual Scavenging, Labor Rights, Minority Rights, and Governance Failures in Pakistan",
+    "whyMatters": "This article critically examines grave human rights violations, labor exploitation, and systemic governance failures concerning sanitation workers in Pakistan. It provides compelling arguments and policy recommendations relevant for essays on social justice, state responsibility, and minority issues, as well as for Current Affairs and Pakistan Affairs questions on governance and human rights.",
+    "summary": [
+      "Sanitation workers, often from minority communities and privately contracted, face fatal exploitation due to manual sewage cleaning, with numerous deaths occurring annually without accountability.",
+      "The Pakistani state and its dysfunctional corporations are criticized for systemic negligence, failing to compensate victims or prosecute those responsible for these inhumane and barbaric practices.",
+      "A landmark 2026 Bombay High Court judgment in India establishes state liability for compensating sanitation workers' families, even if privately contracted, setting a crucial precedent for similar reforms in Pakistan.",
+      "The article advocates for urgent legislative prohibition of manual sewage cleaning, mechanization, judicial inquiries into past deaths, and substantial compensation to address this profound systemic injustice and demonstrate a commitment to human rights."
+    ],
+    "facts": [
+      "Two sanitation workers, 17-year-old Vanesh and 35-year-old Ramesh, tragically died on Sept 10 in Karachi while cleaning an underground tank.",
+      "More than two dozen sanitation workers have died in sewage gutters across Pakistan in the past year, primarily unknown privately contracted individuals.",
+      "The Bombay High Court judgment (Aug 13, 2026) determined compensation value at Rs30 lakhs (3 million rupees) per deceased worker, placing the obligation on government entities."
+    ],
+    "academicReferences": [
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports on Labor Rights, Minorities, and Occupational Safety.",
+      "International Labour Organization (ILO) Conventions on Occupational Safety and Health (e.g., C155) and Forced Labour (C29).",
+      "The Constitution of Pakistan, particularly Articles 9 (Security of Person), 11 (Slavery, forced labour, etc., prohibited), 25 (Equality of citizens), and 37 (Promotion of social and economic well-being)."
+    ],
+    "vocabulary": [
+      {
+        "word": "permeated",
+        "type": "verb",
+        "definition": "spread throughout something; diffused into every part.",
+        "sentence": "The filth from the sewers had permeated not just their bodies, but their entire existence."
+      },
+      {
+        "word": "barbaric",
+        "type": "adjective",
+        "definition": "savagely cruel; exceedingly brutal.",
+        "sentence": "Cruelly exploited sanitation workers are compelled to clean faecal matter under barbaric and inhumane conditions."
+      },
+      {
+        "word": "cognizable",
+        "type": "adjective",
+        "definition": "within the jurisdiction of a court; capable of being taken notice of or tried by a court.",
+        "sentence": "Any order to enter a sewage gutter for cleaning could be declared a cognizable offence."
+      },
+      {
+        "word": "exemplify",
+        "type": "verb",
+        "definition": "be a typical example of; show or illustrate by example.",
+        "sentence": "If the families of other victims could be compensated, why can the state not exemplify the same generosity for its non-Muslim citizens?"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was a key aspect of the Bombay High Court's landmark judgment regarding deceased sanitation workers?",
+        "options": [
+          "A) It declared that private contractors are solely responsible for compensation.",
+          "B) It placed the compensation obligation on government entities, even if a private contractor was involved.",
+          "C) It mandated the immediate mechanization of all sewage cleaning operations.",
+          "D) It set the compensation value at Rs10 million per deceased worker."
+        ],
+        "answerIndex": 1,
+        "explanation": "The Bombay High Court's ruling explicitly placed the compensation obligation on government entities or the state, not solely private employers, and set the value at Rs30 lakhs, thus protecting vulnerable families."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What systemic issues does the article highlight regarding the deaths of sanitation workers in Pakistan?",
+        "back": "It highlights the cruel exploitation of vulnerable, often non-Muslim, privately contracted workers, coupled with systemic state negligence, lack of accountability, and absence of compensation or FIRs for these deaths."
+      },
+      {
+        "front": "How does the 2026 Bombay High Court judgment offer a model for Pakistan to address sanitation worker deaths?",
+        "back": "The judgment makes government entities, not just private contractors, primarily liable for compensating deceased sanitation workers' families, establishing a substantial compensation value (Rs30 lakhs) and protecting vulnerable families."
+      },
+      {
+        "front": "What specific legislative and judicial measures does the author propose to end manual sewage cleaning and ensure justice in Pakistan?",
+        "back": "The author proposes urgently passing a law prohibiting manual entry into sewage systems, making violations a cognizable offense with direct legal responsibility for organization heads, initiating judicial inquiries into past deaths, and registering FIRs against responsible parties."
+      },
+      {
+        "front": "What uncomfortable paradox related to governance and minority rights does the article point out in Pakistan's context?",
+        "back": "The article questions why government departments, paid billions, rely on privately contracted, non-Muslim sanitation workers who die, while highly paid managing directors in dysfunctional state corporations evade accountability for these deaths."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791429365485-87",
+    "title": "Talking about the exchange rate\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035606/talking-about-the-exchange-rate",
+    "date": "2026-10-08",
+    "author": "none@none.com (Khurram Husain)",
+    "content": "THERE is an enduring consensus in Pakistan that the exchange rate should not be allowed to move by much as a matter of routine, and that determining its level is a matter of discretion for the state. In some areas we call this “Dar-o-nomics”, after Ishaq Dar, whose name came to be attached to exchange rate policy not because he invented it, but because he has been its most important and visible advocate. Otherwise this thinking dates back to Ghulam Ishaq Khan, who was of the mind that the state should liberalise the economy in such a way that it does not lose its commanding position as the arbiter of all economic outcomes. From deciding the exchange rate, to deciding who gets to make how much profit and what should be the normal indexed rate of return on private capital in the economy, GIK wanted a model of liberalisation that kept all these decisions firmly in the hands of the government.\nNowhere is this thinking more clearly stated, and perhaps to more devastating effect, than around how it treats the question of the exchange rate. Over the years many have given voice to this thinking in different ways, and their arguments cluster around three basic assertions. One, devaluations lead to a hike in the rupee-denominated debt service burden. Two, devaluations do nothing to boost exports, they only provide a short-lived impetus that is quickly frittered away as costs of imported inputs rise accordingly, and exporters are forced to pass the price benefit on to their buyers. Three, devaluation causes inflation that burdens the poor disproportionately.\nNone of these assertions is wrong. What is wrong, however, is deploying them in defence of a fixed exchange rate. What all those who have used these assertions over the years have failed to do is actually study Pakistan’s own episodes of exchange rate devaluation. Were they to do that, they would realise that devaluations in our own history have nothing to do with restoring export competitiveness or anything quite so grand. In truth, devaluations are forced upon us because the supply of dollars relative to the supply of rupees in the economy shrinks to a point where a mass stampede breaks out with everyone rushing for the exits. Devaluations have to be undertaken to reflect the new reality of supply and demand of FX liquidity, and to halt the stampede. That’s all.\nTo all those who want to talk about the exchange rate, I ask them to study three episodes from Pakistan’s own history when devaluations happened. The first was in 2007 and ran till late 2008. The second began in late 2017 and ran till 2019. The third episode began in the middle of 2021 and ran till the middle of 2023. These three cycles teach us everything we need to know about exchange rate management.\nDevaluations in our own history have nothing to do with restoring export competitiveness or anything quite so grand.\nEach episode happened when Pakistan’s foreign exchange reserves were depleting fast in the face of skyrocketing import and debt service bills. In each episode the government chose to first hold the ground and finance the outflows using borrowed money. In each episode they hit a point where further financing was insufficient to meet the pace of the reserve erosion. And in each episode the government hit a point where they had no choice but to reprice the dollar to reflect the new reality of its supply versus demand.\nIn short, in each episode the government chose to drive blindly towards a cliff. So the question to ask is what they were telling themselves along the way. The pattern is the same every time. Reserves peak, the government of the day boasts about having built “record high reserves”, and then the trade deficit begins to swell. For a few months remittances cover the trade deficit so there is no urgency to act. Then the current account swings into deficit and remains there, and then the deficits begin to grow. The government borrows to replenish the reserves. The borrowing hits a limit, the current account deficit marches along, and reserve depletion accelerates.\nWhat are they telling themselves during these times, when the pressure is mounting but has not yet reached catastrophic proportions? It has been my unpleasant duty to have covered all three of these cycles over the past two decades, and I can confirm that in each episode they tell themselves the same thing. First, that the current account deficits are temporary, or driven by one-off factors. When the reserve erosion begins to trigger a flight into the dollars, they argue that administrative measures are required to stem the outflows and bring stability back. When they are advised to reprice the dollar before things get out of hand, they respond that exchange rate adjustments do nothing to increase exports, while they produce harm for the country in the form of higher debt service bills and inflation.\nEventually they all succumb. They succumb for the simple reason that you cannot endlessly spend money that is not yours to spend. And when they succumb, they grumble and complain. But they never derive any lessons from what they have just lived through, and what they have just seen happen in front of their eyes.\nWhat is it they say about those who fail to learn from their own history? They are doomed to repeat it. This is why we have been through this cycle three times already. And yet, today, one more time, we can see people in positions of power, once again, start to repeat the same old nonsense all over again. Once again people who have no idea of what Pakistan’s experience with the exchange rate has been are trying to build arguments on how to manage it. And once again, they are trotting out the same tired old tropes, thus setting the stage for round four of this unhappy roller coaster for yet one more ride.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, October 8th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Pakistan Affairs",
+    "topic": "Exchange Rate Management, Balance of Payments Crisis, and Economic Policy in Pakistan",
+    "whyMatters": "This article offers a critical historical perspective on Pakistan's recurring Balance of Payments crises, directly addressing the core causes of foreign exchange pressure. It provides a nuanced counter-argument to traditional views on devaluation, essential for a high-scoring analytical response to the exam question.",
+    "summary": [
+      "Pakistan has an 'enduring consensus' for a fixed exchange rate, with the state exercising discretion over its level, a policy often linked to 'Dar-o-nomics' but dating back to Ghulam Ishaq Khan.",
+      "Common arguments against devaluation assert it increases rupee-denominated debt, fails to boost exports (due to rising import costs), and causes disproportionate inflation for the poor.",
+      "The author contends that while these assertions are not entirely wrong, they are misapplied; devaluations in Pakistan are historically forced by a critical shortage of foreign exchange liquidity, not strategic economic competitiveness.",
+      "Pakistan repeatedly follows a pattern across three historical episodes: governments delay necessary exchange rate adjustments, borrow heavily to cover outflows, and are eventually compelled to devalue, yet consistently fail to learn from these cyclical crises."
+    ],
+    "facts": [
+      "The article identifies three major devaluation episodes in Pakistan's history: 2007-2008, 2017-2019, and 2021-2023.",
+      "The term 'Dar-o-nomics' is used to describe the policy of state discretion over the exchange rate, tracing its intellectual roots to Ghulam Ishaq Khan.",
+      "Key assertions against devaluation: increased rupee-denominated debt service, no lasting export boost, and inflation burdening the poor."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (various years): Provides official data and policy context on balance of payments, exchange rates, and foreign exchange reserves.",
+      "IMF Stand-by Arrangement (SBA) / Extended Fund Facility (EFF) documents for Pakistan: Detail conditionalities and policy reforms agreed during periods of BoP crises, often involving exchange rate flexibility.",
+      "Works by Dr. Ishrat Husain (e.g., 'Governing the Ungovernable'): Offer in-depth analysis of Pakistan's economic challenges, including balance of payments and structural issues."
+    ],
+    "vocabulary": [
+      {
+        "word": "Enduring",
+        "type": "adjective",
+        "definition": "Lasting over a long period; persistent.",
+        "sentence": "There is an enduring consensus in Pakistan that the exchange rate should not be allowed to move by much."
+      },
+      {
+        "word": "Discretion",
+        "type": "noun",
+        "definition": "The freedom to decide what should be done in a particular situation.",
+        "sentence": "Determining its level is a matter of discretion for the state."
+      },
+      {
+        "word": "Frittered",
+        "type": "verb",
+        "definition": "Wasted (money, time, or energy) on unimportant things.",
+        "sentence": "The impetus is quickly frittered away as costs of imported inputs rise accordingly."
+      },
+      {
+        "word": "Succumb",
+        "type": "verb",
+        "definition": "Fail to resist pressure, temptation, or some other negative force.",
+        "sentence": "Eventually they all succumb, for the simple reason that you cannot endlessly spend money that is not yours to spend."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the author, what is the primary, underlying cause of devaluations in Pakistan's history?",
+        "options": [
+          "To deliberately boost export competitiveness.",
+          "To reduce the government's foreign debt burden.",
+          "As a forced consequence of a severe shortage of foreign exchange liquidity.",
+          "To align with global economic policy recommendations."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that devaluations 'are forced upon us because the supply of dollars relative to the supply of rupees in the economy shrinks... to reflect the new reality of supply and demand of FX liquidity.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the historical 'consensus' in Pakistan regarding the exchange rate, as described in the article?",
+        "back": "The consensus is that the exchange rate should not be allowed to move much, and its level should be determined by state discretion, a policy termed 'Dar-o-nomics' with roots in GIK's statist approach."
+      },
+      {
+        "front": "List the three main arguments commonly used against devaluation in Pakistan.",
+        "back": "The arguments are: devaluations lead to a hike in rupee-denominated debt service, do not boost exports effectively (due to rising input costs), and cause inflation that disproportionately burdens the poor."
+      },
+      {
+        "front": "How does the author characterize the true purpose of devaluations in Pakistan's history, contrary to popular belief?",
+        "back": "The author argues devaluations are not for restoring export competitiveness but are forced measures to reflect the new reality of foreign exchange supply and demand, halting a 'mass stampede' for dollars due to liquidity shortages."
+      },
+      {
+        "front": "Describe the cyclical pattern of government behavior during impending foreign exchange crises.",
+        "back": "Governments typically boast about high reserves, ignore growing trade/current account deficits, borrow to finance outflows until limits are reached, resist exchange rate adjustments, and are eventually forced to devalue without learning from the past."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791429887932-612",
+    "title": "LIGO, not Lego\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035605/ligo-not-lego",
+    "date": "2026-10-08",
+    "author": "none@none.com (F.S. Aijazuddin)",
+    "content": "WE Pakistanis excel individually, but abroad. We fail collectively, at home. Our role models are either dead or live in self-exile.\nThe best among the best must be our first Nobel Laureate — Dr Abdus Salam. The son of a schoolteacher in Maghiana, a hamlet in Jhang district (Punjab), he won a scholarship to Government College, Lahore, at the precocious age of 14. He studied locally for another two years until he passed his FA exams, with unbeatably high marks.\nHis academic trajectory took him to Cambridge University and then into a higher empyrean when, in 1979, he won the Nobel Prize in physics. He placed its gold medal around the neck of his former teacher Anilendra Ganguly, the man who had inspired him to study mathematics. Dr Salam died in 1996, disillusioned and disappointed, a modern Socrates poisoned by the prejudice of his compatriots.\nOther Pakistanis who have excelled are Dr Azra Raza, the famous Karachi-born oncologist who has made impressive strides in cancer research; Dr Salima Ikram, a leading Pakistan-born Egyptologist; and Dr Nergis Mavalvala, the renowned astrophysicist and currently dean, MIT’s School of Science.\nGreat minds testify to the capacity of the human brain.\nDr Azra Raza has done for cancer research and Urdu poetry what Marie Curie did for radium and radioactivity. To hear Dr Raza speak on her work, which she does but not often enough in Pakistan, is to learn how cancer can be arrested, often at source.\nHad Dr Azra been born 5,000 years ago in ancient Egypt, she might have made the pharaohs concentrate more on preserving life rather than preparing vainly for an afterlife. Dr Salima Ikram’s studies in Egyptology deepen the digs into a civilisation that paralleled our own Indus Valley civilisation — but without the unguents, the rituals and the gilded funerary objects.\nIf 5,000 years into the past is a long time, Dr Nergis Mavalvala’s work takes us billions of light years away, into galaxies beyond ours. She was inspired by Einstein’s 1915 general theory of relativity, which described “space and time as something that can stretch and compress, rather than a fixed stage”. Einstein believed that “a violent enough event should send a disturbance rippling outward through space and time themselves”. He left it to future generations to measure those ripples, known as gravitational waves.\nDr Nergis, her mentor Dr Rainer Weiss (who won the Nobel Prize for physics in 2017) and their team pioneered the study of gravitational waves through the Laser Interferometer Gravitational-Wave Observatory (LIGO) project. On Sept 14, 2015, LIGO scientists detected a signal that emanated from the collision and merger of two black holes, each about 30 times the mass of our sun. The signal came from 1.3 billion light years away. It lasted only a fraction of a second but was recordable.\nSuddenly, man no longer needed a telescope to see the universe through light waves. These can suffer distortion. Purer gravitational waves captured on ultra-sophisticated equipment could be heard.\nSubsequent improvements in LIGO’s instruments enabled scientists to announce last year that, after detecting over 300 such black hole mergers, they could confirm Einstein’s predictions and Dr Stephen Hawking’s theorem regarding black holes.\nDr Nergis, like all great minds, has the ability to compress complicated concepts into assimilable ideas. Many of her brilliantly simplified presentations are available at the click of a button on YouTube. Audiences in Karachi and Lahore were privileged to hear her in person recently. She spoke to them from an intellectual height, which is where their heads should have been.\nMinds like hers which can comprehend infinite galaxies, billions of light years, millennia of history, or, like Mao Zedong, foresee centuries into the future, testify to the limitless capacity of the human brain.\nEdgar Snow, in his Red Star over China, recalls Mao and his wife watching a moth give its life to a candle. Charmed by its win­­gs, “shaded a delicate apple-green frin­ged in a soft rainbow of saffron and rose”, Mao presses the lifeless gossamer of colour into a book. And, after the gruelling Long March, Mao composes a poem which ends: And then, the last pass vanquished, Three Armies smiled. Snow asks whether such people can be thinking seriously of war?\nOne is reminded of A.B. Vajpayee’s poem that he recited in Lahore: Hum jang na honay deynge, khoon ka rang na honay deynge. [We will not allow war, nor let its blood colour us.]\nA human brain weighs 1.4kg, consists primarily (60pc) of fat, and contains 100 billion neurons. Imagine the waste, if the folly of one unthinking mind trumpeting war, pressed a button and annihilated our entire past, all our present, and the limitless possibilities inherent in our future.\nThe writer is an author.\nwww.fsaijazuddin.pk\nPublished in Dawn, October 8th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Current Affairs / General Science & Ability",
+    "topic": "Prominent Pakistani Scientists & Scientific Breakthroughs (LIGO)",
+    "whyMatters": "This article provides excellent examples of individual Pakistani excellence in global science, offering inspirational figures and a critical lens on societal issues. It also introduces advanced scientific concepts like gravitational waves and the LIGO project, highly relevant for General Science sections.",
+    "summary": [
+      "Pakistanis often achieve individual excellence abroad, exemplified by Nobel Laureate Dr. Abdus Salam, but the author laments collective failure and societal prejudice at home.",
+      "The article highlights other distinguished Pakistani-origin scientists, including Dr. Azra Raza (cancer research), Dr. Salima Ikram (Egyptology), and Dr. Nergis Mavalvala (astrophysics).",
+      "Dr. Nergis Mavalvala's pioneering work with the Laser Interferometer Gravitational-Wave Observatory (LIGO) led to the first detection of gravitational waves, confirming Einstein's general theory of relativity and enabling a new way to observe the universe.",
+      "The author concludes by emphasizing the immense potential and limitless capacity of the human brain for discovery, contrasting it with the destructive folly of war and its potential to annihilate all progress."
+    ],
+    "facts": [
+      "Dr. Abdus Salam won the Nobel Prize in Physics in 1979 for his contributions to the electroweak unification.",
+      "LIGO scientists first detected gravitational waves on September 14, 2015, emanating from the collision of two black holes approximately 1.3 billion light-years away.",
+      "The human brain weighs about 1.4 kg, is primarily composed of 60% fat, and contains an estimated 100 billion neurons."
+    ],
+    "academicReferences": [
+      "The Quest for Unity: The Life and Work of Abdus Salam (Biography)",
+      "LIGO Scientific Collaboration and Virgo Collaboration Publications (Primary research on gravitational waves)",
+      "Einstein's General Theory of Relativity (Foundational scientific principle)"
+    ],
+    "vocabulary": [
+      {
+        "word": "precocious",
+        "type": "adjective",
+        "definition": "Having developed certain abilities or proclivities at an earlier age than usual.",
+        "sentence": "Dr. Abdus Salam showed a precocious intellect, winning a scholarship to Government College, Lahore, at the age of 14."
+      },
+      {
+        "word": "empyrean",
+        "type": "noun",
+        "definition": "The highest heaven, in ancient cosmology, conceived as the realm of pure fire or light.",
+        "sentence": "His academic trajectory took him to Cambridge University and then into a higher empyrean when he won the Nobel Prize."
+      },
+      {
+        "word": "unguent",
+        "type": "noun",
+        "definition": "An ointment or salve, typically used to heal or relieve.",
+        "sentence": "Dr. Salima Ikram’s studies in Egyptology delve into a civilisation without the unguents, rituals, and gilded funerary objects of Ancient Egypt."
+      },
+      {
+        "word": "assimilable",
+        "type": "adjective",
+        "definition": "Able to be assimilated or absorbed; digestible.",
+        "sentence": "Dr. Nergis, like all great minds, has the ability to compress complicated concepts into assimilable ideas."
+      },
+      {
+        "word": "gossamer",
+        "type": "noun",
+        "definition": "A fine, filmy substance, consisting of threads of cobweb spun by spiders, or something light, thin, and delicate.",
+        "sentence": "Mao pressed the lifeless gossamer of the moth's wings, 'shaded a delicate apple-green fringed in a soft rainbow of saffron and rose,' into a book."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "When did LIGO scientists first detect gravitational waves from the collision and merger of two black holes?",
+        "options": [
+          "September 14, 2015",
+          "October 8, 2017",
+          "January 1, 2013",
+          "December 25, 2016"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states: 'On Sept 14, 2015, LIGO scientists detected a signal that emanated from the collision and merger of two black holes.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What societal paradox does the author highlight regarding Pakistani talent, using Dr. Abdus Salam as an example?",
+        "back": "The author highlights that Pakistanis excel individually abroad, like Dr. Abdus Salam, but collectively fail at home and often face prejudice from compatriots, leading to disillusionment."
+      },
+      {
+        "front": "What was the groundbreaking scientific achievement of Dr. Nergis Mavalvala's team through the LIGO project, and what theory did it confirm?",
+        "back": "Dr. Mavalvala's team, via LIGO, detected gravitational waves from colliding black holes, confirming Einstein's 1915 general theory of relativity."
+      },
+      {
+        "front": "How did the detection of gravitational waves revolutionize the way scientists observe the universe, as described in the article?",
+        "back": "It allowed scientists to 'hear' the universe through purer gravitational waves, overcoming distortions suffered by light waves and providing a new, auditory means of cosmic observation."
+      },
+      {
+        "front": "What is the author's final warning or commentary on the immense capacity of the human brain?",
+        "back": "The author warns against the waste of the human brain's limitless capacity if 'unthinking minds trumpeting war' were to annihilate all past, present, and future possibilities."
+      }
+    ]
+  },
+  {
     "id": "curated-1791342400749-435",
     "title": "Dual citizen? Debarred\n",
     "source": "Dawn",
@@ -1559,6 +1942,95 @@
       {
         "front": "What does the article identify as the 'real story' three years after Oct 7, 2023, despite the continued suffering of Palestinians?",
         "back": "The 'real story' is that the narrative of the conflict is no longer Israel's alone to tell. This signifies a fundamental shift in its assumed credibility and control over the global understanding of events, even if it hasn't yet led to an end to the occupation or immediate relief for Palestinians."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791429450357-785",
+    "title": "Mao’s legacy\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2034651/maos-legacy",
+    "date": "2026-10-04",
+    "author": "none@none.com (Muhammad Ali Siddiqi)",
+    "content": "LAST month, China marked Mao Zedong’s 50th death anniversary. He died on Sept 9, 1976. There is no limit to biographies on him, but one of the most authentic in English — Mao, the People’s Emperor — is by Dick Wilson. As the book rightly claims, Mao was “the most brilliant, the most controversial figure of this [20th] century, and the most enigmatic”.\nThe ‘ease’ in writing about Mao is the abundance of information about him at every stage of his life. He wanted to go to school, but his martinet father wanted help with farm work. One day, he turned up at a school, but the security guard didn’t let him in because of Mao’s age and grown-up physique. Mao nevertheless made his way in, even though most students were bewildered by his presence amongst them.\nOne key factor in Mao’s personal life was tragedy, which included the murder of his family members. Among them was his 29-year-old second wife,Yang Kaihui, the mother of their sons Anying, Anqing and Anlong. She was a member of the Chinese Communist Party and faced a firing squad.\nA brother, Mao Zemin, was tortured and executed. His youngest brother, Mao Zetan, was a talented man. He didn’t go on the Long March, and, instead, chose to organise guerrilla warfare against the government headed by Chiang Kai-shek. He fell while fighting. Also captured and killed was Mao Zejian, Mao’s adopted sister. Similarly, Mao Chuxiong, the son of Mao Zetan, was murdered and buried secretly.\nA lot of Mao’s peculiarities deserve to be noted.\nOther than what scholars write about one of the modern era’s great men, a lot of peculiarities about Mao deserve to be noted. For instance, during the historic Long March, he ordered that a word should be displayed or scrawled on the back of everyone, so that the person following him should learn it. It was his way of emphasising the importance of literacy.\nThe Long March was truly a long march across 10,000 kilometres of plains, mountains and rivers. Those taking part consisted of three armies avoiding a clash with Chiang’s forces. It took them one year (1934-35) to reach Yanan in north-western China. The march began with around nearly 86,000 people, but less than 10,000 reached Yanan; the rest dying from hunger, illness, and exhaustion.\nAmong the prominent people in the Long March were Zhou Enlai, who later became China’s foreign minister and premier, and Zhu De, who was among the founders of the Red Army and helped overthrow China’s last imperial government.\nSome 13 years after reaching Yanan, Mao Zedong felt strong enough to take Beijing, where he officially announced the formation of the People’s Republic of China (PRC) on Oct 1, 1949. He had entered Beijing on Jan 31, 1949 triumphantly and peacefully, because the Kuomintang’s (KMT) commanding officer, Gen Fu Zuoyi, had agreed to lay down arms. Thus, China’s capital city fell peacefully to Mao after a war that had killed an estimated 4.9 million people.\nAs the virtual emperor of the world’s greatest country population-wise, Mao was keen to meet another ‘emperor’, who was the head of state of the globe’s biggest country territorially — Joseph Stalin.\nDetails of their first meeting in Moscow on Dec 16, 1949, show a lack of warmth and hospitality on Stalin’s part. The Chinese guests were made to stay at places that were beneath the dignity of a delegation led by a head of state. Also, Stalin never invited them over to lunch or dinner and confined his hospitality to snacks. Many scholars, however, present an altogether different view and say Stalin couldn’t be so crude and undiplomatic. But the issue was more than diplomatic etiquette. What was bothering Stalin were lar­ger geopolitical issues, for he didn’t feel hap­py about having a powerful neighbour in Rus­sia’s east, while he faced America and Nato in the west.\nMao was intelligent enough to realise that a delay in conquering the southern part of the country could create complications and encourage non-communist forces to join Chiang’s army. He lost no time, rejected a peace offer, and ordered the Red Army to cross the Yangtze River and capture Nanjing, the KMT capital. Shanghai, the economic hub, fell next. Guangzhou (Canton) followed. A spectacular achievement was the capture of Hainan, an island, by an amphibious invasion wiping out KMT rule from the Chinese mainland. Chiang Kai-shek then fled to Taiwan.\nPakistan is lucky to have China as a neighbour and friend. During my visits to China, I found how the Chinese people remember that it was Pakistan that had brought the US and China together and that president Richard Nixon and Chairman Mao had their historic meeting on Feb 21, 1972, at Mao’s home in Beijing owing to Pakistan’s efforts. \nThe writer is Dawn’s External Ombudsman and an author.\nPublished in Dawn, October 4th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "World Affairs / International Relations / History",
+    "topic": "Mao Zedong's Legacy and the Founding of Modern China",
+    "whyMatters": "The article provides crucial historical context on the formative years of the People's Republic of China and the complex personality of its founder. Understanding Mao's life and the events leading to China's establishment is essential for comprehending contemporary Chinese foreign policy and its historical ties, such as with Pakistan.",
+    "summary": [
+      "Mao Zedong was a highly complex and controversial figure whose personal life was marked by significant tragedies and loss of family members.",
+      "The Long March was a pivotal, arduous event spanning 10,000 kilometers, demonstrating Mao's early leadership and his commitment to literacy.",
+      "Mao successfully established the People's Republic of China on October 1, 1949, after consolidating control over the Chinese mainland following years of civil war.",
+      "Early PRC foreign relations were characterized by challenges, such as a cold reception from Stalin due to geopolitical concerns, and later by key diplomatic successes, including the US-China rapprochement facilitated by Pakistan."
+    ],
+    "facts": [
+      "Mao Zedong died on September 9, 1976, marking his 50th death anniversary as of the article's context.",
+      "The Long March (1934-1935) covered 10,000 kilometers over one year, with participant numbers dwindling from approximately 86,000 to less than 10,000.",
+      "The People's Republic of China (PRC) was officially announced on October 1, 1949, following Beijing's peaceful fall to Mao's forces on January 31, 1949."
+    ],
+    "academicReferences": [
+      "\"Mao, the People’s Emperor\" by Dick Wilson (A primary biographical source mentioned in the article)",
+      "\"The Cambridge History of China, Vol. 14: The People's Republic, Part 1: The Emergence of Revolutionary China, 1949-1965\" (Comprehensive historical reference)",
+      "\"The Sino-Soviet Alliance, 1949–1959\" by Odd Arne Westad (Relevant for understanding early PRC-Soviet relations)",
+      "The Shanghai Communiqué (1972) (A key diplomatic document related to the US-China rapprochement mentioned in the article)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Martinet",
+        "type": "noun",
+        "definition": "a strict disciplinarian, especially in the armed forces.",
+        "sentence": "Mao's martinet father wanted him to help with farm work instead of pursuing education."
+      },
+      {
+        "word": "Enigmatic",
+        "type": "adjective",
+        "definition": "difficult to interpret or understand; mysterious.",
+        "sentence": "Mao was described as the most brilliant, controversial, and enigmatic figure of the 20th century."
+      },
+      {
+        "word": "Peculiarities",
+        "type": "noun",
+        "definition": "an odd or unusual feature or habit.",
+        "sentence": "A lot of Mao’s peculiarities, such as his unique approach to promoting literacy during the Long March, are notable."
+      },
+      {
+        "word": "Amphibious",
+        "type": "adjective",
+        "definition": "relating to or capable of operating on both land and water.",
+        "sentence": "The capture of Hainan island was a spectacular achievement, accomplished through an amphibious invasion."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following historical events associated with Mao Zedong involved a journey of approximately 10,000 kilometers?",
+        "options": [
+          "The establishment of the People's Republic of China",
+          "The Long March",
+          "The first meeting with Joseph Stalin",
+          "The capture of Nanjing"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Long March was described as a truly long march across 10,000 kilometers of plains, mountains, and rivers over one year (1934-35)."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was a significant personal tragedy Mao Zedong faced, as detailed in the article?",
+        "back": "Mao faced numerous personal tragedies, including the murder of his second wife, Yang Kaihui, and the execution of his brothers, Mao Zemin and Mao Zetan, and adopted sister, Mao Zejian."
+      },
+      {
+        "front": "According to the article, what geopolitical concern influenced Joseph Stalin's unhospitable reception of Mao Zedong?",
+        "back": "Stalin was concerned about having a powerful neighbor in Russia's east, especially while simultaneously facing America and NATO in the west, leading to a lack of warmth during their meeting."
+      },
+      {
+        "front": "What was one innovative method Mao Zedong used to promote literacy during the Long March?",
+        "back": "He ordered that a word should be displayed or scrawled on the back of each person, so that the person following would learn it, emphasizing the importance of literacy."
+      },
+      {
+        "front": "How did the city of Beijing fall to Mao's forces in 1949, according to the article?",
+        "back": "Beijing fell triumphantly and peacefully on January 31, 1949, because the Kuomintang's commanding officer, Gen Fu Zuoyi, agreed to lay down arms."
       }
     ]
   },
@@ -10141,492 +10613,6 @@
       {
         "front": "How does the article suggest that greater accountability in the justice system could lead to cultural change regarding women and girls?",
         "back": "When relevant institutions take responsibility and the conviction of perpetrators becomes a priority, women and girls might no longer be seen as worthless, expendable, or lesser citizens."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790043136709-255",
-    "title": "Court vs court\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030804/court-vs-court",
-    "date": "2026-09-18",
-    "author": "none@none.com (Editorial)",
-    "content": "A SUPREME Court order directing the hospitalisation of former prime minister Imran Khan for medical tests and treatment has now turned into a much bigger crisis than anyone anticipated.\nAfter the court’s original order was disregarded by the government, like so many others before it, the matter landed before the Federal Constitutional Court via a separate case filed by three other Adiala inmates seeking similar treatment. The FCC has since taken control of the Imran Khan hospitalisation case as well, much to the SC’s chagrin.\nTo observers, the FCC’s move directly challenges a May ruling issued by Chief Justice of Pakistan Yahya Afridi, in which he had described the SC and FCC as “coordinate courts exercising clearly demarcated jurisdictions over distinct matters”. However, the current dispute underlines a clear jurisdictional collision between the two courts, which still seem rather uncertain regarding what each is supposed to be doing since the 27th Amendment.\n    \nAt the heart of the crisis is the 27th Amendment, which had substantially rearranged constitutional jurisdiction by creating a completely new judicial forum, the FCC, and placing major constitutional questions and fundamental rights matters within its domain. The FCC invoked that same jurisdiction days ago to summon the complete records of cases concerning Mr Khan’s hospital transfer from the SC, indicating that it intended to frame the matter as a question of determining whether prisoners are constitutionally entitled to such treatment.\nHowever, it then went a step further and also fixed the case before itself. To its credit, the SC has responded with restraint. The three-member bench hearing the case merely remarked that the FCC’s order had raised “considerable legal and constitutional significance” and then adjourned for three weeks while seeking comment from the attorney general over whether the FCC’s order was, indeed, binding on the SC. Mr Khan’s hospitalisation, of course, seems moot at this point.\n    \nPerhaps matters were bound to arrive at this juncture thanks to the undue haste with which the 27th Amendment was foisted upon the nation. It appears that its text never settled the matter of what happens when a constitutional question arises in an ongoing SC case, especially when such a case pertains to the Code of Criminal Procedure and the Contempt of Court Ordinance, which are very much within the SC’s remit.\nIt is even more remarkable that a crisis of this nature has erupted at the highest level of the judiciary over what was otherwise a rather straightforward order to transfer an ailing prisoner to a hospital and get them the treatment required. It is certainly not a good look for the current dispensation that the fragility of the architecture that props it up keeps being exposed, and over matters that ought to be minor in perspective.\nPublished in Dawn, September 18th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2017-JUD",
-      "paper": "Pakistan Affairs",
-      "year": 2017,
-      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
-    },
-    "suitable": true,
-    "relevanceScore": 78,
-    "paper": "Pakistan Affairs",
-    "topic": "Judiciary's Role in Constitutional Development and Jurisdictional Conflicts in Pakistan",
-    "whyMatters": "This article provides a contemporary case study of the judiciary's evolving role post-27th Amendment, directly illustrating how constitutional developments lead to jurisdictional challenges. Students can use this specific example to demonstrate an in-depth understanding of the complexities of judicial architecture and constitutional interpretation in Pakistan.",
-    "summary": [
-      "A significant jurisdictional dispute has erupted between the Supreme Court (SC) and the newly formed Federal Constitutional Court (FCC) over the hospitalisation of a former prime minister.",
-      "The core of the crisis lies in the 27th Amendment, which created the FCC and assigned it jurisdiction over major constitutional questions and fundamental rights matters.",
-      "The article highlights a clear jurisdictional collision, suggesting that the 27th Amendment, introduced with \"undue haste,\" left ambiguities regarding overlapping powers, especially when constitutional questions arise in ongoing SC cases.",
-      "This high-level judicial crisis, stemming from a seemingly minor issue, exposes the fragility of Pakistan's constitutional architecture and the challenges in clearly demarcating judicial roles."
-    ],
-    "facts": [
-      "The dispute involves the Supreme Court (SC) and the Federal Constitutional Court (FCC).",
-      "The crisis is explicitly rooted in the 27th Amendment to the Constitution.",
-      "Chief Justice of Pakistan Yahya Afridi had previously described the SC and FCC as \"coordinate courts exercising clearly demarcated jurisdictions.\""
-    ],
-    "academicReferences": [
-      "The Constitution of the Islamic Republic of Pakistan (specifically referencing the 27th Amendment)",
-      "Chief Justice of Pakistan Yahya Afridi's May ruling regarding SC and FCC as 'coordinate courts'",
-      "Code of Criminal Procedure and Contempt of Court Ordinance (as legal frameworks within SC's traditional remit)"
-    ],
-    "vocabulary": [
-      {
-        "word": "chagrin",
-        "type": "noun",
-        "definition": "distress or embarrassment at having failed or been humiliated",
-        "sentence": "The Supreme Court's chagrin over the FCC's intervention was evident as its authority appeared to be undermined."
-      },
-      {
-        "word": "demarcated",
-        "type": "verb",
-        "definition": "set the boundaries or limits of something",
-        "sentence": "The 27th Amendment failed to clearly demarcate the jurisdictions of the SC and FCC, leading to the current crisis."
-      },
-      {
-        "word": "foisted",
-        "type": "verb",
-        "definition": "impose an unwelcome or unnecessary person or thing on someone",
-        "sentence": "The article suggests the 27th Amendment was foisted upon the nation with undue haste, leading to unresolved jurisdictional ambiguities."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary constitutional development highlighted as the root cause of the jurisdictional crisis between the SC and FCC?",
-        "options": [
-          "The 27th Amendment to the Constitution",
-          "A ruling by Chief Justice of Pakistan Yahya Afridi",
-          "The government's disregard for court orders",
-          "The Code of Criminal Procedure"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'At the heart of the crisis is the 27th Amendment, which had substantially rearranged constitutional jurisdiction by creating a completely new judicial forum, the FCC.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the central jurisdictional conflict discussed in the article 'Court vs court'?",
-        "back": "The conflict is between the Supreme Court (SC) and the Federal Constitutional Court (FCC) over overlapping jurisdictions, specifically concerning a former prime minister's hospitalisation."
-      },
-      {
-        "front": "How did the 27th Amendment contribute to the current judicial crisis?",
-        "back": "The 27th Amendment created the FCC, placing major constitutional questions and fundamental rights within its domain, but failed to clearly settle jurisdictional boundaries when such questions arise in ongoing SC cases."
-      },
-      {
-        "front": "What was the Supreme Court's initial response to the FCC taking over the hospitalisation case?",
-        "back": "The SC responded with restraint, remarking that the FCC's order raised 'considerable legal and constitutional significance,' adjourning for three weeks, and seeking comments from the attorney general."
-      },
-      {
-        "front": "What does the article imply about the process of enacting the 27th Amendment?",
-        "back": "The article implies the 27th Amendment was enacted with 'undue haste,' leading to unresolved ambiguities and the current jurisdictional dispute at the highest levels of the judiciary."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789697274017-487",
-    "title": "Ties with UAE\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030555/ties-with-uae",
-    "date": "2026-09-17",
-    "author": "none@none.com (Dr Raashid Wali Janjua)",
-    "content": "PAKISTAN-UAE relations have stood the test of time despite geopolitical upheavals. The current souring of relations does not reflect the true potential of ties between the two countries. Bilateral ties are rooted in shared faith, cultural affinity, and enduring people-to-people bonds. Pakistan was among the first countries to recognise and establish diplomatic relations with the UAE after the country’s founding in 1971. Since then, ties have continued to expand.\nPakistan’s contribution to the UAE’s development remains an important glue that still binds the two states together. Pakistani military personnel, engineers, teachers, professionals and skilled workers have contributed to defence, aviation, education, and engineering. A 2.2 million-strong Pakistani diaspora remains an important pillar of the UAE economy, contributing $8 billion in remittances, while also providing demographic balance vis-à-vis 4.2m Indian expatriates. The UAE is Pakistan’s third-largest trading partner.\nThere is steady progress towards investment-led partnerships in logistics, technology, agriculture and food security. This is supported by the Pakistan-UAE Compre­hensive Economic Partnership Agreement, which is expected to raise trade volume to $16-20bn. Pakistan’s 240m consumer market, young, tech-savvy workforce, 2.3m freelancers, and 26,000 registered IT/ITeS companies offer significant opportunities for UAE investment in Pakistan’s IT parks, fintech, and e-commerce.\nPakistan’s defence ties with the UAE date back to 1974, when 115 Pakistani defence personnel laid the foundations of an enduring partnership by training Emirati pilots and military personnel, and establishing the Armour Training School. The extent of cooperation is evident in the fact that the first five chiefs of air staff of the UAE Air Force were Pakistan Air Force officers. Pakistan offers joint special forces training exercises for counterterrorism and co-production of defence hardware, on account of its advanced defence industry, along with prospects for future cooperation in AI, cyberspace, electronic warfare, and advanced defence systems.\nTies between Pakistan and the UAE have continued to expand.\nAgriculture and food security is another area of convergence due to Pakistan’s fertile land and the UAE’s demand for agricultural products. Pakistan’s climatic conditions, agricultural workforce and production capacity can contribute to UAE food security. Conversely, UAE capital, technology, and logistics can make Pakistan’s supply chains more resilient through cold-chain storage, marketing, and value addition.\nMinerals are another area of cooperation. Pakistan possesses immense mineral wealth. Already, Pakistan’s Mari Energies is collaborating with the UAE’s International Resource Holding to explore copper and gold reserves in Chagai, as well as opportunities in antimony, aluminium ore, and rare earth elements. A few UAE companies are also exploring the possibility of establishing an ore-refining industry in Punjab.\nGeopolitical challenges like the UAE’s joining of the Abraham Accords and its economic rivalry with Saudi Arabia have resulted in political cleavages that have widened during the Iran-US conflict. Israel’s expansionist policies have not helped; the UAE’s quest for regional peace has foundered on the rocks of Israeli militarism. The UAE’s policies in Somaliland, Algeria, Libya, Yemen and Sudan have often placed it in Saudi Arabia’s rival camp.\nIsrael and the UAE are increasingly collaborating in some fields, and India’s influence is also growing because of its close ties with the former. However, Pakistan understands each country’s choices and does not have a di­­rect cla­sh of interest with any of the I2U2 (India, Isra­­el, the USA, UAE) sta­tes. Pakistan wants to play the role of re­­gional stabiliser in West Asia through alliances like the Makkah defence alliance. Pakistan’s mediatory role in the Iran-US conflict has also created space for the UAE’s rapprochement with Iran.\nPakistan and the UAE face a common threat in transnational terrorism and organised crime. As a global trade and transshipment hub, the UAE faces direct threats from the narco-trade emanating from Afgha­nis­tan. Pakistan’s ports like Karachi, Port Qasim and Gwadar complement rather than compete with UAE ports, lessening their burden and relieving congestion in Hormuz.\nThe scope for counterterrorism cooperation is broad. The two can combine Pakistan’s CT intelligence experience with the UAE’s capabilities in financial monitoring, border and aviation security, cybersecurity, etc to disrupt threats. Pakistan and the UAE should take advantage of the full range of economic, defence and CT cooperation opportunities, since their common interests far outweigh any geopolitical differences.\nThe writer has a PhD from NUST.\nrwjanj@hotmail.com\nPublished in Dawn, September 17th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Current Affairs / International Relations",
-    "topic": "Pakistan-UAE Bilateral Relations: Dimensions and Prospects",
-    "whyMatters": "This article is highly relevant for general current affairs and international relations papers, providing a detailed overview of Pakistan's multifaceted relationship with the UAE. However, it does not address the specific past exam question on the Economic Cooperation Organization (ECO) or its future prospects for Pakistan, as it focuses exclusively on bilateral ties.",
-    "summary": [
-      "Pakistan-UAE relations are deep-rooted in shared faith, culture, and people-to-people bonds, despite recent geopolitical tensions and souring of relations.",
-      "Pakistan has significantly contributed to the UAE's development through its diaspora, military personnel, and professionals, fostering strong economic and defense partnerships.",
-      "Future cooperation areas are expanding to include investment-led partnerships in logistics, technology, agriculture, food security, and minerals, bolstered by a Comprehensive Economic Partnership Agreement aiming for $16-20 billion in trade.",
-      "Despite geopolitical challenges, common interests like counter-terrorism, combating organized crime, and complementary port systems provide a strong impetus for continued and enhanced cooperation."
-    ],
-    "facts": [
-      "A 2.2 million-strong Pakistani diaspora contributes $8 billion in remittances to the UAE economy.",
-      "The UAE is Pakistan's third-largest trading partner.",
-      "The Pakistan-UAE Comprehensive Economic Partnership Agreement (CEPA) is expected to raise trade volume to $16-20 billion."
-    ],
-    "academicReferences": [
-      "Financial Action Task Force (FATF) Guidelines on Counter-Terrorism Financing (relevant to CT cooperation)",
-      "Gulf Cooperation Council (GCC) Framework for Regional Economic Integration (provides context for UAE's regional role)",
-      "Pakistan's Vision 2025 (broader policy context for Pakistan's economic aspirations and investment attraction)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Geopolitical upheavals",
-        "type": "Noun phrase",
-        "definition": "Significant and often disruptive changes in the political and geographical landscape of the world or a region.",
-        "sentence": "The article states that Pakistan-UAE relations have stood the test of time despite geopolitical upheavals."
-      },
-      {
-        "word": "Rapprochement",
-        "type": "Noun",
-        "definition": "The establishment of harmonious relations; a reconciliation.",
-        "sentence": "Pakistan's mediatory role in the Iran-US conflict has created space for the UAE’s rapprochement with Iran."
-      },
-      {
-        "word": "Cleavages",
-        "type": "Noun",
-        "definition": "Divisions or sharp separations, often within a political or social group.",
-        "sentence": "Geopolitical challenges like the UAE’s joining of the Abraham Accords have resulted in political cleavages with Saudi Arabia."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary contribution of the Pakistani diaspora to the UAE economy mentioned in the article?",
-        "options": [
-          "Contributing $8 billion in remittances",
-          "Providing agricultural labor",
-          "Establishing IT companies",
-          "Developing defense hardware"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the 2.2 million-strong Pakistani diaspora contributes $8 billion in remittances to the UAE economy."
-      },
-      {
-        "question": "Which agreement is expected to significantly increase trade volume between Pakistan and the UAE?",
-        "options": [
-          "Free Trade Agreement",
-          "Bilateral Investment Treaty",
-          "Comprehensive Economic Partnership Agreement",
-          "Strategic Alliance Accord"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions the Pakistan-UAE Comprehensive Economic Partnership Agreement (CEPA) is expected to raise trade volume to $16-20 billion."
-      },
-      {
-        "question": "What common threat do Pakistan and the UAE face, as highlighted in the article?",
-        "options": [
-          "Climate change impacts",
-          "Transnational terrorism and organized crime",
-          "Regional economic recession",
-          "Border disputes"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that Pakistan and the UAE face a common threat in transnational terrorism and organised crime."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What historical contribution of Pakistan to the UAE is highlighted as an \"important glue\" binding the two states?",
-        "back": "Pakistan's contribution through military personnel, engineers, teachers, and skilled workers to the UAE's defense, aviation, education, and engineering sectors."
-      },
-      {
-        "front": "Name two emerging sectors where Pakistan offers significant investment opportunities for the UAE.",
-        "back": "IT parks, fintech, e-commerce, logistics, technology, agriculture, food security, and minerals."
-      },
-      {
-        "front": "How do Pakistan's ports (Karachi, Port Qasim, Gwadar) interact with UAE ports according to the article?",
-        "back": "They complement rather than compete with UAE ports, lessening their burden and relieving congestion in Hormuz."
-      },
-      {
-        "front": "What is one key geopolitical challenge that has created political cleavages between the UAE and Saudi Arabia?",
-        "back": "The UAE's joining of the Abraham Accords and its economic rivalry with Saudi Arabia, especially during the Iran-US conflict."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789697538051-774",
-    "title": "Managing the shock\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030554/managing-the-shock",
-    "date": "2026-09-17",
-    "author": "none@none.com (Editorial)",
-    "content": "THE energy shock Pakistan faces calls for immediate demand management. Houthi attacks on Saudi energy infrastructure and shipping have strained an already fragile supply chain by disrupting oil and gas flows through the Strait of Hormuz and the Red Sea.\nGlobal oil prices have been pushed to their highest level since May. A net energy importer, Pakistan has felt the impact directly: petrol has risen to Rs384.34 per litre and high-speed diesel to Rs415.83. Pain at the pump is pushing people to the edge. Moreover, higher global oil prices are feeding into the import bill, transport costs and inflation, adding further pressure on financially strained families.\nRLNG prices have also risen. The government says greater use of domestic energy sources has helped keep power plants running. Domestic resources accounted for 72pc of electricity generation in August. Without more domestic gas for power generation, we could have faced another hour of loadshedding and an additional Rs10.6bn in consumer tariffs. That may provide some respite but is not a reason for complacency.\n    \nEnergy conservation must start now. That does not mean shutting the country down. A nationwide lockdown would cost businesses working hours, deplete workers’ income, and hit daily-wage earners hard — a burden that an economy already struggling to generate growth and jobs cannot easily absorb. What the government should pursue, instead — at least for now — is targeted conservation: measures that cut avoidable consumption without halting productive activity. Schools could shorten operating days to ease transport and electricity demand. Government offices and private employers can be encouraged to work from home where practical. Markets, especially in major cities, could close earlier to cut late-night transport and commercial power use. Malls, offices and commercial buildings should face reasonable limits on unnecessary lighting and cooling.\nGovernment departments need to lead by example rather than leave conservation to households alone. Provinces must follow suit so that the effort is not fragmented. The prime minister’s fuel relief package for motorcycle and small car owners may cushion a small part of the population, but subsidies cannot fix a supply shock, and protecting fuel consumption through the budget only gets costlier as global prices climb. The priority now is to protect incomes and essential economic activity while cutting non-essential demand.\n    \nThe larger point is that Pakistan cannot keep meeting every external energy shock by either subsidising the cost or shutting down activity. Building domestic solar energy availability, grid efficiency, storage capacity and public transport is what actually reduces this vulnerability over time. Meanwhile, the choice is not between business as usual and a lockdown. There is a lot of room between the two. And the government needs to use it: conserve early, cut waste, keep the economy running.\nPublished in Dawn, September 17th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Economics / Pakistan Affairs",
-    "topic": "Energy Crisis Management & Economic Resilience",
-    "whyMatters": "This article provides a real-time analysis of Pakistan's economic vulnerabilities, particularly its energy dependency, and outlines immediate and long-term policy prescriptions. Aspirants can leverage its contemporary data and policy recommendations to demonstrate a nuanced understanding of national challenges and proposed solutions in essays and current affairs papers.",
-    "summary": [
-      "Pakistan is currently experiencing a severe energy shock driven by global supply chain disruptions (e.g., Houthi attacks) and rising oil/gas prices, leading to unprecedented domestic inflation and economic strain.",
-      "Immediate policy responses must focus on targeted demand management and energy conservation measures, such as adjusting school hours, promoting remote work, and early market closures, rather than implementing nationwide lockdowns or unsustainable subsidies.",
-      "The government and provincial administrations need to lead by example in conservation efforts to ensure widespread adoption and prevent a fragmented response.",
-      "Long-term solutions for reducing Pakistan's vulnerability to external energy shocks include significant investment in domestic solar energy infrastructure, improving grid efficiency, enhancing energy storage capacity, and developing robust public transport systems."
-    ],
-    "facts": [
-      "Petrol price has risen to Rs384.34 per litre.",
-      "High-speed diesel price has risen to Rs415.83 per litre.",
-      "Domestic resources accounted for 72% of electricity generation in August."
-    ],
-    "academicReferences": [
-      "International Monetary Fund (IMF) Country Reports on Pakistan (e.g., latest Staff Report for the current Extended Fund Facility)",
-      "Pakistan's National Electricity Policy 2021 (or the most recent overarching energy policy document)",
-      "International Energy Agency (IEA) Oil Market Reports (relevant for global oil price dynamics and forecasts)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Strained",
-        "type": "verb",
-        "definition": "To make great demands on (a person's strength or resources); to stretch tight.",
-        "sentence": "Houthi attacks on Saudi energy infrastructure have *strained* an already fragile supply chain."
-      },
-      {
-        "word": "Complacency",
-        "type": "noun",
-        "definition": "A feeling of uncritical satisfaction with oneself or one's achievements.",
-        "sentence": "While domestic energy use provided some respite, it is not a reason for *complacency* regarding the energy crisis."
-      },
-      {
-        "word": "Fragmented",
-        "type": "adjective",
-        "definition": "Broken into small or separate parts; disunified.",
-        "sentence": "Provinces must follow suit so that the energy conservation effort is not *fragmented* across the country."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a key immediate policy prescription for managing the energy shock?",
-        "options": [
-          "Implementing a nationwide lockdown to halt all activity.",
-          "Providing larger fuel subsidies to all citizens to ease the burden.",
-          "Pursuing targeted energy conservation without halting productive activity.",
-          "Shutting down all non-essential businesses indefinitely across the country."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly advocates for 'targeted conservation: measures that cut avoidable consumption without halting productive activity' and argues against nationwide lockdowns or expanded subsidies."
-      },
-      {
-        "question": "What percentage of Pakistan's electricity generation in August was met by domestic resources, as stated in the article?",
-        "options": [
-          "50%",
-          "65%",
-          "72%",
-          "80%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that 'Domestic resources accounted for 72pc of electricity generation in August.'"
-      },
-      {
-        "question": "Which of the following is NOT proposed as a long-term strategy to reduce Pakistan's energy vulnerability?",
-        "options": [
-          "Building domestic solar energy availability.",
-          "Improving grid efficiency and storage capacity.",
-          "Expanding fuel subsidies to cushion global price hikes.",
-          "Developing robust public transport systems."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article suggests building solar energy, grid efficiency, storage, and public transport as long-term solutions, but explicitly states that 'subsidies cannot fix a supply shock' and get costlier."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary reason cited in the article for the immediate energy shock Pakistan is facing?",
-        "back": "The immediate energy shock is attributed to Houthi attacks on Saudi energy infrastructure and shipping, disrupting oil and gas flows through critical straits, which has pushed global oil prices to their highest level since May."
-      },
-      {
-        "front": "Beyond immediate conservation, what structural changes does the article recommend for Pakistan to reduce its long-term energy vulnerability?",
-        "back": "The article recommends building domestic solar energy availability, improving grid efficiency, enhancing energy storage capacity, and developing public transport systems."
-      },
-      {
-        "front": "Why does the article argue against a nationwide lockdown or expanded subsidies as solutions to the current energy crisis?",
-        "back": "A nationwide lockdown would harm businesses, deplete workers' income, and hit daily-wage earners hard, while subsidies are unsustainable, become costlier as global prices climb, and cannot fix a fundamental supply shock."
-      },
-      {
-        "front": "List three specific examples of 'targeted conservation' measures suggested by the article for immediate implementation.",
-        "back": "Suggested measures include schools shortening operating days, encouraging government offices and private employers to work from home, markets closing earlier, and imposing reasonable limits on unnecessary lighting and cooling in commercial buildings."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789697360343-775",
-    "title": "Bab al-Mandeb closure\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030553/bab-al-mandeb-closure",
-    "date": "2026-09-17",
-    "author": "none@none.com (Editorial)",
-    "content": "AS the pro-Iran Houthis battle both the Saudis and the Riyadh-backed Yemeni government, alarm bells are ringing across the world over the economic shockwave the long-term closure of the Bab al-Mandeb strait would send across the globe. The militia, which controls significant territory in Yemen, including the capital Sanaa, has, over the past few days of fighting, consolidated its gains around the strait. The Houthis say that passage through the channel is open for all except Saudi vessels — against whom they have vowed to enforce a “blockade for blockade”. Yet this will do little to reassure crews, as few vessels will want to pass through an active war zone. The Strait of Hormuz — that other major regional chokepoint — is already practically closed due to the US war on Iran. If shipping traffic through Bab al-Mandeb also grinds to a halt, the global economy will be in very dangerous territory. The government has said Pakistan faces an energy crunch. But Pakistan is not alone; disruption in the strait or the Red Sea will have an impact far and wide. Protests have been reported from as far afield as Syria and Indonesia, and if the situation worsens, more public unrest is likely as fuel pumps run dry.\nTherefore, the Houthis — whatever their differences with the Saudis or the Yemeni government — must reconsider closure of Bab al-Mandeb, and pledge to keep it open for all vessels. As the Pakistani representative told the UN Security Council the other day, any attempt to “threaten, obstruct, or weaponise” vital waterways will have negative effects on international trade and shipping, as well as energy security. He added that “diplomacy must assume urgency”. The need for talks cannot be emphasised enough. The region cannot afford more violence; the Yemeni people have already suffered for over a decade, while the global economy is on tenterhooks due to the situation in Yemen. As the Saudis have enforced a blockade of Houthi-held territory since 2015, Riyadh could offer to lift the blockade if the militia stopped their attacks on the kingdom’s territory. Furthermore, a Yemeni-led, Yemeni-owned peace process is essential domestically. All belligerents need to step back and give talks a chance, as an escalation in violence would be catastrophic for the region.\nPublished in Dawn, September 17th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Current Affairs",
-    "topic": "Geopolitics of Maritime Trade Routes and Global Energy Security",
-    "whyMatters": "This article is crucial for understanding the geopolitical risks to global trade and energy supply chains, especially for countries like Pakistan facing an energy crunch. While it does not directly address Pakistan's role in ECO or regional integration, it highlights the broader context of global economic vulnerabilities and Pakistan's diplomatic stance on safeguarding international waterways, pertinent to discussions on economic stability and international relations.",
-    "summary": [
-      "The Houthi threat to close the Bab al-Mandeb strait poses a severe global economic shockwave, particularly when combined with existing disruptions in the Strait of Hormuz.",
-      "Closure of this critical chokepoint would disrupt international trade and shipping, potentially leading to widespread energy crises and public unrest globally as fuel pumps run dry.",
-      "Pakistan, like many other nations, faces an impending energy crunch if shipping through Bab al-Mandeb or the Red Sea is halted.",
-      "The article emphasizes urgent diplomacy, Houthi reconsideration of the blockade, and a Yemeni-led peace process to ensure the continued openness of vital waterways and prevent catastrophic regional escalation."
-    ],
-    "facts": [
-      "Bab al-Mandeb strait: a major global maritime chokepoint connecting the Red Sea to the Gulf of Aden.",
-      "Strait of Hormuz: described as 'practically closed due to the US war on Iran' (as per the article's context, implying significant disruption to traffic).",
-      "Saudi Arabia has enforced a blockade of Houthi-held territory since 2015, preceding the current Houthi threats to Bab al-Mandeb."
-    ],
-    "academicReferences": [
-      "UN Security Council Resolutions pertaining to freedom of navigation and the Yemen conflict",
-      "International Energy Agency (IEA) reports on global oil markets and supply chain resilience",
-      "United Nations Convention on the Law of the Sea (UNCLOS) for principles governing international navigation"
-    ],
-    "vocabulary": [
-      {
-        "word": "chokepoint",
-        "type": "noun",
-        "definition": "a point of congestion or obstruction, especially one where traffic can be stopped or slowed.",
-        "sentence": "The Bab al-Mandeb strait is a crucial maritime chokepoint for global oil shipments."
-      },
-      {
-        "word": "consolidated",
-        "type": "verb",
-        "definition": "to make (something, typically a position of power or control) physically stronger or more solid.",
-        "sentence": "The militia has consolidated its gains around the strait, strengthening its control over the area."
-      },
-      {
-        "word": "tenterhooks",
-        "type": "noun",
-        "definition": "a state of suspense or agitation, typically because of an anticipated event.",
-        "sentence": "The global economy is on tenterhooks due to the escalating conflict in Yemen."
-      },
-      {
-        "word": "belligerents",
-        "type": "noun",
-        "definition": "a nation or person engaged in war or conflict, as recognized by international law.",
-        "sentence": "All belligerents in the Yemeni conflict need to step back and give talks a chance."
-      },
-      {
-        "word": "catastrophic",
-        "type": "adjective",
-        "definition": "involving or causing sudden great damage or suffering.",
-        "sentence": "An escalation in violence would be catastrophic for the region and the global economy."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT explicitly presented as a potential direct consequence of the Bab al-Mandeb closure, according to the article?",
-        "options": [
-          "A) Global economic shockwave",
-          "B) Increased shipping traffic through the Suez Canal",
-          "C) Energy crunch in various countries, including Pakistan",
-          "D) Widespread public unrest due to fuel shortages"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article primarily discusses a halt to shipping and its negative impacts, not an increase through alternative routes like the Suez Canal. Options A, C, and D are all directly mentioned as potential consequences."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary global economic concern highlighted by the potential closure of the Bab al-Mandeb strait?",
-        "back": "The primary concern is a severe global economic shockwave, exacerbated by existing disruptions in the Strait of Hormuz, threatening international trade and energy security."
-      },
-      {
-        "front": "How does the article describe Pakistan's specific vulnerability to disruptions in the Bab al-Mandeb strait?",
-        "back": "Pakistan faces an energy crunch due to the potential disruption, highlighting its dependence on the free flow of international shipping for energy supplies."
-      },
-      {
-        "front": "What diplomatic steps does the article advocate for to resolve the situation around Bab al-Mandeb and ensure open waterways?",
-        "back": "The article calls for urgent diplomacy, a pledge from the Houthis to keep the strait open for all vessels, and a Yemeni-led, Yemeni-owned peace process to de-escalate the conflict."
-      },
-      {
-        "front": "What is the Houthi stated condition for passage through the Bab al-Mandeb strait, as mentioned in the article?",
-        "back": "The Houthis state that passage is open for all vessels except Saudi vessels, against whom they have vowed to enforce a 'blockade for blockade'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789782909438-720",
-    "title": "Some critical questions\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030559/some-critical-questions",
-    "date": "2026-09-17",
-    "author": "none@none.com (Shahab Usto)",
-    "content": "TRUE to tradition, a ‘plan’ to ‘reset’ the country’s entire structure has come down like an epiphany from apparently ‘non-political’ quarters. The plan envisages creating multiple provinces and changing the country’s very tapestry — its geography, topography, demography, ethnic relations, resource distribution, power sharing, and broader political calculus. The situation raises critical questions.\nWhy new provinces? The interior minister, who announced the plan, hasn’t held forth on the reasoning or offered an acceptable justification for adopting such an extreme and hazardous course. However, he has mentioned bad governance, population implosion, and systemic failures as some of the causes. Nor are there any official authoritative studies proposing a close nexus between good governance and smaller administrative structures. In fact, the global landscape reveals a mixed pattern. Some countries have fewer or territorially larger constituent units, and yet they are stable, functional, even enviable. Others have multiple small units/ provinces, but are perennially afflicted with broken, inept and even failed political systems.\n    \nThe factors that generally determine the performance and vitality of a state are the legitimacy and efficacy of its political system, the character and ability of its leadership, and the maturity and capacity of its institutions — not only to deliver better governance, but also to meet the continuing challenges thrown up by ever-changing societal and state imperatives. In revitalising the ‘failed’ political systems, we don’t know if the so-called plan contemplates these factors.\nWho is demanding them? Interestingly, most of these ideas have originated outside regular political processes, whether as One Unit, Basic Democracy, ‘Islamisation’, enlightened moderation, or hybrid governance. People have always been on the receiving end of new-fangled ideas and their pernicious consequences. The call for a structural ‘reset’, too, appears to have similar origins. So far, none of the governments — federal, provincial or even local — or the mainstream political leaderships have called for restructuring the provinces. However, there is near-consensus across the political spectrum on creating provinces in south Punjab, and KP’s Hazara belt. In fact, the Punjab and KP assemblies passed resolutions for these provinces, but they went nowhere.\nInstead of new units, the country needs softer options to heal societal wounds.\nReorganising the state structures would be an extremely risky exercise. India’s Congress party had included the ‘linguistic’ provinces in its manifesto as early as 1917. Yet, after Partition, both prime minister Jawaharlal Nehru and home minister Vallabhbhai Patel were reluctant to reorganise the states, fearing balkanisation of the fledgling country. It was many months of intense political agitations across the country, expert studies, judicial commissions, and a much-mourned fast unto death by Telugu nationalist Potti Sriramulu that finally brought the government around. Still, the Reorganisation Act of 1955 was not passed to improve governance but to group various linguistic communities in their own separate states. In other words, distinctive ethno-cultural identities were recognised and restored, rather than brutally denied and suppressed as would have been the case if the states had been broken up in a manner that dispersed the historically located ethno-cultural communities — something that is being contemplated here.\n    \nIs referendum feasible? Perhaps encouraged by the smooth passage of the controversial 26th and 27th constitutional amendments, and not expecting a large section of the political establishment to oppose the proposed move, some elements here had appeared confident of securing the required numbers to ensure restructuring. However, the JUI-F, ANP, PTI, and even the ruling party’s major coalition partner have dug in their heels. In fact, even the prime minister and his party seem reluctant to support the restructuring, though some government ministers are backing it, albeit without the cabinet’s approval. Likewise, the Sindh Assembly has also rejected the break-up of the province.\nAs a result, other means are being sought — preferably, a referendum to execute the plan. But a referendum would not validate the wholesale reorganisation of the state. It lacks legitimacy and credibility. It cannot be used to circumvent or be a substitute for the mandatory constitutional amendment. People will not accept it because every military dictator has used it to legitimise their rule. Instead, a referendum will be seen as farcical and incite public anger, triggering a maelstrom of pushback.\nWill the ‘plan’ succeed? Any idea, policy, or law that is imposed on the people has miserably failed to achieve its objectives; in fact, it has often led to disasters. Steamrolling the restructuring of provinces — against the will of the people — will further aggravate identity-driven politics across a fragile multiethnic landscape. It may even ignite the tinderbox the country has become, particularly for poor and disgruntled youth who have endured the harrowing realities of failed systems. The numbers are dreadful. Half the population lives in poverty, around 28 million children are out of school, four out of 10 children suffer from stunted growth, three-fourths of the populace is consuming contaminated water, and the increasingly murky security environment scares away local and foreign investors.\nIn these dire circumstances, the country desperately needs softer options to heal societal wounds — options that recompense the people through justice, equity, peace, opportunity, and development, which are democracy’s tested tools. The yawning fault lines — ethnic, social, political, inter-provincial and centre-province — must be mended, and federal democracy, which remains buried under the hybrid regime, restored.\nThe system does need a ‘reset’. But the reset should mean building efficient and accountable institutions, strengthening rules-based governance, and allowing legitimate and representative leadership to run political and public offices. That requires a continuous process of fair, free elections held on time, so that dead wood can be replaced with a fresher, cleaner leadership at the federal, provincial, and local levels.\nFinally, a ‘reset’ would be fatal if it ignored the emotional, even spiritual, bonding of the various ethno-cultural communities with their respective provinces. This bonding goes beyond ideology or politics. It is the product of the centuries-long interplay between these communities and their distinctive land, history, culture, language, literature and art. This bonding leads many in Sindh to conceive their province as an indivisible historical entity — a firmer federalised version of Scotland or Quebec.\nThe writer is a lawyer.\nshahabusto@hotmail.com\nPublished in Dawn, September 17th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2024-PROV",
-      "paper": "Pakistan Affairs",
-      "year": 2024,
-      "question": "The creation of more provinces is a persistent demand from some circles in Pakistan. How do you see the creation of more provinces in Pakistan; as beneficial or harmful for the people? Explain your views with solid justification."
-    },
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "Pakistan Affairs",
-    "topic": "Provincial Restructuring, Governance, and Federalism in Pakistan",
-    "whyMatters": "This article critically evaluates proposals for creating new provinces, directly addressing whether such a move would be beneficial or harmful. It provides solid justifications rooted in historical context, political legitimacy, and socio-economic consequences, crucial for high-scoring answers.",
-    "summary": [
-      "The proposed 'plan' for provincial restructuring originates from 'non-political' quarters, lacking clear justification (e.g., improved governance) and mainstream political demand.",
-      "Historical precedents (e.g., India's state reorganization) demonstrate that successful changes were based on recognizing ethno-cultural identities through intense public and political processes, not imposed administrative convenience.",
-      "Imposing restructuring through non-constitutional means like a referendum would lack legitimacy, incite public anger, and fail to address the core issues of governance and systemic failures, reminiscent of past dictatorial tactics.",
-      "Instead of new provinces, the country desperately needs 'softer options' focusing on justice, equity, peace, opportunity, development, and strengthening existing democratic institutions through fair elections and accountability."
-    ],
-    "facts": [
-      "Resolutions for creating provinces in South Punjab and KP's Hazara belt were previously passed by respective provincial assemblies but did not materialize.",
-      "India's Congress party included 'linguistic' provinces in its 1917 manifesto, but post-partition leaders were initially reluctant to reorganize states, fearing balkanization.",
-      "Current dire societal conditions include half the population living in poverty, around 28 million children out of school, and four out of ten children suffering from stunted growth."
-    ],
-    "academicReferences": [
-      "The 18th Constitutional Amendment (2010): Significantly enhanced provincial autonomy and resource distribution, directly relevant to the current federal structure.",
-      "India's States Reorganisation Act (1956): A historical precedent for large-scale provincial restructuring based on linguistic lines, referenced in the article.",
-      "Studies on Federalism and Decentralization in Pakistan: General reference to academic works discussing the dynamics of power-sharing and administrative divisions in the country."
-    ],
-    "vocabulary": [
-      {
-        "word": "epiphany",
-        "type": "noun",
-        "definition": "A sudden, striking realization.",
-        "sentence": "The 'plan' to 'reset' the country’s entire structure has come down like an epiphany from apparently 'non-political' quarters."
-      },
-      {
-        "word": "pernicious",
-        "type": "adjective",
-        "definition": "Having a harmful effect, especially in a gradual or subtle way.",
-        "sentence": "People have always been on the receiving end of new-fangled ideas and their pernicious consequences."
-      },
-      {
-        "word": "maelstrom",
-        "type": "noun",
-        "definition": "A situation of confused movement or violent turmoil.",
-        "sentence": "Instead, a referendum will be seen as farcical and incite public anger, triggering a maelstrom of pushback."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary concern regarding the use of a referendum for wholesale provincial reorganization in Pakistan?",
-        "options": [
-          "A) Referendums are constitutionally forbidden for provincial matters.",
-          "B) It lacks legitimacy and credibility, having been used by military dictators to legitimize their rule.",
-          "C) The current political establishment is united against any form of referendum.",
-          "D) Referendums are too expensive and time-consuming to implement effectively."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that a referendum 'lacks legitimacy and credibility' and that 'People will not accept it because every military dictator has used it to legitimise their rule,' making it a farcical means to circumvent constitutional amendments."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What core factors, beyond administrative size, does the article emphasize for determining a state's performance and vitality?",
-        "back": "The legitimacy and efficacy of its political system, the character and ability of its leadership, and the maturity and capacity of its institutions."
-      },
-      {
-        "front": "Why does the article argue that the current 'plan' for structural 'reset' is unlikely to succeed if imposed against the people's will?",
-        "back": "Any idea imposed on the people has historically failed, leading to aggravation of identity-driven politics, igniting social tensions, and exacerbating issues for disgruntled youth."
-      },
-      {
-        "front": "What historical parallel from India does the article use to caution against arbitrary provincial restructuring?",
-        "back": "India's State Reorganisation Act of 1955, which, unlike the proposed 'plan,' was implemented after intense public agitation and recognized distinct ethno-cultural identities, not just for governance improvement."
-      },
-      {
-        "front": "What does the article suggest as the true meaning of a 'reset' for Pakistan, instead of creating new provinces?",
-        "back": "Building efficient and accountable institutions, strengthening rules-based governance, and allowing legitimate and representative leadership through continuous fair, free, and timely elections."
       }
     ]
   }
