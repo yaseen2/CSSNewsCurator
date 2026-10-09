@@ -1,5 +1,685 @@
 [
   {
+    "id": "curated-1791516042563-517",
+    "title": "Beneath the surface\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035848/beneath-the-surface",
+    "date": "2026-10-09",
+    "author": "none@none.com (Editorial)",
+    "content": "THE IMF’s staff-level agreement with Pakistan on the fourth balance-of-payments and the third climate financing reviews came with little drama — which itself says something.\nThe mission spent two weeks in Islamabad, wrapped up the 2026 Article IV consultation, and left with a deal that releases $1.2bn once the IMF Executive Board approves it. Nobody expected a different outcome. The Fund is unlikely to push hard against a borrower that is hitting its fiscal targets. Compare this with March, when talks went virtual, ended without an agreement, and dragged on until the Board cleared funds in May. The recent round made fewer headlines because the hard bargaining over the budget had already been done. The current budget is built around a primary surplus of 2pc of GDP, and the lender is now collecting on that commitment. A programme that has settled into a routine reassures markets. It also shows how little room Islamabad has to depart from the script.\nThe lender’s own assessment is generous. It says the authorities have successfully navigated the fallout of the Middle East conflict and that policies have preserved stability. Reserves stand at about $21.5bn and inflation has eased from its May peak. Yet, a closer look shows that, at 10.3pc in September, inflation remains well above the State Bank’s medium-term target range. Last year’s growth of 3.6pc, with an annual population growth of nearly 2pc, leaves per capita gains thin.\nThe World Bank put poverty at about 42.4pc for 2025, and said growth was too weak to prevent an additional 1.9m people from slipping below the line in a single year. Exports tell the same story. Goods exports fell about 6pc to $30.1bn, of which textiles accounted for $17.9bn. Imports rose 8pc to $69.8bn, widening the merchandise trade deficit to $39.6bn. Growth in IT services kept total exports near $40bn, which though welcome, is no substitute for a manufacturing base that sells more abroad.\nThe recommendations deserve more attention than the headline figure. The lender wants the fuel support scheme phased out, calling it costly and too broadly targeted. Unwinding a broad subsidy is politically harder than agreeing to end it on paper. It also wants timely tariff adjustments so that the circular debt does not return, a medium-term tax strategy, private participation in power distribution, better governance of SOEs, and progress on privatisation. Many who have read the earlier review statements will recognise the list. When the same agenda is repeated, the question one must ask is: how much has changed? The Fund’s language of commitment does not answer it. The tranche will arrive. What the government has yet to demonstrate is an economy that grows fast enough to cut poverty and sells more abroad — an issue that cannot be put off much longer.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's Economic Challenges, IMF Programs, and Structural Reforms",
+    "whyMatters": "This article directly addresses Pakistan’s perennial balance-of-payments constraint and the critical role of export performance, making it highly relevant for answering questions on economic stability and long-term challenges. It provides contemporary data and highlights the recurring nature of IMF conditionalities, which is crucial for understanding Pakistan's economic trajectory.",
+    "summary": [
+      "Pakistan secured a smooth staff-level agreement with the IMF, releasing $1.2bn, primarily because the government met fiscal targets, particularly a 2% primary surplus.",
+      "Despite official assessments of stability and preserved policies, underlying economic vulnerabilities persist, including high inflation (10.3%), low per capita growth, and persistent high poverty (42.4% projected for 2025).",
+      "The country faces a worsening trade deficit, with goods exports falling 6% while imports rose 8%, leading to a merchandise trade deficit of $39.6bn, highlighting a significant balance-of-payments pressure.",
+      "The IMF continues to recommend crucial structural reforms like phasing out costly subsidies, timely tariff adjustments, a medium-term tax strategy, and progress on privatization, indicating slow implementation of essential changes to foster sustainable growth and a stronger export base."
+    ],
+    "facts": [
+      "IMF released $1.2bn following a staff-level agreement.",
+      "Pakistan's current budget includes a primary surplus commitment of 2% of GDP.",
+      "Reserves stand at about $21.5bn, and inflation eased to 10.3% in September.",
+      "Poverty is projected at 42.4% for 2025, with 1.9m more people expected to slip below the line.",
+      "Goods exports fell 6% to $30.1bn, while imports rose 8% to $69.8bn, resulting in a merchandise trade deficit of $39.6bn."
+    ],
+    "academicReferences": [
+      "IMF Article IV Consultations: Mandated annual reviews of member countries' economic and financial policies.",
+      "Pakistan Economic Survey: Annual publication by the Government of Pakistan detailing economic performance and challenges.",
+      "World Bank Poverty Assessments: Reports providing in-depth analysis of poverty levels and contributing factors in Pakistan.",
+      "Extended Fund Facility (EFF) / Stand-By Arrangement (SBA): Common IMF lending instruments for countries facing serious balance-of-payments problems."
+    ],
+    "vocabulary": [
+      {
+        "word": "Staff-level agreement",
+        "type": "noun",
+        "definition": "An agreement between IMF staff and a country's authorities on economic policies needed to complete a review or secure a loan, subject to approval by the IMF Executive Board.",
+        "sentence": "The staff-level agreement with the IMF paves the way for the next tranche of funding once approved by the board."
+      },
+      {
+        "word": "Balance-of-payments",
+        "type": "noun",
+        "definition": "A summary of all transactions between residents of a country and the rest of the world over a specific period, covering current account (trade, services, transfers) and capital/financial account.",
+        "sentence": "Pakistan's persistent balance-of-payments deficit necessitates external borrowing to maintain foreign exchange reserves."
+      },
+      {
+        "word": "Article IV consultation",
+        "type": "noun",
+        "definition": "An annual, mandatory surveillance process where the IMF assesses a member country's economic health and policies.",
+        "sentence": "The IMF mission wrapped up its 2026 Article IV consultation during its two-week visit to Islamabad."
+      },
+      {
+        "word": "Primary surplus",
+        "type": "noun",
+        "definition": "A government's budget surplus excluding interest payments on its debt.",
+        "sentence": "The current budget is built around achieving a primary surplus of 2% of GDP, a key commitment to the lender."
+      },
+      {
+        "word": "Circular debt",
+        "type": "noun",
+        "definition": "A cascading accumulation of unpaid dues among various entities in the power sector (generation companies, distribution companies, government subsidies).",
+        "sentence": "The IMF urged timely tariff adjustments to prevent the return of crippling circular debt in the energy sector."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary reason cited for the smooth IMF staff-level agreement in the article?",
+        "options": [
+          "Pakistan had already met its fiscal targets, including a primary surplus commitment.",
+          "A new finance minister had taken charge, reassuring the IMF.",
+          "Global economic conditions had significantly improved, reducing pressure on Pakistan.",
+          "The IMF decided to be more lenient due to humanitarian concerns."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'The Fund is unlikely to push hard against a borrower that is hitting its fiscal targets. The current budget is built around a primary surplus of 2pc of GDP, and the lender is now collecting on that commitment.'"
+      },
+      {
+        "question": "According to the article, what was the merchandise trade deficit reported?",
+        "options": [
+          "$30.1bn",
+          "$21.5bn",
+          "$39.6bn",
+          "$69.8bn"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions 'Imports rose 8pc to $69.8bn, widening the merchandise trade deficit to $39.6bn.'"
+      },
+      {
+        "question": "Which of the following is NOT one of the recurring IMF recommendations mentioned in the article?",
+        "options": [
+          "Phasing out the fuel support scheme.",
+          "Reducing the overall GDP growth target.",
+          "Timely tariff adjustments to control circular debt.",
+          "Progress on privatization of State-Owned Enterprises."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article lists phasing out fuel subsidies, timely tariff adjustments, medium-term tax strategy, private participation in power distribution, better governance of SOEs, and progress on privatisation. Reducing GDP growth target is not mentioned as a recommendation."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article illustrate Pakistan's economic growth being 'Balance-of-Payments' constrained?",
+        "back": "The article shows this through the ongoing IMF agreements for 'balance-of-payments' support, the reliance on external tranches, and the significant merchandise trade deficit ($39.6bn) caused by falling exports and rising imports, which directly pressures foreign exchange reserves."
+      },
+      {
+        "front": "What evidence does the article provide to suggest that Pakistan's export performance is a major long-term challenge?",
+        "back": "The article highlights a 6% fall in goods exports to $30.1bn, despite a rise in IT services exports. It explicitly states that IT services are 'no substitute for a manufacturing base that sells more abroad,' emphasizing the persistent need for diversified and robust physical exports."
+      },
+      {
+        "front": "According to the IMF's recurring recommendations, what structural issues hinder Pakistan's sustainable economic growth?",
+        "back": "The IMF repeatedly calls for phasing out costly subsidies (like fuel support), timely tariff adjustments to prevent circular debt, a medium-term tax strategy, private participation in power distribution, improved governance of State-Owned Enterprises, and progress on privatization, all of which are essential for long-term economic stability and growth."
+      },
+      {
+        "front": "How does the article reconcile the IMF's 'generous assessment' of stability with underlying economic challenges?",
+        "back": "While the IMF acknowledged 'stability' and preserved policies, the article contrasts this with persistent high inflation (10.3%), thin per capita growth due to high population growth, and the World Bank's projection of 42.4% poverty for 2025, indicating that 'stability' is superficial and doesn't reflect fundamental improvements."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791516129107-119",
+    "title": "Animal rights in Pakistan\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035861/animal-rights-in-pakistan",
+    "date": "2026-10-09",
+    "author": "none@none.com (Altamush SaeedEiraj Hassan)",
+    "content": "FOR almost as long as Pakistan has existed, the state has had one answer to stray dogs: kill them. Poison and bullets have been the tools, and rabies control the justification. Yet after decades of culling, dogs still roam our streets, bite cases keep coming, and children still die of a disease that is entirely preventable.\nThat contradiction is now being argued in court, and the arguments are producing something larger than a verdict on dogs. Over the past two years, our courts have begun to treat the welfare of animals as a constitutional question. Pakistan may be witnessing the birth of a new branch of law.\nThere is a precedent for this. Environmental law in Pakistan was shaped less by legislation than by judges, who recognised that the right to life under Article 9 means more than bare survival and includes the right to a healthy environment. Driven in large part by the work of Dr Parvez Hassan in the Shehla Zia case, that jurisprudence turned ecology into a matter of fundamental rights. Animal law is now following the same path, and for similar reasons.\nThe World Health Organisation is clear that dog-mediated rabies is eliminated by vaccinating dogs, not by killing them. Mass vaccination, combined with humane population control through trap-neuter-vaccinate-return (TNVR), breaks the chain of transmission. Culling does not: it leaves gaps that unvaccinated dogs quickly fill, so the population and the disease both bounce back. Punjab recognised as much when it adopted an Animal Birth Control (TNVR) Policy. The trouble is that municipal authorities kept on culling anyway.\nAnimal law is not simply about preventing cruelty, but also about public health, biodiversity and good governance.\nThat gap between policy and practice is what brought Eiraj Hassan vs Government of Punjab, which one of us filed, to the Lahore High Court. The petition secured interim protection against illegal culling across the province, followed by directions that the policy be implemented in letter and spirit. The argument was taken further in Nelofar vs Chief Commissioner ICT, where principles of humane population management and animal sentience were developed. Read alongside the Islamabad High Court’s recognition of animal sentience in the Kaavan case, these rulings form an emerging body of law that treats animals as living beings whose welfare is bound with the health of society, not as property or pests.\nThe constitutional basis is not hard to find. Articles 9, 9A and 14 protect life and dignity, and our courts have long held that environmental degradation and threats to public health can violate both. Animal welfare belongs in the same frame. Wildlife trafficking, inhumane food systems, badly managed animal populations and the spread of zoonotic disease all bear directly on human health. The global public health community calls this ‘One Health’: the well-being of people, animals and the environment cannot be separated. The pandemic taught that lesson at enormous cost.\nThere is also a public safety argument. Decades of criminological research show that cruelty to animals frequently coexists with domestic violence, child abuse, and other violent crime. Violence against the powerless rarely stays confined to one kind of victim. A legal system that takes animal cruelty seriously is better placed to protect vulnerable people too. Animal rights do not compete with human rights; they reinforce them.\nDogs are only the beginning. Public interest petitions have since been filed over illegally imported monkeys, lions kept in circuses and private zoos, endangered black bears used for entertainment, the condition of farm animals, regulation of animal carts, and the enforcement of slaughter laws, where better practice serves both animal welfare and the containment of zoonotic disease. Each case makes the same point in a different setting: animal law is not simply about preventing cruelty, but also about public health, biodiversity, and good governance.\nThe groundwork outside the courtroom matters as much. In January 2025, Pakistan’s first International Animal and Environmental Rights Conference brought more than 700 judges, lawyers, academics and activists together with international organisations working in the field. It treated animal law not as a matter of charity but as a serious legal discipline. Kinnaird College in Lahore now teaches courses on animal rights law and food legal systems, and a new generation of lawyers is taking up this work.\nBut courts can only go so far. Judgements set principles; governments must turn them into practice. Punjab, which already has the right policy on paper, should fund TNVR programmes properly, train municipal staff, and hold officials accountable when culling continues in defiance of court orders. Other provinces and the federal capital should follow. Legislators should look again at a cruelty law that dates back to 1890 and at the patchy regulation of zoos, circuses and the wildlife trade. Universities and bar associations should keep building the expertise that litigation alone cannot supply.\nIf that happens, the past two years may be remembered not merely as a run of important cases, but as the moment Pakistan’s legal system began to take animals seriously. Environmental law changed how we understand our relationship with nature. Animal law can do the same for our relationship with the creatures we share it with. A society that protects its most vulnerable living beings is, in the end, a more just society for everyone in it.\nAltamush Saeed is a lawyer who holds an LLM in animal law & environmental law and teaches animal law and food law at Kinnaird College, Lahore. Eiraj Hassan is a social media manager for the PSL at the Pakistan Cricket Board.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "Animal Rights, Environmental Law, and Public Health in Pakistan",
+    "whyMatters": "This article does not directly address the provided past exam question on the Economic Cooperation Organization (ECO). However, it is highly relevant for understanding emerging legal jurisprudence in Pakistan, particularly concerning animal welfare, public health (One Health concept), and good governance, which are crucial topics for Current Affairs and Pakistan Affairs.",
+    "summary": [
+      "Pakistan is witnessing the emergence of a new branch of animal law, mirroring the development of environmental law, where judges interpret constitutional rights (Articles 9, 9A, 14) to include animal welfare.",
+      "The article highlights the ineffectiveness of culling stray dogs for rabies control, advocating instead for mass vaccination and humane population control through Trap-Neuter-Vaccinate-Return (TNVR) as recommended by the World Health Organization (WHO).",
+      "Animal law extends beyond preventing cruelty to encompass public health (via the 'One Health' concept linking human, animal, and environmental well-being), biodiversity, and good governance, even reinforcing human safety by addressing violence against the powerless.",
+      "While judicial activism (e.g., Eiraj Hassan vs Government of Punjab, Nelofar vs Chief Commissioner ICT, Kaavan case) and academic efforts are building this legal discipline, effective implementation of policies, legislative reform, and training by governmental bodies are crucial for its success."
+    ],
+    "facts": [
+      "Pakistan's cruelty law dates back to 1890.",
+      "Punjab adopted an Animal Birth Control (TNVR) Policy for humane population management.",
+      "Pakistan's first International Animal and Environmental Rights Conference was held in January 2025.",
+      "WHO states dog-mediated rabies is eliminated by vaccinating dogs, not culling."
+    ],
+    "academicReferences": [
+      "Constitution of Pakistan (Articles 9, 9A, 14 - Right to Life and Dignity)",
+      "Shehla Zia case (Precedent for environmental law jurisprudence in Pakistan)",
+      "World Health Organization (WHO) Guidelines on Rabies Control",
+      "'One Health' concept (Global public health framework)",
+      "Animal Birth Control (TNVR) Policy, Punjab (Specific policy document)"
+    ],
+    "vocabulary": [
+      {
+        "word": "jurisprudence",
+        "type": "noun",
+        "definition": "The theory or philosophy of law; a legal system.",
+        "sentence": "That jurisprudence turned ecology into a matter of fundamental rights."
+      },
+      {
+        "word": "sentience",
+        "type": "noun",
+        "definition": "The capacity to feel, perceive, or experience subjectively.",
+        "sentence": "principles of humane population management and animal sentience were developed."
+      },
+      {
+        "word": "zoonotic",
+        "type": "adjective",
+        "definition": "(of a disease) Transmissible from animals to humans.",
+        "sentence": "the spread of zoonotic disease all bear directly on human health."
+      },
+      {
+        "word": "criminological",
+        "type": "adjective",
+        "definition": "Relating to the scientific study of crime and criminals.",
+        "sentence": "Decades of criminological research show that cruelty to animals frequently coexists with domestic violence, child abuse, and other violent crime."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which constitutional articles are cited as the basis for animal welfare as a fundamental right in Pakistan?",
+        "options": [
+          "Articles 1-3",
+          "Articles 9, 9A, and 14",
+          "Articles 25-27",
+          "Articles 50-52"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Articles 9, 9A and 14 protect life and dignity, and our courts have long held that environmental degradation and threats to public health can violate both.'"
+      },
+      {
+        "question": "According to the World Health Organisation (WHO) and the article, what is the most effective method for eliminating dog-mediated rabies?",
+        "options": [
+          "Mass culling of stray dogs.",
+          "Poisoning stray dogs.",
+          "Mass vaccination of dogs combined with TNVR.",
+          "Relocating stray dogs to rural areas."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'The World Health Organisation is clear that dog-mediated rabies is eliminated by vaccinating dogs, not by killing them. Mass vaccination, combined with humane population control through trap-neuter-vaccinate-return (TNVR), breaks the chain of transmission.'"
+      },
+      {
+        "question": "The concept 'One Health' emphasizes the interconnectedness of the well-being of which three elements?",
+        "options": [
+          "Economy, society, and environment.",
+          "People, animals, and the environment.",
+          "Government, judiciary, and citizens.",
+          "Urban areas, rural areas, and wildlife."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article defines 'One Health' as: 'the well-being of people, animals and the environment cannot be separated.'"
+      },
+      {
+        "question": "Which of the following cases is NOT explicitly mentioned as contributing to the emerging body of animal law in Pakistan?",
+        "options": [
+          "Eiraj Hassan vs Government of Punjab",
+          "Nelofar vs Chief Commissioner ICT",
+          "Kaavan case (Islamabad High Court)",
+          "Shehla Zia case"
+        ],
+        "answerIndex": 3,
+        "explanation": "The Shehla Zia case is mentioned as a precedent for environmental law, not directly as an animal law case within the emerging body of animal law discussed. The other three are explicitly cited for animal law."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How has animal law in Pakistan developed, paralleling the evolution of environmental law?",
+        "back": "Animal law is developing through judicial interpretation of constitutional rights (Articles 9, 9A, 14), similar to how judges shaped environmental law by recognizing the right to a healthy environment under the right to life."
+      },
+      {
+        "front": "What is the 'One Health' concept, and why is it significant for animal rights discussions in Pakistan?",
+        "back": "'One Health' is a global public health concept recognizing that the well-being of people, animals, and the environment are inseparable. It's significant because it frames animal welfare not just as compassion but as crucial for human health, public safety, and containing zoonotic diseases."
+      },
+      {
+        "front": "What are the key shortcomings of culling as a rabies control measure, and what alternative approach is advocated?",
+        "back": "Culling is ineffective because it creates gaps that unvaccinated dogs quickly fill, causing populations and disease to rebound. The advocated alternative is mass vaccination combined with Trap-Neuter-Vaccinate-Return (TNVR), which breaks transmission chains."
+      },
+      {
+        "front": "Beyond judicial rulings, what other efforts are contributing to the growth of animal law in Pakistan?",
+        "back": "Groundwork outside courtrooms includes organizing conferences (like the International Animal and Environmental Rights Conference), introducing animal rights law courses in academic institutions (e.g., Kinnaird College), and advocating for legislative reform and proper policy implementation by governments."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791516294769-268",
+    "title": "Vanished girls\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035846/vanished-girls",
+    "date": "2026-10-09",
+    "author": "none@none.com (Editorial)",
+    "content": "THE scourge of female disappearances in Pakistan should be a matter of shame. Institutional reforms and criminalising chauvinistic traditions remain long overdue measures. The Lahore High Court, during the hearing of a case of disappearance, was informed by Punjab’s police chief that over 500 cases of girls reported missing were still pending in the province. The figure was shocking for the court. Not only was concern expressed at the ordeal of the families of the missing, the negligence of police was also underscored in this regard. Chief Justice Aalia Neelum inquired about mechanisms to tackle cases involving women and children. The IGP stated that such incidents would be handled by special committees.\nThe crisis of our ‘missing’ daughters has detrimental repercussions for victims. Those recovered are forced to live with multiple accusations from their kin who often suspect sexual exploitation. Many fall prey to sex trafficking and are sold to organised prostitution networks, or are registered as kidnap cases when they run away to escape forced marriages. As most of them hail from poor areas and families, the authorities often dismiss their kidnappings as ‘elopement’, without any investigation. That it takes various court orders for police to pursue these abductions implies gross apathy, negligence, and the absence of accountability. For years, adequate action to arrest the trend in the rural and urban areas of the province, and the lack of protection for victims who return or are rescued against the tag of ‘dishonour’, have been non-existent. It is time these cases were also seen as part of the thriving sex trafficking rings in the country. In 2022, police figures showed that 3,571 abducted girls and women were missing across Punjab; a total of 40,585 women were kidnapped between 2017 and January 2022. Keeping the girl child safe entails going beyond reasons of domestic dispute and investigating prolonged disappearances as possible cases of trafficking.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Sociology / Pakistan Affairs / Current Affairs",
+    "topic": "Female Disappearances, Human Trafficking, and Governance Challenges in Pakistan",
+    "whyMatters": "This article highlights critical issues of human rights, law enforcement negligence, and the growing menace of sex trafficking in Pakistan, offering crucial data and insights for essay and subjective questions. It allows aspirants to demonstrate an understanding of social injustices and institutional failures, vital for topics on governance and social problems.",
+    "summary": [
+      "Female disappearances in Pakistan are a significant issue, with hundreds of cases pending in Punjab due to police negligence and institutional apathy.",
+      "Victims of disappearance face severe repercussions, including accusations of sexual exploitation by kin, forced entry into sex trafficking, or being registered as kidnap cases to escape forced marriages.",
+      "Authorities often dismiss kidnappings of poor girls as 'elopement' without investigation, requiring court interventions to prompt police action.",
+      "The trend of missing girls should be viewed as part of thriving sex trafficking rings and warrants investigations beyond mere domestic disputes, with a focus on protecting returned victims from social 'dishonour'."
+    ],
+    "facts": [
+      "Over 500 cases of girls reported missing were still pending in Punjab (as informed by Punjab’s police chief to the Lahore High Court).",
+      "In 2022, police figures showed that 3,571 abducted girls and women were missing across Punjab.",
+      "A total of 40,585 women were kidnapped between 2017 and January 2022 in Pakistan."
+    ],
+    "academicReferences": [
+      "Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports on Human Rights Situation in Pakistan",
+      "Pakistan's National Action Plan (NAP) against Human Trafficking and Smuggling of Migrants"
+    ],
+    "vocabulary": [
+      {
+        "word": "Scourge",
+        "type": "noun",
+        "definition": "A person or thing that causes great trouble or suffering.",
+        "sentence": "The scourge of female disappearances should be a matter of shame for the nation."
+      },
+      {
+        "word": "Chauvinistic",
+        "type": "adjective",
+        "definition": "Displaying excessive or prejudiced loyalty or support for a particular group or cause, often associated with male superiority.",
+        "sentence": "Institutional reforms and criminalizing chauvinistic traditions remain long overdue measures."
+      },
+      {
+        "word": "Repercussions",
+        "type": "noun",
+        "definition": "An unintended consequence occurring sometime after an event or action, especially an unwelcome one.",
+        "sentence": "The crisis of our 'missing' daughters has detrimental repercussions for victims."
+      },
+      {
+        "word": "Apathy",
+        "type": "noun",
+        "definition": "Lack of interest, enthusiasm, or concern.",
+        "sentence": "That it takes various court orders for police to pursue these abductions implies gross apathy, negligence, and the absence of accountability."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT explicitly identified as a reason for police negligence in handling cases of missing girls, according to the article?",
+        "options": [
+          "Gross apathy",
+          "Absence of accountability",
+          "Lack of resources and funding for investigations",
+          "Dismissing cases as 'elopement' without investigation"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions 'gross apathy, negligence, and the absence of accountability,' and that authorities often dismiss kidnappings as 'elopement.' It does not specifically mention lack of resources and funding for investigations as a reason for negligence."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the primary institutional failures contributing to the unresolved cases of missing girls in Pakistan?",
+        "back": "Institutional failures include police negligence, gross apathy, lack of accountability, and a tendency to dismiss abductions as 'elopement' without proper investigation, often requiring court intervention."
+      },
+      {
+        "front": "Beyond physical disappearance, what additional challenges and accusations do recovered victims often face upon return?",
+        "back": "Recovered victims often face multiple accusations from their kin, who suspect sexual exploitation, and are tagged with 'dishonour,' leading to further social stigma and lack of protection."
+      },
+      {
+        "front": "How does the article connect the issue of missing girls to larger criminal networks?",
+        "back": "The article suggests that many missing girls fall prey to sex trafficking and are sold to organized prostitution networks, urging that these cases be viewed as part of thriving sex trafficking rings, not just domestic disputes."
+      },
+      {
+        "front": "What specific judicial and law enforcement mechanisms were discussed in response to the crisis of missing women and children?",
+        "back": "The Lahore High Court expressed concern, and the IGP stated that such incidents would be handled by special committees, indicating a move towards specialized oversight for these cases."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791516219297-652",
+    "title": "Let them eat cake\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035859/let-them-eat-cake",
+    "date": "2026-10-09",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "YET another World Bank report has been published highlighting the unending immiseration of Pakistan’s working people. Pakistan’s economic plight is described as largely on par with war-torn countries in the Arab region like Syria and Yemen. Unsurprisingly, the bank makes only limited mention of its own role in relentlessly enforcing the ‘structural adjustment’ policies which have greatly contributed to mass impoverishment. But the report is damning nonetheless.\nAlmost 20 per cent of Pakistan’s 260 million people now fall into the extreme-poor category, defined as a daily income of less than $3. Extreme poverty has increased three-fold in less than a decade. If the poverty line is simulated at the slightly higher daily income level of $4.20, almost half of Pakistan’s people are poor. It is not all doom and gloom, of course, because Pakistani capitalists, landlords, and state mafias are doing very well. This is reflected in inequality markers. What economists call the Gini coefficient is at its highest level in almost 40 years.\nThe report goes on to name a series of ‘shocks’ which have triggered the huge uptick in poverty; the Covid pandemic and the 2022 floods top the list. Missing is a meaningful political economy analysis in which class exploitation, colonial statecraft, and aid dependency are accorded the centrality that our sordid experience demands. In a nutshell, Pakistan’s masses are the targets of a scandalous class war that becomes more intense with each passing day. The main protagonists of this war are Pakistan’s own militarised ruling class and its external patrons, including the World Bank, IMF and bilateral ‘partners’.\nEven where the World Bank report notes that rising poverty and inequality is partly the result of a “prolonged period of economic adjustment that weakened real household incomes and employment opportunities”, the mention of the actual players that push the adjustment agenda is conspicuous by its absence. And there is nothing about Pakistan’s own state mafias, capitalists and landed magnates who happily pass on spiralling debt burdens to the people, whilst profiting endlessly through real estate and trade, with no concern for livelihoods and ecologies.\nWorking families are eating less on the whole.\nThere have been donor reports, which go beyond superficially describing social crises and actually name some names. In 2020, the UNDP’s annual Pakistan National Human Development Report explicitly stated that Pakistan’s militarised ruling class benefits from hidden — and sometimes overt — subsidies to the tune of $17.4 billion per annum. Six years later, one can assume that this figure has grown; it is another matter that donors are seemingly unwilling to name the protagonists of this class war as explicitly now as in 2020.\nThe truth deficit extends to our own political classes and intelligentsia. Yes, one could argue that ‘elite capture’ has become a widely used phrase. Petrol bombs and other markers of inflation come in for regular criticism and parties like the Jamaat-i-Islami are given licence to undertake sanitised protests. But the political and intellectual mainstream is least concerned with the banality of everyday class war in comparison to intra-elite palace intrigues and diplomatic ‘successes’ in the geopolitical realm.\nIndeed, mainstream political conflict in Pakistan features only shades of the right, and the object of politics is to secure the good graces of the establishment, which in turn continues to rely on the age-old policy of securing geostrategic rents from external patrons. It is thus that the mass of Pakistan’s people has been thrust further down the class ladder for at least a decade, and arguably longer. Throughout this period, the actual political-economic order has remained largely unchanged, irr­espective of who has occupied the formal seat of government.\nThe accumulation of crises has made the present moment particularly desperate. The ruling regime proclaims its macroeconomic achievements while promising that the windfalls of its great accomplishments abroad will materialise soon. But the statistics that they do not advertise tell the real story. Working families are eating less on the whole and even less nutritiously than before; kids are pulled out of school and forced to work to supplement meagre household incomes; even those who imagine themselves as white-collar workers, let alone those who are in the category of extreme poor, contemplate killing themselves and their offspring to preserve their dignity.\nIt is thus that one is reminded of the 18th-century ‘French princess’ to whom the reply ‘let them eat cake’ was attributed, when her advisers explained that the mass of her subjects were not able to afford bread. The French Revolution followed some years later.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Challenges, Poverty, Inequality, and Structural Exploitation in Pakistan",
+    "whyMatters": "This article provides a critical, structural analysis of Pakistan's economic challenges, moving beyond superficial explanations of poverty and inequality. It offers essential arguments and data points, like the role of elite capture and external patrons, which are crucial for a nuanced and high-scoring answer in competitive exams.",
+    "summary": [
+      "Pakistan's economic situation is dire, with extreme poverty tripling in less than a decade, affecting almost 20% of its 260 million people, a condition comparable to war-torn regions.",
+      "The author attributes this immiseration not merely to \"shocks\" but to a \"scandalous class war\" perpetrated by Pakistan's militarised ruling class, state mafias, capitalists, landlords, and external patrons like the World Bank and IMF, through structural adjustment policies and elite capture.",
+      "The article highlights a significant \"truth deficit\" in mainstream political and intellectual discourse, which avoids explicitly naming the beneficiaries and protagonists of this class war, instead focusing on intra-elite conflicts or superficial issues.",
+      "Despite claims of macroeconomic achievements, the real story for working families involves reduced nutrition, children forced out of school for work, and widespread desperation, illustrating the unchanged exploitative political-economic order."
+    ],
+    "facts": [
+      "Almost 20% of Pakistan's 260 million people fall into the extreme-poor category (daily income less than $3).",
+      "Extreme poverty has increased three-fold in less than a decade, and nearly half of the population is poor if the line is set at $4.20 daily income.",
+      "Pakistan's Gini coefficient, a measure of inequality, is at its highest level in almost 40 years.",
+      "A 2020 UNDP report explicitly stated Pakistan’s militarised ruling class benefits from hidden/overt subsidies to the tune of $17.4 billion per annum."
+    ],
+    "academicReferences": [
+      "World Bank Development Reports (e.g., Pakistan Development Update)",
+      "IMF Stand-By Arrangements and Extended Fund Facilities (representing structural adjustment policies)",
+      "UNDP National Human Development Report (specifically the 2020 Pakistan NHDR)",
+      "Concept of 'Elite Capture' in development economics"
+    ],
+    "vocabulary": [
+      {
+        "word": "Immiseration",
+        "type": "noun",
+        "definition": "The process of making a person or group poor; impoverishment.",
+        "sentence": "The World Bank report highlighted the unending immiseration of Pakistan’s working people."
+      },
+      {
+        "word": "Structural Adjustment Policies",
+        "type": "noun phrase",
+        "definition": "Economic policies imposed by international financial institutions like the World Bank and IMF on indebted developing countries, often involving privatization, deregulation, and reduced public spending.",
+        "sentence": "The bank makes only limited mention of its own role in relentlessly enforcing the ‘structural adjustment’ policies."
+      },
+      {
+        "word": "Gini coefficient",
+        "type": "noun phrase",
+        "definition": "A measure of statistical dispersion intended to represent the income or wealth distribution of a nation's residents, and is the most commonly used measure of inequality.",
+        "sentence": "What economists call the Gini coefficient is at its highest level in almost 40 years."
+      },
+      {
+        "word": "Elite Capture",
+        "type": "noun phrase",
+        "definition": "A situation where a dominant group or influential individuals within a society disproportionately benefit from policies, resources, or public services, often at the expense of the general population.",
+        "sentence": "Yes, one could argue that ‘elite capture’ has become a widely used phrase."
+      },
+      {
+        "word": "Geostrategic rents",
+        "type": "noun phrase",
+        "definition": "Economic or political benefits and advantages derived by a state due to its geographical location and strategic importance in global affairs, often from external patrons.",
+        "sentence": "The establishment continues to rely on the age-old policy of securing geostrategic rents from external patrons."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary underlying cause of Pakistan's increasing poverty and inequality, beyond mere 'shocks'?",
+        "options": [
+          "Global economic recessions",
+          "A scandalous class war driven by a militarized ruling class and external patrons",
+          "Inefficient government administration",
+          "Natural disasters like floods and pandemics"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Missing is a meaningful political economy analysis in which class exploitation, colonial statecraft, and aid dependency are accorded the centrality that our sordid experience demands. In a nutshell, Pakistan’s masses are the targets of a scandalous class war.'"
+      },
+      {
+        "question": "What significant figure regarding subsidies to Pakistan's militarized ruling class was highlighted in a 2020 UNDP report, as mentioned in the article?",
+        "options": [
+          "$3 billion",
+          "$8.5 billion",
+          "$17.4 billion",
+          "$25 billion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'In 2020, the UNDP’s annual Pakistan National Human Development Report explicitly stated that Pakistan’s militarised ruling class benefits from hidden — and sometimes overt — subsidies to the tune of $17.4 billion per annum.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's main critique of the World Bank's analysis of Pakistan's economic plight?",
+        "back": "The author criticizes the World Bank for making limited mention of its own role in enforcing 'structural adjustment' policies that contributed to mass impoverishment and for failing to provide a meaningful political economy analysis that acknowledges class exploitation, colonial statecraft, and aid dependency."
+      },
+      {
+        "front": "How does the article characterize the rise in poverty and inequality in Pakistan, contrasting it with common explanations?",
+        "back": "The article argues that rising poverty and inequality are not merely results of 'shocks' like COVID-19 or floods, but fundamentally stem from a 'scandalous class war' perpetrated by Pakistan's militarized ruling class, state mafias, capitalists, landlords, and external patrons like the World Bank and IMF."
+      },
+      {
+        "front": "What specific evidence does the article present to highlight the extent of 'elite capture' in Pakistan?",
+        "back": "The article cites a 2020 UNDP Pakistan National Human Development Report which explicitly stated that Pakistan's militarized ruling class benefits from hidden—and sometimes overt—subsidies amounting to $17.4 billion per annum."
+      },
+      {
+        "front": "According to the article, why does the mainstream political and intellectual discourse in Pakistan fail to address the core economic issues effectively?",
+        "back": "The article suggests a 'truth deficit' where the mainstream is more concerned with intra-elite palace intrigues and diplomatic 'successes' than with the 'banality of everyday class war,' and political conflict often focuses on securing the establishment's graces rather than challenging the fundamental exploitative political-economic order."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791516536510-867",
+    "title": "Moscow disagreement\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035847/moscow-disagreement",
+    "date": "2026-10-09",
+    "author": "none@none.com (Editorial)",
+    "content": "THE fact that a consensus on how to deal with terrorism originating in Taliban-ruled Afghanistan eludes regional states was made clear at the recently held Moscow Format moot. The event was attended by nearly all of Afghanistan’s neighbours, including Pakistan. However, there was no joint statement issued because, in the words of the Russian envoy for Afghanistan, “our Afghan and Pakistani colleagues didn’t see eye to eye”. The Taliban regime had also sent its representatives. The main sticking point was the Taliban’s objection to including Afghanistan in a “terrorist context”. However, as Pakistan’s envoy put it, it was essential to address “the menace of terrorism emanating from Afghan soil”. Russia offered its good offices to help de-escalate matters between Kabul and Islamabad, though it noted that the Moscow Format was not a forum for resolving bilateral disputes.\nBoth the Taliban’s denialism, and Russia’s apparently soft stance towards the Afghan terrorism problem, are unfortunate. Groups that find shelter in Afghanistan under the Taliban threaten the entire region. Thus, all of Afghanistan’s neighbours need to speak with one voice regarding the ‘export’ of terrorism. Russia is the only state that recognises the Taliban regime. Moscow has its own reasons for indulging the Taliban; these include the need to fight IS-K, which is a common enemy of Russia and the Taliban rulers, as well as to check US and Western influence in Afghanistan. But engagement with Kabul must not be allowed to obscure the fact that some of the deadliest terrorist groups in the world find refuge on Afghan soil. Other regional forums, such as the SCO and the ECO, have highlighted the need to address the terrorist threat emanating from Afghanistan. China, which has significant economic interests in Afghanistan, has also pointed to this terrorist threat. The UN Security Council, too, has frequently noted that Afghanistan under Taliban rule has once again become a haven for various terrorist groups. Pakistan’s insistence, therefore, that Afghanistan’s terrorism problem be highlighted reflects the reality of the situation. If Kabul addresses the issue sincerely and restrains terrorist groups, it will benefit not only the Afghan people but the entire region.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "International Relations / Current Affairs / Pakistan Affairs",
+    "topic": "Regional Security Challenges: Terrorism from Afghanistan & Moscow Format",
+    "whyMatters": "This article is crucial for competitive exam students to understand the complex regional dynamics concerning terrorism emanating from Afghanistan. It highlights Pakistan's security concerns and the differing stances of major regional players, which are essential for analytical questions on foreign policy and security issues.",
+    "summary": [
+      "Regional states, particularly Pakistan and the Taliban regime, failed to reach a consensus at the Moscow Format moot on how to address terrorism originating from Afghanistan.",
+      "The Taliban objects to including Afghanistan in a 'terrorist context,' while Pakistan insists on highlighting and addressing the menace of terrorism emanating from Afghan soil.",
+      "Russia, the only state recognizing the Taliban, adopts a soft stance, driven by its fight against IS-K and efforts to counter US/Western influence, despite the global recognition of Afghanistan as a terrorist haven.",
+      "International bodies like the UN Security Council, SCO, and ECO, along with countries like China, consistently highlight the terrorist threat from Afghanistan, validating Pakistan's concerns."
+    ],
+    "facts": [
+      "The Moscow Format moot did not issue a joint statement due to disagreements between Afghan and Pakistani delegations.",
+      "Russia is currently the only state that officially recognizes the Taliban regime in Afghanistan.",
+      "The UN Security Council, SCO, and ECO have frequently noted Afghanistan under Taliban rule as a haven for various terrorist groups."
+    ],
+    "academicReferences": [
+      "UN Security Council Resolutions on Counter-Terrorism and Afghanistan (e.g., UNSC Resolution 2615, 2626, 2681).",
+      "Shanghai Cooperation Organisation (SCO) Declarations on Regional Security and Combating Terrorism (e.g., Tashkent Declaration).",
+      "Pakistan's National Action Plan (NAP) against Terrorism."
+    ],
+    "vocabulary": [
+      {
+        "word": "Consensus",
+        "type": "noun",
+        "definition": "General agreement among a group of people.",
+        "sentence": "The fact that a consensus on how to deal with terrorism originating in Taliban-ruled Afghanistan eludes regional states was made clear at the recently held Moscow Format moot."
+      },
+      {
+        "word": "Eludes",
+        "type": "verb",
+        "definition": "Escapes from or avoids; fails to be achieved by (someone or something).",
+        "sentence": "The fact that a consensus on how to deal with terrorism originating in Taliban-ruled Afghanistan eludes regional states was made clear."
+      },
+      {
+        "word": "Denialism",
+        "type": "noun",
+        "definition": "The refusal to admit the truth of a concept or reality.",
+        "sentence": "Both the Taliban’s denialism, and Russia’s apparently soft stance towards the Afghan terrorism problem, are unfortunate."
+      },
+      {
+        "word": "Indulging",
+        "type": "verb",
+        "definition": "Allowing oneself to enjoy the pleasure of; often in context of giving way to a desire or weakness.",
+        "sentence": "Moscow has its own reasons for indulging the Taliban; these include the need to fight IS-K."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the main reason a joint statement was not issued at the Moscow Format moot, according to the article?",
+        "options": [
+          "The Taliban objected to including Afghanistan in a 'terrorist context'.",
+          "Pakistan refused to acknowledge any terrorism originating from Afghanistan.",
+          "Russia withdrew its offer of good offices for de-escalation.",
+          "China imposed new economic conditions on the participating states."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'The main sticking point was the Taliban’s objection to including Afghanistan in a “terrorist context”.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What critical issue revealed a lack of regional consensus at the Moscow Format moot?",
+        "back": "How to deal with terrorism originating in Taliban-ruled Afghanistan."
+      },
+      {
+        "front": "Why does Russia maintain a seemingly 'soft stance' towards the Taliban regime, despite regional concerns about terrorism?",
+        "back": "Russia aims to fight IS-K (a common enemy) and check US/Western influence in Afghanistan."
+      },
+      {
+        "front": "Which international and regional bodies have consistently highlighted Afghanistan under Taliban rule as a haven for terrorist groups?",
+        "back": "The UN Security Council, SCO, and ECO."
+      },
+      {
+        "front": "What was Pakistan's core demand at the Moscow Format regarding Afghanistan's security situation?",
+        "back": "To address 'the menace of terrorism emanating from Afghan soil'."
+      }
+    ]
+  },
+  {
+    "id": "curated-1791516456872-597",
+    "title": "Public good and spaces\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2035862/public-good-and-spaces",
+    "date": "2026-10-09",
+    "author": "none@none.com (Faisal Bari)",
+    "content": "NINETY-FOUR per cent of youth had no access to a library, 93pc to a sports facility, and 78pc to a park. Ninety-seven per cent had never been to a live music event, 94pc to a sports event, and 97pc to the cinema. A whopping 71pc had no access to any of the above. These figures are from a survey conducted for UNDP’s Pakistan National Human Development Report 2017: Unleashing the potential of a young Pakistan, of which Dr Adil Najam and I were the lead authors. It was a national survey that highlighted a youth population with few opportunities for positive engagement outside their home.\nSince 2017, the economy has not been doing well. We have not had any significant positive changes in national human development outcomes, and the impact of Covid and global slowdown has hardly been encouraging. So, one would expect that since conditions have not changed much, a similar survey carried out today would show numbers that are not very different from those reported then.\nI have been staying in London for the last couple of months. There is a large park about 400 metres away from our place. The park is managed by the local council (local government). It has a walking/ jogging track running along its almost kilometre-long perimeter. The park has two multipurpose fields. I saw them being used as cricket fields in August and they were converted into football and rugby fields in September. There are three hard-surface tennis courts on one side. There is a children’s play area with lots of structures to climb, swing from, and slide on. The play area is full most evenings.\nThe park is utilised well. Hundreds of children, parents, and dogs visit it every day. Walkers, dog-walkers — most of whom pick up their pet’s poop themselves — and joggers are there round the clock. The tennis courts, play area, and fields get busy in the afternoon after school on weekdays. They are occupied throughout the day on weekends. Every afternoon, four to five groups of young people, with their coaches, have training sessions in the park. There are always cricket or football matches going on. On weekends, quite a few groups have picnics there too. The park is, of course, open to all.\nWe have not had any significant positive changes in national human development outcomes.\nIt would not be an overstatement to say that the park defines the neighbourhood and its vibe. It is a very family-oriented area and one sees that parents are comfortable allowing their young children to run around the park or ride their bike or scooters around the jogging track — often unsupervised. A lot of credit for this goes to the local council. The park does require significant upkeep for cleaning and maintaining the track, trees and plants, and the grassy fields. But, since residents can benefit from healthy activities, the council provides the needed services quite diligently.\nWalking down our area’s high street takes us to the local public library, which is also run by the local council. Since we are a family of readers, and buying books is not cheap, we went in to check if we could be members of the local library. All it took was proof of residence in the area to obtain membership cards free of cost. We then had access to not just the local library but all public libraries around the council (six, I think). One person can borrow up to 20 books at a time for up to three weeks. If a book is not available at our library, we can request it from other libraries in the network that have it. Over the last two weeks, my daughter has read six to seven books. Imagine the saving! And she has had fun learning and managing her own library membership card as well as the activity of borrowing and returning books. I am a little worried that the speed at which she is going, she might not have much left to read at the library in a month or two!\nProviding access to books is just a small part of the services on offer. The library has very inviting spaces for sitting and reading, and even desks for writing. It has free Wi-Fi and free access to internet-connected desktops for members. It also has at-cost facilities for printing and photocopying, and a decently priced cafeteria. There are also some rooms and spaces that can be booked for group activities. I have seen language-learning, meditation, and book-discussion clubs using these spaces. It has been a bit of a surprise to see a broad cross-section of society using these facilities. The book section for the young is always bustling. And from teenagers to retirees, all age groups are well represented throughout the day at the library.\nThe local council provides all these public spaces. Local accountability for local issues seems to work well here. It is difficult to list all the benefits that accrue to the citizens from these two spaces and the free services that come with them. There are opportunities for physical, mental, and emotional engagement through group activities, social interaction, reading and learning, and hobbies and interests. It is important for all people to have such opportunities for these healthy activities, so that they can interact positively and learn to work together, and, generally, become engaged citizens. The contrast between where we need to be and the findings of the survey of Pakistani youth mentioned earlier could not be starker.\nThe writer is a senior research fellow at the Institute of Development and Economic Alternatives and an associate professor of economics at Lums.\nPublished in Dawn, October 9th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Governance & Public Policy",
+    "topic": "Public Goods Provision, Local Governance, and Human Development",
+    "whyMatters": "This article critically highlights the severe lack of public spaces and opportunities for youth in Pakistan, contrasting it with effective local governance in London. It provides concrete data and a compelling argument for the crucial role of local councils in fostering human development and civic engagement.",
+    "summary": [
+      "A 2017 UNDP survey revealed a drastic lack of access for Pakistani youth to public goods like libraries, sports facilities, parks, and cultural events, with 71% having no access to any.",
+      "The author observes a stark contrast in London, where a well-managed local council provides vibrant public parks and libraries, serving as community hubs for physical, mental, and social engagement.",
+      "These public spaces in London, diligently maintained and made accessible by local councils, offer extensive free opportunities for learning, recreation, and social interaction across all age groups.",
+      "The article argues that effective local accountability and service provision, as seen in London, are critical for fostering positive engagement, learning, and an engaged citizenry, which Pakistan currently lacks."
+    ],
+    "facts": [
+      "94% of Pakistani youth had no access to a library and 93% to a sports facility, according to a 2017 UNDP survey.",
+      "71% of Pakistani youth had no access to any public engagement facility (library, sports, park, music, cinema) in 2017.",
+      "London's local council provides free public libraries (allowing 20 books for 3 weeks) and multi-purpose parks (400m away, ~1km perimeter) to residents."
+    ],
+    "academicReferences": [
+      "UNDP's Pakistan National Human Development Report 2017: Unleashing the potential of a young Pakistan",
+      "Sustainable Development Goals (SDGs), particularly SDG 11 (Sustainable Cities and Communities) and SDG 4 (Quality Education)",
+      "Public Goods Theory (e.g., Paul Samuelson's 'The Pure Theory of Public Expenditure')"
+    ],
+    "vocabulary": [
+      {
+        "word": "Whopping",
+        "type": "adjective",
+        "definition": "very large or impressive.",
+        "sentence": "A whopping 71pc had no access to any of the above."
+      },
+      {
+        "word": "Perimeter",
+        "type": "noun",
+        "definition": "the boundary of an area or object.",
+        "sentence": "The park has a walking/ jogging track running along its almost kilometre-long perimeter."
+      },
+      {
+        "word": "Upkeep",
+        "type": "noun",
+        "definition": "the process of maintaining something in good condition.",
+        "sentence": "The park does require significant upkeep for cleaning and maintaining the track, trees and plants, and the grassy fields."
+      },
+      {
+        "word": "Diligently",
+        "type": "adverb",
+        "definition": "in a way that shows care and conscientiousness in one's work.",
+        "sentence": "But, since residents can benefit from healthy activities, the council provides the needed services quite diligently."
+      },
+      {
+        "word": "Accrue",
+        "type": "verb",
+        "definition": "to accumulate or receive over time.",
+        "sentence": "It is difficult to list all the benefits that accrue to the citizens from these two spaces and the free services that come with them."
+      },
+      {
+        "word": "Cross-section",
+        "type": "noun",
+        "definition": "a representative sample of a larger group.",
+        "sentence": "It has been a bit of a surprise to see a broad cross-section of society using these facilities."
+      },
+      {
+        "word": "Starker",
+        "type": "adjective",
+        "definition": "more severe, harsh, or evident.",
+        "sentence": "The contrast between where we need to be and the findings of the survey of Pakistani youth mentioned earlier could not be starker."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What percentage of Pakistani youth, according to the 2017 UNDP survey, had no access to any of the listed public engagement facilities (library, sports, park, music, cinema)?",
+        "options": [
+          "A) 97%",
+          "B) 94%",
+          "C) 71%",
+          "D) 78%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'A whopping 71pc had no access to any of the above.'"
+      },
+      {
+        "question": "What key aspect does the author attribute to the success and effective management of public spaces in London?",
+        "options": [
+          "A) High population density",
+          "B) Private sector investment",
+          "C) Local council management and accountability",
+          "D) Abundant natural resources"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'A lot of credit for this goes to the local council. The local council provides all these public spaces. Local accountability for local issues seems to work well here.'"
+      },
+      {
+        "question": "Which of the following is NOT described as a benefit or feature of the public library in London?",
+        "options": [
+          "A) Free Wi-Fi and internet access",
+          "B) At-cost printing and photocopying",
+          "C) Free personal tutoring services",
+          "D) Spaces for group activities like language learning"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions free Wi-Fi, internet-connected desktops, at-cost printing, and rooms for group activities, but not free personal tutoring services."
+      },
+      {
+        "question": "The author uses the example of London's public spaces to highlight a stark contrast with:",
+        "options": [
+          "A) The quality of private educational institutions in Pakistan.",
+          "B) The findings of the UNDP survey on Pakistani youth.",
+          "C) The economic growth rates of developed countries.",
+          "D) The historical preservation efforts in other cities."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article concludes, 'The contrast between where we need to be and the findings of the survey of Pakistani youth mentioned earlier could not be starker.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What alarming trend regarding public spaces and youth engagement in Pakistan did the 2017 UNDP survey reveal?",
+        "back": "The survey showed a drastic lack of access for Pakistani youth to public goods like libraries (94%), sports facilities (93%), parks (78%), and cultural events, with 71% having no access to any."
+      },
+      {
+        "front": "How does the author illustrate the successful provision and utilization of public goods and spaces in London?",
+        "back": "The author describes well-managed public parks and libraries, provided by local councils, that offer free amenities like sports fields, play areas, walking tracks, books, free Wi-Fi, and group activity spaces, actively used by a broad cross-section of society."
+      },
+      {
+        "front": "What is the author's primary argument regarding the effectiveness of local governance in fostering human development and civic engagement, based on the London example?",
+        "back": "The author argues that local accountability and diligent provision of services by local councils are crucial for creating vibrant public spaces that offer opportunities for physical, mental, and emotional engagement, social interaction, learning, and ultimately, building engaged citizens."
+      },
+      {
+        "front": "What significant implications does the contrast between Pakistan and London's public spaces have for national human development outcomes?",
+        "back": "The article implies that Pakistan's continued lack of public spaces hinders positive youth engagement and overall human development, contributing to poor national outcomes, whereas accessible public spaces are vital for societal well-being and progress."
+      }
+    ]
+  },
+  {
     "id": "curated-1791429280967-368",
     "title": "Chain of custody\n",
     "source": "Dawn",
@@ -10019,600 +10699,6 @@
       {
         "front": "Name two specific policy initiatives mentioned for reducing transport-related air pollution.",
         "back": "Implementing mandatory emission testing and fitness certification, and focusing on the National Electric Vehicle Policy 2025-30 for fleet electrification, especially for two- and three-wheelers."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789782993247-388",
-    "title": "Why isn’t the economy growing?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030809/why-isnt-the-economy-growing",
-    "date": "2026-09-18",
-    "author": "none@none.com (Syed Sardar Ali)",
-    "content": "DURING the roughly 150-year period between 1760 and World War I, England, the countries of northwest Europe, and the US went through the economic transformation of the Industrial Revolution. Real per capita GDP, which had remained stagnant at $2-3 per day, started to rise. Real wages that had historically remained slightly above subsistence level doubled. The percentage of labour force employed in agriculture plummeted. The West’s share of global manufacturing — around 25 per cent before the Industrial Revolution — jumped to more than 80pc by 1914. Some economic historians have labelled this shift as humanity’s ‘great escape’ from poverty, disease, and squalor.\nIn the past 200 years, Japan, South Korea, and China stand as the only non-European nations to have bridged the economic divide with the West. These countries accomplished in decades what the West achieved in centuries by sustaining long periods of nearly double-digit economic growth.\n    \nAfter the destruction wreaked by World War II, Japan grew at an average annual rate of nearly 10pc from 1955 to 1973. In 1968, it surpassed Germany to become the second largest economy. Starting in the early 1960s, South Korea entered a period of sustained economic growth, described as the ‘Miracle on the Han River’. Real GDP increased 25-fold in three decades. In 1996, South Korea became a member of the OECD. In the 40 years following the ‘reform and opening up’ of 1978, China’s economy grew at an average annual rate of about 9.5pc, increasing the size of its GDP roughly 35- to 40-fold in real terms. In the process, China lifted nearly 800 million people out of poverty and became the world’s largest economy in PPP terms in 2014.\nThe high-speed economic growth of the East Asian economies displayed three characteristics. First, the period of rapid economic growth was preceded by fundamental restructuring of society’s political and cultural institutions. Second, the shift from an agricultural to industrial economy was spearheaded by the state. Third, during the transformation period, the attainment of econo­m­­ic goals was prioritised over political freedoms.\nFor Pakistanis to live better, the economy must grow at near double-digit rates for decades.\nFrom 1945 until 1951, Gen Douglas MacArthur presided over Japan’s post-World War II transformation as supreme commander of the allied powers. He had Emperor Hirohito issue a rescript denouncing his divinity, promulgated a new constitution, carried out land reforms, changed the education system, and introduced American cultural elements to Japanese life. In South Korea, before Gen Park seized power in 1961, land reforms had already been accomplished through the initiative of the United States Army Military Government in Korea. Gen Park launched the New Community Movement, promoted traditional ethno-nationalism, and strictly regulated social life. During the first 30 years after the revolution of 1949, the Communist Party of China dismantled the 2,000-year-old imperial system, gave land title to nearly 300m peasants, and laid the foundations of a modern state.\nThe post-World War II reconstruction in Japan was led by the ‘iron triangle’ of bureaucrats from the trade and industry ministry, Liberal Democratic Party politicians, and the captains of Japan’s leading industrial conglomerates. In South Korea, Gen Park adopted the policy of export-led economic growth by providing subsidised credit to chaebols, suppressing domestic demand, and quashing labour unions. In China, the state laid the foundations of basic and heavy industry through financial and technical Soviet assistance. Even after Deng Xiaoping’s liberalisation, the state still controls strategic sectors of the economy and takes the lead in pioneering new technologies.\n    \nNominally, Japan was a parliamentary democracy during the post-World War II economic tra­n­s­­formation, but the Liberal Democratic Party re­­mained in power for 38 years in what is described as a ‘one-and-a-half party system’. Following a coup in 1961, Gen Park first ruled South Korea as a military dictator and then adopted a constitution giving him near absolute powers without term limits. China has remained a one-party-led state since its founding in 1949. Deng Xiaoping, who launched the economic ‘reform and opening up’ in 1978, rejected dem­ands for Western-style democracy and suppressed the 1989 demonstrations in Tiananmen Square.\nIn varying degrees, these conditions were present in all countries that successfully transformed into industrialised nations. Pakistan experienced something similar during its first two decades, when it attempted land reforms, passed the Muslim Family Laws Ordinance, and adopted the five-year planning system, with input from the Harvard Advisory Group. All the economic and social gains of these early decades were lost starting in the 1970s. In 1998, Pakistan discontinued the practice of drawing five-year plans and began transitioning to a medium-term development framework. Slow growth in the last two decades has caused Pakistan to fall behind its South Asian neighbours in living standards. The manufacturing sector represents less than 13pc of GDP, and the country runs an average annual trade deficit of around $30 billion.\nHarsh policy measures have stabilised Pakistan’s economy. During FY2024-2025, Pakistan recorded a current account surplus because of import restrictions and robust remittances. Fiscal deficit dropped to a multi-decade low of 2.6pc of GDP in 2025-26. Record-high inflation has come down to more manageable levels. Pakistan’s sovereign credit rating has improved because of lower external risks. However, growth has remained stagnant at around 3.5pc per annum for the last decade. The IMF projects an annual growth rate of 3.5pc for 2026-27, which is barely sufficient to offset the depreciation of the capital stock and compensate for population growth.\nFor Pakistanis to experience any meaningful improvement in living standards, the economy needs to grow at near double-digit rates for several decades. Our current subsistence level agricultural economy with a rudimentary level of industrialisation has reached the limits of its productive capacity. Transformative growth can only come by making the quantum leap to industry. However, industrialisation requires us to fundamentally restructure the political and social order of society, and the state should lead the industrialisation process, with political differences subordinated to the pursuit of economic goals. The poverty trap will not be broken by incremental policy reforms. It requires restructuring the entire system of society.\nThe writer has a background in public administration. He has worked with international financial institutions, including the World Bank.\nPublished in Dawn, September 18th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2019-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2019,
-      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Challenges and Transformative Growth Strategies for Pakistan",
-    "whyMatters": "This article is crucial for understanding Pakistan's deep-rooted economic challenges by comparing its stalled growth to successful global transformation models. It offers radical, institution-centric recommendations, directly addressing the 'economic challenges and recommendations' component of the Pakistan Affairs paper.",
-    "summary": [
-      "The Industrial Revolution marked humanity's 'great escape' from poverty, a transformation achieved by Western nations over centuries.",
-      "Non-European nations like Japan, South Korea, and China replicated this success in decades through sustained, rapid economic growth, exhibiting characteristics such as fundamental political/cultural restructuring, state-led industrialization, and prioritizing economic goals over political freedoms.",
-      "Pakistan has experienced stagnant economic growth (around 3.5% for the last decade), falling behind regional peers, with its manufacturing sector under 13% of GDP and a persistent trade deficit, despite recent stabilization measures.",
-      "To achieve meaningful improvement in living standards, Pakistan requires near double-digit growth for decades, necessitating a fundamental restructuring of its political and social order, with the state leading industrialization and subordinating political differences to economic pursuits."
-    ],
-    "facts": [
-      "The West's share of global manufacturing increased from ~25% before the Industrial Revolution to over 80% by 1914.",
-      "China's economy grew at an average annual rate of about 9.5% for 40 years post-1978 reforms, lifting nearly 800 million people out of poverty.",
-      "Pakistan's manufacturing sector represents less than 13% of GDP, and its growth has remained stagnant at around 3.5% per annum for the last decade."
-    ],
-    "academicReferences": [
-      "Chalmers Johnson, 'MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975' (for state-led industrialization and developmental states)",
-      "World Bank, 'The East Asian Miracle: Economic Growth and Public Policy' (for detailed analysis of East Asian growth characteristics)",
-      "IMF Country Reports on Pakistan / Economic Survey of Pakistan (for specific economic data, challenges, and policy recommendations for Pakistan)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Stagnant",
-        "type": "adjective",
-        "definition": "Showing no activity; dull and sluggish.",
-        "sentence": "For the last decade, Pakistan's economy has remained stagnant at around 3.5% growth."
-      },
-      {
-        "word": "Subsistence",
-        "type": "noun",
-        "definition": "The action or fact of maintaining or supporting oneself at a minimum level.",
-        "sentence": "Real wages historically remained slightly above subsistence level before the Industrial Revolution."
-      },
-      {
-        "word": "Plummeted",
-        "type": "verb",
-        "definition": "Fall or drop straight down at high speed.",
-        "sentence": "The percentage of the labor force employed in agriculture plummeted during the Industrial Revolution."
-      },
-      {
-        "word": "Spearheaded",
-        "type": "verb",
-        "definition": "Lead an attack or movement.",
-        "sentence": "The shift from an agricultural to an industrial economy in East Asia was spearheaded by the state."
-      },
-      {
-        "word": "Rescript",
-        "type": "noun",
-        "definition": "An official edict or announcement, especially by a pope or emperor.",
-        "sentence": "General MacArthur had Emperor Hirohito issue a rescript denouncing his divinity as part of Japan's post-war reforms."
-      },
-      {
-        "word": "Chaebols",
-        "type": "noun",
-        "definition": "Large industrial conglomerates in South Korea, typically owned and controlled by a single family.",
-        "sentence": "General Park adopted export-led growth by providing subsidized credit to chaebols in South Korea."
-      },
-      {
-        "word": "Rudimentary",
-        "type": "adjective",
-        "definition": "Involving or limited to basic principles; undeveloped.",
-        "sentence": "Pakistan's current subsistence-level agricultural economy has only a rudimentary level of industrialization."
-      },
-      {
-        "word": "Subordinated",
-        "type": "verb",
-        "definition": "Treat or regard as of lesser importance than something else.",
-        "sentence": "For transformative growth, political differences must be subordinated to the pursuit of economic goals."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT identified as a characteristic of high-speed economic growth in East Asian economies?",
-        "options": [
-          "Fundamental restructuring of society’s political and cultural institutions.",
-          "Shift from an agricultural to an industrial economy spearheaded by foreign aid.",
-          "The state leading the industrialization process.",
-          "Prioritization of economic goals over political freedoms."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that the shift to an industrial economy was 'spearheaded by the state', not primarily by foreign aid, though Soviet assistance was mentioned for China's basic industry."
-      },
-      {
-        "question": "What was the average annual growth rate of China's economy for 40 years following its 'reform and opening up' in 1978?",
-        "options": [
-          "Approximately 5%",
-          "Approximately 7.5%",
-          "Approximately 9.5%",
-          "Approximately 12%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states China's economy grew at an average annual rate of about 9.5% during that period."
-      },
-      {
-        "question": "According to the article, what is Pakistan's approximate annual growth rate projected by the IMF for 2026-27?",
-        "options": [
-          "Around 1.5%",
-          "Around 3.5%",
-          "Around 6.0%",
-          "Around 8.0%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions that the IMF projects an annual growth rate of 3.5% for 2026-27 for Pakistan."
-      },
-      {
-        "question": "What radical measure does the author propose for Pakistan to achieve meaningful improvement in living standards?",
-        "options": [
-          "Focus solely on agricultural reforms and boosting remittances.",
-          "Implement incremental policy reforms and deregulate all state sectors.",
-          "Fundamentally restructure the political and social order, with the state leading industrialization.",
-          "Privatize all state-owned enterprises immediately and seek extensive foreign loans."
-        ],
-        "answerIndex": 2,
-        "explanation": "The author explicitly states, 'Transformative growth can only come by making the quantum leap to industry... industrialisation requires us to fundamentally restructure the political and social order of society, and the state should lead the industrialisation process, with political differences subordinated to the pursuit of economic goals.' He also notes, 'The poverty trap will not be broken by incremental policy reforms.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What key economic indicators began to rise, distinguishing the Industrial Revolution as 'humanity’s great escape' from previous eras?",
-        "back": "Real per capita GDP and real wages started to rise, moving significantly above subsistence levels, alongside a drastic drop in the labor force employed in agriculture."
-      },
-      {
-        "front": "Identify three common characteristics displayed by the high-speed economic growth of East Asian economies (Japan, South Korea, China).",
-        "back": "First, a period of rapid growth was preceded by fundamental restructuring of society's political and cultural institutions. Second, the state spearheaded the shift from an agricultural to an industrial economy. Third, economic goals were prioritized over political freedoms during the transformation."
-      },
-      {
-        "front": "What institutional reforms were implemented in Japan under Gen. Douglas MacArthur post-WWII to lay the foundation for economic transformation?",
-        "back": "MacArthur oversaw Emperor Hirohito's denunciation of divinity, promulgated a new constitution, carried out land reforms, changed the education system, and introduced American cultural elements."
-      },
-      {
-        "front": "What fundamental change does the author recommend for Pakistan to achieve transformative economic growth, beyond incremental policy reforms?",
-        "back": "Pakistan needs to fundamentally restructure the political and social order of society, with the state leading the industrialization process, and political differences being subordinated to the pursuit of economic goals, rather than relying on incremental policy reforms."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789783710274-141",
-    "title": "Beyond the dollar\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2031058/beyond-the-dollar",
-    "date": "2026-09-18",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S plan to seek a larger currency-swap facility with China while pursuing a similar arrangement with the US is a prudent financial diversification effort. Despite improvements, our foreign exchange reserves remain vulnerable to debt repayments, import costs and external shocks. More liquidity backstops can ease that pressure. A currency swap lets central banks temporarily exchange their respective currencies, giving the liquidity-constrained country access to foreign exchange for payments and easing pressure during shortages. Pakistan has drawn China’s 30bn yuan facility, due for renewal in 2027 when Islamabad seeks an increase, while awaiting America’s approval for $10bn.\nPursuing both arrangements would give Pakistan more options when external financing comes under pressure. The Chinese facility can also support trade and payments with China in renminbi, reducing the immediate need for dollars for some transactions. A dollar facility would provide more direct support for dollar-denominated obligations and foreign-exchange market pressures. But the limits of these facilities must be clear. A drawn facility creates a liability that must be repaid. The State Bank reserve figures should therefore disclose and distinguish between freely available reserves and funds with repayment obligations. That said, these facilities are not a substitute for economic reform. They can provide breathing space, but cannot permanently strengthen the external account. The risk would be to use easier access to liquidity to postpone the difficult work of raising productivity, expanding exports and reducing dependence on external borrowing. For now, however, the strategy is useful. Pakistan needs stronger buffers against oil-price spikes, debt-service pressures and other external shocks. A wider network of bilateral liquidity facilities can reduce the risk of a temporary shock turning into another protracted balance-of-payment crisis. The aim should be simple. Build credible external buffers and use them sparingly. More importantly, increase exports, attract stable FDI and boost the economy’s capacity to earn foreign exchange.\nPublished in Dawn, September 19th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs",
-    "topic": "Foreign Exchange Reserves Management, Balance of Payments, and Economic Diversification",
-    "whyMatters": "This article directly addresses Pakistan's perennial balance-of-payments constraint and the vulnerability of its foreign exchange reserves, a core theme in the past exam question. It provides specific strategies and long-term solutions, making it a highly relevant contemporary case study for aspirants.",
-    "summary": [
-      "Pakistan is pursuing currency-swap facilities with China (30bn yuan, seeking increase) and the US (awaiting $10bn approval) for financial diversification and to ease pressure on foreign exchange reserves.",
-      "These currency swaps offer temporary liquidity, providing breathing space against external shocks, but they are not a substitute for fundamental economic reforms.",
-      "The facilities create a liability that must be repaid, and central bank figures should differentiate between freely available reserves and those with repayment obligations.",
-      "The long-term solution lies in strengthening external buffers, increasing exports, attracting stable FDI, and boosting the economy’s capacity to earn foreign exchange, rather than relying on temporary liquidity.",
-      "Misusing easier access to liquidity to postpone difficult reforms like raising productivity and expanding exports poses a significant risk."
-    ],
-    "facts": [
-      "Pakistan has drawn China’s 30bn yuan currency-swap facility, due for renewal in 2027.",
-      "Islamabad is seeking an increase in the Chinese facility and awaits US approval for a $10bn arrangement.",
-      "The article was published in Dawn on September 19th, 2026."
-    ],
-    "academicReferences": [
-      "Ishrat Husain's 'Pakistan's Economy: Challenges and Opportunities for the 21st Century'",
-      "Andrew Small's 'The China-Pakistan Axis: Asia's New Geopolitics and Beijing's CPEC Strategy'",
-      "International Monetary Fund (IMF) Stand-By Arrangement (SBA) Reports for Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "Prudent",
-        "type": "adjective",
-        "definition": "Acting with or showing care and thought for the future.",
-        "sentence": "Pakistan's plan to seek currency-swap facilities is described as a prudent financial diversification effort."
-      },
-      {
-        "word": "Liquidity Backstops",
-        "type": "noun phrase",
-        "definition": "Temporary financial arrangements or support that provide access to cash or easily convertible assets, preventing a liquidity crisis.",
-        "sentence": "More liquidity backstops can ease the pressure on foreign exchange reserves during economic shortages."
-      },
-      {
-        "word": "Protracted",
-        "type": "adjective",
-        "definition": "Lasting for a long time or longer than expected or usual.",
-        "sentence": "A wider network of bilateral liquidity facilities can reduce the risk of a temporary shock turning into another protracted balance-of-payment crisis."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary limitation of currency-swap facilities?",
-        "options": [
-          "They are a permanent solution for economic growth.",
-          "They create a liability that must be repaid.",
-          "They increase dependence on a single currency.",
-          "They are difficult to secure from international partners."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'A drawn facility creates a liability that must be repaid,' indicating that currency swaps are temporary measures that incur obligations, not permanent solutions."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the main purpose of Pakistan seeking currency-swap facilities with China and the US?",
-        "back": "To achieve financial diversification, gain temporary access to foreign exchange for payments, and ease pressure on foreign exchange reserves during shortages and external shocks."
-      },
-      {
-        "front": "Why does the article caution against relying solely on currency-swap facilities for Pakistan's economic stability?",
-        "back": "They provide only temporary breathing space and are not a substitute for fundamental economic reforms, as they create liabilities that must be repaid and can risk postponing difficult structural changes."
-      },
-      {
-        "front": "According to the article, what are the long-term solutions for strengthening Pakistan's external account and addressing the balance-of-payments constraint?",
-        "back": "Increasing exports, attracting stable Foreign Direct Investment (FDI), and boosting the economy’s indigenous capacity to earn foreign exchange."
-      },
-      {
-        "front": "How do currency swap facilities relate to Pakistan's vulnerability to external shocks like oil-price spikes and debt-service pressures?",
-        "back": "They act as a buffer, providing temporary liquidity to reduce the risk of temporary shocks escalating into a protracted balance-of-payment crisis by easing pressure on foreign exchange reserves."
-      }
-    ]
-  },
-  {
-    "id": "curated-1789783157282-553",
-    "title": "The forgotten NSP\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2031066/the-forgotten-nsp",
-    "date": "2026-09-18",
-    "author": "none@none.com (Khurram Abbas)",
-    "content": "WHEN the PTI government introduced Pakis­tan’s first-ever National Security Policy (NSP) in 2022, the framework placed its primary emphasis on geo-economics and the pursuit of economic security. However, as this five-year policy nears expiration, it seems that the geo-economic vision and citizen-centric approach envisioned under the NSP have failed to achieve their objectives. This lack of success stems from three major reasons.\nThe foremost reason is the curse of political discontinuity. When prime minister Imran Khan unveiled Pakistan’s first-ever NSP in January 2022, it was hailed as a revolutionary pivot towards a citizen-centric geo-economic future. Yet, just months later, the predictable wheel of Pakistani political instability turned, and with the ouster of the PTI government, the strategic document was promptly relegated to bureaucratic limbo. It seems that in Pakistan’s deeply polarised political landscape, structural continuity is a luxury. Successive administrations traditionally suffer from a profound ‘ownership gap’, and view the policy blueprints of their predecessors with suspicion. This does not mean that the incoming coalition government ripped up the NSP. Rather, the subsequent administrations of the PDM alliance and then the PML-N-led coalition found itself completely consumed by the base instincts of political survival and immediate fiscal fires. These priorities diluted institutional focus and shifted the national priority from long-term economic integration to immediate to short-term emergency bailouts.\nSecondly, a viable geo-economic vision cannot survive in a fortress state. Rather, it demands liberalised trade policies, open borders, and a hyper-competitive export sector. But Islamabad remains wedded to an inward-looking protective regime, that maintains high tariffs on intermediate inputs averaging eight per cent, which is twice as high as Indian and Bangladeshi standards, effectively cutting off Pakistan’s industries from global value chains. This protectionism has pushed Pakistan’s export capacity against a hard structural ceiling, rendering regional competitive advantage remarkably weak. When the NSP was introduced, Pakistan’s total exports had reached a record $39.52 billion. Yet, while the policy promised a geo-economic turnaround to boost these numbers, subsequent years brought severe political instability and soaring energy tariffs that caused total exports to contract.\nThird, for Pakistan, a fractured and hostile neighbourhood is a major constraint in realising its geo-economic strategy. Even the most robust economic policies are ultimately at the mercy of geography. The regional assumptions that underpinned Pakistan’s first-ever NSP collapsed almost as soon as the ink dried. At the time of the NSP’s release, there was cautious optimism in the strategic community of Islamabad. Backchannel diplomacy with India had successfully culminated in a 2021 understanding to ‘strictly observe’ a ceasefire along the Line of Control. This development indicated a slow path towards normalisation despite the scar of the 2019 Pulwama-Balakot crisis. However, New Delhi’s uncompromising policy of refusing any structural dialogue effectively froze the eastern front for Pakistan. Furthermore, New Delhi’s subsequent decision to hold the 1960 Indus Waters Treaty in abeyance, coupled with the intense four-day armed hostilities of May 2025, has effectively slammed the door on any lingering hopes for normalisation in the foreseeable future.\nA viable geo-economic vision cannot survive in a fortress state.\nSimultaneously, Islamabad’s grand calculations on its western border have turned to dust. The initial hope that the Afghan Taliban regime in Kabul would secure transit corridors to Central Asia was quickly shattered. Instead of acting as a cooperative partner, Kabul chose to prioritise its ideological fraternity with the TTP over its relationship with Islamabad. This policy decision of the Taliban regime plunged the Pak-Afghan border into a volatile cycle of skirmishes, trade closures, and a sev­ere domestic security crisis that completely derai­led the NSP’s transit-hub ambitions. Resultantly, bilateral commerce between Pakistan and Afghanistan, Afghan transit trade volume via Pakistan, and third-country exports through Pakistan contracted sharply. Adding to this paralysis, Pakistan’s southwestern frontier remains structurally locked. While the diplomatic relationship with Iran has managed to be stable and progressive, the pervasive American sanctions regime has severely strangled any realistic potential to further enhance economic ties with Tehran. \nPakistan’s geo-economic vision cannot be realised until Islamabad radically restructures its domestic priorities and foreign policy architecture on three major fronts. First and foremost, Islamabad must insulate its core economic strategy from the volatile swings of its political cycles. This demands a rare moment of political maturity, where cross-party consensus elevates econo­mic diplomacy to a non-partisan national objecti­­ve and ensures that a change at the Prime Minister’s Office doesn’t translate into abandonment of the country’s long-term economic roadmap.\nSecond, Islamabad must formally divorce its economy from its security apparatus, and treat them as separate, independent domains so that trade channels are never again sacrificed to the knee-jerk impulses of geopolitical friction. Instead of attempting a grand, macro-level regional integration that is easily checked by state-level hostility, Islamabad must pivot towards a bottom-up approach that maximises its leverage by creating dedicated border economic zones and automated, high-tech transit terminals with its eastern and western neighbours. \nThird, to transition from a security state to a true citizen-centric development state, Pakistan must boldly address its structural bottlenecks. This means dismantling the protectionist tariff walls that stifle innovation, aggressively diversifying the low-tech export basket beyond textiles, and creating a stable, predictable regulatory environment capable of attracting genuine foreign direct investment. Regionally, while the geopolitical landscape remains treacherous, Islamabad cannot afford to be economically isolated. It must leverage its strategic partnership with Beijing to optimise the next phase of CPEC, while simultaneously utilising creative, localised trade arrangements with Kabul and Delhi, where formal diplomatic breakthroughs remain stalled. \nIslamabad must realise that, while it has regained significant strategic importance in the Middle East, and beyond to some extent, it finds itself increasingly isolated within its own region. To fix this, Pakistan must fundamentally rethink its regional and domestic policies so it can truly benefit from its renewed global influence and turn its geo-economic objectives into lasting economic growth. \nThe writer is a strategic analyst of international security. The views expressed are his own.\nX: @itskhurramabbas\nPublished in Dawn, September 19th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Current Affairs",
-    "topic": "National Security Policy, Geo-economics, and Regional Integration Challenges in Pakistan",
-    "whyMatters": "This article critically analyzes Pakistan's failed geo-economic vision and obstacles to regional integration, providing a crucial framework to understand the challenges Pakistan faces in leveraging organizations like ECO. It offers strategic insights into necessary domestic and foreign policy shifts required for successful regional economic engagement.",
-    "summary": [
-      "Pakistan's first-ever National Security Policy (NSP) introduced in 2022, with a primary emphasis on geo-economics and economic security, has largely failed to achieve its objectives due to political discontinuity.",
-      "The 'fortress state' mentality, characterized by inward-looking protectionist policies and high tariffs, has severely hampered Pakistan's export capacity and integration into global value chains.",
-      "A fractured and hostile neighborhood, including frozen relations with India, volatile Pak-Afghan borders, and US sanctions on Iran, has derailed the NSP's regional integration and transit-hub ambitions.",
-      "To succeed, Pakistan must insulate its core economic strategy from political cycles, formally divorce its economy from its security apparatus, and implement structural reforms like dismantling protectionism and leveraging CPEC and localized trade arrangements."
-    ],
-    "facts": [
-      "Pakistan’s first-ever National Security Policy (NSP) was introduced in 2022.",
-      "Pakistan maintains high tariffs on intermediate inputs averaging eight percent, which is twice as high as Indian and Bangladeshi standards.",
-      "At the time of NSP's introduction, Pakistan’s total exports had reached a record $39.52 billion."
-    ],
-    "academicReferences": [
-      "National Security Policy of Pakistan (2022-2026)",
-      "China-Pakistan Economic Corridor (CPEC) Framework under Belt and Road Initiative (BRI)",
-      "Stephen Cohen's 'The Idea of Pakistan' (for broader historical and state-centric analysis)"
-    ],
-    "vocabulary": [
-      {
-        "word": "geo-economics",
-        "type": "noun",
-        "definition": "The study or practice of using economic tools and strategies to achieve geopolitical objectives.",
-        "sentence": "The NSP aimed for a revolutionary pivot towards a citizen-centric geo-economic future."
-      },
-      {
-        "word": "relegated",
-        "type": "verb",
-        "definition": "Consigned to an inferior position, place, or condition.",
-        "sentence": "With the ouster of the PTI government, the strategic document was promptly relegated to bureaucratic limbo."
-      },
-      {
-        "word": "strangled",
-        "type": "verb",
-        "definition": "To restrict or inhibit the development or activity of.",
-        "sentence": "The pervasive American sanctions regime has severely strangled any realistic potential to further enhance economic ties with Tehran."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is identified as the foremost reason for the failure of Pakistan’s geo-economic vision under the NSP?",
-        "options": [
-          "Political discontinuity and lack of ownership.",
-          "High energy tariffs and contraction of exports.",
-          "New Delhi’s uncompromising policy towards dialogue.",
-          "The Afghan Taliban regime’s policy decisions."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'The foremost reason is the curse of political discontinuity' leading to an 'ownership gap' by successive administrations."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What were the primary objectives of Pakistan's National Security Policy (NSP) introduced in 2022?",
-        "back": "The NSP primarily emphasized geo-economics and the pursuit of economic security, aiming for a citizen-centric approach."
-      },
-      {
-        "front": "How does Pakistan's 'fortress state' mentality hinder its geo-economic strategy?",
-        "back": "It maintains inward-looking protective regimes with high tariffs on intermediate inputs, effectively cutting off industries from global value chains and limiting export capacity."
-      },
-      {
-        "front": "Identify two major regional challenges that impeded the NSP's geo-economic vision.",
-        "back": "Frozen eastern front due to India's uncompromising policy (e.g., Indus Waters Treaty, hostilities) and a volatile western border due to the Afghan Taliban's ideological fraternity with TTP, derailing transit-hub ambitions."
-      },
-      {
-        "front": "What are the three major fronts on which Islamabad must radically restructure its policies to realize its geo-economic vision?",
-        "back": "Insulate economic strategy from political cycles, formally divorce economy from security apparatus, and boldly address structural bottlenecks (dismantle protectionism, diversify exports, attract FDI)."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790043221492-672",
-    "title": "Sugar threat\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030802/sugar-threat",
-    "date": "2026-09-18",
-    "author": "none@none.com (Editorial)",
-    "content": "THE sugar industry has renewed pressure on the government for permission to export 1m tonnes of sugar. Millers say they may delay the next crushing season unless the government complies. It is not a request or demand; it is a threat. The Pakistan Sugar Mills Association projects a 1.25m tonne surplus. That number needs independent verification. Sugar millers do not have a clean record on stock reporting. They have been accused repeatedly of inflating surpluses to obtain export permission. Past inquiries have flagged manipulation and coordination among them. None of that makes industry estimates a reliable basis for policy.\nThe export track record itself is the strongest argument for caution. Each time exports have been approved, shortages have followed, with the government importing sugar to fix the mess it created by exporting the commodity. Selling a ‘surplus’ abroad only to buy it back later at a higher price is not trade policy. It is a subsidy for politically influential sugar producers. The government should avoid extremes. It should refrain from imposing an outright export ban or greenlighting the export of 1m tonnes on the industry’s pressure. If independent verification confirms a surplus, it can be exported in tranches. More exports can be approved only if the data shows that the local supply is holding up. That said, deregulation of the sugar sector is the real, long-term fix — not case-by-case export permissions but a supply chain that is freed end to end. The market should set the price of cane and sugar, while imports and exports must be run according to fixed rules and not at political discretion. For this, the industry must open its books for independent checks to verify stock claims, and be exposed to real competition, instead of operating as a tight-knit cartel. In such a scenario, millers will not need to issue threats; a functioning market would give them what they want. And farmers would no longer find themselves in the crossfire.\nPublished in Dawn, September 18th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Economics",
-    "topic": "Agricultural Sector Reform and Market Regulation",
-    "whyMatters": "While this article does not directly address Pakistan's role in ECO or regional integration, it provides an excellent case study for domestic economic governance and the challenges of market regulation. Students can quote it to illustrate issues like rent-seeking behavior, cartelization, and failures in agricultural policy, which are vital themes in Economics and Current Affairs papers concerning Pakistan's internal economic landscape.",
-    "summary": [
-      "Pakistan's sugar industry exerts undue pressure on the government, threatening to delay the next crushing season unless permission to export 1m tonnes of sugar is granted.",
-      "The industry's claims of surplus are historically unreliable and frequently manipulated to obtain export approval, often resulting in domestic shortages and subsequent costly re-imports.",
-      "The government's past actions of approving exports followed by imports are critiqued as a subsidy for politically influential sugar producers rather than sound trade policy.",
-      "The long-term solution involves deregulating the sugar sector to allow market forces to set prices, establishing fixed rules for imports and exports, promoting competition, and ensuring industry transparency."
-    ],
-    "facts": [
-      "Sugar millers are demanding permission to export 1m tonnes of sugar.",
-      "The Pakistan Sugar Mills Association projects a 1.25m tonne surplus (requiring independent verification).",
-      "The article was published in Dawn on September 18th, 2026."
-    ],
-    "academicReferences": [
-      "Ishrat Husain's 'The Political Economy of Pakistan: State, Class and Development' (for insights into rent-seeking and industrial policy challenges).",
-      "World Trade Organization (WTO) Agreement on Agriculture (for framework on trade policies, subsidies, and export/import regulations in agricultural commodities).",
-      "Reports by the International Food Policy Research Institute (IFPRI) on agricultural market distortions and policy recommendations in developing countries."
-    ],
-    "vocabulary": [
-      {
-        "word": "crushing season",
-        "type": "noun",
-        "definition": "The period when sugarcane is harvested and processed into sugar in mills.",
-        "sentence": "Millers say they may delay the next crushing season unless the government complies."
-      },
-      {
-        "word": "inflating surpluses",
-        "type": "verb phrase",
-        "definition": "Artificially increasing the reported amount of excess stock or supply.",
-        "sentence": "They have been accused repeatedly of inflating surpluses to obtain export permission."
-      },
-      {
-        "word": "tranches",
-        "type": "noun",
-        "definition": "Portions or installments of a larger amount, especially of money or an issue of shares.",
-        "sentence": "If independent verification confirms a surplus, it can be exported in tranches."
-      },
-      {
-        "word": "deregulation",
-        "type": "noun",
-        "definition": "The process of removing or reducing government controls and restrictions on an industry or sector.",
-        "sentence": "That said, deregulation of the sugar sector is the real, long-term fix."
-      },
-      {
-        "word": "cartel",
-        "type": "noun",
-        "definition": "An association of manufacturers or suppliers formed to maintain prices at a high level and restrict competition.",
-        "sentence": "The industry must be exposed to real competition, instead of operating as a tight-knit cartel."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary long-term solution proposed for addressing issues within Pakistan's sugar sector?",
-        "options": [
-          "A) Imposing an outright export ban on sugar to ensure domestic supply.",
-          "B) Providing targeted subsidies to sugar millers to improve efficiency and reduce costs.",
-          "C) Deregulation of the sugar sector, allowing market forces to set prices and trade rules, with independent checks.",
-          "D) Nationalizing sugar mills to bring them under direct government control."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'deregulation of the sugar sector is the real, long-term fix — not case-by-case export permissions but a supply chain that is freed end to end. The market should set the price of cane and sugar, while imports and exports must be run according to fixed rules and not at political discretion.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary concern raised by the article regarding the sugar industry's demand for export permission?",
-        "back": "The concern is that the industry's projected surplus figures are unreliable and historically manipulated to gain export approval, often leading to domestic shortages."
-      },
-      {
-        "front": "How does the article characterize past government actions concerning sugar exports and subsequent re-imports?",
-        "back": "It characterizes past actions as a 'subsidy for politically influential sugar producers,' where the government exports a 'surplus' only to re-import it later at a higher price."
-      },
-      {
-        "front": "What specific immediate actions does the article recommend for the government regarding sugar exports?",
-        "back": "The government should independently verify any claimed surplus, avoid extremes (total ban or large-scale export), and if a surplus is confirmed, export in tranches based on local supply data."
-      },
-      {
-        "front": "What key structural changes does the article suggest for the sugar industry to foster a 'functioning market'?",
-        "back": "The industry must open its books for independent verification, be exposed to real competition, and cease operating as a tight-knit cartel."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790042983046-742",
-    "title": "Restructuring lessons\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2030808/restructuring-lessons",
-    "date": "2026-09-18",
-    "author": "none@none.com (Ghazan Jamal)",
-    "content": "INTERIOR Minister Mohsin Naqvi’s proposal for more provinces wasn’t the first time someone close to the establishment made the suggestion. However, this time a stated motivation was also provided: namely, the complete collapse of the existing governance system. While much has been written about this issue, it has largely been theoretical and speculative, with the closest real-world examples coming from other countries. The problem with those examples is that, while informative, they mostly exist in a context very different to Pakistan’s, making it difficult to draw parallels. But an example closer to home can help us predict better. The last time Pakistan’s internal borders were redrawn was in 2018 with Fata’s merger with KP through the 25th Amendment.\n    \nA similarly stated motivation for the merger was given at the time — the utter collapse of the old Fata governance system. That system has been blamed for the militant takeover in many parts of Fata (now called the merged districts). Many also hold it responsible for erstwhile Fata’s extremely poor human development indices compared to the Pakistani average. The merger with KP, and thus the extension of KP’s institutional structures, laws, and systems, was deemed necessary to resolve Fata’s problems. Another proclaimed benefit was that the merger would bring the government closer to the public. The state believed that the militants had filled the void created by an unresponsive government. So, in many ways, the motivation to merge rested on two beliefs: first, to replace an old, collapsed system with one offering better governance; and second, to involve communities in decision-making by bringing government closer to them. Similar justifications are now being touted to support the idea of new provinces.\nEight years after the merger, the question is: how effectively has the change improved both aspects for residents of the merged areas? The question of whether decision-making has been brought closer to the people and thereby made government institutions more responsive to the public’s needs is perhaps the easier one to answer: there’s no evidence that matters have improved; if anything, the opposite appears to be true. The merged areas still have no share in the NFC and continue to depend on discretionary federal funding. In fact, they are a step removed from that planning process, as it must come through KP rather than directly to them. Similarly, the tribal system is, by definition, participatory and community-led. Replacing it with a more centralised, institutional state structure has decreased community involvement and the power of the local people to run their own affairs.\n    \nThe question of governance is more complex, but even here, there is not much improvement. First, the new system is less participatory even in governance, further alienating people from their government. Second, the administrative system is now far too bureaucratic to respond promptly. It is increasingly bloated — current administrative expenditures for the merged areas have more than doubled, from about Rs50 billion at the time of the merger to over Rs100bn now. Similarly, the judicial process, like elsewhere in the country, is painfully slow, making locals increasingly likely to turn to traditional jirgas rather than the courts. The creation of alternative dispute resolution me­­chanisms and dispute resolution councils, aligned with traditional jirgas and under the guise of the district administration and district police respectively, acknowledges the delay in dispensing justice. Worse, there has been no marked improvement in any human development indicator; apart from isolated instances, no real examples of systemic improvement in service delivery exist. Where security is concerned, there is a surge in militant activity in the region, with terrorist incidents and casualty figures worse than in the years before the merger. Clearly, the merger is not preventing the resurgence of militancy in the area.\nWhat insights does the Fata merger offer into the recently proposed move to create new administrative units?\nThe merger failed to achieve the improvements that proponents vowed it would bring, even though it had backing at the national level, unlike the idea of new provinces, especially from the three major national political parties (the PML-N, PTI and PPP), establishment experts and development partners. It was a rare moment in Pakistan’s recent political history in which all three major national parties came together to pass the 25th Constitutional Amendment and then saw it passed in the KP Assembly by consensus. The idea of new provinces has no such national consensus at the moment; it would look more like arm-twisting if the political parties go ahead with it. However, even in the case of the merger, locals were excluded from the decision-making process, and a majority of Fata’s elected parliamentarians at the time favoured reforms, though they raised serious reservations about how these reforms were being pursued. This was cause for concern. Regrettably, their alarm was disregarded; in fact, it was termed a vain effort by locals to save an archaic system.\nOne might argue that the merger was, in many ways, a different reform than creating new provinces. Yet both reforms ignore the same basic issue of structure and approach, which must be addressed before there is any redrawing of internal provincial borders or creation of new administrative units. To have a responsive government, communities need more involvement through a regularly functioning, well-resourced local government system. Helping communities decide the policies they want is essential for a successful transition to new systems. Whether this happens in a larger administrative unit or a smaller one matters less.\nMost importantly, Pakistan needs a mindset shift in how it pursues policy and reforms. We need an approach that replaces preconceived notions and unsubstantiated beliefs that dictate policy. We must move away from a mindset that envisions the state as a mere administrative entity; instead, the state must assume the role of a citizen-empowering force that serves the people. Without this, even the most logical ‘reforms’ will prove cosmetic and do little to address systemic failures.\nThe writer is a development practitioner and a former parliamentarian.\nX: @GhaziGJ\nPublished in Dawn, September 18th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "Pakistan Affairs / Governance and Public Policy",
-    "topic": "Administrative Restructuring, Decentralization, and Local Governance in Pakistan: Lessons from the FATA Merger",
-    "whyMatters": "This article provides a critical, evidence-based analysis of large-scale administrative reforms in Pakistan, using the FATA merger as a local case study. It offers crucial insights into the pitfalls of top-down approaches and the necessity of local government empowerment and community involvement, which are vital arguments for civil service exams.",
-    "summary": [
-      "The proposal for new provinces, motivated by the collapse of the existing governance system, parallels the 2018 FATA merger with KP (25th Amendment).",
-      "The FATA merger aimed to replace a collapsed system, improve governance, and bring government closer to the people by extending KP's institutional structures and laws.",
-      "Eight years later, the FATA merger largely failed to achieve its goals: it decreased community involvement, increased bureaucracy and administrative costs, slowed justice, showed no human development improvement, and led to a surge in militancy.",
-      "The article argues that successful administrative restructuring, whether through new provinces or mergers, requires a well-resourced local government system, community involvement in decision-making, and a mindset shift towards citizen empowerment."
-    ],
-    "facts": [
-      "FATA's merger with KP occurred in 2018 through the 25th Constitutional Amendment.",
-      "Administrative expenditures for the merged areas more than doubled from approximately Rs50 billion at the time of the merger to over Rs100 billion now.",
-      "Militant activity and casualty figures in the merged areas are currently worse than in the years preceding the merger."
-    ],
-    "academicReferences": [
-      "25th Constitutional Amendment, 2018 (Pakistan)",
-      "National Finance Commission (NFC) Award",
-      "Khyber Pakhtunkhwa Local Government Act, 2013/2019"
-    ],
-    "vocabulary": [
-      {
-        "word": "Discretionary",
-        "type": "adjective",
-        "definition": "Based on individual judgment or choice rather than fixed rules.",
-        "sentence": "The merged areas still have no share in the NFC and continue to depend on discretionary federal funding."
-      },
-      {
-        "word": "Archaic",
-        "type": "adjective",
-        "definition": "Very old or old-fashioned; no longer relevant or applicable.",
-        "sentence": "Regrettably, their alarm was disregarded; in fact, it was termed a vain effort by locals to save an archaic system."
-      },
-      {
-        "word": "Cosmetic",
-        "type": "adjective",
-        "definition": "Affecting only the surface or appearance; not deep or significant.",
-        "sentence": "Without this, even the most logical ‘reforms’ will prove cosmetic and do little to address systemic failures."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, which of the following was NOT an observed outcome of the FATA merger with KP?",
-        "options": [
-          "A) A significant improvement in human development indicators.",
-          "B) A doubling of administrative expenditures in the merged areas.",
-          "C) A decrease in community involvement in decision-making.",
-          "D) A surge in militant activity and terrorist incidents."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'there has been no marked improvement in any human development indicator' and 'no real examples of systemic improvement in service delivery exist.' Options B, C, and D are all mentioned as negative outcomes of the merger."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the primary stated motivation behind the FATA merger with KP in 2018, as well as the recent proposal for new provinces?",
-        "back": "The primary stated motivation was the complete collapse of the existing governance system, with the aim to replace it with better governance and involve communities in decision-making."
-      },
-      {
-        "front": "How did the FATA merger impact community involvement and local decision-making according to the article?",
-        "back": "It decreased community involvement and the power of local people to run their own affairs, as the participatory tribal system was replaced by a more centralized, institutional state structure."
-      },
-      {
-        "front": "List two significant negative consequences related to governance and security that occurred after the FATA merger, as highlighted by the author.",
-        "back": "Governance became less participatory and more bureaucratic, with administrative expenditures doubling and judicial processes slowing down. Security worsened, with a surge in militant activity and higher casualty figures than before the merger."
-      },
-      {
-        "front": "What fundamental changes in approach does the article advocate for successful administrative reforms in Pakistan?",
-        "back": "The article advocates for stronger, well-resourced local government systems, greater community involvement in policy decisions, and a mindset shift where the state acts as a citizen-empowering force rather than a mere administrative entity."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790043627903-429",
-    "title": "For Ishmal\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2031063/for-ishmal",
-    "date": "2026-09-18",
-    "author": "none@none.com (Rafia Zakaria)",
-    "content": "IN Pakistan fatherless daughters walk with a target pinned to their backs. No male guardian leaves them unprotected from the eyes of the men who surround them. In a recent heart-breaking case of the cruelty of this truth, a nine-year-old girl named Ishmal was shot dead.\nIshmal lived in upper Swat. She was the youngest of six children who were all left orphans when their father passed away. According to family accounts and police reports, Ishmal went to school as usual on Sept 9, 2026. When she came home, she changed out of her school uniform and went to a neighbour’s house (she reportedly often did this). According to media reports citing the police complaint, not long after she had left her home, her sister heard screams and then gunshots. When the sister rushed to the neighbour’s house, she saw Ishmal lying on the floor covered in blood. The man who would turn out to be the accused in this case was seen going into a room.\nFamily members and neighbours rushed to help, and Ishmal was taken to the hospital. Ishmal died on the way to the hospital or shortly after getting there. The investigation revealed that she had been allegedly sexually assaulted, shot twice and left to die. Such was the alarming cruelty perpetrated on her. She was simply a child, a fatherless girl, who was adjudged to be worthless except to fulfil the lust and will of a man. \nThe suspect, a man identified as Sultan, has been arrested. The suspect had a government job as a watchman. He is the father of six children, some of whom were Ishmal’s friends and the reason why she would go to his house in the afternoons after school. His wife was also taken into custody — possibly because she was present during the assault and murder. The accused has been booked on murder charges under the Pakistan Penal Code.\nOnce media attention ends, no one pursues cases of assault and murder.\nOn Sept 11, 2026, a huge protest was held in Madyan in Swat, where women came out to protest against the murder and what they saw as the unlikelihood of the culprit (who is reportedly seen by the locals as having government contacts) being brought to justice.\nThe answer to that question is unlikely to be known soon. Swat has been the site of some alarming violence against minor girls of late. On June 24, 2026, a 17-year-old girl Ayesha was found missing from her home in Abbottabad. According to the FIR, the girl had been abducted by two men who took her to a hotel, where she was sexually assaulted. She was allegedly given a poisonous or intoxicating substance afterwards. She was left abandoned at Saidu Sharif Teaching Hospital in critical condition and died during treatment.\nIn that case, too, there were arrests, including of a man named Muzammil who was identified as the chief suspect in an FIR registered in Mingora. Cases for murder, rape, kidnapping and administering a poisonous substance have all been registered against him. There was initial outrage, but as soon as it died down, it was unclear what became of the prosecution and how many more suspects had been arrested.\nCases are registered; suspects are caught and even charged and put in prison. The court process begins, but after that it becomes increasingly unclear as to what happens to the men who commit these crimes with such impunity. While it seems that the government and law enforcement in Pakistan believe they should give the impression that ‘something is being done’, once the media attention dissipates, no one bo­­thers to find out whether those who are caught, charged and jai­led are ever real­­-ly punished.\nSo, in the wake of the ever-growing numbers of dead Pakistani girls, one can only make a plea to the government to demand that all provinces and all police stations start providing end-of-year reports on the status of various convictions for the murder and sexual assaults of girls within their jurisdiction. \nWhile the numbers of actual cases will always be low because the vast majority of them are never reported, at least there would be some accountability for what happens to the accused in the year or two years following. \nOnce the relevant institutions start to take some responsibility and are made to feel accountable for any lack of action, and when the conviction of femicidal maniacs who abduct and sexually assault women becomes a priority, a cultural change might ensue, in which women and girls are not seen as worthless and expendable — lesser citizens who can be raped and murdered at the whim of a man. \nThe writer is an attorney teaching constitutional law and political philosophy. \nrafia.zakaria@gmail.com\nPublished in Dawn, September 19th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs / Sociology / Current Affairs",
-    "topic": "Gender-Based Violence, Rule of Law, and State Accountability in Pakistan",
-    "whyMatters": "This article offers a critical analysis of systemic failures in Pakistan's justice system regarding violence against women and girls. It provides strong arguments and specific policy recommendations that are highly relevant for essays and analytical questions on governance, human rights, and social justice.",
-    "summary": [
-      "Fatherless daughters in Pakistan face extreme vulnerability, often becoming targets of sexual assault and murder due to perceived lack of protection.",
-      "Despite initial media attention and arrests, cases of violence against girls frequently stall in the justice system, with perpetrators rarely facing genuine punishment.",
-      "The government and law enforcement agencies are criticized for giving an impression of taking action without ensuring real accountability or convictions.",
-      "The author advocates for mandatory end-of-year reports from police stations and provinces on the status of convictions for violence against girls to foster accountability and drive cultural change."
-    ],
-    "facts": [
-      "Ishmal, a 9-year-old fatherless girl from upper Swat, was sexually assaulted and shot dead on September 9, 2026.",
-      "The suspect, Sultan, a government watchman and father of six, was arrested, and his wife was also taken into custody on suspicion of being present during the assault and murder.",
-      "Another case mentioned involves 17-year-old Ayesha from Abbottabad, who was abducted, sexually assaulted, given a poisonous substance, and died after being abandoned at Saidu Sharif Teaching Hospital on June 24, 2026."
-    ],
-    "academicReferences": [
-      "Human Rights Commission of Pakistan (HRCP) Annual Reports on Human Rights in Pakistan",
-      "United Nations Convention on the Rights of the Child (UN CRC) / Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
-      "Pakistan Penal Code (PPC) sections related to murder, sexual assault, and kidnapping"
-    ],
-    "vocabulary": [
-      {
-        "word": "impunity",
-        "type": "noun",
-        "definition": "exemption from punishment or freedom from the injurious consequences of an action.",
-        "sentence": "The article highlights how men often commit these crimes with such impunity, rarely facing real justice."
-      },
-      {
-        "word": "dissipates",
-        "type": "verb",
-        "definition": "(of a feeling or other intangible thing) disappear or cause to disappear.",
-        "sentence": "Once the media attention dissipates, it becomes unclear what happens to the prosecution of these cases."
-      },
-      {
-        "word": "femicidal",
-        "type": "adjective",
-        "definition": "relating to or characterized by femicide (the killing of a woman or girl, in particular by a man and on account of her gender).",
-        "sentence": "The writer urges that the conviction of femicidal maniacs who abduct and sexually assault women must become a priority."
-      },
-      {
-        "word": "perpetrated",
-        "type": "verb",
-        "definition": "carry out or commit (a harmful, illegal, or immoral action).",
-        "sentence": "Such was the alarming cruelty perpetrated on the child, Ishmal."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary recommendation made by the author to improve accountability in cases of violence against girls in Pakistan?",
-        "options": [
-          "A) Increased media coverage for all such cases.",
-          "B) Mandatory end-of-year reports from provinces and police stations on convictions.",
-          "C) Stricter punishments under the Pakistan Penal Code.",
-          "D) More protests and public demonstrations by women's rights organizations."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states the author's plea to the government to demand that 'all provinces and all police stations start providing end-of-year reports on the status of various convictions for the murder and sexual assaults of girls within their jurisdiction.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What particular vulnerability does the article highlight for \"fatherless daughters\" in Pakistan?",
-        "back": "They are perceived as unprotected and often become targets for sexual assault and murder due to the absence of a male guardian."
-      },
-      {
-        "front": "According to the author, what is the major flaw in Pakistan's justice system regarding cases of violence against girls?",
-        "back": "While cases are registered and suspects arrested, prosecution often stalls, and culprits rarely face real punishment once media attention fades, indicating a systemic lack of accountability."
-      },
-      {
-        "front": "What specific institutional change does the writer propose to combat the impunity of perpetrators of violence against girls?",
-        "back": "The writer pleads for all provinces and police stations to provide end-of-year reports on the status of convictions for the murder and sexual assaults of girls within their jurisdiction."
-      },
-      {
-        "front": "How does the article suggest that greater accountability in the justice system could lead to cultural change regarding women and girls?",
-        "back": "When relevant institutions take responsibility and the conviction of perpetrators becomes a priority, women and girls might no longer be seen as worthless, expendable, or lesser citizens."
       }
     ]
   }
