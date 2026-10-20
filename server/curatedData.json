@@ -1,5 +1,351 @@
 [
   {
+    "id": "curated-1792462957876-691",
+    "title": "Toll on trade\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2038471/toll-on-trade",
+    "date": "2026-10-20",
+    "author": "none@none.com (Editorial)",
+    "content": "A YEAR after Islamabad severed commercial ties with Kabul over security concerns, the border trade disruption is taking a growing toll on KP, where livelihoods, businesses, farm markets, and a large number of workers depend on cross-border commerce. Bilateral trade has fallen by more than 72pc, from $1.3bn in FY25 to $358m in FY26 — which means fewer customers for local shops, lower earnings for farmers, idle trucks, and lost jobs. KP was already struggling to attract investment and create work amid rising terrorism; the loss of an established market makes recovery harder. The damage is not confined to the province. Farmers and factories in Punjab and Sindh, too, have been hit, and Pakistan’s exports to Central Asia have been badly disrupted.\nAfghanistan has long been KP’s natural outlet because of its proximity and the long-standing commercial and tribal networks. Traders built their businesses around moving food, cement, pharmaceuticals, and other goods across the border. Medical tourism, hotels, and other services catering to Afghan visitors are suffering as well. When crossings shut, traders cannot send their goods to distant markets without facing higher costs, finding new buyers, and adapting to unfamiliar commercial conditions. In fact, most services cannot be shifted at all. Rerouting shipments is not an easy fix. Pakistan’s shortest land routes to Central Asia run through Afghanistan. Alternatives mean longer distances, higher freight costs, and thinner margins. Small enterprises with little financial cushion are the most exposed to prolonged border trade closures. KP needs expanding markets and productive investment to employ a growing workforce; it cannot afford to lose existing ones before alternatives are in place. Islamabad has valid security concerns — the Taliban must prevent Afghan territory from being used for attacks on Pakistan. But border closures also hurt citizens on both sides, who have nothing to do with Kabul’s policies. Islamabad must find the right balance between its security priorities and the economic strain on KP’s residents. Sustained efforts to obtain genuine security assurances from Kabul and carefully monitored arrangements for legitimate trade may offer a way to protect both. It should also assess the losses of traders, transporters, and farmers, and help businesses find new markets. The government must protect its people from terrorism without restricting their livelihoods.\nPublished in Dawn, October 20th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "Current Affairs",
+    "topic": "Regional Trade & Integration Challenges",
+    "whyMatters": "This article is crucial for discussing contemporary challenges to regional integration efforts, particularly those involving the Economic Cooperation Organization (ECO) and Central Asian connectivity. It provides a real-world case study of how geopolitical tensions and security concerns directly impede trade and economic development, offering concrete examples of the impact on Pakistan's economy.",
+    "summary": [
+      "Islamabad's decision to sever commercial ties with Kabul over security concerns has led to a significant disruption in cross-border trade, severely impacting livelihoods and businesses in Khyber Pakhtunkhwa (KP) and other provinces.",
+      "Bilateral trade between Pakistan and Afghanistan has plummeted by over 72%, resulting in substantial economic losses, reduced earnings for farmers, idle transport, and widespread job losses across various sectors.",
+      "Afghanistan serves as Pakistan's most direct and cost-effective land route to Central Asian markets; trade disruptions necessitate expensive rerouting and make regional commerce unviable for many small and medium enterprises.",
+      "The article emphasizes the need for Islamabad to balance its valid security concerns with the economic well-being of its citizens, advocating for sustained diplomatic efforts for security assurances and carefully monitored legitimate trade arrangements."
+    ],
+    "facts": [
+      "Bilateral trade between Pakistan and Afghanistan fell by over 72%, from $1.3 billion in FY25 to $358 million in FY26.",
+      "KP's economy, including farm markets, medical tourism, and other services, is heavily reliant on cross-border commerce with Afghanistan.",
+      "Pakistan's shortest land routes to Central Asia run through Afghanistan; alternatives mean longer distances, higher freight costs, and thinner margins."
+    ],
+    "academicReferences": [
+      "Economic Cooperation Organization (ECO) Vision 2025: A Blueprint for Regional Prosperity",
+      "World Bank Report on Regional Trade and Connectivity in South Asia",
+      "International Crisis Group Report: 'Pakistan's Afghan Gambit' (or similar report on Pakistan-Afghanistan relations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Severed",
+        "type": "verb",
+        "definition": "To cut off completely; to put an end to.",
+        "sentence": "Islamabad severed commercial ties with Kabul over security concerns, leading to significant trade disruption."
+      },
+      {
+        "word": "Toll",
+        "type": "noun",
+        "definition": "The extent of loss, damage, or suffering arising from a particular event or action.",
+        "sentence": "The border trade disruption is taking a growing toll on KP's economy and livelihoods."
+      },
+      {
+        "word": "Confined",
+        "type": "adjective",
+        "definition": "Restricted in area or extent; limited.",
+        "sentence": "The damage from trade disruption is not confined to KP but also affects farmers and factories in Punjab and Sindh."
+      },
+      {
+        "word": "Imperatives",
+        "type": "noun",
+        "definition": "Things that are essential or urgent; a vital necessity.",
+        "sentence": "Islamabad must find the right balance between its security imperatives and the economic strain on its citizens."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the approximate percentage decrease in bilateral trade between Pakistan and Afghanistan from FY25 to FY26, according to the article?",
+        "options": [
+          "50%",
+          "60%",
+          "72%",
+          "85%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that bilateral trade fell by more than 72%, from $1.3bn in FY25 to $358m in FY26."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How do border closures with Afghanistan specifically hinder Pakistan's regional integration goals, particularly concerning Central Asian trade?",
+        "back": "Afghanistan provides Pakistan's shortest land routes to Central Asia. Closures force rerouting, leading to longer distances, higher freight costs, and reduced competitiveness for Pakistani exports, thereby impeding regional trade and connectivity that ECO aims to foster."
+      },
+      {
+        "front": "What are the primary economic consequences for Pakistan, particularly Khyber Pakhtunkhwa (KP), due to the disruption of cross-border trade with Afghanistan?",
+        "back": "KP faces severe impacts including a drastic fall in bilateral trade (over 72%), fewer customers for local businesses, lower earnings for farmers, idle transport, and widespread job losses, making economic recovery harder amid existing challenges like terrorism."
+      },
+      {
+        "front": "What is the core dilemma Islamabad faces regarding its trade policy with Afghanistan, as highlighted in the article?",
+        "back": "Islamabad must balance its valid security concerns, necessitating prevention of Afghan territory use for attacks, against the severe economic strain imposed by border closures on its own citizens' livelihoods and businesses. The dilemma is protecting security without crippling the economy."
+      },
+      {
+        "front": "What dual-pronged approach does the article suggest for Islamabad to mitigate the negative economic impact while addressing security concerns?",
+        "back": "The article suggests sustained efforts to obtain genuine security assurances from Kabul, coupled with implementing carefully monitored arrangements for legitimate trade. Additionally, it advises assessing losses and helping businesses find new markets."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792462876241-329",
+    "title": "Trump & Pakistan\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2038466/trump-pakistan",
+    "date": "2026-10-20",
+    "author": "none@none.com (Touqir Hussain)",
+    "content": "WRITING about Pakistan-US ties is like penning literary criticism of a Shakespearean play. One constantly reinterprets and looks for new answers to old questions. How does one evaluate Pak-US ties under President Donald Trump? Do Trump’s extravagant compliments to Pakistan’s leadership reflect happy relations between the two countries? The short answer is no. American leaders routinely indulge in hyperbole. Add to it the sales pitch of a marketing ‘genius’, and you get Trump’s effusive but effervescent compliments.\nCompared to Joe Biden’s time, US-Pakistan ties have no doubt been elevated, but not upgraded. The uptick stems from more than Trump’s bonhomie with Pakistan’s leadership. The relationship is largely a function of his experimental foreign policy. He is reassessing America’s China policy and relations with Russia, rebalancing ties with traditional allies and partners — to America’s advantage — and deprioritising, though not abandoning, the traditional foreign policy establishment’s overweening ambitions to maintain US global primacy. The emphasis is on unilateralism, the naked use of military power, and economic warfare.\nThis foreign policy stems from his whims, with his politics oriented towards the MAGA movement and the rich class, especially tech billionaires; tariffs used as leverage not only for trade but also for geopolitical gain; and a search for greater market share for America, as well as potential investment and business deals with China and Russia. Pakistan has been an incidental beneficiary of Trump’s policies, good or bad. It has again tried to play its historical role of rescuer in America’s adventures. It has gained by dramatically enhancing its diplomatic profile in the Middle East and its image in America. Washington appears to appreciate the need to maintain Pakistan’s defence capability for regional stability, especially in South Asia, and to use it as leverage against India.\nPakistan, a populous country and a nuclear power, occupies an important geostrategic position between the subcontinent, Iran, Arabia, Central Asia, Russia, and China. Its strength is an asset, and its weakness a liability. One makes it a useful partner; the other makes it hard to ignore, much less alienate. Washington wants to contain China’s political and economic profile in Pakistan. Alienating it would shut the door on all US influence.\nThe US benefits from a tangible relationship with Pakistan.\nAmerica benefits from a tangible relationship with Pakistan in various areas of cooperation. The Trump administration approved a $686 million upgrade and sustainment package for Pakistan’s F-16 fleet. Separately, a $488m foreign military sales contract was awarded to Northrop Grumman for APG-66 and APG-68 radar engineering and technical support, covering 21 countries, including Pakistan. Pak-US cooperation is also developing in the economic area, mainly in energy, IT, crypto, agriculture, renewable energy, and critical minerals, where Pakistan is drawing attention as a significant source. America is also the top destination for Pakistan’s exports. The US needs Pakistan’s cooperation to act against transnational terrorists who endanger regional, American, and global security. Counterterrorism cooperation thus continues. Lastly, Washington has always been concerned about a Pakistan-India conflict and will continue to play a crisis management role.\nBehind the veneer of Trump’s rhetoric and personalised foreign policy, however, traditional foreign policy seems to be at work, led by China hawk and pro-India Secretary of Sta­te Marco Rubio, which may be circumscribing Pak-US ties. Oth­erwise, how do we explain that neither he, nor the deputy secreta­­ry, nor an under-secretary of state has visited Pakistan? There’s no semblance of a strategic relationship, despite Rubio’s lip service to the idea.\nSo, is Trump pursuing a dual-track policy, especially regarding the China policy and its derivative India policy, that influences the administration’s approach to Pakistan? Treasury Secretary Scott Bessent hinted at the ‘real’ China policy when he said in an interview that the relationship with China poses an unprecedented national security challenge. “China is … the biggest economic threat, and they’re the biggest military threat,” he said.\nThe reality is that Trump hasn’t done anything extraordinary for Pakistan that we might fear losing. Much of his freelance foreign policy will likely depart with him, but the impact on Pak-US ties might be minimal. US-Israeli wars in the Middle East have dented America’s standing in the region, providing a fresh rationale for continued engagement with Pakistan in the post-Trump world.\nBottom line: The relationship with the US is necessary but not indispensable. We should keep it that way to safeguard our strategic autonomy. \nPublished in Dawn, October 20th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Current Affairs / International Relations",
+    "topic": "Pakistan-US Relations under Trump Administration; US Foreign Policy in South Asia",
+    "whyMatters": "While this article does not directly address Pakistan's role in the ECO or regional integration, it is crucial for understanding the complex dynamics of Pakistan-US relations under a specific US administration. Students can analyze the article to grasp how US domestic politics and a president's unique foreign policy approach influence bilateral ties, which is a common theme in Current Affairs papers and essential for broader foreign policy analysis.",
+    "summary": [
+      "Trump's effusive compliments to Pakistan's leadership do not reflect genuinely 'happy' relations but rather his 'experimental foreign policy' and 'sales pitch' style.",
+      "The 'uptick' in US-Pakistan ties stemmed from Trump's re-evaluation of US China/Russia policies, rebalancing alliances, and a shift towards unilateralism and economic warfare, making Pakistan an incidental beneficiary.",
+      "Pakistan gained by enhancing its diplomatic profile and securing US appreciation for its defense capability, used as leverage against India, while also serving as a rescuer in America's regional adventures.",
+      "Despite Trump's personalized foreign policy, traditional foreign policy elements, led by 'China hawk' and 'pro-India' officials like Marco Rubio, likely circumscribed deeper strategic Pak-US ties, hinting at a dual-track policy."
+    ],
+    "facts": [
+      "The Trump administration approved a $686 million upgrade and sustainment package for Pakistan’s F-16 fleet.",
+      "A $488 million foreign military sales contract was awarded to Northrop Grumman for radar engineering and technical support, covering 21 countries including Pakistan.",
+      "The article explicitly states its publication date as Dawn, October 20th, 2026."
+    ],
+    "academicReferences": [
+      "Andrew Small, 'The China-Pakistan Axis: An Entangling Alliance' (for context on US efforts to contain China in Pakistan).",
+      "US National Security Strategy documents (to understand US foreign policy shifts and priorities under different administrations).",
+      "Reports and analyses from prominent US think tanks (e.g., Council on Foreign Relations, Atlantic Council) on US policy towards South Asia."
+    ],
+    "vocabulary": [
+      {
+        "word": "Hyperbole",
+        "type": "noun",
+        "definition": "Exaggerated statements or claims not meant to be taken literally.",
+        "sentence": "American leaders routinely indulge in hyperbole when speaking about foreign relations."
+      },
+      {
+        "word": "Effusive",
+        "type": "adjective",
+        "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained or heartfelt manner.",
+        "sentence": "Trump's effusive compliments were a hallmark of his personalized foreign policy approach."
+      },
+      {
+        "word": "Effervescent",
+        "type": "adjective",
+        "definition": "Lively and enthusiastic; (in this context) quickly fading or short-lived.",
+        "sentence": "His effusive but effervescent compliments did not reflect deep strategic ties."
+      },
+      {
+        "word": "Overweening",
+        "type": "adjective",
+        "definition": "Showing excessive confidence or pride.",
+        "sentence": "The traditional foreign policy establishment's overweening ambitions to maintain US global primacy were challenged by Trump."
+      },
+      {
+        "word": "Circumscribing",
+        "type": "verb",
+        "definition": "Restricting something within limits; confining.",
+        "sentence": "The actions of China hawk and pro-India officials may be circumscribing Pak-US ties behind the scenes."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the author suggest about Trump's compliments to Pakistan's leadership?",
+        "options": [
+          "They are effusive but effervescent, part of his sales pitch.",
+          "They reflect truly happy relations and strong strategic partnership.",
+          "They indicate a significant upgrade in US-Pakistan ties.",
+          "They are primarily focused on counter-terrorism cooperation."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states Trump's compliments are 'effusive but effervescent' and part of his marketing 'genius', not reflecting deep, happy relations."
+      },
+      {
+        "question": "According to the article, what is a key characteristic of Trump's experimental foreign policy?",
+        "options": [
+          "Emphasis on multilateralism and strengthening traditional alliances.",
+          "Prioritizing humanitarian aid and global development.",
+          "Focus on unilateralism, the naked use of military power, and economic warfare.",
+          "Abandoning the goal of maintaining US global primacy."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states Trump's foreign policy emphasizes 'unilateralism, the naked use of military power, and economic warfare'."
+      },
+      {
+        "question": "How did Pakistan primarily benefit incidentally from Trump's policies?",
+        "options": [
+          "By securing a permanent seat on the UN Security Council.",
+          "By significantly reducing its national debt through US aid.",
+          "By dramatically enhancing its diplomatic profile and image, and securing US appreciation for its defense capability.",
+          "By becoming the sole destination for US exports in the region."
+        ],
+        "answerIndex": 2,
+        "explanation": "Pakistan gained by 'dramatically enhancing its diplomatic profile in the Middle East and its image in America' and securing US appreciation for its defense capability."
+      },
+      {
+        "question": "Which US official is mentioned as potentially 'circumscribing Pak-US ties' due to their 'China hawk' and 'pro-India' stance?",
+        "options": [
+          "Donald Trump",
+          "Scott Bessent",
+          "Marco Rubio",
+          "Joe Biden"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article names 'China hawk and pro-India Secretary of State Marco Rubio' as potentially circumscribing ties."
+      },
+      {
+        "question": "What is the article's 'bottom line' regarding Pakistan's relationship with the US?",
+        "options": [
+          "It is indispensable and should be strengthened at all costs.",
+          "It is necessary but not indispensable, to safeguard strategic autonomy.",
+          "It should be abandoned due to its transient nature.",
+          "It is primarily driven by US-Israeli wars in the Middle East."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article concludes: 'The relationship with the US is necessary but not indispensable. We should keep it that way to safeguard our strategic autonomy.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's primary assessment of Trump's 'extravagant compliments' regarding Pakistan-US ties?",
+        "back": "They are 'effusive but effervescent,' not reflecting deeply happy relations but rather Trump's 'experimental foreign policy' and 'sales pitch'."
+      },
+      {
+        "front": "How does the article characterize the nature of US-Pakistan ties during Trump's presidency, despite the 'uptick'?",
+        "back": "Ties were 'elevated, but not upgraded,' largely a function of Trump's experimental foreign policy rather than deep strategic alignment."
+      },
+      {
+        "front": "What geostrategic significance does Pakistan hold for the US, as described in the article?",
+        "back": "Pakistan's position between the subcontinent, Iran, Arabia, Central Asia, Russia, and China makes its strength an asset and its weakness a liability, ensuring US engagement to contain China and for regional stability."
+      },
+      {
+        "front": "What dual-track policy is hinted at within the Trump administration concerning Pakistan, despite the President's public rhetoric?",
+        "back": "A traditional foreign policy, led by 'China hawk' and 'pro-India' officials like Marco Rubio, aims to contain China and potentially influences the administration's approach to Pakistan, possibly circumscribing deeper ties."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792463340680-944",
+    "title": "Burnt bridges\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2038472/burnt-bridges",
+    "date": "2026-10-20",
+    "author": "none@none.com (Editorial)",
+    "content": "A WEEK after the federal government imposed governor’s rule and emergency in KP, PPP Chairperson Bilawal Bhutto-Zardari invited the opposition to engage ‘positively’ with the centre, saying this could lead to their reversal. Mr Bhutto-Zardari, addressing reporters at a Sunday memorial for the 2007 Karsaz attack on his late mother Benazir Bhutto’s homecoming procession, spoke about the need for a national effort to address the growing economic crisis, resurgent terrorism, and Pakistan’s increasingly dysfunctional electoral system. But his offer, however well-meaning, stands little chance of leading to a political breakthrough in the current climate. Without concrete confidence-building measures initiated by the ruling parties, the opposition is unlikely to put much faith in mere assurances, given that the centre has crossed a major political red line by deposing an elected provincial government and supplanting it with a setup handpicked by Islamabad.\nMr Bhutto-Zardari seemed to be missing the point when he called the ‘non-functional’ KP chief minister a “coward” who was “not ready to defend his own land”. Whatever his failings, the people of KP had elected him, and the remedy lay with them, not with Islamabad. By forcing him aside, the centre has signalled that it does not need public consensus to do as it pleases. The centre’s dispute with KP, after all, was not about whether terrorism needed confronting, but how. KP had resisted the centre’s approach to fighting terrorism, and the resulting stand-off had stymied any progress. In dismissing the provincial government, the centre had signalled that security policies would be prescribed for the province rather than derived in consultation with it. That bridge has already been burnt.\nIt is commendable that the PPP chairperson is at least talking about a path back to normalcy, but the PPP is a partner in the very government that imposed governor’s rule. If it wants the decision reversed, it should convince its ally in Islamabad, not ask the opposition to be ‘positive’. It is hoped that the PML-N will also reconsider its position. The latter party would do well to recall that, in 2009, when its government in Punjab was dismissed and governor’s rule imposed, it had itself joined a ‘long march’ on Islamabad to press its demands. It is unbecoming of that party to have denied its opponents the same right to protest now, when it is in power. It will not be easy to build bridges with the opposition, but the PML-N, more than any other party, has the power to concede some ground to show goodwill. It should take up the National Assembly opposition leader on his offer to engage the jailed PTI chief, and facilitate that effort if it is serious about national reconciliation and a unified response to Pakistan’s crises.\nPublished in Dawn, October 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs / Current Affairs / Political Science",
+    "topic": "Federal-Provincial Relations, Democratic Governance, Political Crises and National Reconciliation in Pakistan",
+    "whyMatters": "This article offers a critical analysis of federal-provincial power dynamics and challenges to democratic principles in Pakistan, which are recurring themes in competitive exams. It provides insights into the political ramifications of executive actions and the necessity of national reconciliation for stability.",
+    "summary": [
+      "The federal government imposed governor's rule and emergency in KP, deposing an elected provincial government, an action described as crossing a major political red line.",
+      "PPP Chairperson Bilawal Bhutto-Zardari's call for the opposition to engage positively is seen as lacking credibility, as his party is a partner in the very government responsible for the governor's rule.",
+      "The centre's move signals a unilateral approach to security policies in KP, bypassing provincial consultation, thereby burning bridges regarding cooperative policy-making.",
+      "The ruling PML-N is criticized for hypocrisy, as it denies the opposition the right to protest governor's rule despite having conducted a 'long march' for the same reason when its own government was dismissed in 2009."
+    ],
+    "facts": [
+      "Governor’s rule and emergency were imposed in KP a week prior to the article's publication.",
+      "The article mentions a Sunday memorial for the 2007 Karsaz attack on Benazir Bhutto’s homecoming procession.",
+      "The PML-N government in Punjab was dismissed and governor's rule imposed in 2009, leading to a 'long march' in protest."
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan 1973 (specifically Articles related to Emergency Powers and Provincial Autonomy)",
+      "18th Amendment to the Constitution of Pakistan (for understanding provincial autonomy and federalism)",
+      "Ayesha Jalal's 'The Struggle for Pakistan: A Muslim Homeland and Global Politics' (for historical context on state-province relations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Imposed",
+        "type": "verb",
+        "definition": "forced something unwelcome to be accepted or put in place.",
+        "sentence": "A WEEK after the federal government imposed governor’s rule and emergency in KP..."
+      },
+      {
+        "word": "Dysfunctional",
+        "type": "adjective",
+        "definition": "not operating normally or properly; unable to fulfill its role.",
+        "sentence": "Mr Bhutto-Zardari... spoke about the need for a national effort to address the growing economic crisis, resurgent terrorism, and Pakistan’s increasingly dysfunctional electoral system."
+      },
+      {
+        "word": "Stymied",
+        "type": "verb",
+        "definition": "prevented or hindered the progress of.",
+        "sentence": "KP had resisted the centre’s approach to fighting terrorism, and the resulting stand-off had stymied any progress."
+      },
+      {
+        "word": "Unbecoming",
+        "type": "adjective",
+        "definition": "not appropriate; not fitting or suitable.",
+        "sentence": "It is unbecoming of that party to have denied its opponents the same right to protest now, when it is in power."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason the article states Bilawal Bhutto-Zardari's offer for engagement stands little chance of success?",
+        "options": [
+          "A) He did not address the economic crisis adequately.",
+          "B) His party is a partner in the government that imposed governor's rule.",
+          "C) The opposition is not ready to engage.",
+          "D) He lacked specific policy proposals."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'the PPP is a partner in the very government that imposed governor’s rule,' making his offer to the opposition less credible without confidence-building measures from the ruling parties."
+      },
+      {
+        "question": "What historical event is cited to highlight the PML-N's past actions regarding governor's rule?",
+        "options": [
+          "A) The 1973 Constitution's promulgation.",
+          "B) The 2009 'long march' against governor's rule in Punjab.",
+          "C) The 1999 military coup.",
+          "D) The 2018 general elections controversy."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions that in 2009, when its government in Punjab was dismissed, the PML-N 'had itself joined a ‘long march’ on Islamabad to press its demands.'"
+      },
+      {
+        "question": "According to the article, what has the centre's dismissal of the provincial government in KP signaled regarding security policies?",
+        "options": [
+          "A) A new era of consultation with provinces.",
+          "B) Security policies would be prescribed for the province rather than derived in consultation with it.",
+          "C) A reduction in terrorism in KP.",
+          "D) Increased financial autonomy for KP in security matters."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'In dismissing the provincial government, the centre had signalled that security policies would be prescribed for the province rather than derived in consultation with it.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental principle of governance does the imposition of governor's rule by the federal government against an elected provincial government undermine, according to the article?",
+        "back": "The democratic principle of public consensus and the autonomy of elected provincial governments, effectively signaling that the centre does not need public consensus to act as it pleases."
+      },
+      {
+        "front": "Why does the article consider the 'bridge burnt' concerning security policies between the center and KP?",
+        "back": "Because the center unilaterally dismissed the provincial government, indicating that security policies will now be imposed rather than developed through consultation with KP, thus ending cooperative policy formation."
+      },
+      {
+        "front": "What specific suggestion does the article make for the PML-N to foster national reconciliation and a unified response to Pakistan's crises?",
+        "back": "The PML-N should take up the National Assembly opposition leader on his offer to engage the jailed PTI chief and facilitate that effort."
+      },
+      {
+        "front": "Beyond terrorism and the economic crisis, what other significant national challenge does the article highlight as contributing to Pakistan's current instability?",
+        "back": "Pakistan's increasingly dysfunctional electoral system."
+      }
+    ]
+  },
+  {
     "id": "curated-1792375532681-614",
     "title": "The data centre and water question\n",
     "source": "Dawn",
@@ -335,6 +681,129 @@
       {
         "front": "Why is effective devolution particularly critical for climate governance in Pakistan, according to the article?",
         "back": "Climate governance requires multi-level coordination, but without empowered LGs, climate policy remains concentrated in provincial capitals, where implementation capacity is weakest at the local delivery point, leaving citizens vulnerable."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792463184450-87",
+    "title": "Ethiopian sea fever\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2038148/ethiopian-sea-fever",
+    "date": "2026-10-19",
+    "author": "none@none.com (Zarrar Khuhro)",
+    "content": "WITH attention sharply focused on Iran and the Saudi-Ansarullah conflict, you may be forgiven for not noticing that the East African nation of Eritrea has invaded its much larger neighbour Ethiopia. On the face of it, this is insane: Ethiopia’s population is at least 30 times that of its smaller neighbour and its GDP of $140 billion dwarfs Eritrea’s modest $2bn. In military terms, while Eritrea — thanks to its national service policy — fields a large army consisting of some 350,000 active duty soldiers and approximately 650,000 reservists, these are largely poorly armed, equipped and trained and heavily outgunned by Ethiopia, which has greatly modernised its military in recent years.\nNevertheless, Eritrean forces entered Ethiopian territory in late September this year, sparking clashes with the Ethiopian army. Is Eritrea insane for taking on its much larger neighbour? Not quite. The incursion comes at a time when Ethiopia is facing an alliance of rebels that have banded together with the aim of toppling Ethiopian president Abiy Ahmed’s government. The alliance unites seven groups including the Oromo Liberation army, the Fano militia and the Tigray People’s Liberation Front. The TPLF have an interesting history here; staging repeated rebellions against Ethiopian rule, the Tigrayan-led Ethiopian People’s Revolutionary Democratic Front actually held power in Ethiopia from 1991 to 2018 when they were sidelined by the current Ethiopian leadership leading to what is known as the Tigray war of 2020-2022.\nRelations between Ethiopia and Eritrea are even more contentious: when Eritrea became independent in 1993 following a brutal 30-year conflict, it effectively cut off Ethiopia’s access to the Red Sea, something that Abiy Ahmed wants to rectify. Ethiopia and Eritrea did have a brief rapprochement during the Tigray war, when they joined forces against the TPLF. Yes, the same TPLF that Eritrea is now supporting against Ethiopia; another object lesson that while alliances are temporary, interests are permanent.\nEritrea has reason to believe that if Ethiopia manages to subdue the rebels, a victorious Ethiopian army will march into Eritrea and wrest access to the Red Sea, something that Abiy deems as ‘inevitable’ and an ‘existential’ need for his country. He’s not wrong; the most populous landlocked country in the world, Ethiopia is forced to rely on the Addis-Djibouti corridor for 95 per cent of its export-import trade and has to pay close to $2bn annually in transit and port fees.\nIs Eritrea insane for taking on its much larger neighbour?\nBut its rush to the Red Sea is setting off alarm bells among coastal states, notably Somalia, which is livid at Abiy’s outreach to the breakaway so-called Republic of Somaliland, that has also pledged its full support to Ethiopia’s quest for the Red Sea and is considering leasing 19 kilometres to Ethiopia. It’s worth noting that the only country to have formally recognised Somaliland is Israel, and Somaliland also has very close relations with Israel’s chief Arab ally, the UAE.\nWhy is this important? Because while Saudi Arabia and Turkiye currently have good relations with Ethiopia, neither would be delighted to have Ethiopia formally become a littoral state of the Red Sea, and in Turkiye’s case, certainly not at the cost of Somalia, with which Turkiye has massively expanded its relations, encompassing both the military and economic spheres. For the embattled Saudis, having a state closely allied to Israel and the UAE expand its power in this manner may have negative long-term consequences. \nBut while these are somewhat distant concerns, the expanding conflict in East Africa is certainly drawing Egypt’s attention. Why? Because Egypt, as Herodotus wrote in the 5th century BC, is “a gift of the Nile”, a saying that is as true today as it was then, and Ethio­pia’s plan to build the ‘Grand Ethiopian Renaissance Dam’ on the headwaters of the Nile poses an existential threat to Egypt.\nThus, it is in Egypt’s interests to curtail Ethiopian power as much as possible by supporting Eritrea. And then there’s Sudan, where Ethiopia is accused not only of allowing the use of its territory for arms shipments from the UAE to the rebel RSF in Sudan, but also (along with the UAE) by the Sudanese army of carrying out drone strikes on Sudanese soil. Moreover, a recent investigation by Reuters claims to have uncovered a training camp for the Rapid Support Forces in Western Ethiopia. To be fair, Ethiopia’s actions are also dictated by its financial dependence on the UAE (the RSF’s chief backer) and its fears that a victory of the Sudanese army — relations between the two have never been good — will result in a strategic encirclement of Ethiopia. And so, we see that, once again, fear and financial imperatives are stoking another conflict that will not stay confined to one region. \nThe writer is a journalist.\nX: @zarrarkhuhro\nPublished in Dawn, October 19th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Current Affairs",
+    "topic": "Geopolitics of the Red Sea and East African Conflicts",
+    "whyMatters": "This article does not directly address Pakistan's role in ECO or regional integration in South/Central Asia. However, it offers a detailed comparative case study of complex geopolitical rivalries, resource competition, and shifting alliances in East Africa, which can be used to illustrate challenges in regional integration and the pursuit of national interests by states in other contexts.",
+    "summary": [
+      "Eritrea's incursion into Ethiopia, despite military disparity, is opportunistic, capitalizing on Ethiopia's internal conflicts with a rebel alliance (Oromo, Fano, TPLF) and its perceived weakness.",
+      "Ethiopia, the most populous landlocked country, views access to the Red Sea as an 'existential' need, driving its outreach to Somaliland and alarming neighboring coastal states like Somalia.",
+      "The regional conflict is intensified by the involvement of external powers: Egypt opposes Ethiopia due to the Grand Ethiopian Renaissance Dam (GERD) on the Nile, while Turkey and Saudi Arabia are wary of Ethiopia's potential Red Sea expansion, especially if aligned with Israel/UAE.",
+      "Sudan's internal conflict between the Sudanese army and the RSF is linked, with Ethiopia accused of supporting the RSF due to financial dependence on the UAE (a key backer of RSF) and fears of strategic encirclement by a victorious Sudanese army."
+    ],
+    "facts": [
+      "Ethiopia's population is at least 30 times that of Eritrea, with a GDP of $140 billion compared to Eritrea's $2 billion.",
+      "Ethiopia, the most populous landlocked country, relies on the Addis-Djibouti corridor for 95% of its export-import trade, incurring close to $2 billion annually in transit and port fees.",
+      "The Tigray People’s Liberation Front (TPLF) held power in Ethiopia from 1991 to 2018, later leading to the Tigray War (2020-2022) after being sidelined by the current government.",
+      "Ethiopia's plan to build the 'Grand Ethiopian Renaissance Dam' (GERD) on the headwaters of the Nile poses an 'existential threat' to Egypt.",
+      "Somaliland is considering leasing 19 kilometers to Ethiopia for Red Sea access; Israel is the only country to have formally recognized Somaliland."
+    ],
+    "academicReferences": [
+      "John Mearsheimer's 'The Tragedy of Great Power Politics' (for understanding state behavior driven by security and power in regional dynamics)",
+      "Christopher Clapham's 'The Horn of Africa: State, Society and Foreign Policy' (for detailed context on regional geopolitics)",
+      "Steven Solomon's 'Water: The Epic Struggle for Wealth, Power, and Civilization' (relevant for the hydropolitics of the Nile and GERD controversy)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Incursion",
+        "type": "noun",
+        "definition": "An invasion or attack, especially a sudden or brief one.",
+        "sentence": "Eritrean forces made an incursion into Ethiopian territory, sparking clashes."
+      },
+      {
+        "word": "Rapprochement",
+        "type": "noun",
+        "definition": "An establishment or resumption of harmonious relations.",
+        "sentence": "Ethiopia and Eritrea had a brief rapprochement during the Tigray war."
+      },
+      {
+        "word": "Littoral state",
+        "type": "noun",
+        "definition": "A country that has a coast or is on the shore of a sea or lake.",
+        "sentence": "Saudi Arabia and Turkiye would not be delighted to have Ethiopia formally become a littoral state of the Red Sea."
+      },
+      {
+        "word": "Existential threat",
+        "type": "noun phrase",
+        "definition": "A threat to one's very existence or continued being.",
+        "sentence": "Ethiopia's plan to build the GERD poses an existential threat to Egypt."
+      },
+      {
+        "word": "Curtail",
+        "type": "verb",
+        "definition": "Reduce in extent or quantity; impose a restriction on.",
+        "sentence": "It is in Egypt's interests to curtail Ethiopian power as much as possible by supporting Eritrea."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a primary reason for Ethiopia's urgent need for Red Sea access, as highlighted in the article?",
+        "options": [
+          "To expand its naval power and influence.",
+          "It is the most populous landlocked country, reliant on expensive transit fees through other nations.",
+          "To establish new military bases along the Red Sea coast.",
+          "To facilitate religious pilgrimages to coastal sites."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states Ethiopia is the 'most populous landlocked country in the world' and 'is forced to rely on the Addis-Djibouti corridor for 95 per cent of its export-import trade and has to pay close to $2bn annually in transit and port fees,' making Red Sea access an 'existential' need."
+      },
+      {
+        "question": "Which country is most concerned about Ethiopia's Grand Ethiopian Renaissance Dam (GERD)?",
+        "options": [
+          "Eritrea",
+          "Somalia",
+          "Egypt",
+          "Saudi Arabia"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that 'Ethiopia’s plan to build the ‘Grand Ethiopian Renaissance Dam’ on the headwaters of the Nile poses an existential threat to Egypt,' linking Egypt's identity to the Nile."
+      },
+      {
+        "question": "The article uses the Tigray People's Liberation Front (TPLF) as an example to illustrate which principle of international relations?",
+        "options": [
+          "The importance of economic sanctions.",
+          "That internal conflicts always lead to external interventions.",
+          "That while alliances are temporary, interests are permanent.",
+          "The effectiveness of humanitarian aid in conflict resolution."
+        ],
+        "answerIndex": 2,
+        "explanation": "Referring to the TPLF's shifting alliances, the article notes: 'another object lesson that while alliances are temporary, interests are permanent.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary geopolitical motivation behind Ethiopia's quest for Red Sea access?",
+        "back": "Ethiopia's primary motivation is to overcome its landlocked status as the world's most populous landlocked country, reducing its heavy reliance and substantial costs associated with using the Addis-Djibouti corridor for 95% of its trade."
+      },
+      {
+        "front": "How do Ethiopia's internal conflicts, particularly involving the TPLF, create vulnerabilities exploited by its neighbors?",
+        "back": "Ethiopia's internal conflicts, especially with groups like the TPLF, distract and weaken its central government, creating an opportune moment for neighbors like Eritrea to launch incursions or support rebel alliances to destabilize Ethiopia and prevent its consolidation of power, which could threaten Eritrean sovereignty."
+      },
+      {
+        "front": "Explain why Egypt views Ethiopia's Grand Ethiopian Renaissance Dam (GERD) as an 'existential threat' and how this influences its regional policy.",
+        "back": "Egypt, historically dependent on the Nile as its lifeblood, perceives the GERD on the Nile's headwaters as an existential threat to its water security. This concern drives Egypt's policy to 'curtail Ethiopian power as much as possible,' including potentially supporting Ethiopian adversaries like Eritrea."
+      },
+      {
+        "front": "Identify two Red Sea coastal states concerned by Ethiopia's pursuit of direct sea access and briefly state their reasons.",
+        "back": "Somalia is 'livid' due to Ethiopia's outreach to breakaway Somaliland, which offers Red Sea access. Saudi Arabia and Turkey are also concerned, as a new Red Sea littoral state, especially one potentially allied with Israel/UAE, could disrupt regional power balances and challenge their respective interests and influence (e.g., Turkey's strong ties with Somalia)."
       }
     ]
   },
@@ -10342,385 +10811,6 @@
       {
         "front": "According to the author, what has largely replaced revolutions in the 21st century, and what is the enduring nature of true revolutions?",
         "back": "In the 21st century, internecine conflicts have largely replaced revolutions. However, true revolutions, like tsunamis, are unpredictable and do not wait for 'armchair ideas' or 'armchair action,' possessing an inherent, unstoppable force for change."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790736336958-458",
-    "title": "Water shortage\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2033684/water-shortage",
-    "date": "2026-09-30",
-    "author": "none@none.com (Editorial)",
-    "content": "THAT the country is entering the Rabi season with an anticipated water shortage of nearly 25pc, the lowest carryover since 2021, is a matter of serious concern. It is likely to hit the next wheat harvest hard — a staple food crop already under stress owing to bad policies. Wheat output fell to 27.5 million tonnes against a 29.7m target and 32m consumption last season, requiring imports. Now farmers face less water. The shortage is not simply a consequence of poor rainfall or hydrology. Water management decisions have also contributed to it. According to a report in this paper, more than 1MAF of water that could have been conserved was released from reservoirs during Kharif. Political pressure reportedly played a role in these releases. If so, the episode exposes an entrenched weakness in national water management. The fact that the country continues to manage water driven by short-term political needs instead of long-term planning must change.\nThe management of reservoirs should follow transparent rules based on water availability, crop requirements, environmental needs and future risks. There is also a need to distinguish between wasteful releases and legitimate environmental flows. Rivers cannot be reduced to irrigation channels. They require water to sustain their ecosystems. Environmental needs must be properly calculated and incorporated into planning. The coming shortage will also revive the old provincial dispute. Irsa will have to distribute a smaller pool of water among the provinces. The existing arrangements already generate disagreement, particularly over how shortages should be shared. Severe shortages will intensify interprovincial tensions — which the centre must prevent. Decisions should be based on verifiable data, in accordance with the Water Apportionment Accord, 1991. The government must also invest in irrigation efficiency and water conservation. Farmers cannot be expected to bear the cost of decades of institutional neglect. The larger failure is that our policymakers still treat water shortages as emergencies rather than as a permanent national constraint. That approach is not sustainable. Climate change makes water availability less predictable while population and food demand continue to rise. The country, therefore, needs a water policy that looks beyond one crop, one harvest and one province. It needs to conserve more, waste less and plan years ahead.\nPublished in Dawn, September 30th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs / Environmental Science / Economics",
-    "topic": "Water Crisis and Management in Pakistan",
-    "whyMatters": "This article provides a critical analysis of Pakistan's recurrent water scarcity, linking it to policy failures, interprovincial disputes, and climate change. It is essential for competitive exam students to understand the systemic issues and proposed solutions for essays and analytical questions on national development, food security, and environmental challenges.",
-    "summary": [
-      "Pakistan is anticipated to face a severe water shortage of nearly 25% for the upcoming Rabi season, threatening the vital wheat harvest and exacerbating food security concerns.",
-      "The water crisis is attributed not only to poor rainfall but also significantly to flawed water management decisions, including politically motivated, wasteful releases from reservoirs during the Kharif season.",
-      "The article emphasizes the urgent need for transparent, rule-based reservoir management that prioritizes long-term planning, considers crop and environmental requirements, and distinguishes between wasteful releases and legitimate ecological flows.",
-      "The impending shortage is expected to intensify interprovincial water disputes, mandating impartial, data-driven distribution based on the Water Apportionment Accord, 1991, and a shift towards a proactive, long-term national water policy focused on conservation and efficiency."
-    ],
-    "facts": [
-      "Anticipated water shortage of nearly 25% for the Rabi season, marking the lowest carryover since 2021.",
-      "Wheat output fell to 27.5 million tonnes against a 29.7m target and 32m consumption last season, necessitating imports.",
-      "More than 1 MAF (Million Acre-Feet) of water that could have been conserved was reportedly released from reservoirs during Kharif due to political pressure."
-    ],
-    "academicReferences": [
-      "Water Apportionment Accord, 1991 (A foundational agreement for interprovincial water distribution in Pakistan).",
-      "Pakistan's National Water Policy 2018 (A key governmental document outlining the strategy for water management).",
-      "Sustainable Development Goal 6 (SDG 6): Clean Water and Sanitation (A global framework highlighting the importance of sustainable water management)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Rabi season",
-        "type": "noun",
-        "definition": "The spring harvest season for crops sown in winter, typically from October to March.",
-        "sentence": "The anticipated water shortage is particularly concerning for the upcoming Rabi season's wheat harvest."
-      },
-      {
-        "word": "Entrenched",
-        "type": "adjective",
-        "definition": "Firmly established and difficult to change (of an attitude, habit, or belief).",
-        "sentence": "The episode exposes an entrenched weakness in national water management, driven by short-term political needs."
-      },
-      {
-        "word": "Hydrology",
-        "type": "noun",
-        "definition": "The scientific study of the movement, distribution, and quality of water on Earth and other planets.",
-        "sentence": "The water shortage is not simply a consequence of poor rainfall or hydrology but also management decisions."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is identified as a significant contributing factor to the anticipated water shortage, beyond natural phenomena like poor rainfall?",
-        "options": [
-          "A) Excessive investment in modern irrigation technologies.",
-          "B) Politically influenced, wasteful releases of water from reservoirs.",
-          "C) The strict enforcement of environmental flow regulations.",
-          "D) An unexpected surplus of water in upstream regions."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Water management decisions have also contributed to it. According to a report... more than 1MAF of water that could have been conserved was released from reservoirs during Kharif. Political pressure reportedly played a role in these releases.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary concern for the upcoming Rabi season highlighted in the article regarding food security?",
-        "back": "An anticipated water shortage of nearly 25%, the lowest carryover since 2021, which is likely to severely impact the next wheat harvest."
-      },
-      {
-        "front": "Beyond natural factors, what institutional weakness does the article pinpoint as a major cause of Pakistan's water management issues?",
-        "back": "The country's tendency to manage water based on short-term political needs rather than long-term planning, leading to suboptimal reservoir releases."
-      },
-      {
-        "front": "How does the article propose mitigating potential interprovincial disputes over water sharing during periods of scarcity?",
-        "back": "By basing distribution decisions on verifiable data and strict adherence to the Water Apportionment Accord, 1991, with the central government acting to prevent intensified tensions."
-      },
-      {
-        "front": "What fundamental shift in national policy does the article advocate for to address persistent water shortages?",
-        "back": "Moving from treating water shortages as emergencies to recognizing them as a permanent national constraint, requiring a comprehensive, long-term water policy that prioritizes conservation, efficiency, and planning years ahead."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790736770691-962",
-    "title": "Kashmir unresolved\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2033685/kashmir-unresolved",
-    "date": "2026-09-30",
-    "author": "none@none.com (Editorial)",
-    "content": "SEVEN years after India revoked occupied Kashmir’s limited autonomy, disquiet continues in the disputed region over the prevailing state of affairs. Even loyalist parties in India’s good books are not happy. This was reflected in a resolution passed by the held region’s assembly on Monday, which called for a restoration of statehood that was scrapped when the Indian constitution’s Article 370 was abrogated in 2019. The occupied area’s chief minister, Omar Abdullah, claimed that statehood was “our right”. BJP lawmakers termed the resolution “anti-national”. Two similar resolutions have been passed over the years by the IHK legislature.\nThe problem goes far deeper than the restoration of the status quo ante that existed before August 2019. The core issue is the Kashmiris’ right to self-determination, which India has been blocking since the division of the subcontinent. Unless this core issue is addressed with justice, the problem will linger as Kashmiris in the occupied territory are denied their fundamental rights. While speaking at the UN General Assembly, Prime Minister Shehbaz Sharif also highlighted the Kashmir issue, saying that Kashmiris had been waiting “for eight decades” for the UN to fulfil its commitments. He also pointed out the human rights violations that India has carried out against the Kashmiri population. Turkiye’s President Recep Erdogan, while speaking at the UNGA, similarly called for a resolution of the Kashmir question as per the “relevant resolutions”.\nThe human rights situation in the disputed region is very grim. A UN report from November 2025 has condemned the arbitrary arrests, suspicious deaths in custody, torture and “discriminatory treatment of Kashmiri and Muslim communities”. Held Kashmir’s wounds cannot be left to fester. The people of Kashmir, including even those politicians who were or are close to New Delhi, are chafing under the post-Article 370 regime in the held region. Along with rights abuses, there is also alarm over the demographic changes in IHK, as the Kashmiris are being turned into a minority in their own land. The just solution lies in India addressing the issue through a trilateral dialogue involving the legitimate representatives of the Kashmiri people and Pakistan. India’s rulers can continue to believe the fiction that occupied Kashmir is an ‘integral’ part of their country. But that does nothing to address the dissatisfaction that both the common Kashmiri and the political elite of the region feel towards Indian rule. The dispute has poisoned all chances of normalisation in South Asia. Instead of arrogantly dismissing talk of freedom, India’s rulers need to listen to voices from IHK, and together with Pakistan, work towards a just solution to this dispute.\nPublished in Dawn, September 30th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / International Relations / Current Affairs",
-    "topic": "Kashmir Dispute: Post-Article 370 Scenario, Human Rights Concerns, and International Appeals",
-    "whyMatters": "This article provides a current perspective on the Kashmir dispute, highlighting the dissatisfaction within Indian-occupied Kashmir (IHK) and Pakistan's stance. It's crucial for competitive exam students to understand the contemporary dimensions of this long-standing conflict, including human rights issues and proposed solutions, for essay and general studies questions.",
-    "summary": [
-      "Seven years after the abrogation of Article 370 in 2019, disquiet persists in Indian-occupied Kashmir (IHK), with even loyalist parties calling for the restoration of statehood.",
-      "The core issue is identified as the Kashmiris' right to self-determination, which India has allegedly blocked since the subcontinent's division, rather than merely the restoration of pre-2019 status.",
-      "The human rights situation in IHK is described as grim, with concerns over arbitrary arrests, suspicious deaths, torture, and alarm over demographic changes aiming to turn Kashmiris into a minority.",
-      "The article advocates for a just solution through a trilateral dialogue involving India, Pakistan, and legitimate representatives of the Kashmiri people, aligning with UN resolutions and international calls for resolution."
-    ],
-    "facts": [
-      "India revoked occupied Kashmir's limited autonomy and abrogated Article 370 in 2019, a move that is 7 years old as per the article's publication date.",
-      "Kashmiris have reportedly been waiting for eight decades for the UN to fulfill its commitments regarding their right to self-determination.",
-      "A UN report from November 2025 condemned human rights violations in IHK, including arbitrary arrests, suspicious deaths in custody, torture, and discriminatory treatment."
-    ],
-    "academicReferences": [
-      "UN Security Council Resolutions on Jammu and Kashmir (e.g., UNSC Resolution 47 of 1948)",
-      "Simla Agreement, 1972 (between India and Pakistan, regarding bilateral resolution of disputes)",
-      "Reports by the UN Office of the High Commissioner for Human Rights (OHCHR) on Jammu and Kashmir"
-    ],
-    "vocabulary": [
-      {
-        "word": "Revoked",
-        "type": "verb",
-        "definition": "To officially cancel or withdraw something.",
-        "sentence": "India revoked occupied Kashmir’s limited autonomy seven years ago."
-      },
-      {
-        "word": "Abrogated",
-        "type": "verb",
-        "definition": "To repeal or do away with (a law, right, or formal agreement).",
-        "sentence": "The resolution called for a restoration of statehood that was scrapped when the Indian constitution’s Article 370 was abrogated in 2019."
-      },
-      {
-        "word": "Disquiet",
-        "type": "noun",
-        "definition": "A feeling of anxiety or worry.",
-        "sentence": "Seven years after India revoked occupied Kashmir’s limited autonomy, disquiet continues in the disputed region."
-      },
-      {
-        "word": "Status quo ante",
-        "type": "noun phrase",
-        "definition": "The previously existing state of affairs.",
-        "sentence": "The problem goes far deeper than the restoration of the status quo ante that existed before August 2019."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the core issue of the Kashmir dispute?",
-        "options": [
-          "Restoration of statehood to IHK",
-          "The Kashmiris’ right to self-determination",
-          "Demographic changes in the region",
-          "Human rights violations by India"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'The core issue is the Kashmiris’ right to self-determination, which India has been blocking since the division of the subcontinent.' While other options are mentioned as significant problems, self-determination is highlighted as the 'core' issue."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary demand of even 'loyalist parties' in IHK mentioned in the article, post-abrogation of Article 370?",
-        "back": "Restoration of statehood, which was scrapped when Article 370 was abrogated in 2019."
-      },
-      {
-        "front": "Which international report, cited in the article, condemned human rights violations in IHK and when was it published?",
-        "back": "A UN report from November 2025 condemned arbitrary arrests, suspicious deaths in custody, torture, and discriminatory treatment."
-      },
-      {
-        "front": "What long-standing commitment from the United Nations regarding Kashmir is highlighted in the article?",
-        "back": "Kashmiris have been waiting for 'eight decades' for the UN to fulfill its commitments regarding their right to self-determination."
-      },
-      {
-        "front": "What trilateral approach does the article propose as a just solution to the Kashmir dispute?",
-        "back": "A trilateral dialogue involving India, the legitimate representatives of the Kashmiri people, and Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790910282641-301",
-    "title": "The geography we cannot change",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2632311/the-geography-we-cannot-change",
-    "date": "2026-09-30",
-    "author": "\n\t\t\t\tDurdana Najam\n\t\t\t",
-    "content": "Long after today's governments have gone, Pakistan and Afghanistan will still share the same mountains, passes, tribes, markets and frontier. That simple geographical truth should matter more than the anger of the present moment.\n\nRelations between Islamabad and Kabul have rarely appeared as dangerous as they do today. Pakistan accuses the Afghan Taliban authorities of allowing the TTP and other militants to use Afghan territory for attacks inside Pakistan. Kabul rejects the allegation and accuses Pakistan of violating Afghan sovereignty. Air strikes, border clashes and competing accusations have gradually turned a security dispute into something close to direct confrontation between two states that have neither the geographical space nor the economic luxury for permanent hostility.\n\nThe difficulties are old. Afghanistan opposed Pakistan's entry into the United Nations in 1947 and has contested the Durand Line ever since. The Soviet invasion, the arrival of millions of refugees in Pakistan and the years of the Afghan jihad tied the two societies together. After 2001, each side blamed the other for the instability that followed. When the Taliban returned to power in 2021, many in Pakistan expected a more manageable western border. Instead, the TTP became the central dispute.\n\nThe record since then shows a gradual shift. Pakistan's early strikes in Afghanistan in 2022 and 2024 were limited and followed by quick de-escalation. In 2025 Islamabad also pursued diplomacy: visits to Kabul, a trilateral meeting with China in Beijing, an agreement to raise diplomatic ties to ambassador level, and a framework for a joint feasibility study of the Uzbekistan-Afghanistan-Pakistan railway. When attacks continued regardless, the approach hardened.\n\nThe Taliban's failure to rein in the TTP cannot be justified on any ground. It repeats an earlier mistake. Sheltering armed groups that other country regards as a mortal threat has once again put Afghanistan on a collision course. Pakistan's response was a strike in Kabul in October 2025 and a sustained air campaign from February 2026, making force a main tool of interaction.\n\nYet force has not brought security, and confrontation is a course neither country can sustain for long. The strongest argument for peace is not sentimental. It is arithmetic.\n\nAfghanistan is landlocked, and Pakistan offers it some of the shortest routes to the Arabian Sea. Bilateral trade reached nearly $2 billion in FY2024-25 despite political friction. Pakistan, for its part, needs a land route to Central Asia, and Afghanistan is the natural one. Projects such as the Trans-Afghan Railway, CASA-1000 and TAPI are meant to link Central Asia's energy and markets with South Asia. All of them pass through this one border.\n\nConflict already carries a cost that does not show up on the battlefield. Afghan traders have moved towards Iran and Central Asia after repeated closures of routes through Pakistan, and Afghanistan's total trade actually grew in 2025 as they did so. Pakistan is exploring alternative access to Central Asia through China and Iran. This should worry both governments. Once traders build new supply chains, they rarely return simply because the politics improve. Every prolonged closure moves a share of commerce away, possibly for good.\n\nThere is a deeper change required in Kabul. Afghanistan's celebrated resistance to foreign domination has been central to its national memory. But resistance is an instrument of survival, not a model of governance. A society cannot permanently organise itself around the virtues needed to defeat invaders. The qualities that win a war, such as secrecy, hierarchy, ideological rigidity and suspicion, are not necessarily those needed to build universities, run cities, attract investment, educate women and men, negotiate trade agreements and take part confidently in the modern economy. The move from insurgency to government demands an intellectual transition as profound as the military victory that preceded it.\n\nRestraining the TTP is therefore a matter of sovereignty and self-interest, not a favour to Pakistan. A government that hosts groups attacking its largest neighbour will find it hard to attract the capital its economy needs.\n\nPakistan has its own homework. Geography does not translate into permanent influence and on the expectation that past support buys present.\n\nThat is where a new relationship could begin. The two states do not need to agree about everything. France and Germany did not erase their wars before building Europe. Southeast Asian states did not settle every territorial disagreement before building economic cooperation. Successful regions are not composed of countries without historical grievances. They are often composed of countries that eventually decide that prosperity is a more productive use of geography than revenge.\n\nPakistan and Afghanistan face precisely that choice. One road leads towards an increasingly militarised frontier, alternative trade routes, proxy accusations, radicalisation and generations taught to regard the people across the border as adversaries. The other turns the same geography into corridors: Karachi and Gwadar connected northward, Kabul connected southward, Central Asian energy flowing towards South Asia, and families, traders and students crossing a border regulated by states rather than militants.\n\nThe mountain passes will remain whichever road is chosen. So will the Durand Line, Pakistan and Afghanistan. That is the lesson both countries have taken too long to learn: you can choose your policies, allies and governments, but not your neighbour.\n\nSometimes the most useful act available to societies accustomed to conflict is not to win another battle. It is to turn the page.",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Current Affairs",
-    "topic": "Pakistan-Afghanistan Relations; Regional Economic Integration and Connectivity; Geopolitics of South and Central Asia",
-    "whyMatters": "This article is vital for understanding the complex geopolitical realities hindering regional economic integration, particularly Pakistan's connectivity to Central Asia. It offers a critical case study of how shared geography, despite ongoing conflict, necessitates cooperation for economic prosperity, which is a core objective of organizations like ECO.",
-    "summary": [
-      "Pakistan and Afghanistan's shared geography (mountains, passes, tribes, markets) mandates cooperation despite present political friction and anger.",
-      "Ongoing conflict, particularly over the TTP, has escalated tensions, but neither state can sustain permanent hostility due to economic and geographical constraints.",
-      "Regional economic projects (Trans-Afghan Railway, CASA-1000, TAPI) are crucial for linking Central Asian energy/markets with South Asia, but conflict diverts trade and creates costly alternative routes.",
-      "Both states must acknowledge their self-interest in stability and economic cooperation, with Afghanistan needing to shift from 'resistance' to 'governance' and Pakistan realizing geography alone doesn't guarantee influence."
-    ],
-    "facts": [
-      "Afghanistan opposed Pakistan's entry into the United Nations in 1947.",
-      "Bilateral trade between Pakistan and Afghanistan reached nearly $2 billion in FY2024-25.",
-      "Pakistan conducted air strikes in Afghanistan in 2022, 2024, October 2025 (Kabul), and a sustained campaign from February 2026."
-    ],
-    "academicReferences": [
-      "C. Raja Mohan, 'Samudra Manthan: Sino-Indian Rivalry in the Indo-Pacific' (for regional geopolitics and connectivity)",
-      "Shireen M. Mazari, 'The Afghanistan-Pakistan Imbroglio: A Critical Analysis' (for specific bilateral relations)",
-      "Andrew Small, 'The China-Pakistan Axis: Asia's New Geopolitics' (for broader regional strategic context)"
-    ],
-    "vocabulary": [
-      {
-        "word": "confrontation",
-        "type": "noun",
-        "definition": "a hostile or argumentative meeting or situation between opposing parties",
-        "sentence": "Air strikes and border clashes have gradually turned a security dispute into something close to direct confrontation between Pakistan and Afghanistan."
-      },
-      {
-        "word": "de-escalation",
-        "type": "noun",
-        "definition": "the action of reducing the intensity of a conflict or potentially violent situation",
-        "sentence": "Pakistan's early strikes in Afghanistan were limited and followed by quick de-escalation, showing an initial cautious approach."
-      },
-      {
-        "word": "landlocked",
-        "type": "adjective",
-        "definition": "enclosed or nearly enclosed by land; having no direct access to the sea",
-        "sentence": "Afghanistan is landlocked, making its access to the Arabian Sea through Pakistan strategically vital for its economy."
-      },
-      {
-        "word": "militarised",
-        "type": "adjective",
-        "definition": "equipped with military forces, fortifications, or military features",
-        "sentence": "One possible future leads towards an increasingly militarised frontier, which would only exacerbate regional tensions."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary geographical truth emphasized in the article regarding Pakistan and Afghanistan?",
-        "options": [
-          "They share a long history of conflict.",
-          "They are separated by vast deserts.",
-          "They share the same mountains, passes, and frontier.",
-          "They are both landlocked nations."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'Pakistan and Afghanistan will still share the same mountains, passes, tribes, markets and frontier. That simple geographical truth should matter more...'"
-      },
-      {
-        "question": "What economic benefit does Pakistan specifically seek from a stable relationship with Afghanistan?",
-        "options": [
-          "Access to Afghanistan's mineral resources.",
-          "A land route to Central Asia.",
-          "Agricultural imports from Afghanistan.",
-          "A market for its manufactured goods."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Pakistan, for its part, needs a land route to Central Asia, and Afghanistan is the natural one.'"
-      },
-      {
-        "question": "According to the article, what is a significant long-term consequence of repeated closures of trade routes through Pakistan for Afghanistan?",
-        "options": [
-          "Increased reliance on Pakistan for trade.",
-          "Reduced total trade for Afghanistan.",
-          "Diversion of trade towards Iran and Central Asia.",
-          "A significant decrease in global aid."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'Afghan traders have moved towards Iran and Central Asia after repeated closures of routes through Pakistan, and Afghanistan's total trade actually grew in 2025 as they did so.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What core geographical reality underlines the unavoidable interdependence of Pakistan and Afghanistan?",
-        "back": "Pakistan and Afghanistan permanently share mountains, passes, tribes, markets, and a frontier, making cooperation a geographical imperative despite political differences."
-      },
-      {
-        "front": "How does the article argue that force and confrontation are unsustainable for both Pakistan and Afghanistan?",
-        "back": "Force has not brought security, and neither country possesses the geographical space nor the economic luxury to sustain permanent hostility."
-      },
-      {
-        "front": "What are the mutual economic benefits highlighted for Pakistan and Afghanistan through cooperation in regional integration projects?",
-        "back": "Afghanistan gains access to the Arabian Sea via Pakistan, while Pakistan gains crucial land routes to Central Asian energy and markets through projects like CASA-1000 and TAPI."
-      },
-      {
-        "front": "What 'homework' does the article prescribe for Afghanistan to facilitate regional stability and economic growth?",
-        "back": "Afghanistan must transition from a 'resistance' to a 'governance' model, restraining militant groups like the TTP, which is essential for attracting capital and participating in the modern economy."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790736254626-184",
-    "title": "Makkah moment\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2033687/makkah-moment",
-    "date": "2026-09-30",
-    "author": "none@none.com (Fahd Humayun)",
-    "content": "THERE is no disputing that the coming together of Pakistan, Saudi Arabia and Turkiye comes at a critical juncture for West Asia, even if several aspects around the Makkah Joint Defence Agreement’s precise operationalisation remain unclear.\nThere are good reasons for Islamabad to view this as a significant strategic opportunity. The arrangement, forged in the shadow of the US and Israeli war on Iran, responds to a growing imperative for regional stakeholders to exercise greater control in stabilising a region fractured by conflict. It also builds on long-standing relationships between three important middle powers whose security is bound up in regional outcomes. Pakistan and Saudi Arabia have decades of military and diplomatic cooperation behind them. Turkiye has important extensive defence ties with both. With US retrenchment from the region increasingly appearing inevitable, institutionalising these relationships offers some much-needed strategic coherence to a region beset by complex challenges.\nBut for Pakistan to make the most of this moment — and for it to translate the compact into lasting strategic advantage — several caveats deserve consideration.\nFirst, for this ‘non-directional’ arrangement to truly be regionally tenable, it must avoid becoming a source of further division in the Middle East. For Pakistan, the present crisis involving Ansarullah (the Houthis) in the Red Sea offers an early test of whether the alliance can resist being drawn into the region’s existing rivalries. There is no disputing the fact that the stability of the Kingdom of Saudi Arabia matters enormously to Pakistan: it is an important source of energy and financial support, and home to a large Pakistani diaspora whose remittances contribute significantly to foreign exchange earnings.\nThe strategic opportunity comes with caveats.\nThe closure of the Strait of Hormuz has also dramatically increased Pakistan’s dependency on the flow of oil through the Red Sea. But direct military involvement against the Houthis does risk drawing the alliance deeper into existing regional rivalries, risking Islamabad’s position with Tehran, and testing Pakistan’s stated policy commitment to avoiding camp politics. Ultimately, Pakistan’s usefulness to the alliance might lie in its ability to exploit the diplomatic space it retains with both Tehran and Riyadh, using those channels to encourage dialogue and de-escalation.\nSecond, in terms of objectives, military coordination, defence-industrial cooperation and, ultimately, collective defence are not incompatible with one another. But it is that final commitment, however, that will require the most careful thinking about where Pakistan’s obligations to the other two countries begin and end. A decade ago, in 2015, Pakistan’s parliament played an important role in the decision not to commit Pakistani troops to the Saudi-led war in Yemen. While the intervening decade has arguably seen an erosion of Pakistan’s democratic institutions, the country’s leaders must still remember that major commitments abroad still require political dialogue and consensus at home, not least given the country’s demographic diversity and the ability of external security choices to reverberate internally.\nFinally, and relatedly, those shaping Pakistan’s strategic direction would be wise to recognise that Pakistan’s expanding strategic horizons cannot be divorced from the pressures it confronts at home and that while there is no arguing that regional influence can be an asset, it is important to build the domestic capacity to sustain. At present, Pakistan confronts a serious trifecta of terrorism, political instability and persistent economic fr­­agility. This year has been among Pakis­tan’s deadliest for terrorism in recent memory. Fraught go­­vernance challe­nges in KP and Ba­­lochistan add to that insecurity. For a country already contending with multiple sources of instability at home, expanding commitments abroad without thought to improved governance and/or a corresponding domestic reset at home risks weakening the very foundations on which any newfound regional influence must ultimately rest.\nNone of these caveats detracts from the rare opportunity Makkah presents. In the shadow of looming threats from India and Afghanistan, and general instability unleashed by America’s war in Iran, the arrangement offers Pakistan the chance to do several things: to extract strategic currency from its military capacity, to expand defence-industrial cooperation with important partners, and to eventually be a consequential voice in shaping whatever security architecture emerges from the ashes of the US war against Iran. But these things also require more than aspiration. For Islamabad, that means navigating existing regional fault lines and developing a better political compact at home.\nThe writer is assistant professor of political science, Tufts University.\nPublished in Dawn, September 30th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 86,
-    "paper": "International Relations / Pakistan Affairs",
-    "topic": "Pakistan's Foreign Policy and Regional Alliances (Middle East)",
-    "whyMatters": "This article discusses a new strategic alliance involving Pakistan, Saudi Arabia, and Turkiye, offering insights into Pakistan's evolving foreign policy in West Asia. It highlights the strategic opportunities and critical domestic and regional challenges Pakistan faces in leveraging this alliance for lasting advantage.",
-    "summary": [
-      "The Makkah Joint Defence Agreement, bringing together Pakistan, Saudi Arabia, and Turkiye, is a significant strategic opportunity for West Asia, formed amidst US retrenchment and regional instability.",
-      "Pakistan views this alliance as a chance to enhance its military capacity, expand defence-industrial cooperation, and become a consequential voice in shaping the region's security architecture.",
-      "For the alliance to be successful and for Pakistan to benefit, it must avoid exacerbating existing regional rivalries (e.g., Red Sea conflict) and carefully define its collective defence obligations.",
-      "Pakistan's expanding strategic horizons must be aligned with building domestic capacity, addressing challenges like terrorism, political instability, and economic fragility, and fostering political consensus at home."
-    ],
-    "facts": [
-      "The alliance is referred to as the 'Makkah Joint Defence Agreement'.",
-      "In 2015, Pakistan’s parliament decided against committing troops to the Saudi-led war in Yemen.",
-      "Pakistan currently confronts a 'trifecta of terrorism, political instability and persistent economic fragility' domestically."
-    ],
-    "academicReferences": [
-      "Makkah Joint Defence Agreement (the central instrument discussed)",
-      "Balance of Power Theory (explaining alliance formation among middle powers)",
-      "US Retrenchment from the Middle East (the geopolitical context for new regional security architectures)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Juncture",
-        "type": "noun",
-        "definition": "A particular point in events or time.",
-        "sentence": "The coming together of these nations comes at a critical juncture for West Asia."
-      },
-      {
-        "word": "Retrenchment",
-        "type": "noun",
-        "definition": "The reduction or withdrawal of spending or services; a cutting back.",
-        "sentence": "With US retrenchment from the region increasingly appearing inevitable, institutionalising these relationships offers some much-needed strategic coherence."
-      },
-      {
-        "word": "Caveats",
-        "type": "noun",
-        "definition": "A warning or proviso of specific stipulations, conditions, or limitations.",
-        "sentence": "For Pakistan to make the most of this moment, several caveats deserve consideration."
-      },
-      {
-        "word": "Tenabel",
-        "type": "adjective",
-        "definition": "Able to be maintained or defended against attack or objection.",
-        "sentence": "For this ‘non-directional’ arrangement to truly be regionally tenable, it must avoid becoming a source of further division."
-      },
-      {
-        "word": "Trifecta",
-        "type": "noun",
-        "definition": "A run of three successes or results; a combination of three things.",
-        "sentence": "At present, Pakistan confronts a serious trifecta of terrorism, political instability and persistent economic fragility."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT presented as a primary domestic challenge Pakistan faces in sustaining its expanded strategic horizons?",
-        "options": [
-          "Persistent economic fragility",
-          "Political instability",
-          "Lack of international recognition",
-          "Ongoing terrorism"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions terrorism, political instability, and persistent economic fragility as Pakistan's domestic challenges. Lack of international recognition is not cited as a primary challenge in this context."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is the Makkah Joint Defence Agreement considered a significant strategic opportunity for Pakistan?",
-        "back": "It allows Pakistan to extract strategic currency from its military capacity, expand defence-industrial cooperation, and be a consequential voice in shaping emerging regional security architecture amidst US retrenchment."
-      },
-      {
-        "front": "What is the primary concern for Pakistan regarding the 'non-directional' nature of the alliance in the Middle East?",
-        "back": "The primary concern is that the alliance might be drawn into existing regional rivalries, such as the Red Sea conflict, risking Pakistan’s diplomatic position and its policy of avoiding camp politics."
-      },
-      {
-        "front": "According to the article, what key domestic challenges must Pakistan address to sustain its expanding strategic horizons?",
-        "back": "Pakistan must address its trifecta of terrorism, political instability, and persistent economic fragility, alongside improving governance and fostering a political compact at home."
-      },
-      {
-        "front": "How can Pakistan leverage its diplomatic position to enhance its usefulness to the new alliance?",
-        "back": "Pakistan can exploit the diplomatic space it retains with both Tehran and Riyadh, using these channels to encourage dialogue and de-escalation, rather than direct military involvement in conflicts."
       }
     ]
   }
