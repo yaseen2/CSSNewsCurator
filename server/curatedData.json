@@ -1,5 +1,325 @@
 [
   {
+    "id": "curated-1792721727279-448",
+    "title": "Nuclear uncertainty\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039187/nuclear-uncertainty",
+    "date": "2026-10-23",
+    "author": "none@none.com (Editorial)",
+    "content": "CONSIDERING the poor state of bilateral relations between Pakistan and India, there is always a possibility of miscalculating a situation, especially in the absence of regular contact. These concerns take on greater importance in the nuclear domain. In this regard, officials associated with Pakistan’s nuclear programme have rightly warned that India’s reported attempt to alter the strategic balance has heightened risks of escalation in South Asia. Speaking at a conference in Islamabad, retired Lt-Gen Khalid Kidwai, adviser to the National Command Authority, highlighted a report by the Stockholm International Peace Research Institute, which said that India had deployed nuclear warheads on a submarine as part of “deterrence patrols”. He also cited New Delhi’s lack of advance notification for ballistic missile tests. The official observed that these developments cast doubt on India’s no-first-use policy, and were seen as an “irresponsible escalatory transition” towards nuclear asymmetry.\nLack of coordination between nuclear states creates great unknowns, and such a situation is untenable in a neighbourhood as volatile as South Asia. It should be remembered that it was only last year that Pakistan and India confronted each other on the battlefield, illustrating how quickly matters can escalate. In such an atmosphere, India’s apparent attempts to alter the strategic balance are cause for serious concern. As Lt-Gen Kidwai pointed out, Pakistan may “review and reconsider” its deployment options, while reminding New Delhi of this country’s full spectrum deterrence policy.\nWith matters frozen in the political and diplomatic spheres, it will take military-to-military engagement to prevent miscalculation in the strategic sphere. This can be carried out through the directors general military operations hotline, or via other appropriate channels. India’s political class — as well as military officials — has issued jingoistic statements targeting Pakistan. There is certainly no room for such bluster where the issue of nuclear weapons is concerned. To ward off any potential catastrophe, the situation must be handled in a rational manner and lines of communication need to be kept open to ensure conventional or nuclear signals are not misconstrued. India should halt its highly provocative nuclear-armed submarine patrols and engage with Pakistan to ensure there are no misunderstandings, particularly in the strategic sphere. Regular diplomatic engagement may seem distant at this juncture, but contact between the defence command structures should continue, while de-escalation mechanisms should also be maintained. Most of all, India should give up its rash attitude and approach the issue with maturity if it wants to reduce tensions and advance regional peace.\nPublished in Dawn, October 23rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 87,
+    "paper": "International Relations / Pakistan Affairs",
+    "topic": "Nuclear Deterrence and Strategic Stability in South Asia",
+    "whyMatters": "This article is crucial for understanding the complexities of nuclear deterrence in South Asia, the evolving strategic landscape between India and Pakistan, and the importance of communication channels in preventing escalation. It provides key arguments and policy suggestions directly relevant to questions on regional security and bilateral relations.",
+    "summary": [
+      "India's reported deployment of nuclear warheads on submarines and lack of ballistic missile test notifications are altering the strategic balance in South Asia, increasing risks of escalation.",
+      "These actions cast doubt on India's 'no-first-use' policy and are termed an 'irresponsible escalatory transition' towards nuclear asymmetry.",
+      "Pakistan, through its officials, has warned of a possible review of its deployment options, reiterating its 'full spectrum deterrence' policy.",
+      "The article emphasizes the need for military-to-military engagement and open communication channels to prevent miscalculation, despite frozen political and diplomatic ties."
+    ],
+    "facts": [
+      "Retired Lt-Gen Khalid Kidwai, adviser to Pakistan's National Command Authority, highlighted a report by the Stockholm International Peace Research Institute (SIPRI).",
+      "SIPRI reportedly stated that India had deployed nuclear warheads on a submarine as part of 'deterrence patrols'.",
+      "India's actions include a lack of advance notification for ballistic missile tests and deployment of nuclear-armed submarine patrols."
+    ],
+    "academicReferences": [
+      "Stockholm International Peace Research Institute (SIPRI) Annual Reports on Armaments, Disarmament and International Security",
+      "Nuclear Non-Proliferation Treaty (NPT) - though India and Pakistan are not signatories, its principles and challenges are highly relevant to regional nuclear dynamics.",
+      "Strategic Stability in South Asia: A report by think tanks like the Carnegie Endowment for International Peace or Stimson Center on regional nuclear postures."
+    ],
+    "vocabulary": [
+      {
+        "word": "Bilateral",
+        "type": "adjective",
+        "definition": "Involving two parties, especially countries.",
+        "sentence": "Considering the poor state of bilateral relations between Pakistan and India, there is always a possibility of miscalculating a situation."
+      },
+      {
+        "word": "Asymmetry",
+        "type": "noun",
+        "definition": "Lack of equality or equivalence between parts of something or between one thing and another.",
+        "sentence": "These developments cast doubt on India’s no-first-use policy, and were seen as an 'irresponsible escalatory transition' towards nuclear asymmetry."
+      },
+      {
+        "word": "Jingoistic",
+        "type": "adjective",
+        "definition": "Characterized by extreme patriotism, especially in the form of aggressive or warlike foreign policy.",
+        "sentence": "India’s political class — as well as military officials — has issued jingoistic statements targeting Pakistan."
+      },
+      {
+        "word": "Misconstrued",
+        "type": "verb",
+        "definition": "Interpret (something, especially a person's words or actions) wrongly.",
+        "sentence": "Lines of communication need to be kept open to ensure conventional or nuclear signals are not misconstrued."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is India reportedly attempting to alter?",
+        "options": [
+          "The regional trade balance",
+          "The strategic balance",
+          "The cultural exchange program",
+          "The diplomatic protocols"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that India's reported attempt is to alter the strategic balance in South Asia."
+      },
+      {
+        "question": "Which official highlighted the SIPRI report at a conference in Islamabad?",
+        "options": [
+          "The Foreign Minister of Pakistan",
+          "Retired Lt-Gen Khalid Kidwai",
+          "The Indian Ambassador to Pakistan",
+          "A UN Observer"
+        ],
+        "answerIndex": 1,
+        "explanation": "Retired Lt-Gen Khalid Kidwai, adviser to the National Command Authority, highlighted the SIPRI report."
+      },
+      {
+        "question": "What is Pakistan's stated nuclear deterrence policy mentioned in the article?",
+        "options": [
+          "Minimum Credible Deterrence",
+          "No First Use",
+          "Full Spectrum Deterrence",
+          "Limited Deterrence"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions Pakistan reminding New Delhi of this country’s 'full spectrum deterrence policy'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why do India's reported actions like deploying nuclear-armed submarines heighten risks of escalation in South Asia?",
+        "back": "These actions introduce nuclear asymmetry, cast doubt on India's 'no-first-use' policy, and increase the potential for miscalculation in an already volatile region, especially given the lack of bilateral contact."
+      },
+      {
+        "front": "What specific policy does Pakistan adhere to regarding its nuclear posture in response to evolving threats?",
+        "back": "Pakistan maintains a 'full spectrum deterrence' policy, implying a readiness to respond at all levels of conventional and nuclear conflict to maintain strategic stability."
+      },
+      {
+        "front": "What practical mechanisms are suggested by the article to prevent miscalculation in the strategic sphere between India and Pakistan?",
+        "back": "The article suggests maintaining military-to-military engagement through channels like the directors general military operations (DGMO) hotline, keeping lines of communication open, and sustaining de-escalation mechanisms."
+      },
+      {
+        "front": "How does the article characterize India's alleged attempt to deploy nuclear warheads on a submarine as part of 'deterrence patrols'?",
+        "back": "It is described as an 'irresponsible escalatory transition' towards nuclear asymmetry that undermines regional stability and casts doubt on India's declared 'no-first-use' policy."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792721882214-229",
+    "title": "Welfarism is dead\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039188/welfarism-is-dead",
+    "date": "2026-10-23",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "PARADED as amongst the greatest achievements of ‘advanced’ capitalist countries in the post-World War II period, the welfare state epitomised an era of widespread social prosperity. The mass of people in Western Europe, North America, and Australasia was largely guaranteed public education, healthcare, water, electricity, and other material needs. Working-age populations either found work in bustling manufacturing industries or received significant unemployment benefits. The anti-communist US ideologue, Walt Rostow, boasted that the ‘West’ had successfully entered the age of high mass consumption.\nToday, as mass protests rock France, the welfare state can officially be pronounced dead. The convulsions were triggered by high school and university students demanding accountability for the rapidly deteriorating and underfunded education sector. The demise extends to all spheres of life, and to all parts of the so-called developed world.\nThe welfare state itself was not a gift from above but a compulsion forced upon ruling classes of Western countries petrified of working-class populations at home and colonised people demanding self-rule in Asia and Africa. The fear was that the masses would be taken in by the irrepressible appeal of Soviet, and later, Chinese socialism. Seen thus, the welfare state represented a historic compromise between capital and labour. The former accepted regulation of profits, progressive taxation, and limits on its political power; the latter took on the role of an empowered citizenry that would eschew revolutionary politics.\nIt is no surprise that the unravelling of this capital-labour compact coincided to a significant extent with the collapse of the Soviet Union and the end of the Cold War. The balance of class forces within Western societies had already started to shift with the emergence of what later became known as neoliberalism in the late 1970s, but the die was cast by the end of actually existing socialism.\nThe demise extends to all spheres.\nIt has been a slow death, because welfare apparatuses do not disappear overnight; neither do people’s expectations of the state. Indeed, what is happening in France today is itself a reflection that the mass of the people deeply imbibed ideas of citizenship during the era of welfarism. Compared to our society, students, workers, and other social forces in countries like France are still well-organised and possess the ability and will to rock the system.\nNevertheless, the unleashing of neoliberal capital and the attendant rollback of public funding in health, education, and other public infrastructure have had devastating effects. Stagnating real incomes, growing inequality, and an overall decline in social well-being have been feasted on by hate-mongering right-wing forces, while entities like the British Labour Party and French Socialist Party have totally abandoned the left project.\nThe shameful retreat of social democratic parties aside, the welfare state will not return because the historical conjuncture that spawned it is over. The reconstruction of war-ravaged Britain and France from the late 1940s was funded by Washington through the so-called Marshall Plan; post-Nazi West Germany was also given an economic foothold in world trade because of US largesse. The US empire is no longer willing to prop up Europe; it is also drastically cutting aid to the so-called developing world.\nIt’s worth being reminded that the zenith of the welfare state in ‘advanced’ capitalist countries was coeval with either aid dependency, violent coups, or imperialist wars in the erstwhile Third Wo­­rld. Think Pakistan under Ayub Khan, or Vietnam, the Congo and Chile.\nA few Third World countries broke with the dominant trend, notably the East Asian ‘developmental state’. Some, like South Korea, benefited from being central to Washington’s Cold War designs, their infant industries given preferential access to the US market. But state apparatuses were authoritarian, and there were fewer concessions made to labouring classes by capitalist interests in comparison to the Western prototype.\nWe in Pakistan have never really had a welfarist interregnum. When socialism was a mass ideology in the 1960s and 1970s, governing regimes adopted a few tangible policies like land reforms and nationalisation. But the state remained colonial in its orientation and was never fully subdued to the public interest.\nToday, like many of its counterparts, the Pakistani state couldn’t care less about the masses’ welfare.\nProfit and repression are its only concerns. When mass protests do erupt, structural change remains elusive. A new era of mass prosperity to transcend the historical inheritance of the capitalist world system requires both ideology and organisation. Only then can we force the state and capital into retreat.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, October 23rd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Current Affairs",
+    "topic": "Decline of Welfare State and Neoliberalism",
+    "whyMatters": "This article is not directly relevant to the specific question on Pakistan's role in ECO and regional integration, as it focuses on the global decline of welfarism and its limited historical presence in Pakistan. However, it provides critical insights into Pakistan's domestic political economy, the state's historical orientation towards profit and repression rather than welfare, and the challenges of achieving mass prosperity, which are vital for understanding Pakistan's internal dynamics relevant to broader Current Affairs discussions.",
+    "summary": [
+      "The welfare state, born post-WWII in advanced capitalist countries, was a 'historic compromise' between capital and labour, compelled by ruling classes' fear of working-class populations and the appeal of Soviet/Chinese socialism.",
+      "Its demise is linked to the collapse of the Soviet Union and the rise of neoliberalism since the late 1970s, leading to the rollback of public funding, stagnating incomes, growing inequality, and abandonment of 'left' projects by social democratic parties.",
+      "The historical conditions that facilitated the welfare state, such as post-war reconstruction funded by the Marshall Plan and US largesse, are no longer present, making its return unlikely.",
+      "Pakistan never truly experienced a welfarist period; its state has historically maintained a colonial orientation, prioritizing profit and repression over public welfare, thus necessitating new ideology and organization for structural change and mass prosperity."
+    ],
+    "facts": [
+      "The welfare state emerged in post-World War II period in Western Europe, North America, and Australasia.",
+      "Walt Rostow, a US ideologue, boasted the 'West' had entered the age of high mass consumption.",
+      "The Marshall Plan from Washington funded the reconstruction of war-ravaged Britain and France from the late 1940s."
+    ],
+    "academicReferences": [
+      "David Harvey's 'A Brief History of Neoliberalism'",
+      "John Maynard Keynes's 'General Theory of Employment, Interest and Money' (underpinning post-WWII economic thought)",
+      "IMF/World Bank Structural Adjustment Programs (illustrating neoliberal policy implementation)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Epitomised",
+        "type": "verb",
+        "definition": "To be a perfect example of.",
+        "sentence": "The welfare state epitomised an era of widespread social prosperity."
+      },
+      {
+        "word": "Petrified",
+        "type": "adjective",
+        "definition": "So frightened as to be unable to move; extremely frightened.",
+        "sentence": "The welfare state was forced upon ruling classes petrified of working-class populations."
+      },
+      {
+        "word": "Eschew",
+        "type": "verb",
+        "definition": "Deliberately avoid using; abstain from.",
+        "sentence": "Labour took on the role of an empowered citizenry that would eschew revolutionary politics."
+      },
+      {
+        "word": "Conjuncture",
+        "type": "noun",
+        "definition": "A combination of events or circumstances.",
+        "sentence": "The welfare state will not return because the historical conjuncture that spawned it is over."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was a primary reason for the emergence of the welfare state in 'advanced' capitalist countries post-WWII?",
+        "options": [
+          "A gift from benevolent ruling classes to their citizens.",
+          "A strategic move to counter the appeal of Soviet and Chinese socialism.",
+          "A result of booming manufacturing industries demanding skilled labor.",
+          "An outcome of the Marshall Plan's economic conditions for aid."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states the welfare state was 'a compulsion forced upon ruling classes...petrified of working-class populations at home and colonised people demanding self-rule' due to the 'irrepressible appeal of Soviet, and later, Chinese socialism'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What historical context led to the emergence of the welfare state in 'advanced' capitalist countries post-WWII, according to the article?",
+        "back": "The welfare state emerged as a 'compulsion forced upon ruling classes' due to their fear of working-class populations at home and colonized people demanding self-rule, driven by the appeal of Soviet and Chinese socialism."
+      },
+      {
+        "front": "How did the collapse of the Soviet Union and the end of the Cold War impact the welfare state, as described in the article?",
+        "back": "The unravelling of the 'capital-labour compact' and the welfare state significantly coincided with the collapse of the Soviet Union and the end of the Cold War, removing the existential threat that compelled concessions from capital."
+      },
+      {
+        "front": "What is the author's primary argument regarding the prospects of the welfare state returning?",
+        "back": "The author argues that the welfare state will not return because the specific historical conjuncture that spawned it, including post-war reconstruction funded by the Marshall Plan and US largesse, is over, and the US empire is no longer willing to prop up Europe or provide aid to the developing world."
+      },
+      {
+        "front": "Describe Pakistan's historical experience with welfarism according to the article.",
+        "back": "Pakistan never truly had a 'welfarist interregnum'; while some tangible policies like land reforms and nationalization were adopted when socialism was popular, the state remained colonial in orientation, prioritizing profit and repression over public interest and welfare."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792722045513-466",
+    "title": "Two crimes\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039185/two-crimes",
+    "date": "2026-10-23",
+    "author": "none@none.com (Editorial)",
+    "content": "THE senseless killing of a teenager by his employers in Multan is a crime that deserves unqualified condemnation. It suggests that the powerful in this country still believe they can get away with any criminal act, however heinous. It is also a damning indictment of a state that repeatedly fails to protect its most vulnerable citizens — women and children. But the death of one of the two suspects in this case in an alleged ‘police encounter’ cannot be defended either. The police apparently had a strong case against him, with video evidence in hand. He could have been prosecuted and punished by the courts. Nothing in the circumstances explains why that was not done.\nThe HRCP has rightly called for an independent and transparent investigation into the encounter. The human rights body said the killing of the teenager and the death of the suspect in an alleged encounter raised “urgent questions about the state’s approach to treating human life and legal safeguards as expendable”. Based on its documentation of hundreds of such alleged encounters since the Crime Control Department was set up in April 2025, it has repeatedly accused the department of a “deliberate policy of staged police encounters leading to extrajudicial killings”. The CCD rejects the charge. It is hard to see what the government has to fear from inquiries into these killings. Innocent people, including a little girl, have also died in such operations. Each case erodes the principle that guilt is established by a court of law. That these killings appear to enjoy the full backing of Punjab’s political leadership worsens the problem because it removes any pressure for accountability from within the system. There is a larger cost as well. A society that accepts extrajudicial killings becomes more tolerant of violence. The teenager’s murder by employers who saw a child’s life as dispensable was itself a symptom of the entrenchment of that brutalisation. So is the killing of a suspect outside the law.\nPublished in Dawn, October 23rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Current Affairs / Governance & Public Policy",
+    "topic": "Extrajudicial Killings, State Accountability, and Erosion of Rule of Law",
+    "whyMatters": "This article offers a critical analysis of Pakistan's human rights situation and the state of law enforcement, providing strong arguments for essays on governance failures and the rule of law. It highlights the systemic issues of impunity and the breakdown of the justice system, crucial for understanding contemporary challenges in Pakistan.",
+    "summary": [
+      "The senseless killing of a teenager in Multan highlights the impunity of the powerful and the state's repeated failure to protect vulnerable citizens.",
+      "The death of a suspect in an alleged 'police encounter' is indefensible, as it bypasses the legal justice system despite available evidence, undermining due process.",
+      "The HRCP has called for an independent investigation into these encounters, raising critical questions about the state's regard for human life and legal safeguards.",
+      "The acceptance of extrajudicial killings fosters a society more tolerant of violence and erodes the fundamental principle that guilt must be established by a court of law."
+    ],
+    "facts": [
+      "The article discusses the killing of a teenager by his employers in Multan.",
+      "One of the suspects in the teenager's murder died in an alleged 'police encounter'.",
+      "The Crime Control Department (CCD) was set up in April 2025, and HRCP has documented hundreds of alleged encounters since then.",
+      "The article was published in Dawn on October 23rd, 2026."
+    ],
+    "academicReferences": [
+      "Human Rights Commission of Pakistan (HRCP) Annual Reports on the State of Human Rights in Pakistan",
+      "Constitution of Pakistan, 1973 (particularly Articles 9, 10, and 10A concerning the right to life, safeguards as to arrest and detention, and right to fair trial)",
+      "International Covenant on Civil and Political Rights (ICCPR) - specifically articles related to the right to life and fair trial, to which Pakistan is a signatory"
+    ],
+    "vocabulary": [
+      {
+        "word": "Condemnation",
+        "type": "noun",
+        "definition": "Strong disapproval; censure.",
+        "sentence": "The senseless killing of a teenager by his employers in Multan is a crime that deserves unqualified condemnation."
+      },
+      {
+        "word": "Heinous",
+        "type": "adjective",
+        "definition": "Utterly odious or wicked.",
+        "sentence": "It suggests that the powerful in this country still believe they can get away with any criminal act, however heinous."
+      },
+      {
+        "word": "Indictment",
+        "type": "noun",
+        "definition": "A formal accusation or charge of a serious crime; also, a strong indication that a system or person is failing.",
+        "sentence": "It is also a damning indictment of a state that repeatedly fails to protect its most vulnerable citizens."
+      },
+      {
+        "word": "Expendable",
+        "type": "adjective",
+        "definition": "Of little significance when compared to an overall purpose, and therefore able to be abandoned or sacrificed.",
+        "sentence": "The HRCP said the killings raised urgent questions about the state’s approach to treating human life and legal safeguards as expendable."
+      },
+      {
+        "word": "Entrenchment",
+        "type": "noun",
+        "definition": "A state of being firmly established and difficult to change.",
+        "sentence": "The teenager’s murder by employers who saw a child’s life as dispensable was itself a symptom of the entrenchment of that brutalisation."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is one of the primary reasons the article condemns the alleged 'police encounter' death of the suspect?",
+        "options": [
+          "A) The police did not have sufficient evidence against him.",
+          "B) It bypassed the legal process and the suspect could have been prosecuted by courts.",
+          "C) The suspect was proven innocent prior to the encounter.",
+          "D) The encounter caused international diplomatic strain."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'The police apparently had a strong case against him, with video evidence in hand. He could have been prosecuted and punished by the courts. Nothing in the circumstances explains why that was not done.'"
+      },
+      {
+        "question": "According to the HRCP, what urgent questions do the described killings raise?",
+        "options": [
+          "A) About the police's training and equipment.",
+          "B) About the state’s approach to treating human life and legal safeguards as expendable.",
+          "C) About the necessity of a Crime Control Department.",
+          "D) About the economic impact of extrajudicial killings."
+        ],
+        "answerIndex": 1,
+        "explanation": "The HRCP said the killing of the teenager and the death of the suspect in an alleged encounter raised 'urgent questions about the state’s approach to treating human life and legal safeguards as expendable'."
+      },
+      {
+        "question": "What 'larger cost' does the article associate with a society accepting extrajudicial killings?",
+        "options": [
+          "A) Increased foreign debt.",
+          "B) A rise in political instability.",
+          "C) A society becoming more tolerant of violence.",
+          "D) Decreased international aid."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'There is a larger cost as well. A society that accepts extrajudicial killings becomes more tolerant of violence.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What dual failure of the state is highlighted by the teenager's murder and the subsequent police encounter?",
+        "back": "The state's failure to protect its most vulnerable citizens from powerful individuals and its failure to uphold the rule of law by resorting to extrajudicial killings instead of legal prosecution."
+      },
+      {
+        "front": "Why is the alleged police encounter death of the suspect particularly concerning, according to the article?",
+        "back": "It is concerning because the police reportedly had strong video evidence, meaning the suspect could have been prosecuted through the judicial system, making the extrajudicial killing unwarranted and a subversion of law."
+      },
+      {
+        "front": "What principle does the article argue is eroded by cases of alleged extrajudicial killings?",
+        "back": "The principle that guilt is established by a court of law, undermining the entire justice system and due process."
+      },
+      {
+        "front": "How does the political leadership's backing of these killings worsen the problem, as per the article?",
+        "back": "It removes any pressure for accountability from within the system, thereby perpetuating the practice of extrajudicial killings and hindering reforms."
+      }
+    ]
+  },
+  {
     "id": "curated-1792635107317-614",
     "title": "Spurring economic growth\n",
     "source": "Dawn",
@@ -10404,386 +10724,6 @@
       {
         "front": "According to the author, what societal factors exacerbate the 'particular kind of hell' faced by women in Pakistan?",
         "back": "The article identifies factors such as systemic abuse, subjugation by men and in-laws, economic vulnerability (landlords rejecting single women, harassment by bosses), and extreme poverty, all of which coalesce to keep women 'in their place' and intensify their hardships."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791083591421-489",
-    "title": "Talks, at last\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2034418/talks-at-last",
-    "date": "2026-10-03",
-    "author": "none@none.com (Editorial)",
-    "content": "YESTERDAY, the government and opposition finally sat across from each other and talked. A government-led coalition, including representatives of the PPP, and the PTI-led opposition, concluded a round of talks on Friday at the chambers of the National Assembly Speaker Ayaz Sadiq in Islamabad.\nThe meeting had been called after the president and prime minister met on Thursday to discuss the national political and security situation. It seemed like a last-ditch attempt at defusing the escalating political crisis ahead of the PTI’s planned march on the federal capital, scheduled for this Sunday.\n    \nAnother round of talks will be held today, with time running out. Neither side had much to say regarding what was accomplished in the first round. Mr Sadiq’s assertion that parliament is the right forum for talks is correct, but the opposition is equally justified in demanding that the government demonstrate its seriousness. There is a trust deficit that needs to be bridged quickly.\nThe government’s constant threats to suspend KP’s elected dispensation over a political protest have escalated hostilities considerably. In that context, both sides did well to start talking.\nThe PTI’s Barrister Gohar Khan called the one-hour meeting “cordial”, which gives hope. The prime minister’s special assistant on political affairs did not share as positive an assessment, however — pointing to the fact that no decisions were taken and there was no clear progress.\nThe PTI also seems determined to keep its protest call intact during the negotiations, while the government wants it cancelled unconditionally. The opposition has already shown flexibility by delaying the march from Sept 27 to Oct 4 — perhaps it can be convinced to consider another extension to give the talks a proper chance.\nIt was not a good omen that the opposition leader in the National Assembly boycotted the sit-down. The fact that the PTI went ahead without him shows that it is putting at least some faith in the process.\nOpposition leaders said they need to consult former prime minister Imran Khan to finalise their agenda. Permitting a meeting with him at Adiala is an easy, low-cost goodwill gesture for the government and could create a quick breakthrough.\nThe other important items for the PTI are allowing the jailed leader to be moved to hospital and the release of his sisters who were arrested ahead of the planned march. Taking these steps would help ease tensions.\nThe point made by PPP chairman Bilawal Bhutto-Zardari regarding unity against terrorism and hostility from neighbours is a fair one, but national unity alone cannot be a reason to shut down legitimate political dissent. Both sides must step back from ultimatums. The threat of governor’s rule must be taken off the table, and the PTI should drop its ‘we will march no matter what’ stance.\nPublished in Dawn, October 3rd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 78,
-    "paper": "Pakistan Affairs / Current Affairs",
-    "topic": "Political Dialogue and Crisis Resolution in Pakistan",
-    "whyMatters": "This article is crucial for understanding the dynamics of political negotiations and conflict resolution within Pakistan's parliamentary system. It highlights the complexities of government-opposition relations and the imperative for dialogue to maintain national stability.",
-    "summary": [
-      "The government and opposition finally engaged in talks to de-escalate an escalating political crisis ahead of the PTI's planned march.",
-      "A significant trust deficit persists, hindering concrete progress and requiring demonstrable seriousness and concessions from both sides.",
-      "Key demands from the PTI include meeting Imran Khan, his medical transfer, and the release of his sisters, while the government wants the protest cancelled unconditionally.",
-      "The article emphasizes the importance of parliamentary forums for dialogue and calls for both sides to retract extreme stances to find common ground for national stability."
-    ],
-    "facts": [
-      "The initial round of talks between the government-led coalition and the PTI-led opposition concluded on a Friday (prior to Oct 3rd, 2026).",
-      "The talks were held at the chambers of National Assembly Speaker Ayaz Sadiq in Islamabad.",
-      "The PTI had already shown flexibility by delaying its planned march from Sept 27 to Oct 4."
-    ],
-    "academicReferences": [
-      "The 18th Amendment to the Constitution of Pakistan (2010) (for understanding parliamentary sovereignty and provincial autonomy)",
-      "The Charter of Democracy (2006) (for principles of democratic governance and reconciliation)",
-      "Principles of Conflict Resolution and Mediation (general academic concept for dialogue and trust-building)"
-    ],
-    "vocabulary": [
-      {
-        "word": "defusing",
-        "type": "verb",
-        "definition": "making a situation less dangerous or tense",
-        "sentence": "The talks were a last-ditch attempt at defusing the escalating political crisis."
-      },
-      {
-        "word": "escalating",
-        "type": "verb",
-        "definition": "increasing rapidly; becoming more intense or serious",
-        "sentence": "The government's constant threats have been escalating hostilities considerably."
-      },
-      {
-        "word": "dispensation",
-        "type": "noun",
-        "definition": "a political or religious system or order governing a country or people",
-        "sentence": "The government's constant threats to suspend KP’s elected dispensation over a political protest were criticized."
-      },
-      {
-        "word": "trust deficit",
-        "type": "noun",
-        "definition": "a lack of trust; an absence of confidence or reliability",
-        "sentence": "There is a trust deficit that needs to be bridged quickly between the parties."
-      },
-      {
-        "word": "ultimatums",
-        "type": "noun",
-        "definition": "final demands or statements of terms, the rejection of which will result in retaliation or a breakdown in relations",
-        "sentence": "Both sides must step back from ultimatums to allow for productive dialogue."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary objective of the talks between the government and opposition?",
-        "options": [
-          "To finalise the national budget",
-          "To defuse the escalating political crisis",
-          "To discuss international trade agreements",
-          "To elect a new National Assembly Speaker"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states the meeting 'seemed like a last-ditch attempt at defusing the escalating political crisis'."
-      },
-      {
-        "question": "Which specific demand from the PTI was suggested as an easy, low-cost goodwill gesture for the government?",
-        "options": [
-          "Cancelling the planned march unconditionally",
-          "Finalizing their agenda with Barrister Gohar Khan",
-          "Permitting a meeting with Imran Khan at Adiala",
-          "Discussing unity against terrorism"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article suggests, 'Permitting a meeting with him [Imran Khan] at Adiala is an easy, low-cost goodwill gesture for the government and could create a quick breakthrough.'"
-      },
-      {
-        "question": "According to the article, what significant hurdle needed to be bridged quickly between the government and opposition?",
-        "options": [
-          "A policy disagreement over economic reforms",
-          "A trust deficit",
-          "A communication breakdown with international allies",
-          "A debate over provincial budget allocations"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'There is a trust deficit that needs to be bridged quickly.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the immediate context or trigger for the government and opposition to finally engage in talks?",
-        "back": "The escalating political crisis and the PTI's planned march on the federal capital."
-      },
-      {
-        "front": "What did the National Assembly Speaker Ayaz Sadiq assert as the correct forum for political dialogue?",
-        "back": "That parliament is the right forum for talks."
-      },
-      {
-        "front": "What specific threat from the government was identified as having considerably escalated hostilities?",
-        "back": "Threats to suspend KP’s elected dispensation over a political protest."
-      },
-      {
-        "front": "Besides permitting a meeting with Imran Khan, what other important items were mentioned as PTI's demands to ease tensions?",
-        "back": "Allowing the jailed leader to be moved to hospital and the release of his sisters."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790909376270-310",
-    "title": "‘China model’ fallacies\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2034189/china-model-fallacies",
-    "date": "2026-10-02",
-    "author": "none@none.com (Shahid Mehmood)",
-    "content": "ECONOMIC discourse in this country, especi­al­­ly with folks in governance circles, can throw up some very interesting — as well as disturbing — insights. A recent conversation brought up the int­e­­resting case of a preference for the ‘China model’.\nWhat is their conception of this model? Briefly, the belief is in an all-powerful centre that forces its economic commands through long-term plans across the entire country, whips up economic growth through major government interventions, and leaves a limited role for the lower tiers (local) of governance. It is worth contemplating whether these views align with ground realities.\nA good place to start is the recent paper by Fengming Lu and Xiao Ma, ‘The rise of China’s electric vehicle industry’, which helps demolish several myths. Champion EV firms like BYD and NIO are all private firms that did not get a single penny in state grants, which, instead, went to SOEs for EV research. Even more astonishing, these firms rose in cities the state apparatus did not identify for EV cluster development. How, then, did these firms accomplish this feat? The short answer: mayors of the cities that were left out teamed up with entrepreneurs, helping them usher in the latest achievement of China’s stellar development story.\nNotice that city mayors have the authority to act as they please within their locality. In this case, their initiative and actions undermined the SOEs. Yet, the central government never intervened to prevent it, thus demolishing the myth of an all-powerful centre that micromanages everything and does not tolerate local authority.\nThe Chinese state mainly acts as a facilitator for development in any way it can. In Pakistan, it’s the opposite.\nChina has a highly competitive and well-established local tier system. Passage to the higher echelons of the central party is possible only through performance at this level. Unlike in Pakistan, there is no chance of attaining a prominent party position merely by being a scion or progeny of a party head. (Interested readers can look up President Xi Jinping’s road to the presidency.)\nSecond, it demonstrates that the state is willing to tolerate ‘creative destruction’, a term coined by economist Joseph Schumpeter, to describe how competition and creativity can render some businesses useless. This is classic capitalism, not socialism or communism. In the race for EVs, private competitors left state-run SOEs far behind, but the centre never intervened to prevent their slide. In fact, competition is so intense that it has led to price wars, with some firms expected to fail (one county reportedly lost 6.6 billion yuan on a carmaker it supported).\nSimilar misconceptions exist around its long-term plans. These actually contain insights of tremendous depth, coming from top-tier experts. Plans are contemplated and debated at length rather than rushed through. The economic debates preceding the 14th party congress offer an apt illustration. In the wake of the Soviet Union’s collapse, between October and December 1991 (known as ‘eleven half-days’), the debate centred on why the USSR’s economy collapsed and what could be done to prevent the same from happening to China.\nThe end result was the adoption of the famous ‘modern enterprise system’, approved by the party in November 1993, which enunciated “clear property rights, clearly defined rights and responsibilities, separation of government and enterprise, and scientific management”, that would prove to be a critical moment in China’s march to prosperity.\nThe gist is that prevailing conceptions of China as a centrally administered economy with a benevolent dictator at the helm directing its stellar rise are misplaced. In fact, it is arguably the most decentralised governance system in the world, with more than 80 per cent of public expenditure at the local level, and mayors who enjoy independence in their fiscal and administrative decision-making.\nThe centre is still very powerful, but not in a manner that we understand. It has some red lines that it enforces. The rich, for example, are not allowed to attain influence to an extent that they are in a position to manipulate the state apparatus by tailoring it in their favour to the detriment of the country and its people. This explains, for example, why Communist Party members are banned from holding golf club memberships.\nThe underlying philosophy is simple: facilitate capital creation and growth, but prevent it from working against the public good and the country. The state mainly acts as a facilitator for development in any way it can. In Pakistan, it’s the complete opposite. Big capital dictates and manipulates policies, whether through tax exemptions or trillions doled out in public-sector contracts. The sugar mafia is a pertinent example, whose powerful members, sitting in the legislature, sway policies and regulations in their favour. (Note: the above should not be taken as advocacy for anti-capital formation policies. Instead, it should be viewed in terms of regulating capital’s negative spillovers.)\nAnd lest we forget, the corrupt in China are handed the death penalty. Try naming a few cases in Pakistan where a similar predicament befell the corrupt. In essence, China’s remarkable transformation to where it stands today constitutes a long, arduous, and messy process that began with Deng Xiaoping’s 1978 reforms, with the above merely offering a glimpse of that long journey.\nWhy then clamour for this ‘model’ that no one in our power halls would be willing to implement? After all, that would be hara-kiri for a corrupt, compromised elite which thrives on central control and illegally accrued rents via this system.\nWell, more than four years into the current experiment, the economy is still struggling to get out of the stagflationary rut in which it has been stuck since 2022; the average GDP growth has barely surpassed population growth, and all the ‘game changers’ (SIFC, $6 trillion mineral wealth, corporate farming, crypto, and geopolitical rents) have fizzled out. Expectedly, in comes yet another game changer — the ‘China model’.\nI cannot speak for others, but if it were up to me, I’d start implementing this model tomorrow. I assume, though, that once the enthusiastic folks in power circles come to grips with what it really implies, they’ll discard it immediately.\nThe writer is an economist. His current research focuses on long-term analyses of the various issues plaguing Pakistan’s economy, economic reforms and the history of economic thought.\nshahid.mohmand@gmail.com\nX: @ShahidMohmand79\nPublished in Dawn, October 2nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Governance, Decentralization, and State's Role in Development",
-    "whyMatters": "This article deconstructs common misconceptions about China's economic success, offering crucial insights into effective governance, decentralization, and state-capital relations. It provides a comparative lens to evaluate Pakistan's economic fragility and identify pragmatic policy shifts required for sustainable growth.",
-    "summary": [
-      "The 'China model' is often misconstrued as an all-powerful, micromanaging central government; however, it is actually a highly decentralized system with significant local authority.",
-      "China's state primarily acts as a facilitator for development, tolerating 'creative destruction' where private firms outcompete state-owned enterprises, unlike the prevailing perception of state control.",
-      "China's governance features a highly competitive and meritocratic local tier system, where performance at lower levels is crucial for advancement to higher echelons.",
-      "The Chinese central government enforces 'red lines' to prevent big capital from manipulating state apparatus for self-interest, contrasting sharply with Pakistan's system where capital often dictates policy."
-    ],
-    "facts": [
-      "Champion EV firms like BYD and NIO are private and did not receive state grants, which instead went to SOEs for EV research.",
-      "China's governance system is highly decentralized, with more than 80% of public expenditure managed at the local level.",
-      "The 'modern enterprise system' was adopted in November 1993, emphasizing 'clear property rights, clearly defined rights and responsibilities, separation of government and enterprise, and scientific management'.",
-      "Pakistan's economy has been stuck in a stagflationary rut since 2022, with average GDP growth barely surpassing population growth."
-    ],
-    "academicReferences": [
-      "Joseph Schumpeter's concept of 'creative destruction' (as discussed in the context of competition in China's EV industry)",
-      "Fengming Lu and Xiao Ma, 'The rise of China’s electric vehicle industry' (cited in the article for debunking myths about China's EV sector)",
-      "Deng Xiaoping's 1978 reforms (mentioned as the origin of China's transformative journey)",
-      "Economic Survey of Pakistan (for contextual data on Pakistan's GDP growth and economic challenges)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Fallacies",
-        "type": "noun",
-        "definition": "Mistaken beliefs or unsound arguments based on invalid reasoning.",
-        "sentence": "The article aims to expose the fallacies surrounding the common understanding of the 'China model'."
-      },
-      {
-        "word": "Stagflationary",
-        "type": "adjective",
-        "definition": "Relating to stagflation, an economic condition characterized by slow economic growth, high unemployment, and rising prices.",
-        "sentence": "Pakistan's economy is struggling to get out of the stagflationary rut it has been stuck in since 2022."
-      },
-      {
-        "word": "Hara-kiri",
-        "type": "noun",
-        "definition": "A form of ritual suicide, often used metaphorically to mean an act of self-destruction or self-sabotage.",
-        "sentence": "Implementing the true 'China model' would be hara-kiri for a corrupt elite that thrives on central control and illegal rents."
-      },
-      {
-        "word": "Progeny",
-        "type": "noun",
-        "definition": "A descendant of a person, animal, or plant; offspring.",
-        "sentence": "Unlike Pakistan, a prominent party position in China cannot be attained merely by being a scion or progeny of a party head."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is a primary misconception about the 'China model' debunked in the article?",
-        "options": [
-          "It is an all-powerful, micromanaging central government.",
-          "Private firms cannot thrive against state-owned enterprises.",
-          "Local governments lack significant administrative and fiscal autonomy.",
-          "The state never intervenes in economic matters."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the belief in an all-powerful centre that micromanages everything is a myth, highlighting China's decentralized governance."
-      },
-      {
-        "question": "According to the article, what role do city mayors primarily play in China's economic development?",
-        "options": [
-          "They enforce central government commands without deviation.",
-          "They have limited power and are subordinate to SOEs.",
-          "They possess significant independence in fiscal and administrative decision-making.",
-          "They are responsible for identifying national EV cluster development sites."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article notes that 'mayors of the cities that were left out teamed up with entrepreneurs' and 'enjoy independence in their fiscal and administrative decision-making'."
-      },
-      {
-        "question": "The concept of 'creative destruction' in China's EV industry illustrates the state's willingness to:",
-        "options": [
-          "Protect state-owned enterprises from private competition.",
-          "Intervene to prevent the failure of any firm, state or private.",
-          "Allow competition and innovation to render some businesses useless, even state-backed ones.",
-          "Provide direct state grants only to private firms for innovation."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explains 'creative destruction' as competition rendering businesses useless, citing private EV firms outperforming SOEs and the centre not intervening to prevent their slide."
-      },
-      {
-        "question": "What is a key difference between China and Pakistan highlighted in the article regarding the state's interaction with big capital?",
-        "options": [
-          "China actively encourages big capital to dictate and manipulate policies.",
-          "Pakistan's state mainly acts as a facilitator for development, like China.",
-          "China enforces 'red lines' to prevent the rich from manipulating the state against the public good.",
-          "In China, big capital is primarily responsible for public-sector contracts."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that China prevents the rich from manipulating the state apparatus, whereas in Pakistan, big capital dictates and manipulates policies."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary fallacy debunked about the 'China model' concerning central government control?",
-        "back": "The fallacy is that China operates with an all-powerful, micromanaging central government; in reality, it's highly decentralized with significant local autonomy and decision-making power."
-      },
-      {
-        "front": "How does China's approach to local governance contribute to its economic development, as per the article?",
-        "back": "Mayors have considerable independence in fiscal and administrative decision-making, fostering local initiative, competition, and enabling private firms to thrive even against central SOEs, leading to stellar development."
-      },
-      {
-        "front": "Explain the concept of 'creative destruction' as applied to China's EV industry in the article.",
-        "back": "Private EV firms like BYD and NIO, through intense competition and innovation, outcompeted state-run SOEs, demonstrating the Chinese state's tolerance for the failure of less efficient entities."
-      },
-      {
-        "front": "What fundamental difference does the article highlight between China and Pakistan regarding the state's interaction with big capital?",
-        "back": "China facilitates capital creation and growth but enforces 'red lines' to prevent the rich from manipulating the state apparatus for private gain, contrasting with Pakistan where big capital often dictates policies to its advantage."
-      }
-    ]
-  },
-  {
-    "id": "curated-1790909630927-279",
-    "title": "Politics of agitation\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2034192/politics-of-agitation",
-    "date": "2026-10-02",
-    "author": "none@none.com (Khurram Abbas)",
-    "content": "SEPTEMBER emerged as a politically charged month. The PTI and Jamaat-i-Islami announced their plans for long marches on Islamabad. The simultaneous mobilisation by the two parties had raised concerns about potentially prolonged street protests and disruptions in the capital. However, both parties postponed their marches (although the PTI has indicated it would begin its protest over the weekend), which temporarily eased the immediate concern of large-scale agitation. But, despite the postponements, the episode has once again highlighted the recurring pattern of opposition parties resorting to street agitation. It has raised several questions regarding the rationale of this politics of agitation.\nWhy do some political parties in Pakistan consistently resort to street agitation, road blockades, and prolonged sit-ins, while others continue to place their faith in parliamentary procedures and institutional mechanisms? What does this divergence reveal about the country’s political cultu­re? These questions lie at the heart of understanding the recurring cycle of protests that has come to define much of Pakistan’s contemporary politics.\nIn Pakistan’s political culture, agitation has recently served as a potent instrument for opposition parties to convert street power into tangible political gains through the ballot box. By orchestrating prolonged protests and sit-ins, parties have succeeded in mobilising their grassroots workers, reinvigorating cadre loyalty, and projecting an im­­­age of resistance against the status quo. Ex­­ces­sive media coverage provides publicity that often elevates relatively smaller actors to the level of na­­tional relevance, while the narrative of standing up for the ‘common man’ against an unresponsive system helps cultivate a saviour-like persona.\nThis dynamic was most visibly demonstrated by the PTI, whose 2014 Islamabad dharna and 2016 ‘lockdown’ agitation not only kept the party in the headlines for months but also laid the organisational and perceptual groundwork for its dramatic electoral expansion in 2018. Through this strategy, the PTI secured phenomenal electoral gains, from a modest 34 National Assembly seats in 2013 to 120 seats in 2018.\nSince 2012, the state’s response to political agitation has undergone a noticeable evolution.\nSimilar patterns are evident at the regional levels. The TLP registered itself as a political party in 2016 and after its long march on Islamabad in November 2017, it remarkably secured 2.2 million votes in the 2018 elections. Maulana Hidayatur Rehman’s sustained agitation in Gwadar transformed him from a marginal local political figure into a formidable voice of Gwadar, while Hafiz Naeemur Rehman’s high-visibility protests in Karachi have allowed the Jamaat-i-Islami to reclaim political space in urban Sindh. It is precisely this proven formula of converting agitation into both visibility and voter sympathy that appears to have encouraged the current Jamaat chief to attempt replicating the strategy on a national scale.\nAt its core, however, the recurring resort to agitation also reflects a deep lack of trust in the government, legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption. When citizens believe that taxes are routinely misappropriated rather than spent on public welfare, protests become the default language of political expression, as institutional channels are viewed as ineffective or compromised.\nHowever, this strategy of political agitation also carries significant socioeconomic costs. Prolonged protests and road blockades not only disrupt daily economic activities, they also impose heavy financial burdens on businesses, trade, and ordinary citizens. The PTI’s 2014 Islamabad sit-ins, which stretched for 126 days, and the subsequent waves of agitation in later years, created extended periods of uncertainty, including around 152 days of political and economic instability within a span of two years. As per a recent statement by the finance minister, every single day of protest may inflict an economic loss of around Rs120 billion on Pakistan’s economy. When this figure is applied to the 152 days of protests witnessed over the past decade, the cumulative financial damage is staggering and exposes the severe economic cost of sustained political agitation. These disruptions led to substantial losses in the trade, transport, and retail sectors, while simultaneously damaging market sentiment and eroding investor confidence, as prolonged street unrest signals political instability and policy unpredictability.\nSince 2012, the state’s response to political agitation has undergone a noticeable evolution. In the earlier phase, the government largely avoided direct confrontation. Instead, it opted for dialogue and negotiation. Federal ministers were frequently nominated by the prime minister of the time to engage with protest leaders, as seen during Tahirul Qadri’s 2012-13 sit-ins in Islamabad, the PTI’s prolonged 2014 dharna, and the TLP’s 2017 long march. These episodes reflected the government’s preference for political management over force. From 2012 to 2017, the state apparatus largely attempted to defuse tensions through concessions or mediated settlements rather than immediate crackdowns.\nOver time, however, this approach has shifted towards greater repression. Successive governments have increasingly relied on heavy-handed tactics, including the use of force, communication blackout, mass arrests, and restrictions on movement to disperse protests. While this strategy has, to some extent, discouraged repeated large-scale national-level agitations by raising the cost of mobilisation, it has simultaneously deepened public resentment towards state institutions. The perception of an increasingly authoritarian response has further eroded public trust in the system, and reinforced the very sense of institutional alienation that often fuels street protests in the first place.\nAlthough both the Jamaat and PTI postponed their long marches to Islamabad, the underlying tension between the opposition’s inclination towards street agitation and the government’s readiness to suppress such mobilisations remains. This recurring pattern continues to raise important questions: Can Pakistan continue to afford the repeated economic and institutional costs of agitation and repression? Or will the state and political actors eventually recognise the need to strengthen formal institutions such as the judiciary, parliament, and the standing committees of the National Assembly and Senate so that grievances can be resolved through dialogue and established democratic mechanisms rather than through the streets?\nThe writer is a strategic analyst of international security. The views expressed are his own.\nX: @itskhurramabbas\nPublished in Dawn, October 2nd, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Current Affairs / Pakistan Affairs",
-    "topic": "Political Culture, Governance, and Economic Impact of Instability in Pakistan",
-    "whyMatters": "This article provides critical insights into the recurring pattern of political agitation in Pakistan, offering concrete examples, economic costs, and the evolving state response. It helps aspirants analyze the interplay between street power, electoral gains, institutional trust, and national stability, crucial for high-scoring answers on governance and political dynamics.",
-    "summary": [
-      "Political agitation is a recurring pattern in Pakistan, used by opposition parties to gain political mileage and convert 'street power' into electoral success.",
-      "Parties like PTI, TLP, and Jamaat-i-Islami have successfully leveraged sustained protests to mobilize cadre, project resistance, gain media visibility, and secure significant electoral gains.",
-      "The resort to agitation is rooted in a deep lack of trust in governmental legitimacy, the electoral system, and the taxation system, exacerbated by widespread corruption perceptions.",
-      "This strategy incurs significant socioeconomic costs, including daily economic disruptions, financial burdens on businesses, damaged market sentiment, and eroded investor confidence, with estimated losses of Rs120 billion per protest day.",
-      "The state's response to agitation has evolved from initial dialogue and negotiation (2012-2017) to a more repressive approach involving force, communication blackouts, and mass arrests, which, while discouraging large-scale protests, has deepened public resentment and eroded trust in institutions.",
-      "The article concludes by questioning Pakistan's capacity to sustain these costs and emphasizes the need to strengthen formal institutions for grievance resolution over street protests."
-    ],
-    "facts": [
-      "PTI's electoral expansion: from 34 National Assembly seats in 2013 to 120 seats in 2018, significantly influenced by its 2014 dharna (126 days) and 2016 'lockdown' agitation.",
-      "TLP secured 2.2 million votes in the 2018 elections after its November 2017 long march on Islamabad.",
-      "Estimated economic loss: Around Rs120 billion per single day of protest on Pakistan’s economy.",
-      "Over the past decade, Pakistan witnessed approximately 152 days of political and economic instability due to sustained protests.",
-      "The state's response shifted from negotiation (e.g., Tahirul Qadri's 2012-13 sit-ins, PTI's 2014 dharna, TLP's 2017 long march) to increased repression post-2017."
-    ],
-    "academicReferences": [
-      "PILDAT Reports on the State of Democracy in Pakistan (e.g., assessing electoral reforms and institutional strengthening).",
-      "Transparency International's Corruption Perception Index (relevant for 'widespread perception of corruption' fueling distrust).",
-      "Economic Survey of Pakistan (provides data on economic performance and impact of political instability on various sectors)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Agitation",
-        "type": "noun",
-        "definition": "The act of arousing public interest in a cause or issue, often leading to protests or demonstrations.",
-        "sentence": "The politics of agitation has become a defining feature of Pakistan's contemporary political landscape."
-      },
-      {
-        "word": "Cadre loyalty",
-        "type": "noun",
-        "definition": "The strong allegiance and commitment shown by members or activists of a political party to its leadership and ideology.",
-        "sentence": "Prolonged protests helped reinvigorate cadre loyalty and mobilize grassroots workers for the party."
-      },
-      {
-        "word": "Perceptual groundwork",
-        "type": "noun",
-        "definition": "The foundational understanding, beliefs, or perceptions established in the public's mind that later enable or support a specific outcome.",
-        "sentence": "The 2014 dharna laid the organisational and perceptual groundwork for the party's dramatic electoral expansion."
-      },
-      {
-        "word": "Socioeconomic costs",
-        "type": "noun",
-        "definition": "The combined financial, social, and human impact of an event or policy on society and the economy.",
-        "sentence": "The strategy of political agitation, however, also carries significant socioeconomic costs for the nation."
-      },
-      {
-        "word": "Authoritarian response",
-        "type": "adjective/noun",
-        "definition": "A reaction or policy characterized by a strict, controlling, and often repressive approach by authority, limiting individual freedoms.",
-        "sentence": "The perception of an increasingly authoritarian response has further eroded public trust in the system."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following parties is NOT mentioned as having successfully used street agitation to gain political visibility and electoral advantage?",
-        "options": [
-          "PTI",
-          "TLP",
-          "PML-N",
-          "Jamaat-i-Islami"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions PTI, TLP, and Jamaat-i-Islami as parties that have successfully used street agitation. PML-N is not cited in this context."
-      },
-      {
-        "question": "What is identified as a primary reason for political parties resorting to agitation in Pakistan?",
-        "options": [
-          "Desire for international recognition",
-          "Deep lack of trust in government and institutions",
-          "Lack of access to media",
-          "Abundance of parliamentary procedures"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'At its core, however, the recurring resort to agitation also reflects a deep lack of trust in the government, legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption.'"
-      },
-      {
-        "question": "What was the estimated daily economic loss for Pakistan due to protests, according to a recent statement by the finance minister?",
-        "options": [
-          "Rs12 billion",
-          "Rs60 billion",
-          "Rs120 billion",
-          "Rs240 billion"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'As per a recent statement by the finance minister, every single day of protest may inflict an economic loss of around Rs120 billion on Pakistan’s economy.'"
-      },
-      {
-        "question": "How has the state's response to political agitation evolved since 2012?",
-        "options": [
-          "From repression to dialogue",
-          "It has remained consistently repressive",
-          "From dialogue and negotiation to greater repression",
-          "It has become more supportive of protests"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article details an evolution 'from political management over force' (dialogue and negotiation phase from 2012-2017) to a shift 'towards greater repression' (use of force, arrests, etc., post-2017)."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the core motivations for opposition parties to resort to street agitation in Pakistan, as per the article?",
-        "back": "Opposition parties resort to agitation to convert street power into tangible political gains through the ballot box, mobilize grassroots workers, reinvigorate cadre loyalty, project an image of resistance, gain media coverage, and cultivate a saviour-like persona against an unresponsive system."
-      },
-      {
-        "front": "Identify the significant socioeconomic costs associated with prolonged political agitation in Pakistan.",
-        "back": "Prolonged agitation leads to disrupted daily economic activities, heavy financial burdens on businesses, trade, and citizens, substantial losses in trade, transport, and retail sectors, damaged market sentiment, eroded investor confidence, political instability, and policy unpredictability."
-      },
-      {
-        "front": "How has the state's approach to managing political protests in Pakistan changed over the last decade (since 2012)?",
-        "back": "Initially (2012-2017), the state preferred dialogue, negotiation, and mediated settlements to defuse tensions. Over time, this shifted to greater repression, employing heavy-handed tactics like force, communication blackouts, mass arrests, and restrictions on movement."
-      },
-      {
-        "front": "What is the fundamental 'lack of trust' that the article identifies as fueling recurring agitation?",
-        "back": "The article points to a deep lack of trust in the government, the legitimacy of the electoral system, and the taxation system, compounded by the widespread perception of corruption, making protests the default language of political expression."
       }
     ]
   }
