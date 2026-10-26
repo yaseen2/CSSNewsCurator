@@ -1,5 +1,413 @@
 [
   {
+    "id": "curated-1792980365565-370",
+    "title": "AI agenda\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039877/ai-agenda",
+    "date": "2026-10-26",
+    "author": "none@none.com (Huma Yusuf)",
+    "content": "WHEN asked what he would dress up as for Halloween, a 10-year-old boy I know responded, “Claude, because there’s nothing scarier than AI.” Whether you consider this funny or astute, it highlights the pervasiveness of the AI bogeyman. And the best thing to do with your fears is face them.\nSo it was good to see Pakistan play a prominent role at the recent Global Digital and AI Summit in Seoul and ramp up engagement with the World Bank to support the country’s digital transformation through a Digital and AI Compact. Pakistan has committed to spending $1 billion on AI by 2030 and is cracking on with plans to digitise 12 key sectors by 2035 under the National Digital Master Plan.\nAs the momentum builds, we must ask: how will Pakistan fund investment in AI? And what makes digital transformation and AI adoption capable of overcoming structural issues that have held back traditional activities like manufacturing?\nAI use — particularly localised AI development and large language model (LLM) training — requires an immense and stable energy supply, high-speed internet and data storage, none of which are readily available in Pakistan. While efforts are underway to boost 5G spectrum and satellite access, the electricity sector is plagued by outages, a dilapidated grid, and circular debt. Concerns abound about whether Pakistan’s scarce water supply can bear the burden of water-guzzling data centres.\nThen there’s the question of how to insulate the future of Pakistani youth from widespread AI adoption. Pakistan’s first economic census last year identified that the services sector makes up over 50 per cent of the country’s economy (production is less than 30pc).\nHow will Pakistan fund investment into AI?\nA recent World Bank report notes that the services sector is most vulnerable to AI adoption, with 61pc of Pakistani service workers in jobs with higher-than-average AI exposure. Based on 2024 data, the report indicates that 8pc of all jobs are at risk of being replaced by AI (a number likely to rise). This means many Pakistanis will be trapped in low-skill, low-paying, and climate-vulnerable agricultural or manual labour jobs, while a sliver of society benefits from productivity gains.\nThe other question is how to prevent the complete securitisation of the AI agenda, a common challenge in countries with national security preoccupations. Concerns about the use of LLMs for mass surveillance have been voiced in the US and China, a scenario that Pakistan, with its punitive electronic crime legislation, is well primed for. Early interest has also been expressed in using AI for smart policing and biometric identity management. An early, advanced data centre was built under a National Aerospace Science and Technology Park initiative. \nThe state will feel a growing need to direct AI investment towards national security, because it’s only a matter of time before local terrorist groups begin deploying AI in anti-state activities. Writing in South Asian Voices, Zohaib Altaf and Nimrah Javed highlight the risk of such groups using AI to better target attacks based on intelligence analysis or to support arms development, particularly weaponised drones. The precedent for this has already been set by the Houthis in Yemen, so the likelihood of AI investment being funnelled primarily to military ends is high.\nIf Pakistan’s AI agenda is not carefully monitored, we face a future in which limited digital infrastructure in the form of resource-intensive data centres is reserved for security-linked AI use, with some private enterprises enjoying gains at the expense of the wider population. In this scenario, urban youth unemployment increases and rural poverty intensifies; agricultural emp­l­o­yment survives the AI rollout, but is ravaged by climate change instead.\nThere is a way to prevent this scenario. That’s through high levels of transparency and accountability in AI governance, regulation, and investment, including the requirement for public service considerations and consultation as part of all investments. Pakistan’s civil society organisations and media should also redouble efforts to understand the implications of AI investment to ensure accountability.\nOn a more positive note, the notions of accountability and transparency in AI are no longer antithetical to AI development. US-based civic activism against data centres on resource-use grounds is increasingly effective in blocking projects. And while Big Tech has thrown up its hands, arguing that it can’t be held responsible for what LLMs do, new research suggests that LLMs may be easier to unpick (and so monitor) than we think. Such public-interest considerations, particularly with an inclusion lens, should be part of Pakistan’s AI journey. That may make it less scary. \nThe writer is a political and integrity risk analyst.\nX: @humayusuf\nPublished in Dawn, October 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs / Current Affairs / Economics / Governance",
+    "topic": "Digital Transformation and AI in Pakistan: Challenges, Opportunities, and Governance",
+    "whyMatters": "The article critically examines Pakistan's ambitious AI agenda, highlighting crucial socio-economic, infrastructural, and governance challenges. It provides a balanced perspective essential for understanding the future trajectory of digital transformation in the country for competitive exams.",
+    "summary": [
+      "Pakistan is committed to a significant AI investment ($1 billion by 2030) and digital transformation (12 key sectors by 2035) under the National Digital Master Plan, playing a prominent role in global digital summits.",
+      "Major infrastructural hurdles impede AI adoption, including an unstable energy supply, a dilapidated grid, inadequate high-speed internet, data storage issues, and scarce water resources for data centers.",
+      "Widespread AI adoption poses a threat to Pakistani youth, with the services sector (over 50% of the economy) highly vulnerable to job displacement, potentially exacerbating inequality and trapping many in low-skill jobs.",
+      "There is a high risk of the AI agenda being securitized, diverting investment towards national security, surveillance, and military uses, potentially by both state and non-state actors, instead of broader public benefit.",
+      "The article advocates for high levels of transparency, accountability, public service considerations, and civil society engagement in AI governance and investment to mitigate risks and ensure inclusive growth."
+    ],
+    "facts": [
+      "Pakistan has committed to spending $1 billion on AI by 2030.",
+      "The National Digital Master Plan aims to digitise 12 key sectors by 2035.",
+      "The services sector constitutes over 50% of Pakistan's economy, and 61% of Pakistani service workers are in jobs with higher-than-average AI exposure.",
+      "A recent World Bank report indicates that 8% of all jobs in Pakistan are at risk of being replaced by AI (a number likely to rise)."
+    ],
+    "academicReferences": [
+      "World Bank Report (mentioned in article on AI adoption and job vulnerability)",
+      "Pakistan's National Digital Master Plan (policy document referenced)",
+      "Zohaib Altaf and Nimrah Javed's article in 'South Asian Voices' (on AI use by terrorist groups)",
+      "Global Digital and AI Summit in Seoul (international event where Pakistan participated)"
+    ],
+    "vocabulary": [
+      {
+        "word": "pervasiveness",
+        "type": "noun",
+        "definition": "The quality of being present and apparent in every part of a thing or place.",
+        "sentence": "The pervasiveness of smartphones has significantly altered social interactions globally."
+      },
+      {
+        "word": "dilapidated",
+        "type": "adjective",
+        "definition": "(Of a building or object) in a state of disrepair or ruin as a result of age or neglect.",
+        "sentence": "The country's electricity grid was described as dilapidated, leading to frequent outages."
+      },
+      {
+        "word": "securitisation",
+        "type": "noun",
+        "definition": "The action or process of treating an issue primarily as a matter of national security, transforming it into a security concern.",
+        "sentence": "The securitisation of AI could lead to a focus on military and surveillance applications, rather than civilian benefits."
+      },
+      {
+        "word": "antithetical",
+        "type": "adjective",
+        "definition": "Directly opposed or contrasted; mutually incompatible.",
+        "sentence": "Secrecy in AI development is antithetical to the principles of transparency and public accountability."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what percentage of Pakistan's services sector workers are in jobs with higher-than-average AI exposure?",
+        "options": [
+          "30%",
+          "50%",
+          "61%",
+          "8%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'a recent World Bank report notes that the services sector is most vulnerable to AI adoption, with 61pc of Pakistani service workers in jobs with higher-than-average AI exposure.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the primary infrastructural deficiencies hindering Pakistan's AI adoption?",
+        "back": "Pakistan faces challenges from an immense and unstable energy supply, a dilapidated grid, inadequate high-speed internet, insufficient data storage, and concerns about water scarcity for data centers."
+      },
+      {
+        "front": "How might widespread AI adoption impact employment for Pakistani youth, particularly in the services sector?",
+        "back": "AI adoption threatens to displace jobs in the services sector, which is a major employer, potentially increasing urban youth unemployment and trapping many in low-skill, low-paying agricultural or manual labor jobs."
+      },
+      {
+        "front": "What is the main concern regarding the 'securitisation of the AI agenda' in Pakistan?",
+        "back": "The main concern is that AI investment will be predominantly funnelled towards national security, mass surveillance, and military applications, potentially at the expense of broader public benefit, inclusive growth, and civil liberties."
+      },
+      {
+        "front": "What approach does the article recommend to ensure Pakistan's AI journey is less 'scary' and more beneficial?",
+        "back": "The article recommends high levels of transparency and accountability in AI governance, regulation, and investment, including mandatory public service considerations and consultation, with active civil society and media oversight."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792980707378-368",
+    "title": "Encounter culture\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039882/encounter-culture",
+    "date": "2026-10-26",
+    "author": "none@none.com (Editorial)",
+    "content": "TEN suspected criminals killed in Karachi police ‘encounters’ in two days should trouble anyone concerned about public safety and the rule of law. Seven died in separate incidents on Thursday and another three on Friday. In each case, police reported armed resistance, exchanges of fire, and the recovery of weapons. These accounts may be accurate, but cannot be accepted without scrutiny. Officers confronting armed criminals have every right to defend themselves and others. Karachi’s residents, long exposed to street crime and violent robberies, deserve protection. Yet the frequency of these so-called encounters raises questions about how operations are conducted and whether suspects are given an opportunity to surrender. Whether the police actions were legitimate or unlawful can only be established through credible investigations. There must be forensic examination of weapons, independent verification of police accounts, and proper documentation of injuries and evidence. Such scrutiny should be routine whenever police gunfire causes death, regardless of the victim’s alleged criminal history. Otherwise, the public must rely entirely on the version offered by those who pulled the trigger.\nThe concern extends beyond Karachi. In Punjab, where the Crime Control Department faces allegations of staged encounters, the political response has exposed a dangerous willingness to equate police killings with justice. After a suspect in the killing of a teenage worker in Multan died in an alleged encounter, PML-N lawmaker Hina Parvez Butt celebrated it as “justice served immediately”. She deleted the post but defended her remarks as public sentiment. Anger over a child’s murder is understandable. But an elected representative ought to know that public outrage cannot substitute for a trial, and that a police killing is not a judicial verdict. Punjab Information Minister Azma Bokhari criticised the comments, though the issue is larger than one politician’s embarrassment. Governments must make clear that police performance will be judged by crimes prevented, offenders lawfully arrested, and cases successfully prosecuted, not bodies counted. Independent inquiries into disputed encounters should publish findings and establish responsibility if unlawful force is proved. Police officers need training, equipment and supervision that make arrest a realistic option where possible. A force that can shoot but cannot build a case offers little lasting security. The police are duty-bound to protect lives. They do not have a licence to kill.\nPublished in Dawn, October 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs / Current Affairs / Governance",
+    "topic": "Rule of Law, Police Reforms, and Extrajudicial Killings",
+    "whyMatters": "This article offers a critical analysis of police accountability and the rule of law in Pakistan, directly addressing issues of human rights and governance. It provides strong arguments for due process and judicial oversight, crucial for analytical essays and current affairs questions.",
+    "summary": [
+      "Frequent police 'encounters' resulting in deaths, particularly in Karachi, raise serious concerns about the legality and legitimacy of operations and whether suspects are given due process.",
+      "Independent and credible investigations, including forensic analysis and external verification, are essential for scrutinizing police accounts and establishing responsibility in cases of lethal force.",
+      "The celebration of police killings by political figures as 'justice served immediately' undermines the judicial system, normalizes extrajudicial actions, and equates police action with a verdict.",
+      "Police performance should be measured by crime prevention, lawful arrests, and successful prosecutions, rather than body counts, necessitating better training and supervision for building strong cases."
+    ],
+    "facts": [
+      "Ten suspected criminals were killed in Karachi police 'encounters' in two days (seven on Thursday, three on Friday).",
+      "A suspect in the killing of a teenage worker in Multan, Punjab, also died in an alleged police encounter.",
+      "The article was published in Dawn on October 26th, 2026."
+    ],
+    "academicReferences": [
+      "Constitution of Pakistan 1973 (Articles 9, 10, 10A): Upholds the right to life, fair trial, and due process, providing the fundamental legal framework challenged by alleged extrajudicial killings.",
+      "Universal Declaration of Human Rights (UDHR) / International Covenant on Civil and Political Rights (ICCPR): International human rights instruments guaranteeing the right to life, liberty, and a fair trial, against which police actions can be evaluated.",
+      "Principles on the Use of Force and Firearms by Law Enforcement Officials (UN Basic Principles): Provides guidelines for law enforcement on the appropriate use of force, emphasizing restraint and proportionality, and the protection of human life."
+    ],
+    "vocabulary": [
+      {
+        "word": "Scrutiny",
+        "type": "noun",
+        "definition": "close and critical observation or examination.",
+        "sentence": "The police accounts of the encounters require thorough scrutiny to ensure their accuracy and legitimacy."
+      },
+      {
+        "word": "Legitimate",
+        "type": "adjective",
+        "definition": "conforming to the law or to rules; justifiable; valid.",
+        "sentence": "Only credible investigations can establish whether the police actions were legitimate or unlawful."
+      },
+      {
+        "word": "Duty-bound",
+        "type": "adjective",
+        "definition": "morally or legally obligated.",
+        "sentence": "The police are duty-bound to protect lives and uphold the law, not to act as judge, jury, and executioner."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what should be the primary metrics for judging police performance?",
+        "options": [
+          "A) Number of suspected criminals killed in encounters and weapons recovered.",
+          "B) Crimes prevented, offenders lawfully arrested, and cases successfully prosecuted.",
+          "C) Public sentiment regarding immediate justice and swift action.",
+          "D) The ability to resist armed criminals effectively and defend officers."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that police performance should be judged by 'crimes prevented, offenders lawfully arrested, and cases successfully prosecuted, not bodies counted,' indicating a focus on lawful and effective policing over lethal force."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why does the article express concern about police 'encounters' even when suspects are alleged criminals?",
+        "back": "The concern arises because the frequency and nature of these encounters raise questions about operational conduct, whether suspects are given a chance to surrender, and whether actions are legitimate or unlawful, potentially undermining the rule of law."
+      },
+      {
+        "front": "What specific measures does the article suggest for ensuring accountability in police encounters that result in deaths?",
+        "back": "It recommends forensic examination of weapons, independent verification of police accounts, proper documentation of injuries and evidence, and routine scrutiny regardless of the victim's alleged criminal history."
+      },
+      {
+        "front": "How does the article criticize political responses to police killings, using the example from Punjab?",
+        "back": "It criticizes political figures for equating police killings with 'justice served immediately' and substituting public outrage for a trial, thus normalizing extrajudicial killings and undermining the judicial process."
+      },
+      {
+        "front": "What fundamental shift in police operational approach does the article advocate for to enhance lasting security?",
+        "back": "The article advocates for a shift from a 'shoot to kill' mentality to one focused on training, equipment, and supervision that makes arrest a realistic option, enabling the police to build cases and ensure lawful prosecution rather than just counting bodies."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792980281308-994",
+    "title": "Pakistan’s global role\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039879/pakistans-global-role",
+    "date": "2026-10-26",
+    "author": "none@none.com (Umair Javed)",
+    "content": "THE nature of Pakistan’s role in global politics is once again the subject of much debate. Several officials are ferrying messages between Iran and the US for an end to the conflict, having helped organise a short-lived peace agreement earlier in the year. \nBased on these and past events, there are a series of judgement calls that observers make about the Pakistani state and its position in the world order. One set of views sees Pakistan as a client state of the US, that is, one that’s subservient to America’s imperial interests and its immediate allies in the region, the Gulf monarchies. This view is shared by sections of the left — globally, in the region, and within Pakistan — and disgruntled opponents of the current regime, who furnish as evidence for it the country’s role in global anti-communist politics in the 1950s and 1960s, its partnership with the US against the Soviets in Afghanistan, its role during the ‘war on terror’ between 2001 and 2013, and the proximity of ties with the Trump administration in recent months. Ironically, conservatives and Islamists also cite the 1950s/1960s and the experience of US-Pakistan relations during the war on terror and especially in the last few years, as evidence of successive regimes siding with global secularist interests in subjugating both Islamic movements in the region and Muslim political identity at home.\nThe other view, held in the same time-space continuum, sees the country as ideologically fundamentalist, and simultaneously, a client of China and an unpredictable ally of the US — one that is capable of undermining the global hegemon on its own or in collaboration with the Chinese. This view is shared by much of the American and Indian mainstream, who cite CPEC and close military relations as an example of Chinese clientelism, previous support to the Taliban during the invasion of Afghanistan as an example of duplicity, and its approach to Kashmir, its recent diplomatic support for Iran, and the broader sociocultural and ideational life of its citizens, as an example of (religious) fundamentalism.\nAs with most sweeping observations, many may detect a kernel of truth in these otherwise clearly contradictory positions. Close proximity to American imperial interests has characterised many passages in Pakistani political history. Similarly, the relationship with China remains remarkably consistent since the 1970s. However, in an effort to account for Pakistan’s global and regional behaviour, these observations lapse back to the rather broad and imprecise categories of ‘client state’ or ‘fundamentalist state’.\nThe reality, just on the basis of the actions listed above, is that the state’s geopolitical and ideational positioning has varied considerably, which makes it hard to pin it down as a US ‘client’ of the same ilk as Japan/ South Korea or the Gulf monarchies, or as a Chinese client like North Korea.\nThere are a series of judgement calls that observers make about the state’s position in the world order.\nWhat is consistent though is the subordinate role that the state here plays in global affairs, not just in terms of geopolitics but also — and more fundamentally — in terms of international economic processes.\nHow does ‘subordinate’ differ from ‘client’? Beyond mere semantics, a substantive difference is that a subordinate actor may have limited agency, but it retains the capability of understanding and developing its own interests. A client, on the other hand, would, by and large replicate the interests of its patrons.\nOn the evidence of the last seven decades, it would be incorrect to assert that the Pakistani state elite has not developed a sense of its own interests, even though some may disagree with the content of those interests or how those interests were developed.\nThere is, for example, a long-standing recognition of being in a ‘tough’ geography, with insecure borders on at least three sides. There is also a persisting notion that it faces a periodically existential threat from a much more powerful eastern neighbour and that this threat should be countered by a military deterrent. This in turn can only be obtained by forging reciprocal relations with more powerful states. \nThe presence of these interests/ ideas does not invalidate the fact that the state’s own actions and responses may have hastened insecurities in various ways. Nor can it paper over the fact that the processes through which the state recognises its context and develops its response are heavily skewed towards a largely insulated military-bureaucratic state apparatus. Both, in turn, lead to other domestic problems, including frequent civil-military political conflict and law and order insecurity in the peripheries.\nHowever, while some reduce Pakistan’s subordination to its geography or the original conditions of its creation, one can make the more substantive case that it remains in that place by the nature of the global economic order since the 1970s and due to its own economic dysfunction. \nWith basic processes of capital accumulation stagnating or being rendered highly inefficient, the dollar requirement to ensure subsistence-level growth under global conditions of economic liberalisation can only be met through wilful subordination to varied benefactors. Periodic balance-of-payment crises since the 1980s have precipitated this pattern, and geopolitical posturing to extract IMF concessions or rents in other forms has cemented it.\nEach successive crisis of the last four decades has found resolution via subordination in the geopolitical domain: favour garnered with the Gulf monarchies via military assistance or labour provision in exchange for reserve deposits; providing the US with regional geopolitical support in exchange for IMF approval, or allowing Chinese capital to make infrastructure investments to kickstart (fleeting) economic growth. Ultimately, each temporary staving off of an economic crisis has pinned down the state’s subordinate position. And in the process little has been done to fix the underlying issue of domestic economic dysfunction. \nThe writer teaches politics and sociology. \nX: @umairjav\nPublished in Dawn, October 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "International Relations / Pakistan Affairs / Economics",
+    "topic": "Pakistan's Evolving Global Role and Economic Subordination",
+    "whyMatters": "This article offers a nuanced perspective on Pakistan's international standing, moving beyond simplistic labels to highlight the profound impact of economic dysfunction on its foreign policy choices. Aspirants can use its core argument to critically analyze Pakistan's past and present engagements in essay and current affairs papers.",
+    "summary": [
+      "Commonly held views classify Pakistan either as a 'client state' of the US, subservient to its interests and allies, or as an ideologically fundamentalist state that is simultaneously a client of China and an unpredictable US ally.",
+      "The author argues these categories are imprecise and contradictory, proposing instead that Pakistan plays a 'subordinate' role in global affairs, retaining limited agency to develop its own interests, unlike a true client state.",
+      "This subordination is primarily attributed to Pakistan's chronic economic dysfunction, particularly stagnating capital accumulation, and its place within the global economic order since the 1970s.",
+      "Periodic balance-of-payment crises since the 1980s have compelled Pakistan into geopolitical subordination, where it provides military assistance, regional support, or infrastructure access to benefactors (Gulf states, US, China) in exchange for financial relief, thereby perpetuating its subordinate status without resolving underlying economic issues."
+    ],
+    "facts": [
+      "Pakistan's involvement in global anti-communist politics during the 1950s and 1960s.",
+      "Pakistan's partnership with the US against the Soviets in Afghanistan.",
+      "Pakistan's role during the 'War on Terror' between 2001 and 2013.",
+      "China-Pakistan Economic Corridor (CPEC) cited as an example of Chinese clientelism.",
+      "Periodic balance-of-payment crises affecting Pakistan since the 1980s."
+    ],
+    "academicReferences": [
+      "Andrew Small's 'The China-Pakistan Axis: An Ambiguous Alliance in a New Cold War'",
+      "IMF Stand-by Arrangement (SBA) / Extended Fund Facility (EFF) documents for Pakistan",
+      "Dependency Theory (e.g., Andre Gunder Frank, Immanuel Wallerstein) - to contextualize economic subordination"
+    ],
+    "vocabulary": [
+      {
+        "word": "Subservient",
+        "type": "adjective",
+        "definition": "Prepared to obey others unquestioningly; less important than something else.",
+        "sentence": "One view sees Pakistan as a subservient client state of the US, obeying America's imperial interests."
+      },
+      {
+        "word": "Hegemon",
+        "type": "noun",
+        "definition": "A leading or dominant power or state.",
+        "sentence": "Some observers believe Pakistan is capable of undermining the global hegemon on its own or in collaboration with China."
+      },
+      {
+        "word": "Clientelism",
+        "type": "noun",
+        "definition": "A social order that depends on relations of patronage; the exchange of goods and services for political support.",
+        "sentence": "CPEC and close military ties are cited by some as examples of Chinese clientelism in Pakistan."
+      },
+      {
+        "word": "Ideational",
+        "type": "adjective",
+        "definition": "Relating to ideas or concepts.",
+        "sentence": "The article mentions the broader sociocultural and ideational life of its citizens as an example of religious fundamentalism."
+      },
+      {
+        "word": "Precipitated",
+        "type": "verb",
+        "definition": "Caused (an event or situation, typically one that is bad or undesirable) to happen suddenly, unexpectedly, or prematurely.",
+        "sentence": "Periodic balance-of-payment crises since the 1980s have precipitated this pattern of subordination."
+      },
+      {
+        "word": "Stagnating",
+        "type": "verb",
+        "definition": "Ceasing to develop, progress, or be active; becoming sluggish.",
+        "sentence": "With basic processes of capital accumulation stagnating, Pakistan faces ongoing economic challenges."
+      },
+      {
+        "word": "Rents",
+        "type": "noun",
+        "definition": "(Economics) Unearned income from land, property, or capital; here, referring to benefits extracted through geopolitical leverage.",
+        "sentence": "Geopolitical posturing to extract IMF concessions or rents in other forms has cemented Pakistan's subordinate position."
+      },
+      {
+        "word": "Staving off",
+        "type": "phrasal verb",
+        "definition": "Averting or delaying something bad or dangerous.",
+        "sentence": "Each temporary staving off of an economic crisis has pinned down the state’s subordinate position."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the author's primary argument about Pakistan's global role?",
+        "options": [
+          "Pakistan is a client state, fully replicating its patrons' interests.",
+          "Pakistan is an unpredictable ally, capable of undermining global powers at will.",
+          "Pakistan plays a subordinate role, retaining limited agency despite economic dependencies.",
+          "Pakistan is an ideologically fundamentalist state, driven solely by religious motives."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author argues Pakistan plays a 'subordinate role', which implies limited agency but an ability to develop its own interests, distinguishing it from a 'client' state."
+      },
+      {
+        "question": "According to the article, what is the fundamental reason for Pakistan's subordinate position in global affairs?",
+        "options": [
+          "Its tough geography and insecure borders.",
+          "The presence of an insulated military-bureaucratic state apparatus.",
+          "Its ongoing economic dysfunction and place in the global economic order.",
+          "Its strategic alliance with China and close military relations."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that 'one can make the more substantive case that it remains in that place by the nature of the global economic order since the 1970s and due to its own economic dysfunction.'"
+      },
+      {
+        "question": "Which of the following is NOT cited in the article as evidence for the view that Pakistan is a US client state?",
+        "options": [
+          "Its role in global anti-communist politics in the 1950s and 1960s.",
+          "Its partnership with the US against the Soviets in Afghanistan.",
+          "Its close ties with the Trump administration in recent months.",
+          "Its unilateral declaration of nuclear weapons capability."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article lists the first three options as evidence, but makes no mention of Pakistan's nuclear declaration in the context of it being a US client state."
+      },
+      {
+        "question": "How do recurring balance-of-payment crises contribute to Pakistan's subordinate position?",
+        "options": [
+          "They encourage Pakistan to adopt an independent economic policy.",
+          "They force Pakistan to provide geopolitical concessions to benefactors for financial relief.",
+          "They lead to significant capital accumulation and self-sufficiency.",
+          "They primarily result in internal political instability without external implications."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explains that 'Each successive crisis... has found resolution via subordination in the geopolitical domain' by forging relations with powerful states for financial aid, thus cementing its subordinate position."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the author differentiate between a 'subordinate' state and a 'client' state in the context of Pakistan's global role?",
+        "back": "A subordinate actor has limited agency and can develop its own interests, whereas a client actor largely replicates the interests of its patrons. The author argues Pakistan is subordinate, not merely a client."
+      },
+      {
+        "front": "What are the two primary, contrasting views mentioned in the article regarding Pakistan's role in global politics?",
+        "back": "One view sees Pakistan as a subservient US client state. The other sees it as ideologically fundamentalist, a client of China, and an unpredictable ally of the US."
+      },
+      {
+        "front": "According to the article, what is the *fundamental* underlying issue that perpetuates Pakistan's subordinate position in global affairs?",
+        "back": "The fundamental issue is Pakistan's domestic economic dysfunction, characterized by stagnating capital accumulation and inefficient economic processes, within the context of the global economic order since the 1970s."
+      },
+      {
+        "front": "How have Pakistan's balance-of-payment crises impacted its foreign policy and international engagements over the past four decades?",
+        "back": "These crises have consistently led Pakistan to resolve financial issues through geopolitical subordination, offering military assistance, regional support, or infrastructure access to benefactors (e.g., Gulf states, US, China) in exchange for aid or investment, reinforcing its subordinate global role."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792980791597-195",
+    "title": "The academic bubble\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2039878/the-academic-bubble",
+    "date": "2026-10-26",
+    "author": "none@none.com (Fatima Waqi Sajjad)",
+    "content": "In order to speak about the future one must first recognise the contemporary moment, as it is the contemporary moment that indicates the future — Alexandre Kojève\nUNIVERSITIES as places of higher learning have much to say about the future. They talk about AI advancements, new technologies and future skills. Neoliberal universities, however, rarely address the deep-rooted crises of contemporary times. There seems to be a significant disconnect between the everyday realities within a university and those outside it. This is especially troubling in disruptive times like the ones we live in.\nI write as a peace scholar who is simultaneously witnessing a critical moment in history and routine academic life inside universities. Global higher education is experiencing deep structural and financial strain. Universities in the UK for example, are facing serious financial turmoil, yet our local universities continue to import their failing neoliberal agendas. Academic institutions in both places seem to have lost touch with the current unsettling realities. \nMany scholars of international relations and peace studies view the current moment as a paradigm-shifting moment in history. We see collapse and chaos all around with brutal genocides in Gaza, Sudan, and Congo, senseless wars in Iran, West Asia, and Ukraine, and illegal interventions in Venezuela and Cuba. Some view the current events as an end to the America-led order, while others view them as the collapse of the post-World War II international rules-based order and the rise of a multipolar or a pluriversal order. Some observers, such as Owen Jones, see a bigger collapse of Western dominance. Some describe the present turmoil as the end of capitalism itself. \nWhat is happening in our universities as the world falls apart?\nAn ecological collapse is another reality of the present times. The UN has warned of “a point of no return” as we cross the 1.5 degrees Celsius limit in the next few years. The death toll from climate disasters continues to rise, with the devastation caused by the glacier collapse in Nepal, the agonising heatwaves in Europe, and the forest fires in Indonesia, Algeria, Canada, and Europe. But all this does not stop capitalist greed, which continues to create a global climate emergency.\nSo what is happening in our universities as the world falls apart? Lost in the ranking race, they appear inundated with papers, conferences, and funded projects as publication numbers skyrocket, citation scores pile up, and academics are told they cannot pause or they will perish. Hence, the meaning and purpose of knowledge seem to be lost in neoliberal academia. AI adds further layers to the meaningless reproduction of knowledge. Despite an intensifying climate emergency, big tech companies continue to sell visions of AI futures, and universities continue to impose narratives about AI inevitability as if its massive environmental footprint is a secondary issue. We are facing urgent questions about the role of academia in supporting harmful extractive logics that lead to an ecological collapse. There are also serious questions about universities’ complicity in ongoing genocides as evident in the case of student protests for Gaza, which were brutally suppressed by big universities. However, instead of addressing such pressing questions, universities continue to reinforce “the very logic that produced the crises”. \nUrgent and fundamental transformation in our way of thinking is needed. Educational spaces offer hope. They must indulge in greater deliberation to reimagine the future. Decolonial imagination \nhas recently gained traction across glo­bal academia and social movements. Decolonial thinking questions modern paradigms of rationality that view knowledge as priv­ate property and re­­search as data extraction. Ins­te­­ad, it explores indigenous knowledge systems based on relationality.\nIndigenous cultures have survived on this planet for thousands of years without sophisticated theories of survival and security. They have lived respectfully with the Earth without any technical knowledge of sustainability. The present moment demands that universities pause. They must also halt the ranking race and think about deeper, fundamental questions, such as what is the purpose of knowledge creation? \nIndividual success cannot be the purpose of knowledge creation in times of collective failure. The academic fixation with publication metrics is a distraction from the real purpose of knowledge creation, which lies in addressing the grave crises of our times. If universities wish to remain relevant in the future, they must redirect their energies towards building livable futures for all. \nThe writer is director, Centre for Critical Peace Studies at the University of Management & Technology & founder of The Pluriversity Lahore.\nPublished in Dawn, October 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 76,
+    "paper": "Current Affairs / International Relations / Sociology",
+    "topic": "Critique of Neoliberal Higher Education and its Role in Addressing Global Crises",
+    "whyMatters": "This article offers a critical perspective on the role of higher education in addressing contemporary global crises, directly relevant for essays and analytical questions on governance, societal challenges, and international relations. It introduces concepts like 'neoliberal academia' and 'decolonial imagination,' providing high-scoring vocabulary and unique viewpoints for comprehensive answers.",
+    "summary": [
+      "Neoliberal universities exhibit a significant disconnect between academic life and the deep-rooted contemporary global crises, prioritizing institutional metrics over societal relevance.",
+      "While the world faces paradigm-shifting events like genocides, ecological collapse, and the potential end of existing world orders, universities are caught in a 'ranking race,' losing the meaning and purpose of knowledge.",
+      "Academia is complicit in supporting harmful 'extractive logics' and existing power structures, evident in its reinforcement of capitalist greed, promotion of AI despite its environmental footprint, and suppression of student protests.",
+      "The article calls for a fundamental transformation in universities, advocating for a pause in the ranking race, a questioning of knowledge's purpose, and the adoption of 'decolonial imagination' to build livable futures for all."
+    ],
+    "facts": [
+      "Universities in the UK are facing serious financial turmoil, while local universities import their failing neoliberal agendas.",
+      "The UN has warned of 'a point of no return' as the 1.5 degrees Celsius climate limit may be crossed in the next few years.",
+      "Current global events include brutal genocides in Gaza, Sudan, and Congo, senseless wars in Iran, West Asia, and Ukraine, and illegal interventions in Venezuela and Cuba."
+    ],
+    "academicReferences": [
+      "Alexandre Kojève's 'Introduction to the Reading of Hegel' (for understanding historical moments and future implications)",
+      "IPCC Reports (Intergovernmental Panel on Climate Change) on climate change and its devastating impacts.",
+      "bell hooks, 'Teaching to Transgress: Education as the Practice of Freedom' (for critical pedagogy and reimagining educational spaces)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Neoliberal",
+        "type": "adjective",
+        "definition": "A political-economic philosophy that advocates for economic liberalization, free markets, deregulation, privatization, and reduced government spending.",
+        "sentence": "Neoliberal universities often prioritize market-driven outcomes and competition over public good and critical inquiry."
+      },
+      {
+        "word": "Paradigm-shifting",
+        "type": "adjective",
+        "definition": "Describing a fundamental and significant change in the way something is conceptualized or done, leading to a new perspective.",
+        "sentence": "Many scholars view the current global geopolitical landscape as a paradigm-shifting moment, indicating a new international order."
+      },
+      {
+        "word": "Pluriversal",
+        "type": "adjective",
+        "definition": "Emphasizing the coexistence of multiple perspectives, knowledge systems, and ways of life, often challenging a single, universalizing worldview.",
+        "sentence": "The concept of a pluriversal order suggests a future where diverse cultural and political systems coexist and interact without dominance by one."
+      },
+      {
+        "word": "Decolonial imagination",
+        "type": "noun phrase",
+        "definition": "A framework for thinking and acting that questions and transcends modern, Eurocentric paradigms of knowledge, power, and being, seeking to re-center marginalized voices and epistemologies.",
+        "sentence": "Embracing a decolonial imagination is crucial for universities to address historical injustices and build more equitable futures."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary criticism of neoliberal universities in the contemporary moment?",
+        "options": [
+          "A) Their excessive focus on local community engagement.",
+          "B) Their disconnect from deep-rooted global crises and prioritization of rankings.",
+          "C) Their inability to attract international students.",
+          "D) Their lack of funding for scientific research."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'Neoliberal universities, however, rarely address the deep-rooted crises of contemporary times. There seems to be a significant disconnect between the everyday realities within a university and those outside it,' and mentions them being 'Lost in the ranking race.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main critique leveled against 'neoliberal universities' in the article?",
+        "back": "They exhibit a significant disconnect from deep-rooted contemporary global crises, prioritizing metrics like rankings, publications, and funded projects over addressing real-world problems."
+      },
+      {
+        "front": "How does the article suggest universities are complicit in ongoing global crises like ecological collapse and genocides?",
+        "back": "By reinforcing 'extractive logics,' promoting AI despite its environmental footprint, focusing on capitalist greed, and suppressing student protests against humanitarian issues."
+      },
+      {
+        "front": "What conceptual framework does the article propose for universities to reimagine their future and purpose?",
+        "back": "'Decolonial imagination,' which questions modern paradigms of rationality, views knowledge as private property, and instead explores indigenous knowledge systems based on relationality."
+      },
+      {
+        "front": "What fundamental shift does the author advocate for regarding the purpose of knowledge creation in academia?",
+        "back": "Knowledge creation should move away from individual success and academic metrics (like publication numbers) towards addressing the grave crises of our times and building livable futures for all."
+      }
+    ]
+  },
+  {
     "id": "curated-1792893887473-79",
     "title": "Pakistan export initiative\n",
     "source": "Dawn",
@@ -564,6 +972,100 @@
       {
         "front": "Why does the article argue that America should abandon its plans to further destabilize the Middle East region?",
         "back": "The article argues that many governments and people in the Middle East are tired of war and want to rebuild, and further conflict would cause shockwaves through disrupted energy and trade flows, leaving few economies unscathed."
+      }
+    ]
+  },
+  {
+    "id": "curated-1792980944765-258",
+    "title": "Russia: pragmatism not appeasement",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636722/russia-pragmatism-not-appeasement",
+    "date": "2026-10-24",
+    "author": "\n\t\t\t\tDr Muhammad Ali Ehsan\n\t\t\t",
+    "content": "With barely a couple of weeks remaining before the US midterm elections, one debate attracting particular attention is President Donald Trump's decision to ease sanctions on Russian diesel exports and its potential implications for the war in Ukraine. The prevailing interpretation is that Trump is motivated by two immediate objectives: lowering fuel prices to improve his electoral prospects and pressuring President Volodymyr Zelensky to accept his proposed terms for ending the war.\n\nTo me, however, this is a simplistic reading of Trump's intentions. I see a broader strategic purpose behind the move, one that extends beyond the immediate electoral cycle and the question of how to end the war in Ukraine. My argument rests on the premise that, given his low approval ratings, Trump may already be anticipating a difficult outcome for the Republicans in the midterms. Rather than focusing exclusively on the election itself, he may be positioning himself for the political landscape that follows it. His longer-term strategy, it seems, is driven by two interrelated ambitions: shaping the legacy he leaves behind as president and improving the Republican Party's prospects in the next presidential election.\n\nThe greatest challenge confronting the world today is how to sustain global economic stability and endurance in an increasingly fractured international system. For far too long, the West has portrayed President Vladimir Putin as a dictator leading a dangerous adversary and an autocratic ruler waging a brutal war against a democratic republic. This narrative was consistent with the post-WWII international order constructed by the US and its allies - an order founded on liberal values, a rules-based system and respect for international law. Yet, unnecessary American wars, the retreat of liberal democracy, technological disruption, deglobalisation, mass immigration, deepening political polarisation and the proliferation of grey-zone conflicts have all contributed to the erosion of that order. The actions of Russia and China, therefore, must be understood not merely as challenges to the existing system but also in the wider context of the struggle over what kind of international order will replace it.\n\nPresident Trump appears determined to secure the distinction of being the American president who brings the war in Ukraine to an end. This ambition, however, may reflect a broader recognition that the international system is changing and that the old order cannot be restored. As illiberal and autocratic tendencies gain ground across the world, the challenge is to develop a new framework of global governance that acknowledges and accommodates the ideological, cultural and civilisational diversity of the international community. Such an arrangement would require the US to make room for both Russia and China within the emerging order, allowing the great powers to compete for influence without being drawn into direct military confrontation. The objective must extend beyond ending the wars in Ukraine and Iran to preventing future conflicts in emerging geopolitical flashpoints, including the Caucasus, the Horn of Africa and the Balkans.\n\nTrump's apparent strategy is to compel Zelensky to the negotiating table by signaling that Washington's willingness to underwrite Ukraine's defence is no longer unconditional. The reported energy ceasefire arrangements, delays in the delivery of American interceptor missiles, restrictions on intelligence-sharing and disruptions affecting Ukrainian drone operations attributed to blocking access to Starlink – all point towards a possible recalibration of American policy. Taken together, these measures could be interpreted as instruments of pressure designed to alter Kyiv's calculations and make a negotiated settlement more likely.\n\nTwo historical analogies offer useful insights into what might happen if President Trump succeeds in placing economic pragmatism above the continuation of what I regard as reckless wars in Ukraine and Iran. The first takes us back to the Yalta Conference of February 1945, when Franklin Roosevelt, Winston Churchill and Joseph Stalin discussed the post-war reorganisation of Europe, the future of Germany and the establishment of the UN. Their meeting reflected a recognition that the post-war world could not be organised without an understanding among the great powers. Today, a similar question confronts the international community. Considering that all three are likely to meet first at the sidelines of the Pacific Rim Countries Conference in Hawaii and a month later at the G20 Summit Meeting at President Trump's Doral Resort in Florida, can they find common ground on the principles that should govern an emerging world order? If their anticipated meetings provide an opportunity for meaningful dialogue, the three leaders should use it to develop a workable framework for global governance - one that acknowledges their respective spheres of influence, limits external interference in areas of vital strategic interest and replaces the pursuit of absolute global leadership with an acceptance of great-power coexistence.\n\nThe second analogy lies in President Richard Nixon's historic opening to China in the early 1970s. At the time, Washington's rapprochement with Beijing unsettled many American allies, much as Trump's apparent willingness to engage Moscow has generated unease among Western capitals today. Nixon's initiative demonstrated that strategic engagement with an adversary need not amount to surrender; it can instead transform the geopolitical environment and create opportunities that confrontation alone cannot deliver. The US and China had spent years on opposing sides of ideological and geopolitical struggles, yet both eventually recognised the strategic advantages of opening diplomatic channels. The subsequent normalisation of relations culminated in the establishment of formal diplomatic ties in 1979, alongside the US commitment to maintain unofficial relations with Taiwan under the Taiwan Relations Act. If President Trump can persuade Kyiv to participate in a credible peace settlement, the question of guaranteeing Ukraine's sovereignty and territorial integrity must be central to the negotiations.\n\nThe US, Russia and China need to recognise that the pursuit of unconstrained global leadership by any one power can deepen insecurity for all. Their task is to move beyond an endless struggle for primacy. The objective should be a global economy that is vibrant and sustainable and which is capable of enduring geopolitical shocks. If Trump's willingness to engage Moscow can contribute to such an outcome, his legacy may ultimately be measured not by the concessions he made to an adversary, but by whether he helped establish a world in which great powers could compete without continually resorting to war.",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "International Relations / Current Affairs",
+    "topic": "US Foreign Policy, Russia-Ukraine War, and the Emerging Global Order",
+    "whyMatters": "This article offers a nuanced perspective on US foreign policy decisions regarding Russia and the Ukraine war, challenging conventional narratives. It is crucial for aspirants to understand the underlying strategic shifts in global power dynamics and the potential emergence of a new world order.",
+    "summary": [
+      "Trump's decision to ease sanctions on Russian diesel is a broader strategic move aimed at shaping his legacy and the Republican Party's future, beyond immediate electoral gains or solely ending the war.",
+      "The existing post-WWII liberal international order is eroding due to various global challenges, necessitating a new framework that accommodates the ideological and civilisational diversity of great powers like Russia and China.",
+      "Trump's approach involves pressuring Ukraine's Zelensky to the negotiating table by signaling a recalibration of American support through measures like delayed aid and restricted intelligence sharing.",
+      "Historical analogies (Yalta Conference, Nixon's China opening) suggest that great power understanding and strategic engagement, prioritizing coexistence over unconstrained leadership, are essential for preventing conflicts and establishing a stable global order."
+    ],
+    "facts": [
+      "US midterm elections were referenced as imminent, influencing political debates.",
+      "The Yalta Conference of February 1945 involved Franklin Roosevelt, Winston Churchill, and Joseph Stalin discussing post-war reorganisation.",
+      "President Richard Nixon's historic opening to China occurred in the early 1970s, leading to formal diplomatic ties in 1979 and the Taiwan Relations Act."
+    ],
+    "academicReferences": [
+      "Samuel P. Huntington's 'The Clash of Civilizations and the Remaking of World Order'",
+      "United Nations Charter (for rules-based international order and great power roles)",
+      "G20 Summits (for discussions on global governance, economic stability, and international cooperation)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Pragmatism",
+        "type": "noun",
+        "definition": "An approach that evaluates theories or beliefs in terms of the success of their practical application.",
+        "sentence": "Russia's foreign policy is often characterized by a strong sense of pragmatism, prioritizing national interests over ideological stances."
+      },
+      {
+        "word": "Appeasement",
+        "type": "noun",
+        "definition": "The act of placating or conceding to an aggressor, often to avoid conflict.",
+        "sentence": "Critics argued that easing sanctions could be seen as appeasement, potentially emboldening the aggressor."
+      },
+      {
+        "word": "Fractured",
+        "type": "adjective",
+        "definition": "(Of a system or society) broken or fragmented.",
+        "sentence": "The article highlights how a fractured international system struggles to sustain global economic stability."
+      },
+      {
+        "word": "Recalibration",
+        "type": "noun",
+        "definition": "The process of adjusting or fine-tuning something, typically to improve its performance or align it with new objectives.",
+        "sentence": "The delays in aid delivery signify a possible recalibration of American policy towards Ukraine."
+      },
+      {
+        "word": "Rapprochement",
+        "type": "noun",
+        "definition": "The establishment or resumption of harmonious relations, especially between two countries.",
+        "sentence": "Nixon's rapprochement with China dramatically altered the Cold War geopolitical landscape."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the author, what is the *primary* long-term strategic purpose behind President Trump's decision to ease sanctions on Russian diesel exports?",
+        "options": [
+          "To secure a Republican victory in the upcoming US midterm elections by lowering fuel prices.",
+          "To pressure President Volodymyr Zelensky into accepting proposed terms for ending the war in Ukraine.",
+          "To position himself for the post-midterm political landscape, shape his legacy, and improve Republican prospects in the next presidential election.",
+          "To gain immediate economic benefits for the US through increased trade with Russia."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that the author sees Trump's move as a 'broader strategic purpose' beyond immediate electoral cycles, focused on 'shaping the legacy he leaves behind as president and improving the Republican Party's prospects in the next presidential election.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's key argument regarding the current state of the post-WWII international order?",
+        "back": "The author argues that the post-WWII liberal international order is eroding due to various global challenges, necessitating a new framework that accommodates ideological, cultural, and civilisational diversity."
+      },
+      {
+        "front": "How does the article suggest Trump aims to bring the war in Ukraine to an end?",
+        "back": "Trump's strategy involves pressuring Zelensky to the negotiating table by signaling that Washington's willingness to underwrite Ukraine's defense is no longer unconditional, using measures like delayed aid and intelligence restrictions."
+      },
+      {
+        "front": "What historical event does the author use to illustrate the possibility of great powers finding common ground for global governance?",
+        "back": "The author references the Yalta Conference of February 1945, where Roosevelt, Churchill, and Stalin discussed post-war reorganisation and the establishment of the UN, reflecting a need for great power understanding."
+      },
+      {
+        "front": "What lesson does the article draw from President Richard Nixon's opening to China in the early 1970s concerning engagement with adversaries?",
+        "back": "Nixon's initiative demonstrated that strategic engagement with an adversary can transform the geopolitical environment and create opportunities, rather than amounting to surrender, promoting diplomatic channels over confrontation."
       }
     ]
   },
@@ -10237,548 +10739,6 @@
       {
         "front": "How does the article link housing development initiatives to broader economic recovery, referencing a historical example?",
         "back": "It suggests using housing development as a starting point to enhance social safety nets, create purposeful employment, and build the labor force's capacity, drawing inspiration from the US 'New Deal' during the Great Depression."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791257786586-699",
-    "title": "Gendered future\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2035108/gendered-future",
-    "date": "2026-10-06",
-    "author": "none@none.com (Aisha Khan)",
-    "content": "THE UN secretary-general’s recent observation that peace lasts longer when women are at the table, economies become more dynamic when women have equal opportunity, societies more resilient when women can learn and lead, and institutions more effective when power is shared, is not simply a statement about fairness. For Pakistan, it is a development proposition. The question is not whether Pakistani women can lead. It is why a country of more than 240 million people still uses so little of that capacity. The numbers expose the gap. Pakistan’s 2024-25 HIES puts literacy among people aged 10 and above at 63 per cent: 73pc for men but only 54pc for women. The rural female rate is 44pc, compared with 68pc for urban women. Literacy determines whether a woman can understand a contract, use a digital service, claim a benefit, read a disaster warning or participate confidently in a public meeting.\nThe economic divide is sharper. World Bank gender data put female labour force participation at 24pc in 2025, against 80.1pc for men. Women are heavily concentrated in vulnerable work: 73.2pc of employed women were in vulnerable employment, compared with 50.4pc of men. Agriculture accounts for 68pc of women’s employment. A nation cannot fully mobilise its human capital while most women remain outside paid work or confined to insecure work and excluded from productive assets and markets.\nThe unpaid economy tells another story. UN Women reports that women and girls aged 10 and above spend 19.9pc of their time on unpaid domestic and care work, against 1.8pc for men. This invisible workload limits education, employment, entrepreneurship, mobility and public leadership. Empowerment, therefore, cannot mean merely inviting women into existing institutions; it must also redistribute the time, resources and care responsibilities that determine who can enter them.\nPakistan has made gains in formal representation, but presence is not the same as power. Women currently hold about 21.7pc of seats in the National Assembly, according to the Inter-Parliamentary Union. At the local level, UN Women reports women constitute about 16pc of members of local deliberative bodies, with 23,852 elected women. Yet women remain scarce in senior institutional decision-making. The National Assembly’s gender-mainstreaming committee rep­orted in 2025 that women represented only 0.93pc in the law, civil armed forces and Interior Division, and just 5pc of vice-chancellors in general universities were women.\nPresence is not the same as power.\nThe federal civil service illustrates the institutional problem. An Establishment Division census found women were only 5.23pc of federal civil servants, with just 26.06pc of female civil servants in grades 17-22. The data is old and should be treated as a benchmark, not a current headcount; still, it shows the depth of the pipeline problem. Corporate Pakistan presents a mixed picture. SECP’s 2024 annual report says 7,573 companies were headed by female CEOs and 5,220 women-owned businesses had accessed financing. It also reports women directors on 90pc of companies in its 2024 comparison, up from 34pc in 2019 and 10pc in 2015. Yet the World Bank’s latest gender data put women’s share of senior and middle management at only 9.6pc in 2025.\nThe same principle matters most in a climate-stressed country. The World Bank estimates that climate-related risks, environmental degradation and air pollution could reduce Pakistan’s GDP by at least 18-20pc by 2050. Pakistan’s climate reporting notes that women’s unequal access to reso­urces, services, mobility and decision-making increases their vulnerability and limits effective climate action. Wom­en are oft­en responsible for wat­er, food and household ene­rgy, yet can be underrepresented where adaptation budgets and disaster plans are designed. This is why slow progress on gender empowerment is not a peripheral social issue. By 2050, it could mean fewer educated women in the workforce, weaker household resilience, less diverse institutions and a smaller pool of leaders able to respond to floods, heat, water stress, food insecurity and displacement. Expanding women’s literacy, economic agency and authority would enlarge Pakistan’s decision-making capacity precisely when climate pressure is rising.\nA practical policy test should measure women not only by enrolment, employment or seats occupied, but by authority exercised. Count women who control budgets, lead departments, own firms, sit on boards, negotiate land and finance, design climate policy and make decisions in their homes and communities. The secretary-general’s point can be interpreted to suggest that power is not optional for development. For Pakistan, the low level of female representation remains part of its unfinished development agenda.\nThe writer is a climate policy analyst.\naisha@csccc.org.pk\nPublished in Dawn, October 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ENV",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Gender Equality, Climate Change, and Sustainable Development in Pakistan",
-    "whyMatters": "This article is crucial as it links gender inequality directly to Pakistan's capacity for climate resilience and sustainable development, arguing that empowering women is not merely a social issue but a development imperative. It provides a unique perspective for addressing environmental degradation by emphasizing gender mainstreaming as a vital remedial measure for effective climate action.",
-    "summary": [
-      "Pakistan's significant gender gap in literacy, labor force participation, and economic empowerment severely limits its overall development and human capital mobilization.",
-      "Despite formal representation gains, women lack substantial power in senior decision-making roles within government institutions, corporations, and community leadership.",
-      "The invisible burden of unpaid domestic and and care work disproportionately borne by women restricts their opportunities for education, employment, entrepreneurship, and public leadership.",
-      "Gender empowerment is not a peripheral social issue but a critical development proposition for Pakistan, essential for building climate resilience and effectively responding to environmental challenges."
-    ],
-    "facts": [
-      "Pakistan's female literacy rate (10 and above) is 54%, compared to 73% for men (HIES 2024-25).",
-      "Female labor force participation in Pakistan is 24%, significantly lower than 80.1% for men (World Bank, 2025).",
-      "Women constitute only 5.23% of federal civil servants in Pakistan (Establishment Division census, benchmark data)."
-    ],
-    "academicReferences": [
-      "United Nations Development Programme (UNDP) Human Development Reports (HDR) focusing on Gender Inequality Index (GII) for Pakistan.",
-      "Sustainable Development Goals (SDGs), particularly SDG 5 (Gender Equality) and SDG 13 (Climate Action), and their interlinkages.",
-      "National Climate Change Policy of Pakistan (2012) and its subsequent action plans, emphasizing gender mainstreaming in climate adaptation and mitigation strategies."
-    ],
-    "vocabulary": [
-      {
-        "word": "Resilient",
-        "type": "adjective",
-        "definition": "Able to withstand or recover quickly from difficult conditions; tough.",
-        "sentence": "Societies become more resilient when women can learn and lead, better equipped to face crises."
-      },
-      {
-        "word": "Mainstreaming",
-        "type": "verb",
-        "definition": "To incorporate a particular group or concern into the main body of something; to integrate.",
-        "sentence": "The gender-mainstreaming committee aims to integrate women's perspectives into all policy areas."
-      },
-      {
-        "word": "Agency",
-        "type": "noun",
-        "definition": "The capacity of a person to act independently and to make their own free choices; power or influence.",
-        "sentence": "Expanding women’s literacy, economic agency, and authority is crucial for national development."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason why gender empowerment is considered a 'development proposition' for Pakistan?",
-        "options": [
-          "It ensures fairness and social justice for women.",
-          "It mobilizes human capital, leading to more dynamic economies and effective institutions.",
-          "It primarily focuses on increasing women's political representation.",
-          "It addresses the issue of unpaid domestic and care work."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states it's 'not simply a statement about fairness' but a 'development proposition' because economies become more dynamic, societies more resilient, and institutions more effective when women participate equally."
-      },
-      {
-        "question": "What is the approximate female literacy rate (for people aged 10 and above) in Pakistan, according to the 2024-25 HIES cited in the article?",
-        "options": [
-          "73%",
-          "63%",
-          "54%",
-          "44%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Pakistan’s 2024-25 HIES puts literacy among people aged 10 and above at 63 per cent: 73pc for men but only 54pc for women.'"
-      },
-      {
-        "question": "How does the article link gender inequality to climate change in Pakistan?",
-        "options": [
-          "Women are the sole cause of environmental degradation due to their household roles.",
-          "Gender inequality increases women's vulnerability to climate risks and limits effective climate action.",
-          "Climate change primarily affects men's employment, leading to gender inequality.",
-          "Only male leaders are capable of designing effective climate policies."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'Pakistan’s climate reporting notes that women’s unequal access to reso­urces, services, mobility and decision-making increases their vulnerability and limits effective climate action.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is gender empowerment considered a 'development proposition' for Pakistan, according to the article?",
-        "back": "It's a development proposition because it mobilizes human capital, leading to more dynamic economies, resilient societies, and effective institutions, which are crucial for overall national progress."
-      },
-      {
-        "front": "How does women's unpaid domestic and care work impact their societal participation in Pakistan?",
-        "back": "This invisible workload severely limits women's opportunities for education, employment, entrepreneurship, mobility, and public leadership by consuming their time and resources."
-      },
-      {
-        "front": "What is the article's main argument regarding women's 'presence' versus 'power' in institutions?",
-        "back": "While Pakistan has made gains in formal representation (presence) in bodies like the National Assembly, women remain scarce in senior institutional decision-making roles, indicating a lack of actual power and authority."
-      },
-      {
-        "front": "How is gender inequality linked to Pakistan's climate resilience and potential GDP reduction by 2050?",
-        "back": "Gender inequality increases women's vulnerability to climate risks and limits effective climate action. Without women's equal participation and leadership, Pakistan will have fewer educated people, weaker household resilience, and a smaller pool of leaders to respond to climate pressures, potentially reducing GDP by 18-20% by 2050."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791257696816-281",
-    "title": "Middle class by habit\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2035109/middle-class-by-habit",
-    "date": "2026-10-06",
-    "author": "none@none.com (Jawed Naqvi)",
-    "content": "IT may not be inaccurate to say that Manmohan Singh created India’s middle class, and the middle class created Narendra Modi. Marxists call them/us the ‘vacillating class’. Janus-like, we are suspiciously double-faced and have a split identity. We look towards the capitalists with one face, wishing to join their ranks and protect property rights. And we look towards the working class with the other face, sharing their economic anxiety and fear of being ruined by big corporations. Given that powerful protests have mushroomed since July across India, mostly led by young students and unemployed youth, it could be signalling a significant disenchantment with the system that has wooed middle class support since 1991.\nBefore Manmohan Singh’s economic reforms as finance minister and his subsequent decade as prime minister (2004-2014), India’s middle class was miniscule, estimated at roughly 2.5 million people earning over $10,000 annually or representing a small, state-controlled bureaucratic and managerial stratum.\nFollowing the 1991 liberalisation and the growth of the IT, services, and corporate sectors, the middle class expanded dramatically. By 2015, the number of Indians earning over $10,000 annually grew to 55m. Other estimates placed the middle class at roughly 142m people (about 12 per cent of the population) by the early 2010s, when they were entering various tiers of the middle or ‘neo-middle’ class depending on purchasing power parity of around $10-$50 per day.\nAfter Singh left office in 2014, the expansion plateaued for many households due to rising living costs, stagnant real wages, and a K-shaped economic recovery, where wealth concentrated more heavily at the very top. The Modi-led alliance of big business and right-wing street thugs peaked during the Covid-19 episode when the government asked the people to bang their pots and pans to drive away the virus and the UN secretary-general warned that liberalising the exploitation of coal, which the government had announced bang in the middle of the crisis, was hardly the prescribed method to fight the deadly scourge sweeping India and the rest of the world.\nThe young protesters may have to engage with the fact that India’s growth has been consumer-led and K-shaped, with deepening inequality.\nAn Oxfam report in November 2021 said Indian billionaires increased their wealth by 35pc during the lockdown to three trillion, ranking India after the US, China, Germany, Russia, and France. Out of these, the rise in fortunes for the top 100 billionaires since the lockdown was estimated as enough to give every one of the 138m poorest Indian people a cheque for Indian rupees 94,045 each. Oxfam’s Inequality Virus Report was released at the remotely conducted World Economic Forum in Davos.\nShould it interest the protesters that the wealth of just the top 11 billionaires during the pandemic could easily sustain the MGNREGS — the 2005 social welfare law guaranteeing rural employment — or the health ministry for the next 10 years? Instead, inequalities deepened during Covid-19 when the wealthiest escaped the worst impact of the pandemic and the poor faced joblessness, starvation, and death.\nA tycoon who emerged as the richest man in India and Asia, earned INR900m an hour during the pandemic when around 24pc of the people in the country were earning under INR3,000 a month during the lockdown.\nA reintroduction of the wealth tax was advised as a one-time Covid-19 cess of 4pc on taxable income of over a million Indian rupees to help the economy recover from the lockdown. The rejected tax on the nation’s 954 richest families could have raised the equivalent of 1pc of GDP.\nEven as they seek to repair India’s broken democracy, which is a most crucial task, the young protesters may have to engage with the fact that India’s growth has been consumer-led and K-shaped, with deepening inequality. In comparison, China’s modern economic growth model has been state-led, investment-heavy, and steered by a policy of ‘common prosperity’.\nIndia’s middle classes must relearn that China’s current economic strategy shares striking structural DNA with Jawaharlal Nehru’s original vision for India, albeit with a divergence in political execution. Both models share the foundational belief that a post-colonial nation cannot rely on the unbridled free market to achieve greatness or equity. Ergo, the state must control the ‘commanding heights’ of the economy to guide development.\nNehru, reviled by the Modi echo chamber, famously insisted that the state must control the core sectors of the economy (steel, power, heavy machinery, and infrastructure) through public sector undertakings. China achieved this exact goal through its massive state-owned enterprises and state-run banks, ensuring that private billionaires never overpower the national agenda.\nSingh swore by Nehru but failed to appreciate that Nehru was deeply wary of the concentration of private wealth, fearing it would corrupt society and exploit the poor. China’s common prosperity drive — manifested in aggressive regulatory crackdowns on tech monopolies, tutoring companies, and real estate moguls — is driven by the same suspicion of oligarchic power.\nNehru viewed heavy industries as the “temples of modern India”. Beijing’s pursuit of “new productive forces” (semiconductors, green energy, EVs, and AI) represents a modern, high-tech version of Nehruvian import-substitution and state-directed scientific self-reliance.\nUnlike Singh’s rely-on-services trajectory, China historically built a manufacturing-and-export juggernaut, which is currently transitioning into a paradigm-focused, state-mandated wealth redistribution. Indira Gandhi nationalised banks to pursue an equitable Nehruvian agenda to serve the masses. Singh, however, set the stage for opening the backdoor of state-owned banks to private plunderers that Modi turned into an art.\nSingh saw Babri Masjid’s destruction as finance minister but concluded that the biggest internal threat to India came from Maoist tribespeople, exactly the opposite of Nehru’s assessment that it was the right-wing Hindu movement that posed a mortal challenge to Indian democracy, not communists. Would the protesters, overwhelmingly from the middle classes, heed the discussion — but only after winning their battle against the current right-wing government — and ask why 800m compatriots remain on food dole in one of the world’s largest economies built by Manmohan Singh?\nThe writer is Dawn’s correspondent in Delhi.\njawednaqvi@gmail.com\nPublished in Dawn, October 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Inequality and the State's Role in Sustainable Development",
-    "whyMatters": "This article, though focused on India, offers crucial insights into the fragility of economic stability stemming from consumer-led, K-shaped growth and deepening inequality. It provides a comparative framework by contrasting these outcomes with state-led models like China's 'common prosperity' and Nehru's vision, offering valuable lessons and potential remedies for Pakistan's pursuit of sustainable and equitable economic growth.",
-    "summary": [
-      "India's middle class, initially expanded by Manmohan Singh's economic reforms, faces disillusionment due to stagnant wages, rising costs, and a K-shaped economic recovery where wealth concentrates at the top.",
-      "The article highlights India's consumer-led growth model has exacerbated inequality, with billionaires significantly increasing wealth during the pandemic while the poor faced severe hardship.",
-      "It contrasts India's post-1991 liberalized economy with China's state-led, investment-heavy 'common prosperity' model and Jawaharlal Nehru's original vision for state control over the 'commanding heights' of the economy.",
-      "The author argues that neglecting state control and allowing unchecked concentration of private wealth, as observed in India's trajectory, can corrupt society and exploit the poor, undermining equitable development."
-    ],
-    "facts": [
-      "India's middle class (earning over $10,000 annually) grew from ~2.5 million pre-1991 to 55 million by 2015.",
-      "An Oxfam report (Nov 2021) stated Indian billionaires increased their wealth by 35% during the Covid-19 lockdown to three trillion dollars.",
-      "The wealth of just the top 11 billionaires during the pandemic could have sustained India's MGNREGS (rural employment guarantee scheme) or the health ministry for the next 10 years."
-    ],
-    "academicReferences": [
-      "Oxfam's Inequality Virus Report (November 2021)",
-      "MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme), 2005",
-      "China's 'Common Prosperity' policy initiative",
-      "Nehruvian Economic Model / State-controlled Public Sector Undertakings (PSUs)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Vacillating",
-        "type": "adjective",
-        "definition": "Wavering between different opinions or actions; indecisive.",
-        "sentence": "The article describes the middle class as a 'vacillating class' due to its split identity between capitalist and working-class aspirations."
-      },
-      {
-        "word": "Janus-like",
-        "type": "adjective",
-        "definition": "Having two contrasting aspects; double-faced or contradictory.",
-        "sentence": "The middle class is portrayed as Janus-like, simultaneously looking towards capitalists and the working class."
-      },
-      {
-        "word": "Plateaued",
-        "type": "verb",
-        "definition": "Reached a stable level or period after a period of increase; flattened out.",
-        "sentence": "After Singh left office, the expansion of the middle class plateaued for many households due to rising costs and stagnant wages."
-      },
-      {
-        "word": "Scourge",
-        "type": "noun",
-        "definition": "A person or thing that causes great trouble or suffering.",
-        "sentence": "The UN secretary-general warned that liberalizing coal exploitation was not the prescribed method to fight the deadly scourge sweeping India."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which term best describes India's economic recovery mentioned in the article, leading to concentrated wealth at the top?",
-        "options": [
-          "V-shaped recovery",
-          "U-shaped recovery",
-          "K-shaped recovery",
-          "L-shaped recovery"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states India's growth has been 'consumer-led and K-shaped,' indicating wealth concentrated at the very top while others stagnated."
-      },
-      {
-        "question": "Jawaharlal Nehru's original economic vision for India, as described, primarily emphasized what?",
-        "options": [
-          "Unbridled free markets and private enterprise",
-          "Consumer-led growth through services sector",
-          "State control over 'commanding heights' of the economy",
-          "Exclusive focus on export-oriented manufacturing"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states Nehru famously insisted that the state must control the core sectors of the economy, viewing heavy industries as 'temples of modern India,' to prevent wealth concentration."
-      },
-      {
-        "question": "What was the advised one-time Covid-19 cess that was rejected, which could have helped India's economy recover?",
-        "options": [
-          "A 4% wealth tax on taxable income over a million rupees",
-          "A 10% income tax increase for all citizens",
-          "A 2% sales tax on essential goods",
-          "A 5% corporate tax on all businesses"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article mentions a 'one-time Covid-19 cess of 4pc on taxable income of over a million Indian rupees' was advised but rejected."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How did India's economic growth model under Manmohan Singh contrast with Jawaharlal Nehru's original vision?",
-        "back": "Singh's model, initiated by 1991 reforms, was consumer-led and liberalized, while Nehru advocated state control over core economic sectors to guide development and prevent wealth concentration."
-      },
-      {
-        "front": "What does a 'K-shaped economic recovery' imply for societal welfare, according to the article?",
-        "back": "A K-shaped recovery implies that wealth concentrates at the very top, leading to deepening inequality, while the majority (including the middle class and poor) experience stagnant wages or economic decline."
-      },
-      {
-        "front": "How does China's 'common prosperity' strategy, as described, reflect a different approach to economic development compared to post-1991 India?",
-        "back": "China's strategy is state-led, investment-heavy, and involves aggressive regulatory crackdowns to prevent oligarchic power and ensure wealth redistribution, contrasting with India's more liberalized, consumer-led model that resulted in wealth concentration."
-      },
-      {
-        "front": "According to the article, what was Nehru's primary concern regarding unbridled free markets in a post-colonial nation?",
-        "back": "Nehru feared that relying on unbridled free markets would lead to the concentration of private wealth, corrupt society, and exploit the poor, hence his emphasis on state control over the economy's 'commanding heights'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791342826652-180",
-    "title": "Farming reform\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2035106/farming-reform",
-    "date": "2026-10-06",
-    "author": "none@none.com (Editorial)",
-    "content": "THE Kissan Board Pakistan has demanded that agriculture receive at least 10pc of the federal and provincial budgets to lower input costs and address recurring deficits.\nThe farmers’ body also wants support prices of Rs5,000 per 40kg for wheat and Rs700 for sugarcane, citing declining profitability. It has criticised urea shortages, high electricity bills, weak fruit sector returns, and the Pak-Afghan border closure, warning of protests if their demands are not met. Their case for enhanced budgetary allocations deserves consideration. The sector contributes about 22pc of GDP and supports nearly 60pc of the population, but receives only 2-3pc of allocations. However, money alone will not fix matters. Nor should a larger allocation become another excuse for inefficient price subsidies. Pakistan has spent decades trying to support farmers through administered prices, input subsidies and other interventions. This has distorted markets, encouraged inefficient production and benefited better-connected producers more than small farmers.\nPublic investment should, instead, address structural weaknesses that depress farm productivity. Water management, irrigation efficiency, farm-to-market roads, storage, research, extension services and better seed technology need sustained investment. Mechanisation must become a central priority. Shared machinery services, and affordable financing can help spread mechanisation without imposing a massive capital burden on farmers. The aim should be to lower production costs, while raising yields and quality. That requires modernisation, not perpetual protection from market forces. Farmers cannot become globally competitive if they face unpredictable trade policies, distorted input markets, poor access to finance, unreliable power and water supply, and arbitrary official intervention in crop markets. Policy must encourage farmers to respond to prices and market demand rather than to official announcements.\nPakistan also needs to look beyond the farm gate. A stronger downstream processing industry can reduce post-harvest losses, add value to farm output and create export opportunities. Better cold storage, grading, packaging, processing, and logistics are essential, and can help stabilise markets when production falls by allowing stocks to be preserved. This matters because agriculture is treated as a production problem when it is really a value-chain issue. Producing more wheat, fruit, vegetables, sugarcane or rice means little if large quantities are wasted, farmers receive poor returns, and consumers face shortages or sudden price spikes. Farmers, therefore, are right to demand greater public investment. But the test should not be the size of the allocation. It should be where the money goes and what it achieves. Agriculture needs investment, but not another round of costly interventions. It needs infrastructure, technology, mechanisation, processing, markets, and policies that make farming competitive rather than dependent on the state’s largesse.\nPublished in Dawn, October 6th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Current Affairs",
-    "topic": "Agricultural Reforms and Regional Economic Integration",
-    "whyMatters": "This article, while focused on domestic agricultural reforms, underscores foundational economic strengths crucial for Pakistan's effective participation in regional blocs like ECO. It highlights the need for competitive production and value-added exports, which directly bear on Pakistan's offerings in regional trade and its ability to leverage regional integration initiatives. The mention of the Pak-Afghan border closure also directly links to the challenges of regional trade and connectivity, a core aspect of ECO's framework.",
-    "summary": [
-      "Farmers' bodies demand increased budgetary allocation for agriculture (10% of federal/provincial budgets) and higher support prices for key crops like wheat and sugarcane due to declining profitability and rising input costs.",
-      "The article criticizes past government interventions (administered prices, input subsidies) for distorting markets, encouraging inefficiency, and disproportionately benefiting larger producers over small farmers.",
-      "It advocates for public investment in structural weaknesses such as water management, irrigation efficiency, farm-to-market roads, storage, research, extension services, better seed technology, and mechanization to lower production costs and boost yields.",
-      "A stronger downstream processing industry, improved cold storage, grading, packaging, and logistics are crucial to reduce post-harvest losses, add value to farm output, create export opportunities, and treat agriculture as a value-chain issue rather than merely a production problem."
-    ],
-    "facts": [
-      "Agriculture contributes about 22% of Pakistan's GDP.",
-      "The sector supports nearly 60% of Pakistan's population.",
-      "Agriculture currently receives only 2-3% of federal and provincial budgetary allocations."
-    ],
-    "academicReferences": [
-      "Economic Survey of Pakistan (latest edition) – Provides official data and policy direction on agriculture and overall economic performance.",
-      "ECO Vision 2025 – Outlines the strategic framework and goals for economic cooperation among ECO member states, including trade and connectivity.",
-      "Pakistan's National Food Security Policy (e.g., 2018 policy) – Details government strategies for food security, agricultural development, and market integration."
-    ],
-    "vocabulary": [
-      {
-        "word": "Administered prices",
-        "type": "noun",
-        "definition": "Prices of goods or services set by a government agency rather than by market forces.",
-        "sentence": "The government's long history of using administered prices for crops has often led to market distortions."
-      },
-      {
-        "word": "Distorted markets",
-        "type": "noun",
-        "definition": "Markets where prices or supply/demand are not determined by free competition, often due to government intervention or monopolies.",
-        "sentence": "Input subsidies and arbitrary interventions have created distorted markets, benefiting specific producers."
-      },
-      {
-        "word": "Mechanisation",
-        "type": "noun",
-        "definition": "The process of introducing machines or automatic devices into work, thereby replacing human or animal labor.",
-        "sentence": "Agricultural mechanisation, coupled with affordable financing, is essential for increasing farm productivity."
-      },
-      {
-        "word": "Value-chain",
-        "type": "noun",
-        "definition": "The full range of activities that businesses conduct to bring a product or service from conception to delivery, including design, production, marketing, and distribution.",
-        "sentence": "Treating agriculture as a value-chain issue rather than just a production problem can significantly reduce waste and increase returns."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What percentage of the federal and provincial budgets do farmers demand for the agriculture sector?",
-        "options": [
-          "5%",
-          "7%",
-          "10%",
-          "15%"
-        ],
-        "answerIndex": 2,
-        "explanation": "The Kissan Board Pakistan has demanded that agriculture receive at least 10% of the federal and provincial budgets."
-      },
-      {
-        "question": "Which of the following is NOT identified by the article as a structural weakness requiring sustained public investment in agriculture?",
-        "options": [
-          "Water management",
-          "Farm-to-market roads",
-          "Price subsidies",
-          "Research and extension services"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly criticizes price subsidies as an inefficient intervention, advocating instead for public investment in areas like water management, roads, and research."
-      },
-      {
-        "question": "According to the article, what percentage of Pakistan's GDP does the agricultural sector contribute?",
-        "options": [
-          "15%",
-          "22%",
-          "30%",
-          "45%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The sector contributes about 22% of GDP, as stated in the article."
-      },
-      {
-        "question": "What does the article suggest is needed 'beyond the farm gate' to improve the agricultural sector?",
-        "options": [
-          "More input subsidies",
-          "Increased land ownership",
-          "A stronger downstream processing industry",
-          "Higher administered prices"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Pakistan also needs to look beyond the farm gate. A stronger downstream processing industry can reduce post-harvest losses, add value to farm output and create export opportunities.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary argument against increased budgetary allocations for agriculture if not properly directed?",
-        "back": "The article warns that money alone will not fix matters and a larger allocation should not become another excuse for inefficient price subsidies or costly interventions that distort markets."
-      },
-      {
-        "front": "Why does the article argue against perpetual protection from market forces for farmers?",
-        "back": "It argues that farmers cannot become globally competitive if they are perpetually protected, as it discourages modernization and market responsiveness, hindering their ability to face international competition."
-      },
-      {
-        "front": "How does improving the downstream processing industry help the agricultural sector according to the article?",
-        "back": "It helps by reducing post-harvest losses, adding value to farm output, creating export opportunities, and stabilizing markets by allowing stocks to be preserved through better cold storage, grading, and packaging."
-      },
-      {
-        "front": "What specific regional issue is mentioned in the article that impacts farmers and relates to broader regional integration challenges?",
-        "back": "The Pak-Afghan border closure is mentioned by farmers as a problem, highlighting an impediment to regional trade and connectivity, which is relevant to regional integration frameworks like ECO."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791257543835-827",
-    "title": "AI beyond evidence\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2035107/ai-beyond-evidence",
-    "date": "2026-10-06",
-    "author": "none@none.com (Huzaifa bin Muneer)",
-    "content": "THE real test of AI is not what it knows, but how it judges. Now what happens when an AI system is given better evidence and still reaches the same unfair conclusion? That question has become more urgent as AI systems increasingly stand between information and judgement. We tend to assume that if a model can search reliable documents before answering, its decisions will improve. But this confidence may be misplaced.\nMost people understand the basic appeal of retrieval-based AI. Instead of asking a language model to rely only on what it learned during training, we first give it relevant material. A system judging a country’s climate record, for instance, can be shown official climate pledges and international agreements. The expectation seems reasonable: better evidence should lead to better judgement.\nYet judgement is not the same as fact-finding. A model can locate a date or a treaty clause with precision. But deciding whether a country has acted responsibly on climate change requires something more. The model must interpret evidence, weigh it against an external standard and revise whatever assumptions it carries. That last step is where the real difficulty appears.\nConsider climate governance. Large language models can be asked to assess countries having very different economic circumstances and levels of vulnerability to climate change. Their judgements can then be compared with independent assessments such as those produced by the Climate Action Tracker, which evaluates national climate action using policy and emissions evidence. The models can also be supplied with official climate material, including international conference decisions and country-specific commitments.\nGood evidence is essential, but not enough.\nThe surprising result is not that the models sometimes err. That is not out of the ordinary. The fact is that improving the evidence does not reliably improve judgement. Even when the information is relevant to the country being assessed, the final verdict may be no closer to the independent benchmark. More revealingly, the models react to what they are shown. Their answers often change after receiving evidence. But a changed answer is not necessarily a better one. Helpful revisions can be cancelled out by harmful revisions. The system is reading the material, yet it is not consistently converting that material into sounder judgement.\nThis distinction goes far beyond climate policy. Imagine an AI system assisting in university admissions, recruitment, credit decisions, or public policy. An institution may proudly say that the model is connected to verified records and current documents. That sounds reassuring. But access to reliable information does not guarantee that the model will interpret it fairly. A system can possess good evidence, while continuing to filter that evidence through assumptions formed during training.\nClimate governance makes this problem concrete. Language models can still place undue blame for climate inaction on vulnerable countries, even after accounting for variations in their actual climate performance. As a result, nations that have made a comparatively small contribution to the historical issue could face harsher criticism than their independent climate data support.\nThis shouldn’t feel abstract to Pakistanis. Countries exposed to floods, heatwaves, and other climate shocks already have to argue their case in global systems shaped by unequal power. If automated systems begin to support decisions about climate responsibility, finance, or credibility, an old inequality can acquire the new appearance of neutrality. A mac­hine-generated jud­gement may look objective bec­ause it is produced by software and supported by documents. That appearance can be dangerously per­suasive.\nA key takeaway is that missing info­rmation isn’t necessarily the main issue. A model may occasionally have a systemic tendency that fresh data finds difficult to overcome. Judgement can improve when that tendency is rectified and measured against external benchmarks rather than when better recovered material is provided. This is not a panacea. But it does let us know where the true vulnerability might lie.\nHence, the debate on responsible AI must go beyond asking ‘what information did the model receive?’ We should also inquire as to how such information influenced its assessment and whether the outcome was more in line with a reliable external norm. Before such systems are trusted with important judgements, this distinction should influence how they are tested. Good evidence is essential. It is simply not enough. As AI enters decisions about countries, institutions and people, we should resist the comforting belief that connecting a model to better documents automatically makes it fair. Information can reach the machine and still fail to reach judgement.\nThe writer is an AI engineer and researcher.\nPublished in Dawn, October 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs",
-    "topic": "Artificial Intelligence, Climate Justice, and Global Governance",
-    "whyMatters": "This article is crucial as it offers a critical perspective on how AI systems, despite access to good evidence, can perpetuate biases in global climate governance, potentially misjudging vulnerable nations like Pakistan. It equips students to analyze the complex interplay of technology, climate justice, and international relations, enhancing arguments on Pakistan's challenges and its quest for equitable global climate decisions.",
-    "summary": [
-      "AI's judgment is not reliably improved by better evidence; it can still reach unfair conclusions due to inherent assumptions formed during training.",
-      "True judgment involves interpreting evidence, weighing it against external standards, and revising assumptions, which goes beyond mere fact-finding by AI.",
-      "AI systems, particularly in climate governance, can perpetuate biases, placing undue blame on vulnerable countries like Pakistan despite their lower historical contribution to climate change.",
-      "The debate on responsible AI must extend beyond just the information received to how that information influences assessment and whether the outcome aligns with reliable external norms and fairness."
-    ],
-    "facts": [
-      "AI systems can filter evidence through assumptions formed during training, leading to unchanged unfair conclusions despite better data.",
-      "Language models can place undue blame for climate inaction on vulnerable countries, even after accounting for their actual climate performance.",
-      "Independent assessments like the Climate Action Tracker evaluate national climate action, providing benchmarks against which AI judgments can be compared."
-    ],
-    "academicReferences": [
-      "AI Ethics: Global Perspectives and Local Imperatives by Virginia Dignum (Book)",
-      "IPCC Assessment Reports (e.g., AR6 Synthesis Report) (Report)",
-      "National Climate Change Policy of Pakistan (2012, revised 2021) (Policy Document)"
-    ],
-    "vocabulary": [
-      {
-        "word": "retrieval-based AI",
-        "type": "noun phrase",
-        "definition": "AI systems that first retrieve relevant documents or data from an external source before generating responses.",
-        "sentence": "The article questions the efficacy of retrieval-based AI in improving judgment, even with good evidence."
-      },
-      {
-        "word": "undue blame",
-        "type": "noun phrase",
-        "definition": "Excessive or unwarranted responsibility or criticism placed on someone or something.",
-        "sentence": "Language models can still place undue blame for climate inaction on vulnerable countries, perpetuating inequalities."
-      },
-      {
-        "word": "panacea",
-        "type": "noun",
-        "definition": "A solution or remedy for all difficulties or diseases; a cure-all.",
-        "sentence": "Rectifying systemic tendencies in AI is not a panacea, but it points to a crucial vulnerability in current AI development."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary challenge for AI in achieving sound judgment, even when provided with better evidence?",
-        "options": [
-          "The model's inability to interpret evidence fairly due to ingrained assumptions.",
-          "Lack of sufficient data to train the AI system effectively.",
-          "The model's slowness in processing new and reliable information.",
-          "The absence of external standards to compare AI judgments against."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article emphasizes that AI systems can possess good evidence but continue to filter it through assumptions formed during training, leading to unfair conclusions. The difficulty lies in interpreting evidence and revising assumptions against external standards, not just finding facts."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is 'good evidence' not enough for sound AI judgment according to the article?",
-        "back": "Good evidence is not enough because AI systems can filter that evidence through pre-existing assumptions formed during training, preventing fair interpretation and revision of judgment."
-      },
-      {
-        "front": "What is the core difficulty AI faces in making fair judgments, even with good evidence?",
-        "back": "The core difficulty is that AI must interpret evidence, weigh it against external standards, and revise its assumptions, a process where its ingrained tendencies can lead to unfair outcomes."
-      },
-      {
-        "front": "How can AI systems perpetuate global inequalities, particularly in climate governance?",
-        "back": "AI systems can perpetuate global inequalities by placing undue blame on vulnerable countries for climate inaction, even when their actual climate performance and historical contributions are accounted for, thus reinforcing existing power imbalances."
-      },
-      {
-        "front": "What should be the focus of the debate on responsible AI, beyond just the information received?",
-        "back": "The debate on responsible AI should also inquire how the information influenced the AI's assessment and whether the outcome was more in line with a reliable external norm, focusing on fairness and justice."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791168260431-300",
-    "title": "Humanising medicine\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2034868/humanising-medicine",
-    "date": "2026-10-05",
-    "author": "none@none.com (Murad Moosa Khan)",
-    "content": "“Medicine became distinguished when specialised knowledge was used for the benefit of the patient. It became noble when the needs of the patient held sway over the interests of the practitioner” — Rosenberg, 1987\nIN Pakistan, discussions about healthcare usually revolve around the number of hospitals, doctors, hospital beds, ventilators, medicines, and health budget. This is important, but there is another crisis that is harder to measure and frequently ignored: the gradual loss of humanity from medicine.\nTo humanise medicine is not merely to ask doctors to be kinder or improve their bedside manner. It is to recognise that healthcare is, at its core, a relationship between human beings. A sick person is not a diagnosis, a bed number, a laboratory report or a source of revenue. Nor is illness simply a technical problem to be fixed with increasingly sophisticated machines and medicines. People become ill within families, communities and societies. They bring to hospitals not only symptoms, but fear, poverty, uncertainty, grief and hope.\nPakistan’s fragmented health system makes this human connection particularly difficult. At one end are government-run facilities, which are overwhelmed, understaffed and under-resourced. At another, there is the fee-for-service private sector, where access depends on one’s ability to pay. In between are charitable hospitals, which provide an invaluable service but cannot compensate for the failures of the national system. The result is that healthcare in Pakistan is a lottery in which the patient’s income determines not only where they receive treatment, but how quickly and with what degree of dignity.\nA hospital may possess the latest machines and still treat people without dignity.\nPrivate healthcare in Pakistan is particularly troubling. More than half of health expenditure is financed through out-of-pocket spending, and a large proportion of this goes to private facilities. The burden falls heavily on households already struggling with inflation. For a wealthy patient, illness may be frightening. For a poor patient, it can be financially catastrophic.\nHence the question of humanising medicine becomes inseparable from the question of justice. There is little humanity in telling a patient that a potentially lifesaving treatment exists but is beyond their means or dignity in a family selling assets or borrowing to pay for treatment. Nor is there compassion in a healthcare system where a consultation may last only a few minutes because the clinician must see a large number of patients to generate revenue.\nThe dehumanisation of medicine is not caused by individual doctors alone, who are themselves frequently victims of an inhuman system. A doctor in an overcrowded government hospital is expected to see scores of patients, or a nurse is responsible for far more patients than she can reasonably care for. It is easy to accuse healthcare professionals of becoming indifferent. It is harder to acknowledge that chronic exhaustion can turn empathy into a luxury.\nA humane healthcare system must therefore care for its carers. Medicine cannot be humanised by demanding compassion from doctors while denying them reasonable working conditions, professional security and psychological support. Burnout is not an individual weakness to be treated through resilience workshops. It is the consequence of a system that expects healthcare workers to compensate for institutional failure.\nA humanised medicine recognises the patient as a participant in decisions about their treatment. It involves explaining illness in language that patients and families can understand, acknowledging uncertainty rather than pretending that medicine has all the answers, and asking not only, ‘what disease does this person have?’ but also, ‘what has this illness done to this person’s life?’ Two people with the same diagnosis may have entirely different needs. A financially well-off person with diabetes may struggle with diet and exercise. Another may be choosing between purchasing insulin and feeding their family. Prescribing the same medication to both may not constitute the same quality of care.\nHumanising medicine requires clinicians to understand the social conditions in which illness occurs — poverty, unemployment, poor housing, gender inequality, violence and political instability — all enter the consultation room, whether doctors recognise them or not.\nIn Pakistan, the weakness of the government healthcare system has pushed many patients towards the private sector that now dominates a substantial portion of healthcare delivery. Government services struggle with infrastructure, workforce, and quality challenges. A system dominated by fee-for-service incentives creates an uncomfortable question: what happens when the financial interests of an institution and the needs of a patient do not align?\nCharitable institutions demonstrate that Pakistanis possess a remarkable capacity for compassion and philanthropy. But charity cannot substitute for the state’s responsibility to ensure equitable access to healthcare. A citizen should not have to depend on the availability of a benefactor for treatment of a common illness. Healthcare is the state’s responsibility and cannot be based on the assumption that some will pay, some will donate, and the rest will wait.\nUltimately, humanising medicine requires us to return to a simple principle: healthcare is not a commodity like any other. Markets can play a role, charitable organisations can make vital contributions, and private medicine will remain an important part of Pakistan’s healthcare landscape. But there is a need to invest in public healthcare (especially primary care), reduce the financial burden of medicines and tests, regulate private medicine, and build systems in which continuity, communication, and quality matter as much as procedures and profits.\nWe need hospitals where patients are treated with dignity regardless of their class, doctors who have the time and institutional support to listen, and medical education that values communication and empathy alongside anatomy and pharmacology. Technological sophistication is not the same as humane care. A hospital may possess the latest machines and still treat people without dignity.\nAt its most fundamental level, medicine begins when one vulnerable human being turns to another for help. Humanising medicine means ensuring that, regardless of wealth or status, the answer is not determined by how much the patient can pay. A civilised healthcare system is not only one with advanced medicine but also one that treats the person who cannot afford to be ill.\nThe writer is professor emeritus of psychiatry at Aga Khan University.\nmmkarticle@gmail.com\nPublished in Dawn, October 5th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Pakistan Affairs / Current Affairs / Social Issues of Pakistan / Governance and Public Policy",
-    "topic": "Healthcare System in Pakistan: Challenges, Dehumanization, and Reforms for Human-Centered Care",
-    "whyMatters": "This article offers a critical, humane perspective on Pakistan's healthcare system beyond statistics, crucial for essay and policy questions on social justice, public health, and governance. It highlights systemic issues and provides actionable insights into making healthcare equitable and dignified.",
-    "summary": [
-      "Pakistan's healthcare crisis involves a gradual loss of humanity, where patients are treated as diagnoses rather than individuals with diverse needs and socio-economic contexts.",
-      "The fragmented healthcare system, characterized by overwhelmed public facilities and a profit-driven private sector, creates deep inequalities, making dignity and access to care dependent on a patient's income.",
-      "The dehumanization is systemic, impacting healthcare professionals themselves through burnout and poor working conditions, thus requiring a humane system that cares for its carers.",
-      "Humanizing medicine necessitates a return to the principle that healthcare is not a commodity, demanding state investment in public health, regulation of the private sector, and prioritization of quality, communication, and continuity over procedures and profits."
-    ],
-    "facts": [
-      "More than half of health expenditure in Pakistan is financed through out-of-pocket spending, disproportionately burdening households.",
-      "A consultation in some healthcare settings may last only a few minutes due to clinicians needing to see a large number of patients to generate revenue.",
-      "Charitable institutions, while invaluable, cannot compensate for the failures of the national system or substitute for the state's responsibility to ensure equitable access to healthcare."
-    ],
-    "academicReferences": [
-      "World Health Organization (WHO) Framework for People-Centred Health Services",
-      "Sustainable Development Goal 3: Good Health and Well-being",
-      "National Health Vision/Policy of Pakistan (e.g., most recent available document from Ministry of National Health Services, Regulations & Coordination)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Fragmented",
-        "type": "adjective",
-        "definition": "Broken into separate parts; disconnected.",
-        "sentence": "Pakistan’s fragmented health system makes this human connection particularly difficult."
-      },
-      {
-        "word": "Catastrophic",
-        "type": "adjective",
-        "definition": "Causing sudden and great damage or suffering.",
-        "sentence": "For a poor patient, illness can be financially catastrophic."
-      },
-      {
-        "word": "Empathy",
-        "type": "noun",
-        "definition": "The ability to understand and share the feelings of another.",
-        "sentence": "It is harder to acknowledge that chronic exhaustion can turn empathy into a luxury."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What does the author identify as a core problem beyond the number of hospitals or doctors in Pakistan's healthcare?",
-        "options": [
-          "The gradual loss of humanity from medicine.",
-          "Lack of advanced medical technology.",
-          "Insufficient medical research funding.",
-          "Over-reliance on foreign aid."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'there is another crisis that is harder to measure and frequently ignored: the gradual loss of humanity from medicine.'"
-      },
-      {
-        "question": "According to the article, what is the primary determinant of a patient's access to treatment and dignity in Pakistan's healthcare system?",
-        "options": [
-          "The doctor's compassion.",
-          "The patient's income.",
-          "The availability of charitable donations.",
-          "The type of illness."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'healthcare in Pakistan is a lottery in which the patient’s income determines not only where they receive treatment, but how quickly and with what degree of dignity.'"
-      },
-      {
-        "question": "What is the author's ultimate argument regarding healthcare's fundamental nature?",
-        "options": [
-          "It is a luxury for the wealthy.",
-          "It is primarily a technical problem to be fixed by machines.",
-          "It is not a commodity like any other.",
-          "It is solely the responsibility of private enterprises."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article concludes by saying, 'Ultimately, humanising medicine requires us to return to a simple principle: healthcare is not a commodity like any other.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does 'humanising medicine' entail beyond asking doctors to be kinder?",
-        "back": "It means recognizing healthcare as a fundamental relationship between human beings, treating sick people as individuals with diverse needs and contexts, not just diagnoses."
-      },
-      {
-        "front": "How does the author connect the dehumanization of medicine to social justice?",
-        "back": "The author argues that there is little humanity in a system where life-saving treatment is beyond a patient's means or where access to dignity depends on income, making it a question of justice."
-      },
-      {
-        "front": "Why does the article emphasize 'caring for its carers' in a humane healthcare system?",
-        "back": "Healthcare professionals are often victims of an inhuman system, suffering chronic exhaustion and burnout. Demanding compassion from them while denying reasonable working conditions is unsustainable and dehumanizing."
-      },
-      {
-        "front": "What is the state's responsibility concerning healthcare, according to the article, and what role can charity play?",
-        "back": "The state has the primary responsibility to ensure equitable access to healthcare for all citizens. While charitable organizations make vital contributions, they cannot substitute for this fundamental state responsibility."
       }
     ]
   }
