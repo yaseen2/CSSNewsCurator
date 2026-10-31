@@ -192,6 +192,243 @@
     ]
   },
   {
+    "id": "curated-1793415515015-642",
+    "title": "The AI paradox\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041138/the-ai-paradox",
+    "date": "2026-10-30",
+    "author": "none@none.com (Huzaifa bin Muneer)",
+    "content": "WE’RE building machines that are smart enough to replace us but not wise enough to save us. That’s the contradiction at the heart of the AI debate, and it’s not hypothetical anymore. In September 2026, Jacob Coxon, an Anthropic researcher, resigned and publicly stated that the people building AI actually believe the technology could end humanity by the end of this decade (Axios, Sept 2026). \nHis colleague Evan Hubinger, Anthropic’s alignment science lead, puts the probability of human extinction in the next 10 years at over 10 per cent. Dario Amodei, who runs Anthropic, went further, warning about a swarm of agents that could take over the internet in six to 12 months if nothing is done (Axios, Sept 2026). The people sounding the alarm are the same ones writing the code.\nA question that keeps coming back to me is this: what if AI knows everything? What if AI is integrated in every department, in every field? We don’t know the answers, but the reality may be far more dangerous than our worst nightmares.\nWe’re introducing AI into every discipline as though it was designed for it, with no thought for the ramifications. People are using AI to automate their jobs. They’re handing personal details over to AI-powered large language models (CVs, email accounts, all sorts of data associated with a fairly standard job application). \nIt’s quick. It’s efficient. But when the vulnerability exceeds the productivity, we should be limiting that practice or getting rid of it altogether. \nThe people sounding the alarm are the same ones writing the code.\nWhat if we don’t actually know what AI is doing with our data? What if it’s hiding information from us and we can’t see that? Its sheer convenience will blind us to the cost.\nThe infrastructure powering AI has a similarly troubling story to tell. As of August 2026, there are some 12,000 active data centres in the world, with over 4,500 of them in the United States alone (Data Centre Map, August 2026). Where will that number be in 10 years? \nA June 2026 United Nations University report states that in 2025 the world’s data centres consumed 448 trillion watt-hours of electricity, more than all but 10 countries. \nBy 2030, they are expected to account for nearly 3pc of global electricity use, emitting some 400 million metric tonnes of CO2 per year (AP/UN University Report, June 2026). More AI means more data centres. More data centres means more environmental damage. The maths doesn’t lie, and it doesn’t forgive.\nFor Pakistan (ranked the most vulnerable country to climate change in 2022 by the Germanwatch Climate Risk Index), this is no remote threat. The 2022 floods affected a third of the country, killed over 1,700 people and caused damage exceeding $30 billion (Germanwatch CRI 2025). \nAs demand for AI infrastructure grows, so does the pressure on energy systems and the climate, with consequences extending far beyond the countries developing the technology. \nAI can help with flood forecasting and crop monitoring, yes. But if the technology enabling that is developed without proper governance, then those benefits are meaningless. \nSo, can we just go back to manual systems? In most cases, no. The World Bank’s October 2026 economic update notes that Pakistan is hamstrung by poor broadband penetration, unreliable electricity and a critical lack of di­­gital skills. Nad­ra’s biometric da­­tabases already run using autom­ated systems that would be impractical to replace manually at na­­tio­­nal scale. \nGoing back to all that is not an option. The real issue isn’t whether we need AI, but how we adopt it responsibly without making the very problems we are trying to survive worse.\nThe issue isn’t AI per se. It’s about planning and execution. If we automate everything, then what do we do by hand? And if that automation becomes uncontrolled, do we even have the option to turn it off? \nAI development is consuming massive amounts of money and energy, often with no proportional return. Nobody has all the answers. All we can do is demand that any new data centre proposal undergo a mandatory environmental impact assessment before approval. \nWe can demand that AI governance is treated as seriously as AI innovation. If no humans are left, what is the point of AI or its efficiencies? If the world we live in is no longer liveable, no amount of technological development will make any difference. \nThe writer is an AI engineer and researcher.\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": {
+      "id": "PA-2020-CLIM",
+      "paper": "Pakistan Affairs",
+      "year": 2020,
+      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
+    },
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs",
+    "topic": "Climate Change, Digital Transformation, and Governance in Pakistan",
+    "whyMatters": "This article is crucial for civil service aspirants as it provides a contemporary and urgent perspective on how global technological advancements, specifically the massive environmental footprint of AI infrastructure, directly exacerbate climate change impacts on vulnerable nations like Pakistan. While it doesn't extensively detail the impact on water resources or inter-provincial harmony, it highlights Pakistan's extreme climate vulnerability (e.g., floods) and the paradox of seeking AI solutions while AI itself contributes to the very problems it aims to mitigate.",
+    "summary": [
+      "Leading AI developers express serious concerns, even warnings of human extinction, due to AI's unchecked intelligence and lack of wisdom, highlighting an urgent existential risk.",
+      "The pervasive integration of AI across disciplines raises critical issues regarding data privacy, security, and potential manipulation, as the convenience of AI blinds users to its inherent vulnerabilities.",
+      "The infrastructure powering AI, primarily data centers, has a massive and rapidly growing environmental footprint, consuming immense electricity and contributing significantly to global CO2 emissions, exacerbating climate change.",
+      "For countries like Pakistan, highly vulnerable to climate change, the adoption of AI presents a paradox: while it offers potential solutions (e.g., flood forecasting), its uncontrolled development and environmental impact worsen the very problems it seeks to solve, necessitating responsible governance and planning."
+    ],
+    "facts": [
+      "Anthropic researchers Jacob Coxon and Evan Hubinger publicly stated beliefs in AI ending humanity by the end of the decade, with Hubinger estimating over 10% probability of human extinction in 10 years (Sept 2026).",
+      "In 2025, global data centers consumed 448 trillion watt-hours of electricity, more than all but 10 countries; by 2030, they are expected to account for nearly 3% of global electricity use, emitting some 400 million metric tonnes of CO2 per year (UN University Report, June 2026).",
+      "Pakistan was ranked the most vulnerable country to climate change in 2022 by the Germanwatch Climate Risk Index; the 2022 floods affected a third of the country, killed over 1,700 people, and caused damage exceeding $30 billion (Germanwatch CRI 2025)."
+    ],
+    "academicReferences": [
+      "Germanwatch Climate Risk Index (2022/2025)",
+      "United Nations University Report (June 2026)",
+      "World Bank's October 2026 economic update"
+    ],
+    "vocabulary": [
+      {
+        "word": "Paradox",
+        "type": "noun",
+        "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+        "sentence": "The article's title, 'The AI paradox,' highlights the contradiction between AI's increasing intelligence and its potential to endanger humanity and the planet."
+      },
+      {
+        "word": "Ramifications",
+        "type": "noun",
+        "definition": "A complex or unwelcome consequence of an action or event.",
+        "sentence": "Introducing AI into every discipline without considering the long-term ramifications could lead to unforeseen dangers."
+      },
+      {
+        "word": "Hamstrung",
+        "type": "verb",
+        "definition": "Severely restrict the efficiency or effectiveness of.",
+        "sentence": "Pakistan's digital transformation is often hamstrung by poor broadband penetration and unreliable electricity infrastructure."
+      },
+      {
+        "word": "Governance",
+        "type": "noun",
+        "definition": "The action or manner of governing a state, organization, or people; the system by which a country or an organization is controlled.",
+        "sentence": "The article emphasizes that AI governance must be treated as seriously as AI innovation to ensure responsible development."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following best describes the primary environmental concern raised by the article regarding AI infrastructure?",
+        "options": [
+          "Massive electricity consumption by data centers leading to increased CO2 emissions.",
+          "Increased water usage for cooling AI servers.",
+          "Rapid deforestation to make way for new data centers.",
+          "The production of rare earth minerals for AI chips causes significant pollution."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that data centers consumed 448 trillion watt-hours of electricity in 2025, contributing significantly to global electricity use and CO2 emissions, highlighting this as a major environmental concern."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the central 'AI paradox' as described by the author?",
+        "back": "The paradox is that we are building machines smart enough to replace us, but potentially not wise enough to save us, with a risk of ending humanity despite their intelligence."
+      },
+      {
+        "front": "How does the article connect AI's environmental impact to Pakistan's climate vulnerability?",
+        "back": "The article shows AI infrastructure's high energy demand exacerbates climate change, which directly impacts Pakistan, already ranked most vulnerable to climate change and experiencing severe consequences like the 2022 floods."
+      },
+      {
+        "front": "What specific data privacy concerns does the article raise regarding AI adoption?",
+        "back": "The article questions what AI does with personal data (CVs, emails), warns of AI hiding information, and states that sheer convenience might blind users to the vulnerability and cost of handing over personal details to AI-powered models."
+      },
+      {
+        "front": "What is the author's proposed solution or approach to responsible AI adoption?",
+        "back": "The author advocates for mandatory environmental impact assessments for new data centers and demands that AI governance be treated as seriously as AI innovation, focusing on how to adopt AI responsibly without worsening existing problems."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793415605686-418",
+    "title": "Pakistan’s reforms deficit\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041140/pakistans-reforms-deficit",
+    "date": "2026-10-30",
+    "author": "none@none.com (Tahsin Shah)",
+    "content": "PAKISTAN has never suffered from a shortage of civil service reform proposals. It has suffered from a shortage of reforms that survive implementation. \nSince independence, successive governments, commissions and committees have attempted to restructure the administrative machinery inherited from the colonial state. Yet familiar complaints persist: excessive generalism, weak accountability, politicisation, distorted incentives, slow decision-making and a bureaucracy often better equipped to process files than solve complex problems. \nThe latest reform package is significant not because Pakistan has rediscovered civil service reform, but because it attempts to address several structural weaknesses simultaneously. It proposes 11 specialised professional cadres, competency-based recruitment, performance-linked remuneration, restructuring of training and human-resource management, and a National Executive Service (NES) under which BS-20 and above positions could be opened to serving officials, academics and private-sector professionals.\nPakistan inherited the powerful, generalist Civil Service of Pakistan from the colonial administrative tradition. The most dramatic restructuring came under Zulfikar Ali Bhutto in 1973, when the CSP structure was abolished and occupational groups reorganised. But restructuring did not democratise opportunity within government. \nThe devolution reforms introduced under Gen Pervez Musharraf in 2001 represented another major intervention, transferring substantial authority towards elected local governments and altering traditional district administration. But institutional discontinuity and subsequent political changes prevented the system from developing into a durable architecture of local governance. \nReform is often treated as an event rather than a sustained process.\nThis history reveals Pakistan’s recurring problem: reform is often treated as an event rather than a sustained process. \nThe strongest feature of the present package is its recognition that a modern state cannot be managed through transferable generalists. Professional cadres in fields including IT and telecom, energy, climate, engineering, health, education, law, agriculture and science address a genuine administrative weakness. \nOpening senior positions to competition could be still more consequential. It could bring specialists into government who would otherwise never enter conventional public service and allow capable career officers to compete beyond rigid cadre boundaries. But lateral entry carries an equally obvious risk: without credible safeguards, it can become lateral patronage. \nInternational experience offers principles rather than readymade templates. Pakistan should borrow principles, not blindly transplant institutions. \nPerformance-linked remuneration illustrates the challenge. Annual performance agreements for ministries, flowing down to individual officers, could improve accountability. But who determines whether a secretary has performed well? If targets are vague or assessments depend excessively upon political superiors, financial incentives could rew­ard proximity to power rather than performance. \nThe ultimate measurement must therefore be governance. Does a business licence take days instead of months? Are teachers and doctors present? Are development projects completed on time? Can citizens obtain public services without intermediaries? Can civil servants make lawful professional decisions without seeking political protection? \nSignificantly, the Police Service and Foreign Service would remain outside the proposed NES. There are sound reasons for treating them as specialised career services requiring institutional continuity, accumulated professional experience and service-specific training. Their exclusion from the NES, however, need not mean exclusion from reform. \nFor the police, Pakistan does not need to start from scratch. In May 2018, then chief justice Mian Saqib Nisar initiated a Police Reforms Committee bringing together nine retired and seven serving Inspectors General of Police. After extensive deliberations, it produced the two-volume Police Reforms: Way Forward, launched in Jan 2019. \nBuilding upon the Police Order 2002 and subsequent experience, the exercise addressed some of the most persistent weaknesses of policing: accountability, quality and independence of investigation, complaint redressal, urban policing, alternative dispute resolution, counterterrorism and the legal framework governing the police. It proposed a model police law while recognising the constitutional and administrative realities of Pakistan’s federal system. \nYet the principal structural problems identified by the committee remain largely unresolved. Its convener, former IGP Afzal Ali Shigri, observed as recently as Feb 2026 that fragmented legal frameworks, weaknesses in investigation and uneven accountability mechanisms continue to impede reform. \nThe 2019 police reform report thus stands as a telling case study of Pakistan’s persistent gap between designing reform and implementing it. \nThe exclusion of the Police Service from the NES presents an opportunity rather than necessarily a deficiency. Instead of forcing policing into an administrative model designed for civilian mi­­nistries, the government can revive Police Reforms: Way Forward, update it and implement its still-relevant recommendations. The Foreign Service can similarly retain its distinctive professional structure while pursuing the broader reform principles of merit, specialisation, transparent advancement and measurable performance. \nThe government proposes an ambitious implementation timetable for the new civil-service package. Speed can create momentum, but changing regulations is easier than changing administrative culture. \nNo examination reform can compensate for arbitrary postings. No specialised cadre can flourish if expertise is subordinated to connections. No performance contract creates accountability if influence protects poor performance. And no reform report, however professionally drafted, improves governance while it remains on a shelf. \nPakistan has spent decades reforming bureaucracy on paper. The real reform is to build institutions where competence matters more than cadre, performance more than seniority, expertise more than connections and public service more than institutional privilege. \nThe writer is a former Inspector General of Police and DG FIA.\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Pakistan Affairs / Public Administration",
+    "topic": "Civil Service Reforms in Pakistan: Historical Challenges, Current Proposals, and Implementation Gaps",
+    "whyMatters": "This article critically analyzes Pakistan's recurring inability to implement civil service reforms, despite numerous proposals. It provides essential insights into the structural weaknesses of the administrative machinery and highlights the crucial need for sustained reform processes over episodic events, making it vital for questions on governance and public sector efficiency.",
+    "summary": [
+      "Pakistan has consistently suffered from a shortage of implemented civil service reforms, despite numerous proposals since independence, leading to persistent complaints like politicisation and slow decision-making.",
+      "Past major reforms under Zulfikar Ali Bhutto (1973) and Gen Pervez Musharraf (2001) failed to create durable administrative architecture or democratize opportunities, often due to institutional discontinuity.",
+      "The latest reform package attempts to address structural weaknesses simultaneously, proposing specialized professional cadres, competency-based recruitment, performance-linked remuneration, and a National Executive Service (NES) to open senior positions.",
+      "A key challenge is viewing reform as an event rather than a sustained process, risking patronage in lateral entries and making performance assessments vulnerable to political influence rather than objective governance outcomes.",
+      "Specific services like Police and Foreign Service are excluded from the NES, yet require tailored reforms; the detailed 'Police Reforms: Way Forward' report (2019) stands as a telling example of well-designed reforms that remain largely unimplemented."
+    ],
+    "facts": [
+      "Zulfikar Ali Bhutto's 1973 reforms abolished the powerful, generalist Civil Service of Pakistan (CSP) structure.",
+      "Gen Pervez Musharraf's 2001 devolution reforms transferred substantial authority to elected local governments.",
+      "The latest reform package proposes 11 specialised professional cadres and a National Executive Service (NES) for BS-20 and above positions.",
+      "The Police Reforms Committee, initiated in May 2018 by then Chief Justice Mian Saqib Nisar, produced the two-volume 'Police Reforms: Way Forward' in Jan 2019."
+    ],
+    "academicReferences": [
+      "Report of the National Commission on Government Reforms (various iterations, e.g., 2008)",
+      "Police Order 2002 (fundamental legal framework governing police services in Pakistan)",
+      "United Nations Development Programme (UNDP) reports on Governance and Public Sector Reforms in Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "deficit",
+        "type": "noun",
+        "definition": "A shortage or lack of something.",
+        "sentence": "Pakistan has never suffered from a shortage of reform proposals, but from a reforms deficit in implementation."
+      },
+      {
+        "word": "politicisation",
+        "type": "noun",
+        "definition": "The act of causing something to become political or influenced by politics.",
+        "sentence": "Familiar complaints persist, including weak accountability and politicisation within the bureaucracy."
+      },
+      {
+        "word": "devolution",
+        "type": "noun",
+        "definition": "The transfer of power or authority from a central government to a local or regional government.",
+        "sentence": "The devolution reforms introduced under Gen Pervez Musharraf in 2001 transferred substantial authority towards elected local governments."
+      },
+      {
+        "word": "patronage",
+        "type": "noun",
+        "definition": "The power to control appointments to office or the right to privileges.",
+        "sentence": "Without credible safeguards, lateral entry into senior positions can become lateral patronage, rewarding connections over merit."
+      },
+      {
+        "word": "subordinated",
+        "type": "verb",
+        "definition": "Treated as less important than something else; placed in a lower rank.",
+        "sentence": "No specialized cadre can flourish if expertise is subordinated to connections rather than valued."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is Pakistan's recurring problem with civil service reform?",
+        "options": [
+          "A shortage of reform proposals",
+          "Lack of political will for new reforms",
+          "Reform being treated as an event rather than a sustained process",
+          "Excessive specialization in the bureaucracy"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'This history reveals Pakistan’s recurring problem: reform is often treated as an event rather than a sustained process.'"
+      },
+      {
+        "question": "Which of the following was a key feature of the civil service reforms under Zulfikar Ali Bhutto in 1973?",
+        "options": [
+          "Introduction of specialized professional cadres",
+          "Abolition of the Civil Service of Pakistan (CSP) structure",
+          "Devolution of substantial authority to local governments",
+          "Opening senior positions to private-sector professionals"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions: 'The most dramatic restructuring came under Zulfikar Ali Bhutto in 1973, when the CSP structure was abolished.'"
+      },
+      {
+        "question": "What is one of the primary risks associated with opening senior civil service positions to lateral entry, according to the article?",
+        "options": [
+          "Reduced efficiency due to lack of public sector experience",
+          "Increased bureaucracy and slow decision-making",
+          "Without credible safeguards, it can become lateral patronage",
+          "Difficulty in attracting private-sector professionals"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article warns: 'But lateral entry carries an equally obvious risk: without credible safeguards, it can become lateral patronage.'"
+      },
+      {
+        "question": "Which two specific services are explicitly mentioned as remaining *outside* the proposed National Executive Service (NES)?",
+        "options": [
+          "Education Service and Health Service",
+          "IT and Telecom Service and Energy Service",
+          "Police Service and Foreign Service",
+          "Agriculture Service and Science Service"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'Significantly, the Police Service and Foreign Service would remain outside the proposed NES.'"
+      },
+      {
+        "question": "What does the article suggest is the 'ultimate measurement' for assessing the success of performance-linked remuneration and overall governance?",
+        "options": [
+          "The number of performance agreements signed",
+          "Proximity of officers to political power",
+          "Whether a business licence takes days instead of months and public services are accessible",
+          "The speed of changing regulations"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'The ultimate measurement must therefore be governance. Does a business licence take days instead of months? Are teachers and doctors present? Are development projects completed on time? Can citizens obtain public services without intermediaries?'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is Pakistan's core historical problem regarding civil service reforms?",
+        "back": "Pakistan has a shortage of reforms that survive implementation, often treating reform as an event rather than a sustained process, leading to a gap between design and execution."
+      },
+      {
+        "front": "What is the primary objective behind introducing specialized professional cadres in the latest reform package?",
+        "back": "To address the administrative weakness of managing a modern state through transferable generalists and to bring specialized expertise into various fields like IT, energy, and health."
+      },
+      {
+        "front": "What is the dual potential impact of opening senior civil service positions (BS-20 and above) to competition for non-career officials through the NES?",
+        "back": "It could bring specialists into government and allow capable career officers to compete beyond rigid cadre boundaries, but it also carries the risk of becoming lateral patronage without credible safeguards."
+      },
+      {
+        "front": "Why is the exclusion of the Police Service from the NES considered an opportunity rather than a deficiency?",
+        "back": "It presents an opportunity to revive and implement tailored police reforms, such as the 'Police Reforms: Way Forward' report, rather than forcing policing into an administrative model designed for civilian ministries."
+      },
+      {
+        "front": "According to the author, what constitutes 'real reform' in Pakistan's bureaucracy?",
+        "back": "Building institutions where competence matters more than cadre, performance more than seniority, expertise more than connections, and public service more than institutional privilege."
+      }
+    ]
+  },
+  {
     "id": "curated-1793330451931-659",
     "title": "Quintessential capitalism\n",
     "source": "Dawn",
@@ -325,6 +562,227 @@
     ]
   },
   {
+    "id": "curated-1793415431336-81",
+    "title": "China green channel\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041143/china-green-channel",
+    "date": "2026-10-30",
+    "author": "none@none.com (Editorial)",
+    "content": "THE agreement between Islamabad and Beijing to set up a green channel at the Sost-Khunjerab border for agricultural and allied products should ease bilateral cross-border trade. Priority customs processing, risk-based inspections and faster clearance of perishables should cut delays and the cost of moving goods. The question is if it will help Pakistan’s agricultural exports. The two customs administrations will share information, including risk alerts, which should speed up inspections without loosening oversight. Quick clearance matters most for farm produce, which spoils if held up, costing growers money and competitiveness. Reliable access to the Chinese market could help farmers and exporters find new buyers and earn more foreign exchange. The trade gap shows how much remains to be done. Last year, Pakistan Customs collected a record Rs15bn in revenue on imports through Khunjerab, while exports to China and Central Asia via the route came to just Rs2.8bn. The two figures measure different things and cannot be compared directly. But they do show how little we export through this corridor. \nPakistan needs to identify which agricultural products it can export, meet Chinese quality standards, and build dependable supply chains. Fruit and vegetables from Gilgit-Baltistan and other northern areas stand to gain from better access. However, exporters need cold storage, refrigerated transport, grading and packaging facilities, and predictable logistics. Weather is another constraint. The Khunjerab Pass is generally open for trade and travel from April to November; heavy snow shuts it in winter. Both countries should work towards keeping it open year-round. A green channel is of little use if exporters cannot count on the route for regular deliveries throughout the year. \nThe initiative can also be seen in the wider context of CPEC. Pakistan has tended to treat its economic relationship with Beijing mainly as a source of infrastructure investment and imports. Market access, local business participation and two-way trade deserve equal weight. There is no doubt that exchanging customs documents electronically should remove procedural bottlenecks and also curb under-invoicing of Chinese imports, which remains a serious drain on the exchequer. Beijing’s reported exports exceed Pakistan’s recorded imports from China by around $5bn, a gap that points to large-scale misdeclaration at the border and heavy revenue losses. It is time this too was fixed. Honest valuation would shield local producers and manufacturers from unfair competition and factory closures. The green channel is a useful step, but it should be judged by results: growth in Pakistani exports, the number of businesses reaching the Chinese market, and the income of domestic producers.\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Current Affairs",
+    "topic": "Regional Economic Integration & Trade Facilitation",
+    "whyMatters": "While this article specifically discusses a bilateral trade mechanism between Pakistan and China, not ECO, it offers a concrete example of Pakistan's efforts in regional economic integration through improved border connectivity. It illustrates practical challenges and opportunities in expanding trade within its neighborhood, serving as a valuable case study or comparative point for a broader discussion on regional trade dynamics that can complement an answer on ECO's role and future prospects.",
+    "summary": [
+      "Pakistan and China have agreed to establish a 'green channel' at the Sost-Khunjerab border for agricultural products, aiming to ease bilateral cross-border trade.",
+      "The green channel is expected to offer priority customs processing, risk-based inspections, and faster clearance for perishables, significantly cutting delays and costs to boost Pakistan's agricultural exports.",
+      "Significant challenges remain, including a substantial trade gap favouring China, Pakistan's need for improved cold storage, refrigerated transport, and packaging facilities, and the seasonal closure of the Khunjerab Pass.",
+      "The initiative is placed within the broader context of CPEC, emphasizing the need for Pakistan to focus on market access, local business participation, balanced two-way trade, and curbing under-invoicing of imports to protect local industries and state revenue."
+    ],
+    "facts": [
+      "Last year, Pakistan Customs collected Rs15bn in revenue on imports through Khunjerab, while exports to China and Central Asia via the route came to just Rs2.8bn.",
+      "The Khunjerab Pass is generally open for trade and travel from April to November, closing due to heavy snow in winter.",
+      "Beijing’s reported exports exceed Pakistan’s recorded imports from China by around $5bn, indicating large-scale misdeclaration or under-invoicing."
+    ],
+    "academicReferences": [
+      "Andrew Small, 'The China-Pakistan Axis: Asia's New Geopolitics' (for broader context of Pakistan-China relations and CPEC)",
+      "China-Pakistan Free Trade Agreement (CPFTA) - Phases I & II (for legal framework of bilateral trade)",
+      "Belt and Road Initiative (BRI) White Papers and Policy Documents (for strategic context of connectivity initiatives)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Perishables",
+        "type": "noun",
+        "definition": "Items, especially food, that are liable to decay or spoil quickly.",
+        "sentence": "Quick clearance matters most for farm produce, which spoils if held up, costing growers money and competitiveness."
+      },
+      {
+        "word": "Under-invoicing",
+        "type": "noun",
+        "definition": "The illegal practice of declaring a lower value for imported goods to reduce customs duties and taxes.",
+        "sentence": "Exchanging customs documents electronically should also curb under-invoicing of Chinese imports, which remains a serious drain on the exchequer."
+      },
+      {
+        "word": "Exchequer",
+        "type": "noun",
+        "definition": "A national treasury; the funds of a government.",
+        "sentence": "Under-invoicing of Chinese imports remains a serious drain on the exchequer, leading to heavy revenue losses."
+      },
+      {
+        "word": "Trade gap",
+        "type": "noun",
+        "definition": "The difference between the monetary value of a nation's exports and imports, often indicating an imbalance.",
+        "sentence": "The trade gap shows how much remains to be done to balance Pakistan's bilateral trade with China."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary purpose of the 'green channel' agreement between Pakistan and China at Sost-Khunjerab?",
+        "options": [
+          "To facilitate faster and prioritized customs clearance for agricultural products.",
+          "To reduce political tensions between the two countries.",
+          "To establish a new military cooperation corridor.",
+          "To increase the number of tourists crossing the border."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states the agreement is 'to set up a green channel... for agricultural and allied products should ease bilateral cross-border trade' with 'priority customs processing, risk-based inspections and faster clearance of perishables.'"
+      },
+      {
+        "question": "According to the article, which of the following is a significant challenge for Pakistan's agricultural exporters utilizing the Khunjerab Pass?",
+        "options": [
+          "Lack of political will from the Chinese side.",
+          "Insufficient cold storage, refrigerated transport, and packaging facilities.",
+          "Overabundance of agricultural products in Gilgit-Baltistan.",
+          "Absence of any customs processing at the border."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article mentions, 'exporters need cold storage, refrigerated transport, grading and packaging facilities, and predictable logistics.'"
+      },
+      {
+        "question": "The article suggests that the 'green channel' initiative should also be viewed in the wider context of:",
+        "options": [
+          "Pakistan's domestic economic reforms.",
+          "The China-Pakistan Economic Corridor (CPEC).",
+          "Global climate change agreements.",
+          "United Nations development goals."
+        ],
+        "answerIndex": 1,
+        "explanation": "The text states, 'The initiative can also be seen in the wider context of CPEC.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary objective of the 'China green channel' agreement at Sost-Khunjerab?",
+        "back": "To facilitate faster and prioritized customs processing, risk-based inspections, and quicker clearance of agricultural and allied perishables between Pakistan and China."
+      },
+      {
+        "front": "Besides customs facilitation, what critical infrastructure and logistics improvements does Pakistan need to fully leverage the green channel for agricultural exports?",
+        "back": "Cold storage, refrigerated transport, grading and packaging facilities, and predictable logistics to ensure the quality and timely delivery of farm produce."
+      },
+      {
+        "front": "How does the article link the 'green channel' initiative to the broader China-Pakistan Economic Corridor (CPEC)?",
+        "back": "It highlights the need to shift CPEC focus beyond infrastructure and imports towards market access, local business participation, and balanced two-way trade for Pakistan."
+      },
+      {
+        "front": "What significant financial issue related to cross-border trade with China does the article identify, beyond the trade gap for agricultural products?",
+        "back": "Large-scale misdeclaration and under-invoicing of Chinese imports, leading to a substantial revenue loss (estimated $5bn discrepancy) for Pakistan's exchequer."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793415829714-404",
+    "title": "The politics of free electricity\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041139/the-politics-of-free-electricity",
+    "date": "2026-10-30",
+    "author": "none@none.com (Naween A. Mangi)",
+    "content": "A FEW months ago, I was appointed an independent director on the board of the Sukkur Electric Power Company (Sepco) by the federal minister for power. Having spent nearly two decades working with rural communities in upper Sindh, I saw this as an opportunity to confront a problem widely considered intractable: mass-scale electricity theft in villages.\nThe prevailing wisdom within the power utility is that rural communities cannot be persuaded to pay for electricity. Politicians behave as though electricity is theirs to distribute as political largesse. Voters, in turn, believe they have earned the right to free electricity by supporting those politicians.\nWhat should be a straightforward transaction between a utility and its customer is instead an instrument of political patronage. The argument within the company and its political elements is that villagers can’t afford to pay for power. And rural communities consider free electricity a right, simply because that’s the only form of electricity they’ve experienced.\nMy recent experience suggests that the problem is not nearly as insoluble as we have been led to believe.\nIn my own village, where I have worked on integrated development for many years, we initiated an experiment to remove illegal electricity connections, known as kundas, and encourage households to apply for legal meters. Sepco staff removed about 500 illegal connections. The reaction was immediate. Nearly 200 villagers marched in protest to confront me. I invited them in to talk.\nElectricity theft in Sindh is not exclusively a consumer problem. It is equally a governance problem.\nDuring the ensuing community meeting, I asked a simple question.\n“How many of you have mobile phones?”\nEvery hand went up.\n“Have you ever gone to a mobile phone shop and demanded balance for your phone while refusing to pay for it?”\nThe crowd burst into laughter.\n“Why not?” I asked. “Because from the first day you used a mobile phone, you knew you had to pay for the service. But from the first day you received electricity, you never paid for it. So you believe that is normal too.”\nThe exchange exposed something fundamental about electricity theft in rural Sindh. It is not simply a matter of poverty or unwillingness to pay. It is a culture of entitlement cultivated over decades, with the active participation of politicians and power company employees.\nBut the villagers’ resistance is not entirely irrational.\nMany have legitimate fears about becoming legal consumers. Sepco has a history of imposing questionable detection bills. When consumers protest, corrupt officials demand bribes to withdraw or reduce those charges.\nWhy, villagers ask, should they voluntarily enter a system that exposes them to arbitrary billing, harassment and extortion?\nSome protesters made an especially revealing argument. My term on the Sepco board will end in three years, they pointed out. What happens after that? Who will protect them from detection bills, political interference and corrupt officials?\nIt was a difficult question to answer because their mistrust is rooted in experience.\nIndeed, one of the greatest obstacles to legalising electricity connections comes from within Sepco itself. During our campaign, company employees actively discouraged villagers from applying for meters, warning them that legal connections would create endless headaches.\nThe reason is not difficult to understand. Illegal connections are a lucrative source of illicit income for employees who facilitate and maintain them. A legal meter threatens not only the culture of free electricity but also the informal economy that has developed around it.\nThis creates a remarkable situation in which the electricity company, supposedly responsible for selling electricity and collecting revenue, has employees with a financial interest in ensuring that neither happens.\nSimply telling villagers that electricity theft is illegal, or that they have a moral obligation to pay, achieves very little. Those arguments fall on deaf ears when the institution demanding payment has so thoroughly undermined its own credibility.\nWhat does work is sustained engagement, backed by practical action and tangible benefits.\nBefore our intervention, villagers typically received just three or four hours of electricity in 24 hours and experienced outages that could last months without repair. Following the removal of illegal connections and improvements to the distribution system, metered households began receiving approximately 16 hours of electricity daily. Any faults were repaired immediately.\nThis was a powerful demonstration of what legalisation could achieve. Instead of an unreliable supply obtained through illegal connections, households could now access substantially more electricity through a legitimate connection.\nOf approximately 500 illegal connections cover­­ed in the initial exercise, around 100 households applied for meters. As those applications came in and the benefits became visible, others began exp­ressing interest. We are now working to extend legal connections to more households and onto more villages.\nThe significance of this experience goes beyond the numbers. It challenges the entrenched assum­ption that villagers will never pay for electricity.\nThey can. But they need to see a credible alternative to the existing system.\nThat means reliable electricity, transparent billing, protection from arbitrary detection charges and a mechanism for resolving complaints without paying bribes. It also means confronting the employees and political interests that profit from the status quo.\nMost importantly, it requires treating rural communities as participants in reform rather than merely as offenders to be punished.\nElectricity theft in Sindh is not exclusively a consumer problem. It is equally a governance problem, sustained by a mutually beneficial arrangement between politicians, corrupt utility employees and consumers accustomed to receiving something for nothing.\nBreaking that arrangement requires political courage, institutional accountability and patient community engagement.\nOur experiment has not solved Sepco’s enormous problems. But it has demonstrated something important: the supposedly impossible is possible. This learning could be applied to the whole gamut of problems Sepco finds itself in.\nThe writer is a rural development specialist and social entrepreneur. \nnaween.a.mangi@gmail.com\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Pakistan Affairs / Governance / Public Administration",
+    "topic": "Electricity Theft, Governance Challenges, and Public Sector Reforms in Pakistan",
+    "whyMatters": "This article offers a practical case study on governance failures, public sector corruption, and community engagement in Pakistan's energy sector. It provides critical insights for essays, current affairs questions, and public policy analysis related to reform strategies.",
+    "summary": [
+      "Electricity theft in rural Sindh is primarily a governance and cultural issue, rooted in a decades-long 'culture of entitlement' fostered by politicians and power utility employees, rather than just poverty.",
+      "Political patronage, coupled with the vested financial interests of corrupt utility officials who profit from illegal connections, actively undermines efforts to formalize electricity supply and revenue collection.",
+      "Villagers' deep-seated mistrust of the system, stemming from experiences with arbitrary billing, harassment, and extortion by utility staff, acts as a significant barrier to adopting legal connections.",
+      "Successful reforms require sustained community engagement, tangible benefits (like reliable electricity supply), transparent billing, and institutional accountability to confront corrupt elements and rebuild trust."
+    ],
+    "facts": [
+      "Approximately 500 illegal electricity connections (kundas) were initially removed in the experimental village.",
+      "Following the intervention, metered households began receiving about 16 hours of electricity daily, a significant improvement from the previous 3-4 hours.",
+      "Out of the initial 500 removed illegal connections, around 100 households subsequently applied for legal meters."
+    ],
+    "academicReferences": [
+      "Transparency International's Corruption Perception Index (relevant for governance and anti-corruption efforts in Pakistan)",
+      "National Electric Power Regulatory Authority (NEPRA) Annual Reports (for regulatory oversight and performance of Pakistan's power sector)",
+      "Public Sector Development Program (PSDP) documents related to energy infrastructure and reforms in Pakistan"
+    ],
+    "vocabulary": [
+      {
+        "word": "Intractable",
+        "type": "adjective",
+        "definition": "difficult or impossible to control or deal with.",
+        "sentence": "I saw this as an opportunity to confront a problem widely considered intractable: mass-scale electricity theft in villages."
+      },
+      {
+        "word": "Largesse",
+        "type": "noun",
+        "definition": "generosity in bestowing money or gifts upon others.",
+        "sentence": "Politicians behave as though electricity is theirs to distribute as political largesse."
+      },
+      {
+        "word": "Patronage",
+        "type": "noun",
+        "definition": "the power to control appointments to office or the right to privileges.",
+        "sentence": "What should be a straightforward transaction between a utility and its customer is instead an instrument of political patronage."
+      },
+      {
+        "word": "Entitlement",
+        "type": "noun",
+        "definition": "the belief that one is inherently deserving of privileges or special treatment.",
+        "sentence": "It is a culture of entitlement cultivated over decades, with the active participation of politicians and power company employees."
+      },
+      {
+        "word": "Arbitrary",
+        "type": "adjective",
+        "definition": "based on random choice or personal whim, rather than any reason or system.",
+        "sentence": "Why, villagers ask, should they voluntarily enter a system that exposes them to arbitrary billing, harassment and extortion?"
+      },
+      {
+        "word": "Illicit",
+        "type": "adjective",
+        "definition": "forbidden by law, rules, or custom.",
+        "sentence": "Illegal connections are a lucrative source of illicit income for employees who facilitate and maintain them."
+      },
+      {
+        "word": "Gamut",
+        "type": "noun",
+        "definition": "the complete range or scope of something.",
+        "sentence": "This learning could be applied to the whole gamut of problems Sepco finds itself in."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as a major obstacle to villagers voluntarily legalizing their electricity connections?",
+        "options": [
+          "A) The significantly higher cost of legal electricity compared to illegal connections.",
+          "B) A lack of awareness among villagers about the illegality of electricity theft.",
+          "C) Their mistrust of the utility's billing practices and fear of harassment/extortion by corrupt officials.",
+          "D) The overwhelming preference for an unreliable electricity supply provided by illegal means."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states that villagers have legitimate fears about becoming legal consumers due to Sepco's history of questionable detection bills and corrupt officials demanding bribes, leading to deep mistrust."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental cultural issue does the article identify as a root cause of electricity theft in rural Sindh?",
+        "back": "A 'culture of entitlement' cultivated over decades, where villagers believe they have a right to free electricity because they've never paid for it."
+      },
+      {
+        "front": "How do political elements and corrupt utility employees contribute to the persistence of electricity theft?",
+        "back": "Politicians distribute electricity as political patronage, while corrupt employees profit from facilitating and maintaining illegal connections, creating a mutually beneficial arrangement."
+      },
+      {
+        "front": "What tangible benefit was crucial in persuading some villagers to switch to legal electricity connections?",
+        "back": "A significantly improved and reliable electricity supply (16 hours daily) compared to the erratic and minimal supply (3-4 hours daily) from illegal connections."
+      },
+      {
+        "front": "Beyond consumer behavior, what other major category of problem does the article classify electricity theft in Sindh as?",
+        "back": "A governance problem, sustained by a lack of institutional accountability, political courage, and a mutually beneficial arrangement between various stakeholders."
+      }
+    ]
+  },
+  {
     "id": "curated-1793330538358-207",
     "title": "Disrupted LPG supply\n",
     "source": "Dawn",
@@ -426,6 +884,235 @@
       {
         "front": "What failures does the article attribute to the petroleum ministry concerning the LPG supply crisis?",
         "back": "The ministry failed to take contingency measures, ensure adequate supplies ahead of winter/closure, and enforce official fuel prices, instead blaming the Iran border closure."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793416278250-138",
+    "title": "The cost of injustice\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041137/the-cost-of-injustice",
+    "date": "2026-10-30",
+    "author": "none@none.com (Rafia Zakaria)",
+    "content": "TO live in Karachi, or really any city in the tumultuous world that is our reality, is an exercise in dodging misfortune. When one leaves the house, one braces for survival. Traffic has to be navigated, angry or errant drivers avoided, beggars ask for money and there is filth on the street. By the time one reaches the destination, one is in a state of high vigilance. Dangers and disruptions are everywhere.  \nThis means that most in the city live in a constant state of hypervigilance. Some would say that wealth can insulate a person from this avalanche of potential misfortune. There is material evidence of this: the wealthy have drivers who take them places, their cars and homes are cool with air conditioning and electricity outages are eliminated with generators. They see the best doctors and eat the best food. If you belong to this class, the injustice that you see everywhere in a megacity is made distant. The maimed beggar, the dog being beaten, the woman wrapped in black trying to navigate a street full of men are things that exist in some different world. The car window, the tall gate, the armed guard — these, it is assumed, make the cruelties of the context irrelevant. If they are considered, it is only in a calculation that assures you that your good fortune is deserved and those suffering must have earned it through some arithmetic of divine distribution.\nThe truth is that life in an unjust society exacts a cost. It does not matter how well you may take care of yourself; context matters. In her extraordinary book Weathering: The Extraordinary Stress of Ordinary Life in an Unjust Society,  Dr Arline Geronimus has shown that the constant physical toll of coping with injustice can have deep physical and mental consequences. Naturally, the most disadvantaged suffer the worst consequences, but the effects of living amid inequality accrue on everyone in a society.  \nDiseased societies produce diseased people.\nOne category of disadvantaged people in Pakistani society is women. In a world in which patriarchy reigns, women are always playing defence. Marriage is a minefield where, if the demands of a husband or in laws are not met, every day can become a living hell. A long list of dead women that I regularly write about in this column is evidence of this. If a woman is unable to bear a child for instance, she may either face divorce or her husband taking a second wife. If children do come, they can increase a woman’s dependence on her husband, making it harder to resist whatever strictures are imposed upon her.\nThe cost of all this is a constant state of vigilance, and Geronimus showed just how it can physically wear one down. Repeated activation of the stress response can disrupt hormonal regulation, raise blood pressure and contribute to inflammation. In the long term, this increases vulnerability to chronic disease and early death. Diseased societies produce diseased people. A 2021 systematic study and meta-analysis found that 37 per cent of pregnant women experienced antenatal depression, while 30pc experienced postnatal depression. Intimate partner violence and poor relationships with spouses were among the reported risk factors. These figures can be attributed to the fact that women do not feel confident about their own or their children’s futures because they live in a society where injustice is common. The most interesting thing about research on men and women in unjust societies is that men suffer too. Research examining sexism in US states has linked patriarchal contexts to poorer health outcomes in both men and women. \nPeople believe that individual actions, status or material wealth can allow them to ev­­ade the conditions they see others endure. All this suggests that individual choices and we­­alth are not the biggest determinants of health in a society.  Instead, it is the availability of collective justice and respect for life that affect health outcomes. This should give all Pakistanis pause. The poor are treated horribly, and we see terrible crimes committed against the weak every day. Women are regularly treated like chattel, children are routinely abused and caste and wealth determine the course of one’s life. \nThe worst curse is that we have learned to rationalise all of this, to absorb it as the way things are, the way things have been and the way things will always be. But being inured to injustice and quietly accepting of it is making us sick. Our tolerance of it creeps into our cells and our bones.  \nIt is time we understood that there is no individual cure for these conditions and what ails us is a collective issue — deeper and more entrenched than improving our diets, quitting smoking or hitting the gym. Our habit of seeing so many wrongs and ignoring them is quite literally what is killing us.\nThe writer is an attorney teaching constitutional law and political philosophy.\nrafia.zakaria@gmail.com\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs / Sociology / Current Affairs",
+    "topic": "Social Injustice, Inequality, and their Societal and Health Costs",
+    "whyMatters": "This article is crucial for understanding the deep-rooted systemic issues contributing to public suffering and poor health outcomes in Pakistan. It emphasizes that individual wealth or choices cannot overcome collective injustice, advocating for systemic and collective solutions essential for effective governance and policy-making.",
+    "summary": [
+      "Living in unjust cities, like Karachi, forces inhabitants into a constant state of hypervigilance and stress, as they navigate daily misfortunes and dangers.",
+      "Material wealth offers only partial insulation from the costs of injustice; the pervasive societal context inevitably impacts the physical and mental well-being of everyone, including the affluent.",
+      "Systemic injustice, particularly patriarchy, imposes significant physical and mental health consequences on all members of society, not just the most disadvantaged, leading to conditions like depression and chronic disease.",
+      "The article concludes that individual cures are insufficient for societal ailments; ignoring widespread wrongs is detrimental to collective health, necessitating collective action and systemic change."
+    ],
+    "facts": [
+      "A 2021 systematic study and meta-analysis found 37% of pregnant women experienced antenatal depression, while 30% experienced postnatal depression.",
+      "Intimate partner violence and poor relationships with spouses were identified as significant risk factors for antenatal and postnatal depression.",
+      "Research examining sexism in US states has linked patriarchal contexts to poorer health outcomes in both men and women."
+    ],
+    "academicReferences": [
+      "Dr Arline Geronimus, 'Weathering: The Extraordinary Stress of Ordinary Life in an Unjust Society'",
+      "Concept: Structural Violence and its Public Health Implications",
+      "Policy/Legal Frameworks: Protection of Women Act 2006 / Punjab Protection of Women Against Violence Act 2016"
+    ],
+    "vocabulary": [
+      {
+        "word": "Tumultuous",
+        "type": "adjective",
+        "definition": "Marked by disorder or agitation; violent; disorderly.",
+        "sentence": "To live in a tumultuous world, as described in the article, is an exercise in dodging misfortune."
+      },
+      {
+        "word": "Hypervigilance",
+        "type": "noun",
+        "definition": "The state of extreme watchfulness; an enhanced state of sensory sensitivity accompanied by an exaggerated intensity of behaviors.",
+        "sentence": "Most in the city live in a constant state of hypervigilance, bracing for survival every day."
+      },
+      {
+        "word": "Insulate",
+        "type": "verb",
+        "definition": "To protect from something unpleasant by interposing a barrier; to shield or isolate.",
+        "sentence": "Some believe that wealth can insulate a person from the avalanche of potential misfortune."
+      },
+      {
+        "word": "Accrue",
+        "type": "verb",
+        "definition": "To accumulate or increase over time.",
+        "sentence": "The effects of living amid inequality accrue on everyone in a society, wearing them down physically and mentally."
+      },
+      {
+        "word": "Inured",
+        "type": "adjective",
+        "definition": "Accustomed to something undesirable; hardened to something difficult or painful.",
+        "sentence": "Being inured to injustice and quietly accepting of it is making society collectively sick."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is one of the primary consequences of living in an unjust society, even for those with wealth?",
+        "options": [
+          "Complete immunity from societal problems",
+          "A constant state of hypervigilance and stress",
+          "Enhanced civic engagement and activism",
+          "Increased empathy for the less fortunate"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that even the wealthy live in 'high vigilance' and that 'context matters,' causing a constant physical toll, leading to a state of hypervigilance."
+      },
+      {
+        "question": "What specific societal structure is explicitly linked to poorer health outcomes in both men and women, according to research mentioned in the article?",
+        "options": [
+          "Democratic governance",
+          "Socialist economies",
+          "Patriarchal contexts",
+          "Technocratic systems"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions, 'Research examining sexism in US states has linked patriarchal contexts to poorer health outcomes in both men and women.'"
+      },
+      {
+        "question": "The author argues that the ultimate solution to the collective ailments caused by widespread injustice is primarily:",
+        "options": [
+          "Improving individual diets and exercise routines",
+          "Accumulating personal wealth to escape misfortune",
+          "Collective action and addressing systemic issues",
+          "Ignoring societal wrongs for personal peace"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article concludes by stating, 'there is no individual cure for these conditions and what ails us is a collective issue,' advocating for collective solutions beyond personal habits."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does living in an unjust society impact individuals' mental and physical health, according to Dr. Arline Geronimus's research cited in the article?",
+        "back": "It leads to a constant physical toll, repeated activation of the stress response, disrupting hormonal regulation, raising blood pressure, contributing to inflammation, and increasing vulnerability to chronic disease and early death."
+      },
+      {
+        "front": "What is the article's main argument regarding the effectiveness of individual wealth in insulating people from the costs of injustice?",
+        "back": "Wealth offers only limited insulation; while it provides material comfort, the societal context of injustice still exacts a cost on everyone's well-being, as 'diseased societies produce diseased people.'"
+      },
+      {
+        "front": "What specific examples does the article provide to illustrate the 'cost of injustice' for women in Pakistani society?",
+        "back": "Women often play defense due to patriarchy, face challenges in marriage (e.g., divorce or second wives for inability to bear children), increased dependence due to children, and suffer from high rates of antenatal and postnatal depression linked to intimate partner violence."
+      },
+      {
+        "front": "What does the author identify as the 'worst curse' regarding society's collective response to widespread injustice?",
+        "back": "The worst curse is learning to rationalize and absorb injustice as the normal state of affairs, becoming inured to it, which ultimately makes society 'sick' as tolerance for injustice creeps into our cells and bones."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793415913626-572",
+    "title": "Excessive punishment\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041142/excessive-punishment",
+    "date": "2026-10-30",
+    "author": "none@none.com (Editorial)",
+    "content": "THE supposed ‘crime’ did not justify a trial under terrorism laws, and certainly not the punishment. On Thursday, human rights lawyer Imaan Mazari-Hazir and her husband and fellow lawyer, Hadi Ali Chattha, were sentenced to 10 years each for moving a security barrier reportedly placed to protect a touring cricket team, as well as for “incitement to public unrest” during a face-off with police. The trial, held in jail, drew persistent criticism over an alleged lack of due process. The judge held that Ms Mazari-Hazir and Mr Chattha had attempted to “compromise the security arrangements [made for the team] through pressuring security officials”. The judgement cited the 2009 attack on the Sri Lankan cricket team in Lahore — an assault that had been perpetrated by more than a dozen terrorists armed with heavy weapons — to reason that the lawyers’ act of removing the barrier and ‘assaulting’ police personnel “put the security of an international team visiting Pakistan at risk [and] clearly shows the intentions and objective of the accused to create sense of terror [sic]”.\nJust last month, after a lengthy appeals process, the Supreme Court ordered the suspension of the sentence handed to the two lawyers in the so-called social media posts case and ordered their release pending the Islamabad High Court’s decision on their appeal against the trial court’s verdict. However, they were promptly rearrested in connection with this case, and have now been handed a lengthy sentence that will keep them behind bars while they appeal. Ms Mazari-Hazir is one of the most prominent champions of civil and human rights from the legal community, and has often taken cases involving some of Pakistan’s most vulnerable citizens pro bono. She is also an outspoken critic of government and state excesses. It is unfortunate to see her and her husband punished so harshly for acts that seem downright frivolous compared to the violence actual terrorists routinely perpetrate. The higher courts must hear their appeal swiftly, and the state must stop stretching antiterrorism laws to cover acts that bear no resemblance to terrorism. Such verdicts send a chilling message to every lawyer willing to defend the vulnerable. The law need only appear to serve narrow interests, rather than justice, for public faith in it to be shaken.\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Pakistan Affairs / Current Affairs",
+    "topic": "Rule of Law, Human Rights, and Misapplication of Anti-Terrorism Laws in Pakistan",
+    "whyMatters": "This article is crucial for understanding contemporary issues regarding human rights, judicial process, and the application of anti-terrorism laws in Pakistan. Aspirants can leverage this case study to analyze challenges to the rule of law and the impact on civil liberties.",
+    "summary": [
+      "Human rights lawyers Imaan Mazari-Hazir and Hadi Ali Chattha were sentenced to 10 years each under terrorism laws for minor acts, including moving a security barrier and 'incitement to public unrest.'",
+      "The trial, conducted in jail, faced criticism for an alleged lack of due process, and the judgment controversially cited the 2009 Sri Lankan cricket team attack to justify the severe charges.",
+      "The article highlights the disproportionate nature of the punishment, deeming it excessively harsh compared to the actual violence perpetrated by terrorists, and argues against stretching anti-terrorism laws.",
+      "Such verdicts send a 'chilling message' to lawyers defending vulnerable citizens and risk eroding public faith in a justice system perceived to serve narrow interests rather than true justice."
+    ],
+    "facts": [
+      "Imaan Mazari-Hazir and Hadi Ali Chattha were sentenced to 10 years each.",
+      "Charges included moving a security barrier and 'incitement to public unrest' during a face-off with police.",
+      "The trial was held in jail and drew criticism over an alleged lack of due process.",
+      "The judgment cited the 2009 attack on the Sri Lankan cricket team in Lahore to justify the terrorism charges.",
+      "The lawyers were promptly rearrested in this case after the Supreme Court had ordered the suspension of their sentence in a separate 'social media posts case.'"
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan (Articles related to Fundamental Rights, Due Process, Fair Trial)",
+      "International Covenant on Civil and Political Rights (ICCPR) - particularly Articles 9 and 14 regarding liberty and fair trial.",
+      "Human Rights Commission of Pakistan (HRCP) Reports on the State of Human Rights and Rule of Law in Pakistan",
+      "Reports by international organizations like Amnesty International on counter-terrorism legislation and its impact on human rights."
+    ],
+    "vocabulary": [
+      {
+        "word": "Frivolous",
+        "type": "adjective",
+        "definition": "not having any serious purpose or value; trivial.",
+        "sentence": "The article suggests the lawyers were punished harshly for acts that seem 'downright frivolous' compared to actual terrorism."
+      },
+      {
+        "word": "Perpetrate",
+        "type": "verb",
+        "definition": "carry out or commit (a harmful, illegal, or immoral action).",
+        "sentence": "The article contrasts the lawyers' actions with the violence actual terrorists routinely perpetrate."
+      },
+      {
+        "word": "Incitement",
+        "type": "noun",
+        "definition": "the action of provoking unlawful behavior or urging someone to behave unlawfully.",
+        "sentence": "One of the charges against the lawyers was 'incitement to public unrest' during a face-off with police."
+      },
+      {
+        "word": "Pro bono",
+        "type": "adverbial phrase",
+        "definition": "denoting work undertaken voluntarily and without payment, especially legal work for clients with low incomes.",
+        "sentence": "Ms. Mazari-Hazir has often taken cases involving some of Pakistan’s most vulnerable citizens pro bono."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary criticism against the trial of Imaan Mazari-Hazir and Hadi Ali Chattha?",
+        "options": [
+          "The trial judge was biased.",
+          "The trial was held in a secret location.",
+          "An alleged lack of due process.",
+          "The lawyers were denied legal representation."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'The trial, held in jail, drew persistent criticism over an alleged lack of due process.'"
+      },
+      {
+        "question": "What historical event did the judgment against the lawyers reference to justify the terrorism charges?",
+        "options": [
+          "The Peshawar Army Public School attack.",
+          "The 2009 attack on the Sri Lankan cricket team in Lahore.",
+          "A major political rally in the capital.",
+          "The Lawyers' Movement of 2007."
+        ],
+        "answerIndex": 1,
+        "explanation": "The judgment explicitly cited 'the 2009 attack on the Sri Lankan cricket team in Lahore' to reason the charges."
+      },
+      {
+        "question": "According to the article, what broader consequence might such verdicts have on the justice system?",
+        "options": [
+          "It might encourage more international sports teams to visit Pakistan.",
+          "It could strengthen the application of anti-terrorism laws.",
+          "It risks shaking public faith in the law if it appears to serve narrow interests.",
+          "It will lead to a decrease in minor public disturbances."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article warns, 'The law need only appear to serve narrow interests, rather than justice, for public faith in it to be shaken.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article assess the justification for applying terrorism laws to the lawyers' alleged actions?",
+        "back": "The article states that the 'supposed 'crime' did not justify a trial under terrorism laws,' highlighting the disproportionate application of the law."
+      },
+      {
+        "front": "What specific warning does the article issue regarding the use of anti-terrorism laws by the state?",
+        "back": "The article warns that 'the state must stop stretching antiterrorism laws to cover acts that bear no resemblance to terrorism.'"
+      },
+      {
+        "front": "What impact might such verdicts have on the legal community, particularly lawyers defending vulnerable citizens?",
+        "back": "The article asserts that 'Such verdicts send a chilling message to every lawyer willing to defend the vulnerable.'"
+      },
+      {
+        "front": "Beyond the immediate case, what larger concern does the article raise about the principle of justice?",
+        "back": "The article expresses concern that if the law appears to serve 'narrow interests, rather than justice,' public faith in the legal system will be shaken."
       }
     ]
   },
@@ -2020,6 +2707,95 @@
       {
         "front": "What key attributes are highlighted for ensuring the effectiveness and strong governance of the proposed majority-independent board?",
         "back": "Transparent appointments, relevant expertise, political independence, clear performance benchmarks, strong accountability, and enforceable conflict-of-interest rules."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793416558191-603",
+    "title": "Whither terrorism\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2040138/whither-terrorism",
+    "date": "2026-10-27",
+    "author": "none@none.com (Arifa Noor)",
+    "content": "THE future of Khyber Pakhtun­khwa remains unclear, whether it’s as a single entity or as a democratic one. PTI, we are told, has been made PNG — once again. And the south of KP is reportedly being carved out rapidly to be a new province or to simply reverse the amendment that made the former Fata part of KP. No one is really sure what the coming days hold.\nAmid this confusion, a newly appointed member of the Area Representative and Development Council (ARDC) for the special emergency-hit districts of the south has created another storm in a teacup. In a video statement he spoke of reaching out to the Afghan Taliban to bring peace to Pakistan. Considering that this preference for dialogue over conflict with the fitna-across-the-border ostensibly has been the reason the PTI government was sent home, a similar message of love from the new advisory council just wasn’t cricket. But before we could get our breath back at this audacity, the new spokesman of the region, Mehmood Jan Babar, added to the mess by not denying the idea altogether.\nEventually Samar Bilour, who represents the Peshawar-led advisory council, had to enter the fray to diss the notion of talks. As an aside, we now have a Peshawar council and a Southern council.\n    \nBe that as it may, the point is these statements have simply added to the confusion surrounding the province. And terrorism, despite the frequency of the attacks and the statements of the government, has taken a backseat.\nThe focus is more on what the grand plan for KP is. Is it simply to close the doors on PTI? Is it to conduct an experiment on the efficacy of newer, smaller provinces? Or is it simply to reverse the Fata merger? Or perhaps it was to give the governor the chance to clear encroachments, a favourite problem for most non-elected officials these days. As the Urdu saying goes, there are as many rumours as there are mouths.\nWe appear to be using the same old playbook put together in the post-Musharraf period.\nBut none of these rumours seem to be highlighting the basic issue — how to address the decades-old problem of militancy in these regions. Other than vague promises of fighting the problem, there is little that has been shared with the people to explain what the new government is doing or planning to do.\nAnd this is where the problem lies.\nMilitancy is going from bad to worse. The intensity of the attacks is worrying and impacts the entire country, especially one looking for more foreign investment. But while the state is clear on its decision to fight its way to victory, it doesn’t seem to have a clear strategy or path for this — or so it appears to those on the outside.\nAny strategy to succeed must take into account the current environment.\nHowever, we appear to be using the same old playbook put together in the post-Musharraf period when the TTP was controlling large swathes of land in what is now former Fata. In order to flush the Taliban out, military operations were conducted after the ordinary residents were persuaded to leave their homes and villages before the clearing out was done. And once the area/s were cleared, the displaced people were allowed to return to their homes and businesses.\nHowever, nearly two decades later, the TTP is no longer controlling areas; it seems to appear only to conduct attacks or block roads, or carry out other activities and then melt away. And yet, it seems, our strategy remains the same — of wanting to clear out areas, be it at the level of villages and so on.\nBut if the TTP is not controlling these areas and the plan is to clear out the residents before launching operations, surely the TTP will also vacate the areas along with the residents and simply return later. How is this effective? And this is all the more difficult now because 20 years earlier, the TTP escaped to an Afghanistan run by a hostile government, which is no longer the case. But these questions are really not being discussed.\nThe intelligence-based operations (IBOs) are also offered as an alternative. Though once again, there is little clarity on how effective these are; they only become public when they lead to deaths of troops, which is tragic. But once again, there is little information available on why there is even one fatality during an IBO. And if they are effective, then why has the problem simply grown?\n    \nThe second problem with this strategy is the public sentiment, which is against military operations because of the displacement and suffering that comes in the wake of this. But more than that, the displacements were not accompanied by the compensation the people had been promised — for the damage to their property and business. This has been a major reason for their reluctance to support operations this time around. And yet, this also does not seem to have led to any kind of brainstorming about what to do differently.\nMore worrying still is the distrust or alienation of the people in general from the state as well as the TTP. In many anecdotal accounts, it is suggested the local residents of the affected areas see the activities of the TTP and the state as alienating. These gaps with the state, ideally, should be bridged before operations are launched. It is rather obvious that kinetic operations cannot succeed without the people’s support. And yet the state seems to be doing little to earn this support or trust.\nAnd along with all this comes the larger issue of why the kinetic operations, whenever they have succeeded, are not followed by a successful handover to strong functioning civilian institutions which can then govern effectively. In other words, the build-and-transfer part has eluded us for decades.\nIndeed, the reduction of the debate over terrorism to a simple one of using force or not is a very one-dimensional one. The problem requires a lot more depth and nuance than is realised.\nThe writer is a journalist.\nPublished in Dawn, October 27th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Current Affairs",
+    "topic": "Counter-terrorism Strategies, State-Society Relations, and Governance Challenges in Pakistan (Khyber Pakhtunkhwa)",
+    "whyMatters": "This article offers a critical analysis of Pakistan's counter-terrorism strategies, particularly in Khyber Pakhtunkhwa, highlighting their ineffectiveness and the resultant alienation of the local populace. Aspirants can use its nuanced arguments to critique current policies and suggest reformist approaches for enhanced governance and security.",
+    "summary": [
+      "Khyber Pakhtunkhwa (KP) faces political uncertainty regarding its status, the future of PTI, and the reversal of the Fata merger, which overshadows the critical issue of escalating terrorism.",
+      "The state's counter-terrorism strategy appears to be an outdated 'post-Musharraf playbook,' focused on clearing areas even though the TTP no longer controls swathes of land but rather conducts hit-and-run attacks.",
+      "Intelligence-based operations (IBOs) lack transparency regarding their effectiveness and the reasons for casualties, further questioning the overall strategy.",
+      "Public sentiment is largely against military operations due to unfulfilled promises of compensation for displacement and damage, leading to distrust and alienation from both the state and the TTP, undermining the potential for kinetic success.",
+      "A significant gap exists in the 'build-and-transfer' mechanism, where successful kinetic operations are not followed by the establishment of strong, functioning civilian institutions to ensure long-term governance and stability."
+    ],
+    "facts": [
+      "A newly appointed member of the Area Representative and Development Council (ARDC) for special emergency-hit districts of Southern KP suggested reaching out to the Afghan Taliban for peace.",
+      "Nearly two decades later, the TTP no longer controls large swathes of land as they did in the post-Musharraf period; they appear to conduct attacks and then melt away.",
+      "Displaced people in previous military operations were not compensated as promised for damage to their property and businesses, contributing to public reluctance for new operations."
+    ],
+    "academicReferences": [
+      "National Action Plan (NAP) against Terrorism (2014)",
+      "C. Christine Fair's 'Fighting to the End: The Pakistan Army's Way of War'",
+      "UN Global Counter-Terrorism Strategy"
+    ],
+    "vocabulary": [
+      {
+        "word": "Whither",
+        "type": "adverb",
+        "definition": "to what place or state; where; in what direction.",
+        "sentence": "The article's title, 'Whither terrorism,' questions the future direction and status of the issue."
+      },
+      {
+        "word": "Fitna",
+        "type": "noun",
+        "definition": "strife, discord, or civil disturbance (often used in an Islamic context to describe temptation or sedition).",
+        "sentence": "The politician's proposal for dialogue with the 'fitna-across-the-border' caused immediate controversy."
+      },
+      {
+        "word": "Kinetic operations",
+        "type": "noun phrase",
+        "definition": "military actions involving the use of force or weapons.",
+        "sentence": "The article argues that kinetic operations alone cannot succeed without public support and effective civilian follow-up."
+      },
+      {
+        "word": "Eluded",
+        "type": "verb",
+        "definition": "escaped from or avoided; failed to be grasped or achieved by.",
+        "sentence": "The 'build-and-transfer' part, crucial for long-term stability after military success, has eluded us for decades."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a primary reason cited in the article for the public's reluctance to support new military operations against militancy?",
+        "options": [
+          "A) The TTP has widespread public support in affected areas.",
+          "B) A preference for dialogue over military conflict, as suggested by some local leaders.",
+          "C) Unfulfilled promises of compensation for property damage and displacement from previous operations.",
+          "D) A belief that military operations are ineffective against the current tactics of the TTP."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'But more than that, the displacements were not accompanied by the compensation the people had been promised — for the damage to their property and business. This has been a major reason for their reluctance to support operations this time around.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the article's main criticism of Pakistan's current counter-terrorism strategy in the context of the TTP's evolving tactics?",
+        "back": "The strategy relies on an outdated 'post-Musharraf playbook' of clearing areas, which is ineffective because the TTP no longer controls territory but conducts hit-and-run attacks and then melts away."
+      },
+      {
+        "front": "According to the article, why are Intelligence-Based Operations (IBOs) currently problematic?",
+        "back": "There is little clarity on their effectiveness; they often become public only when troops die, without information on why fatalities occur or why the overall problem persists despite them."
+      },
+      {
+        "front": "What does the article mean by the 'build-and-transfer' problem in relation to counter-terrorism efforts?",
+        "back": "It refers to the persistent failure to follow successful kinetic military operations with a smooth handover to strong, functioning civilian institutions that can effectively govern the cleared areas."
+      },
+      {
+        "front": "How does public sentiment and distrust complicate counter-terrorism efforts, as described in the article?",
+        "back": "Public sentiment is against operations due to displacement and unfulfilled compensation promises, leading to a general distrust of the state. This alienation makes kinetic operations unlikely to succeed without the people's support, which the state currently lacks."
       }
     ]
   },
@@ -10096,735 +10872,6 @@
       {
         "front": "What role does the article assign to the parliament and courts in scrutinizing the imposition of governor's rule?",
         "back": "The article urges lawmakers to scrutinise the action and for the courts to test whether the constitutional threshold was actually met, especially since the proclamation lapses within two months unless parliament approves it under Article 234."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791773999957-62",
-    "title": "Rebuilding values\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036562/rebuilding-values",
-    "date": "2026-10-12",
-    "author": "none@none.com (Huma Yusuf)",
-    "content": "AT a time when good news is scarce, it was gratifying to see Navanethem ‘Navi’ Pillay receive the 2026 Nobel Peace Prize. Pillay is a South African judge at the International Court of Justice and former UN high commissioner for human rights. She chaired the UN Commission of Inquiry that concluded last year that Israel has committed genocide in Gaza. Such symbolic support for justice, human rights, and international law has been much wanting in recent years.\nSadly, Pillay’s prize can also be perceived as a eulogy for international rule of law, which has been flagrantly disregarded, particularly in conflict contexts — from the targeting of civilian infrastructure to the use of chemical weapons and genocidal acts. As if to ring the death knell of the rules-based order, hours after Pillay received the honour, the US sanctioned the International Criminal Court (ICC), a punitive measure that would make it impossible for the court to function.\nThat we now inhabit a multipolar, post-liberal democratic world order is evident. But moments like these highlight the extent to which the world we’ve known has been torn asunder. The collapse of liberal democratic norms leaves a vacuum which countries must now consider how to fill. This is not all bad — liberal democratic frameworks had imperial overtones, prioritised unfettered economic growth at the expense of social welfare and the planet, and engendered hypocrisy because those touting them were often unlikely to abide by them. But what has come in their wake is authoritarianism and a hyper-privileging of national sovereignty of the kind that enables the US — never a member state of the ICC — to declare the court a “rogue” institution. With World Values Day looming this Thursday, the question to ask is whether countries will use the world order vacuum to refresh national values in this era of national sovereignty.\nThe speed of developments in these uncertain times means that nations rarely get time to reflect or publicly debate before taking decisions in a way that allows for alignment with national values or sovereign principles. With each destabilising development, whether invasions, pandemics or natural disasters, realpolitik reigns.\nNational values that work for all must emerge organically.\nToday’s conflict and energy dynamics lead to expedient defence pacts, the pervasiveness of AI forces countries to sign up to global technology governance frameworks, and the stop-start flow of climate finance leads nations to make ambitious climate commitments. Little heed is paid to whether these policy decisions cohere and complement or contradict and undermine each other.\nIn recent decades, the onus to cohere was less; the liberal democratic framework, with all its flaws and flows of money, offered some coherence — rule of law, rights, justice, but also individualism and rampant capitalist growth. But in its absence, the centre will not hold. This is why an intentional revisiting of national values may be welcome. The idea may cause shudders. National values in recent memory have been the bogeymen of authoritarians and dictators, imposed from the top down. Think of nations that have doubled down on alternative value systems, and places like Afghanistan and North Korea come to mind.\nNational values that work for all must emerge organically from tradition, practice, a nuanced understanding of history and a desire to progressively engage with national documents such as constitutions. They must be inclusive, dynamic and open to challenge, and reflected across policy, law, and curricula. The best values are the products of difficult reckonings — truth and reconciliation proceedings, high-profile trials. This is a tall order for states like Pak­istan that are ‘takers’ of political sta­nces, standards, and policies.\nIronically, it seems as if the thi­ng that will replace the coherence of the liberal democratic world order will be AI’s rampaging monoculture. As all knowledge production, financial systems, and policymaking draw from the same well of AI slop, a consistency will emerge from the omnipresence of Big Tech and LLMs. Don’t ask me what that will look like.\nInstead, let’s look at an example of what values emerge when all state structures, humanitarian norms and justice are stripped away. The horrific and hugely underreported conflict in Sudan has led to the emergence of the country’s Emergency Response Rooms, strong Nobel Peace Prize contenders alongside Pillay. These are among the few sources of relief in Sudan, offering food, healthcare, schooling, counselling, and protection. These organisations are staffed by 26,000 volunteers and have grown from community kitchens and pandemic-era clinics into the primary solace from the world’s worst humanitarian crisis. Perhaps a return to the most basic values is the best way forward.\nThe writer is a political and integrity risk analyst.\nX: @humayusuf\nPublished in Dawn, October 12th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 84,
-    "paper": "International Relations / Current Affairs / Political Science / Essay",
-    "topic": "Rebuilding Values: The Collapse of the Liberal World Order and the Future of International Law",
-    "whyMatters": "This article offers a critical examination of the current global geopolitical landscape, including the decline of the liberal democratic order and the challenges to international law. Aspirants can leverage its arguments to demonstrate a nuanced understanding of contemporary world affairs and formulate informed opinions on state sovereignty and global governance.",
-    "summary": [
-      "Navi Pillay's 2026 Nobel Peace Prize simultaneously symbolizes support for justice and human rights, and serves as a 'eulogy' for the international rule of law, which has been flagrantly disregarded, particularly highlighted by the US sanctioning the ICC.",
-      "The world is transitioning to a multipolar, post-liberal democratic order, creating a vacuum that exposes the flaws of past frameworks (imperial overtones, unfettered growth) but also risks leading to authoritarianism and hyper-privileging of national sovereignty.",
-      "In this rapidly changing and uncertain environment, nations rarely get time to organically develop inclusive, dynamic national values that truly reflect traditions and history, leading to expedient policy decisions that may contradict each other.",
-      "While the article expresses concern about AI's potential 'rampaging monoculture', it also presents examples like Sudan's Emergency Response Rooms to suggest that fundamental, organically emerging values can provide solace and direction even in the most severe crises."
-    ],
-    "facts": [
-      "Navanethem ‘Navi’ Pillay received the 2026 Nobel Peace Prize.",
-      "Pillay chaired the UN Commission of Inquiry that concluded Israel has committed genocide in Gaza.",
-      "The US sanctioned the International Criminal Court (ICC) hours after Pillay received her award.",
-      "Sudan's Emergency Response Rooms are staffed by 26,000 volunteers, offering food, healthcare, schooling, counselling, and protection."
-    ],
-    "academicReferences": [
-      "Francis Fukuyama's 'The End of History and the Last Man' (provides context for the 'end of liberal democracy' discussion).",
-      "Rome Statute of the International Criminal Court (foundational treaty for the ICC, central to the discussion on international law).",
-      "UN Charter (the fundamental treaty that established the United Nations and its key bodies, including the ICJ, relevant to international law and human rights)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Flagrantly",
-        "type": "adverb",
-        "definition": "in a conspicuously or obviously offensive way",
-        "sentence": "The article states that international rule of law has been flagrantly disregarded in recent years."
-      },
-      {
-        "word": "Asunder",
-        "type": "adverb",
-        "definition": "apart; into pieces",
-        "sentence": "Moments like these highlight the extent to which the world we’ve known has been torn asunder."
-      },
-      {
-        "word": "Monoculture",
-        "type": "noun",
-        "definition": "the cultivation of a single crop or, in a broader sense, a society that has a single dominant culture or viewpoint.",
-        "sentence": "Ironically, it seems as if the thing that will replace the coherence of the liberal democratic world order will be AI’s rampaging monoculture."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is a key critique leveled against the liberal democratic frameworks in the article?",
-        "options": [
-          "They prioritized unfettered economic growth at the expense of social welfare and the planet.",
-          "They consistently upheld international law without exception.",
-          "They fostered extreme isolationism among nations.",
-          "They completely eliminated national sovereignty."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states that liberal democratic frameworks 'prioritised unfettered economic growth at the expense of social welfare and the planet,' alongside having imperial overtones and engendering hypocrisy."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "According to the article, what dual perception can be attributed to Navi Pillay receiving the 2026 Nobel Peace Prize?",
-        "back": "It is seen as both symbolic support for justice, human rights, and international law, and as a 'eulogy' for the international rule of law, which has been largely disregarded."
-      },
-      {
-        "front": "What major global shift does the article suggest is underway, replacing the previously known world order?",
-        "back": "A transition to a multipolar, post-liberal democratic world order, characterized by a vacuum and the rise of authoritarianism and hyper-privileging of national sovereignty."
-      },
-      {
-        "front": "How does the article propose 'national values that work for all' should emerge?",
-        "back": "They must emerge organically from tradition, practice, a nuanced understanding of history, and a desire to progressively engage with national documents like constitutions, being inclusive, dynamic, and open to challenge."
-      },
-      {
-        "front": "What example does the article provide of foundational values emerging in a context where state structures and humanitarian norms have collapsed?",
-        "back": "The Emergency Response Rooms in Sudan, which provide essential relief through volunteers, demonstrating a return to basic, grassroots values amidst crisis."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791773677679-768",
-    "title": "Why stability is elusive\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036564/why-stability-is-elusive",
-    "date": "2026-10-12",
-    "author": "none@none.com (Maleeha Lodhi)",
-    "content": "RECENT events are another reminder of how elusive political stability remains in the country. The confrontation between PTI and the government escalated after an effort at dialogue between them ended in mutual recriminations. PTI pressed ahead with its protest march that the federal government tried to stop by threatening to oust the KP government through imposition of governor’s rule. The usual wave of arrests of party activists preceded the opposition’s march. The Shehbaz Sharif government is now set on imposing an emergency and governor’s rule in KP in a move that is likely to inflame sentiment in the province and exacerbate the situation.\nThis is a rerun of a familiar script, except it is set against a backdrop of deepening authoritarianism. It also marks a dangerous phase in confrontational politics with the federal authorities and the Khyber Pakhtunkhwa government at loggerheads. Inflammatory rhetoric by federal ministers was matched by fiery speeches from KP’s Chief Minister Sohail Afridi.\nOther than the brief interlude of dialogue, the government responded to the opposition protest by its usual mix of coercion, threats, and incendiary statements. It took the consequential decision to impose an emergency in KP and bring the province under federal control. The cabinet has approved this while parliament has been convened to sanction the move. The most egregious use of coercion was the reported abductions and incommunicado detention of over eight PTI MPs, including three members of the National Assembly. Using coercive means to manage the opposition has only reinforced the government’s slide into authoritarianism, which has resulted in the country’s democratic decline. This has been evidenced in the past couple of years in actions taken against the opposition and other critics:banning public gatherings, breaking up protest demonstrations, arresting opposition supporters, raiding homes of political leaders, filing cases against them, policing the media, imposing internet restrictions and criminalising free speech. Another telling indicator of democratic regression is the undermining of judicial independence by controversial amendments and defiance of court orders. The erosion of institutions meant to check executive power has contributed to growing autocratisation. The shell of democracy remains, but it is increasingly hollowed out.\nThe aim of these actions is to tighten the government’s grip on the political system and the country. But it does not make the government strong. It signals weakness, not confidence. Some argue there is nothing new in this phase of repression, that it continues a familiar tradition and borrows from a well-worn playbook. Previous civilian governments, too, were guilty of undemocratic conduct, intolerance of opposition, jailing rivals on trumped-up charges, marginalising parliament, curbing press freedom, and undermining judicial independence. All of this is true. But the scale and scope of the repressive measures today go beyond anything seen under a civilian government before.\nUsing coercive measures and undermining institutions do not produce stability.\nPublic space is being encroached upon in an unprecedented manner. Because there is more to control in the digital era, especially social media, the present government has gone much further than its civilian predecessors in imposing digital space curbs and censorship and micromanaging the electronic media.\nThe rationale offered by spokesmen of the hybrid government, when pressed to justify such measures, is that they are necessary for political stability. But does the veneer of calm imposed by force bring stability? On the contrary, it is a recipe for instability. Coercion does not produce stability. It deepens polarisation, erodes the social contract, divides the country further, and fuels uncertainty. The opposition represents a large section of society, has a significant parliamentary presence, and runs the government in KP. To suppress and demonise it does not promote stability. It guarantees the continuation of political confrontation.\nThe economic cost of relentless political tensions and government-opposition conflict is plain to see. Frequent shutdowns and blockade of cities hit businesses hard. It vitiates the business climate. This at a time when recovery has yet to take hold, economic growth remains anaemic and stabilisation is still fragile. Jittery investors hold back, deterred by the spectre of turmoil and unrest. Celebrating every tranche received from the IMF doesn’t obscure the reality that the economy is yet to embark on the path to sustainable growth. Meanwhile, all recent surveys — Gallup, Ipsos — show declining public confidence in economic conditions and pessimism about the country’s economic future. Clearly, the country’s economic problems cannot be tackled in a politically volatile environment.\nPolitical stability requires a reset on several fronts. It needs the creation of a peaceful and predictable political environment resting on a truce and mutual accommodation between the government and opposition. A divided and polarised country cannot be stable. Genuine dialogue is needed that is aimed at a lasting modus vivendi, not driven by short-term expediency to stop the next protest march. It also means the government relenting in its inhumane treatment of PTI leader Imran Khan in defiance of court orders. The recent talks were doomed when the government wasn’t even willing to allow opposition leaders to meet Khan for consultations on the negotiations. It also remains unwilling to grant him his entitlement under the law. Such an attitude cannot form the basis for serious negotiations, let alone a political settlement.\nPolitical stability is also achieved by governing the country inclusively by consensus and not by excluding other political actors who command substantial electoral and public support. A ‘winner-takes-all’ approach has long characterised Pakistan’s politics. This has rested on the mistaken assumption that the party that wins an election (almost always on a minority vote and, in the case of the present government, in a disputed poll) is the ‘sole representative’ of the people. This stance leads to inherently unstable and exclusionary governance. Unilateral rule not only erodes democracy; it also undermines effective governance. The country’s federal nature makes inclusive governance essential. The centre must work with and not against opposition-run provinces.\nPolitical stability is also built by ensuring an environment where the rule of law prevails. It involves strengthening institutions and not weakening them in pursuit of ephemeral ‘control’. Strong institutions ensure predictability — the bedrock of stability. They provide the checks and balances that are essential to prevent the abuse of power and protect fundamental rights and civil liberties.\nTo those who believe stability can be achieved by ousting an elected provincial government, concentrating power and discarding democratic freedoms, Pakistan’s history stands testimony to how disastrous that path has been for the country and its people.\nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, October 12th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2024-STAB",
-      "paper": "Pakistan Affairs",
-      "year": 2024,
-      "question": "Political stability remains an elusive concept in Pakistan. Explore the factors contributing to the fractured nature of Pakistan's polity and discuss potential reforms..."
-    },
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Pakistan Affairs",
-    "topic": "Political Instability and Democratic Regression in Pakistan",
-    "whyMatters": "This article directly addresses the factors contributing to Pakistan's fractured polity, making it highly relevant for answering questions on political stability. It provides contemporary examples and analytical arguments critical for a nuanced exam response.",
-    "summary": [
-      "Political stability in Pakistan remains elusive due to escalating confrontation between government and opposition, characterized by coercive tactics and inflammatory rhetoric.",
-      "The country is experiencing a deepening authoritarianism, evidenced by suppression of dissent, undermining of democratic institutions, and erosion of judicial independence, marking a democratic decline.",
-      "The article argues that coercive measures, while often presented as a means to achieve stability, instead deepen polarization, erode the social contract, and inflict severe economic costs.",
-      "Genuine political stability requires a fundamental reset towards mutual accommodation, inclusive governance by consensus, a commitment to the rule of law, and the strengthening of democratic institutions."
-    ],
-    "facts": [
-      "The federal government threatened to oust the KP government through the imposition of governor’s rule and emergency.",
-      "Reported abductions and incommunicado detention of over eight PTI MPs, including three members of the National Assembly.",
-      "Recent surveys (Gallup, Ipsos) show declining public confidence in economic conditions and pessimism about the country’s economic future."
-    ],
-    "academicReferences": [
-      "Ayesha Jalal, \"The Struggle for Pakistan: A Muslim Homeland and Global Politics\" (For historical context of political instability)",
-      "18th Amendment to the Constitution of Pakistan (For discussions on federalism, provincial autonomy, and democratic decentralization)",
-      "Charter of Democracy (2006) (As a benchmark for inter-party consensus and democratic norms)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Elusive",
-        "type": "adjective",
-        "definition": "Difficult to find, catch, or achieve.",
-        "sentence": "The concept of lasting peace in the region proved to be an elusive goal for diplomats."
-      },
-      {
-        "word": "Recriminations",
-        "type": "noun",
-        "definition": "Accusations in response to accusations from someone else.",
-        "sentence": "After the failed negotiations, the meeting dissolved into a series of bitter recriminations between the two parties."
-      },
-      {
-        "word": "Egregious",
-        "type": "adjective",
-        "definition": "Outstandingly bad; shocking.",
-        "sentence": "The politician's egregious disregard for court orders further damaged public trust in the justice system."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary consequence of using coercive measures to achieve political stability?",
-        "options": [
-          "It deepens polarization and erodes the social contract.",
-          "It strengthens democratic institutions and accountability.",
-          "It attracts foreign investment by ensuring calm.",
-          "It leads to a lasting modus vivendi between parties."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that coercion 'deepens polarisation, erodes the social contract, divides the country further, and fuels uncertainty,' making it a recipe for instability, not stability."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the author argue that coercive measures do not produce political stability?",
-        "back": "The author contends that coercion deepens polarization, erodes the social contract, divides the country, and fuels uncertainty, leading to instability rather than stability."
-      },
-      {
-        "front": "What specific actions are cited in the article as indicators of democratic decline and authoritarianism?",
-        "back": "Actions include banning public gatherings, breaking up protest demonstrations, arresting opposition supporters, raiding homes of political leaders, filing cases, policing media, imposing internet restrictions, criminalizing free speech, and undermining judicial independence."
-      },
-      {
-        "front": "According to the article, what is essential for building genuine political stability?",
-        "back": "Genuine political stability requires a reset towards a peaceful environment, mutual accommodation between government and opposition, genuine dialogue, inclusive governance by consensus, and the strengthening of institutions where the rule of law prevails."
-      },
-      {
-        "front": "How does the article connect political instability with economic challenges?",
-        "back": "The article states that relentless political tensions lead to frequent shutdowns, blockades, and a vitiated business climate, deterring jittery investors, hindering economic recovery, and contributing to declining public confidence in economic conditions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791774083057-434",
-    "title": "A theorist of crisis\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036563/a-theorist-of-crisis",
-    "date": "2026-10-12",
-    "author": "none@none.com (Umair Javed)",
-    "content": "BORN in Karachi in 1945, Anwar Shaikh, a giant of Marxian economics and professor at The New School in New York, passed away last week. His father served in the Foreign Service as a result of which his family moved around frequently, through Malaysia, Canada, Kuwait, and finally the US. It was in Kuwait, he would later say in a biographical note from 2016, that economics first claimed him: standing amid the gleaming infrastructure of an oil economy, he could not reconcile the scale of wealth with the poverty of those who produced it. The obvious question was why. He spent the next half-century building an answer to this and its related questions.\nI came to Shaikh’s work first through an undergraduate class: Aasim Sajjad Akhtar’s Political Economy of Development and Underdevelopment course, which featured Shaikh’s short four-page elaboration of Marx’s theory of exploitation published in a 1990 reader on Marxian economics compiled by Eatwell, Milgate, and Newman. It was only later on, after having joined academia myself, that I picked up a more sustained interest in his political economy contributions. Many of these were based on the workings of the advanced capitalist world, but to me it felt possible — via a universalist understanding of the capital-labour relation that characterises our shared modernity — that one could recover a broader insight and logic extendable to other contexts as well.\nHis magnum opus, Capitalism: Competition, Conflict, Crises, published by Oxford in 2016 after nearly 20 years of writing, is not an easy book. It runs into nearly 1,000 pages and I have only been able to digest parts of it, a process aided greatly (and almost singularly) by his video lectures on YouTube. However, its central propositions are clear enough to state plainly — capitalism is driven by the pursuit of profit as a structural consideration. Firms invest, hire, fire, pollute, underpay, and cut corners not out of some moral imperative or ethical inadequacies, but because competition demands it.\nCompetition, Shaikh insisted, is quite unlike the “decorous ballet” of textbook economics. It is a war, fought with prices, wages, lobbying, disinformation, and whatever else gives one firm an edge over another. In this universe, marked as it is by war, it’s a bit difficult to model markets as tending towards equilibrium (as orthodoxy usually claims). Shaikh, instead, argued that rather than any form of stasis, capitalism fluctuates, overshoots, crashes, recovers, and overshoots again.\nWhat is worth celebrating in Anwar Shaikh’s work is his insistence that economics is never neutral.\nMainstream accounts tend to view these as ‘failures’ (of regulation or rationality). Someone like Shaikh, on the other hand, would see these as systemic features of a mode of production built on separating the producers of value from the means of production.\nHis writings on so-called externalities generated by this systemic feature of competition are worth dwelling on, given the cost-of-living and ecological crises plaguing the planet. Orthodox economics treats pollution, low wages, and dangerous working conditions as costs that firms impose on society from outside the market, ie, as unfortunate side effects, correctable with the right regulations.\nShaikh went as far as calling this view of externality a conceptual fraud. Rather than by accident, a firm pollutes because the alternative — investing in cleaner production — costs money that would otherwise be profit. The extraction and pollution are thus internal to how profit works. The same point has also been made at a more philosophical level by theorist Alysa Battistoni, who argues how nature is classified as a “free gift” under capitalism, ie, as something that does not carry with it the moral force of reciprocity or care (unlike a real gift).\nBeyond the intricate debates with the mainstream, what is worth celebrating in Shaikh’s work is his insistence that economics is never neutral. In his own words, he asserted that “there is no such thing as a value-free or socially neutral economics”. Every model encodes assumptions about how society works and who it works for. The amnesty schemes, the short-lived consumption-led booms, the stabilisation programmes that periodically arrive with the IMF, the growth targets announced at press conferences, the optimistic narratives about investor confidence and trickle-down are all consequences of choices made in a particular direction and for particular interests.\nShaikh spent his career mapping those choices with a view to uncovering their systemic root in the unceasing motivation for profit. By implication, he ends up showing how reformist ‘tinkering’ that seeks to curtail externalities and fallouts is ultimately futile, and how a far more fundamental overhaul is required.\nShaikh was educated partly at St Patrick’s in Karachi, before finishing his schooling in New York, his undergraduate at Princeton, his doctoral studies at Columbia, and a long career of teaching and research at the New School for Social Research in New York. During that time, he was always on the heterodox edge of the discipline, and concerned with abstract theory, which explains why his work never found the same recognition in a society that otherwise rushes to embrace high-achievers with even the most ephemeral of connections to Pakistan.\nHowever, that biography — from Karachi to a position of heterodox criticality in American academic life — carries a relevant resonance right now. In the face of geopolitical and economic reordering, the questions of whose economics we use, the viability of its long-held orthodoxies, and what they are actually deployed for, matter more urgently in Pakistan and the world at large than at any point in the recent past. It is then truly unfortunate that we have lost one of the clearest thinkers available on such questions.\nThe writer teaches politics and sociology at Lums.\nX: @umairjav\nPublished in Dawn, October 12th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 75,
-    "paper": "Economics / Political Science / Current Affairs / Essay",
-    "topic": "Marxian Political Economy and Systemic Crises of Capitalism",
-    "whyMatters": "This article provides a critical, heterodox perspective on capitalism, explaining economic 'failures' as systemic features. It offers strong arguments to analyze contemporary issues like the cost-of-living crisis and ecological crises, valuable for essays and analytical questions.",
-    "summary": [
-      "Capitalism is structurally driven by the pursuit of profit, with competition viewed as a 'war' fought with various tactics, rather than a 'decorous ballet' tending towards equilibrium.",
-      "Economic fluctuations, including overshoots, crashes, and recoveries, are inherent systemic features of capitalism, not mere market 'failures' or anomalies.",
-      "Concepts like pollution, low wages, and dangerous working conditions are not 'externalities' but are internal to the profit-making mechanism, making the 'externality' view a 'conceptual fraud'.",
-      "Economics is never neutral; all economic models and policies inherently encode assumptions about societal workings and serve particular interests, implying that fundamental overhauls, not just reformist 'tinkering', are necessary."
-    ],
-    "facts": [
-      "Anwar Shaikh (1945-2026), a Marxian economist, was a professor at The New School in New York, and had roots in Karachi.",
-      "His magnum opus, \"Capitalism: Competition, Conflict, Crises,\" published in 2016, is a nearly 1,000-page work.",
-      "Shaikh was educated at St Patrick’s in Karachi, Princeton, and Columbia, maintaining a heterodox position throughout his academic career."
-    ],
-    "academicReferences": [
-      "Shaikh, Anwar. 'Capitalism: Competition, Conflict, Crises.' Oxford University Press, 2016.",
-      "Marx, Karl. 'Das Kapital.' (Foundational text for Marxian economics, relevant for understanding exploitation and capital-labour relations).",
-      "Eatwell, J., Milgate, M., & Newman, P. (Eds.). 'The New Palgrave: Marxian Economics.' W. W. Norton, 1990. (As cited in the article for Shaikh's short elaboration)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Heterodox",
-        "type": "adjective",
-        "definition": "Not conforming to accepted doctrines or opinions, especially in theology, philosophy, or economics.",
-        "sentence": "Anwar Shaikh was always on the heterodox edge of the discipline, challenging mainstream economic theories."
-      },
-      {
-        "word": "Magnum opus",
-        "type": "noun",
-        "definition": "A large, important, and influential work of art, literature, or music, especially one that is the greatest achievement of an artist or writer.",
-        "sentence": "His magnum opus, 'Capitalism: Competition, Conflict, Crises,' represented the culmination of nearly two decades of his research."
-      },
-      {
-        "word": "Reciprocity",
-        "type": "noun",
-        "definition": "The practice of exchanging things with others for mutual benefit; a state of mutual dependence or action.",
-        "sentence": "The theorist Alysa Battistoni argues that nature under capitalism lacks the moral force of reciprocity or care, being treated as a 'free gift'."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to Anwar Shaikh, what is the primary structural consideration driving capitalism?",
-        "options": [
-          "Moral imperatives of firms",
-          "Ethical inadequacies of corporations",
-          "The pursuit of profit",
-          "The tendency towards market equilibrium"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'its central propositions are clear enough to state plainly — capitalism is driven by the pursuit of profit as a structural consideration.'"
-      },
-      {
-        "question": "How does Shaikh characterize competition within capitalism?",
-        "options": [
-          "A 'decorous ballet' of textbook economics",
-          "A war fought with prices, wages, lobbying, and disinformation",
-          "A neutral force that ensures efficiency and fairness",
-          "A system that inherently trends towards stability and stasis"
-        ],
-        "answerIndex": 1,
-        "explanation": "Shaikh insisted that competition is 'quite unlike the “decorous ballet” of textbook economics. It is a war, fought with prices, wages, lobbying, disinformation, and whatever else gives one firm an edge over another.'"
-      },
-      {
-        "question": "Anwar Shaikh referred to the orthodox view of 'externality' (e.g., pollution) as a 'conceptual fraud' because he believed:",
-        "options": [
-          "Pollution is always an accidental byproduct of production",
-          "These costs are imposed on society from outside the market",
-          "Extraction and pollution are internal to how profit works",
-          "Regulations are sufficient to correct these issues effectively"
-        ],
-        "answerIndex": 2,
-        "explanation": "Shaikh argued that 'a firm pollutes because the alternative — investing in cleaner production — costs money that would otherwise be profit. The extraction and pollution are thus internal to how profit works.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is Anwar Shaikh's fundamental critique of how mainstream economics views market competition?",
-        "back": "Shaikh views competition not as a 'decorous ballet' leading to equilibrium but as a 'war' driven by firms seeking an edge, leading to systemic fluctuations and crises, not stasis."
-      },
-      {
-        "front": "How does Anwar Shaikh's perspective on 'externalities' like pollution differ from orthodox economics?",
-        "back": "He considers the orthodox view a 'conceptual fraud,' arguing that pollution and other social costs are not external 'failures' but are internal and inherent to capitalism's profit-making mechanism."
-      },
-      {
-        "front": "What is Anwar Shaikh's core assertion about the nature of economics itself?",
-        "back": "Shaikh insists that economics is never neutral; every model and policy inherently encodes assumptions about how society works and serves specific interests, rather than being value-free."
-      },
-      {
-        "front": "What is the implication of Shaikh's analysis for policy interventions aimed at societal problems like the cost-of-living or ecological crises?",
-        "back": "His work implies that reformist 'tinkering' to curtail externalities and fallouts is ultimately futile, suggesting that a more fundamental overhaul is required due to the systemic root of these issues in the unceasing motivation for profit."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791865189798-22",
-    "title": "The pushed river\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036301/the-pushed-river",
-    "date": "2026-10-11",
-    "author": "none@none.com (Mushtaq Gaadi)",
-    "content": "THE Indus River is moving east in central Pakistan. Along an 85-kilometre stretch from upstream of Layyah city down to Taunsa Barrage, it is pressing hard against its eastern bank.\nIn this year’s flood season, it destroyed Basti Kanjal, a riverine settlement of more than 500 houses some 15km northwest of Layyah. It did not stop there, washing away several more settlements. Since June, close to 5,000 acres of cultivated land have been lost; according to news reports, 100,000 people have been displaced. A close analysis of 38 years of satellite imagery shows that the river is not wandering. It is being pushed.\nAsk any elder in the riverside villages of Churkin or Basira which face the Vehowa hill torrent’s mouth 30km upstream of Layyah about the river of his childhood, and he will tell you the Indus was 10 miles (16km) wide. He will also tell you that the river gave as much as it took: land drowned on one bank surfaced on the other, and the patwari’s records followed the water back and forth. The satellites agree with him on the width. Between 1988 and 1997, the active belt below Churkin measured 16km to 18km, and above Taunsa Barrage nearly 24km. Today, it is reduced to a third. A river squeezed into a narrow gut runs deeper and faster, and expends its vigour on eroding vulnerable banks.\nThree engineering structures, built with public money and international loans, have together hemmed in the river on three sides. The first of these is the Chashma Right Bank Canal, financed by the Asian Development Bank. The canal runs through the Suleiman hill torrents. These are no small streams: the Vehowa alone drains a catchment of over 2,600 square kilometres and has recorded flood peaks above 35,000 cusecs. Before the canal, such floods spread across the Daman plain under the old rod-kohi system, watering the land and dropping their silt on the way. After 2003, the canal’s 68 cross-drainage structures began delivering every flood, with its full load of mountain sediment, to fixed points on the river’s right bank. Between 2011 and 2016, two great fans of new land rose out of the riverbed — one at the Vehowa’s mouth opposite Layyah, and one at the mouth of the Sanghar torrent near Taunsa city. Together, they hold some 37sq km of new permanent land, a metre and more above the old riverbed, and about 100 million cubic metres of sediment. Where the trained torrents deliver their load, walls have risen; in the intervening stretches, the river’s western edge hasn’t moved in 38 years. The canal itself has been closed since the 2022 floods, but its silt walls remain standing in the river.\nA close analysis of 38 years of satellite imagery shows that the Indus is not wandering. It is being pushed.\nThe second factor is Taunsa Barrage. Built in 1958 to pass a million cusecs, its capacity fell by half within five decades as sediment accumulated. A wedge of silt today stands nearly 2m high near the pond and stretches 40km upstream, flattening the river’s slope and promoting further deposition. The World Bank’s 2005-08 rehabilitation project raised the crest and built a secondary weir downstream. But the embankments were never raised proportionately. Local communities protested and wrote to the Bank that the remodelling ignored the sedimentation, causing flood protection for structures to fail. In 2010, a flood peak of 960,000 cusecs breached the eastern marginal embankment upstream, allowing the river to outflank the structure and carve a new channel. Their warning proved correct.\nThe third factor relates to the embankments. The marginal ones along the left bank, running some 40km from Daira Din Pannah up towards Layyah, froze the river’s eastern edge decades ago, and the floodplain strip between the river and bund has since been almost entirely converted into farms and settlements. In the 1990s, the river still reclaimed that strip in every high flood; today, 95 per cent of it has turned into permanent land. Meanwhile, the restricted riverbed is level with the protected villages outside — all that protects them now is the crest of an earthen bund.\nThis is the fuller picture of the narrative that those affected recounted outside the Layyah Press Club this September, as they blamed two decades of Chashma Canal silt for their plight: sediment walls advancing from the west, a wedge of silt backed up behind the barrage, and, on the east, the embankments holding the door shut. A river so enclosed has nowhere to go but against the weakest point. In 2010, the weakest point was the marginal bund above Taunsa; in 2026, it was the training works at the Layyah bridge. The river has now cut to within 200m of the Lala, its old channel passing along the western edge of Layyah city. The city’s protection bund stops 3.5km short of that point.\nWhat happens if the river completes its eastward shift? The low floodplain east of the river holds hundreds of villages built on the assumption that the river would keep to its corridor. A river breaching the Lala line would place Layyah on the front line, and behind it Jaman Shah, Kot Sultan, and Paharpur. An eastward-shifted Indus would progressively outflank Taunsa Barrage itself. A barrage commands only the water that arrives at its gates; the canals of Dera Ghazi Khan and Muzaffargarh, irrigating millions of acres, depend on that command. The river would leave the barrage presiding over a dying channel.\n    \nThe communities of this region warned both lending institutions years ago, the ADB over the canal and the World Bank over the barrage, through formal complaints, inspection claims, and hunger strikes. I was among those who warned. I remember how patiently they were heard and how completely they were ignored. Both institutions noted lessons and closed their files. The river has now reopened them, writing its supplement in drowned villages and 5,000 acres of lost land. Reconstruction without the benefit of an honest analysis of these structural challenges would be tantamount to allowing a similar situation, or even worse, in the future. The analysis now exists, measured from orbit and verifiable by anyone. What remains is whether anyone with authority is willing to read it.\nThe writer is a native of Taunsa and teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, October 11th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Pakistan Affairs / Environmental Science / Geography",
-    "topic": "River Management, Flooding, and Infrastructure Impact in Pakistan",
-    "whyMatters": "This article offers a critical case study of how large-scale infrastructure projects, when poorly planned or maintained, can exacerbate environmental disasters and displace communities. It's crucial for understanding the complex interplay of development, climate change, and governance failures in Pakistan.",
-    "summary": [
-      "The Indus River, along an 85-kilometre stretch, is being 'pushed' eastwards, causing significant erosion, land loss (5,000 acres), and displacement (100,000 people), rather than wandering naturally.",
-      "Three main engineering structures built with public money and international loans – the Chashma Right Bank Canal, Taunsa Barrage, and marginal embankments – have collectively hemmed in the river, reducing its active width and altering sediment dynamics.",
-      "The Chashma Right Bank Canal's cross-drainage structures funnel mountain sediment to fixed points, creating new land (37 sq km) on the western bank, effectively pushing the main channel eastward. Taunsa Barrage's capacity has halved due to massive silt accumulation, flattening the river's slope upstream and promoting further deposition.",
-      "Warnings from local communities and experts regarding design flaws, sedimentation, and flood protection failures were ignored by lending institutions (ADB, World Bank) and authorities, leading to predictable breaches and continued disasters.",
-      "If the eastward shift continues, it threatens cities like Layyah, Jaman Shah, Kot Sultan, and Paharpur, and could outflank Taunsa Barrage, jeopardizing irrigation for millions of acres dependent on its command."
-    ],
-    "facts": [
-      "Close to 5,000 acres of cultivated land lost and 100,000 people displaced since June due to the Indus River's eastward shift.",
-      "The Indus River's active belt, once 16-24km wide, is now reduced to a third, making it run deeper and faster.",
-      "Taunsa Barrage's capacity to pass water fell by half within five decades due to sediment accumulation, creating a silt wedge nearly 2m high and stretching 40km upstream.",
-      "The Chashma Right Bank Canal's trained torrents have created 37 square kilometres of new permanent land at torrent mouths, composed of approximately 100 million cubic metres of sediment."
-    ],
-    "academicReferences": [
-      "Pakistan's National Climate Change Policy (2012) and National Flood Protection Plan (e.g., NFPP-IV)",
-      "Reports from the Intergovernmental Panel on Climate Change (IPCC) on Water Resources and Extreme Events",
-      "World Bank and Asian Development Bank's Environmental and Social Safeguard Policies and Independent Evaluation Reports"
-    ],
-    "vocabulary": [
-      {
-        "word": "Hemmed in",
-        "type": "verb phrase",
-        "definition": "To surround or confine someone or something in a way that restricts movement.",
-        "sentence": "The river was 'hemmed in' by engineering structures on three sides, forcing it into a narrower channel."
-      },
-      {
-        "word": "Patwari",
-        "type": "noun",
-        "definition": "A land record officer at the village or sub-district level in South Asia, responsible for maintaining records of land ownership and cultivation.",
-        "sentence": "The elder recalled how the 'patwari's' records used to follow the changing river banks."
-      },
-      {
-        "word": "Rod-kohi system",
-        "type": "noun",
-        "definition": "An indigenous or traditional flood-based irrigation system common in arid regions where hill torrents are harnessed to water agricultural land.",
-        "sentence": "Before the canal, floods spread across the Daman plain under the old 'rod-kohi system', naturally watering the land."
-      },
-      {
-        "word": "Outflank",
-        "type": "verb",
-        "definition": "To bypass or go around the side of something, typically in a strategic or military context; here, to bypass a structure.",
-        "sentence": "An eastward-shifted Indus would progressively 'outflank' Taunsa Barrage itself, rendering it ineffective."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT cited as a primary engineering structure contributing to the Indus River's eastward shift?",
-        "options": [
-          "Chashma Right Bank Canal",
-          "Mangla Dam",
-          "Taunsa Barrage",
-          "Marginal embankments"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly mentions the Chashma Right Bank Canal, Taunsa Barrage, and marginal embankments as the three engineering structures. Mangla Dam is not mentioned in this context."
-      },
-      {
-        "question": "What was the primary impact of the Chashma Right Bank Canal's cross-drainage structures on the river?",
-        "options": [
-          "It increased the river's overall width.",
-          "It decreased sediment load in the river.",
-          "It delivered mountain sediment to fixed points, creating new land and pushing the river east.",
-          "It significantly reduced flood peaks downstream."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that the canal's 68 cross-drainage structures began delivering every flood, with its full load of mountain sediment, to fixed points on the river’s right bank, leading to the rise of new land and pushing the river."
-      },
-      {
-        "question": "According to the article, what was the consequence of the local communities' warnings about the Taunsa Barrage's rehabilitation project?",
-        "options": [
-          "The project design was immediately revised to address sedimentation.",
-          "The World Bank halted funding for the project.",
-          "Their warnings were heard patiently but completely ignored, leading to a breach in 2010.",
-          "Local communities were compensated for potential future damages."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'I remember how patiently they were heard and how completely they were ignored. Both institutions noted lessons and closed their files.' This led to the 2010 flood breaching the eastern marginal embankment."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How has the Chashma Right Bank Canal contributed to the Indus River's eastward shift?",
-        "back": "The canal's 68 cross-drainage structures deliver full loads of mountain sediment to fixed points on the river's right bank, forming large fans of new land (e.g., 37 sq km) and effectively pushing the active river channel eastward."
-      },
-      {
-        "front": "What critical design flaw and consequence are highlighted regarding the Taunsa Barrage?",
-        "back": "The Taunsa Barrage's capacity fell by half due to massive sediment accumulation, creating a 40km-long silt wedge upstream. The 2005-08 rehabilitation ignored this sedimentation, leading to a breach of the eastern embankment in 2010 when the river outflanked the structure."
-      },
-      {
-        "front": "What role have marginal embankments played in the changing course of the Indus River?",
-        "back": "Marginal embankments along the left bank froze the river's eastern edge decades ago. The floodplain strip between the river and bund, which the river once reclaimed in high floods, has largely been converted into permanent farms and settlements, leaving the river with nowhere to go but against the weakest point."
-      },
-      {
-        "front": "What broader governance issue does the article highlight regarding infrastructure projects and environmental impact?",
-        "back": "The article highlights the systematic ignoring of warnings from local communities and experts by authorities and international lending institutions (ADB, World Bank), leading to predictable environmental disasters and social displacement, without accountability or honest analysis."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791773757198-898",
-    "title": "Smaller provinces?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036299/smaller-provinces",
-    "date": "2026-10-11",
-    "author": "none@none.com (Aizaz Ahmad Chaudhry)",
-    "content": "AN intense debate on the need for smaller provinces has gripped the country. Is it a vote of no confidence in the current system, or the search for better governance? Let the facts speak. The UN’s Human Development Index places Pakistan in the low category, with persistent deprivation in health, education, and living standards. Over 88 million Pakistani citizens have no formal education. The infant mortality rate is 48 deaths per 1,000 live births against a global average of 18. Half the population lacks internet access. The current system may benefit some, but certainly not the majority of Pakistan’s 240m people. From this perspective, the current system of governance needs an overhaul. Pakistanis deserve good governance whether through smaller provinces or administrative units, or empowered local governments (LGs). The objective is to ensure public resources are used fairly, transparently, and in an accountable manner, and devolved to the lowest level of governance.\nDefenders of the present system argue that the smaller provinces should only be created in accordance with constitutional provisions. This demand is valid. However, a question arises: why aren’t the provinces following another clear injunction of the same Constitution, ie, Article 140A, which directs them to set up empowered LG systems and devolve financial, political, and administrative authority for local development and services? If the provinces had strengthened grassroots democracy in the spirit of the Constitution, this debate would not have been necessary.\nStatus quo proponents claim to be the defenders of democracy, which is defined as a system of governance where power rests with the people, who exercise it through their elected representatives. If so, why aren’t provincial governments holding regular elections to establish LGs? Provincial finance commissions do not meet regularly. Instead, administrative authorities led by bureaucrats have been given LG functions. The current system lets provincial governments concentrate wealth in their own hands and keep it from reaching the grassroots, which runs counter to the essence of democracy.\nThe present system seems to be a victim of elite capture.\nThe present system seems to be a victim of elite capture, while ordinary folk suffer. The 18th Amendment devolved resources to the provinces, which refused to devolve them further to districts and tehsils. As a result, the quality of life for ordinary people in the far reaches of the provinces has not improved. The spirit of the 18th Amendment thus stands defeated. Provincial governments prefer megaprojects that devour resources at the expense of basic needs in the peripheries. MNAs and MPAs collect development funds to create their own patronage networks. This is not citizen-centric governance; it is elite capture.\nIt follows from all this that governance can improve only if the provinces or administrative units are manageable in size, and empowered LGs are made an integral part of the governance system. This is exactly the case in many well-governed countries. Italy has 110 provinces or administrative units that manage a population of 58.9m. So, the average population that each unit has to administer is a little over half a million. Japan has 47 prefectures, each of which administers an average of 2.6m people. The Netherlands has 12 provinces for a population of only 18m. Germany has 16 states or provinces to manage 83.5m people. Governance in all these countries is better because each citizen gets what he or she needs — right at the lowest level of administration.\nPakistanis rig- htly expect participatory governance mechanisms, with legal frameworks that apply fairly to all citizens. It is time Pakistan created reasonably sized administrative units through the appropriate constitutional amendment, preferably with consensus. Each unit should have an empowered LG that manages police, public safety infrastructure, water, sanitation, waste management, fire protection, education, parks, and libraries.\nSeveral recommendations merit consideration. One, whenever parliament debates this issue, it must look more deeply into the political, constitutional, economic, and administrative aspects. Two, Article 140A of the Constitution should be amended to prohibit the arbitrary dissolution of LGs, ensure regular elections, guarantee fiscal devolution, and standardise LG functions and tenure in all the provinces. Three, Article 7 should explicitly include LGs as a separate tier in the overall state structure, with a share in the divisible pool of federal taxes. Four, MNAs’/ MPAs’ development funds should be reduced, but their power to oversee development work can be enhanced. \nThe writer is a former foreign secretary. He currently serves as chairman of the Sanober Institute.\nPublished in Dawn, October 11th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-GOV",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Numerous political systems - Parliamentary as well as Presidential, have been in vogue in Pakistan with limited success. Draft your own proposed but practical system that would result in good governance of the country."
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Decentralization, Local Governance, and Administrative Reforms for Good Governance in Pakistan",
-    "whyMatters": "This article directly addresses the failures of Pakistan's existing governance system and proposes concrete, practical reforms. It provides a robust framework and constitutional arguments for a student to 'draft their own proposed system' for good governance, making it highly relevant for the specified exam question.",
-    "summary": [
-      "Pakistan's current governance system, marked by the failure to implement Article 140A and widespread elite capture, has resulted in persistent deprivation, poor human development indicators, and inadequate public resource allocation.",
-      "The demand for smaller provinces or administrative units, or empowered local governments (LGs), is a direct response to the existing system's inability to ensure fair, transparent, and accountable resource devolution to the grassroots.",
-      "The 18th Amendment, while devolving resources to provinces, paradoxically led to elite capture by provincial governments who refused to further devolve funds to districts, thus defeating the amendment's spirit of improving life for ordinary citizens.",
-      "Good governance, as demonstrated by well-governed countries, requires manageable administrative units and constitutionally mandated, empowered LGs that manage essential services and have a guaranteed share in federal taxes, with specific amendments proposed for Articles 140A and 7."
-    ],
-    "facts": [
-      "Over 88 million Pakistani citizens lack formal education, contributing to Pakistan's 'low category' ranking in the UN's Human Development Index.",
-      "Pakistan's infant mortality rate is 48 deaths per 1,000 live births, significantly higher than the global average of 18.",
-      "Italy, with a population of 58.9 million, utilizes 110 administrative units, meaning each unit manages a little over half a million people, enabling more localized governance."
-    ],
-    "academicReferences": [
-      "The Constitution of Pakistan, 1973 (particularly Articles 140A and 7)",
-      "The 18th Amendment to the Constitution of Pakistan (2010)",
-      "United Nations Human Development Index (UN HDI)"
-    ],
-    "vocabulary": [
-      {
-        "word": "injunction",
-        "type": "noun",
-        "definition": "an authoritative warning or order",
-        "sentence": "The article highlights that provinces are failing to follow the constitutional injunction of Article 140A regarding local government empowerment."
-      },
-      {
-        "word": "devolution",
-        "type": "noun",
-        "definition": "the transfer or delegation of power to a lower level, especially from central government to local or regional administration.",
-        "sentence": "The 18th Amendment aimed for fiscal devolution to provinces, but the article argues it did not translate into devolution to the grassroots."
-      },
-      {
-        "word": "elite capture",
-        "type": "noun",
-        "definition": "a situation where influential groups or individuals disproportionately benefit from public resources or policies, often at the expense of the wider population.",
-        "sentence": "The author contends that the current system is a victim of elite capture, where provincial governments concentrate wealth and power."
-      },
-      {
-        "word": "patronage networks",
-        "type": "noun",
-        "definition": "a system in which individuals or groups use their position or influence to grant favors, jobs, or funds in exchange for political support or loyalty.",
-        "sentence": "MNAs and MPAs collecting development funds to create their own patronage networks undermines citizen-centric governance."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary reason the debate for smaller provinces or empowered LGs has intensified in Pakistan?",
-        "options": [
-          "Provincial governments' failure to implement Article 140A.",
-          "Increased foreign aid requiring new administrative structures.",
-          "A sudden surge in population growth in major cities.",
-          "Lack of interest from citizens in local development."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the debate would not have been necessary if provinces had strengthened grassroots democracy in the spirit of Article 140A."
-      },
-      {
-        "question": "What negative consequence does the article attribute to the provincial governments' handling of resources after the 18th Amendment?",
-        "options": [
-          "A significant increase in national defense spending.",
-          "The defeat of the spirit of the 18th Amendment due to elite capture.",
-          "Successful implementation of all megaprojects across the country.",
-          "Improved quality of life for ordinary people in the peripheries."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states that provinces refused to devolve resources further to districts and tehsils, resulting in elite capture and defeating the spirit of the 18th Amendment."
-      },
-      {
-        "question": "Which of the following is NOT one of the constitutional recommendations made in the article to improve governance?",
-        "options": [
-          "Amending Article 140A to prohibit arbitrary dissolution of LGs.",
-          "Explicitly including LGs as a separate tier in Article 7 with a share in federal taxes.",
-          "Increasing MNAs'/MPAs' development funds while enhancing their oversight power.",
-          "Creating reasonably sized administrative units through appropriate constitutional amendments."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article recommends that 'MNAs’/MPAs’ development funds should be reduced,' not increased, while their power to oversee development work can be enhanced."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why is the current system of governance in Pakistan considered a 'vote of no confidence' or a 'search for better governance'?",
-        "back": "The current system has resulted in persistent deprivation, low human development indicators (e.g., 88 million without education, high infant mortality), and a failure to deliver basic services to the majority of Pakistan's 240 million people, necessitating an overhaul."
-      },
-      {
-        "front": "How does the article link the non-implementation of Article 140A to the broader governance issues in Pakistan?",
-        "back": "The article argues that provincial governments, while demanding constitutional adherence for smaller provinces, neglect Article 140A's clear injunction to establish empowered local governments (LGs), thereby concentrating wealth and power and preventing grassroots democracy."
-      },
-      {
-        "front": "What does the author suggest as the key difference between Pakistan's governance model and those of well-governed countries like Italy or Japan?",
-        "back": "Well-governed countries utilize manageable-sized administrative units (e.g., Italy's 110 provinces for 58.9m people) and empowered local governments to ensure citizens receive necessary services at the lowest administrative level, a contrast to Pakistan's centralized provincial control."
-      },
-      {
-        "front": "What specific constitutional recommendation does the article propose to ensure fiscal devolution to local governments?",
-        "back": "The article recommends amending Article 7 to explicitly include Local Governments (LGs) as a separate tier in the state structure, granting them a guaranteed share in the divisible pool of federal taxes."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791773914374-519",
-    "title": "Poverty’s long shadow\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036296/povertys-long-shadow",
-    "date": "2026-10-11",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S contribution to rising poverty across the Middle East, North Africa and the Afghanistan-Pakistan region is troubling.\nAccording to the World Bank, the country accounts for nearly half of the region’s people living in extreme poverty. Ours is a story of repeated hardship. Millions of Pakistanis have endured the pandemic, deadly floods, soaring inflation, and years of economic uncertainty, often with little opportunity to recover before the next crisis arrives. For a poor household, each setback leaves lasting damage. Families may exhaust their savings, sell livestock, borrow money to buy food, or withdraw children from school to save expenses.\n    \nEven when prices stabilise and incomes improve, the losses are not easily reversed. A farmer who has sold his animals or a small trader who has closed his business cannot simply resume earning a livelihood. This helps explain why poverty can continue to rise even as the wider economy shows signs of recovery. The damage caused by successive crises has accumulated, leaving vulnerable families with fewer resources to withstand another blow.\nFresh dangers are emerging. The World Bank has warned that the conflict involving Iran could push up fuel and commodity prices, weaken remittances and increase borrowing costs. Adverse weather could also drive up food prices and hurt agricultural livelihoods. For households still struggling with the effects of earlier shocks, another spell of inflation could prove devastating. The government must, therefore, go beyond providing relief after disaster strikes. It needs to identify families at greatest risk, strengthen early-warning and disaster-response systems, protect farming livelihoods and ensure that financial help reaches vulnerable households before they are forced into desperate choices. Keeping children in school and preventing families from losing their means of earning a living must also be priorities. Poverty reduction cannot succeed if every new crisis pushes people back into hardship. Pakistan must protect the fragile gains its poorest citizens manage to make.\nPublished in Dawn, October 11th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Current Affairs",
-    "topic": "Poverty and Economic Vulnerability in Pakistan",
-    "whyMatters": "This article is crucial for understanding Pakistan's severe economic vulnerabilities and the persistent challenge of poverty, which are recurring themes in competitive exams on Pakistan's internal affairs and economic development. However, it does not directly address the specific past exam question about Pakistan's role in the Economic Cooperation Organization (ECO) or regional integration under ECO, but rather provides context on national economic stability.",
-    "summary": [
-      "Pakistan is a major contributor to rising poverty in the Middle East, North Africa, and Afghanistan-Pakistan region, accounting for nearly half of the region's extreme poor.",
-      "Millions of Pakistanis face repeated hardships from crises like pandemics, floods, inflation, and economic uncertainty, leading to lasting damage to households.",
-      "The cumulative damage from successive crises makes recovery difficult, even when the wider economy improves, as families lose livelihoods and exhaust resources.",
-      "New dangers like regional conflicts and adverse weather threaten to worsen poverty, necessitating proactive government policies beyond post-disaster relief."
-    ],
-    "facts": [
-      "Pakistan accounts for nearly half of the Middle East, North Africa, and Afghanistan-Pakistan region's people living in extreme poverty (World Bank data).",
-      "The World Bank warns that potential conflict involving Iran could push up fuel and commodity prices, weaken remittances, and increase borrowing costs.",
-      "Adverse weather conditions are identified as a risk that could drive up food prices and harm agricultural livelihoods."
-    ],
-    "academicReferences": [
-      "World Bank: 'Poverty and Shared Prosperity' Reports (annual series focusing on global and regional poverty trends).",
-      "International Monetary Fund (IMF): 'Pakistan: Staff Report for the Article IV Consultation' (regularly assesses Pakistan's economic health and challenges).",
-      "United Nations Development Programme (UNDP): 'Human Development Report' (provides indices and analysis on poverty, health, and education)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Accumulated",
-        "type": "verb",
-        "definition": "gathered or collected a large amount of something over a period of time.",
-        "sentence": "The damage caused by successive crises has accumulated, leaving vulnerable families with fewer resources."
-      },
-      {
-        "word": "Devastating",
-        "type": "adjective",
-        "definition": "highly destructive or damaging.",
-        "sentence": "Another spell of inflation could prove devastating for households still struggling with earlier shocks."
-      },
-      {
-        "word": "Remittances",
-        "type": "noun",
-        "definition": "money sent, especially by wire, from a person in one place to another person in another place.",
-        "sentence": "The World Bank has warned that conflict could push up fuel and commodity prices, weaken remittances, and increase borrowing costs."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the World Bank, what proportion of the region's people living in extreme poverty does Pakistan account for?",
-        "options": [
-          "Nearly one-quarter",
-          "Nearly half",
-          "Less than one-tenth",
-          "Approximately two-thirds"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'According to the World Bank, the country accounts for nearly half of the region’s people living in extreme poverty.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What impact do successive crises have on vulnerable Pakistani families, as described in the article?",
-        "back": "Successive crises, like pandemics, floods, and inflation, cause accumulated damage, exhausting savings, forcing sale of assets, debt accumulation, and withdrawal of children from school, leaving families with fewer resources to withstand future blows."
-      },
-      {
-        "front": "Why can poverty continue to rise in Pakistan even when the wider economy shows signs of recovery?",
-        "back": "Poverty can rise because the losses from crises (e.g., selling livestock, closing businesses) are not easily reversed. Families' means of earning a living are destroyed, making it difficult for them to simply resume their livelihoods despite economic improvement."
-      },
-      {
-        "front": "What new dangers has the World Bank warned about that could exacerbate poverty in Pakistan?",
-        "back": "The World Bank has warned about the potential for regional conflict to push up fuel and commodity prices, weaken remittances, and increase borrowing costs, in addition to adverse weather driving up food prices and harming agriculture."
-      },
-      {
-        "front": "What proactive measures does the editorial suggest the Pakistani government should take to combat poverty effectively?",
-        "back": "The government must identify families at greatest risk, strengthen early-warning and disaster-response systems, protect farming livelihoods, ensure financial help reaches vulnerable households proactively, keep children in school, and prevent families from losing their means of earning a living."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791774263344-786",
-    "title": "The lost civilian CT body\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036302/the-lost-civilian-ct-body",
-    "date": "2026-10-11",
-    "author": "none@none.com (Muhammad Amir Rana)",
-    "content": "THIS is an obituary for the National Counter Terrorism Authority, once conceived as a civilian counterterrorism body that combined policymaking, coordination among law-enforcement agencies, and data collection and processing.\nSince its inception in December 2008, and even after gaining legal cover under the Nacta Act, 2013, it has struggled to fully realise its role and mandate, while facing resistance from LEAs reluctant to coordinate with a police-led body.\nAppointing a senior military officer as its national coordinator was not the first deviation from the Nacta Act. A bigger departure from the statute had come in 2025 with the establishment of the National Intelligence Fusion and Threat Assessment Centre. Niftac was created as a parallel body, apparently under Nacta but in effect superior to it, even though Nacta is the statutory body. This gave a superior security institution the leading role.\nNacta’s new form seems to have little to do with developing a counterterrorism strategy, building a coordination mechanism, or taking on a CT-related operational role. Its real purpose is to synchronise all civilian-led LEAs with the superior security institution, and, at the very least, to bring them under one roof. This synchronisation of internal security policy with the security doctrine conceived by the establishment’s top brass has been underway for a long time, taking various forms. Bureaucrats see it in the National Security and War Course (NSWC) at the National Defence University (NDU), which is now equivalent to the National Management Course, a mandatory course for promotion from Grade 20 to 21.\nThe NSWC gives senior bureaucrats more opportunities to align with evolving thinking at the top levels of the security institutions. At the narrative level, NDU and many other military-led institutions run short courses for opinion-makers, politicians, and business and community leaders to align them with the new thought process. Interestingly, all these courses and discourses happen at the expense of civilian governments, whether provincial or federal.\nNacta, the only civilian-led CT body, struggled to find its role and eventually lost.\nOne may argue that synchronisation within the internal security structure will improve coordination, the very dream for which Nacta was conceived. However, the new changes appear to be aimed at control, and the CT body is being used as an instrument of that. The structures of other LEAs, such as the police and FIA, leave little room for intervention by other institutions — unlike Nacta.\nAdmittedly, Nacta had a few good leaders who clearly understood the terrorism challenge facing the country and how to respond. But it is safe to say that most of its heads, and even others who served in the authority, had little idea of the CT body’s objectives. Many came on deputation, or to rest before landing a field posting.\n    \nAs mentioned earlier, Nacta faced pressure and challenges from superior security institutions, which were reluctant to work under or with a civilian-led body. Still, the police cadre is undoubtedly responsible for destroying the institution and providing an excuse for its takeover. This did not happen overnight. The process began much earlier. When former prime minister Imran Khan chaired the Nacta board of governors meeting in September 2018, as required by law, two key realities emerged. One, he was the first prime minister to convene a board meeting since the Act was passed, even though quarterly meetings were required. Two, the national coordinator at the time recommended that the prime minister dissolve the body, as it had no use or role in countering terrorism in the country.\nThis was the first and last board meeting held under the original Act. In July 2019, parliament amended it through an ordinance, which it later passed in March 2020. The amendment made the interior minister the board chairman and the national coordinator its secretary. Several references to the “prime minister” in the Act were also replaced, shifting Nacta’s reporting line to the interior ministry. The 2019-2020 amendments thus downgraded Nacta from a prime minister-led federal-provincial body to one under the interior minister. Interestingly, one of the few board meetings held since then, and chaired by Interior Minister Mohsin Naqvi, approved the establishment of Niftac. Just before Niftac was introduced, Nacta inducted around 130 permanent officers. Since Niftac’s establishment, most have struggled to find a role.\nNiftac was described as a national platform connecting more than 50 federal and provincial departments and agencies — supported by provincial fusion centres — to improve intelligence coordination, speed up threat assessment, and strengthen information-sharing across institutional boundaries. That was Nacta’s purpose.\nA military or intelligence institution can possess information that a civilian authority cannot access. It can conduct operations a civilian institution cannot. It can assess threats from a classified perspective. But the state also needs an institution that can sit openly with provincial police, civil administration, prosecutors, courts, parliamentarians, researchers and international partners. It needs an institution whose authority is intelligible within the civilian legal and administrative system.\nAgainst this backdrop, Niftac overshadowed Nacta. Even before Maj Gen Faisal Naseer was appointed national coordinator, Niftac and its officers from the superior security institutions appeared more assertive and powerful than the national coordinator.\nIn fact, Nacta, the only civilian-led CT body, struggled to find its role and eventually lost that struggle. Now the vision and implementation plan will flow top-down, and space for consultation, policy discourse, and debate will gradually vanish.\nThis institutional transformation is taking place at a time when Pakistan faces its worst terrorism challenge, one that is growing more complex by the day. The state is trying hard to find a way out of the menace, but these transformations will not solve it. Concentrating power in one set of hands can be challenging because absolute control centralises the burden.\nThe writer is a security analyst.\nPublished in Dawn, October 11th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs / Current Affairs / Governance & Public Policy",
-    "topic": "Counter-Terrorism Institutional Framework and Civil-Military Relations in Pakistan",
-    "whyMatters": "This article critically analyzes the decline of a key civilian counter-terrorism body in Pakistan, Nacta, offering insights into institutional decay and the evolving civil-military dynamic in security policy. Aspirants can use it to discuss challenges in governance, counter-terrorism strategy, and the centralization of power in security institutions.",
-    "summary": [
-      "Nacta, conceived in 2008 as a civilian counterterrorism body for policymaking, coordination, and data, failed to fully realize its mandate despite legal cover from the Nacta Act, 2013, due to persistent resistance from LEAs and superior security institutions.",
-      "The establishment of the National Intelligence Fusion and Threat Assessment Centre (Niftac) in 2025 (as per the article's timeline) as a parallel and effectively superior body superseded Nacta, thereby shifting the leading role in counterterrorism to a superior security institution.",
-      "Institutional transformations, including the National Security and War Course for bureaucrats and military-led courses for opinion-makers, aim to synchronize civilian-led LEAs with the military's security doctrine, gradually eroding space for independent civilian policy discourse.",
-      "Internal issues within the police cadre serving in Nacta, coupled with amendments in 2019-2020 that downgraded Nacta's reporting line from the Prime Minister to the Interior Minister, significantly contributed to its weakening and eventual loss of purpose."
-    ],
-    "facts": [
-      "Nacta was conceived in December 2008 and gained legal cover under the Nacta Act, 2013.",
-      "The National Intelligence Fusion and Threat Assessment Centre (Niftac) was established in 2025 (as per the article), effectively superseding Nacta.",
-      "Prime Minister Imran Khan chaired the first Nacta board of governors meeting since the Act's passage in September 2018.",
-      "The Nacta Act was amended in July 2019 (ordinance) and passed in March 2020, shifting its reporting line from the Prime Minister to the Interior Ministry.",
-      "Around 130 permanent officers were inducted into Nacta just before Niftac's establishment, most of whom later struggled to find a role."
-    ],
-    "academicReferences": [
-      "National Action Plan (NAP), 2014 - Pakistan's comprehensive strategy against terrorism and extremism, providing a foundational context for institutional roles.",
-      "National Security Policy of Pakistan (2022-2026) - Offers insight into the state's broader security doctrine and the intended roles of various institutions.",
-      "Ayesha Siddiqa's 'Military Inc.: Inside Pakistan's Military Economy' - Provides a critical analytical framework for understanding the military's expanding influence in state affairs, including security policy and institutional control."
-    ],
-    "vocabulary": [
-      {
-        "word": "Obituary",
-        "type": "noun",
-        "definition": "An announcement, especially in a newspaper, of someone's death, often with a short biography.",
-        "sentence": "The article serves as an obituary for the National Counter Terrorism Authority, signifying its institutional demise."
-      },
-      {
-        "word": "Inception",
-        "type": "noun",
-        "definition": "The beginning of something; the establishment or starting point.",
-        "sentence": "Since its inception in December 2008, Nacta struggled to fully realise its role and mandate."
-      },
-      {
-        "word": "Mandate",
-        "type": "noun",
-        "definition": "An official order or commission to do something; the authority to carry out a policy or task.",
-        "sentence": "Nacta struggled to fully realise its role and mandate, facing resistance from law-enforcement agencies."
-      },
-      {
-        "word": "Statute",
-        "type": "noun",
-        "definition": "A written law passed by a legislative body.",
-        "sentence": "A bigger departure from the statute had come with the establishment of the National Intelligence Fusion and Threat Assessment Centre."
-      },
-      {
-        "word": "Synchronise",
-        "type": "verb",
-        "definition": "To cause to occur or operate at the same time or rate.",
-        "sentence": "Nacta's real purpose is to synchronise all civilian-led LEAs with the superior security institution."
-      },
-      {
-        "word": "Deputation",
-        "type": "noun",
-        "definition": "The temporary transfer of an official or worker to another department or position.",
-        "sentence": "Many officers came on deputation to Nacta, or to rest before landing a field posting, lacking commitment to its objectives."
-      },
-      {
-        "word": "Intelligible",
-        "type": "adjective",
-        "definition": "Able to be understood; comprehensible.",
-        "sentence": "The state needs an institution whose authority is intelligible within the civilian legal and administrative system."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which body was originally conceived as a civilian counterterrorism institution combining policymaking, coordination, and data collection in Pakistan?",
-        "options": [
-          "A) National Counter Terrorism Authority (Nacta)",
-          "B) National Intelligence Fusion and Threat Assessment Centre (Niftac)",
-          "C) Federal Investigation Agency (FIA)",
-          "D) National Defence University (NDU)"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that Nacta was \"once conceived as a civilian counterterrorism body that combined policymaking, coordination among law-enforcement agencies, and data collection and processing.\""
-      },
-      {
-        "question": "According to the article, what significant amendment was made to the Nacta Act in 2019-2020?",
-        "options": [
-          "A) It dissolved Nacta entirely and transferred its functions to Niftac.",
-          "B) It shifted the chairmanship of the Nacta board from the Prime Minister to the Interior Minister.",
-          "C) It mandated the National Coordinator to always be a senior military officer.",
-          "D) It expanded Nacta's operational role to include direct law enforcement activities."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions, \"The amendment made the interior minister the board chairman and the national coordinator its secretary. Several references to the 'prime minister' in the Act were also replaced, shifting Nacta’s reporting line to the interior ministry.\""
-      },
-      {
-        "question": "What internal factor, besides external pressure, contributed to Nacta's downfall as highlighted in the article?",
-        "options": [
-          "A) Lack of international funding for Nacta's projects.",
-          "B) The police cadre's internal destruction of the institution and provision of an excuse for its takeover.",
-          "C) Excessive bureaucracy preventing swift decision-making.",
-          "D) Inadequate legislative support from the parliament."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, \"Still, the police cadre is undoubtedly responsible for destroying the institution and providing an excuse for its takeover.\""
-      },
-      {
-        "question": "What is identified as the 'real purpose' behind Nacta's new form and broader institutional transformations concerning internal security policy?",
-        "options": [
-          "A) To enhance independent civilian oversight of counterterrorism operations.",
-          "B) To centralize the burden of counterterrorism policymaking solely on the civilian government.",
-          "C) To synchronize civilian-led LEAs with the security doctrine conceived by the establishment’s top brass.",
-          "D) To establish Nacta as the sole operational counterterrorism body in the country."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, \"Its real purpose is to synchronise all civilian-led LEAs with the superior security institution, and, at the very least, to bring them under one roof.\""
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was Nacta's original vision and its ultimate fate, according to the article?",
-        "back": "Nacta was conceived as a civilian counterterrorism body for policymaking, coordination, and data collection. It ultimately failed to realize its mandate and effectively 'lost' its role, being superseded by security institutions."
-      },
-      {
-        "front": "How did the establishment of Niftac impact Nacta's statutory role and authority?",
-        "back": "Niftac was created as a parallel body, effectively superior to Nacta, granting a superior security institution the leading role and overshadowing Nacta, despite the latter being the statutory body."
-      },
-      {
-        "front": "Beyond external pressures, what internal factor contributed significantly to Nacta's downfall as highlighted in the article?",
-        "back": "The police cadre's internal issues, including officers on deputation having little idea of Nacta's objectives, are cited as contributing to the institution's destruction and providing an excuse for its takeover."
-      },
-      {
-        "front": "What broader institutional transformation is Nacta's decline symptomatic of, concerning Pakistan's internal security structure?",
-        "back": "Nacta's decline is symptomatic of a long-term process to synchronize civilian-led law enforcement agencies with the security doctrine conceived by the establishment's top brass, aiming at greater control and centralizing the burden of security policy."
       }
     ]
   }
