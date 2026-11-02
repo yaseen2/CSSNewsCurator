@@ -1,5 +1,540 @@
 [
   {
+    "id": "curated-1793588806556-227",
+    "title": "Climate diagnosis\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041509/climate-diagnosis",
+    "date": "2026-11-02",
+    "author": "none@none.com (Editorial)",
+    "content": "THE Lancet Countdown’s latest findings should change how Pakistan thinks about illness as much as how it thinks about climate change. The report estimates that heat contributed to 710,000 deaths worldwide in 2023. In Pakistan, a patient arriving at a clinic with dehydration, kidney injury or breathing difficulties may be experiencing the effects of extreme weather without that connection ever entering the medical record. A child treated for diarrhoea after flooding, or an elderly person whose heart condition deteriorates during prolonged heat, becomes another isolated case rather than part of a wider pattern. The result is a dangerous knowledge gap. Without reliable information on where climate-related illnesses occur, who is most affected and how many lives are lost, health authorities cannot judge the scale of the problem. Climate change is already altering the demands placed on medicine; Pakistan’s healthcare planning has yet to catch up.\nThis is where the warning from former health officials deserves closer attention. Rather than producing another catalogue of vulnerabilities, the government should begin with what hospitals and clinics can actually record, diagnose and treat. Provincial health departments could require major facilities to track heatstroke, dehydration, acute kidney injury and other conditions aggravated by extreme weather, with data reviewed alongside local temperature and rainfall trends. Primary-care staff need practical guidance for recognising heat illness early, especially among children, older people and patients taking medicines that affect hydration. Hospitals should examine whether their emergency departments can cope with seasonal surges, and whether essential treatment can continue when power or water supplies fail. None of this requires waiting for another international declaration. It requires health officials to treat climate exposure as a routine part of patient care. Public reporting would also reveal which districts lack the staff, equipment and referral arrangements to respond. Pakistan has spent years describing itself as vulnerable to climate change. The Lancet findings present a more immediate challenge: can its health system identify the people being harmed, offer them treatment and learn enough from their cases to prevent avoidable deaths?\nPublished in Dawn, November 2nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 92,
+    "paper": "Current Affairs / Pakistan Affairs / Public Administration",
+    "topic": "Climate Change and Public Health in Pakistan",
+    "whyMatters": "This article highlights the critical, yet often overlooked, intersection of climate change and public health, especially pertinent for Pakistan. Aspirants can use its arguments to demonstrate an understanding of systemic challenges, data gaps, and actionable policy recommendations regarding climate adaptation in the health sector.",
+    "summary": [
+      "The Lancet Countdown report reveals a global increase in heat-related deaths (710,000 in 2023), underscoring climate change's direct impact on health.",
+      "Pakistan faces a 'dangerous knowledge gap' where climate-related illnesses like dehydration or kidney injury are not formally linked to extreme weather in medical records, preventing a grasp of the problem's scale.",
+      "Former health officials advocate for practical, immediate steps: requiring major facilities to track climate-sensitive conditions, providing primary-care staff with guidance on heat illness, and assessing hospital capacity for seasonal surges and infrastructure failures.",
+      "The article emphasizes that Pakistan must shift from merely describing itself as vulnerable to climate change to actively identifying, treating, and learning from climate-harmed individuals by treating climate exposure as a routine part of patient care and ensuring public reporting."
+    ],
+    "facts": [
+      "The Lancet Countdown's latest report estimates heat contributed to 710,000 deaths worldwide in 2023.",
+      "The article was published in Dawn on November 2nd, 2026.",
+      "Conditions like dehydration, kidney injury, and breathing difficulties are mentioned as effects of extreme weather."
+    ],
+    "academicReferences": [
+      "The Lancet Countdown on Health and Climate Change reports (e.g., 2023 report)",
+      "Pakistan's National Climate Change Policy (2012 / subsequent updates)",
+      "Sustainable Development Goal 3 (Good Health and Well-being) and Goal 13 (Climate Action)"
+    ],
+    "vocabulary": [
+      {
+        "word": "diagnosis",
+        "type": "noun",
+        "definition": "the identification of the nature of an illness or other problem by examination of the symptoms and signs.",
+        "sentence": "Accurate climate diagnosis in patient care is crucial for effective public health planning."
+      },
+      {
+        "word": "vulnerabilities",
+        "type": "noun",
+        "definition": "the quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+        "sentence": "The government is urged to move beyond cataloguing vulnerabilities to implementing concrete actions."
+      },
+      {
+        "word": "aggravated",
+        "type": "verb",
+        "definition": "make (a problem, injury, or offence) worse or more serious.",
+        "sentence": "Many existing health conditions are aggravated by extreme weather events."
+      },
+      {
+        "word": "referral arrangements",
+        "type": "noun",
+        "definition": "agreements or systems for directing patients to appropriate specialized medical services or facilities.",
+        "sentence": "Public reporting would reveal districts lacking adequate staff, equipment, and referral arrangements."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is identified as the primary reason for Pakistan's inability to judge the scale of climate-related health problems?",
+        "options": [
+          "Lack of international funding for health initiatives.",
+          "A dangerous knowledge gap due to unrecorded climate connections in medical records.",
+          "Insufficient medical professionals in rural areas.",
+          "Absence of a national climate change policy for health."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states 'The result is a dangerous knowledge gap. Without reliable information on where climate-related illnesses occur, who is most affected and how many lives are lost, health authorities cannot judge the scale of the problem.'"
+      },
+      {
+        "question": "Which of the following is NOT a practical step suggested by former health officials to address climate-related health impacts?",
+        "options": [
+          "Requiring major facilities to track heatstroke and other extreme weather-aggravated conditions.",
+          "Waiting for another international declaration before taking action.",
+          "Providing primary-care staff with practical guidance for recognizing heat illness.",
+          "Examining whether emergency departments can cope with seasonal surges and infrastructure failures."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states 'None of this requires waiting for another international declaration,' actively discouraging this approach as a practical step."
+      },
+      {
+        "question": "According to the Lancet Countdown report mentioned, approximately how many deaths worldwide in 2023 were contributed to by heat?",
+        "options": [
+          "7,100",
+          "71,000",
+          "710,000",
+          "7,100,000"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'The report estimates that heat contributed to 710,000 deaths worldwide in 2023.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the 'dangerous knowledge gap' identified by the article regarding climate-related illnesses in Pakistan?",
+        "back": "It is the lack of formal recognition and recording of the connection between a patient's illness (e.g., dehydration, kidney injury) and extreme weather events in medical records, preventing health authorities from understanding the true scale of the problem."
+      },
+      {
+        "front": "How does the article suggest Pakistan's healthcare planning needs to change in response to climate change?",
+        "back": "It needs to catch up with the altering demands placed on medicine by climate change, moving beyond describing vulnerability to actively identifying, treating, and learning from climate-harmed individuals, and treating climate exposure as a routine part of patient care."
+      },
+      {
+        "front": "What specific conditions are highlighted as being aggravated by extreme weather that provincial health departments should track?",
+        "back": "Heatstroke, dehydration, acute kidney injury, and other conditions aggravated by extreme weather."
+      },
+      {
+        "front": "Why is public reporting of climate-related health data crucial, according to the article?",
+        "back": "Public reporting would reveal which districts lack the necessary staff, equipment, and referral arrangements to effectively respond to climate-related health challenges."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793588894707-882",
+    "title": "Without consequence\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041510/without-consequence",
+    "date": "2026-11-02",
+    "author": "none@none.com (Editorial)",
+    "content": "JOURNALISTS today face ever more sophisticated threats, while those who target them continue to walk free. From drone attacks to online harassment and legal intimidation, the methods of silencing reporters are multiplying, with little fear of punishment. This year’s International Day to End Impunity for Crimes against Journalists, observed today, carries the theme ‘Threats Evolve. Impunity Endures’. According to Unesco, 189 journalists were killed in 2024 and 2025, most of them in conflict zones. Yet justice remains elusive in the vast majority of cases. The global impunity rate has risen to 86pc, the first increase since Unesco began measuring it in 2012. This failure to punish those responsible sends a dangerous message: journalists can be attacked or killed without fear of consequence. \nGaza shows what happens when those responsible are not held to account. The Committee to Protect Journalists recorded 129 journalists killed worldwide in 2025, with Israel responsible for two-thirds of the deaths. In August that year, Israeli strikes on Gaza’s Nasser Hospital killed 22 people, including five journalists. An AP investigation published a year later found that nobody had been held accountable. For Palestinian journalists, who have been reporting a war largely closed to foreign media, the dangers are especially severe. Their deaths leave the outside world with fewer people able to document what is happening. Similarly, in Sudan and Ukraine, journalists risk their lives exposing the horrors of war, while those who target them often escape justice. Without independent investigations and punishment for those found responsible, promises to protect journalists will remain empty.\nPakistan’s record is also deeply troubling. Freedom Network’s latest report documents threats and assaults against journalists, along with 45 cases of legal action or threatened prosecution. The growing use of Peca against journalists investigating official wrongdoing is particularly worrying. Repeated summonses, seized devices and costly court battles are enough to silence a reporter even without a conviction. The human cost of this failure is evident in the case of journalist Mudassar Mahmood Naru. Eight years after his disappearance, his son is growing up without a father and his family is still waiting for answers. The laws meant to protect journalists offer little comfort when the bodies responsible for enforcing them fail to act. In smaller towns, where reporters have fewer resources, intimidation often goes unreported. The state must ensure that attacks are properly investigated, protection bodies function and cybercrime laws are not used to punish legitimate reporting. A country where journalists fear telling the truth more than wrongdoers fear being exposed has its priorities wrong.\nPublished in Dawn, November 2nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Current Affairs / Human Rights / International Relations",
+    "topic": "Freedom of Press, Impunity for Crimes Against Journalists, and State Responsibility",
+    "whyMatters": "This article is crucial for competitive exam students as it provides contemporary data and arguments regarding media freedom, human rights, and state accountability. It offers compelling case studies and statistical evidence to support essays and analyses on governance, international law, and democratic values.",
+    "summary": [
+      "Journalists globally face escalating and sophisticated threats, including drone attacks, online harassment, and legal intimidation, with a worrying increase in impunity for perpetrators.",
+      "The global impunity rate for crimes against journalists has risen to 86%, indicating a dangerous failure to hold perpetrators accountable and sending a message that journalists can be attacked without consequence.",
+      "Conflict zones like Gaza, Sudan, and Ukraine exemplify this impunity, with Israel being responsible for a significant number of journalist deaths in 2025, leading to a critical lack of independent documentation from these areas.",
+      "Pakistan's record is equally troubling, marked by legal intimidation (e.g., PECA misuse), physical assaults, and enforced disappearances, underscoring the state's failure to ensure investigations and protect legitimate reporting."
+    ],
+    "facts": [
+      "Unesco reported 189 journalists killed in 2024 and 2025, predominantly in conflict zones.",
+      "The global impunity rate for crimes against journalists has increased to 86%, the first rise since Unesco began measurements in 2012.",
+      "The Committee to Protect Journalists recorded 129 journalists killed worldwide in 2025, with Israel responsible for two-thirds of these deaths.",
+      "Freedom Network's latest report for Pakistan documented 45 cases of legal action or threatened prosecution against journalists.",
+      "Journalist Mudassar Mahmood Naru disappeared eight years ago, with his family still awaiting answers."
+    ],
+    "academicReferences": [
+      "UN Plan of Action on the Safety of Journalists and the Issue of Impunity (2012)",
+      "International Covenant on Civil and Political Rights (ICCPR) - Article 19 (Freedom of Expression)",
+      "Reports by Committee to Protect Journalists (CPJ) and Reporters Without Borders (RSF)",
+      "Universal Declaration of Human Rights (UDHR) - Article 19"
+    ],
+    "vocabulary": [
+      {
+        "word": "Impunity",
+        "type": "noun",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "The rising global impunity rate for crimes against journalists sends a dangerous message that perpetrators will not be held accountable."
+      },
+      {
+        "word": "Intimidation",
+        "type": "noun",
+        "definition": "The action of frightening or threatening someone, often to compel them to do something.",
+        "sentence": "Journalists in smaller towns often face intimidation that goes unreported due to a lack of resources and support."
+      },
+      {
+        "word": "Elusive",
+        "type": "adjective",
+        "definition": "Difficult to find, catch, or achieve.",
+        "sentence": "Despite international calls for justice, accountability for crimes against journalists remains largely elusive in many conflict zones."
+      },
+      {
+        "word": "Accountability",
+        "type": "noun",
+        "definition": "The fact or condition of being accountable; responsibility.",
+        "sentence": "Without independent investigations and punishment, promises to protect journalists will remain empty, failing to ensure accountability."
+      },
+      {
+        "word": "Consequence",
+        "type": "noun",
+        "definition": "A result or effect of an action or condition.",
+        "sentence": "The article's title 'Without consequence' highlights the lack of repercussions faced by those who target journalists."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the current global impunity rate for crimes against journalists, as reported by Unesco?",
+        "options": [
+          "75%",
+          "86%",
+          "60%",
+          "90%"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'The global impunity rate has risen to 86pc, the first increase since Unesco began measuring it in 2012.'"
+      },
+      {
+        "question": "According to the Committee to Protect Journalists (CPJ), what proportion of journalist deaths in 2025 was Israel responsible for?",
+        "options": [
+          "One-quarter",
+          "One-third",
+          "Two-thirds",
+          "Half"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, '...with Israel responsible for two-thirds of the deaths.'"
+      },
+      {
+        "question": "Which international day, observed today in the article, carries the theme ‘Threats Evolve. Impunity Endures’?",
+        "options": [
+          "World Press Freedom Day",
+          "International Day for Human Rights",
+          "International Day to End Impunity for Crimes against Journalists",
+          "Global Journalists Safety Day"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states, 'This year’s International Day to End Impunity for Crimes against Journalists, observed today, carries the theme ‘Threats Evolve. Impunity Endures’.'"
+      },
+      {
+        "question": "What specific Pakistani law is mentioned in the article as being increasingly misused against journalists investigating official wrongdoing?",
+        "options": [
+          "Anti-Terrorism Act (ATA)",
+          "Pakistan Electronic Crimes Act (PECA)",
+          "Defamation Ordinance",
+          "Official Secrets Act"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article highlights, 'The growing use of Peca against journalists investigating official wrongdoing is particularly worrying.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the primary consequences of the rising global impunity rate for crimes against journalists?",
+        "back": "It sends a dangerous message that journalists can be attacked or killed without fear of consequence, leading to self-censorship and a lack of critical reporting from conflict zones and sensitive areas."
+      },
+      {
+        "front": "How does the article illustrate the severe dangers faced by Palestinian journalists in conflict zones?",
+        "back": "Palestinian journalists report from a war largely closed to foreign media, and their deaths, often at the hands of Israeli strikes, leave the outside world with fewer people to document events, as shown by the Gaza conflict."
+      },
+      {
+        "front": "What specific issues highlight Pakistan's 'deeply troubling' record regarding press freedom and journalist safety?",
+        "back": "Misuse of PECA against journalists, repeated summonses, seized devices, costly court battles, physical assaults, and cases of enforced disappearances like Mudassar Mahmood Naru, whose family still awaits answers eight years later."
+      },
+      {
+        "front": "What concrete actions does the article recommend for the state to ensure journalist protection and accountability for crimes against them?",
+        "back": "The state must ensure that attacks are properly investigated, protection bodies function effectively, and cybercrime laws are not used to punish legitimate reporting."
+      },
+      {
+        "front": "Explain the connection the article draws between the lack of accountability and the quality of information from conflict zones.",
+        "back": "When journalists are killed with impunity, especially local reporters in conflict zones, it removes critical voices and 'leaves the outside world with fewer people able to document what is happening,' leading to significant information gaps and obscured realities."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793588976583-61",
+    "title": "Medicating a broken system\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041505/medicating-a-broken-system",
+    "date": "2026-11-02",
+    "author": "none@none.com (Murad Moosa Khan)",
+    "content": "THE psychiatric profession faces a fundamental question: are we treating people’s distress as a problem located inside their minds when much of what troubles them lies outside, in the conditions of their lives? The question has particular urgency in Pakistan, where a recent national survey of more than 17,000 individuals showed that one in three adults suffers from some sort of diagnosable mental disorder. What is leading to this mental health crisis in Pakistan?\nThe answer may lie in understanding people’s circumstances rather than assigning diagnoses. Unfortunately, we have become so preoccupied with diagnosing and treating individuals that we have lost sight of the social conditions that make them ill.\nWhat does it mean to treat the anxiety of someone whose future is insecure or offer counselling to a man who cannot provide for his family? How far can psychological therapy help a woman who is in constant fear due to unabated domestic violence? Treatment may offer some relief, at least temporarily, but if the circumstances remain unchanged, we risk helping the person endure a problem that society continues to create — and ignore. This is the central limitation of an individualised approach to mental health: it turns a social problem into a personal responsibility.\nPakistan’s mental health discourse focuses on ‘raising awareness, reducing stigma, increasing access to psychological support, early identification, and referral to specialist services’. While these are important, they can become politically convenient substitutes for confronting the structural determinants of psychological distress. Awareness campaigns do not create jobs. Teaching resilience through mental health apps does not increase household incomes. Screening programmes do not stop domestic violence or child sexual abuse. Counselling cannot substitute for social protection, affordable education and health, or protection against violence.\nThis is the contradiction in Pakistan’s policies: awareness without accountability. This becomes particularly stark when the government acknowledges mental health as a public health priority but does nothing to address the economic and social factors that people face daily. We need to move beyond the narrow thinking that mental health improves when people become more aware of mental illness and more willing to seek treatment. We must also ask why so many people are exposed to toxic conditions that threaten their well-being in the first place.\nImproving mental health requires more than treating the consequences of social and economic failure.\nLocating distress primarily within individuals obscures questions of power and responsibility. When social adversity is translated into individual diagnoses, ignoring the person’s context, he/she becomes the site of intervention while institutions and governments escape scrutiny. When we teach people resilience we reinforce that the central task is to help people withstand adversity rather than reduce the adversity itself. In Pakistan, marked by profound inequalities, it turns psychiatry, however unintentionally, into an instrument of adaptation to injustice.\nInstead, we should ask: what has happened to this person, and what continues to make their life difficult? Mental health assessments should explore not only symptoms and psychiatric history but also employment, debt, housing, family relationships, violence, etc. It is important to understand the person’s own explanation of their distress rather than assuming that a diagnostic label of ‘depression’ or ‘anxiety’ provides the complete account.\nThis approach does not eliminate diagnosis or medication. Those experiencing severe symptoms should have access to evidence-based treatment. The distinction is between using biomedical interventions when indicated and treating the biomedical explanation as sufficient in every case. The approach also has important policy implications. Pakistan has a good record of developing policies but an extremely poor one for implementing them. There is no reason to be optimistic that the recently launched National Mental Health Policy will not meet the same fate. It is futile to talk about a mental health policy without integrating social determinants into planning and also having a clear strategy for their implementation. The federal and provincial governments must be held accountable for how they will do so.\nMental health programmes must be evaluated against outcomes that matter in people’s lives, not simply symptom improvement. Mental health professionals and institutions must engage with the political and economic conditions shaping their patients’ lives. It requires them to recognise that suffering has social causes and that their professional obligations do not end at the clinic door. They must be willing to speak truth to power and not simply have their photographs taken with government officials and political leaders.\nPakistan does not face a choice between treating mental illness and addressing poverty, inequality, or violence. It needs both. The mistake is investing in the former while neglecting the latter. A diagnosis is never a complete explanation, and an effective treatment plan must take into account people’s circumstances. How ethical is it to ask people to become more resilient to bear conditions that public policy could make less damaging or ask people to practise relaxation exercises while their livelihoods collapse, to cultivate optimism while their prospects disappear, or to dev­elop coping skills while they remain exposed to violence? Such interventions may provide relief, but they cannot substitute for social justice.\nPakistan’s mental health crisis cannot be addressed solely through more psychiatrists, better access to mental health services (which are poorly organised anyway), more prescriptions, more awareness campaigns, or more screening. These are necessary components of care, but they cannot compensate for policies that perpetuate insecurity and exclusion. Improving mental health requires more than treating the consequences of social and economic failure. It requires taking responsibility for the conditions that produce them.\nA society committed to mental well-being must do more than teach people how to endure their circumstances. It must also work to make those circumstances more bearable. \nThe writer is professor emeritus of psychiatry at Aga Khan University.\nmmkarticle@gmail.com\nPublished in Dawn, November 2nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs / Current Affairs / Sociology / Essay",
+    "topic": "Mental Health Crisis and Social Determinants in Pakistan: A Critical Policy Analysis",
+    "whyMatters": "This article offers a critical perspective on Pakistan's mental health challenges, emphasizing the role of socio-economic factors over individual pathology. It provides strong arguments and a framework for analyzing public policy failures, making it highly relevant for essay and analytical questions on governance, public health, and social justice.",
+    "summary": [
+      "Pakistan's severe mental health crisis (1 in 3 adults affected) is primarily driven by external social and economic conditions like insecurity, poverty, and violence, not solely internal psychological issues.",
+      "The prevailing individualized approach to mental health, focused on diagnosis and treatment, mistakenly converts broader societal problems into personal responsibilities, thus overlooking systemic causes.",
+      "Current mental health discourse in Pakistan, prioritizing awareness and stigma reduction, is criticized as a 'politically convenient substitute' for addressing structural determinants, leading to 'awareness without accountability'.",
+      "Effective improvement in mental health necessitates a holistic strategy that integrates social determinants into policy planning and holds governments accountable for tackling underlying injustices, rather than just treating symptoms or promoting resilience."
+    ],
+    "facts": [
+      "A recent national survey of over 17,000 individuals in Pakistan showed that one in three adults suffers from some sort of diagnosable mental disorder.",
+      "Pakistan has a good record of developing policies but an extremely poor one for implementing them.",
+      "The article mentions a 'recently launched National Mental Health Policy' in Pakistan, expressing skepticism about its implementation without integrating social determinants."
+    ],
+    "academicReferences": [
+      "World Health Organization (WHO) Framework on Social Determinants of Health.",
+      "Pakistan Economic Survey (Annual publication by the Ministry of Finance, Pakistan).",
+      "United Nations Sustainable Development Goals (SDGs), particularly Goal 3 (Good Health and Well-being) and Goal 10 (Reduced Inequalities)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Preoccupied",
+        "type": "adjective",
+        "definition": "absorbed in thought; engrossed.",
+        "sentence": "Unfortunately, we have become so preoccupied with diagnosing and treating individuals that we have lost sight of the social conditions that make them ill."
+      },
+      {
+        "word": "Stark",
+        "type": "adjective",
+        "definition": "severe or bare in appearance or outline; sharply clear or vivid.",
+        "sentence": "This becomes particularly stark when the government acknowledges mental health as a public health priority but does nothing to address the economic and social factors that people face daily."
+      },
+      {
+        "word": "Perpetuate",
+        "type": "verb",
+        "definition": "make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
+        "sentence": "These are necessary components of care, but they cannot compensate for policies that perpetuate insecurity and exclusion."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the central limitation of an individualized approach to mental health?",
+        "options": [
+          "It overemphasizes medication over psychological therapies.",
+          "It fails to provide even temporary relief to patients.",
+          "It transforms a social problem into a personal responsibility.",
+          "It ignores the importance of early identification of disorders."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'This is the central limitation of an individualised approach to mental health: it turns a social problem into a personal responsibility.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary critique against the conventional psychiatric approach in Pakistan, as per the article?",
+        "back": "It treats people's distress as a problem located inside their minds, ignoring that much of what troubles them lies outside, in their life circumstances."
+      },
+      {
+        "front": "What does the article mean by 'awareness without accountability' in the context of Pakistan's mental health policies?",
+        "back": "The government acknowledges mental health as a public health priority and promotes awareness but fails to address the underlying economic and social factors that cause distress."
+      },
+      {
+        "front": "What additional information should mental health assessments explore beyond symptoms and psychiatric history, according to the article?",
+        "back": "Employment, debt, housing, family relationships, and experiences of violence."
+      },
+      {
+        "front": "What is the broader responsibility the article assigns to mental health professionals and institutions?",
+        "back": "To engage with the political and economic conditions shaping their patients' lives, recognize social causes of suffering, and be willing to speak truth to power."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793588390164-763",
+    "title": "Fighting harassment\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041508/fighting-harassment",
+    "date": "2026-11-02",
+    "author": "none@none.com (Editorial)",
+    "content": "WORKPLACE harassment is often narrowly defined as sexual misconduct. A resolution passed by the National Assembly on Friday puts such notions to rest. Reaffirming parliament’s commitment towards safeguarding an individual’s dignity and rights, it asserts that harassment extends beyond sexual advances. The inclusion of intimidation, misuse of authority, and gender-based humiliation completes the definition. The Protection against Harassment of Women at the Workplace Act, 2010 supports the view: “Any unwelcome sexual advance, request … sexually demeaning attitudes, causing interference with work performance or creating an intimidating, hostile or offensive work environment, or the attempt to punish the complainant. …”  Power derived from gender or position drives all forms of harassment. Yet, Pakistan’s failure to enforce legal deterrents continues to create more silent victims.\nThose who exploit have for too long escaped penalties due to procedural loopholes. The Women’s Parliamentary Caucus would do well to address the necessity of accountability processes within organisations. Laws will remain mere formalities until the state devises monitoring mechanisms to ensure both managements and the criminal justice system do not falter in delivering justice. Human rights defenders have not only raised concern about the shoddy application of the harassment law but also highlighted how lack of proper penalisation has economic consequences. It jeopardises productivity as hostile workplaces force women out of the workforce.First,all stakeholders must treat an employee and a workplace in a wider sense to include informal areas and workers — sportspersons, artists, domestic workers, students, and others. Second, employers should face tougher action — hefty fines, suspension and even removal from office. Additionally, training, awareness and surveillance are as significant as transparent and accessible complaint systems. Lastly, the meaning of workplace harassment does not change if it occurs outside the confines of a work setting.\nPublished in Dawn, November 2nd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Gender Studies / Pakistan Affairs",
+    "topic": "Workplace Harassment Laws and Enforcement in Pakistan",
+    "whyMatters": "This article provides a current perspective on the legal and social challenges concerning workplace harassment in Pakistan, essential for arguments on human rights, gender equality, and rule of law. It offers specific policy recommendations and legal context, invaluable for analytical essays and general knowledge questions.",
+    "summary": [
+      "The National Assembly has broadened the definition of harassment beyond sexual misconduct to include intimidation, misuse of authority, and gender-based humiliation.",
+      "The existing Protection against Harassment of Women at the Workplace Act, 2010, already supports a comprehensive understanding of harassment, encompassing hostile work environments.",
+      "Despite existing legal frameworks, enforcement remains weak due to procedural loopholes, lack of accountability processes, and inadequate state monitoring mechanisms.",
+      "Recommendations include expanding the definition of 'employee' and 'workplace' to cover informal sectors, imposing tougher penalties on employers, and establishing transparent complaint systems with robust training and awareness programs."
+    ],
+    "facts": [
+      "The Protection against Harassment of Women at the Workplace Act was enacted in 2010.",
+      "A National Assembly resolution has broadened the definition of harassment beyond sexual advances.",
+      "The article argues that lack of proper penalisation for harassment has economic consequences, jeopardising productivity and forcing women out of the workforce."
+    ],
+    "academicReferences": [
+      "Protection against Harassment of Women at the Workplace Act, 2010 (Pakistan)",
+      "Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+      "ILO Convention C190 on Violence and Harassment (2019)"
+    ],
+    "vocabulary": [
+      {
+        "word": "reaffirming",
+        "type": "verb",
+        "definition": "stating again strongly; confirming again",
+        "sentence": "The resolution was passed, reaffirming parliament’s commitment towards safeguarding an individual’s dignity and rights."
+      },
+      {
+        "word": "deterrents",
+        "type": "noun",
+        "definition": "things that discourage or are intended to discourage someone from doing something",
+        "sentence": "Pakistan’s failure to enforce legal deterrents continues to create more silent victims."
+      },
+      {
+        "word": "jeopardises",
+        "type": "verb",
+        "definition": "puts (someone or something) into a situation in which there is a danger of loss, harm, or failure",
+        "sentence": "Lack of proper penalisation jeopardises productivity as hostile workplaces force women out of the workforce."
+      },
+      {
+        "word": "confines",
+        "type": "noun",
+        "definition": "the boundaries or limits of a space or area",
+        "sentence": "The meaning of workplace harassment does not change if it occurs outside the confines of a work setting."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following was explicitly mentioned as part of the *broadened* definition of harassment by the National Assembly's resolution, moving *beyond* sexual advances?",
+        "options": [
+          "Intimidation",
+          "Sexual advances",
+          "Physical assault",
+          "Verbal abuse not tied to gender"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states the resolution 'asserts that harassment extends beyond sexual advances. The inclusion of intimidation, misuse of authority, and gender-based humiliation completes the definition.' Therefore, intimidation is one of the components explicitly included in the broadened definition, while sexual advances are what the resolution moved beyond."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How has the National Assembly's recent resolution redefined harassment, according to the article?",
+        "back": "It has broadened the definition beyond mere sexual misconduct to include intimidation, misuse of authority, and gender-based humiliation."
+      },
+      {
+        "front": "What is one significant economic consequence of the failure to properly penalize workplace harassment, as highlighted by the article?",
+        "back": "It jeopardizes productivity and forces women out of the workforce, leading to economic losses."
+      },
+      {
+        "front": "The article suggests that the concept of 'employee' and 'workplace' should be expanded for addressing harassment. Who are some examples of individuals and settings this expansion should cover?",
+        "back": "It should include informal areas and workers such as sportspersons, artists, domestic workers, and students."
+      },
+      {
+        "front": "What key recommendation does the article make regarding the state's role in ensuring justice for harassment cases?",
+        "back": "The state must devise monitoring mechanisms to ensure both managements and the criminal justice system do not falter in delivering justice."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793588306624-261",
+    "title": "A might-is-right world\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041506/a-might-is-right-world",
+    "date": "2026-11-02",
+    "author": "none@none.com (Maleeha Lodhi)",
+    "content": "THE world is passing through one of the most volatile periods in modern history. It is more unstable today than at any time since the end of the Cold War. The international system is fragmenting with rising big-power tensions. The old order with whatever rules it had is gone. \nPower shifts continue to reshape the international landscape, marking the advent of a multipolar era. The disregard for international law and norms by big and regional powers has left countries having to navigate a rule-less terrain at a time of great uncertainty. Hard power has made a comeback. Powerful countries and regional powers are using military force or other coercive instruments to try to bend other states to their will. The threat or the use of force has become an option of first and not last resort, and the means to prevail over others. These actions defy international law and global norms but continue with impunity. Diplomacy only happens after missiles have been fired.\nConflicts proliferate across the world — two major wars, between the US-Israel and Iran and between Ukraine and Russia as well as Israel’s genocidal war in Gaza and military actions against its neighbours. There are a record number of conflicts today. A study by a Swedish university has counted the highest number of conflicts between states in 2025 since World War II. There are 65 active conflicts according to its data for last year. The risk of a global conflagration is also heightening.  Can this push the world to the brink of a third world war? A new book seeks to answer this frequently raised question. War is Interested in You: The Breakdown of International Order and the Threat of World War Three by distinguished British columnist Gideon Rachman is an insightful book on a subject that is especially relevant today. He borrows the book’s title from Trotsky: “You may not be interested in war, but war is interested in you” — meaning war will come whether anyone wants it or is thinking about it. Rachman identifies three fundamental reasons for the surge in conflicts and breakdown of international order. The first is the shifting global balance of power which is challenging US dominance. The second is the rise of what he calls ‘strongmen leaders’ who regard war as a necessary and legitimate tool to achieve their ends. The third is a consequence of the first two; as these trends take hold international rules and law are breaking down. “A law-governed world is giving way to a might-makes-right world,” he writes.  \nIn explaining these causal factors, Rachman argues that the relative decline of the Western alliance and America’s retrenchment from its global role created an “opening” for “revisionist” powers dissatisfied with the present world order to take more risks. He cites Russia’s invasion of Ukraine and China’s more aggressive posture on Taiwan as cases in point. Trump’s use of military force against Iran, in defiance of international law and ignoring the views of its allies, has further contributed to the collapse of global order.  \nCan distinct regional conflicts merge to push the world to the brink of a third world war?\nGreater international insecurity also stems from the emergence of a new generation of self-styled strongman leaders — Putin, Trump, Netanyahu — who deride the idea of a rules-based international order. Their acceptance of territorial annexation and belief in ‘might-makes-right’ has heightened the risk of international conflict. Rachman suggests that both Trump and Putin subscribe to the “spheres of influence” theory, which they see as a more reliable guarantor of peace and stability than a rules-based order. The starkest expression of this, he asserts, is Trump’s revival of the Monroe doctrine for the Western Hemisphere.  \nIn what Rachman characterises as a “might is right” world, growing global insecurity is driving up defence spending. Global rules and international institutions are being upended by strongman leaders, increasing the risk of more wars. While acts of war are the most dramatic examples of the breakdown of the rules-based order, Rachman argues that international institutions are crumbling in other ways too. Trump’s trade war and protectionist policies are, for example, accelerating this erosion.  \nRachman examines today’s major wars and argues that while they have been distinct regional conflicts, they intersect at various points. But as these separate conflicts escalate, they risk eventually merging. His concept of an ‘axis of adversaries’ of the West or ‘axis of upheaval’ challenging the US-led world order greatly exaggerates the degree of cooperation between Russia, China, North Korea, and Iran whose interests are hardly identical. They may all want an end to US hegemony but that doesn’t make them partners in an alliance acting in unison. The argument does not stand up to scrutiny. Rachman is unable to convincingly establish the “practical and ideological” links he posits between them. In fact, he himself acknowledges the limits of the Russian-Chinese partnership and strains among the four countries.\nTo the question of whether a conflict-ridden world is heading towards a global conflagration, Rachman’s answer is carefully qualified. A world war, he argues, would have two defining characteristics. One, the world’s major powers would have to be in direct conflict as they were in the First and Second World Wars. Two, the conflict would have to span continents. These conditions do not obtain today but they cannot be ruled out in the future.He sees a direct conflict between the US and China as the greatest risk. \nRachman devotes a chapter to last year’s conflict between India and Pakistan. It adds little to what has already been written about the military confrontation between the two nuclear neighbours. He sees the four-day conflict in May 2025 as a serious setback to India’s ambitions and efforts to de-hyphenate from Pakistan. Among the lessons he draws from this episode is that “the risks of a very dangerous conflict in South Asia get too little attention compared to other global trouble spots”. He argues that the risk of future conflicts is heightened by the fact that both countries deployed increasingly sophisticated weapons during the crisis.\nThis is an intelligent book well worth reading for its sharp perspectives on war and peace even if one might disagree with some of the author’s assertions. \nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, November 2nd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "International Relations",
+    "topic": "Global Geopolitics and the Shifting International Order",
+    "whyMatters": "This article is NOT directly relevant to the specified past exam question on Pakistan's role in ECO and regional integration, as it focuses on global power shifts and conflicts. However, it is highly pertinent for general questions on the current international system, global instability, the breakdown of world order, and great power competition.",
+    "summary": [
+      "The international system is experiencing unprecedented volatility, fragmentation, and a return to 'hard power,' with major and regional powers increasingly disregarding international law and norms.",
+      "The breakdown of global order is attributed to shifting power balances challenging US dominance, the rise of 'strongman leaders' who view war as a legitimate tool, and the consequent erosion of international rules.",
+      "Strongman leaders like Putin, Trump, and Netanyahu, who favor 'spheres of influence' theory over a rules-based order, contribute to heightened international insecurity and conflict risks, upending global institutions.",
+      "While distinct regional conflicts proliferate, the risk of them merging into a global conflagration, potentially involving major powers, cannot be ruled out, with a direct US-China conflict identified as the greatest risk."
+    ],
+    "facts": [
+      "A study by a Swedish university counted the highest number of conflicts between states in 2025 since World War II, with 65 active conflicts recorded last year.",
+      "Gideon Rachman's book, 'War is Interested in You: The Breakdown of International Order and the Threat of World War Three,' analyzes the fundamental reasons for global instability.",
+      "The four-day India-Pakistan conflict in May 2025 is cited as a serious setback to India's ambitions and an often-overlooked global trouble spot with heightened future conflict risks due to sophisticated weapons deployment."
+    ],
+    "academicReferences": [
+      "Gideon Rachman, \"War is Interested in You: The Breakdown of International Order and the Threat of World War Three\" (c. 2025)",
+      "John J. Mearsheimer, \"The Tragedy of Great Power Politics\" (2001) - For a realist perspective on great power competition and spheres of influence.",
+      "United Nations Charter (1945) - Preamble and Article 2(4) regarding the prohibition of the use of force, which the article suggests is being defied with impunity."
+    ],
+    "vocabulary": [
+      {
+        "word": "Volatile",
+        "type": "adjective",
+        "definition": "Liable to change rapidly and unpredictably, especially for the worse; unstable.",
+        "sentence": "The world is passing through one of the most volatile periods in modern history."
+      },
+      {
+        "word": "Fragmenting",
+        "type": "verb",
+        "definition": "Breaking or causing to break into small pieces or parts; splitting apart.",
+        "sentence": "The international system is fragmenting with rising big-power tensions."
+      },
+      {
+        "word": "Coercive",
+        "type": "adjective",
+        "definition": "Relating to or using force or threats; compelling.",
+        "sentence": "Powerful countries are using military force or other coercive instruments to try to bend other states to their will."
+      },
+      {
+        "word": "Impunity",
+        "type": "noun",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "sentence": "These actions defy international law and global norms but continue with impunity."
+      },
+      {
+        "word": "Conflagration",
+        "type": "noun",
+        "definition": "An extensive fire which destroys a great deal of land or property; used metaphorically for a large, destructive conflict.",
+        "sentence": "The risk of a global conflagration is also heightening."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Gideon Rachman, which of the following is NOT identified as a fundamental reason for the surge in conflicts and breakdown of international order?",
+        "options": [
+          "Shifting global balance of power challenging US dominance.",
+          "The rise of strongman leaders who regard war as a necessary tool.",
+          "The complete absence of any international rules or laws.",
+          "The breakdown of international rules and law as a consequence of the first two trends."
+        ],
+        "answerIndex": 2,
+        "explanation": "Rachman states that 'international rules and law are breaking down,' not that they are completely absent. The other options are directly cited as fundamental reasons."
+      },
+      {
+        "question": "The article mentions that a study found the highest number of conflicts between states in 2025 since which major historical event?",
+        "options": [
+          "The end of the Cold War",
+          "World War I",
+          "World War II",
+          "The Vietnam War"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'A study by a Swedish university has counted the highest number of conflicts between states in 2025 since World War II.'"
+      },
+      {
+        "question": "Which concept do strongman leaders like Trump and Putin reportedly subscribe to as a more reliable guarantor of peace and stability than a rules-based order?",
+        "options": [
+          "Multilateral disarmament treaties",
+          "Global trade liberalization",
+          "Spheres of influence theory",
+          "Universal human rights principles"
+        ],
+        "answerIndex": 2,
+        "explanation": "Rachman suggests that both Trump and Putin subscribe to the 'spheres of influence' theory, which they see as a more reliable guarantor of peace and stability."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What three fundamental reasons does Gideon Rachman identify for the surge in global conflicts and the breakdown of international order?",
+        "back": "Shifting global power balance challenging US dominance; the rise of 'strongman leaders' seeing war as legitimate; and the consequent breakdown of international rules and law."
+      },
+      {
+        "front": "How does the article characterize the current state of international law and norms?",
+        "back": "They are being disregarded with impunity by powerful countries and regional powers, leading to a 'might-makes-right' world where the use of force is a first resort."
+      },
+      {
+        "front": "What specific risk does Rachman identify as the greatest potential trigger for a future world war?",
+        "back": "A direct conflict between the United States and China."
+      },
+      {
+        "front": "What lesson does Rachman draw from the 2025 India-Pakistan conflict regarding global security?",
+        "back": "The risks of a very dangerous conflict in South Asia receive too little attention compared to other global trouble spots."
+      }
+    ]
+  },
+  {
     "id": "curated-1793501742178-782",
     "title": "Uncertain local governments\n",
     "source": "Dawn",
@@ -406,6 +941,95 @@
     ]
   },
   {
+    "id": "curated-1793589146781-622",
+    "title": "Off the back seat\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041297/off-the-back-seat",
+    "date": "2026-11-01",
+    "author": "none@none.com (Muna Khan)",
+    "content": "SOME time in the mid-2000s, I attended a conference for journalists in Goa. I remember very little of the panels. What I remember is going into town. Women everywhere, on scooters. Young women in jeans. Middle-aged women in saris, the pallu tucked in, a shopping bag on the footboard. Older women with grey buns and sensible sandals, weaving through traffic as if it were the most ordinary thing in the world. Because it was.\nI kept staring. Nobody else did.\nThis was next door. Same subcontinent, same heat, same chaotic roads, same aunties. So why was it unthinkable at home? In Karachi, a woman on a motorbike belonged on the back seat, perched sideways, dupatta wrapped tight so it would not catch in the wheel, one hand gripping the seat and the other holding a child. She was a passenger, in every sense. I never expected to see that change in my lifetime.\nLast month, a Gallup & Gilani survey found that 83 per cent of Pakistanis believe more women ride two-wheelers today than three years ago. In cities, the figure rises to 91pc. That is perception, not a headcount. But perception matters. People are noticing because there is something to notice.\nWhen the Sindh government launched its Pink Scooty scheme last year, offering free electric scooters to female students and working women, it hit an awkward problem. Only 154 women across the entire province reportedly held motorcycle driving licences in June. You cannot hand a scooter to a woman who is not legally allowed to ride it. So the scheme required a licence and offered free training to get one. Minister Sharjeel Memon told local media that over 50,000 women had applied for licences. From 154 to 50,000. Even allowing for a politician’s optimism, that is not a trend. That is a door swinging open.\nConsider the choices before a young woman with a job offer across town.\nIt did not happen overnight. Karachi’s Women on Wheels programme, launched in 2019, recorded more than 3,000 registrations and trained hundreds of women to ride on the University of Karachi campus. The groundwork was laid quietly, by women willing to wobble, fall, and get back on.\nWhy does this matter so much? Because in Pakistan, the road to a job runs through the question of how a woman gets there.\nPakistan has one of the lowest rates of female labour force participation in the world. The World Economic Forum puts it at about 28pc. In our cities, World Bank research suggests it has hovered around 10pc for two decades. There are many reasons. Social norms. Childcare. Workplace harassment. But again and again, studies return to the same plain obstacle: transport.\nConsider the choices before a young woman in Karachi with a job offer across town. A rickshaw eats into her salary every single day. Ride-hailing costs even more. The bus is crowded, unpredictable, and, too often, a gauntlet of stares and hands. If no brother, father, or husband is free to drive her, the job may simply not be worth taking. A whole career can be lost to the problem of the commute.\nA scooter changes that arithmetic. It is cheap to run, cheaper still when it is electric. It goes where buses do not. It leaves when she is ready, not when someone else is. It turns a job across town from a family negotiation into a decision she can make herself.\nThat is what economic independence looks like on the ground. Not a slogan, but a set of keys.\nAnd independence is the point. For most women, freedom is not an abstraction. It is the ability to earn, spend, leave, and ret­urn on their own ter­ms. Fin­a­ncial freedom is freedom. A woman who can get herself to work can pay her own fees, support her par­ents, save for her children, and, if she must, walk away from a home that is hurting her.\nNone of this is finished. Being seen is not the same as being accepted. Women riders still face harassment and disapproval. The change is clearer among urban, middle-class women than in villages. And reminders of how far we still have to go. In June, the minister told the Sindh Assembly that traffic police had been instructed to stop men riding the pink scooters after complaints that some women’s brothers had taken them over.\nI laughed when I read that. Then I stopped laughing. It says everything about who has usually held the keys in our homes.\nBut the keys are changing hands. Slowly, unevenly, one licence at a time.\nThe other day, at a traffic signal, a young woman pulled up beside me on a scooter. Nobody stared. I did, for a moment. Then I smiled. When the light turned green, she was gone. It looked like Goa. It looked normal. It looked like home. \nThe writer is a journalist and conducts writing workshops in Karachi.\nX: @LedeingLady\nPublished in Dawn, November 1st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 88,
+    "paper": "Pakistan Affairs / Sociology / Gender Studies",
+    "topic": "Women's Economic Empowerment and Mobility in Pakistan",
+    "whyMatters": "This article provides contemporary evidence and analysis of evolving social norms and policy impacts on women's economic participation in Pakistan. Aspirants can use its data and arguments to illustrate challenges and progress in gender equality and socio-economic development.",
+    "summary": [
+      "A significant shift in women's mobility is observed in Pakistan, moving from traditional reliance on male drivers or public transport to independent two-wheeler riding, mirroring societal changes seen elsewhere.",
+      "Government initiatives, such as the Sindh Pink Scooty scheme, and grassroots efforts like Karachi's Women on Wheels program, are actively facilitating this change, leading to a massive increase in driving license applications from women.",
+      "The lack of safe, affordable, and reliable transport is identified as a critical barrier to female labor force participation in Pakistan, contributing to its consistently low rates of women in the workforce.",
+      "Independent mobility through scooters offers women a practical solution to commute challenges, fostering economic independence, personal freedom, and the ability to make self-determined career and life choices."
+    ],
+    "facts": [
+      "A Gallup & Gilani survey found 83% of Pakistanis believe more women ride two-wheelers today than three years ago, with the figure rising to 91% in cities.",
+      "Before the Sindh government's Pink Scooty scheme, only 154 women across the province reportedly held motorcycle driving licenses; after the scheme was launched, over 50,000 women applied for licenses.",
+      "Pakistan has one of the lowest rates of female labor force participation globally, estimated at about 28% by the World Economic Forum, and hovering around 10% in its cities for two decades according to World Bank research."
+    ],
+    "academicReferences": [
+      "World Economic Forum Global Gender Gap Report (for comparative female labor force participation statistics)",
+      "World Bank's research on female labor force participation in urban Pakistan (for localized economic data)",
+      "Government of Sindh's 'Pink Scooty Scheme' (as an example of public policy intervention for women's empowerment)",
+      "United Nations Sustainable Development Goal 5: Gender Equality (as a global framework for analyzing such societal advancements)"
+    ],
+    "vocabulary": [
+      {
+        "word": "pallu",
+        "type": "noun",
+        "definition": "The end part of a sari that is draped over the shoulder or head.",
+        "sentence": "Middle-aged women in saris, the pallu tucked in, carried shopping bags on the footboard of their scooters."
+      },
+      {
+        "word": "gauntlet",
+        "type": "noun",
+        "definition": "A severe ordeal or a difficult and challenging experience, often implying a series of criticisms or attacks.",
+        "sentence": "The bus is crowded, unpredictable, and, too often, a gauntlet of stares and hands."
+      },
+      {
+        "word": "abstraction",
+        "type": "noun",
+        "definition": "A concept or idea without a specific or tangible existence; something theoretical rather than concrete.",
+        "sentence": "For most women, freedom is not an abstraction; it is the ability to earn, spend, leave, and return on their own terms."
+      },
+      {
+        "word": "arithmetic",
+        "type": "noun",
+        "definition": "The process or result of calculations, often implying the overall situation or financial viability.",
+        "sentence": "A scooter changes that arithmetic, making a job across town financially feasible and a personal decision."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is identified as a primary obstacle to female labor force participation in Pakistan, particularly in urban areas?",
+        "options": [
+          "A) Lack of adequate public transport options and safe commuting.",
+          "B) Insufficient educational qualifications among women.",
+          "C) Limited job opportunities in urban centers.",
+          "D) High cost of living in major cities."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states, 'But again and again, studies return to the same plain obstacle: transport,' elaborating on how expensive or unsafe commute options deter women from taking jobs."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article illustrate the cultural shift regarding women's mobility in Pakistan, particularly in contrast to earlier perceptions?",
+        "back": "The article contrasts the author's prior belief that women would remain back-seat passengers in Karachi with the current reality of women increasingly riding scooters independently, supported by survey data and a surge in driving license applications, signifying a significant social change."
+      },
+      {
+        "front": "What is the core argument presented for why independent transport for women is crucial for economic independence?",
+        "back": "Independent transport, specifically scooters, makes jobs across town financially viable and allows women to decide their commute without relying on family, directly linking mobility to the ability to earn, spend, and achieve financial and personal autonomy."
+      },
+      {
+        "front": "What policy initiatives are mentioned as contributing to the increase in women's independent mobility in Pakistan?",
+        "back": "The Sindh government's 'Pink Scooty scheme' (offering free electric scooters and training) and Karachi's 'Women on Wheels programme' (providing training) are mentioned as key initiatives facilitating women's independent mobility."
+      },
+      {
+        "front": "Beyond transport, what other factors does the article briefly acknowledge as contributors to Pakistan's low female labor force participation?",
+        "back": "The article briefly mentions social norms, childcare responsibilities, and workplace harassment as other contributing factors, though it emphasizes transport as a primary and often overlooked obstacle."
+      }
+    ]
+  },
+  {
     "id": "curated-1793501978191-60",
     "title": "Exchange hack\n",
     "source": "Dawn",
@@ -534,6 +1158,88 @@
       {
         "front": "What is Pakistan's recent engagement with Binance, and why does the hack directly concern Islamabad?",
         "back": "Pakistan reversed its anti-crypto stance, with Binance's co-founder advising its crypto council and an MoU signed to tokenize $2bn in sovereign assets; the hack raises concerns for Pakistan's digital economy strategy and asset security, impacting its capacity for broader economic integration."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793589052541-425",
+    "title": "Cyber safety\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041310/cyber-safety",
+    "date": "2026-11-01",
+    "author": "none@none.com (Editorial)",
+    "content": "WHILE the state’s proposal to create a Cybersecurity and Social Media Awareness Council envisages needed interventions to protect children from online harm, the same body’s focus on ‘fake news’ — as described by the government — is cause for concern.\nSpeaking at a recent seminar in Islamabad, the federal information minister said there is a need to raise awareness about the “dangers of fake news”, while also emphasising the need for digital education in schools and colleges. In particular, he said children should be protected from cyberattacks. At the same event, the IT minister observed that it was important for both parents and children to know who the latter were interacting with online.\nThere can be little argument with the fact that cyberspace can be a dangerous place for children. According to a Unicef report, one in 16 children in Pakistan aged 12-17 experienced “at least one form of technology-facilitated sexual exploitation and abuse” in a single year. This comes to around 1.5m children.\nMoreover, the National Commission on the Rights of the Child points out that youngsters are vulnerable to “cyberbullying, online grooming, sharing of sexual abuse materials” and other types of harm. There have been disturbing recent reports of even parents and guardians involved in the online abuse of children. It is, therefore, essential to protect youngsters from online predators through digital literacy, while bringing those involved in these abominable crimes to justice. Pakistan’s children face enough challenges; the state must do all it can to protect them from online harm.\nBut combining steps against cyberbullying and online abuse of children with the state’s campaign against ‘fake news’ needs to be reconsidered. The state of freedom of expression in Pakistan is already quite poor, so any further attempts to clamp down on free speech must be resisted. Instead, the proposed council should focus on protecting children from dangers in the cyber realm, as well as keeping citizens overall safe from online threats.\nPublished in Dawn, November 1st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Current Affairs / Pakistan Affairs / Essay / Governance",
+    "topic": "Cyber Safety, Children's Rights, and Freedom of Expression in Pakistan",
+    "whyMatters": "This article is crucial for understanding the complex interplay between digital security, child protection, and fundamental rights in Pakistan. Aspirants can use it to frame arguments on government policy efficacy, human rights challenges, and the need for balanced legislation in the digital age.",
+    "summary": [
+      "The proposed Cybersecurity and Social Media Awareness Council aims to protect children from online harm but raises concerns due to its focus on 'fake news'.",
+      "Cyberspace poses significant dangers to children, including technology-facilitated sexual exploitation, cyberbullying, and online grooming.",
+      "Digital literacy for children and parents is essential to combat online predators, and perpetrators of cybercrimes against children must be brought to justice.",
+      "The article cautions against combining child protection efforts with state attempts to 'clamp down' on free speech, advocating for the council to solely focus on cyber safety for all citizens, especially children."
+    ],
+    "facts": [
+      "One in 16 children aged 12-17 in Pakistan experienced at least one form of technology-facilitated sexual exploitation and abuse in a single year, according to a Unicef report.",
+      "This figure translates to approximately 1.5 million children affected by online harm in Pakistan.",
+      "The National Commission on the Rights of the Child (NCRC) highlights youngsters' vulnerability to 'cyberbullying, online grooming, [and] sharing of sexual abuse materials'."
+    ],
+    "academicReferences": [
+      "Convention on the Rights of the Child (UNCRC)",
+      "Prevention of Electronic Crimes Act (PECA) 2016 (Pakistan)",
+      "UNICEF 'State of the World's Children' reports on digital protection"
+    ],
+    "vocabulary": [
+      {
+        "word": "envisages",
+        "type": "verb",
+        "definition": "To contemplate or predict as a likely or desirable future event.",
+        "sentence": "The new policy envisages a future where all children have safe access to the internet."
+      },
+      {
+        "word": "abominable",
+        "type": "adjective",
+        "definition": "Causing moral revulsion; very bad.",
+        "sentence": "The article describes crimes against children online as abominable and calls for immediate justice."
+      },
+      {
+        "word": "clamp down",
+        "type": "phrasal verb",
+        "definition": "To take strong action to stop or prevent something.",
+        "sentence": "There is a fear that attempts to clamp down on fake news could restrict legitimate freedom of expression."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary concern raised by the article regarding the proposed Cybersecurity and Social Media Awareness Council?",
+        "options": [
+          "Its lack of funding for digital literacy programs.",
+          "Its dual focus on protecting children and combating 'fake news'.",
+          "Its inability to bring online predators to justice.",
+          "Its limited scope to only children and not all citizens."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article expresses concern over the council's focus on 'fake news' alongside child protection, fearing it could infringe upon freedom of expression."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the main dilemma highlighted by the article regarding the proposed Cybersecurity and Social Media Awareness Council?",
+        "back": "The dilemma is that while the council aims to protect children from online harm, its additional focus on combating 'fake news' is seen as a potential threat to freedom of expression in Pakistan."
+      },
+      {
+        "front": "According to the article and a Unicef report, what specific statistic illustrates the scale of online harm against children in Pakistan?",
+        "back": "One in 16 children aged 12-17 in Pakistan experienced at least one form of technology-facilitated sexual exploitation and abuse in a single year, affecting around 1.5 million children."
+      },
+      {
+        "front": "Beyond state intervention, what crucial measure does the article suggest for protecting youngsters from online predators?",
+        "back": "The article emphasizes the essential role of digital literacy for children and parents in protecting youngsters from online predators."
+      },
+      {
+        "front": "Why does the article argue against combining efforts to protect children with campaigns against 'fake news'?",
+        "back": "The article argues that combining these efforts is problematic because the state of freedom of expression in Pakistan is already poor, and such a combination could lead to further undue restrictions on free speech."
       }
     ]
   },
@@ -1738,6 +2444,100 @@
       {
         "front": "What is the primary concern raised by India's 'Dynamic Response Strategy' and 'Rudra Brigades' in the context of nuclear deterrence?",
         "back": "These strategies, seeking space for conventional wars under a nuclear overhang, are seen as destabilizing the stability of nuclear deterrence in the subcontinent, especially given the author's perceived Indian 'irrationality' and 'bellicose mindset' of its leadership."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793589228411-630",
+    "title": "Forced conversions\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041141/forced-conversions",
+    "date": "2026-10-30",
+    "author": "none@none.com (Editorial)",
+    "content": "THE institutional bias against minority females leaves them to either be directly victimised or to live in conditions where mistreatment is their daily reality. The Senate Minority Caucus, following the disappearance of a 14-year-old Hindu girl, has directed law enforcement to recover the victim, and also voiced concern about the abductions, reported forced conversions and marriages of non-Muslim girls in Sindh and Balochistan. While the police chiefs of the two provinces stated that a writ petition had been filed, their claim was denied by a Supreme Court lawyer who added that no serious efforts were made to find her. From highlighting the helplessness of the state and the police when it comes to dealing with an influential pir’s alleged “state within a state” to the need to criminalise these excesses in order to end them, the committee’s observations were not new.   \nChauvinism persists because legislation to proscribe forced conversions was blocked by the right a decade ago. In 2016, the Sindh Assembly did pass a bill stipulating that any conversion by a minor would only come into effect when they attain the age of 18 years, and it also prescribed severe punishments for the perpetrators of forced conversions. The ensuing outrage by the orthodox lobby comprising those accused of playing a key role in these acts compelled the provincial government to cave in. Thus the bill was not signed into law. Politicians have since failed to show any commitment towards pursuing a legal framework to uproot these problematic practices. This does question the intent of the state: does it allow circumstances where condemnable practices continue; where those responsible go scot-free; where the police are often found complicit with powerful offenders? It is high time such acts were seen as crimes of power and control. In a civilised society, deep-seated social prejudice cannot be permitted to strip vulnerable communities of their dignity and liberties.\nPublished in Dawn, October 31st, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs / Sociology / Law / Current Affairs",
+    "topic": "Minority Rights, Forced Conversions, and State Inaction in Pakistan",
+    "whyMatters": "This article offers crucial insights into governance failures, legal loopholes, and societal prejudices concerning minority rights in Pakistan. Aspirants can leverage this analysis for essays and analytical questions on human rights, rule of law, and institutional accountability.",
+    "summary": [
+      "Institutional bias against minority females leads to their direct victimization or daily mistreatment, specifically concerning abductions, reported forced conversions, and marriages.",
+      "Previous legislative efforts, such as the 2016 Sindh Assembly bill to criminalize forced conversions and set an 18+ age limit, were blocked due to pressure from orthodox lobbies.",
+      "The article highlights the state's helplessness and often complicity of law enforcement with powerful individuals (like 'pirs') who allegedly operate a 'state within a state.'",
+      "It argues that these acts should be recognized as crimes of power and control, questioning the state's commitment to upholding the dignity and liberties of vulnerable communities."
+    ],
+    "facts": [
+      "A 14-year-old Hindu girl's disappearance prompted the Senate Minority Caucus to direct law enforcement for her recovery and voice concern over similar incidents in Sindh and Balochistan.",
+      "The Sindh Assembly passed a bill in 2016 stipulating that conversions by minors would only take effect at 18 years and prescribed severe punishments for perpetrators, but it was not signed into law.",
+      "Legislation to proscribe forced conversions was initially blocked by the 'right' a decade ago."
+    ],
+    "academicReferences": [
+      "Human Rights Watch/Amnesty International Reports on Religious Minorities in Pakistan",
+      "Universal Declaration of Human Rights (UDHR) - Article 18 (Freedom of Thought, Conscience, and Religion)",
+      "Convention on the Rights of the Child (CRC) - Article 14 (Freedom of Thought, Conscience, and Religion for Children)"
+    ],
+    "vocabulary": [
+      {
+        "word": "victimised",
+        "type": "verb",
+        "definition": "treated cruelly or unfairly; made a victim",
+        "sentence": "The article highlights how institutional bias leaves minority females to be directly victimised."
+      },
+      {
+        "word": "proscribe",
+        "type": "verb",
+        "definition": "forbid something, especially by law",
+        "sentence": "Legislation to proscribe forced conversions was blocked by the right a decade ago."
+      },
+      {
+        "word": "stipulating",
+        "type": "verb",
+        "definition": "demanding or specifying a requirement, typically as part of an agreement",
+        "sentence": "In 2016, the Sindh Assembly passed a bill stipulating that any conversion by a minor would only come into effect when they attain the age of 18 years."
+      },
+      {
+        "word": "perpetrators",
+        "type": "noun",
+        "definition": "people who carry out a harmful, illegal, or immoral act",
+        "sentence": "The bill prescribed severe punishments for the perpetrators of forced conversions."
+      },
+      {
+        "word": "complicit",
+        "type": "adjective",
+        "definition": "involved with others in an activity that is unlawful or morally wrong",
+        "sentence": "The article questions whether the police are often found complicit with powerful offenders."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was a primary reason the 2016 Sindh Assembly bill against forced conversions failed to become law?",
+        "options": [
+          "A) Lack of support from the Senate Minority Caucus.",
+          "B) The Supreme Court deemed it unconstitutional.",
+          "C) Outrage and pressure from the orthodox lobby.",
+          "D) Law enforcement agencies opposed its implementation."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'The ensuing outrage by the orthodox lobby... compelled the provincial government to cave in. Thus the bill was not signed into law.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What institutional failure does the article highlight regarding the protection of minority females?",
+        "back": "The article highlights an institutional bias against minority females that leaves them vulnerable to victimization, including abduction, forced conversions, and marriages, with the state often appearing helpless or complicit."
+      },
+      {
+        "front": "What was the fate of the 2016 Sindh Assembly bill aimed at curbing forced conversions, and why?",
+        "back": "The bill, which stipulated conversions by minors would only be effective at 18 and prescribed severe punishments, was not signed into law because orthodox lobbies exerted pressure that made the provincial government cave in."
+      },
+      {
+        "front": "How does the article characterize the state's response to powerful offenders allegedly involved in forced conversions?",
+        "back": "The article questions the state's intent, characterizing its response as helplessness, complicity of police with powerful offenders (like influential 'pirs'), and a failure by politicians to commit to a legal framework."
+      },
+      {
+        "front": "What fundamental shift in perspective does the article advocate for regarding acts of forced conversion?",
+        "back": "The article advocates for these acts to be recognized and treated as 'crimes of power and control,' emphasizing that deep-seated social prejudice should not be permitted to strip vulnerable communities of dignity and liberties."
       }
     ]
   },
@@ -9944,896 +10744,6 @@
       {
         "front": "How does the article suggest authorities can ensure safety and critical upgrades for the national rail network?",
         "back": "By setting realistic timelines, arranging the necessary funding, and commencing work without delay on modernization projects."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792116707577-472",
-    "title": "Pulling the pin\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037277/pulling-the-pin",
-    "date": "2026-10-15",
-    "author": "none@none.com (F.S. Aijazuddin)",
-    "content": "ONE does not need to have Mao Zedong’s eyes to see that “everything under heaven is in utter chaos”. There is no continent in the world (except perhaps his China) where conditions are in the control of its leaders. In France, for example, students in the country’s lycées, or secondary schools, are demonstrating against “long school days, overcrowded classrooms, outdated facilities, and teacher shortages”. The protesters are 15- to 18-year-olds. They are too young to vote. Yet their anger threatens to detract from the presidential election in early 2027, when France decides who is to replace Emmanuel Macron.\nIn South America, countries with valuable natural resources and precious minerals are bracing themselves for a raid by the US. If oil-rich Venezuela can be decapitated overnight, can Brazil, Chile and Argentina be far behind? In Ukraine, an embattled Volodymyr Zelensky finds he has now two adversaries — a determined Vladimir Putin, and a mercurial Donald Trump, who has suggested that the Ukrainians “get a new leader who can make a deal”. The abandonment of Zelensky came a day after Trump agreed to buy diesel from Putin.\nHistorians who will chronicle the decline and fall of Trump’s presidency may do worse than rely upon Edward Gibbon’s memorable analysis: “But the decline of Rome was the natural and inevitable effect of immoderate greatness. Prosperity ripened the principle of decay; the cause of the destruction multiplied with the extent of conquest… . … Instead of inquiring why the Roman Empire was destroyed, we should rather be surprised that it has subsisted for so long.”\nIn and around the Arabian Peninsula, the US-Israel vs Iran conflict has taken a sinister turn. Saudi Arabia, Türkiye and Pakistan have entered into a defence pact. Saudi petrodollars have linked arms with Türkiye’s armament capacity and Pakistani martial manpower. It is less a tripartite alliance than a pas de trois of death. Few realise that this tripartite pact has inbuilt weaknesses. The three countries are not territorially contiguous.\nHistorians may do worse than rely upon Gibbon’s analysis.\nThis new pact purports to imitate the collective defence clause of Article 5 of Nato, which means that should Saudi Arabia, Pakistan, or Türkiye be individually attacked, the other two will have to spring to the victim’s defence.\nTürkiye is a card-carrying member of Nato. If it is involved militarily, all other Nato member countries will be bound to ‘defend’ Türkiye, and, therefore, by extension Saudi Arabia and Pakistan. That is the legal theory. Practically, Nato’s selectivity has already been tested during the Ukraine crisis. Even though Nato did not extend the umbrella of membership to Ukraine, it chose to defend Ukraine (a non-Nato country) against Russia. Obviously, Nato members and Trump follow Machiavelli’s precept: “He who has the power is always right.”\nSaudi Arabia, Türkiye, and Pakistan share some commonalities. Each has a Sunni majority, and all three currently have governments that are intolerant of domestic opposition.\nRecep Erdogan’s government in 2025 imprisoned his most popular rival — Istanbul’s mayor Ekrem Imamoglu. In 2017, Crown Prince Mohammed bin Salman ordered the detention of over-rich princes and government ministers in the five-star Ritz-Carlton Hotel in Riyadh, where many were allegedly tortured. In 2018, Saudi dissident Jamal Khashoggi was strangled and dismembered by a squad of 15 Saudis (allegedly on the orders of their crown prince) in the Saudi consulate in Istanbul.\nAnd here in our country, a leader and his party members — regardless of gender or age — have been sentenced to imprisonment, without the hope of an amnesty.\nOur federal government is in opposition with smaller pro­­vinces — it has im­­­p­­osed an emergency and governor’s rule in KP. Azad Kashmir has had governments drawn from two Pa­­kistani mainstream political parties. The continuing friction brings to mind these lines from Kahlil Gibran’s poignant poem Pity the Nation: “Pity the nation divided into fragments/ each fragment deeming itself a nation.”\nNot many leaders have the time nor the wit to read Gibbon’s six-volume work on the Roman Empire, or the Meditations bequeathed by the emperor he admired most — Marcus Aurelius. They should. Core lessons derived from Aurelius point to five signs of a weak mind: ‘Surrendering control to external circumstances; complaining and playing the victim; seeking external validation and obsessing over others’ opinions; letting uncontrolled emotions dictate actions; and resisting the present moment and avoiding duty.’\nHow many leaders — or even us common folk — would survive such a litmus test?\nMany regard the chaos prevailing everywhere as deeply ominous in its implications. The pin has been removed from the grenade. It is only a matter of time before a doomsday detonation.\nThe writer is an author.\nwww.fsaijazuddin.pk\nPublished in Dawn, October 15th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "International Relations / Current Affairs / Pakistan Affairs",
-    "topic": "Geopolitics of Instability; New Alliances and Power Shifts; Domestic Governance Challenges",
-    "whyMatters": "This article provides a contemporary overview of global geopolitical instability, new alliance formations, and governance challenges, directly addressing themes critical for International Relations and Current Affairs papers. Aspirants can quote the author's analysis of power shifts, the lessons from historical declines, and specific examples of domestic political issues to demonstrate an informed perspective.",
-    "summary": [
-      "Global instability is pervasive, with conditions across continents (excluding China) beyond leaders' control, exemplified by French student protests and US pressure on South American nations.",
-      "New geopolitical alignments are emerging, such as the Saudi Arabia-Türkiye-Pakistan defense pact, which mimics NATO's Article 5 but possesses inherent weaknesses and raises questions about NATO's potential involvement.",
-      "Political leadership globally, including in key nations like the US and Pakistan, exhibits traits of instability, authoritarianism, and a disregard for rule of law, as seen in Trump's actions and domestic Pakistani issues.",
-      "Drawing parallels with historical declines like the Roman Empire and insights from Marcus Aurelius, the author warns of an impending global crisis, attributing it to weak leadership, internal divisions, and unchecked power."
-    ],
-    "facts": [
-      "French secondary school students (15-18 years old) are demonstrating against \"long school days, overcrowded classrooms, outdated facilities, and teacher shortages\" before the early 2027 presidential election.",
-      "Donald Trump suggested Ukrainians \"get a new leader who can make a deal\" and reportedly agreed to buy diesel from Putin.",
-      "A defense pact has been formed between Saudi Arabia, Türkiye, and Pakistan, linking Saudi petrodollars with Türkiye’s armament capacity and Pakistani martial manpower, despite these countries not being territorially contiguous."
-    ],
-    "academicReferences": [
-      "Edward Gibbon, \"The History of the Decline and Fall of the Roman Empire\" (analysis of \"immoderate greatness\" leading to decay).",
-      "Marcus Aurelius, \"Meditations\" (listing five signs of a weak mind, including seeking external validation and letting uncontrolled emotions dictate actions).",
-      "NATO's Article 5 (collective defense clause, which the Saudi-Türkiye-Pakistan pact purports to imitate)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Lycées",
-        "type": "noun",
-        "definition": "French secondary schools.",
-        "sentence": "Students in France's lycées are demonstrating against educational issues."
-      },
-      {
-        "word": "Detract",
-        "type": "verb",
-        "definition": "To diminish the importance, value, or effectiveness of something.",
-        "sentence": "The protests threaten to detract from the presidential election."
-      },
-      {
-        "word": "Embattled",
-        "type": "adjective",
-        "definition": "Beset with difficulties; involved in conflict or strife.",
-        "sentence": "An embattled Volodymyr Zelensky finds he has two adversaries."
-      },
-      {
-        "word": "Mercurial",
-        "type": "adjective",
-        "definition": "Subject to sudden or unpredictable changes of mood or mind.",
-        "sentence": "Volodymyr Zelensky now has a mercurial Donald Trump as an adversary."
-      },
-      {
-        "word": "Sinister",
-        "type": "adjective",
-        "definition": "Giving the impression that something harmful or evil is happening or will happen.",
-        "sentence": "The US-Israel vs Iran conflict has taken a sinister turn."
-      },
-      {
-        "word": "Pas de trois",
-        "type": "noun",
-        "definition": "A dance or figure for three performers; often used metaphorically for a complex interaction involving three parties.",
-        "sentence": "It is less a tripartite alliance than a pas de trois of death."
-      },
-      {
-        "word": "Contiguous",
-        "type": "adjective",
-        "definition": "Sharing a common border; touching.",
-        "sentence": "The three countries in the pact are not territorially contiguous."
-      },
-      {
-        "word": "Precept",
-        "type": "noun",
-        "definition": "A general rule intended to regulate behavior or thought.",
-        "sentence": "Nato members and Trump follow Machiavelli’s precept: 'He who has the power is always right.'"
-      },
-      {
-        "word": "Poignant",
-        "type": "adjective",
-        "definition": "Evoking a keen sense of sadness or regret.",
-        "sentence": "Kahlil Gibran’s poignant poem Pity the Nation."
-      },
-      {
-        "word": "Ominous",
-        "type": "adjective",
-        "definition": "Giving the worrying impression that something bad is going to happen.",
-        "sentence": "Many regard the chaos prevailing everywhere as deeply ominous."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT listed as a reason for French student protests mentioned in the article?",
-        "options": [
-          "Long school days",
-          "High tuition fees",
-          "Overcrowded classrooms",
-          "Teacher shortages"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions \"long school days, overcrowded classrooms, outdated facilities, and teacher shortages\" but does not mention \"high tuition fees.\""
-      },
-      {
-        "question": "According to the article, what is one of the inherent weaknesses of the Saudi Arabia-Türkiye-Pakistan defense pact?",
-        "options": [
-          "Lack of common religious beliefs",
-          "Absence of a collective command structure",
-          "They are not territorially contiguous",
-          "None of them are NATO members"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, \"The three countries are not territorially contiguous,\" as an inbuilt weakness of the pact."
-      },
-      {
-        "question": "Which historical figure's analysis does the author suggest relying upon to chronicle the decline of Trump's presidency, and what was his subject?",
-        "options": [
-          "Marcus Aurelius, Roman Empire",
-          "Kahlil Gibran, The Nation",
-          "Edward Gibbon, Roman Empire",
-          "Mao Zedong, Chaos under heaven"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, \"Historians who will chronicle the decline and fall of Trump’s presidency may do worse than rely upon Edward Gibbon’s memorable analysis...\" which concerned the Roman Empire."
-      },
-      {
-        "question": "Which of the following is identified as one of Marcus Aurelius's \"five signs of a weak mind\"?",
-        "options": [
-          "Strategic foresight and planning",
-          "Seeking external validation and obsessing over others’ opinions",
-          "Prioritizing national security above all else",
-          "Promoting economic growth at any cost"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article lists \"seeking external validation and obsessing over others’ opinions\" as one of the signs derived from Aurelius."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the author's primary argument about the current global situation?",
-        "back": "The author argues that 'everything under heaven is in utter chaos,' with conditions across most continents being out of leaders' control, indicating widespread instability and a potential 'doomsday detonation.'"
-      },
-      {
-        "front": "How does the author characterize the newly formed Saudi Arabia-Türkiye-Pakistan defense pact, and what is its main stated purpose?",
-        "back": "The author calls it a 'pas de trois of death,' intending to imitate NATO's Article 5 collective defense clause, meaning an attack on one would trigger a response from the other two."
-      },
-      {
-        "front": "What historical and philosophical references does the author use to analyze contemporary leadership failures?",
-        "back": "The author references Edward Gibbon's analysis of the Roman Empire's decline due to 'immoderate greatness' and Marcus Aurelius's 'Meditations,' outlining five signs of a weak mind."
-      },
-      {
-        "front": "How does the article illustrate domestic political instability and authoritarian tendencies in the context of Saudi Arabia, Türkiye, and Pakistan?",
-        "back": "It cites Erdogan imprisoning a rival, MBS ordering detentions and allegedly Khashoggi's murder, and Pakistan's federal government imposing emergency rule in KP and jailing political opponents."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791944621379-973",
-    "title": "Will China beat the US in AI?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037054/will-china-beat-the-us-in-ai",
-    "date": "2026-10-14",
-    "author": "none@none.com (Asad Baig)",
-    "content": "IN China, people are being paid to fold clothes, wipe tables, and open microwave doors. Wearing virtual reality headsets and exoskeletons, they repeat the movements hundreds of times so humanoid robots can learn them. Across China, similar centres have people performing other painfully ordinary tasks. The work looks mundane, but it produces precious data.\nIt may seem like an odd way to begin a story about geopolitics, but like this piece, it offers im­­portant clues about who is better placed to ‘win’ the AI race — China or the US? The winner will have a much larger say in the next world order.\nDonald Trump insists America must win the AI race, a contest his administration has likened to the Cold War’s ‘space race’. The analogy is attractive, but Michael Kratsios, Trump’s science advi­ser, later conceded the obvious problem. Unlike the race to the moon, this one has no finish line.\nOn the conventional scoreboard, the US rem­ains formidable. Stanford’s 2026 AI Index counts 59 notable American models in 2025 against China’s 35. US private AI investment exceeded China’s 23 times over, though this understates Chinese spending through government funds. Yet the report says the model performance gap has “effectively closed”, as of March 2026, the leading US model was ahead by just 2.7 per cent.\nPakistan does not need to win the AI race. It needs to win from AI.\nFrontier models are not the only measure of success. China may be building its advantage by pushing AI into the physical economy.\nIn March, the US China Economic and Security Review Commission ‘warned’ of a reinforcing lo­­­op in China. Cheap, open models spread into fa­­c­­to­r­ies, logistics, and robotics. Their use generates specialised real-world data, which then imp­roves the models. That could create an advantage proprietary American systems may struggle to mat­ch, even if they remain stronger on benchmarks.\nMost importantly, China had classified data as a factor of production in 2020. Factories are paid for access to workers wearing cameras and sensors, while others earn money performing household tasks to train robots.\nOn the flip side, America’s AI boom grew out of an internet economy built on years of accumulated online content and behavioural data, where major platforms are accused of “vast surveillance” by the FTC, with users having little control over their data’s use.\nI am not suggesting China has a better privacy regime. It does not. The point is that China is producing, pricing, and feeding data back into industry, building an ecosystem that could give it an immense edge over the US.\nAnd it already has the machinery. China had more than two million industrial robots operating by 2024 and installed 354,000 in 2025 alone. According to the International Federation of Robotics, China accounted for 59pc of new industrial robot installations worldwide in 2025. The real advantage may, therefore, be the ecosystem itself, ie, factories produce robots, robots produce data, data improves AI, and AI improves factories.\nThen comes energy, as I argued earlier in these pages. The International Energy Agency (IEA) expects data centre electricity use to nearly double to 950 terawatt-hours by 2030. Whoever can expand reliable, affordable power fastest will have an edge in building the AI ecosystem.\nIn the US, data centres are expected to account for nearly half of electricity demand growth to the end of the decade, while natural gas supplies more than 40pc of their electricity. Grid delays are pushing developers towards on-site gas generation. But the IEA says ensuring reliable supply requires generating capacity 30pc to 70pc above demand, while turbine shortages may undermine hopes of getting power faster.\nTo its advantage, China accounts for around 85pc of global solar supply chain production capacity and 80pc of lithium-ion battery capacity. It added nearly 500 gigawatts of renewable capacity in 2025 alone.\nThe idea isn’t to romanticise the figurative ‘Chinese model’, considering they still use coal to supply nearly 70pc of the electricity used by Chinese data centres. But their advantage is clear. China manufactures much of the machinery needed to generate and store the next unit of electricity.\nHowever, China still faces weaknesses. It depends on foreign technology across parts of the semiconductor chain, while restrictions on advanced memory are raising domestic chip costs. Chinese firms are nevertheless developing alternatives to Nvidia, seeking to make AI deployment more affordable and reduce dependence on American hardware. The US retains substantial advantages in frontier research, Nvidia’s computing ecosystem and capital, but China is building more of the hardware and software needed for its own ecosystem.\nThe contest is also moving beyond the two countries. America’s AI Action Plan explicitly seeks to export full-stack US technology packages, including hardware, models, software and standards, whereas China is pushing open models and a competing international architecture.\nTo summarise, if I had to pick a likely winner in the figurative AI race, I would lean towards China. Its advantage may lie in how effectively it turns AI into industrial strength and economic productivity.\nBut the obvious question remains: Where does that leave Pakistan?\nPakistan should resist that pressure to choose sides and rethink what it means to become a regional AI leader. Competing in frontier chips, foundation models and vast data centres requires an industrial base we lack. Our scarce resources should go where they can make the greatest difference.\nAs I argued in ‘Pakistan’s AI checklist’, published in this paper in June, we need reliable power, computing capacity, local hosting for sensitive data, skilled people, local datasets, and rules that protect rights. We should use global tools where they help and build our own capacity where dependence leaves us vulnerable. The purpose of this investment must be clear.\nI have said this earlier as well. Pakistan does not need to win the AI race. It needs to win from AI. Helping farmers conserve water, teachers identify learning gaps, businesses become more productive, and public departments reduce waste would achieve more than another announcement about becoming an AI hub.\nChina’s lesson is that technology becomes power when it translates into productivity. Our greatest risk is becoming little more than a market for systems built elsewhere, with too little capacity to shape how they serve us.\nThe writer is the founder of Media Matters for Democracy.\nPublished in Dawn, October 14th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "International Relations / Current Affairs / Science & Technology / Economics",
-    "topic": "US-China AI Competition; Geopolitics of AI; Pakistan's AI Strategy",
-    "whyMatters": "This article provides a comprehensive analysis of the US-China AI race, highlighting critical dimensions beyond mere technological benchmarks, such as data ecosystems and energy. Understanding these nuances is crucial for competitive exam candidates to articulate informed perspectives on global power shifts and Pakistan's strategic positioning in the age of AI.",
-    "summary": [
-      "China is building a unique advantage in the AI race by deeply integrating AI into its physical economy, using human-in-the-loop data generation from real-world tasks to train robots and models.",
-      "While the US retains strengths in frontier models and private investment, the performance gap with China has effectively closed, with China's strategy of classifying data as a factor of production proving impactful.",
-      "China possesses significant structural advantages in energy infrastructure (dominant renewable energy supply chains) and industrial robotics, critical for powering and deploying extensive AI ecosystems.",
-      "Pakistan should adopt a strategy of 'winning from AI' by applying global and local AI tools to solve pressing domestic challenges rather than directly competing in the capital-intensive frontier AI development."
-    ],
-    "facts": [
-      "Stanford's 2026 AI Index reported 59 notable American AI models in 2025 against China's 35, but the model performance gap had \"effectively closed\" by March 2026.",
-      "China classified data as a factor of production in 2020, enabling a system where individuals and factories are compensated for generating real-world data to train AI.",
-      "China accounted for 59% of new industrial robot installations worldwide in 2025 and added nearly 500 gigawatts of renewable capacity in the same year."
-    ],
-    "academicReferences": [
-      "US China Economic and Security Review Commission: Warned of a 'reinforcing loop' in China, where cheap, open models generate specialized real-world data, improving the models.",
-      "International Energy Agency (IEA): Projects data centre electricity use to nearly double by 2030, emphasizing the critical role of reliable and affordable power for AI ecosystems.",
-      "International Federation of Robotics: Provides global statistics on industrial robot installations, highlighting China's dominant share in the market."
-    ],
-    "vocabulary": [
-      {
-        "word": "Exoskeletons",
-        "type": "noun",
-        "definition": "Wearable robotic devices that support or enhance human movement and strength.",
-        "sentence": "Wearing virtual reality headsets and *exoskeletons*, they repeat the movements hundreds of times so humanoid robots can learn them."
-      },
-      {
-        "word": "Mundane",
-        "type": "adjective",
-        "definition": "Lacking interest or excitement; dull.",
-        "sentence": "The work looks *mundane*, but it produces precious data."
-      },
-      {
-        "word": "Proprietary",
-        "type": "adjective",
-        "definition": "Relating to an owner or ownership; (of a product) marketed under a registered trade name as made only by a particular firm.",
-        "sentence": "That could create an advantage *proprietary* American systems may struggle to match."
-      },
-      {
-        "word": "Terawatt-hours",
-        "type": "noun",
-        "definition": "A unit of energy equal to one trillion (10^12) watt-hours, commonly used for measuring large-scale electricity consumption or generation.",
-        "sentence": "The International Energy Agency (IEA) expects data centre electricity use to nearly double to 950 *terawatt-hours* by 2030."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is China's primary unique advantage in the global AI race?",
-        "options": [
-          "Superiority in frontier model performance by a significant margin.",
-          "An internet economy built on vast accumulated online content and behavioral data.",
-          "A strategy of classifying data as a factor of production to integrate AI into the physical economy.",
-          "Exclusive access to advanced semiconductor technology for AI development."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that China classified data as a factor of production in 2020, building an ecosystem by producing, pricing, and feeding data back into industry through real-world task training."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does China's data generation strategy differ from the US, and what advantage does it create?",
-        "back": "China classifies data as a factor of production, actively paying people to perform real-world tasks to generate specialized data for training robots and AI models, creating a unique data ecosystem for its physical economy."
-      },
-      {
-        "front": "What key advantages does China hold in terms of energy and hardware for AI infrastructure?",
-        "back": "China accounts for 85% of global solar supply chain production and 80% of lithium-ion battery capacity, enabling rapid renewable energy expansion. It also dominates industrial robot installations, providing hardware for data generation."
-      },
-      {
-        "front": "Despite its advancements, what critical technological vulnerability does China face in the AI domain?",
-        "back": "China remains dependent on foreign technology across parts of the semiconductor chain, and restrictions on advanced memory are raising domestic chip costs, posing a challenge to its self-reliance."
-      },
-      {
-        "front": "What AI strategy does the author recommend for Pakistan, and why is it more suitable than directly competing in the AI race?",
-        "back": "Pakistan should focus on 'winning from AI' by applying it to solve domestic problems like water conservation, education, and public sector efficiency. This optimizes scarce resources by addressing local needs rather than competing in capital-intensive frontier AI development."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791944864784-310",
-    "title": "Deeper poverty\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037049/deeper-poverty",
-    "date": "2026-10-14",
-    "author": "none@none.com (Editorial)",
-    "content": "PAKISTAN’S poverty crisis is far deeper than official indicators suggest. While the government celebrates economic stabilisation, almost four in every 10 Pakistanis suffer from deprivation in health, education, and living standards. The latest UNDP figures put multidimensional poverty at 38.3pc of the population against 19.3pc for South Asia. We are worse off than nearby countries — poverty affects 16.4pc of India’s and 14.9pc of Bangladesh’s population. These estimates are based on surveys from different years, however, and should not be treated as a strictly contemporaneous ranking. Still, the comparison is an indictment of our development priorities.\nThat Pakistan’s multidimensional poverty rate is almost twice the regional average is not simply a reflection of low incomes. The index captures deficiencies in nutrition, child health, schooling, sanitation, drinking water, electricity, housing, and other necessities. A family may earn enough to remain above an income-based poverty line and still lack access to these essentials. The intensity of deprivation for the multidimensionally poor is 51.7pc. Another 12.9pc of the population is vulnerable to such poverty. This means millions more risk falling into acute deprivation when faced with illness, joblessness, rising food prices, or climate-related disasters. Our poor performance exposes the limits of an economic strategy focused primarily on containing inflation, accumulating foreign exchange reserves and meeting fiscal targets. Though necessary, they cannot substitute for growth and development. An economy cannot sustain higher productivity when children miss school, malnutrition damages their development, and poor healthcare pushes households into financial distress. Economic stability should be judged by whether it improves people’s lives, not merely by whether the balance-of-payments holds or the budget deficit narrows. Pakistan’s widening development gap with India and Bangladesh is a warning that stability without investment in people will leave poverty entrenched.\nPublished in Dawn, October 14th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Challenges & Human Development in Pakistan",
-    "whyMatters": "The article offers a critical perspective on Pakistan's economic strategy, highlighting how a sole focus on macroeconomic stability (BoP, reserves) without human development perpetuates poverty and hinders sustainable growth. It enables students to argue that the 'Balance-of-Payments' constraint is deeply intertwined with structural issues of productivity and human capital, essential for long-term export competitiveness.",
-    "summary": [
-      "Pakistan's multidimensional poverty (38.3%) is significantly higher than the South Asian regional average (19.3%), indicating a deeper crisis than official income-based indicators suggest.",
-      "Multidimensional poverty captures deficiencies beyond income, including nutrition, child health, schooling, sanitation, drinking water, electricity, and housing, affecting millions even above the income poverty line.",
-      "The current economic strategy, primarily focused on containing inflation, accumulating foreign exchange reserves, and meeting fiscal targets, is deemed insufficient without corresponding investment in growth and human development.",
-      "Neglecting human capital leads to unsustainable productivity, financial distress, and an entrenched poverty cycle, thereby widening the development gap with neighboring countries like India and Bangladesh."
-    ],
-    "facts": [
-      "Multidimensional poverty affects 38.3% of Pakistan's population, compared to 19.3% for South Asia.",
-      "The intensity of deprivation for Pakistan's multidimensionally poor is 51.7%.",
-      "Another 12.9% of Pakistan's population is vulnerable to multidimensional poverty."
-    ],
-    "academicReferences": [
-      "Dr. Ishrat Husain's analyses on Pakistan's economic structural issues and development challenges.",
-      "UNDP Human Development Report (specifically for multidimensional poverty index analysis).",
-      "Sustainable Development Goals (SDGs), particularly SDG 1 (No Poverty) and SDG 8 (Decent Work and Economic Growth)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Deprivation",
-        "type": "noun",
-        "definition": "The damaging lack of material benefits considered to be basic necessities in a society.",
-        "sentence": "Almost four in every 10 Pakistanis suffer from deprivation in health, education, and living standards."
-      },
-      {
-        "word": "Indictment",
-        "type": "noun",
-        "definition": "A formal accusation or a strong indication that a system or policy is faulty.",
-        "sentence": "Still, the comparison is an indictment of our development priorities."
-      },
-      {
-        "word": "Contemporaneous",
-        "type": "adjective",
-        "definition": "Existing or occurring at the same period of time.",
-        "sentence": "These estimates are based on surveys from different years, however, and should not be treated as a strictly contemporaneous ranking."
-      },
-      {
-        "word": "Fiscal targets",
-        "type": "noun phrase",
-        "definition": "Specific objectives related to a government's revenue, expenditure, and budget balance.",
-        "sentence": "Our poor performance exposes the limits of an economic strategy focused primarily on containing inflation, accumulating foreign exchange reserves and meeting fiscal targets."
-      },
-      {
-        "word": "Entrenched",
-        "type": "adjective",
-        "definition": "Firmly established and difficult or unlikely to change; deeply embedded.",
-        "sentence": "Stability without investment in people will leave poverty entrenched."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what percentage of Pakistan's population is affected by multidimensional poverty?",
-        "options": [
-          "19.3%",
-          "38.3%",
-          "16.4%",
-          "12.9%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'The latest UNDP figures put multidimensional poverty at 38.3pc of the population'."
-      },
-      {
-        "question": "The article critically argues that Pakistan's current economic strategy is limited because it focuses too much on which of the following?",
-        "options": [
-          "Human capital development and education",
-          "Containing inflation and accumulating foreign exchange reserves",
-          "Export promotion and trade liberalization",
-          "Agricultural reforms and rural development"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'Our poor performance exposes the limits of an economic strategy focused primarily on containing inflation, accumulating foreign exchange reserves and meeting fiscal targets.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism leveled against Pakistan's current economic strategy regarding poverty alleviation and sustainable growth?",
-        "back": "The strategy focuses excessively on macroeconomic stability (inflation control, foreign exchange reserves, fiscal targets) and inadequately on sustained growth and human development (health, education)."
-      },
-      {
-        "front": "How does the article connect high multidimensional poverty to Pakistan's long-term economic productivity and competitiveness?",
-        "back": "It argues that widespread deprivation in health, education, and living standards prevents an economy from sustaining higher productivity and traps households in financial distress, hindering overall economic growth and competitiveness."
-      },
-      {
-        "front": "According to the article, what critical warning does Pakistan's widening development gap with India and Bangladesh convey?",
-        "back": "It warns that economic stability achieved merely through financial targets, without substantial investment in its people, will ultimately lead to entrenched poverty and an inability to achieve sustainable development and competitive advantage."
-      },
-      {
-        "front": "Beyond income, what key areas of deprivation does the multidimensional poverty index capture, as highlighted in the article?",
-        "back": "The index captures deficiencies in nutrition, child health, schooling, sanitation, drinking water, electricity, housing, and other necessities."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791944951964-41",
-    "title": "Faceless taxman\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037053/faceless-taxman",
-    "date": "2026-10-14",
-    "author": "none@none.com (Iman Shahbaz Cheema)",
-    "content": "IN June 2026, Prime Minister Shehbaz Sharif approved a New Tax Operating Model — launched this month — to adopt a centralised, digital ‘faceless’ system that replaces individual tax officers with one that has sweeping authority over taxpayers’ cases. Cases will be allocated via an algorithm, and the hearings will move online. The goal is to end direct, discretionary contact between officials and taxpayers, which has long been accused of harassment, bribery, and outright collusion.\nIt remained only a policy announcement until the Finance Bill 2026, which took effect on July 1, 2026, gave the model legal force by amending the Sales Tax Act, the Income Tax Ordinance, and the Customs Act. But the amendments did not create any new or required procedural rights for taxpayers specific to the faceless context and routed existing appeal mechanisms, adopting whatever weaknesses and strengths they already had.\nThis reform responds to a serious problem, as the FBR cites in support of the plan: 8,697 individuals holding a combined Rs750 billion in bank deposits reported zero income. Centralisation of audit selection through an algorithm is a defensible response to this reality. But this reform leaves one question unanswered: if a business is assessed, penalised, or denied a refund under an algorithmic case allocation system, what does the business get in return? What does due process look like when an anonymous unit makes the decision?\nIt is tempting to view a ‘faceless’ system as the equivalent of a ‘fair’ system. This improvement is genuine and welcome, as most complaints filed on the Pakistan Citizen’s Portal show just how badly things work for ordinary taxpayers. Digitising the process is reasonable. But discretion does not disappear when a human officer is replaced with a case-routing algorithm or by a distant unit. It moves from visible to invisible discretion — the latter is embedded in a data model and the design choices of whoever built the Central Data Hub. Face-to-face corruption can be witnessed, but corruption embedded in a black-box algorithm can be denied and hidden.\nCorruption embedded in an algorithm can remain hidden.\nIf Pakistan wants this reform actually to deliver justice rather than merely relocate discretion, several elements must be added. They should not be optional extras; they should form the core of the reform.\nThe right to information and reasons: A specific and substantive explanation must be given to every business that is assessed by the National Assessment Wing about why a demand was raised. The final assessment order must lay out the facts and reasoning in enough detail for the taxpayer to contest it rather than guess at it.\nA real and timely right to appeal: The reform proposes that the FBR will retain the authority to move tax appeals to a faceless format in phases. The sequencing matters, because an appeals system that remains slow, paper-based, and subject to the same information asymmetries as the assessment stage will reproduce the old system at one level up.\nContestability of the algorithm, not just the outcome: It is essential to assess whether independent oversight bodies, such as the Finance Committee, can examine whether the model is biased and systematically flags certain sectors, cities, or business sizes unfairly. An algorithm that cannot be audited by anyone outside the tax authorities is simply discretion in technical disguise.\nProportionate treatment of small businesses: While a large corporate taxpayer is well-equip­ped and resourced enough to navigate a digital, document-heavy, and faceless system, a small trader who already struggles with e-filing or an entrepreneur who doesn’t have enough funds is not. If the Field Operation Wing’s facilitation role is under-resourced compared with its enforcement role, the new system will benefit only taxpayers who can afford professional representation. This will perpetuate the same unevenness and continuity of injustice that the reform was meant to fix.\nNone of this argues against digitising the tax administration, but Pakistan does not merely need a faceless tax administration. It needs a new system with transparency obligations and accountability that a human face, however imperfect, is in a position to provide. The new system also needs to build enforceable rights for the taxpayer. This will determine whether the reform is remembered as genuine modernisation or as the moment when discretion in Pakistan’s tax system simply learnt to hide better.\nThe writer is a law student at Lums with research interests in gender, AI and public policy.\nPublished in Dawn, October 14th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "Public Policy / Governance / Economics",
-    "topic": "Tax Reform and Digital Governance in Pakistan: Challenges and Opportunities",
-    "whyMatters": "This article is crucial for understanding Pakistan's ongoing tax reforms, particularly the shift towards digital governance and its implications for transparency and accountability. Aspirants can use its arguments to critically analyze policy implementation, the challenges of algorithmic bias, and the importance of due process in administrative reforms.",
-    "summary": [
-      "Pakistan launched a 'faceless' tax system in June 2026, aiming to digitize tax administration and eliminate direct contact between officials and taxpayers to combat corruption (harassment, bribery, collusion).",
-      "While the reform addresses serious issues like widespread tax evasion (e.g., individuals with high deposits reporting zero income), it currently lacks specific procedural rights and robust due process for taxpayers.",
-      "A major critique is that discretion merely shifts from visible human interaction to invisible algorithmic design, making corruption embedded in the 'black-box' algorithm harder to detect and deny.",
-      "To ensure genuine justice and modernization, the article advocates for the right to information/reasons, timely appeal mechanisms, contestability of the algorithm itself, and proportionate treatment for small businesses."
-    ],
-    "facts": [
-      "Prime Minister Shehbaz Sharif approved the New Tax Operating Model in June 2026, which launched in October 2026.",
-      "The Finance Bill 2026, effective July 1, 2026, gave legal force to the 'faceless' model by amending the Sales Tax Act, Income Tax Ordinance, and Customs Act.",
-      "The FBR cited 8,697 individuals holding a combined Rs750 billion in bank deposits but reporting zero income as a key justification for the reform."
-    ],
-    "academicReferences": [
-      "Transparency International's Corruption Perception Index (relevant for understanding the context of corruption in tax administration).",
-      "OECD Digital Government Toolkit (useful for best practices in digital public service delivery and accountability frameworks).",
-      "Principles of Administrative Law (concepts of due process, natural justice, and the right to reasons in government decision-making)."
-    ],
-    "vocabulary": [
-      {
-        "word": "Discretionary",
-        "type": "adjective",
-        "definition": "Available for use at the discretion of the user; left to individual choice or judgment.",
-        "sentence": "The old tax system was criticized for its *discretionary* contact, leading to opportunities for corruption."
-      },
-      {
-        "word": "Collusion",
-        "type": "noun",
-        "definition": "Secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.",
-        "sentence": "The 'faceless' system aims to prevent *collusion* between tax officers and taxpayers."
-      },
-      {
-        "word": "Asymmetries",
-        "type": "noun",
-        "definition": "Lack of equality or equivalence between parts or aspects of something; imbalance.",
-        "sentence": "An appeals system with information *asymmetries* will perpetuate the old problems."
-      },
-      {
-        "word": "Contestability",
-        "type": "noun",
-        "definition": "The quality of being open to challenge or dispute.",
-        "sentence": "The article emphasizes the importance of the *contestability* of the algorithm itself."
-      },
-      {
-        "word": "Perpetuate",
-        "type": "verb",
-        "definition": "Make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
-        "sentence": "Without proper reforms, the new system might *perpetuate* the same unevenness and injustice."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary stated goal of the new 'faceless' tax system in Pakistan?",
-        "options": [
-          "To end direct, discretionary contact between officials and taxpayers",
-          "To increase tax collection revenue significantly",
-          "To reduce the number of FBR employees",
-          "To provide new procedural rights for taxpayers"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states the goal is 'to end direct, discretionary contact between officials and taxpayers, which has long been accused of harassment, bribery, and outright collusion.'"
-      },
-      {
-        "question": "According to the article, what significant problem does the FBR cite to justify the reform?",
-        "options": [
-          "A decline in overall tax revenue",
-          "Thousands of individuals with large bank deposits reporting zero income",
-          "A high number of appeals against FBR decisions",
-          "The complexity of the previous tax laws"
-        ],
-        "answerIndex": 1,
-        "explanation": "The FBR cited '8,697 individuals holding a combined Rs750 billion in bank deposits reported zero income' as justification for the plan."
-      },
-      {
-        "question": "What does the author suggest is a major risk of discretion moving from 'visible to invisible' in the new system?",
-        "options": [
-          "It will increase the workload for tax officers",
-          "It makes corruption embedded in an algorithm harder to detect and deny",
-          "It will slow down the appeal process",
-          "It will discourage e-filing"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Face-to-face corruption can be witnessed, but corruption embedded in a black-box algorithm can be denied and hidden.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the fundamental problem the new 'faceless' tax system in Pakistan aims to solve?",
-        "back": "It aims to end direct, discretionary contact between tax officials and taxpayers, which has historically led to harassment, bribery, and collusion."
-      },
-      {
-        "front": "What critical aspect of due process is currently missing from the 'faceless' tax model, according to the article?",
-        "back": "The model lacks new or required procedural rights for taxpayers specific to the faceless context, merely routing existing appeal mechanisms with their inherent weaknesses."
-      },
-      {
-        "front": "Explain the concept of 'invisible discretion' as described in the article regarding algorithmic tax administration.",
-        "back": "Invisible discretion refers to biases and design choices embedded within the data model and algorithms of the Central Data Hub, making it difficult to detect compared to visible human discretion."
-      },
-      {
-        "front": "What four key elements does the author propose adding to the 'faceless' reform to ensure it delivers justice?",
-        "back": "The right to information and reasons, a real and timely right to appeal, contestability of the algorithm, and proportionate treatment of small businesses."
-      },
-      {
-        "front": "Why might the new system disproportionately disadvantage small businesses compared to large corporations?",
-        "back": "Small businesses often struggle with digital processes and lack resources for professional representation, unlike large corporations that are well-equipped to navigate complex digital, document-heavy systems."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792202197123-876",
-    "title": "A perfect storm\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037055/a-perfect-storm",
-    "date": "2026-10-14",
-    "author": "none@none.com (Zahid Hussain)",
-    "content": "SOME statements by the ruling party leaders hailing the decision to impose a state of emergency and governor’s rule in KP bring to mind the words of a political leader following the military operation in East Pakistan in 1971: “Thank God, Pakistan is saved.” In fact, that action led to the separation of the eastern wing. Indeed, comparing the two situations may not be correct. Still, such reckless action against a provincial government that holds a two-thirds majority in the assembly could provoke a combustible environment, further destabilising a country that is facing multiple challenges on both the internal and external fronts.\nFor some time, it had been apparent that the hybrid set-up had opted for what is sometimes described as the ‘nuclear option’, as tensions between Islamabad and Peshawar heightened over the PTI’s threat to march on Islamabad. The capital was sealed off with containers, and the highways leading to the city were blocked. Hopes of ending the stand-off arose earlier this month when the government and the opposition agreed to talk. But even a marathon meeting and back-channel contacts failed to break the stalemate.\nDespite the blame game, it was clear the powers that be were not prepared to agree to the PTI’s major demand — a meeting with Imran Khan — or to implement the orders of the Islamabad High Court and the Supreme Court. While the differences were purely political, the government maintained that the talks broke down over the PTI provincial government’s refusal to cooperate on counterterrorism operations. Some federal ministers declared the PTI government to be an extension of the TTP. The PTI and the provincial government indeed have no clear view regarding the rising cases of terrorism in the province. Still, the party was willing to cooperate provided it was allowed to give its input in any policy. None of it was beyond resolution once the political issues were settled.\nAccording to Maulana Fazlur Rahman, who was asked to mediate at the last moment, the PTI was ready to call off its protest march if the government allowed it a meeting with its detained leader. But before his shuttle diplomacy could reach any conclusion, the government imposed a state of emergency in KP, shutting the door on any political solution. The talks seem to have been a mere cover for the crackdown. The protest march that paralysed the province, along with defiant speeches by a novice chief minister, gave the centre justification for the extreme action it took.\nWithout a popular political base, it will not be easy to run a volatile region.\nIn fact, the province was already under unannounced governor’s rule before the formal announcement. While the chief minister led the protest march, the chief secretary and police chief took orders from the governor and Islamabad. Some KP cabinet members and legislators were picked up without the provincial government’s permission.\nThe governor now rules the province, and an indefinite state of emergency has been declared. The provincial government is dissolved, and the non-functional chief minister, Sohail Afridi, and some of his cabinet colleagues have been detained. Indications are that Afridi and some other local PTI leaders could be tried for their alleged involvement in the May 9 attacks and disqualified. Meanwhile, an 11-member advisory council, comprising mostly technocrats, has been installed to run the administration, overseen by Deputy Prime Minister Ishaq Dar. But the real power, though, lies with the establishment.\n    \nThis isn’t the first time an elected provincial government has been sent packing. Still, such swe­­eping action against a government that enjo­yed a two-thirds majority in the assembly has not been seen in recent history. Without a popular political base, it will not be easy to run the administration of a highly volatile region in the midst of resurgent terrorism and a hostile border.\nThere may have been no immediate public reaction to the government’s removal and the crackdown on its leaders, but the tension is palpable. The containers may have been removed in Islamabad, but Peshawar is now barricaded to protect government offices and installations. Educational institutions are closed, and internet services have yet to be restored in many places. The eerie lull speaks of a gathering storm. Governing a highly politicised region from Islamabad or Rawalpindi cannot deliver the desired result, and using force could fuel anger.\n    \nMost concerning is that it could lead to an unholy alliance between alienated PTI workers and the TTP in troubled districts, compounding the country’s internal security challenges. A fragmented political party can pose a greater threat to internal security. It is a ticking time bomb.\nWhat happened in KP is an extension of the authoritarianism trend in the country. The removal of an elected government headed by a party that still enjoys massive popular support, not only in the province but across the country, despite continuing state persecution, will further destabilise the situation. Some federal ministers’ claims that emergency rule has saved KP, as well as Pakistan, are misplaced. The reckless action has further weakened a federal government of questionable legitimacy.\nVoices already say the present system cannot deliver. They are also calling for a reset of the redundant system. The fault line within the hybrid rule is widening. Emergency rule in KP seems to be the first step towards the resetting of the system — something that has repeatedly been echoed by a minister with strong ties to the establishment.\nThat projected resetting is not meant to restore democracy but to reinforce authoritarianism. With the judiciary constrained by the 26th and 27th Amendments that were rubber-stamped by a compliant parliament, and with various laws curbing freedom of expression, the path towards greater authoritarian rule seems set. We are witnessing a transition from hybrid to hard rule. It is a perfect storm.\nThe writer is an author and journalist.\nzhussain100@yahoo.com\nX: @hidhussain\nPublished in Dawn, October 14th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 79,
-    "paper": "Pakistan Affairs / Current Affairs",
-    "topic": "Federal-Provincial Relations, Governance Crisis, and Democratic Backsliding in Pakistan",
-    "whyMatters": "This article offers crucial insights into the current political instability, erosion of federalism, and the shift towards authoritarian governance in Pakistan. It provides a contemporary case study essential for understanding challenges to democracy and internal security for competitive exams.",
-    "summary": [
-      "The imposition of emergency and governor's rule in KP, despite the provincial government holding a two-thirds majority, is a reckless action risking severe destabilization and echoing past national tragedies.",
-      "Political negotiations between the federal government and PTI broke down due to the 'powers that be' refusing key PTI demands, with counterterrorism concerns used as a pretext for the crackdown.",
-      "The removal of an elected provincial government without popular support in a highly volatile region, amidst resurgent terrorism, sets a dangerous precedent and threatens internal security through potential radicalization.",
-      "This incident signifies a broader trend towards authoritarianism in Pakistan, characterized by a constrained judiciary, restricted freedom of expression, and a projected 'resetting' of the system to reinforce hard rule."
-    ],
-    "facts": [
-      "The dissolved PTI provincial government in KP held a two-thirds majority in the assembly.",
-      "The 26th and 27th Amendments are cited as mechanisms constraining the judiciary, contributing to a move towards greater authoritarian rule.",
-      "An 11-member advisory council, predominantly technocrats, has been installed to manage KP's administration, overseen by Deputy Prime Minister Ishaq Dar."
-    ],
-    "academicReferences": [
-      "Christophe Jaffrelot's 'The Pakistan Paradox: Instability and Resilience' (for broader context on political instability and state-society relations)",
-      "18th Amendment to the Constitution of Pakistan (for understanding federal-provincial autonomy and power distribution)",
-      "Doctrine of Necessity (a recurring legal-political concept in Pakistan used to justify extra-constitutional actions by the establishment)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Combustible",
-        "type": "adjective",
-        "definition": "easily inflamed or aroused; prone to rapid political unrest.",
-        "sentence": "Such reckless action against a provincial government that holds a two-thirds majority in the assembly could provoke a combustible environment."
-      },
-      {
-        "word": "Stalemate",
-        "type": "noun",
-        "definition": "a situation in which no progress can be made or no advancement is possible.",
-        "sentence": "But even a marathon meeting and back-channel contacts failed to break the stalemate."
-      },
-      {
-        "word": "Shuttle diplomacy",
-        "type": "noun",
-        "definition": "negotiation between two parties by a mediator who travels back and forth between them.",
-        "sentence": "But before his shuttle diplomacy could reach any conclusion, the government imposed a state of emergency in KP."
-      },
-      {
-        "word": "Authoritarianism",
-        "type": "noun",
-        "definition": "the enforcement or advocacy of strict obedience to authority at the expense of personal freedom; a political system with strong central power and limited political freedoms.",
-        "sentence": "What happened in KP is an extension of the authoritarianism trend in the country."
-      },
-      {
-        "word": "Legitimacy",
-        "type": "noun",
-        "definition": "conformity to the law or to rules; the ability to be defended with logic or justification; popular acceptance of authority.",
-        "sentence": "The reckless action has further weakened a federal government of questionable legitimacy."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary reason cited by the federal government for the breakdown of talks with PTI, according to the article?",
-        "options": [
-          "PTI's refusal to cooperate on counterterrorism operations.",
-          "PTI's demand for a meeting with Imran Khan.",
-          "The protest march that paralysed the province.",
-          "Defiant speeches by the novice chief minister."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states: 'the government maintained that the talks broke down over the PTI provincial government’s refusal to cooperate on counterterrorism operations,' despite acknowledging that 'the differences were purely political'."
-      },
-      {
-        "question": "The author compares the statements hailing the emergency rule in KP to similar remarks made after which historical event in Pakistan?",
-        "options": [
-          "The Kargil War in 1999.",
-          "The military operation in East Pakistan in 1971.",
-          "The imposition of martial law in 1958.",
-          "The Zulfiqar Ali Bhutto government's removal in 1977."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly opens with: 'SOME statements by the ruling party leaders hailing the decision to impose a state of emergency and governor’s rule in KP bring to mind the words of a political leader following the military operation in East Pakistan in 1971'."
-      },
-      {
-        "question": "What is the author's most concerning prediction regarding the future consequences of the crackdown in KP?",
-        "options": [
-          "Increased foreign intervention in Pakistan's internal affairs.",
-          "A complete breakdown of the economy due to instability.",
-          "An unholy alliance between alienated PTI workers and the TTP.",
-          "The permanent closure of educational institutions in the region."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Most concerning is that it could lead to an unholy alliance between alienated PTI workers and the TTP in troubled districts, compounding the country’s internal security challenges.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the author characterize the imposition of emergency and governor's rule in KP concerning federal-provincial relations?",
-        "back": "The author views it as a 'reckless action' against a provincial government with a two-thirds majority, setting a dangerous precedent that could further destabilize the country."
-      },
-      {
-        "front": "What does the author imply by describing the current situation as a 'perfect storm'?",
-        "back": "It implies a convergence of multiple severe challenges, including political instability, economic woes, resurgent terrorism, and a shift towards reinforced authoritarian rule, creating an extremely perilous environment for Pakistan."
-      },
-      {
-        "front": "What role do the 26th and 27th Amendments play in the author's analysis of the country's political trajectory?",
-        "back": "The author suggests these amendments constrain the judiciary, allowing a 'compliant parliament' to rubber-stamp measures that reinforce authoritarianism and curb freedom of expression, facilitating a transition to 'hard rule'."
-      },
-      {
-        "front": "What is the key danger associated with governing a highly politicized region like KP from Islamabad or Rawalpindi, according to the article?",
-        "back": "The article warns that governing from the center 'cannot deliver the desired result' and that 'using force could fuel anger,' potentially leading to an 'unholy alliance' between alienated political workers and extremist groups like the TTP."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791944781162-788",
-    "title": "Narrative confusion\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037051/narrative-confusion",
-    "date": "2026-10-14",
-    "author": "none@none.com (Editorial)",
-    "content": "AS the information minister on Tuesday proclaimed that the people of KP had “welcomed” the imposition of governor’s rule and emergency in the province, he seemed to be forgetting that citizens had also distributed sweets and celebrated when the late Gen Pervez Musharraf overthrew Nawaz Sharif’s government almost to the day, 27 years ago. The parallel is not exact: one was a military coup, the other a constitutional provision invoked by an elected government. Yet, the lesson holds. Public approval, however genuine, did not legitimise the removal of an elected government then, and it cannot by itself justify the removal of an elected government in KP now. If anything, the minister’s remarks are a reminder of how rarely Pakistan’s political class draws the obvious lessons from its own history.\nThere are two official versions of why the KP government has been dismissed. On Sunday, the interior minister was far more circumspect than the information minister while providing the state’s rationale, insisting that the decision was “not political” and “only security-related”. He had been negotiating with the PTI till the eleventh hour, trying to avoid imposing governor’s rule and emergency on the province, he said. “Our issue was entirely terrorism-related, and we want[ed] to take you on board on it,” he asserted, addressing the opposition. The information minister, on the other hand, alleged the PTI had an “unholy alliance with terrorists”. Which of those two narratives, offered from the same platform, was true? If a political party was colluding with terrorists, why was the state negotiating and not making arrests based on the ‘evidence’ the information minister claimed to possess? The disconnect suggests that the government has yet to settle on a coherent justification for a decision of this gravity.\nMeanwhile, KP Governor Faisal Karim Kundi has said his advisory council will take its policies from Islamabad. Why not from the people of KP, who will be most affected by them? Perhaps unwittingly, the governor has sent the clearest possible signal that KP’s mandate is being held in abeyance. What the government in the centre and the governor’s new set-up in KP need to realise is that their words are not reaching only the leaders of a rival party, but also being heard by all those who helped elect those individuals to office. If winning the confidence of the people of KP is not a priority at this stage, it ought to be. Governor’s rule is, by constitutional design, a temporary measure. The centre must say clearly how long it intends it to last, what it hopes to achieve in that time, and how the province’s elected mandate will be restored. Anything less will only confirm the impression that this was never solely about security.\nPublished in Dawn, October 14th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Pakistan Affairs / Constitutional Law / Political Science",
-    "topic": "Governor's Rule, Federalism, and Political Legitimacy",
-    "whyMatters": "This article critically analyzes the imposition of Governor's Rule, drawing historical parallels and exposing inconsistencies in official justifications. It is vital for understanding constitutional provisions, federal-provincial dynamics, and the critical role of narrative in political legitimacy, all frequent themes in competitive exams.",
-    "summary": [
-      "Public approval, however genuine, does not legitimize the removal of an elected government, drawing a parallel with Gen. Musharraf's coup 27 years ago.",
-      "The government offered conflicting narratives regarding the imposition of Governor's Rule in KP, one citing security and the other alleging an 'unholy alliance with terrorists'.",
-      "The KP Governor's statement about taking policy directives from Islamabad signals that the provincial mandate is being held in abeyance, undermining public confidence.",
-      "The federal government must provide a clear timeline, objectives, and a restoration plan for KP's elected mandate to ensure transparency and legitimacy of Governor's Rule."
-    ],
-    "facts": [
-      "Information Minister proclaimed that people of KP 'welcomed' the imposition of governor’s rule and emergency.",
-      "Gen Pervez Musharraf overthrew Nawaz Sharif’s government almost 27 years prior to the article's date.",
-      "KP Governor Faisal Karim Kundi stated his advisory council will take its policies from Islamabad.",
-      "The article was published in Dawn on October 14th, 2026."
-    ],
-    "academicReferences": [
-      "The Constitution of Pakistan, 1973 (specifically Articles 232, 234, 235 concerning emergency provisions and Governor's Rule).",
-      "18th Amendment to the Constitution of Pakistan (its impact on provincial autonomy and limitations on federal powers).",
-      "Supreme Court Judgments on dismissal of provincial governments (e.g., historical cases setting precedents for constitutional application)."
-    ],
-    "vocabulary": [
-      {
-        "word": "proclaimed",
-        "type": "verb",
-        "definition": "announced officially or publicly.",
-        "sentence": "The information minister *proclaimed* that the people of KP had 'welcomed' the imposition of governor’s rule."
-      },
-      {
-        "word": "circumspect",
-        "type": "adjective",
-        "definition": "wary and unwilling to take risks; cautious.",
-        "sentence": "On Sunday, the interior minister was far more *circumspect* than the information minister while providing the state’s rationale."
-      },
-      {
-        "word": "colluding",
-        "type": "verb",
-        "definition": "cooperating in a secret or unlawful way in order to deceive or cheat others.",
-        "sentence": "If a political party was *colluding* with terrorists, why was the state negotiating?"
-      },
-      {
-        "word": "abeyance",
-        "type": "noun",
-        "definition": "a state of temporary disuse or suspension.",
-        "sentence": "Perhaps unwittingly, the governor has sent the clearest possible signal that KP’s mandate is being held in *abeyance*."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What primary concern does the article raise regarding the official justifications for imposing Governor's Rule in KP?",
-        "options": [
-          "A) The justifications were inconsistent and contradictory, undermining their credibility.",
-          "B) The justifications failed to acknowledge the constitutional right to protest.",
-          "C) The justifications were solely based on economic instability.",
-          "D) The justifications provided too much detail, confusing the public."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly points out the 'disconnect' between the Interior Minister's 'security-related' rationale and the Information Minister's allegation of an 'unholy alliance with terrorists,' highlighting the inconsistency."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What historical event does the article use to caution against relying solely on public approval to legitimize the removal of an elected government?",
-        "back": "The overthrow of Nawaz Sharif's government by Gen. Pervez Musharraf almost 27 years prior."
-      },
-      {
-        "front": "According to the article, what is the significance of KP Governor Faisal Karim Kundi's statement about his advisory council taking policies from Islamabad?",
-        "back": "It signals that KP's elected mandate is being held in abeyance, removing decision-making power from the provincial populace."
-      },
-      {
-        "front": "What critical step does the article suggest the federal government must take to ensure the legitimacy and transparency of Governor's Rule in KP?",
-        "back": "Clearly state how long it intends Governor's Rule to last, what it hopes to achieve, and how the province’s elected mandate will be restored."
-      },
-      {
-        "front": "What fundamental lesson does the article suggest Pakistan's political class rarely draws from its own history regarding public approval of political actions?",
-        "back": "Public approval, however genuine, does not by itself legitimize the removal of an elected government or unconstitutional actions."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791864954154-639",
-    "title": "Inequitable taxation\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036808/inequitable-taxation",
-    "date": "2026-10-13",
-    "author": "none@none.com (Editorial)",
-    "content": "FINANCE Minister Muhammad Aurangzeb has once more reviewed the latest incentive scheme to bring retailers into the tax net — and again, the meeting last week took place against disappointing results. Mr Aurangzeb says that the retailers’ tax scheme should not be seen as a one-year arrangement. That is an admission in itself. A simplified route, offered on easy terms, has not persuaded the sector to join, and the government is now preparing for a long wait. This is not the first attempt. Tajir Dost drew only about 58,000 registrations, according to reports, and was said to be falling short of its revenue target of Rs50bn. Before it came fixed-tax regimes, amnesties and reduced rates. Each ended with a new scheme being drawn up. Clearly, traders and wholesalers will not enter the system voluntarily, when staying out costs nothing. Incentives work when the alternative is a penalty. Instead, retail, real estate, and agriculture are the three major sectors the state has never taxed in proportion to their size. Retail has shutter-down power: the threat of a strike that closes markets has made governments retreat from documentation attempts.\nThe numbers show who pays. In FY26, the salaried class paid Rs633bn in income tax, far more than real estate and retailers put together. Salaried people are taxed at source and cannot hide; a retailer dealing in cash can. The organised corporate sector, which carries the super tax and high advance taxes, is in the same position. The burden falls on the documented, because they are the easiest to reach. A narrow base keeps rates high for those inside it, discouraging formal employment and investment. It starves the budget of money for social spending, so the gap is filled by borrowing and squeezing health, education, and infrastructure. Slower growth, fewer jobs, and more poverty follow; these, in turn, shrink the base. The government cannot keep financing itself in this manner. The way out is not another scheme. Instead, retailers and wholesalers should be treated like other taxpayers. That means compulsory registration, integration of point-of-sale systems with the FBR, and the use of electricity connections, bank transactions, and rent and property data to identify the unregistered. A tax system that exempts the powerful and burdens the compliant cannot support growth and cannot be defended as fair. Every kind of income must be taxed equitably.\nPublished in Dawn, October 13th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Economics / Pakistan Affairs / Current Affairs",
-    "topic": "Taxation System in Pakistan: Challenges, Reforms, and Economic Implications",
-    "whyMatters": "This article directly addresses critical issues of Pakistan's fiscal challenges and economic inequality, providing specific data and policy failures essential for essays and analytical questions on governance and economic reforms. It offers concrete arguments and proposed solutions regarding tax base expansion, a frequently asked topic in competitive exams.",
-    "summary": [
-      "Despite numerous incentive schemes, government attempts to bring retailers and wholesalers into the tax net have consistently failed due to a lack of perceived cost for non-compliance.",
-      "The tax burden disproportionately falls on the salaried class and the organized corporate sector, who are taxed at source, while major sectors like retail, real estate, and agriculture remain largely untaxed in proportion to their size.",
-      "This narrow and inequitable tax base leads to high tax rates for compliant taxpayers, discourages formalization, deprives the budget of funds for social spending, and exacerbates economic issues like slow growth, unemployment, and poverty.",
-      "The article advocates for a shift from voluntary schemes to compulsory registration and integration of untaxed sectors, utilizing modern data analytics from point-of-sale systems, electricity connections, bank transactions, and property records to ensure equitable taxation for all income types."
-    ],
-    "facts": [
-      "The Tajir Dost scheme reportedly drew only about 58,000 registrations.",
-      "The Tajir Dost scheme fell short of its revenue target of Rs50bn.",
-      "In FY26, the salaried class paid Rs633bn in income tax.",
-      "Retail, real estate, and agriculture are identified as three major sectors inadequately taxed in proportion to their size."
-    ],
-    "academicReferences": [
-      "Economic Survey of Pakistan (latest edition) - for detailed insights into Pakistan's fiscal policies and economic performance.",
-      "Federal Board of Revenue (FBR) Annual Reports - for official data on tax collection, reforms, and challenges.",
-      "IMF (International Monetary Fund) Country Reports for Pakistan - often contain recommendations and analysis on tax reforms and fiscal management."
-    ],
-    "vocabulary": [
-      {
-        "word": "Inequitable",
-        "type": "adjective",
-        "definition": "Unfair or unjust; not equal.",
-        "sentence": "The article highlights the **inequitable** burden of taxation on different segments of society."
-      },
-      {
-        "word": "Documentation",
-        "type": "noun",
-        "definition": "The process of recording information or providing evidence through records.",
-        "sentence": "Governments have faced strong resistance from traders regarding **documentation** attempts."
-      },
-      {
-        "word": "Proportion",
-        "type": "noun",
-        "definition": "A part, share, or number considered in relation to a whole.",
-        "sentence": "Major sectors like retail and agriculture are not taxed in **proportion** to their size."
-      },
-      {
-        "word": "Compliant",
-        "type": "adjective",
-        "definition": "Adhering to rules, requests, or regulations.",
-        "sentence": "A tax system that burdens the **compliant** while exempting others cannot support growth."
-      },
-      {
-        "word": "Amnesties",
-        "type": "noun",
-        "definition": "Periods during which taxes or penalties are waived to encourage tax compliance.",
-        "sentence": "Previous attempts included fixed-tax regimes and tax **amnesties**, but these also failed."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary reason retailers have resisted joining the tax net despite various incentive schemes?",
-        "options": [
-          "A) The perception that staying out costs nothing",
-          "B) Complex registration processes",
-          "C) High tax rates within the schemes",
-          "D) Lack of trust in government policies"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'Clearly, traders and wholesalers will not enter the system voluntarily, when staying out costs nothing.'"
-      },
-      {
-        "question": "Which three major sectors are specifically highlighted in the article as inadequately taxed in proportion to their size?",
-        "options": [
-          "A) IT, Telecommunications, Manufacturing",
-          "B) Retail, Real Estate, Agriculture",
-          "C) Banking, Services, Education",
-          "D) Mining, Energy, Transport"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'retail, real estate, and agriculture are the three major sectors the state has never taxed in proportion to their size.'"
-      },
-      {
-        "question": "What was the reported number of registrations for the Tajir Dost scheme mentioned in the article?",
-        "options": [
-          "A) Approximately 50,000",
-          "B) Approximately 58,000",
-          "C) Approximately 633,000",
-          "D) Approximately 5,000"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions, 'Tajir Dost drew only about 58,000 registrations, according to reports.'"
-      },
-      {
-        "question": "What is the core solution proposed by the article for addressing inequitable taxation, beyond offering new schemes?",
-        "options": [
-          "A) Increasing tax rates for the salaried class",
-          "B) Compulsory registration and integration of untaxed sectors with FBR systems",
-          "C) Reducing government social spending to balance the budget",
-          "D) Providing more generous tax amnesties"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article suggests, 'The way out is not another scheme. Instead, retailers and wholesalers should be treated like other taxpayers. That means compulsory registration, integration of point-of-sale systems with the FBR...'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core reason for the consistent failure of various tax incentive schemes aimed at retailers in Pakistan?",
-        "back": "Retailers perceive that there are no significant penalties or costs associated with remaining outside the formal tax system, making voluntary compliance unattractive."
-      },
-      {
-        "front": "How does the article explain why the salaried class bears a disproportionately high tax burden compared to sectors like retail or real estate?",
-        "back": "The salaried class is taxed at source and cannot hide their income, whereas sectors like retail often deal in cash, enabling tax evasion, and other powerful sectors remain untaxed."
-      },
-      {
-        "front": "What are the broader economic consequences of maintaining a narrow and inequitable tax base, according to the article?",
-        "back": "A narrow tax base leads to high rates for compliant taxpayers, discourages formal employment and investment, starves the budget for social spending, and ultimately results in slower growth, fewer jobs, and increased poverty."
-      },
-      {
-        "front": "Beyond offering new schemes, what specific measures does the article propose to ensure equitable taxation for retailers and wholesalers?",
-        "back": "Compulsory registration, integration of point-of-sale systems with the FBR, and leveraging data from electricity connections, bank transactions, and property records to identify unregistered entities."
-      }
-    ]
-  },
-  {
-    "id": "curated-1791865106302-43",
-    "title": "Taxila’s hidden past\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2036807/taxilas-hidden-past",
-    "date": "2026-10-13",
-    "author": "none@none.com (Editorial)",
-    "content": "A HILL dismissed more than a century ago as an unremarkable heap of ruins has yielded one of Taxila’s most intriguing archaeological finds. Excavations at Jandial, led by Italian archaeologists, have exposed a structure nearly 100m long and more than 50m wide. It is located on an ancient road from Jandial’s Greek-style Ionic temple, outside the walls of the ancient city of Sirkap. Was it a place of worship, a public building or part of a larger complex? No one yet knows. That uncertainty is precisely what makes the discovery exciting. Taxila was a meeting place of peoples, beliefs, and architectural traditions, and the newly discovered remains could help explain how its communities organised their lives beyond the city walls. The finding follows last year’s discoveries at Bhir Mound, which raised fresh questions about how early urban life developed in the region. Together, they suggest that present accounts of Taxila still leave much unexplored.\nThe immediate priority should be properly funded research rather than grand claims about what has been found. Archaeologists need time to establish the monument’s age, purpose, and relationship with neighbouring sites. Their findings, including plans, photographs, and scientific assessments, should be made accessible to researchers and the public. Authorities must also protect the surrounding ground from construction and encroachment before potential evidence disappears. This is especially important given Unesco’s concerns earlier this year that restoration work at Mohra Moradu and Sirkap had compromised the authenticity of their ancient remains. The lesson is relevant to Jandial: excavation without careful preservation can destroy as much knowledge as it reveals. Pakistan should welcome the Italian partnership while investing in local archaeologists, conservation specialists and students who can continue the work. The greatest reward from Jandial will be a fuller, more accurate account of the varied civilisations that once shared this land.\nPublished in Dawn, October 13th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 87,
-    "paper": "History of Pakistan / Pakistan Affairs",
-    "topic": "Archaeological Discoveries and Cultural Heritage Preservation in Pakistan",
-    "whyMatters": "This article highlights the continuous discovery of ancient civilizations within Pakistan, emphasizing the country's rich historical and cultural heritage. It also underscores critical issues of archaeological funding, proper research, and the urgent need for site preservation, which are key themes in cultural policy and development for competitive exams.",
-    "summary": [
-      "Recent excavations at Jandial, Taxila, have uncovered a significant, large ancient structure, revealing new insights into Taxila's complex past beyond city walls.",
-      "Taxila's historical role as a melting pot of diverse peoples, beliefs, and architectural traditions is reinforced by these discoveries, challenging existing accounts of early urban life in the region.",
-      "The article stresses the immediate need for properly funded research to ascertain the purpose and age of new finds, advocating against premature grand claims.",
-      "It calls for urgent protection of archaeological sites from construction and encroachment, highlighting the importance of careful preservation to avoid compromising authenticity, referencing UNESCO's concerns."
-    ],
-    "facts": [
-      "A newly discovered structure at Jandial, Taxila, is nearly 100m long and over 50m wide.",
-      "The structure is located on an ancient road from Jandial’s Greek-style Ionic temple, outside the walls of the ancient city of Sirkap.",
-      "UNESCO raised concerns about restoration work at Mohra Moradu and Sirkap for potentially compromising the authenticity of ancient remains."
-    ],
-    "academicReferences": [
-      "A. H. Dani, \"The Gandhara Grave Culture and the Aryan Problem\"",
-      "UNESCO World Heritage Convention / Operational Guidelines for the Implementation of the World Heritage Convention",
-      "Sir John Marshall, \"Taxila: An Illustrated Account of Archaeological Excavations Carried Out at Taxila Under the Orders of the Government of India\""
-    ],
-    "vocabulary": [
-      {
-        "word": "dismissed",
-        "type": "verb",
-        "definition": "regarded as unworthy of consideration; rejected.",
-        "sentence": "A hill dismissed more than a century ago as an unremarkable heap of ruins has yielded one of Taxila’s most intriguing archaeological finds."
-      },
-      {
-        "word": "intriguing",
-        "type": "adjective",
-        "definition": "arousing great curiosity or interest; fascinating.",
-        "sentence": "That uncertainty is precisely what makes the discovery exciting and intriguing."
-      },
-      {
-        "word": "encroachment",
-        "type": "noun",
-        "definition": "intrusion on a person's territory, rights, etc., or gradual advance beyond usual or acceptable limits.",
-        "sentence": "Authorities must also protect the surrounding ground from construction and encroachment before potential evidence disappears."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is a key concern raised by UNESCO regarding restoration work at Mohra Moradu and Sirkap, as mentioned in the article?",
-        "options": [
-          "A) Insufficient funding for new excavations.",
-          "B) Compromising the authenticity of ancient remains.",
-          "C) Lack of Italian archaeological partnership.",
-          "D) Absence of local archaeologists in the process."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, \"Unesco’s concerns earlier this year that restoration work at Mohra Moradu and Sirkap had compromised the authenticity of their ancient remains.\""
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary significance of the new archaeological discovery at Jandial, Taxila, according to the article?",
-        "back": "The discovery of a large, unknown ancient structure highlights Taxila's complex past as a cultural crossroads and challenges existing accounts of early urban life, suggesting much remains unexplored."
-      },
-      {
-        "front": "Why does the article emphasize properly funded research over grand claims about archaeological finds?",
-        "back": "Properly funded research allows archaeologists the necessary time and resources to accurately establish the monument's age, purpose, and relationship with neighboring sites through scientific assessment, rather than making premature, unsubstantiated statements."
-      },
-      {
-        "front": "What critical lesson does the article draw from UNESCO's concerns regarding restoration work at Mohra Moradu and Sirkap?",
-        "back": "The lesson is that excavation must be coupled with careful preservation, as unthoughtful restoration or lack of protection can destroy valuable knowledge and compromise the authenticity of ancient remains."
-      },
-      {
-        "front": "Besides welcoming international partnerships, what long-term investment does the article recommend for Pakistan's archaeological future?",
-        "back": "Pakistan should invest in developing its local archaeologists, conservation specialists, and students to ensure continuity and build indigenous capacity for ongoing work in cultural heritage preservation."
       }
     ]
   }
