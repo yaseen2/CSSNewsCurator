@@ -1,5 +1,360 @@
 [
   {
+    "id": "curated-1793679474889-612",
+    "title": "Storage deficit\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041775/storage-deficit",
+    "date": "2026-11-03",
+    "author": "none@none.com (Srraa Tahir)",
+    "content": "THE Strait of Hormuz closed on Feb 28, 2026. Within days, QatarEnergy declared force majeure.\nPakistan, which sourced almost all its LNG from Qatar, asked Saudi Arabia to reroute crude through the Red Sea and released gas it had been holding back for weeks. There was no gas storage and very little oil storage to fall back on, because none had ever been built.\nThe timing made it worse. Years earlier, Pakistan signed long-term LNG contracts. Then IMF-driven tariff changes made gas too expensive for industries running captive power plants, and they switched to solar. Demand fell just as the country was locked into more gas than it needed. The pipelines reached the capacity threshold and the authorities curtailed up to 350 mmcfd of domestic gas. Then the strait closed, Qatari cargoes were stranded, and the curtailed fields had to be switched back on within weeks. Too much gas, then too little, and no storage to manage either.\n    \nThis is not a new problem. Policymakers have known for decades that Pakistan needs oil and gas storage, but have done little about it.\nGas storage works by pumping surplus gas into depleted reservoirs when demand is low and drawing it back out when supply runs short.\nAs early as 2004, an ADB study examined 107 locations and recommended two depleted fields in Badin, and a 2022 study added a third. Exploration companies operate these fields and could convert them, but no commercial model has been settled. A guaranteed return for investors, the model that inflated power costs for two decades, would be a mistake. It paid for capacity whether used or not, and gave sponsors little reason to control costs.\nCompetitive bidding works the other way: developers compete on the fee they charge to store and return gas, overrun risk stays with them, and the state only sets the terms. Feasibility tenders were issued in 2024 and again in 2026, a month before the strait closed. Even then, the first facility will cover only 11 to 12 days of consumption, against the month officials say is needed.\nOil storage has failed for its own reasons. The main one is that no one is paid to hold it. Marketing companies must keep 20 days of cover, but prices are revised every fortnight, so extra stock risks a loss whenever prices fall, and the pricing formula does not recover the cost of tanks. Most companies stay near the minimum, and the state has never built a strategic reserve of its own.\nPakistan needs oil and gas storage.\nThe idea of letting foreign suppliers hold fuel in Pakistan was first floated in 2015. In 2023, the government approved it: suppliers could keep product in bonded storage without paying duty, pay only when they sold locally, and re-export freely. Not one supplier has used it — for three reasons.\nFirst, the rules require a foreign supplier to register a presence in Pakistan. Large traders are used to storing oil in places like Fujairah in the UAE or Singapore without opening an office there. Asking them to do so here adds cost and paperwork for little benefit. Second, nothing guarantees a supplier can take its oil back out. A future government facing a shortage could block exports, just when it would want to sell elsewhere. Third, five bodies have a say: customs, the regulator, the State Bank, and the commerce and petroleum ministries. Each writes its own rules, and no one makes them fit together.\nThe current government has reopened the policy, an admission that it has attracted no investment.\n    \nThe strait showed that fuel stored in the Gulf can be cut off without warning. Fuel held in Pakistan by foreign suppliers, available for local sale, would give the country a cushion next time. The fix requires detail, not reinvention. The rules must state who can take part without a Pakistani company, how ownership changes when part of a tank is sold, how banks process those sales, and which single office settles disputes. Traders choose where to store oil based on how fast licences come and whether rules stay stable. Fujairah attracts traders not because its government built the tanks, but because it made storage simple and predictable.\nIn both cases, the government need not spend its own money. Its job is to write clear rules, issue licences quickly, and honour its commitments.\nPakistan has paid for the lack of storage twice this year, first with more gas than it could use, then with too little. The gas sites were identified over 20 years ago; the oil policy has existed for years. What has been missing is the will to follow through.\nHormuz will not be the last disruption, and if storage is not ready before the next one, the cost will again fall on industry, on households, and on a treasury paying premium prices for emergency cargoes. The next closure will not wait for another feasibility study.\nThe writer is a corporate lawyer working in the energy and infrastructure sector across the Middle East and Pakistan.\nPublished in Dawn, November 3rd, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 93,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "Energy Security and Infrastructure Development in Pakistan",
+    "whyMatters": "While this article provides critical insights into Pakistan's domestic energy security challenges and policy failures regarding oil and gas storage, it does not directly address Pakistan's historic role, regional integration, or future prospects within the Economic Cooperation Organization (ECO). The content is focused on internal governance, infrastructure, and bureaucratic hurdles, not regional economic blocs. However, understanding Pakistan's internal energy vulnerabilities is crucial for broader current affairs analysis and can indirectly inform discussions on economic stability, which is a prerequisite for effective regional cooperation.",
+    "summary": [
+      "Pakistan faces a severe oil and gas storage deficit due to decades of policy inaction, leading to acute energy crises despite fluctuating supply.",
+      "The failure to develop gas storage is attributed to disputes over commercial models for investors, with past models inflating power costs and new competitive bidding tenders failing to materialize sufficient capacity.",
+      "Oil storage is hindered by a pricing formula that discourages marketing companies from holding strategic reserves and the state's failure to establish its own reserves.",
+      "A policy aimed at attracting foreign suppliers to hold fuel in bonded storage failed due to complex regulations requiring local presence, lack of export guarantees, and overlapping jurisdictions of multiple government bodies."
+    ],
+    "facts": [
+      "The Strait of Hormuz closure on Feb 28, 2026, highlighted Pakistan's storage vulnerability.",
+      "An ADB study in 2004 identified two depleted fields in Badin suitable for gas storage, with a 2022 study adding a third.",
+      "The first planned gas storage facility will cover only 11-12 days of consumption, short of the one month officials deem necessary.",
+      "Marketing companies are mandated to keep 20 days of oil cover, but fluctuating prices discourage holding extra stock.",
+      "The policy allowing foreign suppliers to hold fuel in bonded storage was first floated in 2015 and approved in 2023, but has attracted no investment."
+    ],
+    "academicReferences": [
+      "National Energy Policy of Pakistan (e.g., 2013 or any recent iteration) – for policy shortcomings.",
+      "Reports by the International Monetary Fund (IMF) on Pakistan's energy sector and tariff reforms.",
+      "Global best practices in Strategic Petroleum Reserve (SPR) management and energy infrastructure investment models."
+    ],
+    "vocabulary": [
+      {
+        "word": "Force majeure",
+        "type": "noun phrase",
+        "definition": "Unforeseeable circumstances that prevent someone from fulfilling a contract.",
+        "sentence": "QatarEnergy declared force majeure after the strait closed, impacting global LNG supplies."
+      },
+      {
+        "word": "Captive power plants",
+        "type": "noun phrase",
+        "definition": "Industrial power plants that generate electricity primarily for their own use, rather than for sale to a grid.",
+        "sentence": "IMF-driven tariff changes made gas too expensive for industries running captive power plants, leading them to switch to solar."
+      },
+      {
+        "word": "Bonded storage",
+        "type": "noun phrase",
+        "definition": "A customs-controlled warehouse where dutiable goods can be stored, manipulated, or undergo manufacturing operations without payment of duty.",
+        "sentence": "The government approved a policy for foreign suppliers to keep product in bonded storage without paying duty until sold locally."
+      },
+      {
+        "word": "Curtailed",
+        "type": "verb",
+        "definition": "To reduce in extent or quantity; impose a restriction on.",
+        "sentence": "The authorities curtailed up to 350 mmcfd of domestic gas when pipelines reached capacity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason identified in the article for the failure to establish gas storage facilities in Pakistan?",
+        "options": [
+          "Lack of identified suitable locations for storage.",
+          "Prohibitive construction costs for storage infrastructure.",
+          "Inability to settle on a viable commercial model for investors.",
+          "Lack of political will from successive governments.",
+          "Insufficient domestic gas supply to fill storage facilities."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that 'no commercial model has been settled' as the main hurdle, with debates over guaranteed returns versus competitive bidding."
+      },
+      {
+        "question": "According to the article, why do marketing companies in Pakistan typically stay near the minimum required oil stock cover?",
+        "options": [
+          "Lack of physical tank capacity in the country.",
+          "Fear of price revisions every fortnight leading to potential losses if prices fall.",
+          "Insufficient demand for oil, making extra stock unnecessary.",
+          "High insurance costs for maintaining large oil reserves.",
+          "Government regulations restricting the amount of stock they can hold."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly mentions that 'prices are revised every fortnight, so extra stock risks a loss whenever prices fall, and the pricing formula does not recover the cost of tanks'."
+      },
+      {
+        "question": "Which of the following was NOT cited as a reason for foreign suppliers' reluctance to use Pakistan's bonded storage policy?",
+        "options": [
+          "Requirement for foreign suppliers to register a presence in Pakistan.",
+          "Lack of guarantees that a supplier could re-export their oil.",
+          "The policy requiring duty payment upon storage entry.",
+          "Overlapping and inconsistent rules from multiple government bodies.",
+          "Added cost and paperwork for little benefit by opening a local office."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states suppliers could keep product in bonded storage 'without paying duty, pay only when they sold locally', indicating duty payment upon entry was not a requirement."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What critical energy security vulnerability did the Strait of Hormuz closure expose for Pakistan?",
+        "back": "The closure exposed Pakistan's severe lack of oil and gas storage, leading to an inability to manage either surplus or deficit energy supplies effectively."
+      },
+      {
+        "front": "Beyond the commercial model, what other major obstacle has hindered the development of gas storage in Pakistan?",
+        "back": "Despite feasibility tenders, the planned facilities would only cover 11-12 days of consumption, significantly less than the one month officials deem necessary, indicating a lack of sufficient capacity planning and execution."
+      },
+      {
+        "front": "What are the three main reasons why foreign suppliers have not utilized Pakistan's bonded storage policy despite its approval?",
+        "back": "The reasons are: 1) the requirement for a registered presence in Pakistan, 2) no guarantee against future governments blocking exports, and 3) conflicting and uncoordinated rules from five different government bodies."
+      },
+      {
+        "front": "According to the article, what is the government's primary role in addressing the storage deficit without spending its own money?",
+        "back": "The government's job is to write clear rules, issue licenses quickly, and honor its commitments to create a simple and predictable environment, mirroring models like Fujairah."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793679556291-269",
+    "title": "Pakistan’s G-24 role\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041768/pakistans-g-24-role",
+    "date": "2026-11-03",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN’S new role as chair of G-24 comes at a crucial moment for the Global South. Developing nations are struggling to navigate an era defined by steep tariffs, a revival of industrial policy, weakening multilateralism, rising interest rates, escalating inflation, climate shocks, and global conflicts that have shaken the world economy. And yet, its new position offers Islamabad an opportunity to articulate the concerns of developing economies, build consensus on a common development agenda, and push for a more equitable global financial and economic order. It is a mandate to lead the developing world effectively and to work closely with major powers on critical reforms across international financial institutions. Achieving this will not be easy. For decades, the global financial framework — dominated by the Bretton Woods institutions — has largely served Western economies, while developing nations are asked to shoulder the costs of global macroeconomic volatility while facing disproportionately higher borrowing costs and severe capital constraints.\nBy stepping into its new role, Islamabad assumes the responsibility of presenting these shared grievances as a cohesive agenda for structural change. Central to this effort is redefining how Western economic powers view the developing world. The focus must shift from seeing developing nations as vulnerable economies in need of more debt or debt relief to recognising their contributions to global economic growth. As the finance minister highlighted, the focus must shift to the “immense potential of emerging and developing nations as drivers of investment, innovation, entrepreneurship, and global growth”. Achieving reform will require bridging the gap between rhetoric and policy action. Key priorities for the G-24 mandate must include advocacy for expanded and easier access to concessional financing, an end to tariff-led industrial policies, the revival of multilateralism, and streamlined mechanisms for debt reduction. The traditional economic narrative that places Western financial centres at the core while relegating developing markets to the periphery is no longer sustainable in an interconnected world economy. As the finance minister has noted, the future of developing economies is central to the future of the global economy. While sweeping changes are unlikely to materialise entirely during Pakistan’s tenure, Islamabad has a crucial window to push this debate to the centre of the global reform agenda.\nPublished in Dawn, November 3rd, 2026",
+    "matchedQuestion": {
+      "id": "PA-2019-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2019,
+      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Global Economic Challenges for Developing Nations & Pakistan's Role in G-24",
+    "whyMatters": "This article directly addresses global economic challenges impacting Pakistan and outlines Pakistan's leadership role in proposing systemic solutions, which is crucial for answering questions on economic issues and recommendations. It demonstrates an aspirant's understanding of Pakistan's proactive foreign policy in economic diplomacy.",
+    "summary": [
+      "Pakistan assumes the chair of G-24 at a critical juncture for the Global South, facing numerous economic crises including tariffs, industrial policy revival, weakening multilateralism, and climate shocks.",
+      "The new role offers Pakistan a significant opportunity to articulate concerns of developing economies, build consensus, and advocate for a more equitable global financial and economic order.",
+      "The existing global financial framework, dominated by Bretton Woods institutions, has largely favored Western economies, placing disproportionate burdens and higher borrowing costs on developing nations.",
+      "Pakistan's mandate includes shifting the narrative from developing nations being vulnerable to recognizing their potential as drivers of investment and growth, while pushing for expanded concessional financing, an end to tariff-led policies, revived multilateralism, and debt reduction mechanisms."
+    ],
+    "facts": [
+      "Pakistan's new role: Chair of G-24, a bloc of developing countries.",
+      "Developing nations struggle with: steep tariffs, revival of industrial policy, weakening multilateralism, rising interest rates, escalating inflation, climate shocks, and global conflicts.",
+      "Bretton Woods institutions (IMF, World Bank) are cited as historically serving Western economies, leading to higher borrowing costs and capital constraints for developing nations."
+    ],
+    "academicReferences": [
+      "International Monetary Fund (IMF) and World Bank Reports on Debt Sustainability",
+      "Group of 24 (G-24) Communiqués and Declarations on Global Financial Architecture",
+      "United Nations Conference on Trade and Development (UNCTAD) Reports on Global South Development"
+    ],
+    "vocabulary": [
+      {
+        "word": "Multilateralism",
+        "type": "noun",
+        "definition": "The principle of multiple countries working in concert on global issues.",
+        "sentence": "Weakening multilateralism poses a significant challenge to collective problem-solving in the global economy."
+      },
+      {
+        "word": "Concessional financing",
+        "type": "noun",
+        "definition": "Loans or credits offered on terms substantially more generous than market rates, typically by international development banks.",
+        "sentence": "Developing nations advocate for expanded access to concessional financing to fund their development agendas and combat climate change."
+      },
+      {
+        "word": "Bretton Woods institutions",
+        "type": "noun",
+        "definition": "The World Bank and International Monetary Fund (IMF), established after World War II to regulate international monetary and financial relations.",
+        "sentence": "The article critiques how Bretton Woods institutions have historically served Western economies at the expense of developing nations."
+      },
+      {
+        "word": "Global South",
+        "type": "noun",
+        "definition": "A term referring to countries often described as 'developing' or 'less developed', primarily located in Asia, Africa, and Latin America.",
+        "sentence": "Pakistan's G-24 role is crucial for articulating the concerns and development agenda of the Global South."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT listed as a challenge faced by developing nations in the current global economic era?",
+        "options": [
+          "Rising interest rates",
+          "Weakening multilateralism",
+          "Expanding access to concessional financing",
+          "Steep tariffs"
+        ],
+        "answerIndex": 2,
+        "explanation": "Expanding access to concessional financing is a proposed solution or objective, not a challenge mentioned as currently facing developing nations."
+      },
+      {
+        "question": "What is the primary critique leveled against the Bretton Woods institutions in the article?",
+        "options": [
+          "They are too focused on environmental issues.",
+          "They largely serve Western economies and impose disproportionate costs on developing nations.",
+          "They have completely failed to provide any financing to developing nations.",
+          "Their leadership is exclusively from the Global South."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that these institutions have 'largely served Western economies, while developing nations are asked to shoulder the costs of global macroeconomic volatility while facing disproportionately higher borrowing costs and severe capital constraints.'"
+      },
+      {
+        "question": "According to the article, what shift in perception is central to Pakistan's G-24 efforts?",
+        "options": [
+          "From seeing developing nations as vulnerable to seeing them as drivers of global growth.",
+          "From Western economic powers leading to Global South nations leading all reforms.",
+          "From focusing on industrial policy to focusing solely on agriculture.",
+          "From debt relief to increased debt accumulation."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article emphasizes the need to 'shift from seeing developing nations as vulnerable economies in need of more debt or debt relief to recognising their contributions to global economic growth.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What key global economic challenges are currently confronting the Global South, as highlighted by Pakistan's G-24 role?",
+        "back": "The Global South faces steep tariffs, a revival of industrial policy, weakening multilateralism, rising interest rates, escalating inflation, climate shocks, and global conflicts."
+      },
+      {
+        "front": "What is Pakistan's core mandate and opportunity as chair of the G-24?",
+        "back": "Pakistan's mandate is to articulate the concerns of developing economies, build consensus on a common development agenda, and push for a more equitable global financial and economic order, leading reforms in international financial institutions."
+      },
+      {
+        "front": "How does the article suggest Western economic powers should redefine their view of developing nations?",
+        "back": "The article argues for a shift from viewing developing nations as vulnerable economies needing debt relief to recognizing their immense potential as drivers of investment, innovation, entrepreneurship, and global growth."
+      },
+      {
+        "front": "What specific policy priorities does the article outline for the G-24 mandate under Pakistan's leadership?",
+        "back": "Key priorities include advocating for expanded and easier access to concessional financing, an end to tariff-led industrial policies, the revival of multilateralism, and streamlined mechanisms for debt reduction."
+      }
+    ]
+  },
+  {
+    "id": "curated-1793680032935-682",
+    "title": "Learning from polio\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2041767/learning-from-polio",
+    "date": "2026-11-03",
+    "author": "none@none.com (Editorial)",
+    "content": "THE eighth polio case of 2026, involving a 13-month-old girl from Khyber’s Bara tehsil, raises an important question for Pakistan’s eradication programme: how much does it learn from each child who becomes infected? Six of this year’s eight cases have emerged in KP, while sewage samples from the Peshawar-Khyber corridor continue to test positive. The virus is circulating despite repeated campaigns. The latest drive, running from Nov 2 to 8, aims to vaccinate nearly 24m children in 97 districts. Such efforts are essential, and the fall in cases this year is encouraging. But the programme must also explain why infections continue to surface in places where vaccination has been repeatedly undertaken. Was the child missed during earlier rounds? Were doses incomplete, or did the family move between districts? Did local surveillance identify the danger early enough? These questions must be investigated without assigning blame to families or front-line workers before the facts are known.\nThere is a wider issue of accountability. The authorities announce campaign targets and impressive vaccination totals, but the public hears far less about what investigations uncover after a confirmed case. Health managers should publish clear findings on vaccination histories, gaps in coverage, and the corrective steps taken. Positive environmental samples should trigger documented follow-up in affected neighbourhoods, with results reviewed before the next campaign. This would help distinguish problems of access from weaknesses in delivery, and direct resources where they are needed most. Routine immunisation at clinics must also be reinforced so that a child’s protection does not depend entirely on the next emergency drive. Balochistan’s absence of reported cases since November 2024 is welcome, though continuing transmission across the Afghan border makes vigilance necessary. Pakistan has already shown that it can mobilise millions of doses and thousands of vaccinators. It now needs to demonstrate that lessons from every infection are being used to prevent the next one.\nPublished in Dawn, November 3rd, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 83,
+    "paper": "Current Affairs / Pakistan Affairs / Governance & Public Policy",
+    "topic": "Polio Eradication Challenges, Public Health Accountability, and Governance in Pakistan",
+    "whyMatters": "This article offers a critical analysis of Pakistan's ongoing polio eradication efforts, highlighting systemic issues beyond mere vaccination numbers. Aspirants can use its arguments and proposed solutions to demonstrate critical thinking on public health challenges, governance, and accountability in essays and analytical questions.",
+    "summary": [
+      "Despite repeated vaccination campaigns, polio continues to circulate, particularly in Khyber Pakhtunkhwa, raising concerns about the program's effectiveness.",
+      "The article emphasizes the crucial need for thorough investigations into each confirmed polio case to understand the root causes of continued infection, rather than just tallying vaccination numbers.",
+      "It calls for enhanced accountability and transparency from health authorities, urging them to publicly release findings from case investigations and the corrective actions implemented.",
+      "The piece advocates for strengthening routine immunization services at clinics, ensuring sustained child protection beyond the scope of emergency vaccination drives.",
+      "Ongoing cross-border transmission from Afghanistan remains a significant external challenge, necessitating continuous vigilance despite internal progress."
+    ],
+    "facts": [
+      "The eighth polio case of 2026 involved a 13-month-old girl from Khyber’s Bara tehsil.",
+      "Six of this year’s eight polio cases have emerged in Khyber Pakhtunkhwa (KP).",
+      "The latest vaccination drive (November 2-8) aims to vaccinate nearly 24 million children in 97 districts.",
+      "Sewage samples from the Peshawar-Khyber corridor continue to test positive for the polio virus.",
+      "Balochistan has reported no polio cases since November 2024, but vigilance is still required due to cross-border transmission."
+    ],
+    "academicReferences": [
+      "World Health Organization (WHO) Global Polio Eradication Initiative (GPEI) Strategic Plans",
+      "National Immunization Policy of Pakistan (or relevant provincial health policies)",
+      "Sustainable Development Goal 3: Good Health and Well-being (specifically Target 3.3 on communicable diseases)",
+      "Public Health Ordinances/Acts of Pakistan (relevant sections on disease surveillance and control)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Eradication",
+        "type": "noun",
+        "definition": "The complete destruction of something, or putting an end to it.",
+        "sentence": "The global goal is the complete eradication of polio."
+      },
+      {
+        "word": "Surveillance",
+        "type": "noun",
+        "definition": "Close observation or monitoring, especially of a disease or population.",
+        "sentence": "Effective disease surveillance is critical for early detection of outbreaks."
+      },
+      {
+        "word": "Accountability",
+        "type": "noun",
+        "definition": "The obligation or willingness to accept responsibility for one's actions and decisions.",
+        "sentence": "The public demanded greater accountability from authorities for the program's shortcomings."
+      },
+      {
+        "word": "Reinforced",
+        "type": "verb",
+        "definition": "To strengthen or support, especially with additional personnel or material.",
+        "sentence": "Routine immunization services must be reinforced to build stronger community immunity."
+      },
+      {
+        "word": "Vigilance",
+        "type": "noun",
+        "definition": "The action or state of keeping careful watch for possible danger or difficulties.",
+        "sentence": "Continuous cross-border vigilance is necessary to prevent re-importation of the virus."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary concern raised by the article regarding Pakistan's polio eradication program?",
+        "options": [
+          "Insufficient funding for vaccine procurement.",
+          "Lack of public awareness about polio's dangers.",
+          "The persistence of infections despite repeated vaccination campaigns.",
+          "The inability to reach remote areas for vaccination."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly questions why infections continue to surface in places where vaccination has been repeatedly undertaken, highlighting the program's challenge beyond just conducting drives."
+      },
+      {
+        "question": "According to the article, what key information should health managers publish to improve accountability after a confirmed polio case?",
+        "options": [
+          "Names of families who refused vaccination.",
+          "Clear findings on vaccination histories, gaps in coverage, and corrective steps.",
+          "Statistics on the number of vaccinators deployed in affected areas.",
+          "Details of international aid received for the polio program."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Health managers should publish clear findings on vaccination histories, gaps in coverage, and the corrective steps taken,' as a measure for accountability."
+      },
+      {
+        "question": "Which region has shown an absence of reported polio cases since November 2024, but still requires vigilance due to an external factor?",
+        "options": [
+          "Sindh",
+          "Punjab",
+          "Balochistan",
+          "Khyber Pakhtunkhwa"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, 'Balochistan’s absence of reported cases since November 2024 is welcome, though continuing transmission across the Afghan border makes vigilance necessary.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental question does the article pose regarding Pakistan's polio eradication strategy?",
+        "back": "The article asks how much the program truly learns from each child who becomes infected and why infections persist despite numerous vaccination campaigns."
+      },
+      {
+        "front": "What types of detailed investigations does the article suggest are necessary following a new polio case?",
+        "back": "Investigations should determine if the child was missed during earlier rounds, if doses were incomplete, if the family moved, or if local surveillance identified the danger early."
+      },
+      {
+        "front": "What is the 'wider issue of accountability' that the article identifies within the polio eradication program?",
+        "back": "The lack of public reporting on the findings of investigations after confirmed cases, including details on vaccination histories, coverage gaps, and corrective measures taken."
+      },
+      {
+        "front": "Beyond emergency vaccination campaigns, what other critical public health measure does the article advocate for strengthening?",
+        "back": "Reinforcing routine immunization at clinics to ensure that a child’s protection does not depend entirely on intermittent emergency drives."
+      }
+    ]
+  },
+  {
     "id": "curated-1793588806556-227",
     "title": "Climate diagnosis\n",
     "source": "Dawn",
@@ -10422,328 +10777,6 @@
       {
         "front": "How does Pakistan's projected economic growth compare to the regional average, and what does this disparity highlight?",
         "back": "Pakistan's 3.5% projection is significantly below the South Asia region's forecast of 6.4%, highlighting a failure to build a sustained growth engine."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792115819435-4",
-    "title": "Provinces under fire\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037278/provinces-under-fire",
-    "date": "2026-10-15",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "THE liquidation of the KP Assembly is an event rooted in economic, more specifically fiscal, constraints. For the time being, it is unlikely that the trajectory will continue to the other provinces, but it is worth keeping an eye on the resource envelope available to the state as the primary fount of this event.\nHere is how it works. Every time the state is faced with a major demand for resources, usually for security-related matters, financial managers point to the NFC Award as the reason why that demand cannot be met. In the middle of the 2010s, for example, the then PML-N government faced a major demand for resources to pay for the military operations underway in the wake of the Army Public School massacre by the TTP. The then finance minister Ishaq Dar had said, in December 2016 for instance, that the government had to spend over Rs300 billion on the security operations since they began. He proposed a cut of seven per cent from the Federal Divisible Pool before provincial shares were calculated, in order to meet the expenses going forward.\nThe next year, Miftah Ismail, the then special assistant to the prime minister on finance, again pointed to the NFC Award and provincial expenditures as the reason why the federal government had to run such a large budget deficit and why demands for releases from the development budget might have to wait.\nThat was in October 2017, when Dar was no longer finance minister. In 2019, prime minister Imran Khan told a rally in Ghotki that the 18th Amendment had bankrupted Pakistan, and his government had no resources left to pay for development or relief after paying for debt servicing, defence and transfers to the provinces under the NFC Award.\nIn 2020, his own information minister was telling TV channels that his government might have to “change the law” on the NFC Awards because its allocations had become unsustainable. In 2024, Miftah Ismail was quoted in Dawn as saying that “the federal government is teetering on the brink of bankruptcy while the provinces are flush with cash”. Shortly afterwards, the current Finance Minister Muhammad Aurangzeb was quoted in Washington, where he had gone for the annual IMF and World Bank meetings, as saying that Islamabad would revisit the NFC Award, if the IMF loan was approved, through either expenditure-sharing or incentives for provinces to widen the tax base.\nMany of these people subsequently took their statements back, or at least added caveats that their government had no intention to “roll back” the NFC. The main reason for the backtracking is that every major political party in the country — the PPP, PML-N and PTI — controlled a province, and none wanted to become a party to any attempt to roll back provincial rights.\nWhat began as a search for resources turned into a search for a new political arrangement.\nBut the litany of complaints about the enhanced provincial shares under the last NFC continued. Ahsan Iqbal repeated them last year in Karachi, and Prime Minister Shehbaz Sharif publicly floated the idea of changing the composition of the divisible pool, perhaps by removing customs duties from it. This remark triggered a little conversation of its own, with some delving into how and why these duties were part of the divisible pool in the first place. All along, almost from the very first year when the empowered provincial government’s scheme went into effect from 2009, blaming them has become the favourite excuse for failure in Islamabad. But the scheme itself, which consists of the 18th Amendment and the NFC Award, endured because of the power of consensus behind it.\nIn recent years, though, with the arrival of the ‘hybrid-plus’ government, the conversation around the federative scheme of empowered provinces has turned more menacing. An attempt was made by the federal authorities, for example, to usurp Sindh’s share of water resources, and a demand for some amount of reverse-flow from the provinces to the centre found concrete form in an MoU signed in the NFC meetings as part of the budget for FY27. An amount of Rs1.04 trillion is supposed to be transferred back to the federal government by three provinces — Punjab, Sindh, and KP — this fiscal year.\nWhat began as an economic conversation acquired political and security substance as it rolled through the system. As part of the complaints, questions were raised about what the provinces were doing with the incremental resources flowing their way since 2009. Some demanded to know where we should look for the results. A World Bank report landed in the middle of all this, showing that the bulk of incremental resources was consumed in salaries and other current expenditures, while social indicators showed little to no improvement since the scheme of enhanced provincial powers went into effect. That added fuel to the fire.\nWhat began as a search for resources turned into a search for a new political arrangement, with some in government publicly saying a “reset” was coming. It acquired a security dimension as the PTI government was called upon to play its part in the counterterrorism operations in KP. And it fed an opportunistic suggestion for wrapping up the whole system and bringing in “administrative units” to replace provincial governments altogether.\nSomewhere in all this a perception seems to have taken root that the state’s federative structure is too expensive for a resource-starved country like Pakistan. If the provinces have nothing to show for all the funds they have consumed since their powers and resource commitments were enhanced, why keep them longer, ask the proponents of this thinking. They don’t yet have an alternative structure to propose. But in the months to come, it is likely that the governments of Sindh and Punjab will be asked to grant more space to the federal government in the control of the resources they command.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, October 15th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-FED",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
-    },
-    "suitable": true,
-    "relevanceScore": 91,
-    "paper": "Pakistan Affairs",
-    "topic": "Federalism, 18th Amendment, and Fiscal Decentralization in Pakistan",
-    "whyMatters": "This article directly addresses the historical context, current challenges, and criticisms surrounding Pakistan's federal structure post-18th Amendment, making it crucial for understanding contemporary governance issues. It provides specific examples and expert opinions essential for a high-scoring answer on fiscal federalism and provincial autonomy.",
-    "summary": [
-      "The liquidation of the KP Assembly is attributed to economic and fiscal constraints, highlighting the broader issue of resource scarcity within the state.",
-      "Federal governments, across various political parties (PML-N, PTI), have consistently blamed the 18th Amendment and the NFC Award for federal fiscal woes, large budget deficits, and inability to fund security and development.",
-      "Despite initial political consensus protecting provincial rights, complaints escalated from an economic search for resources into a 'search for a new political arrangement,' driven by federal demands and questions about provincial spending.",
-      "A perception has taken root that Pakistan's federative structure is too expensive, leading to proposals ranging from 'resetting' the system to replacing provincial governments with 'administrative units', with concrete steps like provincial reverse-flow to the center already initiated."
-    ],
-    "facts": [
-      "Ishaq Dar's 2016 statement: Government spent over Rs300 billion on security operations in the mid-2010s, leading to a proposal for a 7% cut from the Federal Divisible Pool.",
-      "Imran Khan's 2019 statement: The 18th Amendment had 'bankrupted Pakistan,' leaving no resources for development or relief after debt servicing, defence, and provincial transfers.",
-      "Miftah Ismail's 2024 statement: 'the federal government is teetering on the brink of bankruptcy while the provinces are flush with cash'.",
-      "World Bank report finding: Bulk of incremental resources consumed in salaries and current expenditures by provinces, with little to no improvement in social indicators since 2009.",
-      "MoU for FY27: An amount of Rs1.04 trillion is supposed to be transferred back to the federal government by Punjab, Sindh, and KP."
-    ],
-    "academicReferences": [
-      "18th Amendment to the Constitution of Pakistan (2010)",
-      "National Finance Commission (NFC) Award",
-      "Constitution of Pakistan, 1973",
-      "World Bank report on provincial resource utilization (cited in article)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Liquidation",
-        "type": "noun",
-        "definition": "The process of bringing a business or assembly to an end and distributing its assets.",
-        "sentence": "The article begins by stating that the 'liquidation of the KP Assembly' was rooted in economic constraints."
-      },
-      {
-        "word": "Trajectory",
-        "type": "noun",
-        "definition": "The path followed by a projectile flying or an object moving under the action of given forces; a course of development.",
-        "sentence": "It is unlikely that the 'trajectory' of assembly dissolutions will continue to other provinces for the time being."
-      },
-      {
-        "word": "Fount",
-        "type": "noun",
-        "definition": "A source of a desirable quality or commodity.",
-        "sentence": "The resource envelope available to the state is identified as the primary 'fount' of these events."
-      },
-      {
-        "word": "Litany",
-        "type": "noun",
-        "definition": "A series of petitions for use in church services or a tedious recital or repetitive series.",
-        "sentence": "The 'litany' of complaints about enhanced provincial shares under the last NFC Award continued for years."
-      },
-      {
-        "word": "Usurp",
-        "type": "verb",
-        "definition": "To take (a position of power or importance) illegally or by force.",
-        "sentence": "An attempt was made by federal authorities to 'usurp' Sindh's share of water resources."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT presented as a reason for federal governments' criticism of the 18th Amendment and NFC Award in the article?",
-        "options": [
-          "Increased security demands requiring federal funding.",
-          "Provinces being 'flush with cash' while the federal government faces bankruptcy.",
-          "Lack of transparency in provincial spending of allocated funds.",
-          "The 18th Amendment causing the country to be 'bankrupted' due to provincial transfers."
-        ],
-        "answerIndex": 2,
-        "explanation": "While the article mentions questions about what provinces were doing with funds and a World Bank report on consumption, it does not specifically state 'lack of transparency' as a direct complaint by federal governments in the same vein as fiscal constraints or bankruptcy claims."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core argument presented in the article regarding the origin of complaints about the 18th Amendment and NFC Award?",
-        "back": "The complaints are rooted in economic, specifically fiscal, constraints faced by the federal government, often exacerbated by demands for resources for security or debt servicing."
-      },
-      {
-        "front": "How did the initial political consensus on the 18th Amendment begin to erode, according to the article?",
-        "back": "The sustained 'litany of complaints' by federal governments about resource scarcity and provincial spending, coupled with calls for a 'reset' or new political arrangements, led to the erosion of consensus."
-      },
-      {
-        "front": "What specific evidence did a World Bank report provide concerning provincial resource utilization post-2009?",
-        "back": "The World Bank report showed that the bulk of incremental resources received by provinces was consumed in salaries and other current expenditures, with little to no improvement in social indicators."
-      },
-      {
-        "front": "What is the 'new political arrangement' or 'reset' being discussed in government circles concerning the federal structure?",
-        "back": "It involves revisiting the NFC Award for expenditure-sharing or tax base widening, demanding reverse-flow of funds from provinces, or even replacing provincial governments with 'administrative units' due to the perception that the federative structure is too expensive."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792288680738-989",
-    "title": "Water is a right, not a weapon",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2635077/water-is-a-right-not-a-weapon",
-    "date": "2026-10-15",
-    "author": "\n\t\t\t\tSyed Mohammad Ali.\n\t\t\t",
-    "content": "In January, United Nations researchers issued a stark warning: the world has moved beyond a water crisis and into a state of \"global water bankruptcy\". This warning was issued via a new flagship report from the United Nations University Institute for Water, Environment and Health, which also pointed out how decades of overuse and environmental degradation have pushed many rivers, aquifers, lakes, wetlands and glaciers into a post-crisis condition from which their historical 'normal' may no longer be recoverable.\n\nSuch a warning could hardly be timelier. Water is becoming increasingly entangled with geopolitics and conflict. In the ongoing US-Israeli war with Iran, attacks on critical infrastructure have highlighted the vulnerability of desalination facilities that supply drinking water to millions across the Gulf. When water infrastructure becomes part of a military confrontation, the consequences extend far beyond the battlefield.\n\nBut direct military conflict is not the only danger. Even the mismanagement of water can deepen existing political and social tensions. The Nile has become a source of prolonged tension between Egypt, Sudan and Ethiopia over the Grand Ethiopian Renaissance Dam. Environmental degradation around Lake Chad has intensified competition over scarce resources between pastoral and agricultural communities, and enabled Boko Haram to exploit weak governance and socioeconomic marginalisation to increase its influence.\n\nThe UN has thus aptly emphasised that water can be a driver of conflict, a weapon of conflict or a casualty of conflict. Conversely, however, water sharing can also serve as a basis for cooperation. It is in this latter context that the militarisation of the Indus river system needs to be understood. India's decision in 2025 to place the Indus Waters Treaty in \"abeyance\" disrupted a framework that survived several wars and decades of political hostility. While this treaty has several flaws which need to be addressed, suspending a treaty which enables institutional cooperation at a time of accelerating climate stress is especially dangerous.\n\nClimate change is transforming the Himalayan rivers, and the Indus basin is already under immense pressure from rising temperatures, changing precipitation patterns and shifts in snow and glacial melt. The Indus is not simply a river divided between two hostile states. It is part of a rapidly changing cryosphere. Understanding these changes requires continuous scientific observation, hydrological data and cooperation across borders. Yet the deterioration of Indo-Pak relations threatens precisely the mechanisms that could make such knowledge possible.\n\nWhatever disagreements India and Pakistan have over dams, allocations or security, they share a basic interest in knowing what is happening to the rivers and aquifers on which hundreds of millions depend. That means restoring regular hydrological data exchange and creating mechanisms for joint or independently verified monitoring of shared natural resources to better contend with climate impacts.\n\nMoreover, for lower riparian countries such as Pakistan, the problem is not simply that there is too little water. Much of the water available is used inefficiently and distributed inequitably, while investment in drinking water, sewerage and sanitation remains far too weak. A country can therefore have a water-security crisis even while enormous volumes of water continue to flow through its rivers and irrigation systems.\n\nAchieving water security cannot mean only building more dams or trying to control rivers. It must also mean using water efficiently, allocating it fairly, protecting aquifers and watersheds and ensuring that ordinary citizens have reliable access to safe water. Pakistan need not wait for India to restore the Indus Waters Treaty before undertaking these domestic measures.",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "International Relations / Current Affairs / Pakistan Affairs",
-    "topic": "Water Security, Geopolitics, and Transboundary Water Disputes (with focus on Indus Waters Treaty)",
-    "whyMatters": "This article offers a comprehensive analysis of the global water crisis, linking it to geopolitics, climate change, and transboundary water agreements, making it essential for essays and current affairs. It provides specific regional examples and policy recommendations, highly valuable for IR and Pakistan Affairs papers.",
-    "summary": [
-      "The world has entered a state of \"global water bankruptcy\" due to decades of overuse and environmental degradation, pushing critical water bodies beyond recovery.",
-      "Water is increasingly entangled with geopolitics, acting as a driver, weapon, or casualty of conflict, evidenced by attacks on infrastructure and international disputes over shared rivers like the Nile.",
-      "The militarization of transboundary water systems, particularly India's decision regarding the Indus Waters Treaty, threatens crucial scientific cooperation needed to manage climate change impacts on shared Himalayan rivers.",
-      "Achieving water security requires not only international cooperation and data exchange on shared resources but also robust domestic measures focusing on efficient use, equitable allocation, and improved infrastructure for all citizens."
-    ],
-    "facts": [
-      "UN researchers issued a warning of \"global water bankruptcy\" in January via a report from the United Nations University Institute for Water, Environment and Health.",
-      "The Grand Ethiopian Renaissance Dam (GERD) is cited as a source of prolonged tension between Egypt, Sudan, and Ethiopia over the Nile River.",
-      "India's decision in 2025 (as per the article's context) to place the Indus Waters Treaty in \"abeyance\" disrupted a framework that had survived several wars and decades of hostility."
-    ],
-    "academicReferences": [
-      "UN World Water Development Report (various editions on water security and cooperation)",
-      "Indus Waters Treaty (1960) between India and Pakistan",
-      "Sustainable Development Goal 6 (SDG 6): Ensure availability and sustainable management of water and sanitation for all"
-    ],
-    "vocabulary": [
-      {
-        "word": "Stark",
-        "type": "adjective",
-        "definition": "Severe or bare in appearance; sharply delineated or absolute.",
-        "sentence": "The UN researchers issued a stark warning about the state of global water resources."
-      },
-      {
-        "word": "Abeyance",
-        "type": "noun",
-        "definition": "A state of temporary disuse or suspension.",
-        "sentence": "India's decision to place the Indus Waters Treaty in abeyance created significant regional instability."
-      },
-      {
-        "word": "Cryosphere",
-        "type": "noun",
-        "definition": "The parts of the Earth's surface where water is in solid form, including sea ice, glaciers, and snow cover.",
-        "sentence": "Climate change is transforming the Himalayan rivers, which are part of a rapidly changing cryosphere."
-      },
-      {
-        "word": "Riparian",
-        "type": "adjective",
-        "definition": "Relating to or situated on the banks of a river or stream.",
-        "sentence": "For lower riparian countries such as Pakistan, transboundary water management is a critical concern."
-      },
-      {
-        "word": "Inequitable",
-        "type": "adjective",
-        "definition": "Unfair or unjust; not equal.",
-        "sentence": "Much of the available water is distributed inequitably, leading to social and political tensions."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the core concept used by UN researchers to describe the current global water situation?",
-        "options": [
-          "Global water bankruptcy",
-          "Impending water wars",
-          "Water resource depletion",
-          "Hydro-economic imbalance"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that UN researchers issued a warning that the world has moved into a state of 'global water bankruptcy'."
-      },
-      {
-        "question": "Which major river system is highlighted as being militarized due to geopolitical tensions between India and Pakistan?",
-        "options": [
-          "The Brahmaputra River",
-          "The Ganga River",
-          "The Indus River system",
-          "The Mekong River"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article specifically discusses the 'militarisation of the Indus river system' and India's actions regarding the Indus Waters Treaty."
-      },
-      {
-        "question": "Besides building more dams, what key domestic measures does the author suggest for achieving water security?",
-        "options": [
-          "Increasing water imports from neighboring countries.",
-          "Militarizing borders to secure water sources.",
-          "Using water efficiently, allocating it fairly, protecting aquifers, and ensuring safe access.",
-          "Prioritizing industrial water use over agricultural needs."
-        ],
-        "answerIndex": 2,
-        "explanation": "The author explicitly states that achieving water security must also mean 'using water efficiently, allocating it fairly, protecting aquifers and watersheds and ensuring that ordinary citizens have reliable access to safe water.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core warning issued by UN researchers regarding the global water situation?",
-        "back": "The world has moved beyond a water crisis and into a state of 'global water bankruptcy' due to overuse and environmental degradation."
-      },
-      {
-        "front": "How does the article illustrate water becoming a 'weapon of conflict'?",
-        "back": "By citing attacks on critical desalination facilities in the US-Israeli war with Iran, which supply drinking water to millions."
-      },
-      {
-        "front": "What specific treaty governing transboundary water is highlighted as being jeopardized by geopolitical tensions between India and Pakistan?",
-        "back": "The Indus Waters Treaty, which India decided in 2025 (as per the article's context) to place in 'abeyance'."
-      },
-      {
-        "front": "What are the key domestic measures suggested for lower riparian countries like Pakistan to improve water security, independent of transboundary agreements?",
-        "back": "Using water efficiently, allocating it fairly, protecting aquifers and watersheds, and ensuring that ordinary citizens have reliable access to safe water."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792116416748-289",
-    "title": "Multan derailment\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037273/multan-derailment",
-    "date": "2026-10-15",
-    "author": "none@none.com (Editorial)",
-    "content": "IN numerous states, including many of Pakistan’s neighbours, rail transport is a safe and affordable mode of travel. But in this country, rail journeys can be perilous, as the derailment of the Peshawar-bound Rehman Baba Express near Multan early on Tuesday shows. In fact, derailments and accidents are far too common on our rail network, because for decades, the railways have remained underfunded. At least five people died in the tragedy, which is being blamed on “mechanical failure”. The worthy railways minister has said an investigation is under way. There is, of course, much to investigate where the overall state of the rail network is concerned. As per figures in the media, at least 35 train accidents were reported in the first six months of the current year, while in 2025, there were 95 incidents.\nThe railways authorities say they have been making ‘improvements’, such as digitalising stations, and providing Wi-Fi. But where overhaul is concerned, especially upgrading signalling equipment and tracks, much needs to be done. Pakistan has a plan (ML-1) to bring its railways into the 21st century; what is missing is much of the funding — billions of dollars are required — as well as the will on part of the state to forge ahead with the modernisation plan. Perhaps officialdom is slothful because train transport is no longer used by the elite. The prime minister recently said he wants to see progress on ML-1; a launch date of January 2027 has been announced. However, it should be remembered that several launch dates for the megaproject have come and gone. To ensure the safety of passengers, and make critical upgrades to the national rail network, the authorities must set realistic timelines, arrange the funding, and start work without delay. A modern passenger and freight rail network can bring considerable economic advantages, while improving connectivity internally and with neighbouring states.\nPublished in Dawn, October 15th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Current Affairs",
-    "topic": "Infrastructure Development, Regional Connectivity, and Governance Challenges",
-    "whyMatters": "This article, while not directly addressing ECO, highlights critical domestic infrastructure deficiencies (railways) that impede Pakistan's overall economic development and its potential to foster robust regional integration. A student can leverage this to argue that internal infrastructure modernization is a prerequisite for Pakistan to effectively engage in and benefit from regional blocs like ECO.",
-    "summary": [
-      "Pakistan's rail transport network is highly unsafe due to decades of chronic underfunding and neglect, leading to frequent accidents and derailments.",
-      "The ongoing issues are attributed to systemic mechanical failures and a lack of significant upgrades to crucial infrastructure like signalling equipment and tracks.",
-      "The ambitious ML-1 modernization plan, intended to bring railways into the 21st century and enhance regional connectivity, is stalled due to a severe lack of funding (billions of dollars) and insufficient political will.",
-      "Timely and adequate investment in railway modernization is essential not only for passenger safety and internal economic benefits but also for improving connectivity with neighboring states, which is foundational for regional integration efforts."
-    ],
-    "facts": [
-      "At least five people died in the Peshawar-bound Rehman Baba Express derailment near Multan.",
-      "35 train accidents were reported in the first six months of the current year (2026), and 95 incidents occurred in 2025.",
-      "The ML-1 project, vital for railway modernization, requires billions of dollars in funding, with a repeatedly missed launch date, currently set for January 2027."
-    ],
-    "academicReferences": [
-      "China-Pakistan Economic Corridor (CPEC) Framework (ML-1 is a flagship project)",
-      "Pakistan's National Transport Policy (relevant for railway modernization strategies)",
-      "Asian Development Bank (ADB) Reports on Infrastructure Development in Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "Perilous",
-        "type": "adjective",
-        "definition": "Full of danger or risk.",
-        "sentence": "Rail journeys in Pakistan can be perilous due to the state of the infrastructure."
-      },
-      {
-        "word": "Slothful",
-        "type": "adjective",
-        "definition": "Lazy; indolent.",
-        "sentence": "Perhaps officialdom is slothful because train transport is no longer used by the elite."
-      },
-      {
-        "word": "Forge ahead",
-        "type": "verb",
-        "definition": "To make progress, especially with difficulty; to move forward purposefully.",
-        "sentence": "The state lacks the will to forge ahead with the railway modernization plan."
-      },
-      {
-        "word": "Officialdom",
-        "type": "noun",
-        "definition": "Officials in general; the world of officialdom; bureaucracy.",
-        "sentence": "Officialdom's indifference contributes to the persistent issues in the rail network."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is identified as the primary reason for frequent train accidents and derailments in Pakistan?",
-        "options": [
-          "Chronic underfunding and neglect of the rail network",
-          "Overuse of modern technology in signalling equipment",
-          "Lack of passenger awareness regarding safety protocols",
-          "Frequent natural disasters impacting railway tracks"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that 'derailments and accidents are far too common on our rail network, because for decades, the railways have remained underfunded.'"
-      },
-      {
-        "question": "Which major project is aimed at modernizing Pakistan's railways into the 21st century?",
-        "options": [
-          "ML-1",
-          "ECO Rail Link",
-          "Digital Stations Initiative",
-          "Peshawar Express Upgrade"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article mentions, 'Pakistan has a plan (ML-1) to bring its railways into the 21st century.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the core reasons identified in the article for the perilous state of Pakistan's rail transport?",
-        "back": "Decades of chronic underfunding, neglect of infrastructure, systemic mechanical failures, and lack of upgrades to signalling equipment and tracks."
-      },
-      {
-        "front": "What are the main challenges hindering the progress of the ML-1 railway modernization plan?",
-        "back": "The lack of billions of dollars in funding and insufficient political will from the state to implement the modernization plan."
-      },
-      {
-        "front": "Beyond passenger safety, what are the broader benefits of a modern passenger and freight rail network mentioned in the article?",
-        "back": "Considerable economic advantages, improved internal connectivity, and enhanced connectivity with neighboring states."
-      },
-      {
-        "front": "How does the article suggest authorities can ensure safety and critical upgrades for the national rail network?",
-        "back": "By setting realistic timelines, arranging the necessary funding, and commencing work without delay on modernization projects."
       }
     ]
   }
