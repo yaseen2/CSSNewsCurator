@@ -1,5 +1,852 @@
 [
   {
+    "id": "curated-1794022277628-241",
+    "title": "Exchange rate’s woeful tale\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042777/exchange-rates-woeful-tale",
+    "date": "2026-11-07",
+    "author": "none@none.com (Ishrat Husain)",
+    "content": "THE preoccupation of exchange rate fundamentalists in Pakistan with a single, partial indicator — Real Effective Exchange Rate (REER) — is astonishing. As Nadeem ul Haque argued in an illuminating article, fixing or deliberately boosting exchange rates effectively ended with Bretton Woods’ collapse in the 1970s. Research has since confirmed that the exchange rate is a market price — the price of one currency in terms of another, determined by underlying economic conditions — and not a policy tool. Hence, the exchange rate is an endogenous variable reflecting domestic inflation, productivity, external balances, capital flows, reserve adequacy, fiscal credibility, interest-rate differentials, and market expectations. As Haque notes, “The rupee does not weaken because someone decides to weaken it. It weakens because underlying conditions make the existing price unsustainable.”\nREER has a legitimate but limited purpose. It measures changes in the nominal exchange rate adjusted for relative price movements against trading partners. But an index reading of 100, based on a selected base year, doesn’t establish an optimal exchange rate. Nor does a deviation from 100 automatically signal overvaluation or undervaluation. REER says little about balance-of-payments sustainability, foreign exchange availability from non-trade sources or exporters’ ability to compete through quality, technology, productivity, and delivery. There are questions to address before treating REER as an authoritative guide to exchange rate policy.\nFirst, does the base year 2010 represent an equilibrium exchange rate? Pakistan recorded a current account deficit of $3.95 billion, around two per cent of GDP, that year, compared with a near-balanced account in 2026. Second, have trade weights and trading partner composition remained representative over 16 years, especially after the China FTA? Third, have movements in individual partners’ currencies been adequately reflected in an index referencing the US dollar? Fourth, the choice of price deflator (CPI, PPI, unit labour costs or GDP deflator) can produce very different results. These points need serious thought before prescriptions are based on a single index.\nREER doesn’t capture many of the external account components. Workers’ remittances have grown faster than merchandise exports. They’re a major source of foreign exchange, financing imports of raw material, equipment and fuel, enabling domestic industry to use productive capacity that would otherwise be underemployed. They help build reserves, boost external stability, and reduce reliance on borrowing. FDI, portfolio investment, and external debt disbursements provide more foreign exchange liquidity. Assessments limited to REER overlook these determinants of external sustainability.\nQuestions must be addressed before treating REER as an authoritative guide to exchange rate policy.\nThree empirical tests help establish whether the exchange rate is artificially managed or broadly market-determined. The first is the differential between official interbank and open-market rates. It peaked at Rs10-15 per dollar in FY2023. As reserves accumulated and market conditions normalised, the gap narrowed to its customary Rs0.50-2 range, indicating a more unified foreign exchange market. The second test is whether administrative restrictions on imports and profit and dividend repatriation are being used to suppress foreign exchange demand. Such curbs were imposed in FY2023 when SBP reserves fell to $3bn or so. Imports declined to $53bn and profit and dividend repatriation to just $331 million against normal levels of about $70bn and $2bn. Last fiscal, imports recovered to $71bn. Profit and dividend remittances reached $2.3bn. Arrears were cleared and current obligations met. This restoration hardly supports the view that the exchange rate is being sustained through administrative demand suppression. The third, perhaps most compelling, test is whether SBP has depleted its reserves to defend a parity. In FY2023, reserves fell to about $3bn recovering to around $21bn despite annual external debt-servicing dues of about $25bn. This accumulation occurred while the rate was around Rs280 per dollar and REER above 100. It’s difficult to reconcile this outcome with the claim that an artificial exchange rate is being maintained when SBP is mopping up surplus dollar liquidity after interbank clearance.\nHistorical comparisons reinforce this view. Bet­ween 2015 and 2018, the rupee was maintained aro­­und Rs104 per dollar, but SBP reserves dec­li­ned from $18bn to $9bn. In contrast, in 2000-2007 when reserves increased from barely $1bn to $13bn, the exchange rate remained stable around Rs60 and exports more than doubled from $9bn to $19bn. Still, critics said the rate was artificially defended, overlooking the net foreign exchange inflows being sterilised to prevent excessive appreciation and protect exporters’ competitiveness.\nMarket expectations are another important aspect. In Pakistan, they are often driven by a bandwagon effect instead of rational assessments of fundamentals. When reserves fall below comfortable levels, depreciation expectations can become self-fulfilling. Exporters withhold dollar proceeds within the permitted 90-day surrender period, anticipating a better rate; importers advance foreign exchange requirements to avoid future depreciation. Supply contracts and demand rises putting pressure on the rupee. The anticipated depreciation then materialises.\nWould a 10pc depreciation advocated by REER fundamentalists improve competitiveness? Foreign buyers may demand price discounts of at least 5pc from exporters, treating additional rupee earnings as a windfall. About 40pc of exports use imported inputs including fuel, LNG, and textile raw materials. Their costs rise, leaving exporters with a net gain of perhaps only 2-3pc. The impact goes beyond exporters. Costlier imports fuel inflation, hurting poorer households whose main asset is their labour and whose wages, particularly in an informal economy with extensive underemployment, do not adjust proportionately. The central bank may raise interest rates, increasing domestic borrowing costs. Imported machinery becomes costlier, forcing investors to put off or abandon projects, hurting both investment and growth. As the rupee cost of servicing external debt increases, partly offset by higher import-duty collections, government may have to borrow more, crowding out private-sector credit. Foreign investors earn lower dollar returns, discouraging fresh investment.\nThe lesson is that exchange-rate stability can’t be engineered through administrative intervention or depreciation alone. It must rest on credible fiscal management, a broader tax base, sound trade and tariff policies, remunerative energy pricing, higher productivity and prudent monetary management. Together, these policies reduce the need for disruptive exchange-rate adjustments.\nPakistan must not treat REER as a magic number and depreciation as a remedy. The aim should not be an arbitrary index reading but sustainable external competitiveness, stronger reserves, higher exports and investment, and protection of purchasing power. The exchange rate is a reflection of economic fundamentals, not a substitute for them. Correcting symptoms while neglecting underlying weaknesses will only perpetuate the rupee’s woeful tale. \nThe writer is a former State Bank governor.\nPublished in Dawn, November 7th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Pakistan Affairs",
+    "topic": "Exchange Rate Management, Balance of Payments, Economic Stability of Pakistan",
+    "whyMatters": "This article, written by a former State Bank governor, provides a critical and authoritative perspective on Pakistan's exchange rate dynamics and their link to economic stability. It offers nuanced arguments that challenge conventional wisdom, crucial for high-scoring answers on balance-of-payments constraints and export performance.",
+    "summary": [
+      "The exchange rate is a market price, an endogenous variable determined by underlying economic conditions (e.g., inflation, productivity, external balances), not a policy tool.",
+      "REER (Real Effective Exchange Rate) is a limited indicator for exchange rate policy in Pakistan, with flaws in its base year, trade weights, and inability to capture non-trade foreign exchange sources or true external sustainability.",
+      "Empirical tests suggest Pakistan's exchange rate is broadly market-determined, with recent narrowing of market gaps, easing of administrative curbs, and SBP's reserve accumulation indicating a non-artificially maintained rate.",
+      "Depreciation, often advocated by REER fundamentalists, has limited benefits for exporters (due to import costs and buyer discounts) and significant adverse effects, including fueling inflation, raising borrowing costs, discouraging investment, and increasing external debt servicing.",
+      "Sustainable exchange-rate stability and external competitiveness necessitate fundamental reforms in fiscal management, tax base, trade policies, energy pricing, productivity, and monetary management, rather than relying on arbitrary exchange rate targets."
+    ],
+    "facts": [
+      "Pakistan recorded a current account deficit of $3.95 billion (2% of GDP) in 2010, the base year for REER calculations.",
+      "SBP reserves fell to about $3 billion in FY2023 but recovered to around $21 billion despite annual external debt-servicing dues of about $25 billion.",
+      "Between 2015 and 2018, the rupee was maintained around Rs104 per dollar, during which SBP reserves declined significantly from $18 billion to $9 billion."
+    ],
+    "academicReferences": [
+      "Ishrat Husain (former State Bank governor, author of the article)",
+      "Nadeem ul Haque (economist, referenced for views on exchange rates as market prices)",
+      "Bretton Woods' collapse (historical economic event marking a shift in global exchange rate regimes)"
+    ],
+    "vocabulary": [
+      {
+        "word": "preoccupation",
+        "type": "noun",
+        "definition": "The state or condition of being engrossed in something; a dominant concern.",
+        "sentence": "The fundamentalists' preoccupation with a single indicator like REER limits their understanding of the complex economic situation."
+      },
+      {
+        "word": "endogenous",
+        "type": "adjective",
+        "definition": "Originating or produced within an organism, system, or part; internally determined.",
+        "sentence": "The article argues that the exchange rate is an endogenous variable, reflecting domestic economic conditions rather than being a policy tool."
+      },
+      {
+        "word": "deflator",
+        "type": "noun",
+        "definition": "An economic factor or index used to adjust a price or income series for changes in the purchasing power of money.",
+        "sentence": "The choice of price deflator (CPI, PPI, unit labour costs, or GDP deflator) can produce very different results for REER calculations."
+      },
+      {
+        "word": "sterilised",
+        "type": "verb (past participle)",
+        "definition": "In economics, to neutralize the effect of foreign exchange interventions on the domestic money supply.",
+        "sentence": "Net foreign exchange inflows were sterilised in 2000-2007 to prevent excessive appreciation of the rupee."
+      },
+      {
+        "word": "bandwagon effect",
+        "type": "noun",
+        "definition": "The tendency for people to adopt certain behaviors, styles, or attitudes simply because others are doing so.",
+        "sentence": "In Pakistan, market expectations for the exchange rate are often driven by a bandwagon effect instead of rational assessments of fundamentals."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT primarily an underlying condition that determines the exchange rate?",
+        "options": [
+          "A) Domestic inflation",
+          "B) Deliberate policy decision to weaken the currency",
+          "C) Capital flows and reserve adequacy",
+          "D) Fiscal credibility and market expectations"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that the exchange rate is not a policy tool and 'does not weaken because someone decides to weaken it.' Instead, it is determined by underlying economic conditions such as inflation, capital flows, and market expectations."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the core argument of the article regarding the fundamental nature of the exchange rate?",
+        "back": "The exchange rate is a market price determined by underlying economic conditions, not a policy tool, reflecting domestic inflation, productivity, and external balances."
+      },
+      {
+        "front": "Why does the article criticize reliance on the Real Effective Exchange Rate (REER) as an authoritative guide for exchange rate policy in Pakistan?",
+        "back": "REER's base year may not be an equilibrium, its trade weights are outdated, it doesn't capture non-trade foreign exchange sources (like remittances), and the choice of price deflator can yield varied results, making it insufficient for assessing external sustainability."
+      },
+      {
+        "front": "What three empirical tests does the article use to argue that Pakistan's exchange rate is broadly market-determined rather than artificially managed?",
+        "back": "The tests are: 1) Narrowed differential between official interbank and open-market rates, 2) Easing of administrative restrictions on imports and profit/dividend repatriation, and 3) SBP's accumulation of reserves rather than depletion to defend a parity."
+      },
+      {
+        "front": "What broader policy framework does the article suggest is essential for achieving exchange-rate stability and sustainable external competitiveness in Pakistan?",
+        "back": "Exchange-rate stability requires credible fiscal management, a broader tax base, sound trade and tariff policies, remunerative energy pricing, higher productivity, and prudent monetary management, rather than relying on depreciation or administrative interventions."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022432774-879",
+    "title": "When home is hell\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042776/when-home-is-hell",
+    "date": "2026-11-07",
+    "author": "none@none.com (E.N. Bandial)",
+    "content": "ON an ordinary March afternoon this year, the children of a household in Lahore’s Choong district gathered for their uncle’s small promise of treats. Among them was four-year-old Azan, who was led out for a stroll by his uncle. It all ended eight hours later in the isolated outskirts of Quaid-i-Azam Industrial Estate — with Azan dead. The minor’s body, when recovered, showed a two-inch exposed spinal cord attaching the head and mutilated remains. Azan had reportedly been tortured and eventually killed with an eight-inch-long knife by his own father, allegedly in a calculated bid to implicate a third party. Azan is just one of several children who are killed every month by people known to them.\nMoving back, in October, a 13-year-old in Mianwali was shot dead by her cousin for not wearing a hijab. In September, a three-year-old in Islamabad was kidnapped, raped, and murdered by her brother-in-law. In August, an 18-month-old in Karachi died after being raped by her 17-year-old cousin, while in July, a six-year-old boy was beaten up, raped, and strangled with a wire by his neighbour, and a four-year-old girl in Gujranwala was set on fire by her mother on suspicion of being ‘possessed’. In May, a father in Vehari repeatedly raped his three daughters aged 14, 11, and nine for six consecutive months; while three children aged six, four, and three were killed and found hanging from the fans in their home in Multan. A month earlier, in April, a mother in Lahore brutally slit the throats of her three children, luring them through a sadistic ‘game’ of hide-and-seek.\nOccurring within the safe confines of the home, these tragedies shocked and enraged us more than others, but our protest ended in quiet resignation, as it did in 2022 when an eight-year-old was tortured and poisoned by her grandparents for failing at household chores, and in 2015 when a 12-year-old was beaten to death by her father for not making properly round rotis. \nHomes repeatedly turn into hell for children as our criminal justice system is unequipped to intercept and prevent attacks within the home. Statutes such as the ICT and Sindh Child Protection Acts create institutional bodies that address minors’ welfare, but they lack the authority to adopt anticipatory, prompt, and intrusive measures to ensure child safety. Our laws are reactive rather than anticipatory. Even the landmark Zainab Alert, Response, and Recovery Act, 2020, creates a protection mechanism for missing children that is enforceable only after the abduction is reported. As a result, attacks on children in public are not easily prevented.\nOur criminal justice system is unequipped to intercept and prevent attacks within the home.\nRecently, a five-year-old in Haripur was raped and left to die after being lured out of her home to see her father; an eight-year-old in Lahore was sexually harassed in a grocery store by the owner, and an eight-year-old in Sargodha was raped and murdered in a grocery store. Even when these victims were seen being accompanied or coaxed by a group of men or being eyed by strangers, the palpable threat of attack was ignored by those present at the scene. It was also in the presence of bystanders in Multan that 15-year-old Wasim was tortured and then run over by his employer recently. Whether it was their indifference or ignorance, they abandoned the weakest, most vulnerable members of society — our children. Being voiceless, defenceless and weak, children are considered dispensable. It is, therefore, easy to ignore injustices against them.\nWe tolerate inadequate child protection laws and mechanisms, ignore the proliferation of pornographic content, disregard paedophilic customs such as trading minor boys, and permit appalling lectures advocating marriage with girls as young as four. Our complicity and apathy have normalised child abuse and allowed it to persist, putting Pakistan third on the global map for child abuse. Around 2,000 cases of child abuse were reported in just the first six months of the current year. Sahil reported over 3,600 in 2025. In 2024, 21 children were being abused daily. Reducing such horrifying figures demands enforceable protection under the law. Justice Jawad Hasan in 2023 (Zafar Khizer vs the Federation of Pakistan)initiated a shift in discourse from viewing children as ordinary citizens to viewing them as vulnerable citizens categorised as ‘child citizens’ and entitled to a higher degree of protection and concern under the law. Justice Usman G. Rashid last month said that the child citizen is entitled to fundamental rights in their independent capacity that cannot be displaced by any parental authority. While the concept of the child citizen as an independent rights holder is evolving through jurisprudence, it is insufficient without effective implementation and accountability.\nMandatory reporting regimes should be introduced for designated professionals such as healthcare providers, instructors, and adults in child-related roles or positions of trust, as under Australian law and England’s Crime and Policing Act, 2026. Additional measures for prevention through reporting suspected child abuse and conducting child-sensitive investigations and follow-ups in such cases must be made compulsory in line with the spirit of Article 19 of the UN Convention on the Rights of the Child. These obligations must be rooted not merely in law, but in a shared sense of humanity and a collective duty to protect the vulnerable because, as lawyer and human rights activist Asma Jahangir said, a society that fails to protect its children has, in fact, failed humanity’s most basic test. \nThe writer is a lawyer.\nPublished in Dawn, November 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Social Issues / Pakistan Affairs / Criminology",
+    "topic": "Child Abuse, Criminal Justice System Failures, and Child Protection Reforms in Pakistan",
+    "whyMatters": "This article offers critical insights into the pervasive issue of child abuse in Pakistan, highlighting severe systemic and societal failures. Aspirants can leverage its arguments, statistics, and legal references to critically analyze and propose solutions for child protection in essays and current affairs papers.",
+    "summary": [
+      "Child abuse is rampant and often perpetrated by known individuals within the 'safe confines' of homes in Pakistan, with numerous horrific examples cited.",
+      "Pakistan's criminal justice system and existing child protection statutes (e.g., ICT and Sindh Child Protection Acts, Zainab Alert Act) are reactive and ill-equipped to intercept or prevent domestic child abuse proactively.",
+      "Societal complicity, apathy, and the normalization of practices like child marriage, coupled with inadequate laws, contribute significantly to Pakistan ranking third globally in child abuse cases.",
+      "Recent judicial jurisprudence is evolving to recognize children as 'child citizens' with independent fundamental rights, but effective implementation and accountability remain a significant challenge.",
+      "The article advocates for mandatory reporting regimes by designated professionals, child-sensitive investigations, and measures rooted in collective humanity, referencing international standards like Article 19 of the UN Convention on the Rights of the Child."
+    ],
+    "facts": [
+      "Pakistan ranks third on the global map for child abuse.",
+      "Around 2,000 cases of child abuse were reported in just the first six months of the 'current year' (referencing contextually 2026/2025), with Sahil reporting over 3,600 cases in 2025 and 21 children abused daily in 2024.",
+      "The Zainab Alert, Response, and Recovery Act, 2020, creates a protection mechanism enforceable only after abduction is reported, highlighting its reactive nature."
+    ],
+    "academicReferences": [
+      "UN Convention on the Rights of the Child (Article 19)",
+      "Justice Jawad Hasan, 2023 (Zafar Khizer vs the Federation of Pakistan) - initiated 'child citizen' discourse.",
+      "Australian Law and England’s Crime and Policing Act, 2026 - cited for mandatory reporting regimes."
+    ],
+    "vocabulary": [
+      {
+        "word": "Mutilated",
+        "type": "adjective",
+        "definition": "Severely disfigured or damaged, often by cutting or tearing.",
+        "sentence": "The minor’s body, when recovered, showed a two-inch exposed spinal cord attaching the head and mutilated remains."
+      },
+      {
+        "word": "Jurisprudence",
+        "type": "noun",
+        "definition": "The theory or philosophy of law; a legal system.",
+        "sentence": "While the concept of the child citizen as an independent rights holder is evolving through jurisprudence, it is insufficient without effective implementation and accountability."
+      },
+      {
+        "word": "Complicity",
+        "type": "noun",
+        "definition": "The state of being involved with others in an illegal activity or wrongdoing.",
+        "sentence": "Our complicity and apathy have normalised child abuse and allowed it to persist, putting Pakistan third on the global map for child abuse."
+      },
+      {
+        "word": "Anticipatory",
+        "type": "adjective",
+        "definition": "Acting in advance in expectation of something.",
+        "sentence": "Our laws are reactive rather than anticipatory, failing to prevent attacks before they occur."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT identified as a reason for the persistence of child abuse in Pakistan according to the article?",
+        "options": [
+          "Inadequate child protection laws",
+          "Societal apathy and complicity",
+          "Excessive foreign intervention",
+          "Reactive criminal justice system"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions inadequate laws, societal apathy/complicity, and a reactive justice system. Foreign intervention is not cited as a reason for the persistence of child abuse."
+      },
+      {
+        "question": "The 'child citizen' concept, as evolving through recent jurisprudence, primarily signifies:",
+        "options": [
+          "Children's right to vote at an earlier age.",
+          "Children as ordinary citizens without special protection.",
+          "Children as vulnerable citizens entitled to a higher degree of protection and independent fundamental rights.",
+          "Children's duty to report parental abuse."
+        ],
+        "answerIndex": 2,
+        "explanation": "Justice Jawad Hasan and Justice Usman G. Rashid's statements emphasize viewing children as vulnerable citizens with independent fundamental rights, deserving higher protection, rather than ordinary citizens."
+      },
+      {
+        "question": "What key recommendation does the article make to improve child protection, drawing from international examples?",
+        "options": [
+          "Increasing public awareness campaigns only.",
+          "Implementing mandatory reporting regimes for designated professionals.",
+          "Enhancing parental authority to monitor children more closely.",
+          "Decriminalizing certain forms of child abuse."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article suggests mandatory reporting regimes for professionals like healthcare providers and instructors, citing Australian law and England’s Crime and Policing Act, 2026 as examples."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Why does the article argue that attacks on children within the home are particularly shocking and difficult to prevent?",
+        "back": "Attacks within the home are shocking because they occur in a supposed 'safe haven' and are difficult to prevent because the criminal justice system is unequipped to intercept and adopt anticipatory, intrusive measures for child safety within domestic confines."
+      },
+      {
+        "front": "What is the primary limitation highlighted for existing child protection statutes like the ICT and Sindh Child Protection Acts?",
+        "back": "The primary limitation is their reactive nature; they address minors' welfare institutionally but lack the authority for anticipatory, prompt, and intrusive measures to ensure child safety before an incident occurs."
+      },
+      {
+        "front": "How does the article connect societal attitudes and customs to the prevalence of child abuse in Pakistan?",
+        "back": "The article argues that societal complicity, apathy, tolerance for inadequate laws, disregard for pornographic content, acceptance of paedophilic customs (like trading minor boys), and permission of lectures advocating child marriage have normalized and allowed child abuse to persist."
+      },
+      {
+        "front": "According to the article, what is the significance of Article 19 of the UN Convention on the Rights of the Child in the context of child protection?",
+        "back": "Article 19 signifies the international obligation to protect children from all forms of violence, abuse, and neglect, and the article suggests that measures like mandatory reporting and child-sensitive investigations must be compulsory in line with its spirit."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022107038-567",
+    "title": "The debt burden\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042781/the-debt-burden",
+    "date": "2026-11-07",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN’S external debt has nearly doubled in a decade — from $68.7bn in 2015 to $135.1bn in 2025 — according to a new World Bank report. Public and publicly guaranteed debt accounts for $107.1bn of the total, private debt for $17.6bn, and short-term borrowing for $10.45bn.\nChina is the largest single creditor with $22.4bn outstanding, followed by the World Bank and Asian Development Bank. The rise itself is not surprising but the pace is striking. Much of this borrowing went towards plugging external financing gaps, propping up reserves, and repaying older loans to keep the economy running.\n    \nThe debt spike describes an economy that invests, produces and earns too little to service what it owes. Debt has become the main constraint on our fiscal and economic prospects. Servicing debt eats up meagre financial resources, which should be expanding productive capacity for exports, and makes faster growth harder to reach. That leads to more borrowing.\nThe government borrows to cover consumption, budget deficits, and external payments — not to build anything that pays for itself. Development spending is usually the first thing to be cut, and growth has crawled along at 2.7pc in recent years.\nThere is nothing wrong with borrowing. Developing economies need foreign capital for infrastructure, energy, technology, and industry. The trouble starts when loans do not raise domestic productivity or lift exports. Successive governments have failed to tell apart borrowing that builds capacity from borrowing that only buys time. Pakistan’s recurring balance-of-payments crisis underscores this fact.\n    \nThe country’s exports are weak, the production base is narrow, investment is low, and fiscal deficits refuse to go away. So, the economy keeps relying on foreign and domestic loans. Remittances, rollovers by friendly countries, and one IMF programme after another may have staved off immediate default, but none of them has addressed the underlying problem.\nIt does not matter much if the country can raise another loan or defer another repayment. What matters is whether the country can generate enough growth, tax revenue, and foreign exchange to meet its obligations without sacrificing its development.\nThe situation calls for a credible, short- to long-term strategy to invest in projects that raise productivity, exports, and foreign exchange earnings. The strategy must be accompanied by wider reforms aimed at expansion of the tax base, more productive public spending, and lower costs of doing business.\nExporters need energy that is reliable and competitively priced, policies they can predict, and access to modern technology. Without these, even fresh foreign investment and cheaper credit will yield little value, growth will remain anaemic, children stunted, and communities without basic services such as clean drinking water. And debt will continue to constrain the country’s economic sovereignty and prosperity.\nPublished in Dawn, November 7th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's External Debt and Balance of Payments Crisis",
+    "whyMatters": "This article provides a concise and direct explanation of Pakistan's recurring Balance-of-Payments crisis, linking it directly to unsustainable debt and weak export performance. It offers critical arguments and statistics essential for addressing the given exam question on economic growth constraints and the long-term challenge of exports.",
+    "summary": [
+      "Pakistan's external debt is projected to nearly double from $68.7bn in 2015 to $135.1bn in 2025, with China being the largest single creditor.",
+      "Much of this borrowing has been used to plug external financing gaps, prop up reserves, and repay older loans, rather than to build productive capacity or assets that generate revenue.",
+      "The article attributes the recurring balance-of-payments crisis to an economy that invests, produces, and earns too little to service its debts, exacerbated by weak exports, a narrow production base, low investment, and persistent fiscal deficits.",
+      "To address this, a credible short- to long-term strategy is required, focusing on investments that raise productivity, exports, and foreign exchange earnings, accompanied by wider reforms like tax base expansion and lower costs of doing business."
+    ],
+    "facts": [
+      "Pakistan's external debt is projected to reach $135.1bn in 2025, nearly doubling from $68.7bn in 2015.",
+      "China is Pakistan's largest single creditor, with $22.4bn outstanding debt.",
+      "Pakistan's economic growth rate has crawled along at 2.7pc in recent years, while debt servicing consumes significant financial resources."
+    ],
+    "academicReferences": [
+      "Economic Survey of Pakistan (Annual Publication by Ministry of Finance)",
+      "World Bank Pakistan Development Update (Regular Report Series)",
+      "IMF Country Reports for Pakistan (Specific loan program documents and Article IV consultations)"
+    ],
+    "vocabulary": [
+      {
+        "word": "constrain",
+        "type": "verb",
+        "definition": "to restrict or limit someone or something's movements, actions, or progress.",
+        "sentence": "The heavy debt burden will continue to constrain the country's economic sovereignty and prosperity."
+      },
+      {
+        "word": "meagre",
+        "type": "adjective",
+        "definition": "lacking in quantity or quality; inadequate.",
+        "sentence": "Servicing debt eats up meagre financial resources, which should be expanding productive capacity for exports."
+      },
+      {
+        "word": "anaemic",
+        "type": "adjective",
+        "definition": "lacking in vitality, strength, or vigor; weak.",
+        "sentence": "Without these reforms, even fresh foreign investment and cheaper credit will yield little value, and growth will remain anaemic."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary reason Pakistan's economy continues to rely on foreign and domestic loans?",
+        "options": [
+          "A) High domestic savings rates and robust industrial output.",
+          "B) Investing primarily in export-oriented, high-productivity sectors.",
+          "C) Borrowing to cover consumption, budget deficits, and external payments rather than productive capacity.",
+          "D) Aggressive fiscal surpluses and rapid tax base expansion."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'The government borrows to cover consumption, budget deficits, and external payments — not to build anything that pays for itself,' which is a core reason for persistent borrowing and reliance on loans."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary characteristic of Pakistan's borrowing highlighted in the article that exacerbates its economic challenges?",
+        "back": "The government borrows mainly to cover consumption, budget deficits, and external payments, rather than for productive investments that can pay for themselves."
+      },
+      {
+        "front": "How does the article link Pakistan's debt burden to its export performance?",
+        "back": "Debt servicing consumes financial resources that should be expanding productive capacity for exports, and weak exports are a key factor in the recurring balance-of-payments crisis."
+      },
+      {
+        "front": "What crucial distinction regarding loans does the article criticize successive governments for failing to make?",
+        "back": "They have failed to differentiate between borrowing that builds long-term capacity and borrowing that merely buys time."
+      },
+      {
+        "front": "What are the key elements of the short- to long-term strategy proposed in the article to address Pakistan's debt burden?",
+        "back": "Invest in projects raising productivity, exports, and foreign exchange earnings, coupled with reforms like expanding the tax base, productive public spending, and lowering business costs."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022749944-707",
+    "title": "Expendable LGs\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042780/expendable-lgs",
+    "date": "2026-11-07",
+    "author": "none@none.com (Editorial)",
+    "content": "POLITICAL parties frequently appear reluctant to hold regular local bodies elections on one pretext or another. This attitude negates constitutional requirements for holding local government polls and establishing LGs, denying voters the right to elect their representatives at the grassroots level. As reported, the ECP has dropped plans to hold LG polls in KP due to the suspension of Article 140-A. After the proclamation of emergency in the province last month, the article had been suspended in specific districts. The centre has now suspended Article 140-A across the province, scuttling plans for LG polls in the foreseeable future. Questions have also been raised regarding the LG polls scheduled in Islamabad for Dec 20, as a petitioner has challenged delimitation in the high court. In Punjab, however, LG polls should be held in February 2027, unless new obstructions are created.\nIt is unfortunate that both the state and political parties — which claim to be the flag-bearers of democracy — put in so much effort to keep third-tier governance in indefinite abeyance. Under the law, elections are supposed to take place 120 days after the term of an LG expires. However, in Pakistan, the law is routinely flouted. In KP, the LGs’ term expired in June, while in Punjab and Islamabad Capital Territory, LG polls should have been held in May 2022 and June 2021, respectively. A common tactic, particularly used by parties ruling a province, is to amend the LG laws so that delimitation and the electoral process are further postponed. This ploy ends up wasting taxpayers’ money and depriving citizens of their right to elect local representatives. To do away with the legal loopholes, it has been suggested that the Elections Act, 2017, be amended so that no changes to the LG law are allowed once an LG completes its term. Secondly, a constitutional amendment may be required to clarify the process of LG polls so that neither the centre nor the provinces can shirk this essential responsibility. Our cities, towns, and villages cannot develop without functioning and responsive LGs. Moreover, empowered local bodies also present a democratic alternative to the complicated question of forging new provinces, as they would, in theory, bring power and funds down to the local level.\nPublished in Dawn, November 7th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs / Political Science",
+    "topic": "Local Government System, Democratic Decentralization, and Constitutional Compliance in Pakistan",
+    "whyMatters": "This article critically analyzes the persistent failure to hold local government elections in Pakistan, a fundamental aspect of democratic governance and constitutional compliance. Aspirants can use its arguments to demonstrate an understanding of governance challenges, constitutional breaches, and potential reforms in essays on democracy, federalism, and public administration.",
+    "summary": [
+      "Political parties frequently obstruct local government elections, disregarding constitutional mandates and denying citizens their right to grassroots representation.",
+      "The suspension of Article 140-A in Khyber Pakhtunkhwa and challenges to delimitation in Islamabad exemplify the systemic pretexts used to indefinitely postpone LG polls.",
+      "A common tactic involves amending local government laws after an LG's term expires, leading to delays, wasted taxpayer money, and disenfranchisement.",
+      "Suggested reforms include amending the Elections Act, 2017 to prevent post-expiry law changes, and a constitutional amendment to clarify the LG poll processes, ensuring accountability and promoting local development."
+    ],
+    "facts": [
+      "Article 140-A was suspended across Khyber Pakhtunkhwa, leading to the indefinite postponement of LG polls in the province.",
+      "LGs' terms expired in KP in June, Punjab in May 2022, and Islamabad Capital Territory in June 2021, yet elections remain largely outstanding.",
+      "The Elections Act, 2017, is suggested for amendment to prevent changes to local government laws once an LG's term has completed."
+    ],
+    "academicReferences": [
+      "Constitution of Pakistan, 1973 (Article 140-A)",
+      "The Elections Act, 2017",
+      "18th Constitutional Amendment (particularly regarding decentralization and Article 140-A)"
+    ],
+    "vocabulary": [
+      {
+        "word": "pretext",
+        "type": "noun",
+        "definition": "a reason given in justification of a course of action that is not the real reason",
+        "sentence": "The political party used security concerns as a pretext to postpone the local elections."
+      },
+      {
+        "word": "abeyance",
+        "type": "noun",
+        "definition": "a state of temporary disuse or suspension",
+        "sentence": "The development projects were held in abeyance until the new local government took office."
+      },
+      {
+        "word": "scuttling",
+        "type": "verb",
+        "definition": "deliberately cause (something) to fail or be abandoned",
+        "sentence": "The sudden suspension of the constitutional article was seen as scuttling plans for grassroots democracy."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which constitutional article's suspension primarily led to the postponement of local government polls in Khyber Pakhtunkhwa?",
+        "options": [
+          "Article 140-A",
+          "Article 140",
+          "Article 139",
+          "Article 141"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that LG polls in KP were dropped 'due to the suspension of Article 140-A'."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What fundamental constitutional requirement is frequently violated by political parties regarding local governance?",
+        "back": "The constitutional requirement to hold regular local bodies elections and establish Local Governments (LGs)."
+      },
+      {
+        "front": "Name two primary suggested reforms to address the legal loopholes exploited for postponing LG polls.",
+        "back": "Amending the Elections Act, 2017 to disallow changes to LG laws after term expiry, and a constitutional amendment to clarify the LG poll process and responsibility."
+      },
+      {
+        "front": "Beyond democratic representation, what two key benefits do empowered local bodies offer for national development and governance?",
+        "back": "They are essential for the development of cities, towns, and villages, and they offer a democratic alternative to forging new provinces by devolving power and funds locally."
+      },
+      {
+        "front": "Describe a common tactic employed by ruling parties to postpone local government elections.",
+        "back": "Amending local government laws after an LG's term expires, which then delays delimitation and the overall electoral process."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022188985-552",
+    "title": "Enabling terrorism\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042775/enabling-terrorism",
+    "date": "2026-11-07",
+    "author": "none@none.com (Dr Raashid Wali Janjua)",
+    "content": "INSURGENCIES militarise society and spawn a conflict economy that empowers splinter insurgent groups with their own set of interests and objectives. These militant groups thrive in a governance vacuum as well as the ideological confusion in post-conflict societies. The TTP is amongst the classic examples of insurgency-begotten militancy and terrorism. Afghanistan is a quintessential case study of an insurgency-wracked nation that has given rise to other insurgencies and waves of terrorism.\nAfghanistan’s 10-year anti-Soviet insurgency achieved success but spawned another decade of internecine conflict that gave space to terrorist entities and subsequent international intervention against Al Qaeda terrorists operating from that country. Pakistan’s action against terrorist entities elicited an irate response from these violent groups in the former Federally Administered Tribal Areas (now merged districts of KP), leading to a series of military operations from 2004 to 2017, driving the terrorists towards Afghanistan.\nAfter the US withdrawal from Afghanistan in 2021, the Taliban regime occupied Kabul and reneged on all its pledges made in the Doha Agreement and introduced a brutal, oppressive regime where there was no place for minorities, women, and non-Taliban Afghans. Soon after assuming power, the Taliban regime gave free rein to terrorist entities like the TTP and freed hardened criminals and terrorists from jails.\nAfter the US withdrawal, Pakistan extended an olive branch to the Taliban regime, offering humanitarian aid, trade facilities, and economic integration. But despite continual positive engagement, the Taliban did not abide by their counterterrorism commitments. Terrorist entities like TTP were given free rein to operate against Pakistan from secure sanctuaries in Afghanistan. When Pakistan started tightening its noose against these terrorists, their leadership was reportedly taken to Kabul’s Green Zone and hid amongst the civilian population.\nInsurgencies in Afghanistan have created an ecosystem of terror.\nAt present, a blend of over 20 terrorist entities is operating under the benign gaze of the Taliban regime in Afghanistan. The Taliban are extremely adept at denialism and selling their anti-IS-K credentials. The reality is different, however, as terrorist entities like IS-K with a transnational agenda are operating under an entente cordiale between them and the Taliban regime. For many foreign powers, the Doha Agreement has been reduced to just two points — women’s rights and education — relegating inclusivity to the backburner due to the international community’s predilection for appeasing the Taliban.\nPakistan is paying a huge price for this indulgence of the Taliban. After the US withdrawal, terrorist attacks in Pakistan surged manifold. Thousands have been killed and injured in terrorist attacks since. The two-faced Taliban have perfected the art of denying complicity in terrorism to curry favour with foreign donors. They are being facilitated in this endeavour by hostile foreign intelligence agencies that wish to keep the region destabilised for their geopolitical interests.\nThe Taliban regime is thriving on an illicit economy where narco-trafficking, smuggling and extortion are being sponsored under official patronage, with the Taliban warlords having stakes in each criminal enterprise.\nThe weapons left by Nato and US forces are being sold to terrorist entities. American and Nato forces, after the 2021 withdrawal, left behind weapons and equipment worth $7.12 billion, out of which large quantities were handed over or sold to terrorist entities like the TTP by the Taliban. Terrorist groups including the TTP and BLA have used these weapons against Pakistan under the patronage of the Taliban re­­­-gi­­me.\nAccording to the April 2025 report of the US Special Inspector General for Afghanistan Reconstruction, the TTP accessed former Afghan army weapons, either transferred by Taliban authorities or acquired through the black market. Similar confirmation has been made by the UN Security Council Monitoring Team.\nBy 2025, Pakistan’s security forces had recovered 293 US-made weapons and other gear from eliminated terrorists. Even a 2025 Washington Post investigation traced serial numbers of at least 63 weapons seized in Pakistan from terrorists to weapons supplied by the US to Afghan forces before 2021.\nEarlier insurgencies in Afghanistan birthed an ecosystem of terror, which is now being exported. The flow of arms to terrorist entities like the TTP and BLA from Afghanistan under the patronage of the Afghan Taliban regime is a taste of things to come for the entire international community, whose attention at present is consumed mostly by the conflicts in Ukraine and the Middle East. \nThe writer is a security analyst with a PhD degree from NUST.\nrwjanj@hotmail.com\nPublished in Dawn, November 7th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Current Affairs / Pakistan Affairs",
+    "topic": "National Security and Counter-Terrorism Challenges (Pakistan-Afghanistan Relations)",
+    "whyMatters": "While highly pertinent for questions on national security, Pakistan-Afghanistan relations, and counter-terrorism, this article does not directly address the topic of Pakistan’s role in the Economic Cooperation Organization (ECO) or its future prospects, hence it is not directly useful for the specified past exam question. However, it provides critical context on regional instability impacting Pakistan, which could be referenced in broader answers concerning Pakistan's geopolitical environment.",
+    "summary": [
+      "Insurgencies militarize society, create conflict economies, and empower splinter militant groups, with the TTP serving as a prime example stemming from Afghanistan's prolonged instability.",
+      "The US withdrawal in 2021 allowed the Taliban regime to renege on counterterrorism pledges, providing safe havens and free rein to terrorist entities like the TTP, who operate against Pakistan from Afghanistan.",
+      "Pakistan has experienced a significant surge in terrorist attacks and casualties post-2021, directly attributable to the Taliban's complicity, illicit economy (narco-trafficking, smuggling), and patronage of terrorist groups.",
+      "A substantial quantity of US and NATO weapons and equipment, worth billions, was left behind in Afghanistan after 2021, and has since been acquired by terrorist entities like the TTP and BLA, and used against Pakistan."
+    ],
+    "facts": [
+      "The US withdrawal from Afghanistan occurred in 2021, leading to the Taliban regime's occupation of Kabul.",
+      "Over 20 terrorist entities are reportedly operating under the Taliban regime in Afghanistan.",
+      "US and NATO forces left behind weapons and equipment worth $7.12 billion after the 2021 withdrawal.",
+      "By 2025, Pakistan's security forces recovered 293 US-made weapons and gear from eliminated terrorists.",
+      "A 2025 Washington Post investigation traced serial numbers of at least 63 weapons seized in Pakistan from terrorists back to US supplies to Afghan forces before 2021.",
+      "The April 2025 report of the US Special Inspector General for Afghanistan Reconstruction confirmed TTP's access to former Afghan army weapons, either transferred by Taliban authorities or acquired via the black market."
+    ],
+    "academicReferences": [
+      "UN Security Council Monitoring Team Report (on Taliban's links with terrorist groups)",
+      "Doha Agreement (2020) between the US and the Taliban",
+      "Shuja Nawaz, 'Crossed Swords: Pakistan, Its Army, and the Wars Within'"
+    ],
+    "vocabulary": [
+      {
+        "word": "Internecine",
+        "type": "adjective",
+        "definition": "Destructive to both sides in a conflict; mutually destructive.",
+        "sentence": "Afghanistan’s anti-Soviet insurgency spawned a decade of internecine conflict among various factions."
+      },
+      {
+        "word": "Predilection",
+        "type": "noun",
+        "definition": "A preference or special liking for something; a bias in favor of something.",
+        "sentence": "The international community's predilection for appeasing the Taliban has relegated inclusivity to the backburner."
+      },
+      {
+        "word": "Entente cordiale",
+        "type": "noun",
+        "definition": "A friendly understanding or informal alliance between states or factions.",
+        "sentence": "Terrorist entities like IS-K are operating under an 'entente cordiale' between them and the Taliban regime, despite denials."
+      },
+      {
+        "word": "Denialism",
+        "type": "noun",
+        "definition": "The act of denying that something is true, especially a concept that is widely accepted or factually supported.",
+        "sentence": "The Taliban are extremely adept at denialism, often refuting their complicity in supporting terrorist groups."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which agreement did the Taliban regime reportedly renege on after occupying Kabul in 2021?",
+        "options": [
+          "Doha Agreement",
+          "Geneva Convention",
+          "UN Charter",
+          "Islamabad Accord"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states, 'After the US withdrawal from Afghanistan in 2021, the Taliban regime occupied Kabul and reneged on all its pledges made in the Doha Agreement.'"
+      },
+      {
+        "question": "Approximately how many terrorist entities are reported to be operating under the Taliban regime in Afghanistan?",
+        "options": [
+          "Around 5",
+          "Between 10 and 15",
+          "Over 20",
+          "Exactly 18"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions, 'At present, a blend of over 20 terrorist entities is operating under the benign gaze of the Taliban regime in Afghanistan.'"
+      },
+      {
+        "question": "What was the estimated worth of weapons and equipment left behind by NATO and US forces after the 2021 withdrawal?",
+        "options": [
+          "$1.12 billion",
+          "$3.5 billion",
+          "$7.12 billion",
+          "$10 billion"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states, 'American and Nato forces, after the 2021 withdrawal, left behind weapons and equipment worth $7.12 billion.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary consequence for Pakistan of the Taliban regime's actions and policies in Afghanistan since 2021?",
+        "back": "Pakistan has suffered a manifold surge in terrorist attacks, resulting in thousands killed and injured, directly linked to the Taliban providing sanctuaries and support to terrorist entities like the TTP."
+      },
+      {
+        "front": "How has the illicit economy under the Taliban regime contributed to enabling terrorism?",
+        "back": "The Taliban regime thrives on an illicit economy, including narco-trafficking, smuggling, and extortion, which are sponsored under official patronage, providing funds for terrorist activities and empowering warlords with stakes in criminal enterprises."
+      },
+      {
+        "front": "What evidence supports the claim that US/NATO weapons have fallen into the hands of terrorist groups like the TTP?",
+        "back": "Evidence includes the recovery of 293 US-made weapons by Pakistan's security forces by 2025, a 2025 Washington Post investigation tracing 63 seized weapons to US supplies, and confirmation from the US Special Inspector General for Afghanistan Reconstruction and the UN Security Council Monitoring Team."
+      },
+      {
+        "front": "How do the Taliban manage their international image regarding counter-terrorism despite supporting groups like IS-K?",
+        "back": "The Taliban are adept at denialism and selling their 'anti-IS-K credentials' to foreign powers, even while operating under an 'entente cordiale' with transnational terrorist entities like IS-K. They also perfect denying complicity to curry favor with foreign donors."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022838418-125",
+    "title": "Rule of the people?\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042534/rule-of-the-people",
+    "date": "2026-11-06",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "THE resounding defeat of the Republican Party in the US midterm election this week has triggered celebratory chatter around the world. Many see it as the beginning of the end for Donald Trump; the vibe was very similar when Trump was defeated by Joe Biden in the 2020 US presidential election. Yet four years later, Trumpism proved to be alive and very well.\nTrump cannot stand in the 2028 presidential election. For that reason alone, his political career is reaching its end. But that does not mean that Trumpism — both the ideology and the social base to which it speaks — will disappear alongside the man himself.\nHere I offer some suggestions what this latest election signals about the future of democracy in the US, and, by extension, around the world.\nWe should harbour no illusions about the power of big money in American politics, or the Democratic Party’s historical commitment to US empire — the Biden administration’s diabolical warmongering after Oct 7, 2023, in Gaza, after all, set the stage for Trump’s 2024 win. Given this backdrop, the victory of candidates like Abdul el-Sayed who oppose imperialist wars abroad and are fronting progressive economic policies at home — just like Zohran Mamdani did during his successful campaign to become New York mayor — confirms that societal attitudes are changing. A growing number of young Americans now view socialism favourably and want unconditional support for Israel to be discontinued. It is another matter entirely whether an increasingly influential left-wing of the Democratic Party can win the inner-party struggle and then the presidency.\nThe contemporary state is whittling away democratic freedoms.\nWhile progressive ideology has gained a foothold in American society, the Trumpist right maintains its powerful, and mobilised MAGA base, sustained in part by Christian evangelicals. Before his win in 2024, Trump vowed to stop fighting wars abroad, and bring back industrial jobs and prosperity. His base has been antagonised by the disastrous and prolonged war on Iran, and the inflationary spiral it has triggered. Vice-President J.D. Vance has already acknowledged this, and even added that Washington’s ‘special relationship’ with Israel must change. Trumpism will not die out because of a midterm defeat. Long-term economic stagnation will give it social mooring, while its major ideological enemies — immigration, the left, and outsourcing — remain easy sells.\nA useful analogy is that of Brazil, where Luiz Inácio Lula da Silva recently staved off the most recent articulation of Bolsanarismo — the parallel ideology to Trumpism — to win his fourth term as president. Brazil’s left has far greater social roots than the emergent Democratic left in the US, hence its ability to mobilise the last-minute votes necessary to re-elect Lula. But the far right under the leadership of the Bolsanaro family also has a mobilised social base, which will rebound from the election loss. Lula is 81, and his Workers Party will have to deepen the social struggle to keep Bolsanarismo at bay in the years to come.\nZooming out further, the right wing is ascendant across much of the world, while the contemporary state is whittling away democratic freedoms and paving the way for capital to carry on with business as usual. Electoral victories for left-of-centre candidates in the US, Brazil or wherever else they may come to pass will not produce structural change in isolation. Does going to the ballot allow ordinary people an opportunity to exercise political choice? Yes. But this is not the same as working-class majorities being organised for progressive social transformation. The latter is re­­quired both to ensure more significant electo­r­­al success and then to turn such victories into su­­bstantive cha­­­nge.\nOf course, we in Pakistan do not even get to enjoy the unfettered right to vote. The military-bureaucratic oligarchy that has ruled over us from soon after 1947 did not even allow a general election until 1970, and then chose military action rather than handing over power to the winning party afterwards. More recently, the electoral mandate in the 2024 general election was stolen blatantly, culminating in the imposition of emergency in KP. There is something to be said for at least the temporary waves of hope that are generated by electoral victories, even if one should at the same time be conscious of the highly delimited nature of democracy under the rule of contemporary capital. Progressives in Pakistan have to fight an epic battle against tyranny to even retain the pretence that democracy means rule of the people. And then we have to come up with a shared project for how to run a country ravaged by violence, repression and a deep crisis of identity.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, November 6th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 81,
+    "paper": "Political Science / Current Affairs / International Relations",
+    "topic": "Global Democratic Backsliding, Populism, and the Future of Political Movements",
+    "whyMatters": "This article offers a critical analysis of the global state of democracy, using the US and Brazil as case studies to illustrate the resilience of right-wing populism (Trumpism, Bolsonarismo) even after electoral defeats. It highlights the challenges faced by progressive movements and the crucial distinction between electoral victories and substantive structural change, making it vital for understanding contemporary political dynamics.",
+    "summary": [
+      "Trumpism, as both an ideology and a social base, demonstrates resilience beyond Donald Trump's individual political career, sustained by economic stagnation and the targeting of ideological enemies.",
+      "Despite a global ascendance of the right, a progressive left is gaining influence in the US, challenging imperialist policies and advocating for progressive economic reforms, though its capacity for structural change remains uncertain.",
+      "The article argues that the contemporary state is globally whittling away democratic freedoms, paving the way for capital, and that electoral victories alone are insufficient for achieving fundamental societal transformation without organized working-class majorities.",
+      "In countries like Pakistan, even the unfettered right to vote is suppressed by a military-bureaucratic oligarchy, presenting an 'epic battle' for progressives to retain the pretense of democracy and address deep national crises."
+    ],
+    "facts": [
+      "Donald Trump was defeated by Joe Biden in the 2020 US presidential election.",
+      "The Biden administration's 'diabolical warmongering after Oct 7, 2023, in Gaza' is cited as a factor setting the stage for Trump's potential 2024 win.",
+      "Luiz Inácio Lula da Silva recently won his fourth term as president of Brazil, staving off Bolsonarismo."
+    ],
+    "academicReferences": [
+      "Steven Levitsky and Daniel Ziblatt's 'How Democracies Die' (for contemporary democratic backsliding and populism)",
+      "Robert A. Dahl's 'Democracy and Its Critics' (for foundational democratic theory and challenges)",
+      "Francis Fukuyama's 'The End of History and the Last Man' (for discussions on ideology and the evolution of political systems)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Resounding",
+        "type": "adjective",
+        "definition": "Unmistakable; emphatic; unequivocal.",
+        "sentence": "The resounding defeat of the Republican Party triggered celebratory chatter around the world."
+      },
+      {
+        "word": "Diabolical",
+        "type": "adjective",
+        "definition": "Characteristic of the Devil; evil or fiendish.",
+        "sentence": "The Biden administration’s diabolical warmongering after Oct 7, 2023, in Gaza, after all, set the stage for Trump’s 2024 win."
+      },
+      {
+        "word": "Whittling away",
+        "type": "verb phrase",
+        "definition": "To reduce gradually, as if by cutting off small pieces.",
+        "sentence": "While progressive ideology has gained a foothold in American society, the contemporary state is whittling away democratic freedoms."
+      },
+      {
+        "word": "Ascendant",
+        "type": "adjective",
+        "definition": "Rising in power or influence; dominant.",
+        "sentence": "Zooming out further, the right wing is ascendant across much of the world, while the contemporary state is whittling away democratic freedoms."
+      },
+      {
+        "word": "Oligarchy",
+        "type": "noun",
+        "definition": "A small group of people having control of a country, organization, or institution.",
+        "sentence": "The military-bureaucratic oligarchy that has ruled over us from soon after 1947 did not even allow a general election until 1970."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the author, what is the crucial distinction between electoral victories and substantive social transformation for progressive movements?",
+        "options": [
+          "A) Electoral victories automatically lead to structural change, while substantive transformation is a secondary concern.",
+          "B) Electoral victories are temporary waves of hope, whereas substantive change requires organized working-class majorities for progressive social transformation.",
+          "C) Substantive change primarily depends on charismatic leaders, making electoral victories less significant.",
+          "D) Electoral victories are irrelevant in the context of global right-wing ascendance, making substantive change impossible."
+        ],
+        "answerIndex": 1,
+        "explanation": "The author explicitly states, 'Does going to the ballot allow ordinary people an opportunity to exercise political choice? Yes. But this is not the same as working-class majorities being organised for progressive social transformation. The latter is required both to ensure more significant electoral success and then to turn such victories into substantive change.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the author explain the continued relevance of Trumpism despite Donald Trump's potential political career end?",
+        "back": "Trumpism, as an ideology and social base, is sustained by long-term economic stagnation and its targeting of 'easy sells' like immigration, the left, and outsourcing, making it resilient beyond the individual."
+      },
+      {
+        "front": "What does the article suggest about the implications of the growing left-wing within the Democratic Party?",
+        "back": "The rise of the left-wing, advocating against imperialist wars and for progressive economic policies, signals changing societal attitudes, but its ability to win inner-party struggles and achieve structural change is presented as uncertain."
+      },
+      {
+        "front": "What analogy does the author draw between US politics and Brazil's political situation regarding right-wing populism?",
+        "back": "The article uses Brazil's Lula da Silva staving off Bolsanarismo (parallel to Trumpism) to illustrate the global struggle against right-wing populism and the importance of a deep social base for the left to mobilize effectively."
+      },
+      {
+        "front": "How does the author characterize the state of democracy in Pakistan, contrasting it with the situations in the US or Brazil?",
+        "back": "In Pakistan, democracy is severely curtailed by a military-bureaucratic oligarchy, where even the fundamental right to vote is not unfettered and electoral mandates are allegedly stolen, making the fight for genuine 'rule of the people' an 'epic battle against tyranny.'"
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022515373-149",
+    "title": "A bleak economic future\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042539/a-bleak-economic-future",
+    "date": "2026-11-06",
+    "author": "none@none.com (Shahid Mehmood)",
+    "content": "ROBERT Lucas, a towering figure of 20th-century macroeconomics and a Nobel laureate, opined on economic growth and the standard of living that “the consequences for human welfare involved in questions like these are simply staggering: once one starts to think about them, it is hard to think about anything else” (On the Mechanics of Economic Development, 1988).\nThe context of his observation was the significant differences in standards of living across the globe. I contemplated the same — specifically, whether our economic future might offer us some respite from our perennial failures. Sadly, it does not look good. What follows is a brief narration of various considerations that led me to this conclusion.\nThe incentives and structure of the economy resemble anything but a viable plan for sustained improvement in living standards and chances of shared prosperity. Tellingly, Pakistan now has the unique distinction of being the only country in the world where three different arrangements compete for a limited set of resources. The first is the formal sector, which mainly comprises an extremely unproductive and extractive public sector. The second is the ‘deep state’, growing within the bosom of the public sector (formally and informally) and meeting its growing economic interests through forced ingress. The third is the ‘informal’ sector, estimated at about 35 to 40 per cent of the formal economy, that tries its best to stay away from formality.\n    \nThe implications of continuing this arrangement now and in the future are not well understood. There is little, if any, chance, for example, of an entrepreneur arising who could upend traditional industries and usher in economies of scale or creative disruption. It follows, then, that we will remain stuck with low-productivity, rentier industries like sugar that rely on legislative rents (taxpayer-financed subsidies) and tariff protection to shield them from competition.\nThe incentives and structure of the economy resemble anything but a viable plan for sustained improvement in living standards.\nAn even more damning predicament is the continuation of economic management as merely an accounting exercise to balance the books. From having some of the worst development indicators to the absurdity of taking foreign loans for purposes such as pension reforms, the adverse spillovers of this mediocrity are well known.\nYet one is astonished to see such pedestrian management celebrated officially. Witness the bewildering displays of vainglorious puffery under the banner of ‘nationalism’.\nAt the same time, trade with three of our neighbours is almost non-existent, a situation akin to a contraction of the available resource envelope and growth possibilities.\n    \nThis attitude helps explain why we, the world’s fifth most populous country, account for less than 1pc of the massive $35 trillion global trade in goods and services.\nWhat we have done to our human capital is another indicator of our dim prospects. Since at least the time of Adam Smith’s seminal work (1776), it has been understood that it is the most valuable input in the process of economic growth, something that Paul Romer’s endogenous growth theory (1990) put an authoritative stamp upon.\nDeveloping this input has always remained low on our priorities. An even more grievous spectre now haunts our economy: the flight of quality human capital. It is officially celebrated as an achievement in the context of remittances. Still, no policymaker is willing to realise that the full value of quality human capital is captured outside Pakistan. Think of the innumerable examples of people who have made a name for themselves abroad. What if they had remained here and invested their time, resources, and effort to create wealth at home? Or are we just happy to receive a pittance of that effort in the form of remittances that merely sustain consumption?\nThe ‘Lucas critique’ of the 1970s, which transformed macroeconomics, implies that people respond to policy regimes by revising their expectations. The steady flight of skilled people from Pakistan, a trend since the 1970s, has accelerated sharply in recent decades, suggesting that citizens’ expectations of the country’s future have turned deeply pessimistic. This is reflected in what young people think. Having taught at several universities, I can attest that the majority of students view their education as a stepping stone to settling abroad.\n    \nFor those who cannot make it to foreign shores and are active in the workforce, a difficult predicament under a poorly designed incentive structure awaits. Try justifying, logically, how in a country with one of the lowest labour force participation rates, the salaried class gets bilked for more than Rs2tr of its income in the last five years, while record inflation has decimated purchasing power for the majority. The obvious lesson (which then spills over into expectations) is that the main beneficiary of workers’ effort is the government’s coffers rather than the person. Better then to try one’s luck elsewhere.\nThis hollowing out, which will continue, leaves the public sector and its PSDPs as the major avenue of growth. This system spawns corruption, multi-trillion liabilities, and waste (the burden of which ultimately falls upon the taxpayer).\nLahore is the most pertinent example among Pakistani cities, with the second-largest economy and one of the highest per capita incomes. Yet it regularly tops the world’s most polluted city rankings rather than quality-of-life rankings, thanks mainly to brick-and-mortar-based PSDPs. Any material gains are more than offset by deteriorating air quality and rising health costs.\n    \nI can continue in this manner — for instance, by pointing out that the legislature is held hostage by the same people who have been there for at least three decades, with no meaningful economic reform emerging during their tenure. It is further compromised by their progeny, who inhabit both Houses. But I am sure the reader gets the gist of my argument: the chances that we will witness a significant turnaround in our economic fortunes are remote. We will likely remain saddled with a state whose main aim, as Marx described it, is ‘nothing else’ other than extracting taxes. At least that’s how I see it. Bob Lucas, I posit, would also have nodded in approval.\nThe writer is an economist. His current research focuses on the long-term analysis of various issues plaguing Pakistan’s economy, as well as economic reforms and the history of economic thought.\nX: @ShahidMohmand79\nshahid.mohmand@gmail.com\nPublished in Dawn, November 6th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
+    },
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Pakistan Affairs",
+    "topic": "Structural Causes of Economic Fragility in Pakistan and Challenges to Sustainable Growth",
+    "whyMatters": "This article directly addresses the 'reasons for fragility of economic stability of Pakistan,' a crucial component of the specified past exam question. It provides deep, analytical insights into systemic issues, governance failures, and human capital challenges, which are essential for a high-scoring answer.",
+    "summary": [
+      "Pakistan's economy is characterized by three competing arrangements: an unproductive public sector, a growing 'deep state' with economic interests, and a large informal sector, collectively hindering sustained improvement in living standards.",
+      "The current economic structure stifles entrepreneurship, perpetuates low-productivity rentier industries dependent on subsidies, and treats economic management as a mere accounting exercise, rather than a strategy for development.",
+      "Poor human capital development, coupled with an accelerating brain drain driven by citizens' deep pessimism and an incentive structure that disfavors workers, severely limits Pakistan's future prospects for wealth creation at home.",
+      "The political landscape, dominated by long-serving figures and their progeny, prevents meaningful economic reform, leading to a state perceived as primarily extractive, creating liabilities and waste that burden taxpayers."
+    ],
+    "facts": [
+      "The informal sector is estimated at about 35 to 40 per cent of the formal economy in Pakistan.",
+      "Pakistan, the world's fifth most populous country, accounts for less than 1pc of the $35 trillion global trade in goods and services.",
+      "The salaried class in Pakistan has been bilked for more than Rs2tr of its income in the last five years, amid record inflation."
+    ],
+    "academicReferences": [
+      "Robert Lucas: 'On the Mechanics of Economic Development' (1988) and the 'Lucas critique' (1970s) on expectations and policy regimes.",
+      "Adam Smith: Seminal work (1776) on human capital as the most valuable input in economic growth.",
+      "Paul Romer: Endogenous growth theory (1990) emphasizing the importance of human capital.",
+      "Karl Marx: Description of the state as 'nothing else' other than extracting taxes, as applied to Pakistan's current state function."
+    ],
+    "vocabulary": [
+      {
+        "word": "Perennial",
+        "type": "adjective",
+        "definition": "Lasting or existing for a long or apparently infinite time; continually recurring.",
+        "sentence": "Our economic future might offer us some respite from our perennial failures."
+      },
+      {
+        "word": "Rentier",
+        "type": "noun",
+        "definition": "A person whose income is derived largely from rent, interest, or dividends; in context, industries relying on legislative rents (subsidies/protection).",
+        "sentence": "We will remain stuck with low-productivity, rentier industries like sugar that rely on legislative rents (taxpayer-financed subsidies) and tariff protection to shield them from competition."
+      },
+      {
+        "word": "Vainglorious",
+        "type": "adjective",
+        "definition": "Excessively proud of oneself or one's achievements; boastful.",
+        "sentence": "Witness the bewildering displays of vainglorious puffery under the banner of ‘nationalism’."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is NOT one of the three competing arrangements for resources in Pakistan?",
+        "options": [
+          "The formal sector, mainly comprising an unproductive public sector.",
+          "The 'deep state' growing within the public sector.",
+          "The informal sector, estimated at 35-40% of the formal economy.",
+          "A vibrant, competitive private sector driving innovation."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article describes the formal (public), 'deep state,' and informal sectors as competing arrangements, explicitly stating that entrepreneurship and creative disruption are stifled, implying a lack of a vibrant, competitive private sector as described."
+      },
+      {
+        "question": "What does the author identify as a key consequence of Pakistan's 'economic management as merely an accounting exercise'?",
+        "options": [
+          "Significant improvements in development indicators.",
+          "Successful pension reforms through foreign loans.",
+          "Celebration of pedestrian management officially under 'nationalism'.",
+          "A surge in regional trade and economic partnerships."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that despite 'having some of the worst development indicators' and 'absurdity of taking foreign loans for purposes such as pension reforms,' such 'pedestrian management' is 'celebrated officially' under 'nationalism'."
+      },
+      {
+        "question": "Which economic theorist's endogenous growth theory is cited in the article to put an 'authoritative stamp upon' the importance of human capital?",
+        "options": [
+          "Robert Lucas",
+          "Adam Smith",
+          "Paul Romer",
+          "Karl Marx"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions that 'Paul Romer’s endogenous growth theory (1990) put an authoritative stamp upon' the understanding of human capital as the most valuable input in economic growth."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the three distinct economic arrangements described in Pakistan's economy that impede shared prosperity?",
+        "back": "The formal sector (unproductive public sector), the 'deep state' (growing economic interests), and the informal sector (35-40% of formal economy, avoiding formality)."
+      },
+      {
+        "front": "How does the article link Pakistan's trade performance to its regional relations and overall growth possibilities?",
+        "back": "Trade with three neighbors is almost non-existent, leading to a contraction of the available resource envelope and explaining why Pakistan accounts for less than 1% of global trade despite being the world's fifth most populous country."
+      },
+      {
+        "front": "Explain the 'Lucas critique' and how the article applies it to the flight of human capital from Pakistan.",
+        "back": "The Lucas critique implies people respond to policy regimes by revising their expectations. The accelerating flight of skilled people from Pakistan reflects citizens' deep pessimism about the country's future, as they expect little improvement from current policies."
+      },
+      {
+        "front": "What is the primary critique of the legislature's role in economic reform, as presented by the author?",
+        "back": "The legislature is criticized for being held hostage by the same long-serving figures and their progeny, who have failed to deliver meaningful economic reform, contributing to a state focused on tax extraction rather than development."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794022600945-0",
+    "title": "Selfhood in action\n",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2042536/selfhood-in-action",
+    "date": "2026-11-06",
+    "author": "none@none.com (Dr Saad Malook)",
+    "content": "THE world we inhabit advances through human endeavours. To be human is to act. Idleness is a cardinal sin of humanity that causes pessimism, dehumanisation, and procrastination — postponing today’s work to tomorrow, which never comes. Idleness tends to stagnate, while action moves the world.\nWhat causes developments in the world? Bergson believes in elan vital, Schopenhauer in the will to live, Nietzsche in will to power, and Iqbal in selfhood, each of which explains differently how humanity is driven into the future. Iqbal argues that selfhood in action causes changes in the world.\nSir Muhammad Iqbal, a philosopher of human development and action, primarily defends self-development as a means of transforming the potential for action into capability, enabling human agency to be rational, creative, productive, and moral. Iqbal’s philosophy of ‘self-development’ is actually ‘human development’, meaning people have a natural potential to develop, think, and act. To develop is to act. Surprisingly, scholars have not explored Iqbal’s philosophical oeuvre, particularly from the perspective of human development, which Pakistan desperately needs.\nAction breathes life into ideas. Iqbal writes, “The Quran is a book which emphasises ‘deed’ rather than ‘idea’.” Adam, God’s vicegerent on Earth, was bestowed with infinite potential — creativity, morality, thinking, and action — transmitted to his progeny. According to Iqbal, human beings, as vicegerents, are “God’s co-workers” on the planet.\nA human is not only a thinker but also an actor and a creator.\nA human is not only a thinker but also an actor and a creator. Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor). In The Reconstruction of Religious Thought in Islam, Iqbal states, “the world is not something to be merely seen or known through concepts, but something to be made and remade by continuous action.” Making and remaking the world requires human development, a creative mind, and purposive action.\nIn Asrar-i-Khudi and Rumuz-i-Bekhudi, Iqbal posited his philosophy of ‘human development’. Freedom, self-respect, dignity, love, economic security, courage, education as training, and, above all, action develop the selfhood of the individual and the nation. However, unfreedom, humiliation, exploitation, hatred, economic dependency, threat, torture, and ignorance destroy the selfhood of people.\nPakistani intellectual Mahbub ul Haq advanced the idea of human development, arguing for a ‘people-first approach’ in public policy to expand people’s sociopolitical and economic choices. Like Iqbal’s, Mahbub ul Haq’s ideas also deserve attention for improving the quality of people’s lives in Pakistan.\nEducation is the first milestone for human development; any disorder in it means intellectual and moral decadence. The educational system in Pakistan needs revolutionary changes by appointing heads of institutions who are capable of being real agents of transformation rather than just performers on social media. Increasing the budget to promote research and incentives for researchers, and ensuring job security to stop brain drain from the profession of education are also needed.\nIqbal articulates: “Action makes life a paradise or a hell/ By nature, a human is neither an angel nor a devil.”A paradise-like life on Earth is possible only with the rule of law, justice, equal distribution of resources, and, particularly, education that fosters the freedom to flourish.\nPoverty, violence, and ecological decay are pressing challenges to Pakistan and the world. Human development and action are essential to eradicating poverty — meaning that people deve­lop enough capabilities to pursue econ­o­mic activities as ent­repreneurs in IT, AI, arts, and crafts.\nPeace is essential for life. Peace has two forms: negative and positive. ‘Negative peace’ is the absence of violence, mostly by force. Negative peace is short-term. ‘Positive peace’ refers to life-affirming activities through arts, literature, sports, cultural festivals, and a culture of dialogue. Positive peace is long-lasting.\nA clean environment sustains life. Littering, pollution, and deforestation create health and aesthetic concerns. Reverence for the environment in individual, social, and institutional conduct is required.\nIqbal’s philosophy of human development and action can help meet crucial national and global challenges. Positively, action transforms potential into capabilities, plans into outcomes, possibilities into opportunities, pessimism into optimism, and thought into reality. Action is a supreme virtue, while idleness is a fatal vice. Let people develop and act with freedom for a better future for Pakistan.\nThe writer has a PhD degree from the University of Canterbury, New Zealand, and teaches philosophy at the University of the Punjab, Lahore.\nX: @saad_malook.\nPublished in Dawn, November 6th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2025-ENV",
+      "paper": "Pakistan Affairs",
+      "year": 2025,
+      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
+    },
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs",
+    "topic": "Iqbal's Philosophy of Selfhood and Human Development for National Progress and Environmental Sustainability",
+    "whyMatters": "This article is highly relevant for suggesting philosophical and human-centric 'remedial measures' for sustainable environmental rehabilitation in Pakistan. It frames human development, purposeful action, and education (Iqbal's selfhood) as foundational for addressing \"ecological decay,\" providing a strong conceptual basis for policy recommendations.",
+    "summary": [
+      "Iqbal's philosophy of 'selfhood in action' is the primary driver of human progress, transforming human potential into capability, enabling rational, creative, productive, and moral agency.",
+      "Humans are redefined as not just thinkers (Homo sapiens) but also actors (Homo actor) and creators (Homo faber), tasked with continuously 'making and remaking the world' through purposive action.",
+      "The development of individual and national selfhood is fostered by freedom, self-respect, dignity, love, economic security, courage, and education, while its destruction is caused by unfreedom, humiliation, and economic dependency.",
+      "Human development and purposeful action, underpinned by education and reverence for the environment, are essential for eradicating pressing challenges like poverty, violence, and ecological decay, paving the way for a 'paradise-like life' on Earth."
+    ],
+    "facts": [
+      "Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor).",
+      "Iqbal's philosophy of 'human development' is articulated in works such as The Reconstruction of Religious Thought in Islam, Asrar-i-Khudi, and Rumuz-i-Bekhudi.",
+      "Pakistani intellectual Mahbub ul Haq advanced a 'people-first approach' in public policy, akin to Iqbal's emphasis on human development."
+    ],
+    "academicReferences": [
+      "Sir Muhammad Iqbal's \"The Reconstruction of Religious Thought in Islam\" (1930s)",
+      "Mahbub ul Haq's Human Development Report (UNDP, 1990 onwards)",
+      "Pakistan National Climate Change Policy (2012) and updated Nationally Determined Contributions (NDCs) under the Paris Agreement",
+      "UN Sustainable Development Goals (SDGs), particularly Goal 4 (Quality Education), Goal 13 (Climate Action), and Goal 16 (Peace, Justice and Strong Institutions)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Endeavours",
+        "type": "noun",
+        "definition": "attempts to achieve a goal",
+        "sentence": "The world advances through human endeavours to innovate and solve problems."
+      },
+      {
+        "word": "Cardinal",
+        "type": "adjective",
+        "definition": "of paramount importance; fundamental",
+        "sentence": "Idleness is a cardinal sin of humanity, hindering progress and fostering pessimism."
+      },
+      {
+        "word": "Stagnate",
+        "type": "verb",
+        "definition": "to cease to develop; become inactive or dull",
+        "sentence": "Idleness tends to stagnate societies, while continuous action moves the world forward."
+      },
+      {
+        "word": "Oeuvre",
+        "type": "noun",
+        "definition": "the complete works of an artist, composer, or writer",
+        "sentence": "Scholars have yet to fully explore Iqbal's philosophical oeuvre, especially from a human development perspective."
+      },
+      {
+        "word": "Vicegerent",
+        "type": "noun",
+        "definition": "a person appointed by a sovereign or supreme authority to exercise the powers of the office in the absence of the sovereign",
+        "sentence": "Adam, bestowed with infinite potential, was considered God's vicegerent on Earth, a role transmitted to his progeny."
+      },
+      {
+        "word": "Decadence",
+        "type": "noun",
+        "definition": "moral or cultural decline as characterized by excessive indulgence in pleasure or luxury",
+        "sentence": "Any disorder in education leads to intellectual and moral decadence within a nation."
+      },
+      {
+        "word": "Purposive",
+        "type": "adjective",
+        "definition": "having, serving, or done with a purpose",
+        "sentence": "Making and remaking the world requires human development, a creative mind, and purposive action."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Iqbal, what is the primary driver of changes in the world?",
+        "options": [
+          "A) Elan vital",
+          "B) Will to live",
+          "C) Will to power",
+          "D) Selfhood in action"
+        ],
+        "answerIndex": 3,
+        "explanation": "The article explicitly states that 'Iqbal argues that selfhood in action causes changes in the world,' distinguishing his view from others."
+      },
+      {
+        "question": "How does Iqbal transform the traditional idea of Homo sapiens?",
+        "options": [
+          "A) Into Homo economicus and Homo politicus",
+          "B) Into Homo faber (creator) and Homo actor (actor)",
+          "C) Into Homo civilis and Homo moralis",
+          "D) Into Homo ludens and Homo symbolicus"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor).'"
+      },
+      {
+        "question": "Which of the following is NOT listed by Iqbal as a factor that develops the selfhood of an individual and nation?",
+        "options": [
+          "A) Freedom",
+          "B) Economic security",
+          "C) Humiliation",
+          "D) Education as training"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article lists 'unfreedom, humiliation, exploitation, hatred' as factors that 'destroy the selfhood of people,' while the others are listed as developing factors."
+      },
+      {
+        "question": "What is 'positive peace' according to the article?",
+        "options": [
+          "A) The absence of violence, mostly by force",
+          "B) Short-term peace achieved through negotiations",
+          "C) Life-affirming activities through arts, literature, sports, and dialogue",
+          "D) Peace enforced by international peacekeeping forces"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article defines 'Positive peace' as 'life-affirming activities through arts, literature, sports, cultural festivals, and a culture of dialogue,' distinguishing it from negative peace."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is Iqbal's core philosophical concept regarding human potential and world transformation?",
+        "back": "Iqbal's philosophy of 'selfhood in action' posits that humans possess a natural potential for development, thought, and action, which, when transformed into capability, enables them to actively shape and remake the world."
+      },
+      {
+        "front": "According to the article, what key factors contribute to the development of selfhood at both individual and national levels?",
+        "back": "Freedom, self-respect, dignity, love, economic security, courage, education as training, and purposeful action are crucial for developing individual and national selfhood."
+      },
+      {
+        "front": "How does the article link human development and action to addressing pressing challenges like environmental degradation?",
+        "back": "The article argues that human development and action are essential for eradicating challenges like 'ecological decay' by enabling people to develop capabilities for economic activities and fostering 'reverence for the environment' through individual, social, and institutional conduct."
+      },
+      {
+        "front": "Explain the distinction made in the article between 'negative peace' and 'positive peace'.",
+        "back": "'Negative peace' is defined as the short-term absence of violence, often achieved by force, while 'positive peace' refers to long-lasting, life-affirming activities such as engagement in arts, literature, sports, cultural festivals, and a culture of dialogue."
+      }
+    ]
+  },
+  {
     "id": "curated-1793937238322-839",
     "title": "Evolving climate architecture\n",
     "source": "Dawn",
@@ -9976,951 +10823,6 @@
       {
         "front": "Why is effective devolution particularly critical for climate governance in Pakistan, according to the article?",
         "back": "Climate governance requires multi-level coordination, but without empowered LGs, climate policy remains concentrated in provincial capitals, where implementation capacity is weakest at the local delivery point, leaving citizens vulnerable."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792463184450-87",
-    "title": "Ethiopian sea fever\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038148/ethiopian-sea-fever",
-    "date": "2026-10-19",
-    "author": "none@none.com (Zarrar Khuhro)",
-    "content": "WITH attention sharply focused on Iran and the Saudi-Ansarullah conflict, you may be forgiven for not noticing that the East African nation of Eritrea has invaded its much larger neighbour Ethiopia. On the face of it, this is insane: Ethiopia’s population is at least 30 times that of its smaller neighbour and its GDP of $140 billion dwarfs Eritrea’s modest $2bn. In military terms, while Eritrea — thanks to its national service policy — fields a large army consisting of some 350,000 active duty soldiers and approximately 650,000 reservists, these are largely poorly armed, equipped and trained and heavily outgunned by Ethiopia, which has greatly modernised its military in recent years.\nNevertheless, Eritrean forces entered Ethiopian territory in late September this year, sparking clashes with the Ethiopian army. Is Eritrea insane for taking on its much larger neighbour? Not quite. The incursion comes at a time when Ethiopia is facing an alliance of rebels that have banded together with the aim of toppling Ethiopian president Abiy Ahmed’s government. The alliance unites seven groups including the Oromo Liberation army, the Fano militia and the Tigray People’s Liberation Front. The TPLF have an interesting history here; staging repeated rebellions against Ethiopian rule, the Tigrayan-led Ethiopian People’s Revolutionary Democratic Front actually held power in Ethiopia from 1991 to 2018 when they were sidelined by the current Ethiopian leadership leading to what is known as the Tigray war of 2020-2022.\nRelations between Ethiopia and Eritrea are even more contentious: when Eritrea became independent in 1993 following a brutal 30-year conflict, it effectively cut off Ethiopia’s access to the Red Sea, something that Abiy Ahmed wants to rectify. Ethiopia and Eritrea did have a brief rapprochement during the Tigray war, when they joined forces against the TPLF. Yes, the same TPLF that Eritrea is now supporting against Ethiopia; another object lesson that while alliances are temporary, interests are permanent.\nEritrea has reason to believe that if Ethiopia manages to subdue the rebels, a victorious Ethiopian army will march into Eritrea and wrest access to the Red Sea, something that Abiy deems as ‘inevitable’ and an ‘existential’ need for his country. He’s not wrong; the most populous landlocked country in the world, Ethiopia is forced to rely on the Addis-Djibouti corridor for 95 per cent of its export-import trade and has to pay close to $2bn annually in transit and port fees.\nIs Eritrea insane for taking on its much larger neighbour?\nBut its rush to the Red Sea is setting off alarm bells among coastal states, notably Somalia, which is livid at Abiy’s outreach to the breakaway so-called Republic of Somaliland, that has also pledged its full support to Ethiopia’s quest for the Red Sea and is considering leasing 19 kilometres to Ethiopia. It’s worth noting that the only country to have formally recognised Somaliland is Israel, and Somaliland also has very close relations with Israel’s chief Arab ally, the UAE.\nWhy is this important? Because while Saudi Arabia and Turkiye currently have good relations with Ethiopia, neither would be delighted to have Ethiopia formally become a littoral state of the Red Sea, and in Turkiye’s case, certainly not at the cost of Somalia, with which Turkiye has massively expanded its relations, encompassing both the military and economic spheres. For the embattled Saudis, having a state closely allied to Israel and the UAE expand its power in this manner may have negative long-term consequences. \nBut while these are somewhat distant concerns, the expanding conflict in East Africa is certainly drawing Egypt’s attention. Why? Because Egypt, as Herodotus wrote in the 5th century BC, is “a gift of the Nile”, a saying that is as true today as it was then, and Ethio­pia’s plan to build the ‘Grand Ethiopian Renaissance Dam’ on the headwaters of the Nile poses an existential threat to Egypt.\nThus, it is in Egypt’s interests to curtail Ethiopian power as much as possible by supporting Eritrea. And then there’s Sudan, where Ethiopia is accused not only of allowing the use of its territory for arms shipments from the UAE to the rebel RSF in Sudan, but also (along with the UAE) by the Sudanese army of carrying out drone strikes on Sudanese soil. Moreover, a recent investigation by Reuters claims to have uncovered a training camp for the Rapid Support Forces in Western Ethiopia. To be fair, Ethiopia’s actions are also dictated by its financial dependence on the UAE (the RSF’s chief backer) and its fears that a victory of the Sudanese army — relations between the two have never been good — will result in a strategic encirclement of Ethiopia. And so, we see that, once again, fear and financial imperatives are stoking another conflict that will not stay confined to one region. \nThe writer is a journalist.\nX: @zarrarkhuhro\nPublished in Dawn, October 19th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 81,
-    "paper": "Current Affairs",
-    "topic": "Geopolitics of the Red Sea and East African Conflicts",
-    "whyMatters": "This article does not directly address Pakistan's role in ECO or regional integration in South/Central Asia. However, it offers a detailed comparative case study of complex geopolitical rivalries, resource competition, and shifting alliances in East Africa, which can be used to illustrate challenges in regional integration and the pursuit of national interests by states in other contexts.",
-    "summary": [
-      "Eritrea's incursion into Ethiopia, despite military disparity, is opportunistic, capitalizing on Ethiopia's internal conflicts with a rebel alliance (Oromo, Fano, TPLF) and its perceived weakness.",
-      "Ethiopia, the most populous landlocked country, views access to the Red Sea as an 'existential' need, driving its outreach to Somaliland and alarming neighboring coastal states like Somalia.",
-      "The regional conflict is intensified by the involvement of external powers: Egypt opposes Ethiopia due to the Grand Ethiopian Renaissance Dam (GERD) on the Nile, while Turkey and Saudi Arabia are wary of Ethiopia's potential Red Sea expansion, especially if aligned with Israel/UAE.",
-      "Sudan's internal conflict between the Sudanese army and the RSF is linked, with Ethiopia accused of supporting the RSF due to financial dependence on the UAE (a key backer of RSF) and fears of strategic encirclement by a victorious Sudanese army."
-    ],
-    "facts": [
-      "Ethiopia's population is at least 30 times that of Eritrea, with a GDP of $140 billion compared to Eritrea's $2 billion.",
-      "Ethiopia, the most populous landlocked country, relies on the Addis-Djibouti corridor for 95% of its export-import trade, incurring close to $2 billion annually in transit and port fees.",
-      "The Tigray People’s Liberation Front (TPLF) held power in Ethiopia from 1991 to 2018, later leading to the Tigray War (2020-2022) after being sidelined by the current government.",
-      "Ethiopia's plan to build the 'Grand Ethiopian Renaissance Dam' (GERD) on the headwaters of the Nile poses an 'existential threat' to Egypt.",
-      "Somaliland is considering leasing 19 kilometers to Ethiopia for Red Sea access; Israel is the only country to have formally recognized Somaliland."
-    ],
-    "academicReferences": [
-      "John Mearsheimer's 'The Tragedy of Great Power Politics' (for understanding state behavior driven by security and power in regional dynamics)",
-      "Christopher Clapham's 'The Horn of Africa: State, Society and Foreign Policy' (for detailed context on regional geopolitics)",
-      "Steven Solomon's 'Water: The Epic Struggle for Wealth, Power, and Civilization' (relevant for the hydropolitics of the Nile and GERD controversy)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Incursion",
-        "type": "noun",
-        "definition": "An invasion or attack, especially a sudden or brief one.",
-        "sentence": "Eritrean forces made an incursion into Ethiopian territory, sparking clashes."
-      },
-      {
-        "word": "Rapprochement",
-        "type": "noun",
-        "definition": "An establishment or resumption of harmonious relations.",
-        "sentence": "Ethiopia and Eritrea had a brief rapprochement during the Tigray war."
-      },
-      {
-        "word": "Littoral state",
-        "type": "noun",
-        "definition": "A country that has a coast or is on the shore of a sea or lake.",
-        "sentence": "Saudi Arabia and Turkiye would not be delighted to have Ethiopia formally become a littoral state of the Red Sea."
-      },
-      {
-        "word": "Existential threat",
-        "type": "noun phrase",
-        "definition": "A threat to one's very existence or continued being.",
-        "sentence": "Ethiopia's plan to build the GERD poses an existential threat to Egypt."
-      },
-      {
-        "word": "Curtail",
-        "type": "verb",
-        "definition": "Reduce in extent or quantity; impose a restriction on.",
-        "sentence": "It is in Egypt's interests to curtail Ethiopian power as much as possible by supporting Eritrea."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is a primary reason for Ethiopia's urgent need for Red Sea access, as highlighted in the article?",
-        "options": [
-          "To expand its naval power and influence.",
-          "It is the most populous landlocked country, reliant on expensive transit fees through other nations.",
-          "To establish new military bases along the Red Sea coast.",
-          "To facilitate religious pilgrimages to coastal sites."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states Ethiopia is the 'most populous landlocked country in the world' and 'is forced to rely on the Addis-Djibouti corridor for 95 per cent of its export-import trade and has to pay close to $2bn annually in transit and port fees,' making Red Sea access an 'existential' need."
-      },
-      {
-        "question": "Which country is most concerned about Ethiopia's Grand Ethiopian Renaissance Dam (GERD)?",
-        "options": [
-          "Eritrea",
-          "Somalia",
-          "Egypt",
-          "Saudi Arabia"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states that 'Ethiopia’s plan to build the ‘Grand Ethiopian Renaissance Dam’ on the headwaters of the Nile poses an existential threat to Egypt,' linking Egypt's identity to the Nile."
-      },
-      {
-        "question": "The article uses the Tigray People's Liberation Front (TPLF) as an example to illustrate which principle of international relations?",
-        "options": [
-          "The importance of economic sanctions.",
-          "That internal conflicts always lead to external interventions.",
-          "That while alliances are temporary, interests are permanent.",
-          "The effectiveness of humanitarian aid in conflict resolution."
-        ],
-        "answerIndex": 2,
-        "explanation": "Referring to the TPLF's shifting alliances, the article notes: 'another object lesson that while alliances are temporary, interests are permanent.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary geopolitical motivation behind Ethiopia's quest for Red Sea access?",
-        "back": "Ethiopia's primary motivation is to overcome its landlocked status as the world's most populous landlocked country, reducing its heavy reliance and substantial costs associated with using the Addis-Djibouti corridor for 95% of its trade."
-      },
-      {
-        "front": "How do Ethiopia's internal conflicts, particularly involving the TPLF, create vulnerabilities exploited by its neighbors?",
-        "back": "Ethiopia's internal conflicts, especially with groups like the TPLF, distract and weaken its central government, creating an opportune moment for neighbors like Eritrea to launch incursions or support rebel alliances to destabilize Ethiopia and prevent its consolidation of power, which could threaten Eritrean sovereignty."
-      },
-      {
-        "front": "Explain why Egypt views Ethiopia's Grand Ethiopian Renaissance Dam (GERD) as an 'existential threat' and how this influences its regional policy.",
-        "back": "Egypt, historically dependent on the Nile as its lifeblood, perceives the GERD on the Nile's headwaters as an existential threat to its water security. This concern drives Egypt's policy to 'curtail Ethiopian power as much as possible,' including potentially supporting Ethiopian adversaries like Eritrea."
-      },
-      {
-        "front": "Identify two Red Sea coastal states concerned by Ethiopia's pursuit of direct sea access and briefly state their reasons.",
-        "back": "Somalia is 'livid' due to Ethiopia's outreach to breakaway Somaliland, which offers Red Sea access. Saudi Arabia and Turkey are also concerned, as a new Red Sea littoral state, especially one potentially allied with Israel/UAE, could disrupt regional power balances and challenge their respective interests and influence (e.g., Turkey's strong ties with Somalia)."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792375627263-592",
-    "title": "Persisting fault lines\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038150/persisting-fault-lines",
-    "date": "2026-10-19",
-    "author": "none@none.com (Maleeha Lodhi)",
-    "content": "HISTORY, it has famously been said, repeats itself first as tragedy and then as farce. Today, it is repeating itself in Pakistan as both tragedy and farce. Recent events have deepened some of the country’s overlapping fault lines — enduring features that have shaped its political landscape for decades. Together they have contributed to its chronic instability and impeded its progress. It has meant the absence of a calm and predictable environment in which to meet the country’s growing challenges. The country seems caught in a time warp with a power elite ensuring it cannot escape its past.  \nFour fault lines (there are others too) are laid bare by recent political developments: unceasing confrontation between the government and opposition; centre-province conflict resulting in dismissal of elected provincial governments; parliament’s marginal role in the political system; and weak institutions whose evolution is stymied or independence eroded by predatory ruling elites. \nThe ongoing confrontation between the PML-N-led government and PTI may have novel aspects but it reflects a long-standing fault line in the country’s divisive politics. Government-opposition conflicts have been endemic in Pakistan’s history, with political behaviour driven by the ethic of war rather than competition. Political leaders and parties have viewed opponents as enemies to be eliminated from the political arena in a terminal conflict, not rivals to compete with, much less accommodated. Branding opponents as disloyal to the country is a well-worn, unseemly tradition. This is evident today by the disingenuous narrative peddled by federal ministers that the ousted KP government was aligned with terrorist organisations. \nA culture of compromise, tolerance, and restraint never took root leaving ruling and opposition parties perpetually at loggerheads. This, in turn, opened the door to both direct and indirect interventions by the military, which could always count on support from one political party or another to oust governments and expand its power. Divide and rule strategies pursued by the establishment also fuelled political conflict. \nSome enduring aspects of the political landscape are holding Pakistan back.\nThere were rare moments of political consensus as for example when the 1973 Constitution was adopted, Charter of Democracy agreed (but never implemented) between Benazir Bhutto and Nawaz Sharif in 2006 and in more recent years, the unanimous passage of the 18th Constitutional Amendment in 2010. Beyond these and some other exceptions, the tradition of intolerance and authoritarian behaviour has persisted.\nOpposition parties have rarely accepted the legitimacy of governments while governments refused to recognise opposition as a legitimate activity fundamental to democracy. The underlying reason has usually been disputed elections. Pakistan’s history is replete with losing sides contesting results and alleging ballot fraud, often for good reason. This happened most recently in the 2024 election which, despite its controversial nature, still saw PTI winning a plurality in the national legislature. It was blocked from forming the federal government by an alliance between its opponents and the establishment. Its uncompromising conduct today stems from what it sees as a stolen election and political manoeuvring to keep it out of power. \nWhile linked to government-opposition conflict, the second fault line is distinct: troubled relations and friction between the centre and provinces, which have punctuated the country’s history and weakened federalism. Intolerance of opposition-controlled provincial governments by parties governing at the centre became a common feature from the very inception of Pakistan. Just seven days after independence, the NWFP government was deposed, setting an unfortunate precedent. Thereafter, every province saw elected governments replaced by governor’s rule at some time or another, undermining the federation and testing the country’s unity. The consequences of intolerance of rivals together with the establishment’s efforts to centralise power and failure to make the federal arrangement work, were writ large in the rise of the Bengali nationalist movement that culminated in the break-up of Pakistan in 1971.\nBut no lesson was learnt and the fault line endured. Fast forward to the 1990s when the regionalised nature of election outcomes meant that parties forming governments at the federal level were often different from those that constituted provincial governments. This should have urged efforts to establish smooth and cooperative centre-province relations. But that did not happen. The notion that reciprocal obligations between the centre and provinces are more than a constitutional precept and actually have to be fulfilled by both sides still finds few takers.\nA third fault line relates to parliament’s weakness and its inability to play its fundamental role of exercising oversight of executive actions and hold governments to account. Successive governments have viewed parliament principally as a means to maintain themselves in power rather than a forum to initiate and debate laws and policy. The preferred mode of legislating has often been through ordinance or using a brute majority to rush through laws without deliberation. This reduced parliament to little more than a rubber stamp. The most recent examples are the 26th and 27th Constitutional amendments that were steamrolled through parliament in 2024 and 2025 without real debate and without even sharing their texts with members before moving them. There was virtually no debate when the two chambers recently endorsed the imposition of emergency in KP. Few if any governments encouraged parliament to play an active legislative and deliberative role. Instead, they preferred the legislature to be a passive body. This remains the case.  \nEven ruling parties with handsome majorities failed to recognise parliament’s utility as a forum to ventilate, change and share opinion. Whether this reflects lack of confidence in their backbenchers or poor understanding of how parliament should function, the outcome is marginalisation of the legislature’s role. This denudes the political system of democratic accountability.\nThe fourth fault line — weak institutions — is no less consequential. It is rooted in a political culture that has privileged personalities over institutions, and in a ruling elite that has little appetite for strong institutions because they impose checks and balances and place limits on power. Nothing illustrates this better than the judiciary. Its independence has been steadily eroded over the years by both civilian and military governments. The recent constitutional amendments have taken this further, making the superior judiciary subservient to the executive.\nPolitical fault lines are not cast in stone. Their persistence doesn’t mean they cannot be overcome especially when their impact on the country is so damaging. But it requires bold, visionary leadership to break from the past. \nThe writer is a former ambassador to the US, UK and UN.\nPublished in Dawn, October 19th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 81,
-    "paper": "Pakistan Affairs / Current Affairs",
-    "topic": "Deep-rooted Political Fault Lines and Chronic Instability in Pakistan",
-    "whyMatters": "This article offers a critical, structured analysis of Pakistan's chronic political instability, identifying four enduring fault lines. Aspirants can use its historical context and analytical framework to dissect contemporary governance challenges in essays and analytical questions.",
-    "summary": [
-      "Unceasing confrontation between government and opposition, viewing rivals as enemies to be eliminated, rather than competitors.",
-      "Persistent centre-province conflict and friction, undermining federalism and national unity since inception.",
-      "Parliament's marginal role, reducing it to a rubber stamp for executive actions rather than a deliberative or oversight body.",
-      "Weak institutions, particularly the judiciary, due to a political culture that privileges personalities and a ruling elite that erodes their independence."
-    ],
-    "facts": [
-      "The 1973 Constitution adoption, Charter of Democracy (2006), and 18th Constitutional Amendment (2010) are cited as rare moments of political consensus.",
-      "The NWFP (Khyber Pakhtunkhwa) government was deposed just seven days after independence, setting a precedent for centre-province conflict.",
-      "The 2024 election saw PTI win a plurality in the national legislature but was blocked from forming the federal government.",
-      "The 26th and 27th Constitutional amendments (2024, 2025) were \"steamrolled\" through parliament without real debate."
-    ],
-    "academicReferences": [
-      "The 1973 Constitution of Pakistan",
-      "The 18th Constitutional Amendment (2010)",
-      "Charter of Democracy (2006)"
-    ],
-    "vocabulary": [
-      {
-        "word": "stymied",
-        "type": "verb",
-        "definition": "prevent or hinder the progress of.",
-        "sentence": "The evolution of strong institutions is stymied by predatory ruling elites in Pakistan."
-      },
-      {
-        "word": "predatory",
-        "type": "adjective",
-        "definition": "seeking to exploit or oppress others.",
-        "sentence": "Weak institutions' independence is eroded by predatory ruling elites who prioritize power over checks and balances."
-      },
-      {
-        "word": "endemic",
-        "type": "adjective",
-        "definition": "regularly found among particular people or in a certain area.",
-        "sentence": "Government-opposition conflicts have been endemic in Pakistan’s history, fueled by a divisive political culture."
-      },
-      {
-        "word": "disingenuous",
-        "type": "adjective",
-        "definition": "not candid or sincere, typically by pretending that one knows less about something than one really does.",
-        "sentence": "Federal ministers peddled a disingenuous narrative, claiming the ousted KP government was aligned with terrorist organizations."
-      },
-      {
-        "word": "culminated",
-        "type": "verb",
-        "definition": "reach a climax or point of highest development.",
-        "sentence": "The Bengali nationalist movement culminated in the break-up of Pakistan in 1971, highlighting unresolved centre-province issues."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT identified as one of the four major fault lines contributing to Pakistan's chronic instability in the article?",
-        "options": [
-          "Unceasing confrontation between government and opposition",
-          "Persistent economic inequality and poverty",
-          "Centre-province conflict",
-          "Weak institutions and erosion of independence"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly identifies unceasing confrontation, centre-province conflict, parliament's marginal role, and weak institutions as the four fault lines. Persistent economic inequality, while a significant challenge, is not listed as one of these four specific fault lines."
-      },
-      {
-        "question": "According to the article, what did the 1973 Constitution, Charter of Democracy (2006), and 18th Constitutional Amendment (2010) represent?",
-        "options": [
-          "Instances of military intervention in politics",
-          "Rare moments of political consensus and cooperation",
-          "Major points of centre-province disagreement",
-          "Periods of significant economic reform"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states these were 'rare moments of political consensus' in Pakistan's history, contrasting with the general tradition of intolerance and authoritarian behavior."
-      },
-      {
-        "question": "What unfortunate precedent regarding centre-province relations was set just seven days after Pakistan's independence, as mentioned in the article?",
-        "options": [
-          "The declaration of an economic emergency in a province",
-          "The establishment of a new provincial capital",
-          "The deposition of the NWFP government",
-          "The signing of a significant inter-provincial trade agreement"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'Just seven days after independence, the NWFP government was deposed, setting an unfortunate precedent.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core characteristic of government-opposition relations that the article identifies as a persistent fault line in Pakistan?",
-        "back": "It is characterized by an 'ethic of war,' where opponents are viewed as enemies to be eliminated from the political arena, rather than rivals to compete with or accommodate."
-      },
-      {
-        "front": "How has the 'establishment' contributed to political conflict and centre-province friction in Pakistan, according to the author?",
-        "back": "The establishment has pursued 'divide and rule' strategies, coupled with efforts to centralize power and a failure to make federal arrangements work effectively."
-      },
-      {
-        "front": "What is the primary consequence of parliament's marginalization in Pakistan's political system as described in the article?",
-        "back": "It denudes the political system of democratic accountability, as parliament fails to play its fundamental role of exercising oversight and holding governments accountable."
-      },
-      {
-        "front": "What underlying factors contribute to the weakness of institutions in Pakistan, particularly the judiciary, according to the article?",
-        "back": "A political culture that privileges personalities over institutions, and a ruling elite that has little appetite for strong institutions because they impose checks and balances and limit power."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792376274069-48",
-    "title": "Settler terrorism\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038151/settler-terrorism",
-    "date": "2026-10-19",
-    "author": "none@none.com (Editorial)",
-    "content": "ISRAEL’S genocidal violence in occupied Gaza has understandably captured the world’s attention. Yet another pernicious campaign, overseen by the Zionist state, is underway in the West Bank, under the guise of illegal settlements — what the Palestinian Authority accurately terms ‘settler terrorism’. The menace of unlawful Israeli settlements in the occupied territories came up during a recent UN Security Council debate, with states calling for a halt to these blatantly illegal outposts. The Pakistani delegate pointed out that settlements threaten the “viability of a future Palestinian state”, while the French representative said they fuel “instability”. Illegal settlements have grown rapidly over the last few years; there are over 500 such unlawful communities, serving as home to hundreds of thousands of people comprising some of the most radical and violent members of Israel’s Jewish population. Violence against native Palestinians is commonplace, as settlers carry out a campaign of ethnic cleansing and land grabs, blessed by the Zionist regime. As a senior UN official observed, “the West Bank is at the breaking point”, adding that settler violence had reached “unprecedented levels”.\nThe horrific violence in Gaza, and the ethnic cleansing in the West Bank, have effectively buried the two-state solution. Israel has shown no intentions of honouring the so-called peace process. As the Palestinian delegate to the UNSC debate asked: “How can Israeli militarism be justified while Palestinian pacifism is demanded?” Unless this double standard is addressed by the global community, a just resolution of the Palestine question is impossible. The remedy is seemingly clear; Israel must end the bloodbath in all the occupied territories, immediately halt and dismantle all illegal settlements, and commit itself to the two-state idea. But the international community will be hard-pressed to find any mainstream Israeli leader — from the nominal left to the hard right — who can commit to these principles.\nPublished in Dawn, October 19th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "International Relations / Current Affairs / Pakistan Affairs",
-    "topic": "Israeli-Palestinian Conflict: Settler Terrorism, International Law, and the Two-State Solution",
-    "whyMatters": "This article offers a critical analysis of the Israeli-Palestinian conflict, focusing on the detrimental role of illegal settlements and 'settler terrorism'. It equips students with strong arguments and relevant facts concerning international law violations and the erosion of peace prospects, crucial for high-scoring essays.",
-    "summary": [
-      "Israel's actions in Gaza are termed 'genocidal violence,' while a 'pernicious campaign' of 'settler terrorism' (illegal settlements, ethnic cleansing, land grabs) is simultaneously unfolding in the West Bank.",
-      "Illegal Israeli settlements, numbering over 500 and housing hundreds of thousands of radical individuals, are rapidly expanding and explicitly threaten the viability of a future Palestinian state.",
-      "Settler violence against native Palestinians is commonplace and has reached 'unprecedented levels,' pushing the West Bank to 'the breaking point' and being 'blessed by the Zionist regime'.",
-      "The article asserts that the horrific violence has effectively 'buried the two-state solution,' criticizing Israeli militarism and global double standards as barriers to a just resolution."
-    ],
-    "facts": [
-      "There are over 500 unlawful Israeli settlement communities in the occupied territories.",
-      "These settlements house hundreds of thousands of people, including some of the most radical and violent members of Israel’s Jewish population.",
-      "The issue of illegal settlements was recently discussed at a UN Security Council debate, with delegates from Pakistan and France highlighting their illegality and destabilizing impact."
-    ],
-    "academicReferences": [
-      "UN Security Council Resolution 2334 (2016) - Demands Israel cease all settlement activities in the occupied Palestinian territory.",
-      "Fourth Geneva Convention (1949), Article 49 - Prohibits an occupying power from transferring parts of its own civilian population into the territory it occupies.",
-      "International Criminal Court (ICC) Rome Statute, Article 8(2)(b)(viii) - Defines the transfer of an occupying power's population into occupied territory as a war crime."
-    ],
-    "vocabulary": [
-      {
-        "word": "genocidal",
-        "type": "adjective",
-        "definition": "relating to or involving the deliberate killing of a large group of people, especially those of a particular ethnic group or nation.",
-        "sentence": "The article describes Israel's actions in Gaza as 'genocidal violence,' highlighting their severe impact on the local population."
-      },
-      {
-        "word": "pernicious",
-        "type": "adjective",
-        "definition": "having a harmful effect, especially in a gradual or subtle way.",
-        "sentence": "The author characterizes the campaign of illegal settlements as a 'pernicious campaign,' underscoring its insidious and damaging nature."
-      },
-      {
-        "word": "viability",
-        "type": "noun",
-        "definition": "ability to work successfully or to survive.",
-        "sentence": "The Pakistani delegate emphasized that settlements threaten the 'viability of a future Palestinian state,' questioning its potential for independent existence."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what specific impact do illegal Israeli settlements have on the prospect of a future Palestinian state?",
-        "options": [
-          "They enhance economic cooperation.",
-          "They threaten its viability.",
-          "They lead to cultural integration.",
-          "They encourage democratic reforms."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that the Pakistani delegate pointed out that settlements 'threaten the “viability of a future Palestinian state”.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the article refer to as 'settler terrorism' and what are its key components?",
-        "back": "'Settler terrorism' is described as a pernicious campaign overseen by the Zionist state in the West Bank, involving violence against native Palestinians, ethnic cleansing, and land grabs under the guise of illegal settlements."
-      },
-      {
-        "front": "How do illegal Israeli settlements affect regional stability and the West Bank, according to the article?",
-        "back": "Illegal settlements fuel 'instability' and have driven the West Bank to 'the breaking point' due to 'unprecedented levels' of settler violence and ethnic cleansing."
-      },
-      {
-        "front": "What is the article's assessment of the two-state solution's current status?",
-        "back": "The article asserts that the horrific violence in Gaza and ethnic cleansing in the West Bank have 'effectively buried the two-state solution,' indicating it is no longer a viable path under current conditions."
-      },
-      {
-        "front": "What is the article's proposed remedy for the Palestine question, and what obstacle does it identify?",
-        "back": "The proposed remedy is for Israel to end the violence, dismantle all illegal settlements, and commit to the two-state idea. The identified obstacle is the unlikelihood of any mainstream Israeli leader committing to these principles."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792375796031-382",
-    "title": "State of denial\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037982/state-of-denial",
-    "date": "2026-10-18",
-    "author": "none@none.com (Editorial)",
-    "content": "AS reports continue to do the rounds of possible Russian mediation to resolve the differences between Pakistan and Taliban-ruled Afghanistan, the Foreign Office has underscored that successful dialogue requires commitment from Kabul to end cross-border terrorism.\nThis demand is neither new nor unreasonable; it highlights the point that talks and support for anti-Pakistan terrorist groups cannot go hand in hand. On Friday, the FO said that while it was not aware of any formal Russian mediation initiative, Pakistan was open to engagement that produced tangible results. Representatives of Pakistan and the Taliban regime were both in Russia earlier this month as part of the Moscow Format regional consultations. A joint communique could not be issued at the conclave due to frosty Islamabad-Kabul ties, specifically because the Taliban objected to including any references to terrorism in Afghanistan. Russia had offered its good offices to resolve the impasse, if both sides required its help.\nThe official Taliban position amounts to a state of denial: it is hardly a secret that some of the world’s most dangerous terrorist groups find shelter in Afghanistan. Therefore, the Kabul regime’s denials hold no water. Many other third parties — Qatar, Turkiye, Saudi Arabia, and China — have tried to mediate between Pakistan and Afghanistan, with varying degrees of success. Russia is the only state that recognises the Taliban regime. Perhaps Moscow can be engaged by Pakistan and Afghanistan to try and give the peace process another chance.\nPakistan and Afghanistan share borders and linguistic and cultural links. Good relations are essential, even though bilateral relations have remained largely strained over the past several decades. However, the biggest obstacle to long-term peace is the Taliban’s sheltering of terrorist groups. Pakistan desires peace, but for talks to succeed, Kabul must offer visible CBMs, such as an end to cross-border terrorism. As the FO has said, a “verifiable mechanism” that ensures an end to anti-Pakistan terrorism emanating from Afghanistan can lead the way to peace. Kabul’s claims that it is not hosting violent groups are of little value.\nAction against such groups is required, not hollow refutations. Moreover, regional states must realise that today it is Pakistan that is battling terrorist groups in Afghanistan. Tomorrow, similar violent actors based in that country can destabilise other regional states. Russia itself has been targeted by IS-K terrorism. The group finds a home in Afghanistan, even though it is at daggers drawn with the Taliban. If the Taliban regime commits to preventing groups based on its soil from attacking neighbouring states, the process of normalisation and regional integration of Afghanistan can begin.\nPublished in Dawn, October 18th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Current Affairs",
-    "topic": "Regional Security Challenges and Obstacles to Regional Integration",
-    "whyMatters": "This article is crucial for understanding the profound security challenges, specifically cross-border terrorism emanating from Afghanistan, that significantly impede broader regional integration efforts. While not directly addressing ECO, it underscores the indispensable requirement of peace and stability for any economic cooperation framework to thrive in the region.",
-    "summary": [
-      "Pakistan demands a commitment from Taliban-ruled Afghanistan to end cross-border terrorism for any successful dialogue, emphasizing that talks and support for terror groups are incompatible.",
-      "The Taliban regime's official position of denying the presence of dangerous terrorist groups in Afghanistan is considered a \"state of denial\" and lacks credibility.",
-      "Russia, having hosted recent regional consultations and being the only state to recognize the Taliban, is seen as a potential mediator to resolve the impasse, though other nations have also attempted mediation.",
-      "The article argues that the Taliban's sheltering of terrorist groups is the primary obstacle to long-term peace, bilateral relations, and regional integration, necessitating verifiable mechanisms to end anti-Pakistan terrorism."
-    ],
-    "facts": [
-      "Pakistan and Taliban representatives participated in the Moscow Format regional consultations earlier this month.",
-      "A joint communique could not be issued at the Moscow conclave due to the Taliban's objection to including any references to terrorism in Afghanistan.",
-      "Russia is highlighted as the only state that officially recognizes the Taliban regime in Afghanistan."
-    ],
-    "academicReferences": [
-      "International Crisis Group reports on Afghanistan, Pakistan, and regional security dynamics.",
-      "United Nations Security Council resolutions concerning terrorism and stability in Afghanistan (e.g., UNSC Resolution 1373 on counter-terrorism).",
-      "Strategic Studies Institute (SSI) monographs on regional security challenges in South Asia."
-    ],
-    "vocabulary": [
-      {
-        "word": "underscored",
-        "type": "verb",
-        "definition": "Emphasized or highlighted the importance of something.",
-        "sentence": "The Foreign Office underscored that successful dialogue requires commitment from Kabul to end cross-border terrorism."
-      },
-      {
-        "word": "conclave",
-        "type": "noun",
-        "definition": "A private meeting, typically for a specific purpose.",
-        "sentence": "A joint communique could not be issued at the conclave due to frosty Islamabad-Kabul ties."
-      },
-      {
-        "word": "impasse",
-        "type": "noun",
-        "definition": "A situation in which no progress is possible, typically because of disagreement; a deadlock.",
-        "sentence": "Russia had offered its good offices to resolve the impasse, if both sides required its help."
-      },
-      {
-        "word": "verifiable",
-        "type": "adjective",
-        "definition": "Capable of being proved true, accurate, or genuine.",
-        "sentence": "As the FO has said, a 'verifiable mechanism' that ensures an end to anti-Pakistan terrorism emanating from Afghanistan can lead the way to peace."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is Pakistan's primary demand for successful dialogue with Afghanistan, according to the article?",
-        "options": [
-          "Commitment to end cross-border terrorism",
-          "Economic aid from Kabul",
-          "Formal recognition of the Taliban regime",
-          "Increased cultural exchange programs"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that the Foreign Office has underscored that successful dialogue requires commitment from Kabul to end cross-border terrorism."
-      },
-      {
-        "question": "Which country is highlighted as the only state that officially recognizes the Taliban regime?",
-        "options": [
-          "China",
-          "Qatar",
-          "Russia",
-          "Saudi Arabia"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'Russia is the only state that recognises the Taliban regime.'"
-      },
-      {
-        "question": "According to the article, what is the biggest obstacle to long-term peace and regional integration involving Afghanistan?",
-        "options": [
-          "Linguistic and cultural differences",
-          "Lack of economic incentives for cooperation",
-          "The Taliban's sheltering of terrorist groups",
-          "Insufficient international mediation efforts"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article clearly states, 'However, the biggest obstacle to long-term peace is the Taliban’s sheltering of terrorist groups.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core condition Pakistan has set for engaging in dialogue with the Taliban regime?",
-        "back": "Pakistan demands a commitment from Kabul to end cross-border terrorism, emphasizing that talks cannot proceed alongside support for anti-Pakistan terrorist groups."
-      },
-      {
-        "front": "Why does the article label the Taliban's official position on terrorism a 'state of denial'?",
-        "back": "Because it is widely known that many dangerous terrorist groups find shelter in Afghanistan, making the regime's denials unfounded."
-      },
-      {
-        "front": "Which international actor is suggested as a potentially effective mediator between Pakistan and Afghanistan, and why?",
-        "back": "Russia, because it is the only state that officially recognizes the Taliban regime, potentially giving it unique leverage to facilitate a peace process."
-      },
-      {
-        "front": "What is identified as the fundamental impediment to both long-term peace and regional integration involving Afghanistan?",
-        "back": "The Taliban's continued sheltering of terrorist groups on Afghan soil, which destabilizes neighboring states like Pakistan."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792288153265-422",
-    "title": "Safe spaces for women\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037976/safe-spaces-for-women",
-    "date": "2026-10-18",
-    "author": "none@none.com (Zeba Sathar)",
-    "content": "THE Protection Against Harassment of Women at the Workplace Act, 2010, was an important response to problems that directly affect women. It enabled the ombudsman to hear cases, many of which were resolved in women’s favour. A recent judgement has now eliminated an avenue that many women used to report harassment. The Federal Constitutional Court’s ruling, which narrows the interpretation of harassment, is a setback for women’s space in public life.\nUnfortunately, it appears to show that a major state institution is prepared to restrict rather than expand women’s safety at work. From birth to death, women and girls in Pakistan face limits on where they can go freely, where they may go only under certain conditions, and where they cannot go at all. Visitors to Pakistan often notice their limited visibility as one of the first features of public life. This absence should not be dismissed as cultural; it largely reflects structural factors.\nRestrictions on mobility — driven mainly by concerns about safety — help explain poor educational outcomes for girls, physical inactivity during adolescence, and their alarmingly low participation in the labour force as adults. The lack of safety outside the home is among the most frequently cited reasons for not sending girls to school, alongside poverty and families’ inability to afford schooling. The problem is intensified by the limited availability of girls’ schools in many parts of Pakistan.\nUndoubtedly, the shortage of schools and female teachers, together with poor learning quality, creates major barriers. Millions of girls live in districts where the nearest public school is more than an hour away and therefore out of practical reach. These supply-side failures prevent many girls from even imagining that they could enter a classroom. Perceived danger reinforces the barrier at home: some girls never enrol, while others drop out at puberty. At the very least, girls who are fortunate enough to live near a school should not be excluded because the journey is unsafe.\nWomen’s limited ability to work outside the home is probably the most affected by structural factors.\nA Population Council and Unicef study, Adolescent Girls’ Voices on Enhancing Their Own Productivity, found that parents were reluctant to send girls to school because of fear of harassment on the way. This fear has been exacerbated by an incredible surge in social media-related harassment and cyberbullying, thanks to the proliferation of mobile phones and other digital devices. Requiring a chaperone or private transport immediately increases the costs of sending girls to school. Not surprisingly, an estimated 8.3 million girls aged 10 to 19 lack official status — they are neither in school, at work, nor married. This large cohort of girls depicts a decade of lost productivity, learning, and, above all, self-esteem.\nThe state’s role is clear: protect the rights of all its citizens from harassment and unsafe spaces. It must remove these hurdles by providing structural solutions that enable girls to attend and complete school. Harassment laws that create safe routes and workplaces must be seen as educational policy requirements, not peripheral issues.\nWomen’s limited ability to work outside the home is probably the most affected by structural factors. It is also the most costly in terms of losses to the economy and society. Female labour force participation rates have remained stagnant at around 22 per cent for the last 15 years. When women earn, they tend to spend more proactively, with direct payoffs for children’s education, health, and general welfare. But this will not happen if women feel unprotected at the workplace.\nAlthough women are generally accepted as schoolteachers and in some health professions, attacks on doctors and Lady Health Workers threaten even these spaces — many work mostly out of economic desperation. Employers are reluctant to give women jobs with longer, more secure contracts because of perceived hazards and domestic duties. At the other end of the spectrum, highly educated and affluent women participate in the labour force, cushioned by family support and private transport. The result is some improvement in women’s participation at the top end for highly educated, privileged women and, at the other end, for the truly desperate who must leave home to buy food and ensure their families’ survival, ie, domestic help, cleaners, and informal sector workers who do the most menial work.\nWomen’s representation in Pakistan’s parliament is the only positive achievement in the SDGs’ gender indicators. Most elected women come from privileged families, but not all, as the pool expands. The trend began with the mandatory party quota for women. Otherwise, trends of an even more male-dominated parliament would have continued. The handful of women lawmakers have made headway in legislating, or at least highlighting, issues important to women and human rights.\nComparable action is required in laws and public policy to expand women’s participation in every public sphere, especially formal employment. Increasing the number of women in decision-making and other critical positions — particularly in the police and judiciary — would make a tangible difference. A 30pc recruitment quota in the formal sector is essential. Greater representation in formal paid work will generate positive spillover effects in other sectors.\nIt is especially imperative to address the extremely high unemployment rate (24pc) among young women who have completed more than a secondary education. Despite completing higher levels of education, this group is denied opportunities for secure employment. A quota system and positive supportive legislation will directly and positively affect the current generation whom we repeatedly say we care about the most.\nWomen and girls must have safe passage and be guarded with assurances that harassment is a punishable offence. Recent measures to improve women’s mobility are encouraging, such as pink buses and scooter loans, but they remain too few and too far apart. Above all, there is a need to change mindsets; a public campaign against harassment of women and girls in public spaces must become a priority.\nSociety must review its standards and morals and move forward, not backwards, in legislation, run bold campaigns, and do whatever it takes to correct this pernicious course of restricting, rather than expanding, the power of women and girls. \nThe writer is country adviser to the Population Council.\nPublished in Dawn, October 18th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs / Social Issues / Current Affairs",
-    "topic": "Women Empowerment and Gender Equality in Pakistan / Challenges to Female Labor Force Participation",
-    "whyMatters": "This article critically analyzes the structural barriers and policy failures hindering women's safety and participation in public life and the workforce in Pakistan. It provides compelling arguments, statistics, and policy recommendations essential for essays and analytical questions on social development, gender equality, and economic growth.",
-    "summary": [
-      "A recent Federal Constitutional Court ruling narrowing the interpretation of harassment is a significant setback, restricting women's safety at work and in public life.",
-      "Restrictions on women's mobility, primarily driven by safety concerns, lead to poor educational outcomes for girls, physical inactivity, and alarmingly low female labor force participation rates.",
-      "Structural factors such as the shortage of schools and female teachers, coupled with the pervasive fear of harassment (exacerbated by cyberbullying), intensely affect girls' schooling and women's ability to work outside the home.",
-      "The state has a clear role to provide structural solutions, enforce robust harassment laws, ensure safe passages, implement recruitment quotas (e.g., 30% in the formal sector), and initiate public campaigns to change societal mindsets.",
-      "The limited ability of women to work outside the home is economically costly, despite women's earnings having a direct positive impact on children's education, health, and general welfare, with female labor force participation stagnant at 22% for 15 years."
-    ],
-    "facts": [
-      "The Protection Against Harassment of Women at the Workplace Act, 2010, was an important response to harassment issues.",
-      "An estimated 8.3 million girls aged 10 to 19 lack official status (neither in school, at work, nor married), depicting a decade of lost productivity.",
-      "Female labor force participation rates have remained stagnant at around 22 percent for the last 15 years.",
-      "The unemployment rate among young women who have completed more than a secondary education is extremely high at 24 percent.",
-      "Women’s representation in Pakistan’s parliament is noted as the only positive achievement in the SDGs’ gender indicators, initiated by the mandatory party quota for women.",
-      "A Population Council and UNICEF study, 'Adolescent Girls’ Voices on Enhancing Their Own Productivity,' found parents were reluctant to send girls to school due to fear of harassment."
-    ],
-    "academicReferences": [
-      "The Protection Against Harassment of Women at the Workplace Act, 2010",
-      "Sustainable Development Goal 5: Gender Equality (specifically targets related to labor force participation, education, and representation)",
-      "Population Council and UNICEF report: 'Adolescent Girls’ Voices on Enhancing Their Own Productivity'"
-    ],
-    "vocabulary": [
-      {
-        "word": "Pernicious",
-        "type": "adjective",
-        "definition": "Having a harmful effect, especially in a gradual or subtle way.",
-        "sentence": "Society must correct this pernicious course of restricting, rather than expanding, the power of women and girls."
-      },
-      {
-        "word": "Exacerbated",
-        "type": "verb",
-        "definition": "To make (a problem, bad situation, or negative feeling) worse.",
-        "sentence": "This fear has been exacerbated by an incredible surge in social media-related harassment and cyberbullying."
-      },
-      {
-        "word": "Stagnant",
-        "type": "adjective",
-        "definition": "Showing no activity; dull and sluggish.",
-        "sentence": "Female labour force participation rates have remained stagnant at around 22 per cent for the last 15 years."
-      },
-      {
-        "word": "Proliferation",
-        "type": "noun",
-        "definition": "Rapid increase in numbers or amount.",
-        "sentence": "Thanks to the proliferation of mobile phones and other digital devices, cyberbullying has surged."
-      },
-      {
-        "word": "Ombudsman",
-        "type": "noun",
-        "definition": "An official appointed to investigate individuals' complaints against maladministration, especially that of public authorities.",
-        "sentence": "The Act enabled the ombudsman to hear cases, many of which were resolved in women’s favour."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary impact of the Federal Constitutional Court’s recent ruling mentioned in the article?",
-        "options": [
-          "It narrowed the interpretation of harassment.",
-          "It expanded the interpretation of harassment.",
-          "It established new safe spaces for women.",
-          "It abolished the Protection Against Harassment of Women at the Workplace Act."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'The Federal Constitutional Court’s ruling, which narrows the interpretation of harassment, is a setback for women’s space in public life.'"
-      },
-      {
-        "question": "According to the article, what is the estimated percentage of female labor force participation that has remained stagnant for the last 15 years?",
-        "options": [
-          "15 percent",
-          "22 percent",
-          "30 percent",
-          "24 percent"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'Female labour force participation rates have remained stagnant at around 22 per cent for the last 15 years.'"
-      },
-      {
-        "question": "Which significant cohort of girls in Pakistan, aged 10-19, is described as lacking official status (neither in school, at work, nor married)?",
-        "options": [
-          "5.1 million",
-          "10 million",
-          "8.3 million",
-          "12.5 million"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'an estimated 8.3 million girls aged 10 to 19 lack official status — they are neither in school, at work, nor married.'"
-      },
-      {
-        "question": "What is identified as the only positive achievement in the SDGs’ gender indicators for Pakistan, as per the article?",
-        "options": [
-          "Improved female literacy rates",
-          "Increased women's representation in parliament",
-          "Higher female labor force participation",
-          "Reduction in cyberbullying incidents"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Women’s representation in Pakistan’s parliament is the only positive achievement in the SDGs’ gender indicators.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why are restrictions on women's mobility considered a significant barrier to their development and societal progress in Pakistan?",
-        "back": "Restrictions on mobility, driven by safety concerns, lead to poor educational outcomes for girls, physical inactivity during adolescence, and alarmingly low participation in the labor force as adults, ultimately resulting in lost productivity and self-esteem."
-      },
-      {
-        "front": "What are the key economic and social costs associated with women's limited ability to work outside the home, as highlighted in the article?",
-        "back": "Limited female labor force participation (stagnant at 22%) leads to significant losses to the economy and society. When women earn, they proactively spend on children's education, health, and welfare, indicating a lost opportunity for overall societal development."
-      },
-      {
-        "front": "What are some concrete structural solutions and policy changes the article proposes for the state to implement to enhance women's safety and participation?",
-        "back": "The state should provide structural solutions enabling girls to attend school safely, enforce harassment laws, ensure safe routes and workplaces, implement a 30% recruitment quota in the formal sector, increase women's representation in decision-making (police, judiciary), and launch public campaigns to change mindsets."
-      },
-      {
-        "front": "How has women's representation in Pakistan's parliament become a positive achievement despite broader challenges to gender equality?",
-        "back": "Women's representation in parliament is the only positive achievement in SDG gender indicators, largely due to the mandatory party quota for women. This policy intervention has expanded the pool of elected women, allowing them to legislate on or highlight women's and human rights issues."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792288066136-385",
-    "title": "Closing the Afghan file\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037978/closing-the-afghan-file",
-    "date": "2026-10-18",
-    "author": "none@none.com (Muhammad Amir Rana)",
-    "content": "THE civil-military relationship in Pakistan has never been ideal. Despite recent conciliatory efforts and the policy of accommodation adopted by the coalition government, concerns within security-focused circles persist about the handling of several government affairs. For now, though, there is little chance of an escalation in civil-military tensions involving the federal and provincial governments; the last hitch was the PTI government, which was ousted through governor’s rule and emergency. The major allegation against the PTI government has been that it was hesitant to take a clear position against the terrorists, enabling them to expand their influence in parts of the province, especially in the southern districts.\nThe establishment is sensitive about the narrative, and considers it subversion and part of hybrid warfare; it looks upon any political or ideological support for it as support to the enemy. Terminology describing Taliban-aligned terrorists as ‘Fitna al-Khwarij’ and Baloch insurgents as ‘Fitna al-Hindustan’ reflects the same approach. Everyone is expected to follow this approach; the PTI government’s disagreement on several security-related policies is, therefore, interpreted as an act of subversion. Meanwhile, it is clear how much civilian governments actually contribute to security-related affairs.\nThe security domain has often caused friction between the establishment and civilian governments; over the decades, the political leadership has learned not to voice disagreement on security-related affairs. ‘Memogate’ was the last such lesson for the PPP; and ‘Dawn leaks’ for Mian Nawaz Sharif; the removal of Imran Khan’s PTI from its provincial seat of power in KP appears to have followed the same pattern. The story is not simply about subversion or disagreement over security policy. There are other relevant aspects that some commentators have pointed out: among them is the fiscal issue which also triggered the call for new provinces and the reversal of the 18th Amendment. Yet another dimension is linked to closing the Afghan file.\nBhutto’s policy was just the lever. It was Zia who turned it into an ideology.\nThe Afghan policy has shaped Pakistan’s politics for half a century; but now there is a general acceptance, even within security circles, that it has not worked. It is evident that the state is distancing itself from past approaches. In this regard, some intellectuals and commentators have painted militancy as a cultural expression of Pakhtuns, which the local dynamics of the larger Pakhtun society has aggravated. There is no need to deconstruct such a perception, which would be stigmatisation. In effect, applying a sociocultural lens to the issue takes away focus from the main architects of the security and Afghan policy. The previous Afghan policy worked well but had lost its utility in geopolitical contexts. This was the policy crafted by the military dictator Gen Ziaul Haq and his team, and it was more or less functional until the Taliban captured power in Afghanistan in August 2021. Though the Zia file saw a few changes and amendments, the overall framework for dealing with these affairs did not change much.\nThe Zia file had a few critical components that even allies including Washington, Beijing, Riyadh, and Ankara had concerns about — particularly the reliance on non-state actors. Mian Nawaz Sharif had drawn attention to it but faced the consequences. Many analysts believe that this flawed policy was responsible for spawning the TTP and generating terrorism in KP but official narratives do not link the state of affairs to the policy choices made earlier. \nEstablishment circles appear to want a new Afghan policy that best suits their geopolitical and internal security objectives. A complete detachment from the Taliban is part of the new approach, and the Sohail Afridi government was reluctant to adopt it because it would mean a large-scale military operation, displacement, and increased security-related resource allocation — which would also have political consequences. After the removal of his government, the hurdles preventing a new policy have been eliminated; the new set-up now has to deliver, as was expected of the Afridi government. There will be no opportunity any longer to shift the onus of blame onto a political government, despite official narratives distancing the security state from political change in KP.\nHowever, the dimensions of the new Afghan policy remain unclear. For instance, how will the state proceed if the Afghan Taliban agree to detach themselves from the terrorist networks operating against Pakistan from Afghan soil? Still, another argument being promoted is that Zulfikar Ali Bhutto, not Gen Ziaul Haq, was the real architect of Pakistan’s Afghan policy. There is some truth to that. After Sardar Daud’s 1973 coup in Kabul and his revival of the Pakhtunistan issue, the Bhutto government began hosting and training Afghan Islamists, among them men who would later become the commanders of the anti-Soviet jihad. The FC and a small circle of officials ran this as a pressure tool against Kabul. Notably, the province’s first governor after 1973, appointed in 1975, following the ban on the National Awami Party, reflected the same anxieties about Pakhtun nationalism and Afghanistan.\nBut Bhutto’s policy was just the lever. It was Zia who turned it into an ideology. After the Soviet invasion of 1979, the Afghan question became the organising principle of the state: the jihad, the refugee economy, the madressah network, the doctrine of strategic depth, and an intelligence apparatus that grew more powerful than the elected institutions meant to oversee it. That legacy matters, and it is Zia’s.\nNow it is up to the supporters of the PPP how they take the argument, and whether they are ready to carry the entire burden of history on their shoulders; they also face criticism that Benazir Bhutto continued Bhutto’s legacy and allowed Gen Naseerullah Babar to nurture the Taliban in 1994-96, the same general who had crafted the Afghan files for her father. The Taliban generations have caused huge losses to the PPP, including the assassination of Benazir Bhutto herself. \nThe writer is a security analyst.\nPublished in Dawn, October 18th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2022-FED",
-      "paper": "Pakistan Affairs",
-      "year": 2022,
-      "question": "Discuss the Federal Structure of 1973 Constitution of Pakistan after 18th Amendment. Why criticism on 18th Amendment started recently?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Pakistan Affairs",
-    "topic": "Civil-Military Relations, Afghan Policy and Internal Security, and Federal Structure Challenges",
-    "whyMatters": "This article is highly relevant as it explicitly discusses the 'fiscal issue' as a trigger for 'the call for new provinces and the reversal of the 18th Amendment,' directly addressing the exam question's component on criticism of the 18th Amendment. It also provides context on civil-military dynamics impacting provincial governance and implicitly links to the federal structure.",
-    "summary": [
-      "Pakistan's civil-military relationship is historically tense, with the establishment often dominating security policy and penalizing dissenting civilian governments, as seen with the PTI in KP.",
-      "The article critically analyzes Pakistan's long-standing Afghan policy, initiated by Bhutto but ideologized by Gen Ziaul Haq, pointing out its flawed reliance on non-state actors and its contribution to internal security crises like the rise of the TTP.",
-      "There is a current push within security circles for a new Afghan policy emphasizing complete detachment from the Taliban, a shift that previous civilian governments were reluctant to undertake due to anticipated costs and political consequences.",
-      "Beyond security, the article touches on underlying issues like fiscal concerns, which have fueled calls for new provinces and the potential reversal of the 18th Amendment, highlighting complex interplay between security, governance, and federal structure."
-    ],
-    "facts": [
-      "Sardar Daud's 1973 coup in Kabul and his revival of the Pakhtunistan issue prompted Bhutto's government to host and train Afghan Islamists.",
-      "Gen Ziaul Haq's Afghan policy (post-1979 Soviet invasion) established 'jihad, refugee economy, madressah network, strategic depth, and an intelligence apparatus' as organizing principles.",
-      "The article mentions 'fiscal issue' as a trigger for calls for new provinces and the reversal of the 18th Amendment.",
-      "Examples of civil-military friction leading to political consequences include 'Memogate' for PPP, 'Dawn leaks' for Mian Nawaz Sharif, and the 'removal of Imran Khan’s PTI from its provincial seat of power in KP'.",
-      "The Taliban captured power in Afghanistan in August 2021, leading to a reassessment of Pakistan's Afghan policy."
-    ],
-    "academicReferences": [
-      "18th Amendment (Constitution of Pakistan)",
-      "Doctrine of Strategic Depth (Pakistani foreign policy concept)",
-      "National Finance Commission (NFC) Award (implicit in fiscal issues related to provinces and 18th Amendment)",
-      "Hybrid Warfare (term used in article context by establishment)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Conciliatory",
-        "type": "adjective",
-        "definition": "Intended or likely to placate or reconcile; trying to make peace.",
-        "sentence": "Despite recent conciliatory efforts and the policy of accommodation adopted by the coalition government, concerns within security-focused circles persist."
-      },
-      {
-        "word": "Subversion",
-        "type": "noun",
-        "definition": "The undermining of the power and authority of an established system or institution.",
-        "sentence": "The establishment is sensitive about the narrative, and considers it subversion and part of hybrid warfare."
-      },
-      {
-        "word": "Stigmatisation",
-        "type": "noun",
-        "definition": "The process of describing or regarding someone or something as worthy of disgrace or disapproval.",
-        "sentence": "There is no need to deconstruct such a perception, which would be stigmatisation."
-      },
-      {
-        "word": "Onus",
-        "type": "noun",
-        "definition": "Used to refer to something that is one's duty or responsibility.",
-        "sentence": "There will be no opportunity any longer to shift the onus of blame onto a political government."
-      },
-      {
-        "word": "Lever",
-        "type": "noun",
-        "definition": "A means of exerting influence; a tool or mechanism for achieving a purpose.",
-        "sentence": "Bhutto’s policy was just the lever. It was Zia who turned it into an ideology."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, who is credited with turning Pakistan's Afghan policy into an 'ideology' after the Soviet invasion?",
-        "options": [
-          "Zulfikar Ali Bhutto",
-          "Gen Ziaul Haq",
-          "Benazir Bhutto",
-          "Sardar Daud"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Bhutto’s policy was just the lever. It was Zia who turned it into an ideology' after the Soviet invasion of 1979."
-      },
-      {
-        "question": "What specific issue is mentioned in the article as having triggered calls for new provinces and the reversal of the 18th Amendment?",
-        "options": [
-          "Security-related policy disagreements",
-          "The fiscal issue",
-          "Geopolitical context changes",
-          "Reliance on non-state actors"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'Among them is the fiscal issue which also triggered the call for new provinces and the reversal of the 18th Amendment.'"
-      },
-      {
-        "question": "What was a significant concern of Pakistan's allies regarding the 'Zia file' Afghan policy, as per the article?",
-        "options": [
-          "Its emphasis on democratic governance",
-          "Its reliance on non-state actors",
-          "Its focus on economic development",
-          "Its isolationist foreign policy"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article notes, 'The Zia file had a few critical components that even allies including Washington, Beijing, Riyadh, and Ankara had concerns about — particularly the reliance on non-state actors.'"
-      },
-      {
-        "question": "Which event is cited as the most recent example of civil-military friction leading to a provincial government's removal, following a historical pattern?",
-        "options": [
-          "Memogate for the PPP",
-          "Dawn leaks for Mian Nawaz Sharif",
-          "Removal of Imran Khan’s PTI from KP",
-          "Sardar Daud’s 1973 coup in Kabul"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions: 'the removal of Imran Khan’s PTI from its provincial seat of power in KP appears to have followed the same pattern.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What was the core legacy of Gen Ziaul Haq's Afghan policy, according to the article?",
-        "back": "Zia's policy turned the Afghan question into the organizing principle of the state, encompassing jihad, refugee economy, madressah networks, the doctrine of strategic depth, and an empowered intelligence apparatus."
-      },
-      {
-        "front": "What specific criticism regarding the 18th Amendment is highlighted in the article?",
-        "back": "The article notes that 'the fiscal issue' triggered calls for new provinces and the potential reversal of the 18th Amendment."
-      },
-      {
-        "front": "Explain the pattern of civil-military friction regarding security affairs affecting civilian governments, as illustrated in the article.",
-        "back": "Political leadership has often faced consequences for disagreeing on security matters; examples include Memogate (PPP), Dawn leaks (Nawaz Sharif), and the recent removal of Imran Khan's PTI from KP."
-      },
-      {
-        "front": "What is the stated objective of the 'new Afghan policy' being sought by establishment circles, as mentioned in the article?",
-        "back": "The new Afghan policy aims for a complete detachment from the Taliban, aligning with geopolitical and internal security objectives."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792288241490-643",
-    "title": "Moral consensus\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037975/moral-consensus",
-    "date": "2026-10-18",
-    "author": "none@none.com (Naeem Sadiq)",
-    "content": "CANADA’S richest province Ontario, with a GDP of a trillion Canadian dollars, purchased a 10-year-old jet costing 28 million Canadian dollars (Rs5.46 billion) for the official use of its premier. Critics quickly dubbed it the “gravy plane”, taunting Doug Ford’s long-standing political rhetoric about eliminating government waste. The premier was quick to take responsibility. He promptly returned the plane. Far away, in a country where 48 per cent of the people fall in the ‘extremely poor’ category, a chief minister acquired a spanking new Gulfstream 500 — twice as expensive as the plane of the Ontarian premier. It was also followed by similar public outrage. The chief minister, however, vowed to continue using the “gravy plane” as her legal right.\nOn Sept 30, 2026, something seriously went wrong with the execution of Christa Pike at the Maximum Security Prison in Nashville, Tennessee. The two doses of the lethal pentobarbital injection failed to achieve their intended result. Pike did not die. Just two days later, Frank Strada, commissioner of the Tennessee Department of Correction, resigned on grounds of moral responsibility. Only a few weeks earlier, 14 newborn babies had been burnt to death in a hospital fire in Islamabad. No one resigned. The executive director had to be forced to step down.\nWhy is it that countries possessing very similar constitutions, parliaments, democracies, and laws end up achieving radically different outcomes? The ones doing poorly can be recognised by a distinct common denominator: a ruling class deeply deficient in character, values, and moral responsibility. Such nations forever remain in search of new laws, new faces, and new messiahs, rather than seeking a new code of conduct for their morally deficient leaders.\nLaws devoid of morality find enough loopholes to justify abuse.\nFor centuries, slavery was legally permitted. Women were legally denied their right to vote and property. Racial segregation and discrimination were once legally enforced. Children working long hours in hazardous jobs was legally permitted. Workers dying or being seriously injured in mines and sewage gutters was treated as the cost of doing business. But all these ‘legally’ sanctioned practices were inherently unjust and morally decadent. It took decades of determined struggle by the abolitionist, women’s rights, civil rights, and labour movements to establish that legality alone could never legitimise practices that violated the fundamental principles of equality, dignity, safety, and justice.\nWhile Pakistani laws adequately address equality, safety, and dignity, the ruling elite has remained resolutely impervious to any of these considerations and continues to rule with remarkable immorality. Governance has become synonymous with self-enrichment, self-projection, and self-indulgence. Questioning the conduct, wastefulness and misuse of state resources is considered unpatriotic. Pakistan thus faces a grave moral and institutional crisis that cannot be resolved by any new sermons, slogans, changes in government, or enactment of new laws. An ecosystem overflowing with laws but devoid of morality will always find enough loopholes and justifications to perpetuate its questionable practices.\nMuch as the abolition of slavery required society to move beyond what the law permitted, Pakistan needs a moral consensus on rejecting practices that may be legally permissible yet remain immoral, unequal, undignified, unsafe, and irresponsible. A useful starting point would be to recognise that expenditures such as aircraft and bullet-proof vehicles for the luxury and convenience of the ruling elite, even when legally sanctioned, are downright im­­moral, and should be withdrawn. The excessive self-san­­ctioned salaries, perks and privile­ges of judges, parliamentarians, and government offici­als, even when ba­­cked by legal notifications, are im­­­­­-\nmoral. Billions of rupees spent on self-publicity, ads, billboards, posters and pictures on every imaginable free space, even when approved by a sycophantic finance department, are wasteful and unethical.\nLikewise, naming every building, bridge, school, hospital, and ration bag after a serving politician is morally reprehensible. Sending workers into sewage gutters, even when legally practised for 80 years is despicably immoral and needs to be eliminated forthwith. Not to mention that pathological addiction of borrowing and begging from foreign donors and friendly countries, even when endorsed by law, is demeaning and immoral.\nPakistan must pause, introspect and agree on how to weed out immorality amongst leaders. An agenda for moral reforms that binds the rulers to higher standards of conduct may be far more consequential than a new or recycled set of laws and leaders.\nThe writer is an industrial engineer and a volunteer social activist.\nnaeemsadiq@gmail.com\nPublished in Dawn, October 18th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 83,
-    "paper": "Ethics / Governance / Pakistan Affairs",
-    "topic": "Moral Consensus, Ethical Leadership and Governance Crisis",
-    "whyMatters": "This article is crucial for civil service aspirants as it dissects the core issue of moral deficiency in leadership, which directly impacts governance outcomes. It highlights the distinction between legal permissibility and moral legitimacy, offering a critical framework for analyzing institutional failures and proposing ethical reforms.",
-    "summary": [
-      "Countries with similar legal and democratic frameworks achieve radically different outcomes primarily due to a ruling class deeply deficient in character, values, and moral responsibility.",
-      "History demonstrates that laws, in themselves, are insufficient; practices like slavery or segregation were once legal but inherently unjust, proving that legality alone cannot legitimize actions violating fundamental principles of equality, dignity, and justice.",
-      "Pakistan faces a severe moral and institutional crisis where its ruling elite operates with remarkable immorality, exploiting legal loopholes for self-enrichment, self-projection, and wastefulness, despite adequate laws addressing equality and safety.",
-      "The urgent need for Pakistan is a 'moral consensus' to reject practices that, though legally permissible, are immoral, unequal, undignified, unsafe, or irresponsible, such as lavish state expenditures, excessive perks, self-publicity, and reliance on foreign aid."
-    ],
-    "facts": [
-      "Ontario's premier purchased a 10-year-old jet for C$28 million, which was returned after public criticism, while a Pakistani chief minister acquired a new Gulfstream 500 (twice as expensive) and vowed to keep it.",
-      "48% of the people in a country (implied Pakistan) fall in the 'extremely poor' category.",
-      "14 newborn babies burnt to death in a hospital fire in Islamabad with initial lack of accountability, contrasting with the resignation of a Tennessee corrections commissioner on grounds of moral responsibility after a botched execution."
-    ],
-    "academicReferences": [
-      "Transparency International's Corruption Perception Index (CPI)",
-      "Constitution of Pakistan (specifically articles pertaining to fundamental rights, good governance, and public office)",
-      "National Accountability Ordinance, 1999 (NAO)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Impervious",
-        "type": "adjective",
-        "definition": "Unable to be affected by; not allowing passage through.",
-        "sentence": "The ruling elite has remained resolutely impervious to any of these considerations."
-      },
-      {
-        "word": "Sycophantic",
-        "type": "adjective",
-        "definition": "Behaving or done in an excessively flattering and subservient way to gain advantage.",
-        "sentence": "Even when approved by a sycophantic finance department, such expenditures are wasteful."
-      },
-      {
-        "word": "Reprehensible",
-        "type": "adjective",
-        "definition": "Deserving censure or condemnation; morally objectionable.",
-        "sentence": "Naming every building after a serving politician is morally reprehensible."
-      },
-      {
-        "word": "Pathological",
-        "type": "adjective",
-        "definition": "Relating to or caused by disease; characterized by an unhealthful compulsion.",
-        "sentence": "Not to mention that pathological addiction of borrowing and begging from foreign donors."
-      },
-      {
-        "word": "Forthwith",
-        "type": "adverb",
-        "definition": "Immediately; without delay.",
-        "sentence": "Sending workers into sewage gutters...needs to be eliminated forthwith."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary reason identified by the author for widely different outcomes in countries with similar legal frameworks?",
-        "options": [
-          "Economic disparities and resource distribution.",
-          "A ruling class deeply deficient in character, values, and moral responsibility.",
-          "Variations in their constitutional structures.",
-          "The influence of international organizations."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'The ones doing poorly can be recognised by a distinct common denominator: a ruling class deeply deficient in character, values, and moral responsibility.'"
-      },
-      {
-        "question": "According to the article, what is the fundamental flaw of laws when devoid of morality?",
-        "options": [
-          "They become too complicated to implement effectively.",
-          "They find enough loopholes to justify abuse.",
-          "They frequently lead to political instability.",
-          "They are often ignored by the general populace."
-        ],
-        "answerIndex": 1,
-        "explanation": "The author directly states, 'Laws devoid of morality find enough loopholes to justify abuse' and provides historical context for this claim."
-      },
-      {
-        "question": "Which of the following is NOT suggested as a morally reprehensible but potentially legally sanctioned practice in Pakistan?",
-        "options": [
-          "Excessive self-sanctioned salaries and perks for government officials.",
-          "Billions of rupees spent on self-publicity by politicians.",
-          "Naming public infrastructure after serving politicians.",
-          "Implementing comprehensive tax reforms to broaden the tax base."
-        ],
-        "answerIndex": 3,
-        "explanation": "The article critiques excessive salaries, self-publicity, and naming structures after politicians. Implementing tax reforms is generally considered a positive governance measure, not a morally reprehensible act highlighted in the article."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the key distinction the article draws between legal permissibility and moral legitimacy?",
-        "back": "The article argues that practices can be legally permitted (e.g., slavery, child labor historically) but inherently unjust and morally decadent, demonstrating that legality alone cannot legitimize actions violating fundamental principles of equality, dignity, safety, and justice."
-      },
-      {
-        "front": "How does the article characterize governance in Pakistan under its ruling elite?",
-        "back": "Governance in Pakistan has become synonymous with self-enrichment, self-projection, and self-indulgence, with the ruling elite remaining impervious to considerations of equality, safety, and dignity despite adequate laws."
-      },
-      {
-        "front": "What specific 'moral consensus' does the author advocate for Pakistan?",
-        "back": "Pakistan needs a moral consensus to reject practices that, while legally permissible, are immoral, unequal, undignified, unsafe, and irresponsible. Examples include luxury expenditures, excessive perks, self-publicity, and demeaning reliance on foreign aid."
-      },
-      {
-        "front": "What ultimate solution does the author propose for Pakistan's moral and institutional crisis, beyond new laws or leaders?",
-        "back": "An agenda for moral reforms that binds rulers to higher standards of conduct, rather than seeking new laws, new faces, or new messiahs, to weed out immorality amongst leaders."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792375877297-867",
-    "title": "Export imperative\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2037980/export-imperative",
-    "date": "2026-10-18",
-    "author": "none@none.com (Editorial)",
-    "content": "THE government’s efforts to boost Pakistan’s external sector through diversified financing, higher foreign exchange reserves, and improved access to international capital markets are welcome. After years of recurring balance-of-payment crises, the country needs a more reliable strategy to meet its foreign currency obligations. But can Pakistan achieve lasting stability without substantially increasing its capacity to earn foreign exchange? At a meeting with the US Treasury under-secretary in Bangkok, Finance Minister Muhammad Aurangzeb discussed the country’s economic outlook, reform agenda, and external financing strategy. In recent months, Pakistan’s access to international capital markets has significantly increased as reflected by the Panda and Eurobond issues this year. But improved access to international debt markets should not be confused with the capacity to generate foreign exchange through exports and FDI.\nDiversifying creditors and financing channels can reduce reliance on individual lenders but cannot remove repayment obligations. The government’s stress on export-led growth, IT exports, and competitiveness is, therefore, welcome. The challenge is to translate these ambitions into sustained results. Foreign exchange reserves provide a useful buffer, while fiscal discipline has helped restore confidence. However, reserves can be drawn down by debt repayments, energy imports, and capital outflows. Primary budget surpluses also exclude interest payments, which consume a substantial share of public revenue. Both achievements matter, but neither substitutes for stronger export earnings. Geopolitical tensions and volatile energy prices further complicate matters. Pakistan cannot build a durable external position through periodic bond issues, bilateral support, and rollover of obligations. Ultimately, it needs cheaper energy, competitive industrial inputs, a broader export base, and policies that encourage investment. Textile exports must move towards higher-value products, while IT, agricultural processing, and other tradable sectors need steady support. The real test is to build an economy that can finance more of its own needs.\nPublished in Dawn, October 18th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2023-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2023,
-      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
-    },
-    "suitable": true,
-    "relevanceScore": 78,
-    "paper": "Pakistan Affairs",
-    "topic": "Pakistan's External Sector, Balance of Payments, and Export-Led Growth Strategy",
-    "whyMatters": "This article directly addresses the core themes of the exam question regarding Pakistan's Balance-of-Payments constraint and the critical role of export performance. It provides contemporary analysis, governmental efforts, and long-term solutions essential for a high-scoring answer.",
-    "summary": [
-      "Pakistan faces recurring balance-of-payment crises, necessitating a reliable strategy to meet its foreign currency obligations and achieve lasting economic stability.",
-      "While governmental efforts like diversified financing and improved access to international debt markets are welcome, they are not a substitute for earning foreign exchange through sustained exports and Foreign Direct Investment (FDI).",
-      "A durable external position requires fundamental structural reforms including cheaper energy, competitive industrial inputs, a broader export base, and policies that actively encourage investment.",
-      "The long-term solution lies in genuine export-led growth, specifically by moving textile exports towards higher-value products and providing steady support to IT, agricultural processing, and other tradable sectors."
-    ],
-    "facts": [
-      "Pakistan's recent access to international capital markets has significantly increased, reflected by Panda and Eurobond issues this year.",
-      "Foreign exchange reserves provide a useful buffer but are vulnerable to depletion by debt repayments, energy imports, and capital outflows.",
-      "Primary budget surpluses, while restoring confidence, exclude substantial interest payments that consume a significant share of public revenue."
-    ],
-    "academicReferences": [
-      "IMF Reports on Pakistan's Economic Outlook and Reform Agenda (e.g., Article IV Consultations)",
-      "Economic Survey of Pakistan (Latest Edition, published by Ministry of Finance)",
-      "World Bank's Pakistan Development Updates and Country Economic Memorandums"
-    ],
-    "vocabulary": [
-      {
-        "word": "imperative",
-        "type": "noun",
-        "definition": "an essential or urgent thing; a crucial necessity.",
-        "sentence": "Increasing exports has become an economic imperative for Pakistan to overcome its balance-of-payments issues."
-      },
-      {
-        "word": "diversified financing",
-        "type": "noun phrase",
-        "definition": "obtaining funds from a variety of sources or creditors to reduce reliance on a single one.",
-        "sentence": "The government's strategy included diversified financing to lessen dependence on specific international lenders."
-      },
-      {
-        "word": "fiscal discipline",
-        "type": "noun phrase",
-        "definition": "prudent management of government revenues and expenditures, aiming for financial stability and avoiding excessive debt.",
-        "sentence": "Restoring fiscal discipline has helped in gaining investor confidence, but it is not a substitute for export earnings."
-      },
-      {
-        "word": "tradable sectors",
-        "type": "noun phrase",
-        "definition": "industries that produce goods and services that can be bought and sold across international borders (e.g., manufacturing, agriculture, IT services).",
-        "sentence": "Pakistan needs to boost its tradable sectors like IT and agricultural processing to enhance foreign exchange earnings."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What does the article primarily identify as the ultimate solution for Pakistan to build a durable external position?",
-        "options": [
-          "Periodic bond issues and bilateral support",
-          "Substantially increasing its capacity to earn foreign exchange through exports and FDI",
-          "Higher foreign exchange reserves through borrowing",
-          "Primary budget surpluses alone"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that while other measures are useful, 'Ultimately, it needs cheaper energy, competitive industrial inputs, a broader export base, and policies that encourage investment' and earlier critiques that debt markets are not a substitute for earning foreign exchange."
-      },
-      {
-        "question": "Which of the following is NOT mentioned as a factor that draws down foreign exchange reserves?",
-        "options": [
-          "Debt repayments",
-          "Energy imports",
-          "Capital outflows",
-          "Increased remittances from abroad"
-        ],
-        "answerIndex": 3,
-        "explanation": "The article mentions debt repayments, energy imports, and capital outflows as factors that draw down reserves. Increased remittances would typically boost reserves, not deplete them."
-      },
-      {
-        "question": "According to the article, improved access to international debt markets should not be confused with what?",
-        "options": [
-          "Fiscal discipline",
-          "The capacity to generate foreign exchange through exports and FDI",
-          "Higher foreign exchange reserves",
-          "Diversified financing channels"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article clearly states: 'But improved access to international debt markets should not be confused with the capacity to generate foreign exchange through exports and FDI.'"
-      },
-      {
-        "question": "The article suggests that Pakistan's textile exports must move towards what for enhanced competitiveness?",
-        "options": [
-          "Lower-cost, bulk production",
-          "Government subsidies and protection",
-          "Higher-value products",
-          "Exclusive focus on domestic consumption"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Textile exports must move towards higher-value products, while IT, agricultural processing, and other tradable sectors need steady support.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core distinction the article makes regarding Pakistan's recent access to international capital markets?",
-        "back": "Access to international debt markets (Panda and Eurobond issues) should not be confused with the capacity to generate foreign exchange through exports and FDI, as the latter is critical for true stability."
-      },
-      {
-        "front": "Why does the article argue that foreign exchange reserves and primary budget surpluses are insufficient for long-term economic stability?",
-        "back": "Reserves are drawn down by debt, energy imports, and capital outflows, while primary surpluses exclude interest payments. Neither fundamentally substitutes for stronger, sustained export earnings."
-      },
-      {
-        "front": "What are the key structural requirements identified by the article for Pakistan to build a 'durable external position'?",
-        "back": "A durable external position requires cheaper energy, competitive industrial inputs, a broader export base, and policies that encourage investment, moving beyond periodic debt issues and rollovers."
-      },
-      {
-        "front": "Which specific economic sectors does the article identify as crucial for Pakistan's export-led growth strategy?",
-        "back": "The article emphasizes moving textile exports towards higher-value products and providing steady support to IT, agricultural processing, and other tradable sectors."
       }
     ]
   }
