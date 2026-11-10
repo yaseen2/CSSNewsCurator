@@ -1,5 +1,617 @@
 [
   {
+    "id": "curated-1794286600413-569",
+    "title": "Economic ills",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043440/economic-ills",
+    "date": "2026-11-10",
+    "author": "none@none.com (Dr Niaz Murtaza)",
+    "content": "DESPITE an oversold stabilisation, many of our economy’s vital signs continue to falter. The economy resembles a patient out of the ICU but still in hospital.\nSince 2024, our per capita GDP growth has been near zero — sadly, South Asia’s slowest recorded pace. Even our recent growth spurts, brief and import-led, have given way to longer busts, draining reserves and sending us back to the IMF’s tough terms that extend low growth.\nOnce near the region’s top performers in per capita GDP, we now risk falling to the bottom. As incomes stall, poverty rises. Our extreme poverty rate (23 per cent) is near the bottom regionally. It’s about 10 times India’s, against near parity in 2011.\nOur GDP’s composition tells a bleak tale too. It’s consumption-heavy (82pc) but investment-light (14pc) — on both counts among the region’s worst. India and China invest over 30pc of GDP, creating jobs and capacity for today and later — much better than our consumption binges. Limiting job, technology, and export growth, industry’s share has been nearly a fifth for over 50 years versus a quarter in India and Sri Lanka and a third in Bangladesh.\n    \nLow investment causes low growth, but its origins and destinations matter too. We court foreign capital while ignoring local capital. Foreign capital must earn and save more dollars than it repatriates and create jobs and local capacity. But we get it mostly in domestic sectors, which later depletes reserves.\nUnlike our peers, we chase a few rich states for capital rather than prioritising diversified private capital. We shun creative ways to boost local savings and capital. So, we remain capital-starved — yet we quickly drain reserves and risk the haughty whims of rich states.\nCapital droughts in export sectors cause dollar and job droughts. From a peak of 17pc in 1992, exports now barely reach a tenth of our GDP — South Asia’s second-lowest share, below even Afghanistan’s. Low-quality compounds low quantity. Harvard’s Economic Complexity Index ranks us 89th among 145 states. So our exports face intense competition but return little. Exports rarely cover imports, creating large trade gaps.\nDreary metrics mirror a sinking economy.\nRemittances partly plug the gap. But exports keep workers at home and families intact, create jobs, earn dollars, and pay taxes.\nRemittances separate families and often don’t create jobs or pay taxes directly. They frequently fuel consumption, while exports are fuelled by investment. Remittances now almost equal our exports, as it is easier to send workers abroad than goods (India earns six times as much from exports as from remittances). Even so, we often run large external deficits that lead to a crisis as booms turn into busts.\nLow growth and weak efforts leave our coffers lean. Tax revenues barely reach 11pc of GDP — which is among South Asia’s lowest. Indirect anti-poor taxes provide about half our tax target, down from about two-thirds in 2021-22. New direct taxes further burden the wallets of salaried persons and formal industry, while favoured sectors pay low taxes. Spending prioritises upkeep over uplift. Expenditure hogs over 90 paisas out of every federal budget rupee; development consoles itself with just five.\nThese twin deficits force us to keep our borrowing bowl out. Our public debt-to-GDP ratio of 73pc is lower than the Japanese and Singaporean levels of over 150pc. But our repayment muscle better depicts our debt overhang.\n    \nOn the share of federal outlays spent on interest alone, we rank among the worst globally. We use debt not only to invest or meet recurrent expenses but also to beef up rese­rves. IMF debt and deposits by rich states, which impose odious economic and political conditions on us, now exceed even our highest-ever reserves. These dre­ary metrics mirror a sinking economy. Low investment and import-led growth widen the twin deficits to swell debt. Interest outlays then leave little money for growth, creating a vicious circle.\nA weak economy reflects perverse politics. Poor countries need both a developmental and a welfare state. Ours is a parasitic and apathetic state run by rapacious rulers. This isn’t a tragedy of ineptitude alone: willing rulers can easily hire merit. It’s a deliberate design by kleptocrats who may lose their wealth and power if there is real progress.\nNor is this the tale of a few eras. Our autocracies, too, delivered short-term growth, leading to conflict and undercutting future progress. Ideas abound on how to pursue sound progress, but minds that will champion and implement them well do not. Only democracy and civilian sway will bring such minds to the helm of affairs.\nThe writer has a PhD degree in political economy from the University of California, Berkeley, and 30 years of grassroots to senior-level experience across 50 countries.\nmurtazaniaz@yahoo.com\nX: @NiazMurtaza2\nPublished in Dawn, November 10th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2016-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2016,
+      "question": "What measures would you suggest to improve the economy of Pakistan particularly in the areas of debt reduction and enhancing export capacity?"
+    },
+    "suitable": true,
+    "relevanceScore": 94,
+    "paper": "Pakistan Affairs",
+    "topic": "Economic Challenges and Solutions for Pakistan",
+    "whyMatters": "This article is highly relevant for the given exam question as it dissects the root causes of Pakistan's economic woes, particularly low export capacity and high debt. It provides critical statistics and structural analyses that aspirants can leverage to formulate comprehensive answers on these specific issues, offering both diagnostic insights and implicit policy recommendations.",
+    "summary": [
+      "Pakistan's economy suffers from near-zero per capita GDP growth and rising poverty, marked by consumption-heavy and investment-light GDP composition, resulting in slow growth and dependence on imports.",
+      "Low investment, especially in export sectors, coupled with a focus on domestic rather than diversified private capital, has drastically reduced Pakistan's export share and quality, leading to persistent trade deficits.",
+      "Lean tax revenues (11% of GDP), a high proportion of indirect taxes, and spending priorities skewed towards upkeep over development contribute to large twin deficits and a vicious cycle of increasing public debt.",
+      "The author attributes these economic ills primarily to a 'parasitic and apathetic state' run by 'kleptocrats,' arguing that deliberate design, not mere ineptitude, prevents real progress and requires genuine democracy and civilian leadership."
+    ],
+    "facts": [
+      "Per capita GDP growth near zero since 2024, the slowest in South Asia.",
+      "Extreme poverty rate: 23%, about 10 times India's (was near parity in 2011).",
+      "GDP composition: 82% consumption, 14% investment – among the region's worst.",
+      "Exports as % of GDP: barely 10% (down from 17% in 1992), South Asia's second-lowest.",
+      "Harvard's Economic Complexity Index ranks Pakistan 89th among 145 states.",
+      "Tax revenues: barely 11% of GDP, among South Asia’s lowest.",
+      "Public debt-to-GDP ratio: 73%.",
+      "Federal budget expenditure: Over 90 paisas for upkeep, just 5 for development."
+    ],
+    "academicReferences": [
+      "IMF Country Reports on Pakistan (e.g., latest Article IV Consultation Report)",
+      "World Bank's Pakistan Development Update",
+      "Economic Survey of Pakistan (Ministry of Finance)",
+      "Ishrat Husain's 'Pakistan: The Economy of an Elitist State'"
+    ],
+    "vocabulary": [
+      {
+        "word": "Falter",
+        "type": "verb",
+        "definition": "To lose strength or momentum; to stumble.",
+        "sentence": "Despite claims of stability, many of our economy’s vital signs continue to falter."
+      },
+      {
+        "word": "Kleptocrats",
+        "type": "noun",
+        "definition": "Rulers who use their political power to steal their country's resources.",
+        "sentence": "It’s a deliberate design by kleptocrats who may lose their wealth and power if there is real progress."
+      },
+      {
+        "word": "Rapacious",
+        "type": "adjective",
+        "definition": "Aggressively greedy or grasping.",
+        "sentence": "Ours is a parasitic and apathetic state run by rapacious rulers."
+      },
+      {
+        "word": "Overhang",
+        "type": "noun",
+        "definition": "An excess supply or amount of something that causes a problem or burden.",
+        "sentence": "Our repayment muscle better depicts our debt overhang."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is Pakistan's per capita GDP growth rate since 2024?",
+        "options": [
+          "Near zero",
+          "1-2%",
+          "3-4%",
+          "Over 5%"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article states: 'Since 2024, our per capita GDP growth has been near zero — sadly, South Asia’s slowest recorded pace.'"
+      },
+      {
+        "question": "What is the primary characteristic of Pakistan's GDP composition highlighted in the article?",
+        "options": [
+          "Export-driven and innovation-led",
+          "Consumption-heavy and investment-light",
+          "Service-dominated and agriculture-focused",
+          "Balanced between all sectors"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'It’s consumption-heavy (82pc) but investment-light (14pc) — on both counts among the region’s worst.'"
+      },
+      {
+        "question": "What is Pakistan's approximate share of exports in its GDP, as mentioned in the article?",
+        "options": [
+          "17%",
+          "Over 20%",
+          "Barely a tenth (10%)",
+          "Less than 5%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article notes: 'From a peak of 17pc in 1992, exports now barely reach a tenth of our GDP — South Asia’s second-lowest share.'"
+      },
+      {
+        "question": "What does the author identify as the fundamental cause of Pakistan's economic problems, beyond mere ineptitude?",
+        "options": [
+          "Lack of foreign investment",
+          "Global economic slowdowns",
+          "A parasitic and apathetic state run by kleptocrats",
+          "Over-reliance on agriculture"
+        ],
+        "answerIndex": 2,
+        "explanation": "The author concludes: 'A weak economy reflects perverse politics. Poor countries need both a developmental and a welfare state. Ours is a parasitic and apathetic state run by rapacious rulers.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the main reasons for Pakistan's low export capacity as identified in the article?",
+        "back": "Low investment (especially in export sectors), poor export quality (ranked 89th on Economic Complexity Index), focus on foreign capital in domestic sectors rather than diversified private capital, and low share of industry in GDP for over 50 years."
+      },
+      {
+        "front": "How does the article link Pakistan's consumption-heavy economy to its external deficits?",
+        "back": "A consumption-heavy economy (82% of GDP) often relies on imports to satisfy demand, quickly draining foreign reserves and widening the trade gap, especially when exports are low. Remittances, while plugging gaps, also frequently fuel consumption rather than investment."
+      },
+      {
+        "front": "Explain the 'vicious circle' of debt that the article describes for Pakistan.",
+        "back": "Low investment and import-led growth widen the twin deficits (fiscal and current account), which in turn swell public debt. High interest outlays on this debt then leave very little money for development and growth, perpetuating the cycle."
+      },
+      {
+        "front": "What does the author propose as the ultimate solution to Pakistan's deep-seated economic issues, moving beyond superficial fixes?",
+        "back": "The author argues that the economic ills stem from 'perverse politics' and a 'parasitic and apathetic state' run by 'kleptocrats'. The solution lies in democracy and civilian sway to bring competent minds to the helm, as current issues are a 'deliberate design' preventing progress."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794287059318-607",
+    "title": "Extreme heat",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043437/extreme-heat",
+    "date": "2026-11-10",
+    "author": "none@none.com (Editorial)",
+    "content": "CLIMATE change is already taking its toll on Pakistan’s farm sector. Crop yields are falling, livestock productivity is declining, fertile land is becoming uncultivable, and food insecurity is rising. Alongside, rural incomes are shrinking, and both cash and food poverty are increasing. It is against this backdrop that a new UN assessment — Extreme Heat and Agriculture — by the Food and Agriculture Organisation and the World Meteorological Organisation has sought to underscore the rapid erosion of farm productivity, especially in rain-fed regions, and its impact on rural households owing to rising temperatures across the country. The findings are particularly worrying for Punjab, where frequent and severe heatwaves are disrupting rural livelihoods. Fruit productivity in the province’s high-rainfall areas has halved. Livestock is suffering, with heat stress reducing milk production and increasing the incidence of diseases among small ruminants. The consequences are not confined to farms. Lower output means reduced incomes for farming households, with extreme temperatures accelerating the spoilage of vegetables, dairy products, and other perishables. Families earn and eat less. Gender inequality deepens the problem. Rural women, who undertake considerable agricultural and household work, face prolonged exposure to extreme temperatures. Pregnant and lactating women are particularly vulnerable, with a sharp increase in the risk of premature births during severe heatwaves.\nHowever, climate adaptation is yet to find a place in our agricultural policies. The effects of rising temperatures on the sector that sustains two-thirds of the population cannot be mitigated with input subsidies, crop support prices, or procurement targets. Farmers need heat-resistant crop varieties, better water management technology, and access to modern farming machinery. Investment in cold storage, efficient supply chains and public and livestock health services is equally important. Agricultural research requires greater private investment and better human resources. Without tweaking policies to respond to the climate challenge, repeated heatwaves will erode productivity, making farming less viable for smallholders. The problem crosses the border. Both sides of Punjab face the same climate challenges, requiring Pakistan and India to cooperate on farm resilience. Heat is already cutting into rural incomes and into what families can afford to eat. Farm policies that ignore it will fail the people they are meant to support.\nPublished in Dawn, November 10th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Environmental Science / Economics",
+    "topic": "Climate Change Impacts on Agriculture & Food Security",
+    "whyMatters": "This article provides a contemporary case study of climate change's direct impact on Pakistan's economy and social fabric, specifically agriculture. It offers critical facts and policy recommendations vital for essays and analytical questions on climate adaptation, food security, and rural development.",
+    "summary": [
+      "Climate change, particularly extreme heat, is severely degrading Pakistan's agricultural sector, leading to falling crop yields, declining livestock productivity, uncultivable land, and rising food insecurity and poverty.",
+      "A UN assessment by FAO and WMO confirms rapid erosion of farm productivity, especially in rain-fed regions like Punjab, where heatwaves have halved fruit productivity and reduced livestock output.",
+      "Current agricultural policies (e.g., input subsidies, crop support prices) are inadequate; a paradigm shift towards climate adaptation, including heat-resistant crops, better water management, cold storage, and increased research investment, is essential.",
+      "The socio-economic consequences extend beyond farms, exacerbating gender inequality and impacting vulnerable groups, while policy inaction risks making farming unviable for smallholders and necessitates cross-border cooperation."
+    ],
+    "facts": [
+      "Fruit productivity in Punjab's high-rainfall areas has halved due to frequent and severe heatwaves.",
+      "The agricultural sector sustains two-thirds of Pakistan’s population.",
+      "Pregnant and lactating women face a sharp increase in the risk of premature births during severe heatwaves."
+    ],
+    "academicReferences": [
+      "Food and Agriculture Organisation (FAO) / World Meteorological Organisation (WMO) report \"Extreme Heat and Agriculture\"",
+      "Pakistan's National Climate Change Policy (2012) and updated Nationally Determined Contributions (NDCs)",
+      "United Nations Sustainable Development Goal 2 (Zero Hunger) and Goal 13 (Climate Action)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Erosion",
+        "type": "noun",
+        "definition": "The gradual destruction of something.",
+        "sentence": "The rapid erosion of farm productivity is a direct consequence of rising temperatures."
+      },
+      {
+        "word": "Uncultivable",
+        "type": "adjective",
+        "definition": "Land that cannot be used for growing crops.",
+        "sentence": "Due to extreme heat and water scarcity, fertile land is becoming uncultivable."
+      },
+      {
+        "word": "Mitigated",
+        "type": "verb",
+        "definition": "To make something less severe, serious, or painful.",
+        "sentence": "The effects of rising temperatures cannot be mitigated with conventional input subsidies alone."
+      },
+      {
+        "word": "Viable",
+        "type": "adjective",
+        "definition": "Capable of working successfully; feasible.",
+        "sentence": "Without tweaking policies, repeated heatwaves will make farming less viable for smallholders."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, which of the following is explicitly stated as *not* an effective measure to mitigate the effects of rising temperatures on the agricultural sector?",
+        "options": [
+          "A) Investment in cold storage",
+          "B) Provision of input subsidies",
+          "C) Development of heat-resistant crop varieties",
+          "D) Access to modern farming machinery"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'The effects of rising temperatures on the sector...cannot be mitigated with input subsidies, crop support prices, or procurement targets.' It advocates for adaptation measures instead."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the key consequences of extreme heat on Punjab's agricultural sector mentioned in the article?",
+        "back": "Halved fruit productivity in high-rainfall areas, reduced milk production, increased disease incidence among small ruminants, and accelerated spoilage of perishables."
+      },
+      {
+        "front": "How does extreme heat deepen gender inequality in rural households according to the article?",
+        "back": "Rural women face prolonged exposure due to extensive agricultural and household work, and pregnant/lactating women are particularly vulnerable with an increased risk of premature births during heatwaves."
+      },
+      {
+        "front": "Name three policy changes or investments proposed in the article to address the impact of extreme heat on agriculture.",
+        "back": "Heat-resistant crop varieties, better water management technology, access to modern farming machinery, investment in cold storage, efficient supply chains, and improved public and livestock health services."
+      },
+      {
+        "front": "What cross-border cooperation is highlighted as necessary to combat climate challenges in agriculture?",
+        "back": "Pakistan and India need to cooperate on farm resilience, particularly in their respective Punjab regions, as both sides face the same climate challenges."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794286684129-114",
+    "title": "Missing discussion",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043439/missing-discussion",
+    "date": "2026-11-10",
+    "author": "none@none.com (Naseer Memon)",
+    "content": "IN contrast to official claims of economic stability, a series of recently released reports provide disturbing evidence of deepening poverty and a human development crisis in Pakistan.\nAccording to the World Bank’s Pakistan Poverty and Equity brief, the national poverty rate spiralled from 22 per cent in 2018-19 to 29pc in 2024-25 — meaning that about 70 million poor people across the country live below the national poverty line. The Gini index, a measure of economic inequality, has increased from 28.4pc to 32.7pc, the highest in 25 years. The World Bank’s regional economic outlook reported that Pakistan is home to about half of the MENAAP region’s population that falls under the extremely poor category. The World Bank attributes Pakistan’s reversal in poverty reduction to economic shocks triggered by the Covid-19 pandemic, the devastating 2022 floods, high inflation, and currency depreciation.\nThe UNDP’s 2025 Global Multidimensional Poverty Index reported that 38.3pc of Pakistan’s population (95m people) is multidimensionally poor — deprived not just of cash but also of necessities such as healthcare and education. Another 32m people are vulnerable to multidimensional poverty. Pakistan’s poor population of 38.3pc dwarfed India’s 16.4pc and Bangladesh’s 14.9pc.\nThe alarming scale of deprivation was also reflected in the 2026 Global Hunger Index, which placed Pakistan 106th among 122 countries. Pakistan has the highest hunger score in South Asia. The report attributes food price inflation to declining household purchasing power and constrained access to food. It finds that undernourishment in the country climbed from ‘low’ in 2018 to ‘medium’, while child wasting has risen towards the ‘high’ threshold.\nPoverty is rooted in decades of misguided public policy.\nAll these reports reflect the severity of the crisis. A nationally representative mental health survey (2018-22), published in the British Medical Journal, revealed distressing facts. The survey found that every third Pakistani lives with a diagnosable mental or behavioural disorder; one in five meets the criteria for post-traumatic stress disorder. A shocking 6pc reported suicidal thoughts, and more than one in 10 had depression. Such staggering rates of mental disorders have been linked to lower income and poor education, unemployment, age, and disrupted family circumstances.\nHuman development has remained a chronically ignored priority in Pakistan. The UNDP’s Human Development Report 2025 placed Pakistan 168th out of 193 countries appearing in the ‘low’ human development category. Except for Afghanistan, all regional countries ranked ahead of Pakistan on the Human Development Index.\nPoverty is rooted in decades of misguided public policy and bad governance. Human development has been given cosmetic importance — the subject is mostly confined to official speeches and election manifestos. Although Covid-19, the floods, and broader climate change have battered the economy, human development seldom features on the government’s list of priorities. Geopolitical and ongoing border tensions, and more recently the Gulf war shocks, have diverted resources and attention from human development to security priorities. The issue has been further compounded by internal security challenges that have held back exports and stifled foreign investment. Terrorism in two provinces and the poor law and order situation have shattered local investments. This environment has forced many foreign companies to pack up and withdraw capital from our markets.\nAgriculture — for long the bedrock of the national economy and a source of food security for millions — has been systematically eroded in recent decades. Sha­rp increases in agri-input prices, a poorly managed water sector, rapid land degradation, and exploitative market forces have wrecked this critical sector. Soaring energy prices, an unreliable grid, and a huge tax burden, including petroleum surcharges, have made energy exorbitant for the farm sector. Crippling increases in petroleum prices have pushed up transport fares, raising the cost of the farm-to-market supply chain. The resulting food inflation has forced millions of families to compromise on their diet.\nSadly, even though poverty and hunger have emerged as an existential challenge for millions of families in Pakistan, a national focus on these issues is absent. These issues rarely find space in the national discourse — especially on electronic media, which remains abuzz with hysterical talk shows on subjects like governor’s rule and new provinces. Distracting the masses from the real issues and failing to include critical report findings will not reduce the citizens’ frustration.\nThe writer is senior adviser, water governance, at the Sustainable Development Policy Institute.\nnaseer_memon@sdpi.org\nPublished in Dawn, November 10th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2020-CLIM",
+      "paper": "Pakistan Affairs",
+      "year": 2020,
+      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
+    },
+    "suitable": true,
+    "relevanceScore": 89,
+    "paper": "Pakistan Affairs",
+    "topic": "Socio-Economic Challenges, Governance, and Human Development in Pakistan",
+    "whyMatters": "While this article focuses on the broad human development and poverty crisis in Pakistan, it implicitly highlights the underlying vulnerabilities and governance deficits that exacerbate the impacts of global climate change on water resources. It also underscores how climate-induced events (like the 2022 floods) contribute to widespread poverty, food insecurity, and economic instability, forming a crucial backdrop for discussing the specific impacts on water and inter-provincial harmony.",
+    "summary": [
+      "Pakistan faces a severe and deepening human development and poverty crisis, with national poverty rates spiraling and a significant portion of the population experiencing multidimensional poverty.",
+      "The crisis is attributed to economic shocks (Covid-19, 2022 floods, high inflation, currency depreciation), decades of misguided public policy, bad governance, and the chronic neglect of human development.",
+      "Mental health issues are rampant, agricultural productivity is declining due to systemic neglect and resource mismanagement, and food insecurity is at alarming levels, all contributing to widespread deprivation.",
+      "Despite the existential nature of these challenges, they are largely absent from national discourse and policy priorities, overshadowed by security concerns and political distractions."
+    ],
+    "facts": [
+      "National poverty rate: Spiraled from 22% (2018-19) to 29% (2024-25), meaning 70 million people live below the poverty line.",
+      "Multidimensional poverty: 38.3% of Pakistan's population (95 million people) is multidimensionally poor, dwarfing India (16.4%) and Bangladesh (14.9%).",
+      "Global Hunger Index: Pakistan ranked 106th among 122 countries (2026), with the highest hunger score in South Asia.",
+      "Mental health: Every third Pakistani lives with a diagnosable mental or behavioural disorder; 6% reported suicidal thoughts (2018-22 survey)."
+    ],
+    "academicReferences": [
+      "World Bank Pakistan Poverty and Equity Brief (2024-25)",
+      "UNDP Global Multidimensional Poverty Index (2025)",
+      "Global Hunger Index (2026)",
+      "UNDP Human Development Report (2025)",
+      "Economic Survey of Pakistan (latest edition)",
+      "Pakistan's National Climate Change Policy (2012, updated)",
+      "Indus Waters Treaty (1960)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Exacerbate",
+        "type": "verb",
+        "definition": "To make a problem, bad situation, or negative feeling worse.",
+        "sentence": "The lack of timely government intervention will only exacerbate the economic crisis for the poor."
+      },
+      {
+        "word": "Multidimensionally poor",
+        "type": "adjective",
+        "definition": "Experiencing poverty in multiple forms beyond just income, such as lack of access to healthcare, education, and basic services.",
+        "sentence": "The UNDP report highlighted that millions of people are multidimensionally poor, lacking not just cash but also essential necessities."
+      },
+      {
+        "word": "Deprivation",
+        "type": "noun",
+        "definition": "The damaging lack of material benefits considered to be basic necessities in a society.",
+        "sentence": "The alarming scale of deprivation was reflected in the country's poor ranking on the Global Hunger Index."
+      },
+      {
+        "word": "Cosmetic importance",
+        "type": "noun phrase",
+        "definition": "Superficial significance or attention given to something without genuine commitment or substantive action.",
+        "sentence": "Human development has been given cosmetic importance, mostly confined to official speeches rather than tangible policy implementation."
+      },
+      {
+        "word": "Abuzz",
+        "type": "adjective",
+        "definition": "Filled with a continuous humming sound; full of activity or excitement.",
+        "sentence": "The electronic media remains abuzz with hysterical talk shows, diverting attention from critical national issues."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which international organization reported that Pakistan is home to about half of the MENAAP region’s extremely poor population?",
+        "options": [
+          "UNDP",
+          "World Bank",
+          "British Medical Journal",
+          "Sustainable Development Policy Institute"
+        ],
+        "answerIndex": 1,
+        "explanation": "The World Bank’s regional economic outlook reported this fact, as stated in the second paragraph."
+      },
+      {
+        "question": "According to the article, what was Pakistan's rank on the 2026 Global Hunger Index?",
+        "options": [
+          "1st",
+          "50th",
+          "106th",
+          "122nd"
+        ],
+        "answerIndex": 2,
+        "explanation": "The 2026 Global Hunger Index placed Pakistan 106th among 122 countries."
+      },
+      {
+        "question": "The article links staggering rates of mental disorders to which of the following?",
+        "options": [
+          "Only unemployment and age",
+          "Lower income, poor education, unemployment, age, and disrupted family circumstances",
+          "Only Covid-19 pandemic",
+          "Rapid land degradation"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states: 'Such staggering rates of mental disorders have been linked to lower income and poor education, unemployment, age, and disrupted family circumstances.'"
+      },
+      {
+        "question": "What does the author suggest is 'missing' from the national discourse regarding Pakistan's challenges?",
+        "options": [
+          "Discussion on governor's rule",
+          "Talk shows on new provinces",
+          "Focus on poverty and hunger",
+          "Geopolitical and border tensions"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article concludes by stating that a national focus on poverty and hunger is absent from the national discourse, especially on electronic media."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the key trend in Pakistan's national poverty rate according to the World Bank's report?",
+        "back": "The national poverty rate spiraled from 22% in 2018-19 to 29% in 2024-25, meaning 70 million people live below the national poverty line."
+      },
+      {
+        "front": "How does Pakistan's multidimensional poverty rate compare to India and Bangladesh?",
+        "back": "Pakistan's 38.3% multidimensional poverty rate (95 million people) significantly dwarfs India’s 16.4% and Bangladesh’s 14.9%."
+      },
+      {
+        "front": "Identify two major causes the article attributes to Pakistan's reversal in poverty reduction.",
+        "back": "Economic shocks triggered by the Covid-19 pandemic, the devastating 2022 floods, high inflation, and currency depreciation."
+      },
+      {
+        "front": "According to the article, why has agriculture, the 'bedrock' of the economy, been systematically eroded?",
+        "back": "It has been eroded due to sharp increases in agri-input prices, a poorly managed water sector, rapid land degradation, exploitative market forces, soaring energy prices, and a huge tax burden."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794287289009-431",
+    "title": "Served by the court",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043442/served-by-the-court",
+    "date": "2026-11-10",
+    "author": "none@none.com (Arifa Noor)",
+    "content": "LAST week, the newly established Federal Constitutional Court (FCC) gave two noteworthy judgements. Both concerned legal issues of a political nature — the kind that perhaps would have taken up considerable time and energy in the Supreme Court of the olden days, along with detailed coverage by the media. But those were different times; at present, the cases progressed quietly and the decisions came without much bang or thunder.\nIn one case, the court settled an election dispute that has been going on for the past two years. Back in 2024, the JUI-F had disputed the notification of a woman to one of its reserved seats. It claimed that the woman who had been notified simply shared the first name — Sadaf — with the woman mentioned on the party’s list. The woman on the JUI-F list, Sadaf Yasmin, had decided against submitting her papers due to personal reasons; however, a woman called Sadaf Ihsan (with whom the party says it has no connection) submitted her papers and got nominated by the ECP for the seat. The JUI-F claims Ihsan impersonated Sadaf Yasmin despite having a different name and was somehow identified as the latter.\nWhen this was pointed out to the Election Commission of Pakistan, not only did it withdraw the announcement, but also suspended the official who issued the notification. This was reported in Dawn. But the matter didn’t end there. Sadaf Ihsan approached the Peshawar High Court (PHC) and was reinstated. The party then challenged the decision in the Supreme Court, winning reprieve for itself. Ihsan was suspended. But the relief was simply an interim order, and once the FCC was established, the file was transferred to it.\nThe FCC sent the case back to the ECP, which in January this year reinstated Sadaf Ihsan in the seat. This past week, the JUI-F’s appeal against this decision was dismissed by the FCC. Ihsan is now a JUI-F MNA, while the party continues to insist that she is not a member and was never on the list submitted to the ECP. Ihsan, according to a report on the Fafen website, claims she and her family are associated with the party.\nThree cases, three judgements. But they reveal quite a lot of what the court appears to stand for.\nIt now appears the decision is final and no appellate forums remain. Another interesting aspect of this case is that this seat was given to the JUI-F after the decision that deprived the PTI of reserved seats.\nIn a second case, the FCC has apparently stopped the PHC from hearing cases regarding the custody or arrest of PTI workers. With the imposition of the emergency in KP and a crackdown against the party in the province, multiple cases concerning the whereabouts or bail of PTI members ended up in the PHC, which then passed an interim order preventing such detentions.\nAs in many cases, bail had also been granted; the provincial government challenged them in the FCC. According to one report in Dawn, more than 60 cases in which bail had been given were challenged by the KP government in the FCC. After hearing the cases, the FCC stopped the high court from hearing these matters; its argument was that since the army has been called in, in aid of civil power, the court could no longer hear matters under Article 199, which, in layperson’s terms, is equivalent to what we once saw as the suo motu powers of the Supreme Court.\n    \nAccording to one lawyer’s comment, which he posted on social media, this order means the high court can no longer entertain any writ petitions, which, according to him, is a power the courts continued to enjoy even under martial law regimes. In other words, the order limits the PHC in matters far wider than simply the arrests of and bail for PTI workers. It means the high court cannot hear any matters related to fundamental rights.\nWhile these two cases date back to just the past week, a third judgement is a little older. It had already been discussed in quite a bit of detail in Dawn and elsewhere. But it is still worth mentioning.\n    \nIn a recent case, the FCC seems to have provided a restricted interpretation of workplace harassment. Ignoring past precedents, which had interpreted workplace harassment more liberally, the court has now ruled that harassment is to be limited to actions of an overtly sexual nature; previously, judgements had interpreted the law to include what is defined as gender-based discrimination.\nA piece by Barrister Rida Hosain pointed out that in a previous decision, Justice Ayesha Malik had said that “reducing harassment to conduct that is sexual in nature ‘takes away the essence’ of the harassment law, and ignores that harassment is often less about sexual interest and more about reinforcing existing power dynamics”. Hosain quoted Justice Ayesha Malik as saying that the very “purpose of harassment laws is to address gender-based discrimination at the workplace and not to limit it to sexual forms of harassment”. But the FCC has now seen it differently.\nAnd while the decision drew criticism, it is fortunate that amendments to the law itself have provided a more wide-ranging definition. However, the ruling of the FCC does mean that complainants in incidents or cases that predate the amendment may have to prove harassment according to the FCC’s interpretation. Women lawyers in particular have discussed this issue in detail in articles and commentary that have appeared in Dawn.\nThree cases, three judgements. But they reveal quite a lot of what the FCC appears to stand for — to those of us who have little understanding of the legalese but who do keep an eye on the politics of the country — be it fundamental rights, women’s rights, or perhaps those of political parties. One can only wonder if any of the parliamentarians who voted for these courts have paid any attention to these judgements.\nThe writer is a journalist.\nPublished in Dawn, November 10th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Role of Judiciary in Constitutional Development; Judicial Activism and Restraint; Federal Constitutional Court (FCC) and its Jurisprudence",
+    "whyMatters": "This article provides contemporary examples of the newly established Federal Constitutional Court (FCC) shaping legal and political landscapes in Pakistan. It is crucial for understanding how judicial decisions directly impact fundamental rights, electoral processes, and the balance of power between different judicial tiers and state institutions in Pakistan's ongoing constitutional evolution.",
+    "summary": [
+      "The newly established Federal Constitutional Court (FCC) has issued significant judgments, marking its influence on contemporary legal and political issues in Pakistan.",
+      "In an election dispute, the FCC dismissed the JUI-F's appeal, effectively reinstating Sadaf Ihsan to a reserved MNA seat, despite the party's claims of impersonation and non-membership.",
+      "The FCC halted the Peshawar High Court (PHC) from hearing cases regarding PTI workers' custody and bail, arguing that Article 199 powers are limited when the army aids civil power, which is seen as a restriction on fundamental rights and writ petitions.",
+      "The FCC adopted a restricted interpretation of workplace harassment, limiting it to actions of an overtly sexual nature and diverging from previous liberal interpretations that included gender-based discrimination."
+    ],
+    "facts": [
+      "The Federal Constitutional Court (FCC) is a newly established judicial body, indicating a recent constitutional development in Pakistan.",
+      "The FCC dismissed the JUI-F's appeal, leading to Sadaf Ihsan's reinstatement as an MNA despite the party's claim that she was not on their list and had impersonated another individual.",
+      "The FCC stopped the Peshawar High Court (PHC) from hearing over 60 cases concerning the arrest and bail of PTI workers, citing the army's aid to civil power.",
+      "The FCC's ruling on workplace harassment departed from precedents, including a decision by Justice Ayesha Malik, which had interpreted the law more liberally to include gender-based discrimination."
+    ],
+    "academicReferences": [
+      "Constitution of Pakistan, 1973 (specifically Articles 175-203 concerning the Judiciary and Article 199 for High Court jurisdiction)",
+      "18th Amendment to the Constitution of Pakistan (relevant to judicial appointments, provincial autonomy, and the framework for constitutional courts)",
+      "Judicial Review and Fundamental Rights in Pakistan's Constitutional Framework"
+    ],
+    "vocabulary": [
+      {
+        "word": "Judgements",
+        "type": "noun",
+        "definition": "Formal decisions or pronouncements made by a court of law.",
+        "sentence": "The Federal Constitutional Court gave two noteworthy judgements last week."
+      },
+      {
+        "word": "Reserved seats",
+        "type": "noun",
+        "definition": "Specific legislative seats allocated to particular demographic groups, such as women or minorities, to ensure their representation.",
+        "sentence": "The dispute concerned a woman nominated to one of the JUI-F's reserved seats."
+      },
+      {
+        "word": "Interim order",
+        "type": "noun",
+        "definition": "A temporary court order made while a larger legal case is still ongoing or awaiting a final decision.",
+        "sentence": "The relief granted by the Supreme Court was simply an interim order before the case was transferred to the FCC."
+      },
+      {
+        "word": "Suo motu powers",
+        "type": "phrase",
+        "definition": "Latin for 'on its own motion,' referring to a court taking up a case without a formal petition or request from a party.",
+        "sentence": "Article 199 powers are, in layperson’s terms, equivalent to what we once saw as the suo motu powers of the Supreme Court."
+      },
+      {
+        "word": "Writ petitions",
+        "type": "noun",
+        "definition": "Formal written orders issued by a court, typically in relation to the enforcement of fundamental rights or challenging administrative actions.",
+        "sentence": "A lawyer commented that the FCC's order means the high court can no longer entertain any writ petitions."
+      },
+      {
+        "word": "Precedents",
+        "type": "noun",
+        "definition": "Previous court decisions that serve as a rule, example, or guide for deciding subsequent similar cases.",
+        "sentence": "The FCC's ruling on harassment ignored past precedents that had interpreted the law more liberally."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary implication of the FCC's decision regarding the Peshawar High Court's jurisdiction?",
+        "options": [
+          "It limits the PHC's ability to entertain writ petitions when the army aids civil power.",
+          "It expands the PHC's powers in fundamental rights cases.",
+          "It allows the PHC to hear more cases related to military operations.",
+          "It transfers all PHC cases to the FCC."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that the FCC stopped the high court from hearing matters under Article 199 (writ petitions) because the army had been called in to aid civil power, thereby limiting its jurisdiction in such scenarios."
+      },
+      {
+        "question": "According to the article, what significant change did the FCC introduce in its interpretation of workplace harassment?",
+        "options": [
+          "It broadened the definition to include all forms of discrimination.",
+          "It limited harassment to actions of an overtly sexual nature.",
+          "It made harassment laws applicable only to government employees.",
+          "It abolished the concept of workplace harassment altogether."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article clearly states that the FCC ruled harassment 'is to be limited to actions of an overtly sexual nature,' ignoring past precedents that included gender-based discrimination."
+      },
+      {
+        "question": "The case involving Sadaf Ihsan and the JUI-F primarily concerned:",
+        "options": [
+          "A dispute over a presidential election.",
+          "An allegation of impersonation for a reserved parliamentary seat.",
+          "A legal challenge to the establishment of the FCC.",
+          "The interpretation of blasphemy laws."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article details how the JUI-F disputed the notification of Sadaf Ihsan to one of its reserved seats, claiming she impersonated another woman named on their list."
+      },
+      {
+        "question": "Which constitutional provision is mentioned in the article as being restricted by the FCC's ruling concerning high court powers?",
+        "options": [
+          "Article 2A",
+          "Article 199",
+          "Article 245",
+          "Article 62"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that the FCC argued the high court could no longer hear matters 'under Article 199' once the army had been called in aid of civil power."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the FCC's ruling on the Peshawar High Court's jurisdiction impact the constitutional role of high courts in Pakistan?",
+        "back": "The FCC's ruling restricts the PHC's Article 199 powers (writ petitions/suo motu) when the army aids civil power, thereby limiting the high court's ability to hear matters related to fundamental rights and potentially altering the judicial balance of power."
+      },
+      {
+        "front": "What does the FCC's decision regarding workplace harassment indicate about its approach to interpreting social welfare legislation?",
+        "back": "The FCC's decision indicates a restricted interpretation, limiting harassment solely to overtly sexual actions and ignoring previous, more liberal interpretations that included gender-based discrimination, suggesting a more conservative judicial stance on social welfare laws."
+      },
+      {
+        "front": "In the context of 'constitutional development,' what is the significance of the FCC's establishment and its subsequent judgments, as highlighted by the article?",
+        "back": "The FCC's establishment marks a new phase in Pakistan's constitutional development, with its judgments shaping electoral justice (Sadaf Ihsan case), defining the scope of fundamental rights and high court jurisdiction (PTI workers' case), and reinterpreting social laws (harassment case), thus actively influencing the legal and political framework."
+      },
+      {
+        "front": "How does the article illustrate the judiciary's impact on political parties and electoral processes in Pakistan?",
+        "back": "The article demonstrates this through the Sadaf Ihsan case, where the FCC's final decision validated a controversial MNA nomination against a party's claims, directly impacting party composition and setting a precedent for resolving electoral disputes concerning reserved seats and alleged impersonation."
+      }
+    ]
+  },
+  {
+    "id": "curated-1794286978833-322",
+    "title": "Restructuring plans",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043438/restructuring-plans",
+    "date": "2026-11-10",
+    "author": "none@none.com (Editorial)",
+    "content": "NO matter how strongly the PPP, a key coalition partner, wishes to see it buried, the push for new administrative units and provinces seems to be picking up steam once again.\nDefence Minister Khawaja Asif brought the issue into the limelight on Sunday, telling an interviewer that the country could have as many as 12 new provinces if the exercise were driven by administrative needs rather than ethnic, linguistic, or political considerations. Yet in Pakistan, redrawn boundaries always carry ethnic and political weight.\nSpeculation about a possible administrative restructuring has intensified of late, with talk of it soon being accomplished through a 28th amendment to the Constitution. It is also suggested that while the amendment may be fast-tracked, perhaps wrapped up within the year, its actual implementation will be deferred until after the next general election because of the formidable legal and administrative challenges involved in redistributing the state’s resources equitably.\nBut if the implementation can wait, why not the legislation?\n    \nThe government may be tempted to push ahead while it can still count on a majority in parliament, but a majority alone is not a consensus. A proposal of such immense national import demands nothing less.\nThe Election Commission’s botched conduct of the 2024 general election has also left serious, lingering doubts about how far the current legislature represents the public will — doubts that might taint any constitutional change of this magnitude that it passes. It would, therefore, be a much wiser move, politically speaking, to take up any debate on administrative restructuring again after the next general election.\nIn the interim, parliament should pursue electoral reforms with the opposition to ensure that the commission does not repeat its 2024 mistakes, so that the next election earns the public’s trust and yields a legislature whose mandate is beyond doubt.\nUntil then, the federal and provincial governments should at least make an effort to revive the local government structure and give it a fair chance to prove its efficacy as a means of public service delivery.\n    \nMost arguments in favour of new administrative units circle back to a few central ideas, chief among which is the failure of provincial governments to ensure that resources allocated to them reach the people. The LG system was designed to be that last-mile tier of governance that would make this possible, but, sadly, successive civilian governments have failed to operationalise it effectively, preferring instead to concentrate administrative, political and financial power in a few provincial centres.\nPopulation growth and internal migration have sharply increased pressures on existing administrative centres in recent decades, but empowered LGs can redistribute that burden without redrawing provincial boundaries.\nIt is up to the political leadership to choose between these two paths.\nPublished in Dawn, November 10th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 78,
+    "paper": "Pakistan Affairs / Governance / Current Affairs",
+    "topic": "Administrative Restructuring, Provincial Autonomy, and Local Governance Reforms in Pakistan",
+    "whyMatters": "This article offers critical insights into the ongoing national debate concerning administrative restructuring and the creation of new provinces, a central theme in Pakistan's governance challenges. It provides arguments for and against such reforms, while also presenting the pivotal role of local government structures as a viable alternative for improved public service delivery.",
+    "summary": [
+      "The demand for new administrative units and provinces is resurfacing, with proposals suggesting up to 12 new provinces based on administrative necessity.",
+      "Speculation exists about a 28th constitutional amendment to fast-track administrative restructuring, with potential legislation within the year, but implementation likely deferred until after the next general election due to complex challenges.",
+      "The article argues against rushing such legislation without national consensus, especially given the lingering doubts about the current legislature's mandate following the Election Commission's conduct in the 2024 general election.",
+      "It advocates for prioritizing electoral reforms and the effective revival of local government systems as an immediate and potent means of public service delivery, presenting them as an alternative to creating new provinces."
+    ],
+    "facts": [
+      "Defence Minister Khawaja Asif suggested the country could have 'as many as 12 new provinces' based on administrative needs.",
+      "There is speculation about a '28th amendment to the Constitution' to facilitate administrative restructuring.",
+      "The '2024 general election' is cited for the Election Commission's 'botched conduct,' which raised 'serious, lingering doubts' about the legislature's public mandate."
+    ],
+    "academicReferences": [
+      "18th Amendment to the Constitution of Pakistan (for context on provincial autonomy and devolution of powers)",
+      "National Finance Commission (NFC) Award (for understanding resource distribution between federal and provincial governments)",
+      "Local Government Ordinances/Acts (provincial laws governing the structure and functions of local self-governance in Pakistan)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Botched",
+        "type": "adjective",
+        "definition": "Carried out badly or clumsily.",
+        "sentence": "The Election Commission’s botched conduct of the 2024 general election has also left serious, lingering doubts about how far the current legislature represents the public will."
+      },
+      {
+        "word": "Efficacy",
+        "type": "noun",
+        "definition": "The ability to produce a desired or intended result; effectiveness.",
+        "sentence": "The federal and provincial governments should at least make an effort to revive the local government structure and give it a fair chance to prove its efficacy as a means of public service delivery."
+      },
+      {
+        "word": "Operationalise",
+        "type": "verb",
+        "definition": "To put into operation or use.",
+        "sentence": "Sadly, successive civilian governments have failed to operationalise it effectively, preferring instead to concentrate administrative, political and financial power in a few provincial centres."
+      },
+      {
+        "word": "Formidable",
+        "type": "adjective",
+        "definition": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "sentence": "Its actual implementation will be deferred until after the next general election because of the formidable legal and administrative challenges involved in redistributing the state’s resources equitably."
+      },
+      {
+        "word": "Consensus",
+        "type": "noun",
+        "definition": "General agreement.",
+        "sentence": "The government may be tempted to push ahead while it can still count on a majority in parliament, but a majority alone is not a consensus."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is a primary argument often cited in favor of creating new administrative units?",
+        "options": [
+          "To promote ethnic harmony across the country.",
+          "To increase the power of the federal government.",
+          "To address the failure of provincial governments in ensuring resources reach the people.",
+          "To fast-track constitutional amendments for rapid development."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states: 'Most arguments in favour of new administrative units circle back to a few central ideas, chief of which is the failure of provincial governments to ensure that resources allocated to them reach the people.'"
+      },
+      {
+        "question": "What alternative solution does the article propose to redrawing provincial boundaries for better public service delivery?",
+        "options": [
+          "Centralizing all administrative power in the federal capital.",
+          "Empowering and effectively operationalizing local government structures.",
+          "Inviting international bodies to manage local resource distribution.",
+          "Implementing a direct democracy system for all local issues."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly suggests: 'empowered LGs can redistribute that burden without redrawing provincial boundaries' and urges efforts to 'revive the local government structure and give it a fair chance to prove its efficacy.'"
+      },
+      {
+        "question": "Why does the article advise against fast-tracking legislation for administrative restructuring before the next general election?",
+        "options": [
+          "The process would be too slow to implement within a single year.",
+          "There is no current need for significant administrative changes.",
+          "Lack of national consensus and doubts about the current legislature's public mandate.",
+          "The financial cost of creating new provinces is prohibitively high."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article emphasizes that 'a majority alone is not a consensus' and highlights 'serious, lingering doubts about how far the current legislature represents the public will' due to the 2024 election."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary reason cited in the article for the renewed push for new administrative units?",
+        "back": "The primary reason is the perceived failure of provincial governments to effectively deliver allocated resources to the people."
+      },
+      {
+        "front": "Why does the article recommend deferring any legislation on administrative restructuring until after the next general election?",
+        "back": "The article suggests deferring legislation due to the need for a broad national consensus and the existing doubts about the legitimacy and public mandate of the current legislature, stemming from the 2024 general election."
+      },
+      {
+        "front": "What alternative mechanism does the article propose for improving public service delivery, instead of creating new provinces?",
+        "back": "The article proposes reviving and effectively operationalizing the local government structure, empowering it to redistribute administrative burdens and ensure last-mile service delivery."
+      },
+      {
+        "front": "According to the article, what considerations historically carry significant weight when redrawing administrative boundaries in Pakistan?",
+        "back": "In Pakistan, redrawing boundaries always carries ethnic, linguistic, and political weight, often overshadowing purely administrative needs."
+      }
+    ]
+  },
+  {
     "id": "curated-1794194363978-990",
     "title": "Flight from reality",
     "source": "Dawn",
@@ -10330,540 +10942,6 @@
       {
         "front": "How does the political leadership's backing of these killings worsen the problem, as per the article?",
         "back": "It removes any pressure for accountability from within the system, thereby perpetuating the practice of extrajudicial killings and hindering reforms."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792635107317-614",
-    "title": "Spurring economic growth\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038886/spurring-economic-growth",
-    "date": "2026-10-22",
-    "author": "none@none.com (Ali Tauqeer Sheikh)",
-    "content": "THE World Bank’s Reclaiming Momentum Towards Prosperity report presents a sobering reality: poverty has climbed back to 25.3 per cent on the national line; and close to 45pc of Pakistanis fall below the bank’s new $4.20-a-day threshold. Stabilising our way into deeper poverty has exposed the limits of conventional macroeconomic management. Speaking last week at the International Conference on Inclusive and Resilient Economic Empowerment and Growth, organised by the Pakistan Poverty Alleviation Fund in Islamabad, I put one question at the centre: how do we break this cycle?\nAccelerating growth requires recognising where real growth originates. Pakistan’s largest capital investment of this decade never appeared in a Public Sector Development Programme (PSDP), Annual Development Programme (ADP), or Nationally Determined Contributions (NDC). Farmers, shopkeepers and households imported about 17 gigawatts of solar panels in 2024, and the same again in 2025. No PC-1. No donor. No climate finance unit. They used their own savings, because diesel costs and the unwinding of unsustainable energy subsidies made it rational.\nThe lesson for macroeconomic policy is direct. Prolonged, distorted subsidies are not a safety net. They are an obstacle to citizen-led growth. When fiscal pressure forced the state to pare them back, citizens moved faster than planners to protect their own balance sheets. The state’s response was to tax panel imports and revise net-metering terms. So when we ask how planning can accelerate growth, we should first admit that citizens are already ahead of the plan. The question is whether the state will remove the friction in their way or keep chasing donors. Three shifts would make the difference.\nUnpriced risk: Macroeconomic stability cannot survive risk that no one has priced. Pakistan already has a climate budget. It is not the one captured by the recently introduced climate budget tagging. It is the one written after each disaster. Major floods now produce post-disaster needs assessments, reconstruction budgets, and emergency appeals. That is our real climate expenditure: unplanned and largely borrowed — a permanent drag on fiscal space. The fix is not more tagging of development spending. It is pricing climate risk before it arrives.\nPakistan already has a climate budget — the one written after each disaster.\nIn practice, this means treating climate losses as a contingent liability of each province, the way we already treat circular debt and SOE guarantees. The Fiscal Risk Statement mentions disasters but puts no number on them. Each province can estimate its average annual loss from floods, heat, and drought, and appropriate a share of it every year as an expected cost. Budget theorists call this ‘expected-value budgeting’. A loss that is budgeted becomes a decision. A loss that is not budgeted becomes a bailout, often paid through the Benazir Income Support Programme’s emergency transfers.\nMaintenance first: Economic productivity depends on assets that work. That makes resilience a maintenance problem before it is a development problem. Embankments, drains, canals, and roads do not fail because nobody built them. They fail because their recurrent budgets are starved. Yet our economic conversation stays inside the development budget. The federal PSDP alone carries a throw-forward of about Rs11 trillion, and new schemes keep joining the queue, while existing assets go unmaintained. The ADP builds the embankment. The operations and maintenance line decides whether it holds. Protecting maintenance allocations for water assets would preserve existing capital and buy more resilience per rupee than most new projects.\nOne can see where local money is actually spent. The most local spending stream is not an SDG-linked programme. It is the parliamentarians’ development schemes: tube-wells, link roads, drains, and culverts. They are quick, uncoordinated, and climate-blind. Nobody screens them. A single check asking whether the asset will survive the next monsoon would protect more local capital than every formal climate project combined. Green growth at the local level will not come from specialised projects. It will come when ordinary public spending stops creating new fiscal liabilities.\nDistrict arithmetic: Growth targets fail when they stay abstract. The NDC is written in tonnes of carbon and gigawatts. A district plans in culverts, acres, and tube-wells. Nobody has done the translation. A union council cannot own or deliver a national target expressed in metrics it does not know.\nThe first mechanism is a translation layer. Each district needs a short climate investment and growth plan that converts national targets into local units: acres under laser levelling and drip irrigation, tube-wells solarised, kilometres of drains cleared. Once a target is counted in local units, a local official can be held accountable for it.\nThe second mechanism is money that rewards performance instead of rescuing failure. Versions of this model already work elsewhere. A district that sets up its own climate fund and meets basic public financial management standards qualifies for performance-based grants spent on investments its communities choose. Money follows institutions, not proposals. Pakistan could pilot this in 10 of its most flood-exposed districts through provincial finance commission transfers, with the grant rising as each district meets its conditions. That is local ownership with a test attached.\nThe third mechanism is creditworthiness. Local growth stays dependent on donor projects because no district or municipal body can borrow or issue a municipal bond. None has a balance sheet, an asset inventory, audited accounts, or a credit rating. A provincial pooled financing facility could bundle bankable projects, such as solar for water supply, municipal waste, and cold storage, and raise capital against the pool. The precondition is unglamorous: audited accounts and own-source revenue at local level. Investors do not lend to plans. They lend to entities with a record.\nThe fourth point is simpler. For most local investment, the bottleneck is not finance. It is permission. A solar mini-grid needs a Disco connection and a Nepra licence. A restoration project needs a land lease. A water scheme needs water rights. Locally owned investment needs a single district window for permissions before it needs another fund.\nIn all: price the loss before the flood. Fund maintenance before new projects. Count targets in district units. Make municipalities bankable. Citizens have already shown, panel by panel, even when they are below the poverty line, that they will finance their own resilience. The state cannot lead them, but can stop taxing their initiative and carry the risks they cannot. \nThe writer is a climate expert.\nPublished in Dawn, October 22nd, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Economic Stability and Sustainable Growth in Pakistan: Challenges and Localized Solutions",
-    "whyMatters": "This article critically analyzes the limitations of conventional macroeconomic management in Pakistan, offering pragmatic, citizen-centric, and localized solutions for sustainable economic growth and climate resilience. It is highly relevant for dissecting the fragility of Pakistan's economy and proposing concrete remedial measures in competitive exams.",
-    "summary": [
-      "Conventional macroeconomic management in Pakistan has failed, leading to increased poverty (25.3% nationally, 45% below $4.20/day) and exposing limits of state-led planning.",
-      "Real growth originates from citizen initiatives, like the massive private investment in solar panels, which are often hindered by state policies (e.g., taxing imports, revising net-metering).",
-      "Unpriced climate risk (disasters as permanent fiscal drag) and neglected maintenance of existing assets (starved recurrent budgets, Rs. 11 trillion PSDP throw-forward) are major obstacles to economic stability.",
-      "Sustainable growth requires localizing targets, empowering districts with creditworthiness, performance-based grants, and streamlining permissions, rather than relying solely on abstract national plans or donor funding."
-    ],
-    "facts": [
-      "Poverty has climbed to 25.3% on the national line; close to 45% of Pakistanis fall below the World Bank's new $4.20-a-day threshold.",
-      "Farmers, shopkeepers, and households imported approximately 17 gigawatts of solar panels in 2024 and the same again in 2025, demonstrating significant citizen-led capital investment.",
-      "The federal Public Sector Development Programme (PSDP) alone carries a 'throw-forward' (unfunded liabilities) of about Rs11 trillion, while existing assets go unmaintained."
-    ],
-    "academicReferences": [
-      "World Bank's 'Reclaiming Momentum Towards Prosperity' report (2026, mentioned in article)",
-      "Economic Survey of Pakistan (Annual publication by Ministry of Finance, Pakistan, for macroeconomic data and policies)",
-      "National Climate Change Policy of Pakistan (2012, updated periodically, for governmental approach to climate risks)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Sobering",
-        "type": "adjective",
-        "definition": "Creating a serious, thoughtful, or subdued mood.",
-        "sentence": "The report presented a sobering reality of rising poverty in the country."
-      },
-      {
-        "word": "Pare back",
-        "type": "verb phrase",
-        "definition": "To reduce something gradually in size or amount.",
-        "sentence": "When fiscal pressure forced the state to pare back energy subsidies, citizens adapted quickly."
-      },
-      {
-        "word": "Contingent liability",
-        "type": "noun",
-        "definition": "A potential obligation that may occur depending on the outcome of an uncertain future event.",
-        "sentence": "Treating climate losses as a contingent liability would allow provinces to budget for expected costs."
-      },
-      {
-        "word": "Throw-forward",
-        "type": "noun",
-        "definition": "In public finance, the accumulated cost of ongoing projects that has yet to be funded.",
-        "sentence": "The federal PSDP alone carries a throw-forward of about Rs11 trillion, indicating significant unfunded commitments."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is a primary reason conventional macroeconomic management has failed in Pakistan?",
-        "options": [
-          "It focuses too much on exports and not enough on imports.",
-          "It relies heavily on citizen-led initiatives which are inherently unstable.",
-          "It exposes the limits of its effectiveness by failing to curb rising poverty.",
-          "It prioritizes climate finance over immediate economic needs."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'Stabilising our way into deeper poverty has exposed the limits of conventional macroeconomic management,' indicating its failure to address poverty effectively."
-      },
-      {
-        "question": "What does the author suggest is Pakistan's 'real climate expenditure'?",
-        "options": [
-          "The funds allocated through climate budget tagging.",
-          "The emergency appeals and reconstruction budgets written after each disaster.",
-          "The grants received from international climate finance units.",
-          "The investment in renewable energy projects like solar farms."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'That is our real climate expenditure: unplanned and largely borrowed — a permanent drag on fiscal space,' referring to post-disaster budgets."
-      },
-      {
-        "question": "Which of the following is NOT a suggested mechanism for 'district arithmetic' to accelerate local growth?",
-        "options": [
-          "A translation layer converting national targets into local units.",
-          "Money that rewards performance instead of rescuing failure.",
-          "Requiring all district officials to attend national planning conferences.",
-          "Enhancing local creditworthiness to allow borrowing and municipal bonds."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article suggests translation layers, performance-based grants, and creditworthiness for districts, but not mandatory attendance at national planning conferences."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the article identify as the 'largest capital investment' in Pakistan of the last decade, and what does this signify for economic policy?",
-        "back": "The private import of ~17 gigawatts of solar panels by farmers, shopkeepers, and households. It signifies that citizens are ahead of state planners in driving growth and resilience, often despite state friction, highlighting the limits of conventional top-down macroeconomic management."
-      },
-      {
-        "front": "How does the article propose to address the 'unpriced risk' of climate disasters in Pakistan?",
-        "back": "By treating climate losses as a contingent liability of each province, budgeting an 'expected-value' annual loss from floods, heat, and drought. This turns an unbudgeted bailout into a planned decision, moving away from reactive post-disaster spending."
-      },
-      {
-        "front": "Why does the author argue that 'resilience is a maintenance problem before it is a development problem'?",
-        "back": "Because economic productivity relies on working assets, and existing infrastructure (embankments, canals, roads) fails due to starved recurrent maintenance budgets, not lack of initial construction. Protecting maintenance allocations is more cost-effective for resilience than most new projects."
-      },
-      {
-        "front": "What are the key policy recommendations for empowering local investment and accelerating district-level growth?",
-        "back": "Translate national targets into local units for accountability; implement performance-based grants rewarding successful local climate funds; enhance district creditworthiness by ensuring audited accounts and own-source revenue for municipal bonds; and establish a single district window for permissions to remove bottlenecks for local initiatives."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792635257582-593",
-    "title": "Energy transition\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038883/energy-transition",
-    "date": "2026-10-22",
-    "author": "none@none.com (Umer Farooq)",
-    "content": "RENEWABLE energy systems have advanced at an unbelievable pace in the last three decades. On technological grounds, the progress has been undeniable. On social levels, acceptance has grown across continents. In larger economies like Germany and Denmark, wind and solar installations have multiplied. In developing countries across Asia and Africa, renewable projects have flourished. Pakistan is one of the best examples of solar uptake. It has penetrated metropolitan centres and agricultural communities in remote villages. The infrastructure has spread with remarkable speed.\nThese systems have shown promise in multiple dimensions. They have contributed to energy security through distributed generation. Their transformative ability has appeared to be exemplary. They have nearly toppled the fossil economy and defied the bureaucratic red tape that once constrained energy projects. They have challenged the energy status quo and established power structures.\nThe International Energy Agency, which was established in response to the oil crisis of the 1970s, has increasingly focused on renewable energy. In its 2025 report, it projected that renewable capacity would increase by 4,600 gigawatts between 2025 and 2030, equivalent to the combined power generation capacity of China, the European Union, and Japan.\nHence, the renewable energy systems turned ‘arrogant’ — an arrogance rooted in their advances. It manifested in declarations about inevitable energy transitions. It emerged in confidence that renewable systems would simply displace conventional energy without negotiation. The sector spoke with the certainty of inevitable victory.\nThe Hormuz crisis brought everyone back to the fossil fuel debate.\nBut all this confidence was challenged when a new geopolitical reality intervened and the US-Iran tensions escalated into a war, with the Strait of Hormuz surfacing as a critical news highlight. Through a single narrow waterway controlling a significant share of global energy flows, the entire discourse around renewable energy vanished from the public consciousness. This brought everyone back to the fossil fuel conversation.\nThe commitments that renewables had made to energy independence suddenly fell short. Their role, once heralded as transformative, appeared insufficient when energy security was actually threatened. Their prominence in the energy debate was overshadowed by the immediate need to secure oil and gas supplies. Their ability to replace conventional energy had been overestimated.\nThis conflict proved something fundamental: the technological advances in renewable energy systems are not yet ready to eliminate the world’s dependence on fossil fuels. Renewable systems also depend on governmental decisions, infrastructure investments, and political priorities. They are unsafe in isolation and the industry is sensitive to geopolitical interests. Their success is conditional on the fossil fuel economy itself.\nWhat else has this war taught us? That energy transition cannot proceed through wishful thinking or technological optimism alone. The path forward requires cooperation between the fossil fuel economy and the emerging green economy. The latter has yet to demonstrate the ability to recognise that governments remain important actors, not obstacles. They hold real power in the equation that involves energy policy, infrastructure, and national security. Ideo­logies have relevance when they align with national interests. Policies have tangible influence on energy markets and security.\nThe conversation around a ‘just transition’ must, therefore, be fundamentally refra­­-\nmed. A just transition will not be born in a vacuum or exist as a parallel system operating independently. It cannot emerge from disconnected green economy initiatives alone. The green economy, as a parallel vertical operating separately from existing energy systems, is not sustainable. It is an approach that the geopolitical crisis has now exposed.\nInstead, genuine transition will be born through cooperation with the fossil fuel economy. Through negotiation, mutual interest, and acknowledgement of interdependencies. Through recognition that energy security remains a global concern that transcends ideological preferences. Through acceptance that the transition will be messier, slower, and more politically complicated than renewable advocates may have imagined. \nThe Strait of Hormuz crisis delivered a necessary lesson in humility. Renewable energy remains important, but it is not yet the complete answer to energy security. The path forward requires not the triumph of one system over another, but rather the difficult work of integration and transition that respects both technological capacity and geopolitical reality. \nThe writer is an energy policy adviser.\nPublished in Dawn, October 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 90,
-    "paper": "Current Affairs / Environmental Science / International Relations",
-    "topic": "Energy Security and the Geopolitics of Energy Transition",
-    "whyMatters": "This article offers a crucial, realistic perspective on energy transition, highlighting that technological optimism alone is insufficient. It is vital for civil service aspirants to understand the complex interplay of geopolitics, government policy, and interdependencies in global energy, moving beyond simplistic narratives.",
-    "summary": [
-      "Renewable energy systems have experienced rapid technological advancement and widespread social acceptance, fostering an 'arrogance' regarding their inevitable displacement of fossil fuels.",
-      "The Strait of Hormuz crisis, driven by US-Iran tensions, exposed the immediate limitations of renewables, demonstrating their inability to guarantee energy security when geopolitical realities threaten fossil fuel supplies.",
-      "The article argues that renewables are not yet ready to eliminate global fossil fuel dependence and are sensitive to governmental decisions, infrastructure investments, political priorities, and geopolitical interests.",
-      "A genuine and 'just' energy transition requires cooperation and negotiation between the fossil fuel and green economies, acknowledging interdependencies and the indispensable role of governments, rather than a unilateral triumph of one system."
-    ],
-    "facts": [
-      "The International Energy Agency (IEA) projected a 4,600 gigawatts increase in renewable capacity between 2025 and 2030, equivalent to the combined power generation capacity of China, the EU, and Japan.",
-      "The IEA was established in response to the oil crisis of the 1970s.",
-      "The Strait of Hormuz is a single narrow waterway controlling a significant share of global energy flows."
-    ],
-    "academicReferences": [
-      "International Energy Agency (IEA) World Energy Outlook",
-      "The 'Just Transition' framework (as discussed and re-framed in energy policy debates)",
-      "Paris Agreement on Climate Change (for its goals related to global energy transition)"
-    ],
-    "vocabulary": [
-      {
-        "word": "constrained",
-        "type": "verb",
-        "definition": "severely restrict the scope, extent, or activity of something.",
-        "sentence": "The bureaucratic red tape once constrained energy projects, hindering their progress."
-      },
-      {
-        "word": "toppled",
-        "type": "verb",
-        "definition": "overthrown or caused to fall.",
-        "sentence": "Renewable systems have nearly toppled the fossil economy with their rapid advancements."
-      },
-      {
-        "word": "transcends",
-        "type": "verb",
-        "definition": "goes beyond the limits of; surpasses.",
-        "sentence": "Energy security remains a global concern that transcends ideological preferences, demanding practical solutions."
-      },
-      {
-        "word": "interdependencies",
-        "type": "noun",
-        "definition": "the mutual reliance between two or more groups or things.",
-        "sentence": "A genuine energy transition requires acknowledgement of the interdependencies between the green and fossil fuel economies."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what fundamental lesson did the Strait of Hormuz crisis deliver regarding energy transition?",
-        "options": [
-          "A) Renewable energy systems are entirely self-sufficient and independent of geopolitics.",
-          "B) Technological advancements in renewables are not yet sufficient to eliminate global dependence on fossil fuels.",
-          "C) Governments are primarily obstacles to genuine energy transition.",
-          "D) The green economy can thrive completely in isolation from existing energy systems."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'This conflict proved something fundamental: the technological advances in renewable energy systems are not yet ready to eliminate the world’s dependence on fossil fuels.' It further elaborates on their dependence on governmental decisions and sensitivity to geopolitical interests."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What factor, according to the article, contributed to the perceived 'arrogance' of renewable energy systems?",
-        "back": "Rapid technological advancements and widespread social acceptance, leading to overconfidence in their ability to inevitably displace conventional energy sources."
-      },
-      {
-        "front": "How did the Strait of Hormuz crisis challenge the notion of renewables ensuring energy independence?",
-        "back": "It demonstrated that during a geopolitical crisis, renewables appeared insufficient to secure immediate energy supplies, bringing fossil fuels back to the forefront of energy security discussions."
-      },
-      {
-        "front": "Beyond technological readiness, what crucial external factors does the article highlight as necessary for the success of renewable energy?",
-        "back": "Governmental decisions, infrastructure investments, political priorities, and sensitivity to geopolitical interests, indicating that their success is conditional on the broader geopolitical and economic context."
-      },
-      {
-        "front": "What approach does the author propose for a 'genuine' energy transition, contrasting it with the 'disconnected green economy initiatives'?",
-        "back": "A genuine transition will be born through cooperation and negotiation with the fossil fuel economy, acknowledging interdependencies, respecting governments as key actors, and accepting a messier, slower, and more politically complicated process."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792635025057-266",
-    "title": "Talking taxes\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2038885/talking-taxes",
-    "date": "2026-10-22",
-    "author": "none@none.com (Khurram Husain)",
-    "content": "IN the two days before writing this column, I had the pleasure of being immersed in a series of discussions in Islamabad on all things related to taxes in Pakistan. Hosted by the finance ministry and the IMF, the discussions brought together senior practitioners, advisers, and stakeholders for a detailed, high-level debate on what all needs to change in Pakistan’s tax system for it to play a more enabling role in undergirding stability for the private sector and promoting growth rather than being a drag on it.\nWhat struck me during the discussions was the large gulf between the community of experts the IFIs bring to the tax conversation and the people who legislate and oversee the making and implementation of tax policy in Pakistan. The gulf is evident in how they approach the question of tax, the priorities they bring to the table, how they measure success, and the language they use to talk about taxes. The experts present — sadly, the content of the discussions was “off the record”, so only broad themes can be discussed here — emphasised sustained commitment, balanced compliance, and measuring outcomes, “not activity”. Special emphasis was put on the harmonisation of GST, predictability of policy, and the mutually reinforcing dynamic between various tax heads — for example, how a properly administered GST can help strengthen income tax as well. FBR representatives underlined their tax reform efforts. However, participants still pointed out that the base remains narrow, that withholding plays an outsize role — one of the charts showed how 90 per cent of withholding taxes are collected under 10 heads only — and that this role is increasing. There was broad consensus that Pakistan’s tax system remains inequitable, riddled with “distortions”, and serves more as a drag on growth and investment than as their promoter.\nIt is surprising how underdeveloped the template governing data disclosure on revenues is.\nThere is a reason why this is so. The priorities that have shaped Pakistan’s tax system over the years differ from what tax experts suggest it should serve. In Pakistan, raw revenue is the metric of success — and not efficiency, buoyancy, or the self-reinforcing elements of tax administration. Tax policy responds heavily to voice in the system. Over the years, it has evolved along the path of least resistance, so to speak, causing the bulk of the burden of generating new revenue to fall on those with no voice, or the least organised voice, in the system. Even in the section of industry that likes to highlight the quantum of its contribution to the revenue effort, it is highly probable that the bulk of the taxes are passed through to their consumer base rather than being borne by the owners and controllers of capital. Over the years, this course has led to a tax system that is highly regressive, very concentrated, barely buoyant, and heavily reliant on withholding as the basis for its collection.\nAs participants grappled with the vexing question of tax reform in Pakistan, I felt one modest but concrete proposal might help refocus the conversation on evidence rather than emotion. Given how central the question is to Pakistan’s economic future, it is surprising how underdeveloped the template governing data disclosure on revenues is. The monthly revenue collection data we all see reported in the newspapers is informally taken by reporters from unnamed FBR sources and is often inconsistent.\nWe only see revenue-collection data when the Fiscal Operations data is released every quarter, but even then it provides only headline numbers, and its release frequency is too low to be useful. One thing that is sorely needed in Pakistan is a more robust, mandatory data release template for the FBR, with monthly frequency at the very least, if not more often.\nThe IMF should use its access to the highest levels of government to urge that monthly data releases on revenue collection become mandatory for the FBR. The World Bank should offer its expertise to help develop this template, with uniform accounting conventions governing matters such as how to treat withheld refunds and how to break down the releases. Hence, they serve as a meaningful source for discerning the direction of the fiscal outlook during the fiscal year. The government should legislate this requirement and make any necessary modifications to FBR rules to ensure that a dedicated team is always at work within the tax authority, gathering, compiling, and preparing the next data release as per a predetermined schedule.\nWhile we’re at it, let’s also mandate a similar release requirement on the finance ministry on expenditures. Q Block already submits a monthly statement of all expenditures to the IMF, as per the accounting treatment given by the IMF itself. It would be relatively simple to make this public. There is no good reason not to do so. And many participants at the conference did point out that the question of revenue is connected to that of expenditure.\nThe bad practices that characterise much of Pakistan’s tax system are a symptom of the environment in which tax policy is administered. That environment is riddled with discretionary powers whose sway in the tax bureaucracy is at the root of a lot of what ails the tax effort. The best antidote to discretionary powers is daylight, or transparency. Open a window. Let the light of day shine in the otherwise dark rooms in which the tax machinery is used to operating. Let them grow accustomed to the discipline a regular data-release template brings. Let them answer the questions that will naturally arise once the data starts to flow. And watch the tax conversation find the rails it needs to ride into the future. \nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\n@khurramhusain\nPublished in Dawn, October 22nd, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Economics / Pakistan Affairs / Public Administration",
-    "topic": "Taxation System Reforms in Pakistan; Fiscal Transparency and Governance; Economic Growth Impediments",
-    "whyMatters": "This article provides a critical analysis of Pakistan's tax system, highlighting its structural flaws and proposing concrete, actionable reforms. Civil service aspirants must understand these issues to grasp Pakistan's economic challenges, governance deficits, and potential policy interventions required for sustainable growth.",
-    "summary": [
-      "There is a significant disconnect between international tax experts' recommendations and Pakistan's tax policy formulation and implementation.",
-      "Pakistan's current tax system prioritizes raw revenue over efficiency, buoyancy, or equity, making it regressive, concentrated, and heavily reliant on withholding taxes.",
-      "The lack of robust and frequent data disclosure from the FBR hinders evidence-based policy debate and effective oversight.",
-      "The author proposes mandatory, regular (monthly) public data releases from FBR on revenues and from the Finance Ministry on expenditures.",
-      "Transparency is presented as the primary antidote to the discretionary powers and opaque environment that characterize Pakistan's tax administration, leading to better governance."
-    ],
-    "facts": [
-      "90% of withholding taxes in Pakistan are collected under only 10 heads, indicating a narrow tax base.",
-      "Monthly revenue collection data reported in newspapers is informal, from unnamed FBR sources, and often inconsistent.",
-      "Quarterly Fiscal Operations data provides only headline numbers, and its release frequency is too low to be useful for discerning fiscal outlook during the year."
-    ],
-    "academicReferences": [
-      "IMF Country Reports on Pakistan (e.g., Article IV Consultations)",
-      "Pakistan Economic Survey (Annual Publication by Finance Division)",
-      "National Finance Commission (NFC) Award",
-      "World Bank's Pakistan Development Policy Review / Public Expenditure Reviews"
-    ],
-    "vocabulary": [
-      {
-        "word": "undergirding",
-        "type": "verb",
-        "definition": "providing support or a firm basis for something",
-        "sentence": "A stable tax system is crucial for undergirding the private sector's confidence and promoting economic stability."
-      },
-      {
-        "word": "buoyancy",
-        "type": "noun",
-        "definition": "the ability of a tax system to increase revenue more than proportionally with an increase in the tax base or national income",
-        "sentence": "Experts noted the lack of buoyancy in Pakistan's tax system, indicating its inability to automatically generate more revenue as the economy grows."
-      },
-      {
-        "word": "regressive",
-        "type": "adjective",
-        "definition": "(of a tax) taking a larger percentage of income from low-income earners than from high-income earners",
-        "sentence": "Pakistan's tax system is criticized for being highly regressive, placing a disproportionate burden on the less affluent."
-      },
-      {
-        "word": "vexing",
-        "type": "adjective",
-        "definition": "causing annoyance, frustration, or worry",
-        "sentence": "Participants grappled with the vexing question of tax reform, finding it difficult to address the deep-rooted issues."
-      },
-      {
-        "word": "discretionary",
-        "type": "adjective",
-        "definition": "available for use at the discretion of the user; subject to individual choice or judgment",
-        "sentence": "The environment in Pakistan's tax bureaucracy is riddled with discretionary powers, leading to opacity and potential for misuse."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the primary metric of success for the tax system in Pakistan, as opposed to what experts suggest?",
-        "options": [
-          "Raw revenue collection",
-          "Tax buoyancy",
-          "Efficiency of collection",
-          "Equity of burden"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'In Pakistan, raw revenue is the metric of success — and not efficiency, buoyancy, or the self-reinforcing elements of tax administration.'"
-      },
-      {
-        "question": "What is identified as the 'best antidote' to discretionary powers within Pakistan's tax bureaucracy?",
-        "options": [
-          "Increased penalties for corruption",
-          "Daylight, or transparency",
-          "More frequent FBR audits",
-          "Training programs for tax officials"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states, 'The best antidote to discretionary powers is daylight, or transparency.'"
-      },
-      {
-        "question": "Which of the following is NOT cited as a characteristic of Pakistan's current tax system?",
-        "options": [
-          "Highly regressive",
-          "Very concentrated",
-          "Barely buoyant",
-          "Transparent and predictable"
-        ],
-        "answerIndex": 3,
-        "explanation": "The article states the system is 'highly regressive, very concentrated, barely buoyant,' and emphasizes the lack of transparency and predictability."
-      },
-      {
-        "question": "What specific policy change does the author propose for the FBR and Finance Ministry to improve transparency?",
-        "options": [
-          "Hiring more tax collection officers",
-          "Implementing new tax software",
-          "Mandatory monthly data releases on revenues and expenditures",
-          "Reducing the number of withholding tax heads"
-        ],
-        "answerIndex": 2,
-        "explanation": "The author proposes a 'robust, mandatory data release template for the FBR, with monthly frequency' and a 'similar release requirement on the finance ministry on expenditures.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why does the article suggest Pakistan's tax system acts as a 'drag' on growth and investment rather than promoting them?",
-        "back": "It's described as inequitable, riddled with distortions, highly regressive, very concentrated, and barely buoyant, thereby hindering a stable environment for the private sector and discouraging investment."
-      },
-      {
-        "front": "What is the core difference in approach to taxation between the international experts and Pakistan's legislators/policymakers, as highlighted in the article?",
-        "back": "Experts emphasize sustained commitment, balanced compliance, measuring outcomes, harmonisation of GST, and predictability, while Pakistan's system prioritizes raw revenue collection over efficiency, buoyancy, or equity."
-      },
-      {
-        "front": "What specific improvements in data disclosure are proposed to enhance transparency and evidence-based policymaking in Pakistan's fiscal system?",
-        "back": "Mandatory, robust monthly data releases from the FBR on revenue collection and similar public releases from the Finance Ministry on expenditures, using uniform accounting conventions."
-      },
-      {
-        "front": "How does the author link the lack of transparency to the prevalence of 'discretionary powers' in Pakistan's tax administration?",
-        "back": "The article argues that the opaque environment, characterized by underdeveloped data disclosure and dark rooms of operation, allows discretionary powers to thrive, which is at the root of many tax effort ailments. Transparency ('daylight') is the antidote."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792808720106-794",
-    "title": "Give FBR more than a new name",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2636379/give-fbr-more-than-a-new-name",
-    "date": "2026-10-22",
-    "author": "\n\t\t\t\tDr Ikramul Haq\n\t\t\t",
-    "content": "The federal government is again considering whether Pakistan needs a new tax collection agency. According to a report in The Express Tribune of Oct 16, 2026, the FBR has been asked to present proposals for human-resource reform, revamping and restructuring to the PM by October 19, 2026, while the creation of an altogether new organisation is also under discussion. The urgency is understandable: against this year's Rs15.263 trillion target, officials, as per the report, already fear a shortfall exceeding Rs650 billion.\n\nThe danger is equally familiar. Pakistan may abolish FBR in name and recreate it in substance. The late Dr Pervez Tahir saw the problem clearly. In 2019, first in \"FBR: the end is nigh\" [The Express Tribune, March 15, 2019] and later in his memorable \"Giving FBR a decent burial\" [The Express Tribune, November 8, 2019], he argued that repeated restructuring had failed.\n\nDr Pervez (called 'PT' affectionately by his friends) explained that the organisation itself embodied what he called \"Revenuecracy\": a system geared towards extracting readily collectible revenue rather than building an equitable tax system. He proposed one professional tax-collection agency for federal, provincial and local taxes, separated from tax-policy formulation, institutionally autonomous and placed within a federal framework involving the provinces.\n\nThis scribe has been arguing along similar lines for decades. The idea of a federal National Tax Agency or Pakistan Revenue Authority - replacing the fragmented collection through the FBR and multiple provincial bodies - has been repeatedly proposed in books and articles. The objective is one taxpayer interface, one return where practicable, integrated databases, harmonised administration and professionally managed collection removing multiple costs, while elected governments and legislatures determine tax policy. That distinction is crucial.\n\nPakistan increasingly confuses tax policy with revenue collection. A rational policy asks who should pay, according to ability, and what tax structure best promotes investment, employment and fairness. Revenuecracy asks from whom money can be collected fastest.\n\nThe salaried class, incorporated businesses, importers, exporters, bank depositors, electricity consumers and telecom users are easy to reach. Politically influential and undertaxed sectors remain harder to confront. Mere changing FBR's letterhead will not cure this. Nor will throwing more borrowed money at \"transformation\" (sic).\n\nAnother $200 million foreign-funded programme was approved only last month, purportedly taking external financing for tax-system modernisation over the years to nearly $5 billion. Meanwhile, FBR's tax-to-GDP ratio remains around 10.3%, the previous annual target was missed by more than Rs1.1 trillion, and the latest traders' scheme has produced derisory results.\n\nTechnology is necessary. Faceless assessment, digital invoicing, production monitoring and intelligent risk selection can reduce discretion. They cannot substitute for institutional design.\n\nA genuinely new agency should satisfy at least four tests. Tax policy must be separated from tax collection and placed under a representative, professionally staffed policy institution accountable to Parliament, not an administrative unit in the Ministry of Finance, as is the case today.\n\nCollection should progressively become a single-window operation covering federal and provincial taxes through constitutional agreement. The new body must recruit and promote professionals on competence rather than reproduce existing service hierarchies. It must be judged not simply by gross collection, but by voluntary compliance, refund performance, quality of assessments, cost of collection and reduction in litigation.\n\nExisting officers should be free to compete for positions on merit. The old cadres should not automatically migrate en bloc into the new institution, otherwise institutional culture will migrate with them.\n\nDr Pervez called for giving FBR a decent burial seven years ago. The government now appears closer than ever to accepting his diagnosis. It should also heed his warning. Pakistan does not need FBR-II. It needs a new relationship between taxpayer and State. Renaming Revenuecracy would merely postpone the funeral.",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 88,
-    "paper": "Public Administration / Economics / Current Affairs",
-    "topic": "Taxation Reforms and Revenue Collection in Pakistan",
-    "whyMatters": "This article does not directly address Pakistan's role in the Economic Cooperation Organization (ECO) or regional integration. However, it is highly relevant for understanding critical challenges in Pakistan's public finance, governance, and institutional reforms, making it valuable for Current Affairs, Economics, and Public Administration papers.",
-    "summary": [
-      "Repeated restructuring of the FBR has failed because the organization embodies 'Revenuecracy,' a system focused on easy revenue extraction rather than an equitable tax system.",
-      "A crucial distinction between tax policy (who should pay, promoting investment) and revenue collection (fastest collection from easy targets) is often confused in Pakistan.",
-      "A genuinely new tax agency requires institutional design, including separation of tax policy from collection, single-window operations for federal and provincial taxes, and merit-based professional recruitment.",
-      "The new agency's performance should be judged by voluntary compliance, refund performance, quality of assessments, cost of collection, and reduced litigation, not just gross collection."
-    ],
-    "facts": [
-      "FBR's tax collection target for the current year (as of Oct 2026) is Rs15.263 trillion, with an anticipated shortfall exceeding Rs650 billion.",
-      "Pakistan's tax-to-GDP ratio remains around 10.3%.",
-      "External financing for Pakistan's tax-system modernization has reached nearly $5 billion over the years, including a recent $200 million program."
-    ],
-    "academicReferences": [
-      "National Finance Commission (NFC) Award (relevant to federal-provincial fiscal relations and tax distribution).",
-      "18th Constitutional Amendment of Pakistan (for understanding provincial autonomy and potential for harmonized tax collection).",
-      "World Bank / International Monetary Fund (IMF) reports on Pakistan's fiscal policy and governance reforms."
-    ],
-    "vocabulary": [
-      {
-        "word": "Revenuecracy",
-        "type": "noun",
-        "definition": "A system within a tax collection agency primarily focused on extracting readily collectible revenue rather than building an equitable and sustainable tax system.",
-        "sentence": "Dr. Pervez Tahir argued that FBR embodied 'Revenuecracy,' prioritizing quick collections over systemic fairness."
-      },
-      {
-        "word": "Equitable",
-        "type": "adjective",
-        "definition": "Fair and impartial; just.",
-        "sentence": "The goal should be to build an equitable tax system that places a fair burden on all citizens according to their ability to pay."
-      },
-      {
-        "word": "Harmonised",
-        "type": "verb",
-        "definition": "Made consistent, compatible, or in agreement with something else.",
-        "sentence": "The proposed National Tax Agency aims for harmonised administration across federal and provincial tax collection."
-      },
-      {
-        "word": "Derisory",
-        "type": "adjective",
-        "definition": "Ridiculously small or inadequate; laughable.",
-        "sentence": "Despite new initiatives, the latest traders' scheme has produced derisory results, failing to significantly boost tax collection."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What core problem did Dr. Pervez Tahir identify with the FBR's repeated restructuring efforts?",
-        "options": [
-          "It failed to separate tax policy from collection, leading to 'Revenuecracy.'",
-          "It did not secure enough foreign funding for modernization.",
-          "It exclusively focused on taxing the informal sector.",
-          "It lacked advanced technology for digital invoicing."
-        ],
-        "answerIndex": 0,
-        "explanation": "Dr. Pervez Tahir argued that repeated restructuring failed because the organization itself embodied 'Revenuecracy,' a system geared towards extracting readily collectible revenue rather than building an equitable tax system, stemming from the confusion between policy and collection."
-      },
-      {
-        "question": "Which of the following is NOT one of the four tests proposed for a genuinely new tax agency?",
-        "options": [
-          "Tax policy separated from tax collection.",
-          "Existing officers automatically migrating en bloc into the new institution.",
-          "Collection progressively becoming a single-window operation.",
-          "Judged by voluntary compliance, refund performance, and cost of collection."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'The old cadres should not automatically migrate en bloc into the new institution' to prevent the migration of institutional culture."
-      },
-      {
-        "question": "According to the article, what is the current approximate tax-to-GDP ratio in Pakistan?",
-        "options": [
-          "Around 7.5%",
-          "Around 10.3%",
-          "Around 13.5%",
-          "Around 15.0%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Meanwhile, FBR's tax-to-GDP ratio remains around 10.3%.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Why have FBR restructuring efforts repeatedly failed, according to the article?",
-        "back": "They failed because the organization inherently embodied 'Revenuecracy,' focusing on extracting easily collectible revenue rather than building an equitable tax system, without addressing fundamental institutional design flaws."
-      },
-      {
-        "front": "What critical distinction does the article emphasize regarding taxation in Pakistan?",
-        "back": "The article emphasizes the crucial distinction between 'tax policy' (who should pay, promoting investment, fairness) and 'revenue collection' (from whom money can be collected fastest), noting that Pakistan increasingly confuses the two."
-      },
-      {
-        "front": "What is the primary objective behind proposing a 'federal National Tax Agency' or 'Pakistan Revenue Authority'?",
-        "back": "The objective is to establish one taxpayer interface, one return, integrated databases, harmonized administration, and professionally managed collection to remove multiple costs, while elected governments determine tax policy."
-      },
-      {
-        "front": "Besides gross collection, what key performance indicators are suggested for judging a genuinely new tax agency?",
-        "back": "The new agency should be judged by voluntary compliance, refund performance, quality of assessments, cost of collection, and reduction in litigation, reflecting a holistic view of its effectiveness."
-      }
-    ]
-  },
-  {
-    "id": "curated-1792808803228-455",
-    "title": "Smog warning",
-    "source": "Express Tribune",
-    "url": "https://tribune.com.pk/story/2636378/smog-warning",
-    "date": "2026-10-22",
-    "author": "\n\t\t\t\teditorial\n\t\t\t",
-    "content": "A spell of rain may temporarily clear Lahore's skies, but it cannot wash away the fact that smog has become an annual public health crisis. Within days of last week's brief respite, air quality deteriorated once again, with official readings reaching highly unhealthy levels this past Wednesday. As winter approaches, the city faces the prospect of another punishing smog season, raising serious questions about whether the authorities are sufficiently prepared to protect millions of residents.\n\nYears of exposure to hazardous air should have made prevention a permanent government priority rather than an emergency exercise undertaken when pollution reaches intolerable levels. Punjab has announced a series of preventive measures, including inspections of smoke-emitting vehicles. These initiatives are necessary, but their effectiveness must be judged by improvements in air quality. Seasonal crackdowns have repeatedly failed to produce lasting relief because the underlying sources of pollution remain largely unchecked. Of particular concern is the danger to children. Unicef has warned that polluted environments increase children's susceptibility to acute respiratory infections and can impair lung development. In November 2024, the agency estimated that more than 11 million children under five were exposed to severe smog across Punjab's worst-affected districts. Such warnings demand preparations that extend beyond advising families to remain indoors.\n\nMuch also depends on the government's ability to anticipate dangerous pollution episodes. At the same time, authorities must ensure strict compliance with industrial emission standards and improve public transport and provide farmers with practical alternatives to crop burning. Lahore cannot continue surrendering several months of every year to poisonous air. Clean air is not a seasonal privilege to be restored by favourable weather. It is a basic public health necessity.",
-    "matchedQuestion": {
-      "id": "PA-2025-ENV",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
-    },
-    "suitable": true,
-    "relevanceScore": 85,
-    "paper": "Pakistan Affairs",
-    "topic": "Environmental Degradation, Smog Crisis, and Public Health in Pakistan",
-    "whyMatters": "This article offers a direct case study of environmental degradation in Pakistan, specifically the annual smog crisis in Lahore, which is highly relevant to the exam question's scope. It provides concrete examples of causes (vehicular, industrial, crop burning) and critiques of current policy, making it an excellent resource for both discussing reasons and suggesting remedial measures.",
-    "summary": [
-      "Smog has become an annual public health crisis in Lahore, with air quality frequently reaching highly unhealthy levels, offering only brief and temporary respite after rain.",
-      "Current government measures, such as seasonal crackdowns and vehicle inspections, are insufficient as they fail to address the underlying, perennial sources of pollution effectively.",
-      "Children are particularly vulnerable to polluted environments, facing increased susceptibility to acute respiratory infections and impaired lung development, as highlighted by UNICEF's warning about 11 million children under five being exposed in Punjab.",
-      "Sustainable environmental rehabilitation requires a permanent government priority on prevention, strict compliance with industrial emission standards, improved public transport, and providing farmers with practical alternatives to crop burning."
-    ],
-    "facts": [
-      "Official air quality readings reached highly unhealthy levels in Lahore on a recent Wednesday.",
-      "UNICEF estimated that over 11 million children under five were exposed to severe smog across Punjab's worst-affected districts in November 2024.",
-      "Lahore 'surrenders several months of every year to poisonous air', indicating the persistent and long-duration nature of the crisis."
-    ],
-    "academicReferences": [
-      "Pakistan Environmental Protection Act (PEPA), 1997",
-      "Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well-being) and SDG 11 (Sustainable Cities and Communities)",
-      "National Climate Change Policy of Pakistan, 2012 (Revised 2021)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Respite",
-        "type": "noun",
-        "definition": "a short period of rest or relief from something difficult or unpleasant.",
-        "sentence": "The brief spell of rain offered a temporary respite from the suffocating smog."
-      },
-      {
-        "word": "Deteriorated",
-        "type": "verb",
-        "definition": "became progressively worse.",
-        "sentence": "Within days of the clear skies, the air quality deteriorated once again."
-      },
-      {
-        "word": "Susceptibility",
-        "type": "noun",
-        "definition": "the state or fact of being likely or liable to be influenced or harmed by a particular thing.",
-        "sentence": "Polluted environments increase children's susceptibility to acute respiratory infections."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, which of the following is NOT explicitly mentioned as a primary underlying source of smog pollution in Lahore?",
-        "options": [
-          "Industrial emissions",
-          "Vehicular emissions",
-          "Deforestation",
-          "Crop burning"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions 'smoke-emitting vehicles,' 'industrial emission standards,' and 'farmers with practical alternatives to crop burning' as sources. Deforestation is a general environmental issue but not highlighted as a direct cause of smog in this specific text."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the primary criticism leveled against the current government's approach to combating smog in Lahore?",
-        "back": "The government's approach is criticized for being reactive and seasonal, treating prevention as an emergency exercise rather than a permanent priority, and failing to address underlying sources of pollution comprehensively."
-      },
-      {
-        "front": "How does the article highlight the severe public health impact of smog, particularly concerning children?",
-        "back": "The article quotes UNICEF, stating that polluted environments increase children's susceptibility to acute respiratory infections and can impair lung development, with over 11 million children under five exposed in Punjab."
-      },
-      {
-        "front": "What key policy shifts does the article suggest for sustainable environmental rehabilitation against smog, beyond temporary measures?",
-        "back": "Key policy shifts include making prevention a permanent government priority, ensuring strict compliance with industrial emission standards, improving public transport, and providing farmers with practical alternatives to crop burning."
-      },
-      {
-        "front": "What fundamental principle does the article assert regarding clean air?",
-        "back": "The article asserts that clean air is not a seasonal privilege to be restored by favorable weather, but rather a basic public health necessity that demands consistent government action."
       }
     ]
   }
