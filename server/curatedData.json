@@ -1,5 +1,604 @@
 [
   {
+    "id": "curated-1795149487464-334",
+    "title": "In hindsight",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045830/in-hindsight",
+    "date": "2026-11-20",
+    "author": "none@none.com (Editorial)",
+    "content": "JUST as an important partner in the ruling coalition is starting to question the wisdom of the 26th and 27th Amendments, a report issued by the International Commission of Jurists has detailed the damage the two enactments have wrought on Pakistan’s judiciary.\nTitled Judicial Capture: Independence of the Judiciary in Pakistan after the 26th and 27th Constitutional Amendments, the report concludes that systemic constitutional and legislative changes have placed the country’s highest courts under the control of the political and executive branches.\nThe ICJ comprises judges and lawyers from around the world working to “develop and strengthen national and international justice systems”. The report clarifies: “The ICJ does not take a position on the merits of political disputes between the parties. Its analysis is focused on the institutional framework in which the judiciary operates, and whether it is consistent with Pakistan’s obligations under international law.”\nThe most worrying flag the report raises is that the ruling parties — in what can only be read as their zeal to have these two amendments enacted — have pushed the judiciary to a state where the country’s highest courts no longer “enjoy the institutional guarantees of independence required by Article 14” of the International Covenant on Civil and Political Rights (ICCPR) and the UN Basic Principles on the Independence of the Judiciary, among other standards.\n    \nIt also notes that the loss of judicial independence has stripped victims of human rights abuses of their right to an effective legal remedy under domestic law and Article 2(3) of the ICCPR.\nThough the ICJ agrees that prior issues in the Pakistani judiciary, especially its tendency to overreach into parliament’s domain, needed targeted reforms, its secretary-general, Santiago Canton, says the government used those frustrations as a pretext to seize full control of the judiciary rather than enact serious reforms.\n    \nThe detailed report offers a cold examination of the path taken by the Pakistani judiciary since 2024 and brings into fresh relief what may be the roots of some of the new crises that have gripped the country since then. Its timing couldn’t have been better: there is speculation that another amendment is in the works, and those who partnered with the government on getting earlier legislation enacted are now apprehensive of what a new rewrite will entail.\nAs local observers have been warning, and as the ICJ’s findings now bear out, the 26th and 27th Amendments have done serious damage to judicial independence. Part of the reason why is the haste with which they were enacted. Before any further changes are made to the Constitution, it would be wise to debate all proposed amendments at length and enact them only after a careful, deliberate consensus has been built.\nPublished in Dawn, November 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs",
+    "topic": "Judiciary's Role in Constitutional Development; Judicial Independence",
+    "whyMatters": "This article offers a contemporary critical perspective on the erosion of judicial independence through constitutional amendments, directly enriching a student's ability to discuss the judiciary's evolving role in Pakistan's constitutional development. It provides specific examples of how constitutional changes can negatively impact the judiciary, a crucial counter-point for a comprehensive answer.",
+    "summary": [
+      "An International Commission of Jurists (ICJ) report, 'Judicial Capture,' highlights severe damage to Pakistan's judiciary caused by the 26th and 27th Constitutional Amendments.",
+      "The report concludes these amendments have placed the highest courts under political and executive control, undermining their institutional independence.",
+      "This loss of independence violates Pakistan's obligations under international law, specifically Article 14 and Article 2(3) of the ICCPR and the UN Basic Principles on the Independence of the Judiciary.",
+      "The article suggests that prior judicial overreach was used as a pretext by the government to seize control rather than enact genuine reforms, consequently depriving human rights victims of effective legal remedies.",
+      "It advocates for careful, deliberate consensus-building and extensive debate for any future constitutional amendments to prevent further damage to judicial independence, cautioning against hasty legislation."
+    ],
+    "facts": [
+      "The 26th and 27th Constitutional Amendments are cited as the cause of damage to judicial independence.",
+      "The International Commission of Jurists (ICJ) report is titled 'Judicial Capture: Independence of the Judiciary in Pakistan after the 26th and 27th Constitutional Amendments.'",
+      "The report identifies violations of Article 14 and Article 2(3) of the International Covenant on Civil and Political Rights (ICCPR) and the UN Basic Principles on the Independence of the Judiciary.",
+      "Santiago Canton is the Secretary-General of the ICJ.",
+      "The article mentions a timeline where the Pakistani judiciary's path since 2024 is examined, with the report published on November 20th, 2026."
+    ],
+    "academicReferences": [
+      "'Judicial Capture: Independence of the Judiciary in Pakistan after the 26th and 27th Constitutional Amendments' by the International Commission of Jurists (ICJ).",
+      "The Constitution of Pakistan, specifically the 26th and 27th Amendments.",
+      "International Covenant on Civil and Political Rights (ICCPR), particularly Article 14 and Article 2(3).",
+      "UN Basic Principles on the Independence of the Judiciary."
+    ],
+    "vocabulary": [
+      {
+        "word": "hindsight",
+        "type": "noun",
+        "definition": "understanding an event or situation only after it has happened.",
+        "sentence": "In hindsight, the rapid passage of the amendments proved detrimental to judicial independence."
+      },
+      {
+        "word": "enactments",
+        "type": "noun",
+        "definition": "a law, statute, or decree made, especially by a legislative body.",
+        "sentence": "The ICJ report detailed the damage the two enactments have wrought on Pakistan’s judiciary."
+      },
+      {
+        "word": "wrought",
+        "type": "verb",
+        "definition": "caused or brought about (past participle of work, in an archaic sense).",
+        "sentence": "The amendments have wrought significant damage to the institutional integrity of the courts."
+      },
+      {
+        "word": "pretext",
+        "type": "noun",
+        "definition": "a reason given in justification of a course of action that is not the real reason.",
+        "sentence": "The government used frustrations with judicial overreach as a pretext to seize control."
+      },
+      {
+        "word": "apprehensive",
+        "type": "adjective",
+        "definition": "anxious or fearful that something bad or unpleasant will happen.",
+        "sentence": "Those who partnered with the government on earlier legislation are now apprehensive of what a new rewrite will entail."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary conclusion of the International Commission of Jurists (ICJ) report regarding the 26th and 27th Constitutional Amendments?",
+        "options": [
+          "They strengthened the judiciary's ability to scrutinize executive actions.",
+          "They placed the highest courts under the control of political and executive branches.",
+          "They resolved the issue of judicial overreach into parliament's domain.",
+          "They aligned Pakistan's judiciary more closely with international legal standards."
+        ],
+        "answerIndex": 1,
+        "explanation": "The report explicitly concludes that the amendments have placed the highest courts under the control of the political and executive branches, leading to a loss of independence."
+      },
+      {
+        "question": "According to the article, what international instruments are mentioned as being violated by the loss of judicial independence in Pakistan?",
+        "options": [
+          "The Universal Declaration of Human Rights and the Geneva Conventions.",
+          "The Kyoto Protocol and the Paris Agreement.",
+          "Article 14 of the ICCPR and the UN Basic Principles on the Independence of the Judiciary.",
+          "The Rome Statute and the Vienna Convention."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states the judiciary no longer enjoys guarantees required by 'Article 14' of the International Covenant on Civil and Political Rights (ICCPR) and the UN Basic Principles on the Independence of the Judiciary."
+      },
+      {
+        "question": "What does Santiago Canton, ICJ secretary-general, suggest was the government's true intention behind the 26th and 27th Amendments, despite claims of reform?",
+        "options": [
+          "To genuinely address prior issues of judicial overreach.",
+          "To strengthen the separation of powers.",
+          "To use frustrations as a pretext to seize full control of the judiciary.",
+          "To enhance the judiciary's role in constitutional development."
+        ],
+        "answerIndex": 2,
+        "explanation": "Santiago Canton states the government 'used those frustrations as a pretext to seize full control of the judiciary rather than enact serious reforms.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How have the 26th and 27th Constitutional Amendments, according to the ICJ report, impacted the institutional independence of Pakistan's judiciary?",
+        "back": "The amendments have placed the country's highest courts under the control of the political and executive branches, leading to a significant loss of judicial independence."
+      },
+      {
+        "front": "What is the ICJ's stated analytical focus regarding its report on Pakistan's judiciary, distinguishing it from political disputes?",
+        "back": "The ICJ's analysis focuses on the institutional framework in which the judiciary operates, specifically whether it aligns with Pakistan’s obligations under international law, rather than taking a stance on political disputes."
+      },
+      {
+        "front": "What negative consequence for human rights victims is identified due to the loss of judicial independence in Pakistan?",
+        "back": "The loss of judicial independence has stripped victims of human rights abuses of their right to an effective legal remedy under domestic law and Article 2(3) of the ICCPR."
+      },
+      {
+        "front": "What critical recommendation does the article offer regarding future constitutional amendments in Pakistan?",
+        "back": "The article recommends that all proposed amendments be debated at length and enacted only after careful, deliberate consensus has been built, to avoid the damage caused by hasty legislation."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795150074961-248",
+    "title": "Settling disputes",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045828/settling-disputes",
+    "date": "2026-11-20",
+    "author": "none@none.com (Editorial)",
+    "content": "WITH almost 2m court cases clogging the lower judiciary — most of them in Punjab — Chief Minister Maryam Nawaz’s nod to a proposed panchayat system to resolve local-level disputes is expected to be well received by many litigants. Several factors are responsible for a situation in which disputing parties often find themselves waiting for decades before their cases are settled. A shortage of judges, unclear rules, frequent court adjournments, and corruption at all tiers are just a few of the underlying causes. It is no wonder then that informal forums of ‘justice’, based more on centuries-old, often barbaric customs than on modern legal principles, persist in the country. Seen in this light, a panchayat system that prioritises community decision-making but with some state regulation, appears, at least theoretically, to be the right move. However, as with any initiative, it is important to closely study similar local justice schemes elsewhere before embarking on the proposed project. For instance, India’s village justice court system aimed at providing inexpensive and accessible justice to rural communities in the country, has had mixed results that should provide a useful clue for the government here. In fact, Pakistan is no stranger to alternative dispute resolution laws intended to reduce the burden on the courts. The Punjab Alternative Dispute Resolution Act, 2019 — recently repealed by the Punjab Alternative Dispute Resolution Ordinance, 2026 — is a case in point. The ‘success’ of the repealed law can justifiably be questioned. How will the proposed panchayat framework ensure better results?\nIt is too early to be ambitious. Small steps towards the larger goal of an integrated justice system will allow the authorities to ensure accessible legal relief for Pakistan’s rural communities — measures that are sensitive to local concerns without straying from constitutional norms. Above all, there can be no further dillydallying on reforms that strengthen the judicial system — judicial slots must be filled, procedures simplified, and corruption reined in.\nPublished in Dawn, November 20th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2017-JUD",
+      "paper": "Pakistan Affairs",
+      "year": 2017,
+      "question": "Discuss the role of judiciary in the constitutional development of Pakistan."
+    },
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs",
+    "topic": "Judicial Reforms, Alternative Dispute Resolution, and Challenges to Justice System in Pakistan",
+    "whyMatters": "This article is crucial for understanding the systemic challenges and inefficiencies within Pakistan's judicial system, which directly impact its capacity to effectively uphold constitutional development. It provides contemporary context on the critical need for reforms to enable the judiciary to fulfill its constitutional mandate of providing accessible justice and ensuring rule of law.",
+    "summary": [
+      "Pakistan's lower judiciary is severely clogged with almost 2 million court cases, leading to decades-long delays in dispute resolution.",
+      "The backlog is attributed to systemic issues including a shortage of judges, unclear rules, frequent court adjournments, and pervasive corruption at all levels.",
+      "The proposed panchayat system in Punjab aims to address local-level disputes through community decision-making with state regulation, acknowledging past mixed results of similar ADR initiatives.",
+      "Comprehensive judicial reforms are imperative, involving filling judicial vacancies, simplifying complex legal procedures, curbing corruption, and integrating local dispute resolution mechanisms within constitutional norms."
+    ],
+    "facts": [
+      "Almost 2 million court cases are clogging the lower judiciary in Pakistan, with most concentrated in Punjab.",
+      "The Punjab Alternative Dispute Resolution Act, 2019, was repealed by the Punjab Alternative Dispute Resolution Ordinance, 2026.",
+      "India's village justice court system serves as a comparative example of local dispute resolution, offering mixed results for Pakistan to study."
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan, 1973 (specifically Articles 175-203 related to the Judicature)",
+      "18th Constitutional Amendment (2010) (relevant for judicial independence and appointments)",
+      "Law and Justice Commission of Pakistan Reports (for insights into judicial reforms and justice system challenges)"
+    ],
+    "vocabulary": [
+      {
+        "word": "clogging",
+        "type": "verb",
+        "definition": "blocking or obstructing something, often to the point of slowing it down or stopping it entirely",
+        "sentence": "WITH almost 2m court cases clogging the lower judiciary — most of them in Punjab — Chief Minister Maryam Nawaz’s nod to a proposed panchayat system to resolve local-level disputes is expected to be well received by many litigants."
+      },
+      {
+        "word": "litigants",
+        "type": "noun",
+        "definition": "persons involved in a lawsuit, either as a plaintiff or a defendant",
+        "sentence": "Chief Minister Maryam Nawaz’s nod to a proposed panchayat system to resolve local-level disputes is expected to be well received by many litigants."
+      },
+      {
+        "word": "dillydallying",
+        "type": "verb",
+        "definition": "wasting time through indecision or hesitation; dawdling",
+        "sentence": "Above all, there can be no further dillydallying on reforms that strengthen the judicial system — judicial slots must be filled, procedures simplified, and corruption reined in."
+      },
+      {
+        "word": "reined in",
+        "type": "verb",
+        "definition": "controlled or stopped something, often by limiting its scope or power",
+        "sentence": "Above all, there can be no further dillydallying on reforms that strengthen the judicial system — judicial slots must be filled, procedures simplified, and corruption reined in."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following is NOT listed as a primary reason for the backlog of cases in Pakistan's lower judiciary?",
+        "options": [
+          "Lack of public awareness about legal rights",
+          "Shortage of judges",
+          "Frequent court adjournments",
+          "Corruption at all tiers"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly lists 'shortage of judges, unclear rules, frequent court adjournments, and corruption at all tiers' as reasons for the backlog. Lack of public awareness, while potentially a factor in the broader justice system, is not mentioned as a primary cause of case backlog in this specific article."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary challenge facing Pakistan's lower judiciary as highlighted in the article?",
+        "back": "The lower judiciary is clogged with almost 2 million court cases, leading to extensive delays in dispute resolution."
+      },
+      {
+        "front": "List two systemic issues contributing to the judicial backlog mentioned in the article.",
+        "back": "A shortage of judges, unclear rules, frequent court adjournments, and corruption at all tiers are key contributors."
+      },
+      {
+        "front": "What is the proposed solution by Chief Minister Maryam Nawaz for resolving local-level disputes?",
+        "back": "A proposed panchayat system, aiming for community decision-making with some state regulation, is being considered."
+      },
+      {
+        "front": "Beyond ADR, what broader reforms are deemed essential for strengthening Pakistan's judicial system?",
+        "back": "Filling judicial slots, simplifying procedures, and reining in corruption are critical broader reforms."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795150741031-480",
+    "title": "Islamic education",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045832/islamic-education",
+    "date": "2026-11-20",
+    "author": "none@none.com (Ghulam Shabbir)",
+    "content": "WHERE the Judeo-Christian tradition — despite its long coexistence with and exposure to Hellenism — failed at the fusion of religious and pure intellectual streams of thought, Islam sutured the fabric of transcendental and empirical reality so seamlessly that it gushed forth to spread like a prairie fire from Baghdad to India, Transoxiana and further still. The Quran so vigorously fired the imagination of Muslims and implanted philosophic spirit in them that within a short time they mastered the sciences and were at the helm of world affairs.\nHowever, orthodox elements blew this fusion of metaphysical and social reality into shreds and after a few centuries, the real ‘dark ages’ of Muslims set in. The clergy was left with little more than a threadbare formal structure of ideas. How did things come to such a pass?\nIt was a protracted war between orthodox elements and philosophers, fought from rigid positions which shaped the content of Islamic education and Muslim attitude towards philosophy and positive sciences, of which both Muslim thought and philosophy paid the price. The capture of Bait al-Hikma at Baghdad by the Mu’tazila, with an Abbasid inquisition board, was a shot across the bow to the ulema to make them realise how vital an education system is to state and society. So they set about to organise and control education. Thus, Nizamiyya Baghdad was the first orthodox college of higher learning where Ghazali served as professor. At almost the same time occurred the philosophical movement, which was critical of religion.\nGhazali saved religious thought from the critique of philosophers, but his wholesale rejection of philosophy and positive sciences proved a watershed event for later developments, as his community took his statements as ‘eternal truth’ rather than an overreaction to an extreme historical challenge.\nBoth philosophers and orthodoxy failed to mediate their rigidity.\nHowever, he failed to appreciate that no structure of ideas can survive without constant interaction with a living and growing stream of positive and scientific thought, and banishment of positive sciences can deal a deadly blow to knowledge as an organic whole.\nIbn Khaldun warned philosophers that the balance (intellect), meant to weigh gold, cannot weigh down mountains and told orthodoxy that ulema severed from Sitz im leben and social realities cannot be the real successors of the Prophet (PBUH). In a nutshell, both philosophers and orthodoxy failed to mediate their rigidity and went off a cliff. So, where philosophers outraged theology by interpreting the Quran through the lens of Hellenistic thought, orthodoxy proscribed philosophy, positive sciences and their instrument, human reason. Free thought, by its very nature, is bound to exceed on certain points, but its remedy is not to stifle it but to keep on criticising it to reach a balanced conclusion.\nHowever, rise of philosophy in Islam was sporadic and individual. It never took the form of a movement or a tradition of enduring roots, as was the case in ancient Greece and the modern West. Confined to theological problems, the Mu’tazila’s rationalism was not purely philosophical as the fulcrum of their thought was to know whether free will was compatible with the idea of a Just God. Muslim philosophers were too enamoured of metaphysical heights to climb down to ethics. Had they made Sharia an object of study, the subsequent history of philosophy and Islamic thought could have been different.\nThus, since orthodoxy’s triumph against philosophy, Ghazali has been leading the fleets of Islamic thought to harbour on theological rather than Archimedean principles. Ibn al-Arabi extended his premises to supplant reason with Sufi intuition. Ibn Taimiyya’s attacks against philosophy are well-known. Al-Shatibi discourages the cultivation of purely in­­tellectual disciplines since they are not related to action and denies the role of reason in formulation of law and moral imperatives, though he himself employs a generous quantum of reason in his constructs. Sheikh Ahmad Sirhindi unreservedly ridicules and rejects positive sciences.\nThus, madressah education, arguably since its very inception, was destined to culminate in intellectual barrenness. The panacea lies in an organic fusion of traditional learning and modern ethos, but given the reforms at Deoband, al-Azhar and Zaituna, the ulema manoeuvred juxtaposition of the two rather than synthesis of the old and the new. The long-quarantined religious knowledge gets fossilised and an unalterable law of God is that fossils do not survive long. As it is stated in the Holy Quran, “…We did not do them injustice; but they were unjust to themselves. …” (11:101). Are Muslims ready to reform Islamic education, or are they waiting for a Luther?\nThe writer is an academic.\nPublished in Dawn, November 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Islamic Studies / Pakistan Affairs",
+    "topic": "Evolution and Challenges of Islamic Education; Intellectual Decline in Muslim Civilisation",
+    "whyMatters": "This article provides a critical historical analysis of the intellectual trajectory of Islamic civilization, explaining the roots of current challenges in Islamic education. Understanding these historical dynamics and the calls for reform is crucial for aspiring civil servants to analyze societal issues and propose informed policy recommendations.",
+    "summary": [
+      "Early Islam achieved a seamless fusion of transcendental and empirical reality, leading to rapid advancements in sciences and philosophy, unlike the Judeo-Christian tradition.",
+      "A protracted conflict between orthodox elements and philosophers, marked by rigid positions, led to the eventual destruction of this intellectual synthesis.",
+      "Ghazali's wholesale rejection of philosophy and positive sciences, though intended to save religious thought, became a pivotal event leading to the subsequent intellectual barrenness and 'dark ages' for Muslims.",
+      "The article argues that the triumph of orthodoxy confined Islamic thought to theology and led to madrasah education's culmination in intellectual barrenness, necessitating an organic fusion of traditional and modern learning."
+    ],
+    "facts": [
+      "Bait al-Hikma (House of Wisdom) at Baghdad was captured by the Mu’tazila, leading to an Abbasid inquisition.",
+      "Nizamiyya Baghdad was established as the first orthodox college of higher learning, where Ghazali served as a professor.",
+      "Ibn Khaldun warned philosophers that intellect cannot weigh down mountains and told orthodoxy that ulema severed from social realities cannot be the real successors of the Prophet (PBUH)."
+    ],
+    "academicReferences": [
+      "Ibn Khaldun's 'Muqaddimah' (His views on 'Sitz im leben' and social realities are directly referenced in the article).",
+      "The Abbasid Caliphate intellectual movements (Context for Bait al-Hikma and Mu'tazila's influence on state education).",
+      "Al-Azhar, Deoband, and Zaituna reforms (Referenced as examples of contemporary institutions attempting reform in Islamic education)."
+    ],
+    "vocabulary": [
+      {
+        "word": "sutured",
+        "type": "verb",
+        "definition": "To join or stitch together, especially with a suture.",
+        "sentence": "Islam sutured the fabric of transcendental and empirical reality so seamlessly."
+      },
+      {
+        "word": "transcendental",
+        "type": "adjective",
+        "definition": "Beyond normal or physical human experience; supernatural.",
+        "sentence": "The article discusses the early Islamic tradition's ability to integrate transcendental and empirical thought."
+      },
+      {
+        "word": "proscribed",
+        "type": "verb",
+        "definition": "To forbid something, especially by law; to denounce or condemn.",
+        "sentence": "Orthodoxy proscribed philosophy, positive sciences, and their instrument, human reason."
+      },
+      {
+        "word": "panacea",
+        "type": "noun",
+        "definition": "A solution or remedy for all difficulties or diseases.",
+        "sentence": "The panacea lies in an organic fusion of traditional learning and modern ethos."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what was the primary impact of Ghazali's wholesale rejection of philosophy and positive sciences?",
+        "options": [
+          "A) It ushered in a new era of scientific discovery in the Muslim world.",
+          "B) It led to a watershed event, contributing to the 'dark ages' for Muslims.",
+          "C) It fostered greater dialogue between orthodox elements and philosophers.",
+          "D) It primarily advanced the study of ethics within Islamic thought."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'Ghazali saved religious thought from the critique of philosophers, but his wholesale rejection of philosophy and positive sciences proved a watershed event for later developments, as his community took his statements as ‘eternal truth’ rather than an overreaction to an extreme historical challenge.'"
+      },
+      {
+        "question": "What does the article identify as the initial achievement of early Islamic intellectual tradition regarding religious and intellectual streams of thought?",
+        "options": [
+          "A) It kept religious and intellectual streams strictly separate to avoid conflict.",
+          "B) It successfully fused transcendental and empirical reality seamlessly.",
+          "C) It struggled to integrate Hellenistic thought into its religious framework.",
+          "D) It solely focused on metaphysical heights, neglecting empirical sciences."
+        ],
+        "answerIndex": 1,
+        "explanation": "The first paragraph explicitly states, 'Islam sutured the fabric of transcendental and empirical reality so seamlessly that it gushed forth to spread like a prairie fire...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How did early Islam initially approach the fusion of religious and intellectual thought, according to the article?",
+        "back": "It seamlessly sutured the fabric of transcendental and empirical reality, leading to rapid advancements in sciences and world affairs."
+      },
+      {
+        "front": "What pivotal role did Ghazali play in the historical trajectory of Islamic education as described in the article?",
+        "back": "Ghazali saved religious thought from philosophical critique but his wholesale rejection of philosophy and positive sciences proved a watershed event, leading to intellectual decline."
+      },
+      {
+        "front": "What was Ibn Khaldun's dual critique of both philosophers and orthodoxy?",
+        "back": "He warned philosophers that intellect cannot weigh down mountains (i.e., not everything is reducible to reason) and told orthodoxy that ulema severed from social realities cannot be true successors of the Prophet."
+      },
+      {
+        "front": "What 'panacea' does the author propose for the intellectual barrenness of madrasah education?",
+        "back": "An organic fusion of traditional learning and modern ethos, rather than a mere juxtaposition of the two."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795149720206-867",
+    "title": "Islamabad province?",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045831/islamabad-province",
+    "date": "2026-11-20",
+    "author": "none@none.com (Aasim Sajjad Akhtar)",
+    "content": "OPPOSITION to it has been largely suppressed, but all is not well within the ruling regime. One way or the other, the proposal to break up existing federating units will ultimately shape the regime’s endgame.\nStage one has been completed without major resistance, the PTI disarmed through the imposition of emergency in KP, and a neo-administrative experiment comprising 12 districts in the southern and ex-Fata regions operationalised.\nThe ultimate prize for the establishment is the long-desired separation of Karachi from the rest of Sindh. And this is where the Bhutto-Zardari clan, facing an existential threat, will be forced to play its hand.\nBut before this, there are likely to be other moves expected to trigger less resistance, both within the ruling coalition and outside it. One of these is the plan to make Islamabad into a province.\nThe bureaucracy rules Islamabad without impediment.\nThe only proposal on record, finalised by a committee headed by Planning Minister Ahsan Iqbal, has advised a 27-member assembly, headed by an elected chief minister/mayor. The elephant in the room is the viceregal institution which dictates the fates of Islamabad’s three million people — the Capital Development Authority (CDA).\nPakistani democracy is, at best, an aspiration rather than a functioning reality connected to the will of the people. Elected institutions operate under pressure, while most who claim to be representatives of the people wage class war daily. Nevertheless, the pretence of democracy remains.\nThe federal capital is a glaring exception. The bureaucracy rules here without impediment, the popular will be damned. There has been one citywide experiment with local government since the capital was created in 1960. The 2016 elections brought the Municipal Corporation of Islamabad (MCI) into existence, under the nominal authority of an elected mayor. The mayor and elected representatives down to the level of union councillor had virtually zero legislative and financial power. Elections never took place again, and the MCI was transformed into yet another bureaucratic feeder to the CDA.\nSo if Islamabad is given a legislative assembly, will the CDA be cut down to size? I choose my words carefully — because those who are poised to ‘give’ Islamabad an assembly have, over the past year or so, made their plans for the city and its environs sufficiently clear.\n    \nA short list of ‘achievements’ reads as follows: thousands of homes in katchi abadis and historical villages bulldozed; suburban sprawl in the form of land-grabbing real-estate schemes extended; thousands of trees razed and the city’s air poisoned by relentless construction.\nWith the CDA’s Master Plan flagrantly violated by its own commercial projects and big proprietors, another post-facto amendment in zoning regulations was recently approved by the government. As for what is to come, entire chunks of Rawal Lake and many villages around Bhara Kahu will be sacrificed for a 350-acre safari park, while the area adjacent to the Bari Imam shrine — where forced evictions took place earlier this year — is being given over to hotel developers.\nWill Islamabad’s much-celebrated green spaces, already limited public services, and working-class settlements be left by the time the purported legislative assembly comes into place? Will the dominant imaginary of ‘development’ fronted by the state apparatus — of which the CDA is a poster-child — suddenly give way to a political-economic-environmental arrangement that serves the mass of Islamabad’s people?\n    \nOnly the awfully naïve believe that the plans for an Isla­mabad province — which may ex­­tend into adjacent districts like Mu­­rree and Haripur currently part of Punjab and KP respectively — are driven by democ­r­atic impulses. Seen thus, the Islam-abad case provides the most obvious indication of what the new provinces hullabaloo is all about; an attempt to subjugate the political and economic interests of the mass of the population, and future generations to boot, all in the name of efficient administration.\nOver the course of the past year, mainstream parties like the PPP and PML-N have made no effort to stand with katchi abadi dwellers and villagers whose homes have been bulldozed in Islamabad. They have not resisted the barrage of ‘development’ projects that have forever destroyed local ecologies.\nIslamabad was always the preserve of the elite, but working people fought for their rights with some success, mainstream politicians paying heed in exchange for votes. Like in the rest of the country, Islamabad’s working masses now have to exclusively wage their own political fight. They are up against both powerful elements and political entrepreneurs who hunt with the hare and run with the hound.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, November 20th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 77,
+    "paper": "Pakistan Affairs / Political Science / Current Affairs",
+    "topic": "Federalism, Urban Governance, and Administrative Restructuring in Pakistan",
+    "whyMatters": "This article critically analyzes proposals for administrative restructuring in Pakistan, particularly the potential provincial status for Islamabad. It offers insights into the interplay of federalism, bureaucratic power, and elite-driven urban development, crucial for understanding contemporary governance challenges.",
+    "summary": [
+      "Proposed administrative changes, including an Islamabad province and the separation of Karachi, are part of a broader 'regime's endgame' aimed at reshaping existing federating units.",
+      "The plan to make Islamabad a province is suspected to be less about democratic empowerment and more about solidifying bureaucratic control and facilitating elite-driven commercial development.",
+      "Existing local governance structures in Islamabad, such as the Municipal Corporation of Islamabad (MCI), have been deliberately disempowered, highlighting a significant democratic deficit in the capital's administration.",
+      "Current 'development' projects in Islamabad, spearheaded by entities like the CDA, prioritize commercial interests, land-grabbing, and the destruction of natural environments and working-class settlements, with mainstream political parties failing to protect affected communities."
+    ],
+    "facts": [
+      "The only recorded proposal for an Islamabad province suggests a 27-member assembly led by an elected chief minister/mayor.",
+      "The Capital Development Authority (CDA) is described as a 'viceregal institution' dictating the fates of Islamabad's three million people.",
+      "The 2016 Municipal Corporation of Islamabad (MCI) experiment for local government had 'virtually zero legislative and financial power' and was later transformed into a bureaucratic feeder to the CDA.",
+      "Planned 'development' includes sacrificing parts of Rawal Lake and many villages around Bhara Kahu for a 350-acre safari park."
+    ],
+    "academicReferences": [
+      "18th Amendment to the Constitution of Pakistan (2010): Relevant for understanding provincial autonomy, decentralization debates, and the federal structure challenged by proposed administrative changes.",
+      "Local Government Ordinances/Acts (e.g., ICT Local Government Act 2015): Provides legal context for the structure and powers of municipal bodies like the MCI in Islamabad, highlighting their limitations.",
+      "Master Plan for Islamabad (1960 and subsequent amendments): The foundational document governing Islamabad's planning and development, frequently referenced for violations by the CDA."
+    ],
+    "vocabulary": [
+      {
+        "word": "viceregal",
+        "type": "adjective",
+        "definition": "Relating to a viceroy, a ruler exercising authority in a colony on behalf of a sovereign.",
+        "sentence": "The elephant in the room is the viceregal institution which dictates the fates of Islamabad’s three million people — the Capital Development Authority (CDA)."
+      },
+      {
+        "word": "impediment",
+        "type": "noun",
+        "definition": "A hindrance or obstruction in doing something.",
+        "sentence": "The bureaucracy rules Islamabad without impediment."
+      },
+      {
+        "word": "flagrantly",
+        "type": "adverb",
+        "definition": "In a conspicuously or obviously offensive way.",
+        "sentence": "With the CDA’s Master Plan flagrantly violated by its own commercial projects and big proprietors..."
+      },
+      {
+        "word": "katchi abadis",
+        "type": "noun",
+        "definition": "Informal settlements or slums, often characterized by unauthorized construction and lack of basic services.",
+        "sentence": "Thousands of homes in katchi abadis and historical villages bulldozed."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the author, what is the primary underlying motivation for the plan to make Islamabad into a province?",
+        "options": [
+          "A) To genuinely empower the three million people of Islamabad through local democracy.",
+          "B) To cut down the power of the Capital Development Authority (CDA) and decentralize governance.",
+          "C) To subjugate the political and economic interests of the masses in favor of 'efficient administration' and elite-driven development.",
+          "D) To attract more international investment by creating a more autonomous administrative unit."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author explicitly states, 'Only the awfully naïve believe that the plans for an Islamabad province... are driven by democratic impulses. Seen thus, the Islamabad case provides the most obvious indication of what the new provinces hullabaloo is all about; an attempt to subjugate the political and economic interests of the mass of the population...'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the author's main skepticism regarding the proposed Islamabad province?",
+        "back": "The author believes it's not driven by democratic impulses but rather by an 'attempt to subjugate the political and economic interests of the mass of the population' for 'efficient administration' and elite-driven development."
+      },
+      {
+        "front": "How does the article describe the democratic functionality of local government institutions in Islamabad?",
+        "back": "It states that institutions like the Municipal Corporation of Islamabad (MCI) had 'virtually zero legislative and financial power' and were disempowered, indicating a facade of democracy rather than genuine popular will."
+      },
+      {
+        "front": "What specific negative consequences of 'development' in Islamabad does the author highlight?",
+        "back": "The author mentions bulldozing thousands of homes in katchi abadis and historical villages, suburban sprawl through land-grabbing, razing trees, poisoning air with construction, and sacrificing natural areas for commercial projects."
+      },
+      {
+        "front": "What is the author's criticism of mainstream political parties concerning 'development' in Islamabad?",
+        "back": "Mainstream parties like PPP and PML-N have made no effort to stand with affected katchi abadi dwellers and villagers or resisted the destructive 'development' projects, leaving working masses to fight alone."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795149805479-813",
+    "title": "Leveraging the solar revolution",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045586/leveraging-the-solar-revolution",
+    "date": "2026-11-19",
+    "author": "none@none.com (Ali Tauqeer Sheikh)",
+    "content": "AT COP31, Prime Minister Shehbaz Sharif told a high-level dialogue on electrification that “an extraordinary transition has already taken place” in Pakistan: nearly 22 gigawatts of rooftop solar in two years, “a quiet revolution by ordinary citizens seeking affordable power and a cleaner, more predictable future”. More than one in 10 motorcycles sold this year, he added, was electric.\nHe was right to showcase it. Few countries can match that speed. Fewer can accept that their citizens paid for it.\nNobody planned it: capacity payments rose whether plants ran or not, the rupee fell, and the 2023 IMF programme stopped the state hiding these costs in subsidies. Base tariffs doubled between FY22 and FY25, just as Chinese panels became cheap and loadshedding persisted. The IMF did not create the high cost of power. It made it visible, and achieved the revolution by accident, what policy had not.\n    \nThe dividend is large. By the estimates of Ember, CREA and Renewables First, distributed solar avoided over $12 billion in oil and gas imports by February 2026, with $6.3bn more expected this year, and about 35 million tonnes of CO2 in FY25. Counting grid losses, it supplies about a third of the country’s electricity. On farms, solar runs 52pc of 1.83m irrigation pumps, almost entirely without state help. Banks financed less than 5pc of the $14bn invested. The official response has been to contain it, with a sales tax on panels and cuts to net metering.\nA showcase needs a strategy. The leveraging should run on two tracks.\nPhase one put panels on roofs; phase two must make that power go further.\nThe first is phase two. Phase one put panels on roofs; phase two must make that power go further. Rooftops have already displaced most of the daytime thermal power they can reach, so more panels alone bring falling returns. Three areas will win the game.\nStorage, with a tariff that spreads the grid’s fixed costs fairly, so surplus daytime power serves the evening peak. Transport, where petrol imports are still growing: electric motorcycles reached 13pc of sales by August, already ahead of the New Energy Vehicles Policy’s schedule. The 30pc target should move from 2030 to 2028 for automobiles, two-wheelers, rickshaws and delivery fleets first, with battery-swap and charging corridors for bikes and freight planned along the motorways now. And solar mini-grids for the 40m people still without electricity.\nThe prize is worth the effort. Adding 3GW of distributed solar a year would lift avoided emissions to about 50m tonnes by 2030, as per Renew­ables First estimates, more than the power sector now emits. At this year’s rate, fuel import savings by then would approach $25bn. Electric bikes save less, but their savings will help poorer hou­seholds, which is where a transition survives or dies.\nThe second track is harder. If fiscal conditionality could transform mitigation by accident, what could adaptation measures achieve by design, without waiting for grants or loans?\nAgriculture uses more than 93 per cent of the country’s freshwater, yet produces under $1 of output per cubic metre, against a global average near $17. Solar has made matters worse: once panels are paid for, pumping groundwater costs nothing at the margin. The rice area grew by about 30pc between 2023 and 2025, even as Punjab’s water tables fell. Flooded paddies also emit methane, so the same expansion that drains aquifers adds to emissions.\nIslamabad and the provinces already hold the levers. Five would do the most.\nFirst, conditional solarisation. Punjab already subsidises tubewell conversion; each should require drip or sprinkler irrigation and a flow meter. The Punjab Water Act 2019 allows new solar wells to be registered.\nSecond, volumetric abiana. The canal water charge is so low that sugarcane and rice grow where the water cannot support them. Charging by volume and crop is a provincial power, and it raises revenue.\nThird, retargeted fertiliser support. IMF pressure ended most of the feedstock gas subsidy to urea plants in 2024. Blanket urea still invites overuse; the excess escapes as nitrous oxide, a potent greenhouse gas, or leaches into groundwater. Tying the remaining support, including Kissan Card credit, to soil testing and slow-release coated urea would cut the waste and the fertiliser bill together.\nFourth, alternate wetting and drying for rice. Letting paddies dry between irrigations cuts both water use and methane. Punjab and Sindh can initiate this through their extension services and Kissan/Hari cards, with a low-carbon basmati label for buyers who increasingly ask about embedded emissions.\nFifth, a satellite-enforced no-burn rule. Tying Kissan Card eligibility and wheat procurement to satellite checks on residue burning, already run for smog, is an administrative change. Lahore would breathe cleaner air.\n    \nNone of these needs a donor. The petroleum levy brought in a record Rs1.57 trillion in FY26, and the climate support levy is budgeted at Rs50bn this year. Ring-fencing a fixed share of the first, and all of the second, would fund them without waiting on donor cycles. The provinces, which own agriculture and irrigation, ran a combined cash surplus of Rs1.45tn last year, led by Punjab; only Balochistan’s was marginal.\nThose surpluses are an IMF target, which brings the Fund back in. Its $1.4bn Resilience and Sustainability Facility already lists irrigation water pricing, but its water measures are hostage to influential interest groups. The two remaining reviews in 2027 can begin the shift; the successor programme should put adaptation at the centre, with these five as structural benchmarks carrying provincial timelines. The Fund’s leverage transformed Pakistan’s energy use by accident. It can now be used on water deliberately.\nSome things need capital: flood protection, climate-proofed infrastructure, livestock systems that cut methane. That is where concessional finance belongs. A country that has done the rest with its own instruments makes a far stronger case for it.\nPhase one happened by accident. Phase two cannot. Islamabad should design the next transformation, in water as well as power, rather than wait for the next IMF programme to force it. The first revolution cut Pakistan’s fuel bill and emissions. The second can make the country resilient.\nThe writer is a climate expert.\nPublished in Dawn, November 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 96,
+    "paper": "Pakistan Affairs / Economics / Environmental Science / Public Policy / Current Affairs",
+    "topic": "Energy Transition, Climate Change Adaptation, Agricultural Reforms, Economic Policy",
+    "whyMatters": "This article provides a unique case study of an 'accidental revolution' in Pakistan's energy sector, offering valuable insights into market-driven change versus planned policy. It also outlines critical, actionable policy recommendations for climate adaptation and agricultural sustainability, which are directly relevant to governance and economic reform discussions in competitive exams.",
+    "summary": [
+      "Pakistan achieved an \"accidental revolution\" with 22 GW of rooftop solar in two years, driven by citizens seeking affordable power amidst rising tariffs and loadshedding, making it a significant un­planned mitigation success.",
+      "Phase Two of the solar revolution requires strategic interventions in power storage, electric transport (motorcycles, autos, delivery fleets), and solar mini-grids to extend the benefits beyond daytime thermal displacement.",
+      "Beyond energy, a \"harder track\" involves implementing designed adaptation measures in agriculture, particularly addressing inefficient water use exacerbated by cheap solar pumping and the associated environmental costs.",
+      "Five specific policy levers are proposed for agricultural adaptation: conditional solarisation, volumetric abiana, retargeted fertiliser support, alternate wetting and drying for rice, and a satellite-enforced no-burn rule, funded through domestic resources and integrated into IMF programs."
+    ],
+    "facts": [
+      "Nearly 22 gigawatts of rooftop solar installed in Pakistan in two years, reflecting a 'quiet revolution'.",
+      "Distributed solar is estimated to have avoided over $12 billion in oil and gas imports by February 2026, with an additional $6.3 billion expected this year.",
+      "Pakistan's agriculture uses over 93% of the country’s freshwater, yet produces under $1 of output per cubic meter, significantly below the global average of $17."
+    ],
+    "academicReferences": [
+      "IMF Stand-By Arrangement (SBA) / Extended Fund Facility (EFF) for Pakistan (reflecting the impact of fiscal conditionality)",
+      "Pakistan's National Climate Change Policy (2012, updated 2021) (for national policy context on climate action and targets)",
+      "United Nations Framework Convention on Climate Change (UNFCCC) / Paris Agreement (COP mechanisms) (for the broader international climate context and mitigation/adaptation frameworks)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Leveraging",
+        "type": "verb",
+        "definition": "Using something to maximum advantage.",
+        "sentence": "The article discusses leveraging the accidental solar revolution into a planned second phase for greater benefit."
+      },
+      {
+        "word": "Fiscal conditionality",
+        "type": "noun",
+        "definition": "Conditions imposed by financial institutions (e.g., IMF) related to a government's budgetary and financial policies.",
+        "sentence": "IMF's fiscal conditionality, by making energy costs visible, inadvertently spurred the solar revolution."
+      },
+      {
+        "word": "Mitigation",
+        "type": "noun",
+        "definition": "The action of reducing the severity, seriousness, or painfulness of something; in climate context, reducing greenhouse gas emissions.",
+        "sentence": "Rooftop solar contributed significantly to emissions mitigation by displacing thermal power."
+      },
+      {
+        "word": "Adaptation",
+        "type": "noun",
+        "definition": "The process of adjusting to new conditions; in climate context, adjusting to actual or expected climate and its effects.",
+        "sentence": "The second track of policy focuses on planned adaptation measures in agriculture to build resilience."
+      },
+      {
+        "word": "Ring-fencing",
+        "type": "verb",
+        "definition": "To guarantee that a specific portion of funds is used for a designated purpose, preventing diversion.",
+        "sentence": "Ring-fencing the petroleum levy and climate support levy would fund critical agricultural adaptation initiatives."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What was the primary driver for the 'quiet revolution' of rooftop solar installation in Pakistan, according to the article?",
+        "options": [
+          "A) Government subsidies for solar energy",
+          "B) IMF conditionalities forcing renewable energy adoption",
+          "C) Decreasing cost of solar panels and rising electricity tariffs combined with loadshedding",
+          "D) International grants for renewable energy projects"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article states that 'Base tariffs doubled... just as Chinese panels became cheap and loadshedding persisted,' leading ordinary citizens to seek affordable power, making option C correct."
+      },
+      {
+        "question": "Which of the following is NOT explicitly mentioned as one of the five proposed policy levers for agricultural adaptation in the article?",
+        "options": [
+          "A) Volumetric abiana (charging by volume for canal water)",
+          "B) Conditional solarisation of tubewells (requiring efficient irrigation methods)",
+          "C) Promoting large-scale corporate farming ventures",
+          "D) Satellite-enforced no-burn rule for crop residue"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article lists conditional solarisation, volumetric abiana, retargeted fertiliser support, alternate wetting and drying for rice, and a satellite-enforced no-burn rule. Promoting large-scale corporate farming ventures is not among the listed policy levers, making option C correct."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How did the IMF's role in Pakistan's economy inadvertently trigger the 'quiet revolution' in rooftop solar?",
+        "back": "The 2023 IMF programme stopped the state from hiding power costs in subsidies, making base tariffs double. This coincided with cheap Chinese panels and persistent loadshedding, pushing citizens towards solar as an affordable alternative."
+      },
+      {
+        "front": "What are the three key areas proposed for 'Phase Two' of Pakistan's solar power revolution to maximize its impact?",
+        "back": "The three areas are: energy storage (to spread surplus daytime power to the evening peak), transport electrification (e.g., motorcycles, automobiles, rickshaws, delivery fleets), and solar mini-grids for the 40 million people still without electricity."
+      },
+      {
+        "front": "According to the article, how has the widespread adoption of solar-powered irrigation pumps negatively impacted Pakistan's agriculture and environment?",
+        "back": "Once panels are paid for, pumping groundwater costs nothing at the margin, leading to overuse, falling water tables (e.g., in Punjab). The expansion of water-intensive crops like rice (which grew 30% between 2023-2025) also adds to methane emissions from flooded paddies, exacerbating both water scarcity and greenhouse gas emissions."
+      },
+      {
+        "front": "What is the proposed funding mechanism for the recommended agricultural adaptation measures, without relying on external donor cycles?",
+        "back": "The article suggests ring-fencing a fixed share of the petroleum levy (which brought in a record Rs1.57 trillion in FY26) and all of the budgeted climate support levy (Rs50bn this year) to fund these initiatives."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795149635349-792",
+    "title": "Hardening lines",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045582/hardening-lines",
+    "date": "2026-11-19",
+    "author": "none@none.com (Editorial)",
+    "content": "THE battle lines are being drawn over the creation of new provinces, as the two main partners in the ruling coalition experience a democratic reawakening. Both have recently taken to extolling the virtues of democracy — but each with their own spin.\nOn one side, PPP Chairman Bilawal Bhutto-Zardari is taking a hard stand against a division of the provinces “imposed by force”. He has warned it might lead to bloodshed. As an alternative, he is pushing the idea of a political reset, which would entail recognising and respecting the mandate given to opposition parties, especially the PTI.\nOn the other side, various government ministers, mostly from the PML-N, are lecturing anyone who will listen on the merits of a public referendum. Though the controversies that followed the general elections are yet to be resolved, they are arguing, rather earnestly, that holding a nationwide referendum on new provinces is the fairest way forward.\nMr Bhutto-Zardari made an astute observation in his Tuesday speech at the Karachi Press Club: “In our history, a referendum has always been carried out for an undemocratic act and never a democratic one.” More jarring was his revelation that “up until today, neither the prime minister nor a single member of the cabinet has brought up the issue [of new provinces] with the president of Pakistan or me”.\n    \nWhat is one to make of this, considering that several members of the federal cabinet, including the ministers of interior, defence and information, have been making rather forceful public statements on the topic? It suggests the issue is being litigated in the media rather than discussed among the political leadership.\nMr Bhutto-Zardari seemed frustrated with the prime minister’s silence when his ministers seem eager to discuss it. It is also strange that the president, too, has not weighed in.\nPerhaps the elders in both parties, the president among them, are testing the waters by letting Mr Bhutto-Zardari and second-tier ministers lead the conversation for now.\n    \nBut the issue will be taken up in some form sooner rather than later, and they cannot wait until the eleventh hour to make their official positions known.\nThe administrative reconfiguration of an entire country — one that ranks among the most populous in the world — is no ordinary task. It is not merely a question of drawing lines on a map: nearly every branch of the state will need to be restructured around the new configuration, and this cannot be achieved through fiat.\nThe Constitution already sets out the route: altering a province’s limits requires a constitutional amendment backed by two-thirds of that province’s assembly.\nRather than trading referendums for ultimatums, the political leadership should take the question to parliament and the provincial assemblies, and build consensus there.\nPublished in Dawn, November 19th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 79,
+    "paper": "Pakistan Affairs / Political Science / Current Affairs",
+    "topic": "Provincial Restructuring, Federalism, and Inter-Party Political Dynamics in Pakistan",
+    "whyMatters": "This article is crucial for understanding Pakistan's federal structure, constitutional amendment processes, and the ongoing political debates surrounding provincial autonomy. Aspirants can use it to analyze current governance challenges and the interplay between different political actors.",
+    "summary": [
+      "PPP Chairman Bilawal Bhutto-Zardari strongly opposes the division of provinces imposed by force, advocating for a political reset that respects opposition mandates.",
+      "PML-N ministers are promoting the idea of a nationwide public referendum as the fairest way to decide on the creation of new provinces.",
+      "Bhutto-Zardari criticized referendums in Pakistan's history as consistently associated with undemocratic acts and highlighted the lack of formal cabinet discussion on new provinces with key stakeholders.",
+      "The article asserts that the constitutional route for altering provincial limits requires a constitutional amendment backed by two-thirds of the concerned provincial assembly, urging political leadership to build consensus through parliament and provincial assemblies."
+    ],
+    "facts": [
+      "PPP Chairman Bilawal Bhutto-Zardari made his stance public during a Tuesday speech at the Karachi Press Club.",
+      "Several federal cabinet members, including the ministers of interior, defence, and information, have been making forceful public statements on new provinces.",
+      "The Constitution of Pakistan requires altering a province’s limits through a constitutional amendment backed by two-thirds of that province’s assembly."
+    ],
+    "academicReferences": [
+      "The Constitution of Pakistan, 1973 (specifically Articles related to provincial autonomy and amendments)",
+      "The 18th Amendment to the Constitution of Pakistan (for context on provincial empowerment and devolution of power)",
+      "Syed Jaffar Ahmed, 'Federalism in Pakistan: A Study of Inter-provincial Relations and Ethnic Conflict'"
+    ],
+    "vocabulary": [
+      {
+        "word": "Extolling",
+        "type": "verb",
+        "definition": "Praising enthusiastically.",
+        "sentence": "Both parties are recently taking to extolling the virtues of democracy."
+      },
+      {
+        "word": "Astute",
+        "type": "adjective",
+        "definition": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+        "sentence": "Mr Bhutto-Zardari made an astute observation in his Tuesday speech."
+      },
+      {
+        "word": "Litigated",
+        "type": "verb",
+        "definition": "Contested in a formal process, often in court, or debated publicly.",
+        "sentence": "It suggests the issue is being litigated in the media rather than discussed among the political leadership."
+      },
+      {
+        "word": "Fiat",
+        "type": "noun",
+        "definition": "A formal authorization or proclamation; an arbitrary order.",
+        "sentence": "This cannot be achieved through fiat."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the constitutional requirement for altering a province's limits in Pakistan?",
+        "options": [
+          "A constitutional amendment backed by two-thirds of that province's assembly.",
+          "A nationwide public referendum.",
+          "A simple majority vote in the National Assembly.",
+          "A presidential decree followed by cabinet approval."
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that 'The Constitution already sets out the route: altering a province’s limits requires a constitutional amendment backed by two-thirds of that province’s assembly.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is Bilawal Bhutto-Zardari's primary stance on the division of provinces?",
+        "back": "He takes a hard stand against a division of the provinces 'imposed by force' and suggests a political reset recognizing opposition mandates."
+      },
+      {
+        "front": "What method for creating new provinces is being advocated by various PML-N ministers?",
+        "back": "They are advocating for holding a nationwide public referendum on new provinces."
+      },
+      {
+        "front": "What criticism did Bhutto-Zardari make regarding the historical use of referendums in Pakistan?",
+        "back": "He observed that referendums in Pakistan's history have always been carried out for undemocratic acts, never democratic ones."
+      },
+      {
+        "front": "Where does the article suggest the political leadership should build consensus for administrative reconfiguration, instead of trading referendums for ultimatums?",
+        "back": "The political leadership should take the question to parliament and the provincial assemblies to build consensus there."
+      }
+    ]
+  },
+  {
     "id": "curated-1794978242632-93",
     "title": "Predatory medicine",
     "source": "Dawn",
@@ -10163,650 +10762,6 @@
       {
         "front": "What is Pakistan's recent engagement with Binance, and why does the hack directly concern Islamabad?",
         "back": "Pakistan reversed its anti-crypto stance, with Binance's co-founder advising its crypto council and an MoU signed to tokenize $2bn in sovereign assets; the hack raises concerns for Pakistan's digital economy strategy and asset security, impacting its capacity for broader economic integration."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793589052541-425",
-    "title": "Cyber safety\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2041310/cyber-safety",
-    "date": "2026-11-01",
-    "author": "none@none.com (Editorial)",
-    "content": "WHILE the state’s proposal to create a Cybersecurity and Social Media Awareness Council envisages needed interventions to protect children from online harm, the same body’s focus on ‘fake news’ — as described by the government — is cause for concern.\nSpeaking at a recent seminar in Islamabad, the federal information minister said there is a need to raise awareness about the “dangers of fake news”, while also emphasising the need for digital education in schools and colleges. In particular, he said children should be protected from cyberattacks. At the same event, the IT minister observed that it was important for both parents and children to know who the latter were interacting with online.\nThere can be little argument with the fact that cyberspace can be a dangerous place for children. According to a Unicef report, one in 16 children in Pakistan aged 12-17 experienced “at least one form of technology-facilitated sexual exploitation and abuse” in a single year. This comes to around 1.5m children.\nMoreover, the National Commission on the Rights of the Child points out that youngsters are vulnerable to “cyberbullying, online grooming, sharing of sexual abuse materials” and other types of harm. There have been disturbing recent reports of even parents and guardians involved in the online abuse of children. It is, therefore, essential to protect youngsters from online predators through digital literacy, while bringing those involved in these abominable crimes to justice. Pakistan’s children face enough challenges; the state must do all it can to protect them from online harm.\nBut combining steps against cyberbullying and online abuse of children with the state’s campaign against ‘fake news’ needs to be reconsidered. The state of freedom of expression in Pakistan is already quite poor, so any further attempts to clamp down on free speech must be resisted. Instead, the proposed council should focus on protecting children from dangers in the cyber realm, as well as keeping citizens overall safe from online threats.\nPublished in Dawn, November 1st, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 82,
-    "paper": "Current Affairs / Pakistan Affairs / Essay / Governance",
-    "topic": "Cyber Safety, Children's Rights, and Freedom of Expression in Pakistan",
-    "whyMatters": "This article is crucial for understanding the complex interplay between digital security, child protection, and fundamental rights in Pakistan. Aspirants can use it to frame arguments on government policy efficacy, human rights challenges, and the need for balanced legislation in the digital age.",
-    "summary": [
-      "The proposed Cybersecurity and Social Media Awareness Council aims to protect children from online harm but raises concerns due to its focus on 'fake news'.",
-      "Cyberspace poses significant dangers to children, including technology-facilitated sexual exploitation, cyberbullying, and online grooming.",
-      "Digital literacy for children and parents is essential to combat online predators, and perpetrators of cybercrimes against children must be brought to justice.",
-      "The article cautions against combining child protection efforts with state attempts to 'clamp down' on free speech, advocating for the council to solely focus on cyber safety for all citizens, especially children."
-    ],
-    "facts": [
-      "One in 16 children aged 12-17 in Pakistan experienced at least one form of technology-facilitated sexual exploitation and abuse in a single year, according to a Unicef report.",
-      "This figure translates to approximately 1.5 million children affected by online harm in Pakistan.",
-      "The National Commission on the Rights of the Child (NCRC) highlights youngsters' vulnerability to 'cyberbullying, online grooming, [and] sharing of sexual abuse materials'."
-    ],
-    "academicReferences": [
-      "Convention on the Rights of the Child (UNCRC)",
-      "Prevention of Electronic Crimes Act (PECA) 2016 (Pakistan)",
-      "UNICEF 'State of the World's Children' reports on digital protection"
-    ],
-    "vocabulary": [
-      {
-        "word": "envisages",
-        "type": "verb",
-        "definition": "To contemplate or predict as a likely or desirable future event.",
-        "sentence": "The new policy envisages a future where all children have safe access to the internet."
-      },
-      {
-        "word": "abominable",
-        "type": "adjective",
-        "definition": "Causing moral revulsion; very bad.",
-        "sentence": "The article describes crimes against children online as abominable and calls for immediate justice."
-      },
-      {
-        "word": "clamp down",
-        "type": "phrasal verb",
-        "definition": "To take strong action to stop or prevent something.",
-        "sentence": "There is a fear that attempts to clamp down on fake news could restrict legitimate freedom of expression."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary concern raised by the article regarding the proposed Cybersecurity and Social Media Awareness Council?",
-        "options": [
-          "Its lack of funding for digital literacy programs.",
-          "Its dual focus on protecting children and combating 'fake news'.",
-          "Its inability to bring online predators to justice.",
-          "Its limited scope to only children and not all citizens."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article expresses concern over the council's focus on 'fake news' alongside child protection, fearing it could infringe upon freedom of expression."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the main dilemma highlighted by the article regarding the proposed Cybersecurity and Social Media Awareness Council?",
-        "back": "The dilemma is that while the council aims to protect children from online harm, its additional focus on combating 'fake news' is seen as a potential threat to freedom of expression in Pakistan."
-      },
-      {
-        "front": "According to the article and a Unicef report, what specific statistic illustrates the scale of online harm against children in Pakistan?",
-        "back": "One in 16 children aged 12-17 in Pakistan experienced at least one form of technology-facilitated sexual exploitation and abuse in a single year, affecting around 1.5 million children."
-      },
-      {
-        "front": "Beyond state intervention, what crucial measure does the article suggest for protecting youngsters from online predators?",
-        "back": "The article emphasizes the essential role of digital literacy for children and parents in protecting youngsters from online predators."
-      },
-      {
-        "front": "Why does the article argue against combining efforts to protect children with campaigns against 'fake news'?",
-        "back": "The article argues that combining these efforts is problematic because the state of freedom of expression in Pakistan is already poor, and such a combination could lead to further undue restrictions on free speech."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793330287240-379",
-    "title": "Unsafe blood transfusions\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2040903/unsafe-blood-transfusions",
-    "date": "2026-10-30",
-    "author": "none@none.com (Zafar Mirza)",
-    "content": "“BLOOD transfusions (48pc) and contaminated needle use (48pc) are the primary contributors to the outbreak.”\nThis was the conclusion of a joint mission by the Punjab government, WHO, Unicef and UNAIDS investigating the HIV outbreak among children in Taunsa, Dera Ghazi Khan. Between Dec 2024 and April 2025, 120 children under 12 were infected. As unsafe practices continued, the number eventually reached 331, by the time the BBC made its incriminating documentary.\nHow many more outbreaks will it take before we recognise that this is not an isolated medical mishap but a systemic governance failure?\nPakistan has one of the fastest-growing HIV epidemics in Asia and the world’s largest burden of hepatitis C. Both are blood-borne infections. Unsafe transfusions and contaminated injections are preventable sources of infection, yet they continue to endanger lives, particularly those of poor children who depend on an inadequately regulated healthcare system.\nUnsafe blood flows through non-functional institutions.\nThe tragedy is not that Pakistan lacks the knowledge to make blood transfusions safe. It is that we repeatedly fail to translate policies, technical knowledge and institutional arrangements into action.\nConsider history. Established in 2010 with substantial German financial and technical assistance, the Safe Blood Transfusion Programme (SBTP) made important progress. It established 17 state-of-the-art Regional Blood Centres (RBCs) and upgraded and linked 83 public-sector hospital blood banks. It also supported relevant policies, legislation, technical guidelines, training and monitoring systems.\nYet the programme gradually became dormant. After its national coordinator retired in 2020, no replacement was appointed, to date. The programme lost momentum, and opportunities to sustain international cooperation were not adequately pursued. A national initiative that had laid the foundations of reform was left high and dry, without the leadership needed to carry it forward.\nThis is a familiar Pakistani story: programmes are launched, institutions established, laws enacted and policies approved. Then positions remain vacant, resources are withheld, regulations unfinished and accountability absent.\nThe consequences are visible nationwide. Islamabad’s Blood Transfusion Authority is non-functional, while its RBC remained inoperative for years before being handed over to the Indus Hospital & Health Network in July 2026. Punjab has yet to frame rules under its 2016 law. Sindh has failed to replace outdated rules despite subsequent legislation. Khyber Pakhtunkhwa has a regulatory framework, but its regional centres remain underutilised. Balochistan has laws and institutions, but lacks adequate operational capacity, staffing and financing.\nIn Aug 2026, a Technical Working Group (TWG) was established following the prime minister’s intervention after the Taunsa outbreak. Its mandate is to translate the earlier task force’s recommendations into action, also reflected in the National Blood Transfusion and Blood Products Policy 2025-2030. The TWG reports directly to the PM monthly.\nThe TWG’s Sept 2026 policy brief provides a practical roadmap. Its value lies not in announcing another policy but in specifying actions that must be implemented immediately.\nFirst, the SBTP must be revived, with a merit-based, qualified national coordinator, professional staff, a functioning office and adequate resources. The centre must ensure sustainable financing through the recurrent budget and seek renewed international cooperation.\nSecond, regulatory authorities must become functional. Islamabad needs an operational authority with competent staff and adequate funding. Punjab must frame rules under its existing law and strengthen its authority. Sindh must finalise regulations and build institutional capacity. KP and Balochistan need effective provincial counterparts to the national programme.\nThird, RBCs must be linked to hospital blood banks across the public and private sectors. Existing centres are underutilised. Connecting more hospitals would expand access to quality-assured blood and reduce fragmentation. Blood safety cannot be confined to government hospitals while private establishments escape effective regulation.\nFourth, screening standards must be enforced uniformly. The TWG recommends automated chemiluminescence immunoassay as the minimum screening standard, with nucleic acid testing introduced as an additional safeguard. Manual rapid diagnostic kits must be prohibited for donor screening. A real-time national database, including a donor deferral registry, should prevent people with reactive screening results from donating blood again.\nFifth, the Inter-Ministerial Health and Population Council should regularly review blood safety and monitor implementation. Model regulations should be approved by the National Technical Advisory Committee and adopted by provincial authorities.\nFinally, Pakistan should reduce its dependence on imported plasma-derived medicinal products. While these products are imported at considerable cost, recovered plasma is wasted or discarded. The TWG recommends a national plasma fractionation programme, with WHO technical assistance, to improve availability and move towards domestic production.\nThe roadmap is clear. What remains uncertain is whether political will, administrative discipline and financial commitment will be sustained long enough to implement it.\nThe PM’s direct involvement offers an opportunity, but personal intervention cannot substitute for strong institutions. The real test is whether competent professionals are appointed, funds released, regulations enforced, hospitals connected to safe blood supplies and results independently monitored.\nNor can governments act alone. Citizens, professional associations, medical practitioners, civil society and the media must demand safe healthcare and hold public and private providers accountable. Voluntary, non-remunerated blood donation must be encouraged while infection prevention and control guidelines must be implemented.\nThe children of Taunsa have already paid an unacceptable price for our collective failure. Their suffering must not become another forgotten episode in Pakistan’s public health history.\nThe choice is stark: continue treating each outbreak as a temporary media scandal, or confront the institutional weaknesses that make the next one possible. Unsafe blood flows through non-functional institutions.\nThe writer is a former SAPM on health with ministerial status, adjunct professor of health systems and president of the Pakistan Association of Lifestyle Medicine.\nPublished in Dawn, October 30th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 96,
-    "paper": "Pakistan Affairs / Current Affairs / Social Issues",
-    "topic": "Public Health Governance Failures and Blood Safety Challenges in Pakistan",
-    "whyMatters": "This article serves as a critical case study illustrating systemic governance failures within Pakistan's public health sector, specifically concerning blood safety. Aspirants can leverage its detailed analysis of policy implementation gaps and concrete recommendations to demonstrate a deep understanding of complex national issues, crucial for high scores in competitive exams.",
-    "summary": [
-      "Unsafe blood transfusions and contaminated needle use are the primary drivers of severe blood-borne disease outbreaks (e.g., HIV, Hepatitis C) in Pakistan, exemplified by the Taunsa HIV outbreak.",
-      "These outbreaks are not isolated incidents but symptoms of a systemic governance failure, characterized by non-functional institutions, lack of sustained leadership, and poor policy implementation.",
-      "Past initiatives like the Safe Blood Transfusion Programme (SBTP) made progress but ultimately became dormant due to vacant positions, resource shortages, and inadequate follow-through, leaving existing infrastructure underutilized.",
-      "A clear roadmap outlined by the Technical Working Group (TWG) exists, focusing on SBTP revival, regulatory enforcement, universal screening standards, and plasma fractionation, but its success hinges on sustained political will and administrative discipline."
-    ],
-    "facts": [
-      "Unsafe blood transfusions (48%) and contaminated needle use (48%) were identified as primary contributors to the HIV outbreak among children in Taunsa.",
-      "The HIV outbreak in Taunsa infected 120 children under 12 between Dec 2024 and April 2025, eventually reaching 331.",
-      "Pakistan has one of the fastest-growing HIV epidemics in Asia and the world’s largest burden of hepatitis C."
-    ],
-    "academicReferences": [
-      "National Blood Transfusion and Blood Products Policy 2025-2030 (Pakistan)",
-      "World Health Organization (WHO) Guidelines on Blood Safety and Availability",
-      "UNAIDS Global AIDS Strategy (relevant for context on HIV epidemic response)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Incriminating",
-        "type": "adjective",
-        "definition": "Making someone appear guilty of a crime or wrongdoing.",
-        "sentence": "The BBC documentary provided incriminating evidence of unsafe medical practices in Taunsa."
-      },
-      {
-        "word": "Dormant",
-        "type": "adjective",
-        "definition": "Inactive or in a state of suspension; not currently active but capable of becoming so.",
-        "sentence": "The Safe Blood Transfusion Programme, once promising, gradually became dormant after its leadership departed."
-      },
-      {
-        "word": "Fractionation",
-        "type": "noun",
-        "definition": "The process of separating a mixture into different parts or fractions based on their physical or chemical properties.",
-        "sentence": "The TWG recommended a national plasma fractionation programme to reduce dependence on imported medicinal products."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What was the primary identified cause, alongside contaminated needle use, for the HIV outbreak among children in Taunsa, Dera Ghazi Khan?",
-        "options": [
-          "A) Airborne viral transmission",
-          "B) Unsafe blood transfusions",
-          "C) Contaminated food and water",
-          "D) Genetic predispositions"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'Blood transfusions (48pc) and contaminated needle use (48pc) are the primary contributors to the outbreak.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What systemic issue does the article highlight as the root cause of unsafe blood transfusions and subsequent outbreaks in Pakistan?",
-        "back": "A systemic governance failure, stemming from non-functional institutions, lack of sustained leadership, and repeated failure to translate policies into action."
-      },
-      {
-        "front": "Name two key recommendations from the Technical Working Group (TWG)'s roadmap for improving blood safety in Pakistan.",
-        "back": "Revival of the SBTP and activation of regulatory authorities (other valid answers include linking RBCs to hospitals, enforcing uniform screening, and plasma fractionation)."
-      },
-      {
-        "front": "What was the primary reason cited for the Safe Blood Transfusion Programme (SBTP) becoming dormant despite its initial progress?",
-        "back": "The lack of leadership after its national coordinator retired in 2020, with no replacement appointed, leading to a loss of momentum and sustained international cooperation."
-      },
-      {
-        "front": "Which specific screening standard does the TWG recommend as the minimum for donor screening, and what should be prohibited?",
-        "back": "Automated chemiluminescence immunoassay as the minimum, with nucleic acid testing (NAT) as an additional safeguard. Manual rapid diagnostic kits must be prohibited."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793330794766-759",
-    "title": "What a child drinks\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2040899/what-a-child-drinks",
-    "date": "2026-10-30",
-    "author": "none@none.com (Mian Muhammad Junaid)",
-    "content": "AT the recent Act for Nutrition Conf­e­rence in Islamabad, organised by DawnMedia, where I joined a panel examining the link between poor water, sanitation and child stunting, much of the discussion was rightly about food: what children eat, how mothers are supported, and why so many families still struggle to access a nutritious diet.\nBut sitting on that panel, I kept returning to another part of the stunting story that receives far less attention: what is the child drinking?\nWhat happens when the water available at home is unsafe, sanitation is poor, or repeated diarrhoea becomes part of a child’s earliest years?\nA child can be fed and still struggle to grow.\nPakistan’s water figures make this difficult to ignore. According to the WHO/Unicef Joint Monitoring Programme (JMP, 2025), 91 per cent of Pakistan’s population used at least basic drinking-water services in 2024, but only 45pc used safely managed drinking-water services.\nThat distinction matters. Safely managed water comes from an improved source that is on the premises, available when needed and free from contamination. A water source may therefore be available without the water necessarily being safe.\nThis is particularly important during the first 1,000 days of a child’s life. Good food, breastfeeding and maternal nutrition are essential. But so is the environment in which a child is growing. Repeated exposure to contaminated water and poor sanitation can mean repeated illness at precisely the stage when healthy growth matters most.\nYet our response is still organised in separate boxes. Nutrition has its programmes. Health has another set of structures. Water and sanitation are often treated as infrastructure. Social protection and climate sit elsewhere.\nChildren do not experience those divisions. They experience the water available at home, the food they are given, where they play and how often they fall sick.\nOur work in rural Punjab has made this very clear.\nThrough the Behaviour Change and Capacity Development project, WaterAid Pakistan led a consortium, working with the Punjab Rural Municipal Services Company across 200 villages.\nThe work began not by assuming that people simply needed more information, but by looking at what they were already doing and why.\nHow was drinking water stored? When were hands washed? How was food prepared? Where did child and animal faeces go? What made a safer practice easy to adopt, and what made it difficult?\nThat research informed a Hygiene Behaviour Change Package covering safe water, handwashing, food hygiene, sanitation, breastfeeding, vaccination, menstrual hygiene and household and animal waste. Families were engaged repeatedly through community sessions, practical activities, visual materials, videos and behavioural cues.\nOur evaluation covered 1,072 households, alongside focus groups, interviews and household observations. Ninety-eight per cent of surveyed households reported adopting new hygiene-related behaviours, 89pc reported washing their hands with soap at critical times, and 86pc reported safe drinking-water use and storage practices.\nThese figures do not mean behaviour change is the answer to stunting. Nor does one project offer a solution to a national problem. But they do show why infrastructure and behaviour cannot be treated separately.\nThere is little point in asking a family to use safe water when safe water is not av­­a­ilable. But installing a water system does not automatically change how water is stored, how hands are washed or how waste is managed.\nThe approach and communication ma­­terials tested in Punjab now form part of PRMSC’s planned expansion to another 1,800 villages. That is important because Pakistan does not lack pilots. The harder task is getting useful evidence into public systems and taking what works to scale.\nThe same thinking should shape our nutrition response.\nWhen a programme identifies a child at risk of stunting, safe water and sanitation at home should be part of that picture. When a child is treated for diarrhoea, the conditions they return to matter. And when money is being spent on nutrition, health, water or social protection, those investments should work together.\nWASH is not the only answer to malnutrition. Food insecurity, poverty, maternal health and access to healthcare remain central.\nBut what a child eats is only part of the story.\nIf we want children to grow well, we also need to pay attention to what they drink and the environment in which they spend their earliest years.\nThe writer is Country Director, WaterAid Pakistan.\nPublished in Dawn, October 30th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 94,
-    "paper": "Pakistan Affairs / Current Affairs / Social Issues",
-    "topic": "Child Stunting, WASH, and Public Health in Pakistan",
-    "whyMatters": "This article highlights a critical, often overlooked dimension of child stunting in Pakistan – unsafe water and poor sanitation – offering a holistic perspective crucial for policy analysis. It provides recent data and successful pilot project examples that can be cited in essays on public health, governance, and social development challenges.",
-    "summary": [
-      "Unsafe drinking water and poor sanitation, leading to repeated illnesses like diarrhoea, are significant, yet often neglected, contributors to child stunting, even when children receive adequate food.",
-      "Despite 91% of Pakistan's population having access to basic drinking water, only 45% have *safely managed* services, indicating a critical gap in water quality and availability that directly impacts child health.",
-      "Current government and NGO responses to stunting are fragmented across separate sectors like nutrition, health, WASH, and social protection, failing to address the child's integrated experience of their environment.",
-      "Successful behaviour change interventions, exemplified by a WaterAid Pakistan pilot in rural Punjab, demonstrate that infrastructure improvements must be combined with community engagement on hygiene practices for lasting impact."
-    ],
-    "facts": [
-      "According to the WHO/Unicef Joint Monitoring Programme (JMP, 2025), only 45% of Pakistan's population used safely managed drinking-water services in 2024, despite 91% having basic access.",
-      "A WaterAid Pakistan pilot project in 200 rural Punjab villages achieved 98% adoption of new hygiene behaviours among surveyed households and 86% reported safe drinking-water use and storage practices.",
-      "The 'first 1,000 days of a child’s life' is identified as a particularly important stage where repeated exposure to contaminated water and poor sanitation critically impacts healthy growth."
-    ],
-    "academicReferences": [
-      "WHO/Unicef Joint Monitoring Programme (JMP) Reports on Drinking Water, Sanitation and Hygiene",
-      "Sustainable Development Goal 6 (SDG 6): Clean Water and Sanitation",
-      "National Nutrition Survey of Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "Stunting",
-        "type": "noun",
-        "definition": "Impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation.",
-        "sentence": "Child stunting is a severe public health issue in many developing countries, impacting long-term cognitive and physical development."
-      },
-      {
-        "word": "Siloed",
-        "type": "adjective",
-        "definition": "Operating in isolation from others; characterized by a lack of communication and cooperation between different departments or groups.",
-        "sentence": "The article criticizes the siloed approach of various government departments in addressing complex issues like child malnutrition."
-      },
-      {
-        "word": "Consortium",
-        "type": "noun",
-        "definition": "An association, typically of several business companies, institutions, or investors.",
-        "sentence": "WaterAid Pakistan led a consortium of organizations to implement the behaviour change project in rural Punjab."
-      },
-      {
-        "word": "Premises",
-        "type": "noun",
-        "definition": "A house or building, together with its land and outbuildings, occupied by a business or person; in this context, referring to water access 'on the premises'.",
-        "sentence": "Safely managed water implies that the improved source is available on the premises, ensuring convenient access for households."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What percentage of Pakistan's population used *safely managed* drinking-water services in 2024, according to the WHO/Unicef JMP (2025)?",
-        "options": [
-          "91%",
-          "45%",
-          "89%",
-          "98%"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states that 'only 45pc used safely managed drinking-water services,' differentiating it from basic services."
-      },
-      {
-        "question": "The author argues that current responses to child stunting are often problematic because:",
-        "options": [
-          "They overly focus on infrastructure without considering behaviour change.",
-          "They treat nutrition, health, and WASH as separate, siloed issues rather than integrated ones.",
-          "They fail to involve international organizations like WaterAid Pakistan.",
-          "They do not adequately fund research into new solutions."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Yet our response is still organised in separate boxes. Nutrition has its programmes. Health has another set of structures. Water and sanitation are often treated as infrastructure... Children do not experience those divisions.'"
-      },
-      {
-        "question": "The WaterAid Pakistan pilot project in rural Punjab focused primarily on:",
-        "options": [
-          "Installing new water treatment plants in every village.",
-          "Providing direct financial aid to families for nutritious food.",
-          "Promoting behaviour change around safe water, hygiene, and sanitation practices.",
-          "Vaccinating all children against common waterborne diseases."
-        ],
-        "answerIndex": 2,
-        "explanation": "The project's core was a 'Hygiene Behaviour Change Package' based on research into existing practices and promoting adoption of safer ones through community engagement."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article distinguish between 'basic drinking-water services' and 'safely managed drinking-water services' in the context of child health?",
-        "back": "Basic services refer to access to an improved water source, while safely managed services add criteria that the source is on the premises, available when needed, and free from contamination, which is crucial for preventing illness and stunting."
-      },
-      {
-        "front": "Why does the author emphasize that 'children do not experience those divisions' when discussing the fragmented approach to addressing stunting?",
-        "back": "This highlights that children's health outcomes are a holistic result of their environment (water, food, play, illness frequency), which is not effectively addressed by separate, siloed interventions from different sectors like nutrition, health, or WASH."
-      },
-      {
-        "front": "What key lesson did the WaterAid Pakistan project in rural Punjab offer regarding the effectiveness of interventions against stunting?",
-        "back": "The project demonstrated that infrastructure improvements must be combined with behaviour change interventions focused on hygiene, water storage, and waste management, as simply installing systems does not automatically lead to safer practices or better health outcomes."
-      },
-      {
-        "front": "Besides unsafe water and poor sanitation, what other factors does the article acknowledge as central to malnutrition?",
-        "back": "The article acknowledges food insecurity, poverty, maternal health, and access to healthcare as central factors contributing to malnutrition, emphasizing that WASH is a critical *part* of the solution, not the only one."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793415515015-642",
-    "title": "The AI paradox\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2041138/the-ai-paradox",
-    "date": "2026-10-30",
-    "author": "none@none.com (Huzaifa bin Muneer)",
-    "content": "WE’RE building machines that are smart enough to replace us but not wise enough to save us. That’s the contradiction at the heart of the AI debate, and it’s not hypothetical anymore. In September 2026, Jacob Coxon, an Anthropic researcher, resigned and publicly stated that the people building AI actually believe the technology could end humanity by the end of this decade (Axios, Sept 2026). \nHis colleague Evan Hubinger, Anthropic’s alignment science lead, puts the probability of human extinction in the next 10 years at over 10 per cent. Dario Amodei, who runs Anthropic, went further, warning about a swarm of agents that could take over the internet in six to 12 months if nothing is done (Axios, Sept 2026). The people sounding the alarm are the same ones writing the code.\nA question that keeps coming back to me is this: what if AI knows everything? What if AI is integrated in every department, in every field? We don’t know the answers, but the reality may be far more dangerous than our worst nightmares.\nWe’re introducing AI into every discipline as though it was designed for it, with no thought for the ramifications. People are using AI to automate their jobs. They’re handing personal details over to AI-powered large language models (CVs, email accounts, all sorts of data associated with a fairly standard job application). \nIt’s quick. It’s efficient. But when the vulnerability exceeds the productivity, we should be limiting that practice or getting rid of it altogether. \nThe people sounding the alarm are the same ones writing the code.\nWhat if we don’t actually know what AI is doing with our data? What if it’s hiding information from us and we can’t see that? Its sheer convenience will blind us to the cost.\nThe infrastructure powering AI has a similarly troubling story to tell. As of August 2026, there are some 12,000 active data centres in the world, with over 4,500 of them in the United States alone (Data Centre Map, August 2026). Where will that number be in 10 years? \nA June 2026 United Nations University report states that in 2025 the world’s data centres consumed 448 trillion watt-hours of electricity, more than all but 10 countries. \nBy 2030, they are expected to account for nearly 3pc of global electricity use, emitting some 400 million metric tonnes of CO2 per year (AP/UN University Report, June 2026). More AI means more data centres. More data centres means more environmental damage. The maths doesn’t lie, and it doesn’t forgive.\nFor Pakistan (ranked the most vulnerable country to climate change in 2022 by the Germanwatch Climate Risk Index), this is no remote threat. The 2022 floods affected a third of the country, killed over 1,700 people and caused damage exceeding $30 billion (Germanwatch CRI 2025). \nAs demand for AI infrastructure grows, so does the pressure on energy systems and the climate, with consequences extending far beyond the countries developing the technology. \nAI can help with flood forecasting and crop monitoring, yes. But if the technology enabling that is developed without proper governance, then those benefits are meaningless. \nSo, can we just go back to manual systems? In most cases, no. The World Bank’s October 2026 economic update notes that Pakistan is hamstrung by poor broadband penetration, unreliable electricity and a critical lack of di­­gital skills. Nad­ra’s biometric da­­tabases already run using autom­ated systems that would be impractical to replace manually at na­­tio­­nal scale. \nGoing back to all that is not an option. The real issue isn’t whether we need AI, but how we adopt it responsibly without making the very problems we are trying to survive worse.\nThe issue isn’t AI per se. It’s about planning and execution. If we automate everything, then what do we do by hand? And if that automation becomes uncontrolled, do we even have the option to turn it off? \nAI development is consuming massive amounts of money and energy, often with no proportional return. Nobody has all the answers. All we can do is demand that any new data centre proposal undergo a mandatory environmental impact assessment before approval. \nWe can demand that AI governance is treated as seriously as AI innovation. If no humans are left, what is the point of AI or its efficiencies? If the world we live in is no longer liveable, no amount of technological development will make any difference. \nThe writer is an AI engineer and researcher.\nPublished in Dawn, October 31st, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change, Digital Transformation, and Governance in Pakistan",
-    "whyMatters": "This article is crucial for civil service aspirants as it provides a contemporary and urgent perspective on how global technological advancements, specifically the massive environmental footprint of AI infrastructure, directly exacerbate climate change impacts on vulnerable nations like Pakistan. While it doesn't extensively detail the impact on water resources or inter-provincial harmony, it highlights Pakistan's extreme climate vulnerability (e.g., floods) and the paradox of seeking AI solutions while AI itself contributes to the very problems it aims to mitigate.",
-    "summary": [
-      "Leading AI developers express serious concerns, even warnings of human extinction, due to AI's unchecked intelligence and lack of wisdom, highlighting an urgent existential risk.",
-      "The pervasive integration of AI across disciplines raises critical issues regarding data privacy, security, and potential manipulation, as the convenience of AI blinds users to its inherent vulnerabilities.",
-      "The infrastructure powering AI, primarily data centers, has a massive and rapidly growing environmental footprint, consuming immense electricity and contributing significantly to global CO2 emissions, exacerbating climate change.",
-      "For countries like Pakistan, highly vulnerable to climate change, the adoption of AI presents a paradox: while it offers potential solutions (e.g., flood forecasting), its uncontrolled development and environmental impact worsen the very problems it seeks to solve, necessitating responsible governance and planning."
-    ],
-    "facts": [
-      "Anthropic researchers Jacob Coxon and Evan Hubinger publicly stated beliefs in AI ending humanity by the end of the decade, with Hubinger estimating over 10% probability of human extinction in 10 years (Sept 2026).",
-      "In 2025, global data centers consumed 448 trillion watt-hours of electricity, more than all but 10 countries; by 2030, they are expected to account for nearly 3% of global electricity use, emitting some 400 million metric tonnes of CO2 per year (UN University Report, June 2026).",
-      "Pakistan was ranked the most vulnerable country to climate change in 2022 by the Germanwatch Climate Risk Index; the 2022 floods affected a third of the country, killed over 1,700 people, and caused damage exceeding $30 billion (Germanwatch CRI 2025)."
-    ],
-    "academicReferences": [
-      "Germanwatch Climate Risk Index (2022/2025)",
-      "United Nations University Report (June 2026)",
-      "World Bank's October 2026 economic update"
-    ],
-    "vocabulary": [
-      {
-        "word": "Paradox",
-        "type": "noun",
-        "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
-        "sentence": "The article's title, 'The AI paradox,' highlights the contradiction between AI's increasing intelligence and its potential to endanger humanity and the planet."
-      },
-      {
-        "word": "Ramifications",
-        "type": "noun",
-        "definition": "A complex or unwelcome consequence of an action or event.",
-        "sentence": "Introducing AI into every discipline without considering the long-term ramifications could lead to unforeseen dangers."
-      },
-      {
-        "word": "Hamstrung",
-        "type": "verb",
-        "definition": "Severely restrict the efficiency or effectiveness of.",
-        "sentence": "Pakistan's digital transformation is often hamstrung by poor broadband penetration and unreliable electricity infrastructure."
-      },
-      {
-        "word": "Governance",
-        "type": "noun",
-        "definition": "The action or manner of governing a state, organization, or people; the system by which a country or an organization is controlled.",
-        "sentence": "The article emphasizes that AI governance must be treated as seriously as AI innovation to ensure responsible development."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following best describes the primary environmental concern raised by the article regarding AI infrastructure?",
-        "options": [
-          "Massive electricity consumption by data centers leading to increased CO2 emissions.",
-          "Increased water usage for cooling AI servers.",
-          "Rapid deforestation to make way for new data centers.",
-          "The production of rare earth minerals for AI chips causes significant pollution."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that data centers consumed 448 trillion watt-hours of electricity in 2025, contributing significantly to global electricity use and CO2 emissions, highlighting this as a major environmental concern."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the central 'AI paradox' as described by the author?",
-        "back": "The paradox is that we are building machines smart enough to replace us, but potentially not wise enough to save us, with a risk of ending humanity despite their intelligence."
-      },
-      {
-        "front": "How does the article connect AI's environmental impact to Pakistan's climate vulnerability?",
-        "back": "The article shows AI infrastructure's high energy demand exacerbates climate change, which directly impacts Pakistan, already ranked most vulnerable to climate change and experiencing severe consequences like the 2022 floods."
-      },
-      {
-        "front": "What specific data privacy concerns does the article raise regarding AI adoption?",
-        "back": "The article questions what AI does with personal data (CVs, emails), warns of AI hiding information, and states that sheer convenience might blind users to the vulnerability and cost of handing over personal details to AI-powered models."
-      },
-      {
-        "front": "What is the author's proposed solution or approach to responsible AI adoption?",
-        "back": "The author advocates for mandatory environmental impact assessments for new data centers and demands that AI governance be treated as seriously as AI innovation, focusing on how to adopt AI responsibly without worsening existing problems."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793415605686-418",
-    "title": "Pakistan’s reforms deficit\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2041140/pakistans-reforms-deficit",
-    "date": "2026-10-30",
-    "author": "none@none.com (Tahsin Shah)",
-    "content": "PAKISTAN has never suffered from a shortage of civil service reform proposals. It has suffered from a shortage of reforms that survive implementation. \nSince independence, successive governments, commissions and committees have attempted to restructure the administrative machinery inherited from the colonial state. Yet familiar complaints persist: excessive generalism, weak accountability, politicisation, distorted incentives, slow decision-making and a bureaucracy often better equipped to process files than solve complex problems. \nThe latest reform package is significant not because Pakistan has rediscovered civil service reform, but because it attempts to address several structural weaknesses simultaneously. It proposes 11 specialised professional cadres, competency-based recruitment, performance-linked remuneration, restructuring of training and human-resource management, and a National Executive Service (NES) under which BS-20 and above positions could be opened to serving officials, academics and private-sector professionals.\nPakistan inherited the powerful, generalist Civil Service of Pakistan from the colonial administrative tradition. The most dramatic restructuring came under Zulfikar Ali Bhutto in 1973, when the CSP structure was abolished and occupational groups reorganised. But restructuring did not democratise opportunity within government. \nThe devolution reforms introduced under Gen Pervez Musharraf in 2001 represented another major intervention, transferring substantial authority towards elected local governments and altering traditional district administration. But institutional discontinuity and subsequent political changes prevented the system from developing into a durable architecture of local governance. \nReform is often treated as an event rather than a sustained process.\nThis history reveals Pakistan’s recurring problem: reform is often treated as an event rather than a sustained process. \nThe strongest feature of the present package is its recognition that a modern state cannot be managed through transferable generalists. Professional cadres in fields including IT and telecom, energy, climate, engineering, health, education, law, agriculture and science address a genuine administrative weakness. \nOpening senior positions to competition could be still more consequential. It could bring specialists into government who would otherwise never enter conventional public service and allow capable career officers to compete beyond rigid cadre boundaries. But lateral entry carries an equally obvious risk: without credible safeguards, it can become lateral patronage. \nInternational experience offers principles rather than readymade templates. Pakistan should borrow principles, not blindly transplant institutions. \nPerformance-linked remuneration illustrates the challenge. Annual performance agreements for ministries, flowing down to individual officers, could improve accountability. But who determines whether a secretary has performed well? If targets are vague or assessments depend excessively upon political superiors, financial incentives could rew­ard proximity to power rather than performance. \nThe ultimate measurement must therefore be governance. Does a business licence take days instead of months? Are teachers and doctors present? Are development projects completed on time? Can citizens obtain public services without intermediaries? Can civil servants make lawful professional decisions without seeking political protection? \nSignificantly, the Police Service and Foreign Service would remain outside the proposed NES. There are sound reasons for treating them as specialised career services requiring institutional continuity, accumulated professional experience and service-specific training. Their exclusion from the NES, however, need not mean exclusion from reform. \nFor the police, Pakistan does not need to start from scratch. In May 2018, then chief justice Mian Saqib Nisar initiated a Police Reforms Committee bringing together nine retired and seven serving Inspectors General of Police. After extensive deliberations, it produced the two-volume Police Reforms: Way Forward, launched in Jan 2019. \nBuilding upon the Police Order 2002 and subsequent experience, the exercise addressed some of the most persistent weaknesses of policing: accountability, quality and independence of investigation, complaint redressal, urban policing, alternative dispute resolution, counterterrorism and the legal framework governing the police. It proposed a model police law while recognising the constitutional and administrative realities of Pakistan’s federal system. \nYet the principal structural problems identified by the committee remain largely unresolved. Its convener, former IGP Afzal Ali Shigri, observed as recently as Feb 2026 that fragmented legal frameworks, weaknesses in investigation and uneven accountability mechanisms continue to impede reform. \nThe 2019 police reform report thus stands as a telling case study of Pakistan’s persistent gap between designing reform and implementing it. \nThe exclusion of the Police Service from the NES presents an opportunity rather than necessarily a deficiency. Instead of forcing policing into an administrative model designed for civilian mi­­nistries, the government can revive Police Reforms: Way Forward, update it and implement its still-relevant recommendations. The Foreign Service can similarly retain its distinctive professional structure while pursuing the broader reform principles of merit, specialisation, transparent advancement and measurable performance. \nThe government proposes an ambitious implementation timetable for the new civil-service package. Speed can create momentum, but changing regulations is easier than changing administrative culture. \nNo examination reform can compensate for arbitrary postings. No specialised cadre can flourish if expertise is subordinated to connections. No performance contract creates accountability if influence protects poor performance. And no reform report, however professionally drafted, improves governance while it remains on a shelf. \nPakistan has spent decades reforming bureaucracy on paper. The real reform is to build institutions where competence matters more than cadre, performance more than seniority, expertise more than connections and public service more than institutional privilege. \nThe writer is a former Inspector General of Police and DG FIA.\nPublished in Dawn, October 31st, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs / Public Administration",
-    "topic": "Civil Service Reforms in Pakistan: Historical Challenges, Current Proposals, and Implementation Gaps",
-    "whyMatters": "This article critically analyzes Pakistan's recurring inability to implement civil service reforms, despite numerous proposals. It provides essential insights into the structural weaknesses of the administrative machinery and highlights the crucial need for sustained reform processes over episodic events, making it vital for questions on governance and public sector efficiency.",
-    "summary": [
-      "Pakistan has consistently suffered from a shortage of implemented civil service reforms, despite numerous proposals since independence, leading to persistent complaints like politicisation and slow decision-making.",
-      "Past major reforms under Zulfikar Ali Bhutto (1973) and Gen Pervez Musharraf (2001) failed to create durable administrative architecture or democratize opportunities, often due to institutional discontinuity.",
-      "The latest reform package attempts to address structural weaknesses simultaneously, proposing specialized professional cadres, competency-based recruitment, performance-linked remuneration, and a National Executive Service (NES) to open senior positions.",
-      "A key challenge is viewing reform as an event rather than a sustained process, risking patronage in lateral entries and making performance assessments vulnerable to political influence rather than objective governance outcomes.",
-      "Specific services like Police and Foreign Service are excluded from the NES, yet require tailored reforms; the detailed 'Police Reforms: Way Forward' report (2019) stands as a telling example of well-designed reforms that remain largely unimplemented."
-    ],
-    "facts": [
-      "Zulfikar Ali Bhutto's 1973 reforms abolished the powerful, generalist Civil Service of Pakistan (CSP) structure.",
-      "Gen Pervez Musharraf's 2001 devolution reforms transferred substantial authority to elected local governments.",
-      "The latest reform package proposes 11 specialised professional cadres and a National Executive Service (NES) for BS-20 and above positions.",
-      "The Police Reforms Committee, initiated in May 2018 by then Chief Justice Mian Saqib Nisar, produced the two-volume 'Police Reforms: Way Forward' in Jan 2019."
-    ],
-    "academicReferences": [
-      "Report of the National Commission on Government Reforms (various iterations, e.g., 2008)",
-      "Police Order 2002 (fundamental legal framework governing police services in Pakistan)",
-      "United Nations Development Programme (UNDP) reports on Governance and Public Sector Reforms in Pakistan"
-    ],
-    "vocabulary": [
-      {
-        "word": "deficit",
-        "type": "noun",
-        "definition": "A shortage or lack of something.",
-        "sentence": "Pakistan has never suffered from a shortage of reform proposals, but from a reforms deficit in implementation."
-      },
-      {
-        "word": "politicisation",
-        "type": "noun",
-        "definition": "The act of causing something to become political or influenced by politics.",
-        "sentence": "Familiar complaints persist, including weak accountability and politicisation within the bureaucracy."
-      },
-      {
-        "word": "devolution",
-        "type": "noun",
-        "definition": "The transfer of power or authority from a central government to a local or regional government.",
-        "sentence": "The devolution reforms introduced under Gen Pervez Musharraf in 2001 transferred substantial authority towards elected local governments."
-      },
-      {
-        "word": "patronage",
-        "type": "noun",
-        "definition": "The power to control appointments to office or the right to privileges.",
-        "sentence": "Without credible safeguards, lateral entry into senior positions can become lateral patronage, rewarding connections over merit."
-      },
-      {
-        "word": "subordinated",
-        "type": "verb",
-        "definition": "Treated as less important than something else; placed in a lower rank.",
-        "sentence": "No specialized cadre can flourish if expertise is subordinated to connections rather than valued."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is Pakistan's recurring problem with civil service reform?",
-        "options": [
-          "A shortage of reform proposals",
-          "Lack of political will for new reforms",
-          "Reform being treated as an event rather than a sustained process",
-          "Excessive specialization in the bureaucracy"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states: 'This history reveals Pakistan’s recurring problem: reform is often treated as an event rather than a sustained process.'"
-      },
-      {
-        "question": "Which of the following was a key feature of the civil service reforms under Zulfikar Ali Bhutto in 1973?",
-        "options": [
-          "Introduction of specialized professional cadres",
-          "Abolition of the Civil Service of Pakistan (CSP) structure",
-          "Devolution of substantial authority to local governments",
-          "Opening senior positions to private-sector professionals"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article mentions: 'The most dramatic restructuring came under Zulfikar Ali Bhutto in 1973, when the CSP structure was abolished.'"
-      },
-      {
-        "question": "What is one of the primary risks associated with opening senior civil service positions to lateral entry, according to the article?",
-        "options": [
-          "Reduced efficiency due to lack of public sector experience",
-          "Increased bureaucracy and slow decision-making",
-          "Without credible safeguards, it can become lateral patronage",
-          "Difficulty in attracting private-sector professionals"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article warns: 'But lateral entry carries an equally obvious risk: without credible safeguards, it can become lateral patronage.'"
-      },
-      {
-        "question": "Which two specific services are explicitly mentioned as remaining *outside* the proposed National Executive Service (NES)?",
-        "options": [
-          "Education Service and Health Service",
-          "IT and Telecom Service and Energy Service",
-          "Police Service and Foreign Service",
-          "Agriculture Service and Science Service"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'Significantly, the Police Service and Foreign Service would remain outside the proposed NES.'"
-      },
-      {
-        "question": "What does the article suggest is the 'ultimate measurement' for assessing the success of performance-linked remuneration and overall governance?",
-        "options": [
-          "The number of performance agreements signed",
-          "Proximity of officers to political power",
-          "Whether a business licence takes days instead of months and public services are accessible",
-          "The speed of changing regulations"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states: 'The ultimate measurement must therefore be governance. Does a business licence take days instead of months? Are teachers and doctors present? Are development projects completed on time? Can citizens obtain public services without intermediaries?'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is Pakistan's core historical problem regarding civil service reforms?",
-        "back": "Pakistan has a shortage of reforms that survive implementation, often treating reform as an event rather than a sustained process, leading to a gap between design and execution."
-      },
-      {
-        "front": "What is the primary objective behind introducing specialized professional cadres in the latest reform package?",
-        "back": "To address the administrative weakness of managing a modern state through transferable generalists and to bring specialized expertise into various fields like IT, energy, and health."
-      },
-      {
-        "front": "What is the dual potential impact of opening senior civil service positions (BS-20 and above) to competition for non-career officials through the NES?",
-        "back": "It could bring specialists into government and allow capable career officers to compete beyond rigid cadre boundaries, but it also carries the risk of becoming lateral patronage without credible safeguards."
-      },
-      {
-        "front": "Why is the exclusion of the Police Service from the NES considered an opportunity rather than a deficiency?",
-        "back": "It presents an opportunity to revive and implement tailored police reforms, such as the 'Police Reforms: Way Forward' report, rather than forcing policing into an administrative model designed for civilian ministries."
-      },
-      {
-        "front": "According to the author, what constitutes 'real reform' in Pakistan's bureaucracy?",
-        "back": "Building institutions where competence matters more than cadre, performance more than seniority, expertise more than connections, and public service more than institutional privilege."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793330451931-659",
-    "title": "Quintessential capitalism\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2040901/quintessential-capitalism",
-    "date": "2026-10-30",
-    "author": "none@none.com (Zafar Masud)",
-    "content": "FEW companies are hailed as proof of free-market genius more than Tesla. Yet, at every turn that mattered, it stood on public capital. In 2010 it borrowed $465m from a US federal programme open to every carmaker building cleaner vehicles, in a country where transport is now the largest source of greenhouse gases. It paid the Treasury’s own cost, roughly one to 3.4 per cent, with principal deferred until production began. One of the smallest borrowers, it became the star, repaying with interest nine years early. Regulatory credits, earned by beating emission rules and bought by those that fall short, then carried it into profit.\nPakistan asks its banks to do alone what no quintessential capitalist economy asks of its own: lend to priority sectors without the state sharing the risk and the price. This is not a lesson taken from state-led economies such as China, where public support is part of the model. It comes from the market economies themselves, which do it openly and without apology. Tesla is not their exception; it is their method.\nLook at where they aim interest subsidies, and how deep. Farming comes first: America lends beginning farmers money to buy land at under 2pc and caps their operating microloans at 5pc, while Canada pays the interest on the first C$250,000 of each grower’s cash advance. Housing is next: France gives first-time buyers zero-interest loans and compensates banks through tax credits. Then enterprise: Britain lends start-ups unsecured at a fixed 6pc, with mentoring, and its firms outlive their peers; Germany’s KfW cheapens founders’ loans and absorbs four-fifths of any loss so local banks will lend.\nIn every case, the taxpayer took the first risk and part of the financing cost, at the stage private finance would not, and demanded performance in return. And the subsidy went to the borrower, the priority-sector player, not the lender: the bank is paid only the market interest the borrower is spared.\nSubsidies have built giants, and an emerging economy needs them more, not less.\nThat is the global norm. Why, then, is Pakistan so averse to it? Here, subsidy for producers is treated as a dirty word, subsidised credit is misread as a benefit to banks, and lenders are blamed for holding back from risks their peers abroad never shoulder unaided. Asking them to match the world’s lending without the world’s toolkit is neither fair nor realistic.\nThe money exists; its direction is the problem. This year’s federal budget allocates Rs838bn to the Benazir Income Support Programme, up by a sixth, and almost as much to the power sector; provincial budgets add their own spending on wheat, fertiliser and household relief. Little of it is designed to make the poor bankable.\nBISP is indispensable. Reaching some 10 million families through a national registry and digital payments, it is one of the country’s institutional achievements, and that safety net must stay. But a stipend, by its nature, protects rather than transforms. A net that never becomes a springboard keeps the poor safe, but poor.\nBISP must now be balanced with wealth creation at the lower strata of society, so that families able to work have a path from support to enterprise. Wealth, like subsidy, is not a bad word. It can be created at every level, including the bottom, and it is what keeps incomes rising sustainably. The cliché about wealth must go, just like subsidies.\nSo add a ramp without lowering the floor: dedicate a tenth of BISP’s allocation to an enterprise window within the programme; that is smaller than this year’s increase, so no family need receive less than last year.\nRun it as the world does. Target precisely: older people, persons with disabilities and households with no working member keep their full stipend; working-age households, starting with the women BISP serves, get concessional credit for livestock, horticulture, cottage industry, solar trades and digital work. Price it for the borrower: the first loan interest-free and repeat loans at no more than 5pc, the state paying the difference. Pay for delivery: lenders earn the subsidy only for verified results, and every loan comes with training and a mentor. Build the exit: the stipend tapers only once the business stands, and the subsidy steps down with each cycle.\nEven at today’s rates, that tenth could carry some Rs400bn of lending: over a million small businesses. Audit it independently after three years; scale it only if it works.\nTwo objections deserve answers. Credit alone, global trials show, raises poor families’ incomes only modestly; what lifts them for good is capital paired with training and continued support while the business finds its feet, which is this design. Nor does the window raid BISP: it is paid for from the programme’s growth and serves the same households.\nIt is time to retire the reflex that subsidies never create wealth or welfare. Bad design is bad; subsidy is not, if it pays for the initial risk rather than permanent inefficiency. Subsidies have built giants, and an emerging economy needs them more, not less.\nWashington’s decisive bet on Tesla was not a stipend but a loan, tied to milestones. Pakistan’s Teslas are smaller — a woman’s dairy herd, a tailor’s workshop, a graduate’s laptop — but they deserve the same deal: capital to start, conditions to keep, and a way out. Then the cycle begins again with the next borrower. That is routine in every quintessential capitalist economy, and it should be in Pakistan too.\nThe writer is a development-focused and impact-oriented banker.\nPublished in Dawn, October 30th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-ECO",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Economics / Current Affairs",
-    "topic": "State Intervention in Economic Development & Poverty Alleviation",
-    "whyMatters": "This article does NOT help a student address the provided past exam question about ECO and regional integration, as it contains no information relevant to that topic. However, for questions on domestic economic policy, poverty alleviation, or the role of the state in economic development, it is highly relevant. It argues that even advanced capitalist economies utilize state support and subsidies to foster growth, innovation (e.g., Tesla), and support key sectors. It critically analyzes Pakistan’s aversion to state-backed risk-sharing in lending and proposes reforming BISP to include an enterprise window for wealth creation at the grassroots, challenging the notion that subsidies are inherently detrimental. It advocates for a globally aligned, risk-sharing model for economic development in emerging economies.",
-    "summary": [
-      "Developed capitalist economies, such as the US and Germany, routinely employ state capital, subsidies, and risk-sharing mechanisms to support strategic industries (e.g., Tesla), agriculture, housing, and startups, considering it a 'method' rather than an 'exception'.",
-      "Pakistan is criticized for demanding its banks lend to priority sectors without state risk-sharing or pricing support, an approach inconsistent with both quintessential capitalist and state-led economies.",
-      "The article challenges Pakistan's negative perception of producer subsidies, arguing they are misread as benefits to banks rather than borrowers, and that expecting banks to shoulder unshared risks is unfair and unrealistic.",
-      "It proposes transforming the Benazir Income Support Programme (BISP) by dedicating a tenth of its allocation to an 'enterprise window', offering concessional credit (first loan interest-free), training, and mentorship to working-age beneficiaries to facilitate wealth creation and transition from safety net to springboard."
-    ],
-    "facts": [
-      "Tesla borrowed $465 million from a US federal program in 2010, designed for cleaner vehicle manufacturers, and repaid it nine years early, with regulatory credits also contributing to its profit.",
-      "America lends beginning farmers money to buy land at under 2% and caps operating microloans at 5%; Canada pays the interest on the first C$250,000 of each grower’s cash advance.",
-      "Pakistan's federal budget for the current year allocates Rs838 billion to the Benazir Income Support Programme (BISP), representing an increase by a sixth.",
-      "An 'enterprise window' within BISP, utilizing one-tenth of its current allocation, could potentially carry Rs400 billion of lending, supporting over a million small businesses."
-    ],
-    "academicReferences": [
-      "Dani Rodrik, 'One Economics, Many Recipes: Globalization, Institutions, and Economic Growth' (for insights into diverse economic policy choices and the role of institutions in development).",
-      "Pakistan Economic Survey (Annual publication by the Ministry of Finance, Government of Pakistan, provides official economic data, budget allocations, and policy performance).",
-      "United Nations Sustainable Development Goals (SDGs), particularly SDG 1 (No Poverty) and SDG 8 (Decent Work and Economic Growth), which align with the article's focus on poverty alleviation through enterprise and sustainable income generation."
-    ],
-    "vocabulary": [
-      {
-        "word": "Quintessential",
-        "type": "adjective",
-        "definition": "Representing the most perfect or typical example of a quality or class.",
-        "sentence": "Tesla is hailed as a quintessential example of free-market genius, yet it relied heavily on public capital."
-      },
-      {
-        "word": "Deferred",
-        "type": "verb",
-        "definition": "Put off (an action or event) to a later time; postpone.",
-        "sentence": "The principal repayment on Tesla's loan was deferred until production began, easing its initial financial burden."
-      },
-      {
-        "word": "Concessional",
-        "type": "adjective",
-        "definition": "Granted as a concession, especially at a reduced rate.",
-        "sentence": "The proposed BISP enterprise window would offer working-age households concessional credit for various small businesses."
-      },
-      {
-        "word": "Stipend",
-        "type": "noun",
-        "definition": "A fixed regular sum paid as a salary or allowance.",
-        "sentence": "The BISP stipend, while indispensable as a safety net, primarily protects rather than transforms beneficiaries' economic status."
-      },
-      {
-        "word": "Tapers",
-        "type": "verb",
-        "definition": "Diminish or reduce or cause to diminish or reduce in thickness toward one end; gradually lessen.",
-        "sentence": "The stipend would taper off only once the business established through the enterprise window stands on its own feet."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following is NOT presented as an example of state support in quintessential capitalist economies?",
-        "options": [
-          "US federal loans for cleaner vehicle production (Tesla)",
-          "Canadian interest payments on farmers' cash advances",
-          "French zero-interest loans for first-time home buyers",
-          "Pakistan's banks lending to priority sectors without state risk-sharing"
-        ],
-        "answerIndex": 3,
-        "explanation": "The article explicitly criticizes Pakistan's approach to bank lending for priority sectors as an outlier, contrasting it with the state support seen in other capitalist economies."
-      },
-      {
-        "question": "According to the article, what is the primary limitation of the Benazir Income Support Programme (BISP) in its current form?",
-        "options": [
-          "It reaches too few families.",
-          "It is poorly administered with digital payments.",
-          "It protects beneficiaries but does not transform their economic status by fostering wealth creation.",
-          "Its budget allocation is too small to make a significant impact."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'BISP is indispensable... But a stipend, by its nature, protects rather than transforms. A net that never becomes a springboard keeps the poor safe, but poor.'"
-      },
-      {
-        "question": "The proposed 'enterprise window' within BISP suggests that the first loan for beneficiaries should be:",
-        "options": [
-          "At a fixed 6% interest rate.",
-          "Interest-free.",
-          "Subsidized by the bank.",
-          "Repaid only after three years."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly states: 'Price it for the borrower: the first loan interest-free and repeat loans at no more than 5pc, the state paying the difference.'"
-      },
-      {
-        "question": "What proportion of BISP's allocation does the author suggest dedicating to the new 'enterprise window'?",
-        "options": [
-          "A fifth.",
-          "A tenth.",
-          "A quarter.",
-          "Half."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states: 'So add a ramp without lowering the floor: dedicate a tenth of BISP’s allocation to an enterprise window within the programme.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article challenge the common perception of subsidies in capitalist economies?",
-        "back": "It argues that subsidies are not just for state-led economies but are a fundamental 'method' in quintessential capitalist economies (e.g., US support for Tesla, farming, housing) to absorb initial risks and foster growth, rather than being a 'dirty word' or exception."
-      },
-      {
-        "front": "What is the core criticism leveled against Pakistan's approach to lending for priority sectors?",
-        "back": "Pakistan uniquely asks its banks to lend to priority sectors without the state sharing the risk and price, unlike both developed market economies and state-led models, leading to an unfair and unrealistic burden on lenders."
-      },
-      {
-        "front": "Explain the author's proposed solution to make BISP a 'springboard' rather than just a 'safety net'.",
-        "back": "The author proposes an 'enterprise window' within BISP, dedicating a tenth of its allocation to provide concessional, often interest-free, credit alongside training and mentorship to working-age beneficiaries, enabling them to start small businesses and create wealth."
-      },
-      {
-        "front": "What is the author's view on the effectiveness of credit alone in raising poor families' incomes?",
-        "back": "Global trials show credit alone raises incomes only modestly; what truly transforms lives is capital paired with training and continued support while the business establishes itself, which is incorporated into the proposed enterprise window design."
       }
     ]
   }
