@@ -1,5 +1,869 @@
 [
   {
+    "id": "curated-1795672443747-744",
+    "title": "New search trends",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2047097/new-search-trends",
+    "date": "2026-11-26",
+    "author": "none@none.com (Usman Tauqir)",
+    "content": "PAKISTAN’S IT and software export story is told in remittance figures, freelancer rankings and new export targets. One question gets far less attention. When a buyer in Austin, Manchester or Dubai goes looking for a software vendor, where do they look now, and are Pakistani firms anywhere in the answer?\nFor 20 years the answer was Google’s 10 blue links. Our software houses, Software as a Service (SaaS) start-ups and agencies learned that game: rank for the right phr­ases, get the click, win the call. Many still treat a page-one ranking as the finish line.\nThe finish line has moved. My firm recently ran 1,500 real software-buying questions through four AI systems that buyers now use: ChatGPT, Google’s Gemini, Google’s AI Mode and the AI Overviews that sit at the top of ordinary Google results. We asked each question three times, from fresh sessions in the United States, and collected 18,000 answers across 20 software categories, from CRM and accounting to recruitment and e-signature tools.\nThree findings should worry anyone who sells Pakistani software or services abroad.\nOur IT exporters are optimising for a search page buyers no longer read.\nFirst, the AI answer is now the first thing a buyer sees. Google showed an AI Ove­rview on 98 per cent of the software-buying searches we tested. The summary sits above the links, names a handful of products and often settles the question before anyone scrolls. A buyer can form a shortlist without visiting a single vendor website.\nSecond, ranking on Google no longer guarantees a place in that summary. We looked at 27,307 websites cited inside AI Overviews. Only 28.1pc also ranked in the top three organic results on the same page. More striking, 36.5pc of the cited websites did not appear in the organic results shown at all. The AI is reading, and trusting, sources well beyond the page-one list our marketing teams obsess over.\nThird, the AI leans on what other people say about a product, not only on what the product says about itself. Review platforms such as G2, Capterra and TrustRadius were cited in 25.6pc of ChatGPT’s answers. Google’s AI Overviews cited YouTube in 80.5pc of answers and Reddit in 52.8pc. In plain terms, the machines are listening to reviews, videos and forum threads.\nPut those together and the problem for Pakistani exporters becomes clear. A firm can do everything right by the old rulebook, rank well and still be invisible when a foreign buyer asks an AI assistant for options. If that firm has no reviews on the platforms AI reads, no independent coverage and no presence in the conversations where buyers compare tools, the assistant simply has nothing to say about it.\nThis matters more for us than for an American or European competitor. A Paki­stani vendor already starts with a trust gap: unfamiliar brand, distant time zone, questions about payments and support. Third-party proof is how that gap gets closed. AI systems now automate the hunt for that proof. A buyer who would once have found us on page one may never hear our name.\nThere is a fix, and none of it is exotic.\nExporters should treat reviews as infrastructure, not vanity. Every satisfied foreign client is a potential review on a platform the AI reads. Many firms have satisfied foreign clients and few or no public reviews to show for them. That gap now costs visibility as well as credibility.\nThey should earn mentions outside their own websites. Comparison articles, industry publications, podcasts, credible forum answers and exp­ert commentary are now inputs to the AI shortlist. A website alone is not enough.\nThey should measure the right thing. Ask the questions a real buyer would ask, in ChatGPT and Google, every month, and record whether your firm is named and how it is described. If you are not tracking that, you are not tracking whe­re your next client is making up their mind.\nThere is also a role for the industry bodies. P@SHA and the Pakistan Software Export Board already run trade delegations and export promotion. A modest programme to help member firms build verified review profiles, publish credible case studies and track their visibility in AI answers would do more for the “Brand Pakistan” tech story than another glossy brochure. The country’s export targets depend on buyers who have never met us. The first impression they get is increasingly written by a machine.\nNone of this replaces good work. AI systems are not easily fooled for long, and what they repeat is mostly what credible people already say. But the rules of discovery have changed, and they have changed for everyone at once. That is rare, and it is an opening. Firms that adapt early can be named alongside global brands. Firms that wait will keep winning page-one rankings that fewer and fewer buyers ever see.\nThe writer is founder and CEO of a search and AI visibility firm.\nPublished in Dawn, November 26th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-ECO",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Discuss the Pakistan’s historic role in Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?"
+    },
+    "suitable": true,
+    "relevanceScore": 95,
+    "paper": "Current Affairs / Economics",
+    "topic": "Pakistan's IT Exports and Digital Economy Challenges",
+    "whyMatters": "This article, 'New search trends,' by Usman Tauqir, is not directly relevant to the past exam question: 'Discuss Pakistan’s historic role in the Economic Cooperation Organization (ECO) and under the framework of regional integration; what are the future prospects of ECO for Pakistan?'. While highly pertinent to understanding the evolving global digital economy and challenges for Pakistan's IT sector exports, it does not discuss ECO, regional integration, or historical roles. Therefore, it should not be quoted for that specific question.",
+    "summary": [
+      "AI systems like ChatGPT, Google's Gemini, and AI Overviews are fundamentally changing how global buyers discover software vendors, moving beyond traditional Google search rankings.",
+      "Pakistani IT exporters are largely optimizing for outdated search mechanisms, rendering them invisible in the new AI-driven discovery process which prioritizes summaries over organic links.",
+      "AI predominantly relies on third-party validation (reviews, videos, forums) and sources beyond page-one rankings, posing a significant challenge for Pakistani firms with a pre-existing 'trust gap'.",
+      "To adapt, Pakistani exporters must prioritize public reviews, earn mentions in independent industry channels, and proactively track their visibility in AI search answers, with industry bodies also playing a role in this transformation."
+    ],
+    "facts": [
+      "Google showed an AI Overview on 98% of the software-buying searches tested by the author's firm.",
+      "Only 28.1% of websites cited in AI Overviews also ranked in the top three organic Google results on the same page.",
+      "Review platforms (G2, Capterra, TrustRadius) were cited in 25.6% of ChatGPT’s answers, while Google’s AI Overviews cited YouTube in 80.5% and Reddit in 52.8% of answers."
+    ],
+    "academicReferences": [
+      "Pakistan Software Export Board (PSEB) Annual Reports on IT & ITes Export Performance",
+      "World Bank 'Digital Pakistan' Reports and Policy Briefs",
+      "P@SHA (Pakistan Software Houses Association for IT & ITeS) Industry Surveys"
+    ],
+    "vocabulary": [
+      {
+        "word": "Remittance figures",
+        "type": "noun phrase",
+        "definition": "Amounts of money sent by people working abroad to their families or home country.",
+        "sentence": "Pakistan’s IT and software export story is often told in remittance figures."
+      },
+      {
+        "word": "SaaS start-ups",
+        "type": "noun phrase",
+        "definition": "New companies specializing in Software as a Service, where software is licensed on a subscription basis and hosted centrally.",
+        "sentence": "Our software houses, SaaS start-ups and agencies learned that game: rank for the right phrases, get the click, win the call."
+      },
+      {
+        "word": "Optimising",
+        "type": "verb",
+        "definition": "Making the best or most effective use of a situation, resource, or system.",
+        "sentence": "Our IT exporters are optimising for a search page buyers no longer read."
+      },
+      {
+        "word": "Exacerbates",
+        "type": "verb",
+        "definition": "Makes a problem, bad situation, or negative feeling worse.",
+        "sentence": "The existing trust gap for Pakistani vendors is exacerbated by AI systems that automate the hunt for third-party proof."
+      },
+      {
+        "word": "Infrastructure",
+        "type": "noun",
+        "definition": "The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies) needed for the operation of a society or enterprise.",
+        "sentence": "Exporters should treat reviews as infrastructure, not vanity."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary reason Pakistani IT exporters are becoming less visible to foreign buyers according to the article?",
+        "options": [
+          "They are not producing high-quality software.",
+          "They are optimizing for traditional search engines, while buyers now use AI systems that present summaries.",
+          "They lack competitive pricing compared to Western firms.",
+          "Foreign buyers no longer trust Pakistani vendors."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that AI Overviews now sit at the top of search results, providing summaries, and 'Our IT exporters are optimising for a search page buyers no longer read.'"
+      },
+      {
+        "question": "Which of the following is NOT a characteristic of the new AI-driven search trends highlighted in the article?",
+        "options": [
+          "AI answers are the first thing buyers see.",
+          "Ranking high on Google guarantees a place in AI summaries.",
+          "AI leans on what other people say about a product.",
+          "AI cites sources beyond the top organic results."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states, 'ranking on Google no longer guarantees a place in that summary' and provides data showing many cited websites did not rank organically."
+      },
+      {
+        "question": "According to the article, what is a crucial step for Pakistani exporters to improve their visibility in AI-driven searches?",
+        "options": [
+          "Increase their advertising budget on Google.",
+          "Focus solely on improving their website content.",
+          "Treat reviews as infrastructure and earn mentions outside their own websites.",
+          "Reduce the price of their software services."
+        ],
+        "answerIndex": 2,
+        "explanation": "The author suggests, 'Exporters should treat reviews as infrastructure, not vanity' and 'They should earn mentions outside their own websites.'"
+      },
+      {
+        "question": "What percentage of software-buying searches tested showed an AI Overview?",
+        "options": [
+          "52.8%",
+          "28.1%",
+          "98%",
+          "36.5%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Google showed an AI Overview on 98 per cent of the software-buying searches we tested.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How have AI systems fundamentally changed the initial discovery phase for software buyers, according to the article?",
+        "back": "AI systems now provide a summary answer at the top of search results (AI Overviews, ChatGPT responses), often settling questions or forming shortlists before a buyer scrolls to traditional links or visits vendor websites."
+      },
+      {
+        "front": "Why is optimizing for traditional Google page-one rankings no longer sufficient for Pakistani IT exporters?",
+        "back": "AI Overviews appear on almost all searches, and ranking on Google's top organic results no longer guarantees inclusion in these AI summaries. AI also pulls information from a broader range of sources beyond traditional page-one links."
+      },
+      {
+        "front": "What role do third-party reviews and external mentions play in AI-driven vendor discovery?",
+        "back": "AI systems heavily lean on third-party validation, such as reviews on platforms like G2 and TrustRadius, and discussions on forums like Reddit, along with videos (YouTube), using these as critical inputs for their summaries and recommendations."
+      },
+      {
+        "front": "What specific actions are recommended for Pakistani IT exporters to overcome the 'trust gap' and improve AI visibility?",
+        "back": "Exporters should actively seek and value foreign client reviews on relevant platforms, earn mentions in comparison articles, industry publications, and expert commentaries, and regularly measure their firm's appearance in AI answers."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795672071115-427",
+    "title": "Choking the provinces",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2047101/choking-the-provinces",
+    "date": "2026-11-26",
+    "author": "none@none.com (Khurram Husain)",
+    "content": "LET’S be very clear about one thing: this business of cutting the provinces up into “administrative units” has nothing to do with good or bad governance. It is mainly about recentralising control over the state’s resources.\nA paper written by three eminent Pakistani academics in 2005 made a related point that is worth revisiting in the present debate. The authors were Ali Cheema, Asim Ijaz Khwaja and Adnan Qadir and the document was published in 2005 as a working paper for Harvard’s Kennedy School of Government. They took a longer view of all attempts to bring in local governments in the country’s history, and came to the following conclusion: “local government empowerment has always been combined with centralisation of political power in the hands of the non-representative centre. The centralisation of political power has undermined representative institutions not only at the level of the centre but also at the level of the provinces.”\n    \nTheir analysis is especially relevant all over again, as the same gambit to centralise power is being rolled out for the fourth time in our history. They noted that in all such experiments in the past, “[o]ur interpretation is that these reforms have been used as a means for a non-representative centre to gain legitimacy by by-passing the political agents at the provincial and national levels”.\nToday almost 30pc of the federal deficit is being financed by provincial resources, and the demand from the centre for more is continuing to grow.\nThe seventh NFC award agreed to in 2009 and made effective in July 2010 reversed the centralisation of powers and resources that the federal authorities had grown accustomed to over the decades. It was the first time in Pakistan’s history that powers and, more importantly, resources, flowed down from the federal government towards lower tiers of government in such large quantities. And almost immediately, from its very first year of operation, a thrust emerged from the federal authorities to try and undo this.\nIt began slowly at first. Then in the middle of the decade it achieved its first written form. Here is a brief timeline of how small, subtle changes in how fiscal resources are measured and counted turned into a full-blown programme for reversing the flow of these resources to the provincial governments.\n    \nIn FY2011, the first year after the seventh NFC award, the federal government “successfully pressed” the provincial governments to run a surplus and not spend all the money being devolved down to them. Then the next year they asked for these surpluses again, but with no Fund programme in force, the provincial governments did not comply.\nThis changed in 2013 when the IMF made it a prior action for provinces to post a surplus, and provincial deposits with the State Bank leapt from Rs42 billion in June 2013 to Rs257bn by March 2014. This was ratified in the Council of Common Interests, and provincial finance secretaries agreed to continue the practice into 2015. By June 2015 the IMF programme called for written agreement from the provinces to raise their surpluses, as a prior action and a few months later, in September, provincial spending was capped at 6.5 per cent of GDP.\nBy June 2016, as the programme was winding up with only a few months left in it, the government set up the Fiscal Coordination Committee to ensure that centre and provinces coordinate their spending and surpluses. The very next year, as the Fund programme ran out, provincial governments ramped up their spending, running a deficit of Rs163bn in FY17.\nIn July 2019 another IMF programme was signed, after replacing finance ministers. This one again made it a prior action to get provinces to run surpluses, and raised the surplus targets from one to 2.7pc of GDP. That agreement was renewed in the two years that followed, and provincial surpluses leapt from Rs77bn in FY20 to Rs314bn in FY21 and Rs351bn in FY22. That was the most troubled programme of Pakistan’s history, with more false starts than any other programme Pakistan had ever signed.\nThe blowout came in 2024. As part of the bailout in July 2023, the provinces now had to agree not only to post a surplus, but also submit spending plans. Provincial deposits were already netted against government borrowing in the IMF’s targets for the budget deficit and SBP’s net domestic assets, thereby helping the federal government meet its targets under the Fund programme. Most importantly, the targets for provincial surpluses agreed to in that programme rose to Rs1.2 trillion in the first year, rising to Rs1.9tn by FY27.\nSo in 2011 the provinces left unspent 13.5pc of what they received as a transfer under the NFC award. This figure fell as soon as the Fund programme lapsed, then rose again every time Pakistan entered a Fund programme. Today it stands at 19pc, skyrocketing in the last three years.\nToday almost 30pc of the federal deficit is being financed by provincial resources, and the demand from the centre for more is continuing to grow.\nIn May 2025, for example, provinces were required to put surplus cash into T-bills. Their holdings of federal government debt rose from Rs19bn in June 2025 to Rs1.8tn as of October 2026, though this figure fluctuates a lot with maturities every few months. And then in June 2026, under Article 164 grants, the provinces were made to hand over Rs1.0tn to the federal authorities, or about 12.66pc of each province’s NFC share.\nWhat began as a plea to restrain spending in 2011 slowly grew into a codified demand to run a surplus. Then the targets for these surpluses were raised. Then came requirements to buy government debt paper followed by a reverse flow from province to centre as a “grant” under Article 164. And now they want to dismantle the whole set-up altogether, in the name of governance. The irony here is that it is the governance failures of the federal authorities themselves that have fuelled their hunger for resources from the provincial authorities.\nThe writer is a business and economy journalist.\nkhurram.husain@gmail.com\nX: @khurramhusain\nPublished in Dawn, November 26th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 85,
+    "paper": "Pakistan Affairs / Economics / Public Administration",
+    "topic": "Federal-Provincial Fiscal Relations, Decentralization vs. Centralization, and the Role of IMF Programs in Pakistan",
+    "whyMatters": "This article provides critical insight into the ongoing power struggle between federal and provincial governments over resources, particularly highlighting how federal authorities leverage international financial institutions to recentralize control. It is crucial for understanding Pakistan's fiscal challenges, constitutional framework, and governance dynamics.",
+    "summary": [
+      "The primary motivation behind initiatives like cutting provinces into 'administrative units' is recentralizing control over state resources, not improving governance.",
+      "Historically, local government empowerment in Pakistan has consistently been combined with the centralization of political power by a non-representative center, undermining representative institutions at all levels.",
+      "The 7th NFC Award (2009/2010) was a landmark devolution of powers and resources to provinces, which the federal authorities immediately sought to reverse.",
+      "Federal efforts to recentralize resources evolved from pressing provinces for surpluses (often via IMF programs) to mandating investment in federal debt and ultimately demanding 'grants' under Article 164, culminating in proposals to dismantle the setup altogether."
+    ],
+    "facts": [
+      "Almost 30% of the federal deficit is currently financed by provincial resources, with demand from the center continuing to grow.",
+      "The 7th NFC Award, agreed upon in 2009 and made effective in July 2010, significantly devolved powers and resources from the federal government to lower tiers.",
+      "Provincial surpluses targeted under the July 2023 IMF bailout rose to Rs1.2 trillion in FY24, increasing to Rs1.9 trillion by FY27.",
+      "In June 2026, provinces were made to hand over Rs1.0 trillion to federal authorities as 'grants' under Article 164, representing about 12.66% of each province's NFC share."
+    ],
+    "academicReferences": [
+      "Paper by Ali Cheema, Asim Ijaz Khwaja, and Adnan Qadir (2005) published as a working paper for Harvard’s Kennedy School of Government, on local government empowerment and centralisation.",
+      "7th National Finance Commission (NFC) Award (2009/2010), a constitutional mechanism for horizontal and vertical distribution of resources.",
+      "IMF Programs (e.g., those in 2013, 2019, 2023), which frequently included prior actions for provincial fiscal surpluses.",
+      "Article 164 of the Constitution of Pakistan (Grants from Federation to Provinces)."
+    ],
+    "vocabulary": [
+      {
+        "word": "Recentralising",
+        "type": "verb",
+        "definition": "Bringing control or power back to a central authority after it had been distributed or decentralized.",
+        "sentence": "The government's new policy was seen as an attempt to recentralise economic control over the provinces."
+      },
+      {
+        "word": "Gambit",
+        "type": "noun",
+        "definition": "A device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.",
+        "sentence": "The latest move to impose new taxes on provinces was perceived as a political gambit to consolidate federal power."
+      },
+      {
+        "word": "Devolved",
+        "type": "verb",
+        "definition": "Transferred or delegated (power) to a lower level, especially from a central government to local or regional administration.",
+        "sentence": "The 7th NFC Award successfully devolved substantial financial resources to the provincial governments."
+      },
+      {
+        "word": "Ratified",
+        "type": "verb",
+        "definition": "Signed or given formal consent to (a treaty, contract, or agreement), making it officially valid.",
+        "sentence": "The Council of Common Interests ratified the agreement for provinces to continue posting surpluses."
+      },
+      {
+        "word": "Blowout",
+        "type": "noun",
+        "definition": "A sudden, large, or dramatic increase or expansion, often financially.",
+        "sentence": "The financial blowout came in 2024 when the provincial surplus targets reached unprecedented levels."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is the primary motivation behind attempts to cut provinces into 'administrative units'?",
+        "options": [
+          "To improve good governance",
+          "To recentralise control over state resources",
+          "To enhance local representation",
+          "To streamline bureaucratic processes"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states: 'this business of cutting the provinces up into “administrative units” has nothing to do with good or bad governance. It is mainly about recentralising control over the state’s resources.'"
+      },
+      {
+        "question": "What did the 2005 Harvard Kennedy School paper conclude about local government empowerment in Pakistan's history?",
+        "options": [
+          "It always led to greater provincial autonomy",
+          "It was consistently combined with centralisation of political power by a non-representative center",
+          "It resulted in equitable resource distribution",
+          "It significantly weakened federal authority"
+        ],
+        "answerIndex": 1,
+        "explanation": "The paper concluded that 'local government empowerment has always been combined with centralisation of political power in the hands of the non-representative centre.'"
+      },
+      {
+        "question": "Which specific event marked the first time in Pakistan's history that powers and resources flowed down from the federal government to lower tiers in such large quantities?",
+        "options": [
+          "The 18th Constitutional Amendment",
+          "The 7th NFC Award",
+          "The establishment of the Fiscal Coordination Committee",
+          "The first IMF program in 2013"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states the 'seventh NFC award agreed to in 2009 and made effective in July 2010 reversed the centralisation of powers and resources... It was the first time in Pakistan’s history that powers and, more importantly, resources, flowed down... in such large quantities.'"
+      },
+      {
+        "question": "What percentage of the federal deficit is currently financed by provincial resources, according to the article?",
+        "options": [
+          "13.5%",
+          "19%",
+          "30%",
+          "6.5%"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly states: 'Today almost 30pc of the federal deficit is being financed by provincial resources, and the demand from the centre for more is continuing to grow.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the central argument of the article regarding the true intention behind proposals to alter provincial structures?",
+        "back": "The article argues that such proposals are not about good governance but primarily about recentralizing control over the state's resources by the federal government."
+      },
+      {
+        "front": "According to the 2005 academic paper cited, what historical pattern characterises attempts at local government empowerment in Pakistan?",
+        "back": "The paper found that local government empowerment has consistently been combined with the centralization of political power by a non-representative center, thereby undermining representative institutions."
+      },
+      {
+        "front": "How did the federal government's approach to provincial resources evolve after the 7th NFC Award, particularly with IMF involvement?",
+        "back": "It evolved from simply 'pressing' provinces to run surpluses (FY2011), to making surpluses a 'prior action' for IMF programs (2013 onwards), setting spending caps (2015), mandating investment in federal T-bills (2025), and finally demanding reverse 'grants' under Article 164 (2026)."
+      },
+      {
+        "front": "What irony does the author highlight regarding the federal authorities' demand for provincial resources?",
+        "back": "The author points out the irony that the federal authorities' own governance failures are what have fueled their increasing hunger for resources from the provincial authorities."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795672358912-798",
+    "title": "Raising our sons",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046929/raising-our-sons",
+    "date": "2026-11-25",
+    "author": "none@none.com (Van Nguyen)",
+    "content": "IN June, a seven-year-old girl in Sargodha went to a grocery store and never returned. In August, an 18-month-old in Karachi lost her life after being sexually assaulted by a teenage relative. Two weeks later, Hina Javed, a 45-year-old professional, was found raped and murdered in her own home in Rawalpindi. Days later, a five-year-old girl in Haripur who had gone out to play was found dead in a well.\nThese cases broke through in a single summer; many more never did. Each time, Pakistan said “never again,” then turned the page.\n    \nOn paper, Pakistan has made progress. The Anti-Rape Act of 2021 and the rules that followed strengthened how rape is investigated and tried, and how survivors are protected. Yet law ministry figures, reported by Dawn, record 47,452 cases across five categories of rape-related offences in the four provinces between 2021 and mid-2026. And that is only the reported picture: the Senate Functional Committee on Human Rights noted that an estimated 70 per cent of gender-based violence incidents go unreported.\nIn Pakistan, rape is treated as a woman’s problem.\nAfter every case, we ask the same questions. Where were her parents? Why was she alone? Why did she let him in? The questions are always about her.\nBut we rarely ask the questions that matter. Who are these men and boys? Where did they learn this? And who around them noticed something and said nothing?\nIn Pakistan, rape is treated as a woman’s problem even though it is something men do, most often men she knows. In cases of reported child sexual abuse, child protection group Sahil found that acquaintances remained the most common category of abusers in 2025. We have spent decades teaching our daughters to be careful but barely begun teaching our sons.\n    \nNothing excuses these crimes. But we must look honestly at how boys grow up. Many learn early that anger is the only feeling a man shows, and that a sister’s freedom is his to police. Few ever learn about consent, at home or in school. When they struggle, there is rarely anyone to talk to, because mental health is still a whisper in most homes.\nBy official count, nearly 12 million boys are out of school. Many grow up without the guidance, support and opportunities that help shape their understanding of relationships and respect. Poverty does not make a rapist, and rape happens in wealthy homes too. But do we want to leave a generation to learn about women from the street and the screen?\nSo where do we start?\nIn the classroom. Every child should learn what safe and unsafe touch is, what consent means, and that respect for women is not optional. This belongs in the school curriculum, not in a one-day workshop.\nThrough UNDP’s work, from strengthening gender-responsive justice and the security sector to supporting Pakistan’s first national strategy on technology-facilitated gender-based violence and expanding women’s economic opportunities, I have seen why institutional reform matters. But I also believe that institutions are too often asked to correct attitudes that have hardened long before a man enters a police station, courtroom or workplace.\n    \nWhich is why men must own this work. For fathers, it starts with how they speak to women at home and with the first time they teach a son that consent is not negotiable. Men who run governments, police stations, courtrooms, mosques and newsrooms can stop interrogating what she was wearing and start asking what he did. Every man who laughs at the joke, forwards the video or keeps the secret is making a choice. Young men, online and in the street, can challenge their peers in ways no elder can.\nMost of all, we need to talk about this far more consistently and loudly. Advocacy campaigns come in short bursts: around int­ernational days or after a case trends, before falling silent until another assault dominates the airwaves. When I was growing up in Vietnam, the government ran a family planning campaign with one simple message: “boy or girl, two children are enough.”\nIt was on billboards, on television and on the radio, year after year, until it became common sense. The context was different, but the lesson stayed with me. A message repeated often enough, for long enough, can reshape what a society considers normal.\n    \nPakistan can do the same. Government, media and advertisers could carry one national message, every day, not once a year: rape is a man’s choice and a man’s shame, and every man has a responsibility to speak up.\nEvery man and boy in this summer’s headlines was shaped in Pakistani homes, schools, and communities, by what the men around them said, did, and allowed. That is where this begins, and where it must end. Pakistan does not only need to protect its daughters. It must raise its sons better.\nThe writer is deputy resident representative, UNDP Pakistan.\nPublished in Dawn, November 25th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Gender Studies / Pakistan Affairs / Current Affairs / Sociology",
+    "topic": "Gender-Based Violence: Societal Accountability and Policy Reforms in Pakistan",
+    "whyMatters": "This article critically analyzes the root causes and societal implications of gender-based violence in Pakistan, moving beyond legislative failures to emphasize male responsibility. Aspirants can quote its arguments and data to enrich essays, policy recommendations, and analytical responses on social issues, gender inequality, and governance reforms.",
+    "summary": [
+      "Despite legislative progress like the Anti-Rape Act of 2021, gender-based violence remains rampant and largely unreported in Pakistan, indicating a deeper societal issue beyond legal frameworks.",
+      "The prevailing narrative treats rape as a 'woman’s problem,' deflecting responsibility from perpetrators and ignoring the societal conditioning of boys and men.",
+      "The roots of male violence are traced to upbringing, lack of education on consent, suppression of emotions (except anger), and absence of guidance, which are exacerbated by poverty and lack of opportunities.",
+      "Effective change requires a multi-pronged approach: embedding consent and respect in school curricula, institutional reforms, men owning the issue through direct intervention and challenging peers, and consistent national advocacy campaigns to reshape societal norms."
+    ],
+    "facts": [
+      "Law ministry figures reported 47,452 cases across five categories of rape-related offences in Pakistan's four provinces between 2021 and mid-2026.",
+      "The Senate Functional Committee on Human Rights estimates that 70 percent of gender-based violence incidents go unreported.",
+      "Child protection group Sahil found that acquaintances remained the most common category of abusers in reported child sexual abuse cases in 2025."
+    ],
+    "academicReferences": [
+      "Van Nguyen (Deputy Resident Representative, UNDP Pakistan) on the imperative for societal re-education and male accountability in combating gender-based violence.",
+      "Pakistan's Anti-Rape Act of 2021 as a legislative attempt to strengthen investigation, trial, and survivor protection for rape cases.",
+      "UNDP's engagement in strengthening gender-responsive justice and security sectors, and supporting Pakistan's first national strategy on technology-facilitated gender-based violence."
+    ],
+    "vocabulary": [
+      {
+        "word": "interrogating",
+        "type": "verb",
+        "definition": "to ask questions of (someone) closely, aggressively, or formally.",
+        "sentence": "Men who run governments... can stop interrogating what she was wearing and start asking what he did."
+      },
+      {
+        "word": "hardened",
+        "type": "adjective",
+        "definition": "made tough or resistant; solidified.",
+        "sentence": "institutions are too often asked to correct attitudes that have hardened long before a man enters a police station, courtroom or workplace."
+      },
+      {
+        "word": "non-negotiable",
+        "type": "adjective",
+        "definition": "not open to discussion or modification.",
+        "sentence": "the first time they teach a son that consent is not negotiable."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what percentage of gender-based violence incidents are estimated to go unreported in Pakistan?",
+        "options": [
+          "A) 47%",
+          "B) 70%",
+          "C) 21%",
+          "D) 50%"
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states, 'the Senate Functional Committee on Human Rights noted that an estimated 70 per cent of gender-based violence incidents go unreported.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the primary failing of Pakistan's approach to gender-based violence despite legislative reforms like the Anti-Rape Act of 2021?",
+        "back": "Pakistan continues to treat rape as a 'woman's problem,' focusing on victim blame rather than addressing male perpetrators and the societal conditioning of boys."
+      },
+      {
+        "front": "What are the key areas where the author suggests interventions should begin to reshape how boys grow up?",
+        "back": "Interventions should start in the classroom (teaching consent and respect), through institutional reforms (justice, security, economic opportunities), and by men owning the work at home and in public."
+      },
+      {
+        "front": "How does the author propose to reshape societal norms around gender-based violence, drawing a lesson from Vietnam?",
+        "back": "By implementing consistent, national advocacy campaigns across government, media, and advertisers with a simple, repeated message: rape is a man's choice and shame, and every man has a responsibility to speak up."
+      },
+      {
+        "front": "What is identified as a significant factor in how boys learn about relationships and respect, particularly for the nearly 12 million boys out of school?",
+        "back": "They often grow up without guidance, support, and opportunities, learning about women from the street and the screen rather than through structured education or positive role models."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795671754820-393",
+    "title": "Oman oil deal",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046932/oman-oil-deal",
+    "date": "2026-11-25",
+    "author": "none@none.com (Editorial)",
+    "content": "PAKISTAN’S new oil supply agreement with Oman comes at a difficult time for its energy sector. Under the agreement, Oman will supply petroleum products and extend a $200m credit facility. The credit line is important because Pakistan’s fuel imports place considerable pressure on its forex reserves. Deferred payments can ease immediate dollar requirements and provide greater flexibility in financing its purchases. Similar arrangements with other suppliers have helped manage import obligations. But credit facilities are borrowing arrangements at the end of the day. The agreement’s significance, however, extends beyond the deferred payment facility. The arrangement would offer some relief amid uncertainty over regional oil supplies. The continuing disruption of shipping through the Strait of Hormuz has exposed Pakistan’s vulnerability to regional conflicts. The country imports nearly 80-85pc of its petroleum requirements, with much of its supplies traditionally passing through this critical maritime passage. Oman offers an important alternative because its ports provide access to the Arabian Sea outside Hormuz. This geographical advantage could help Pakistan reduce its exposure to disruptions affecting traditional Gulf supply routes.\nThe state must ensure that the agreement translates into reliable supplies at competitive prices. More importantly, the arrangement should prompt a wider rethink of the nation’s energy security. The country has repeatedly faced difficulties whenever international conflicts disrupt oil and gas supplies. Its over-dependence on imported petroleum leaves the economy exposed to external shocks, drains foreign exchange and adds to domestic inflation. Building strategic petroleum reserves, improving storage capacity and developing alternative supply routes must receive greater attention. At the same time, Islamabad also needs to reduce its dependence on imported fossil fuels through faster adoption of indigenous renewable energy. Solar and wind power can lower the country’s exposure to international fuel markets over time. The agreement with Oman is welcome. But a new supplier and a credit line cannot, by themselves, resolve Pakistan’s energy vulnerabilities. Energy security requires a sustained reduction in import dependence.\nPublished in Dawn, November 25th, 2026",
+    "matchedQuestion": {
+      "id": "PA-2023-ECON",
+      "paper": "Pakistan Affairs",
+      "year": 2023,
+      "question": "Critically discuss that why Pakistan’s economic growth continues to be 'Balance-of-Payments' constraint which is one of the core cause to keep the foreign exchange reserves under pressure. Do you think that Pakistan’s export performance remains the most relevant long-term challenge?"
+    },
+    "suitable": true,
+    "relevanceScore": 82,
+    "paper": "Pakistan Affairs",
+    "topic": "Pakistan's Energy Security and Balance of Payments Crisis",
+    "whyMatters": "This article directly addresses Pakistan's chronic Balance of Payments (BoP) constraint, highlighting how essential imports like petroleum drain foreign exchange reserves. It provides concrete examples and policy suggestions crucial for understanding and discussing Pakistan's economic vulnerabilities in competitive exams.",
+    "summary": [
+      "Pakistan's new oil supply agreement with Oman includes a $200m credit facility and petroleum products, aiming to ease immediate pressure on foreign exchange reserves through deferred payments.",
+      "The deal offers an alternative oil supply route, with Oman's ports providing access to the Arabian Sea outside the Strait of Hormuz, thereby reducing Pakistan's vulnerability to regional conflicts and shipping disruptions.",
+      "The article emphasizes that while the deal offers temporary relief, it should prompt a broader rethink of Pakistan's energy security, moving beyond import dependence.",
+      "Long-term solutions proposed include building strategic petroleum reserves, improving storage capacity, developing alternative supply routes, and significantly accelerating the adoption of indigenous renewable energy sources like solar and wind."
+    ],
+    "facts": [
+      "Oman will extend a $200m credit facility for petroleum products to Pakistan.",
+      "Pakistan imports nearly 80-85% of its petroleum requirements, with much traditionally passing through the Strait of Hormuz.",
+      "The article was published in Dawn on November 25th, 2026."
+    ],
+    "academicReferences": [
+      "IMF Country Reports on Pakistan (e.g., Article IV Consultations focusing on macroeconomic stability and external sector vulnerabilities)",
+      "Economic Survey of Pakistan (latest edition – for official data on energy imports, forex reserves, and BoP trends)",
+      "Pakistan Council of Renewable Energy Technologies (PCRET) reports (for data and strategies on indigenous renewable energy development)"
+    ],
+    "vocabulary": [
+      {
+        "word": "Forex reserves",
+        "type": "noun",
+        "definition": "Foreign exchange reserves, assets held by a central bank in foreign currencies to back its liabilities.",
+        "sentence": "Pakistan's fuel imports place considerable pressure on its forex reserves, highlighting a persistent Balance of Payments issue."
+      },
+      {
+        "word": "Deferred payments",
+        "type": "noun",
+        "definition": "Payments that are postponed to a later date.",
+        "sentence": "The $200m credit facility from Oman will allow for deferred payments, easing immediate dollar requirements."
+      },
+      {
+        "word": "Indigenous",
+        "type": "adjective",
+        "definition": "Originating or occurring naturally in a particular place; native.",
+        "sentence": "Islamabad needs to reduce its dependence on imported fossil fuels through faster adoption of indigenous renewable energy."
+      },
+      {
+        "word": "Vulnerability",
+        "type": "noun",
+        "definition": "The state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+        "sentence": "The continuing disruption of shipping through the Strait of Hormuz has exposed Pakistan’s vulnerability to regional conflicts regarding its energy supply."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary short-term benefit of the $200m credit facility from Oman?",
+        "options": [
+          "To completely eliminate Pakistan's fuel import dependence.",
+          "To ease immediate dollar requirements and provide greater flexibility in financing purchases.",
+          "To establish Oman as Pakistan's sole long-term oil supplier.",
+          "To directly fund strategic petroleum reserves."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article states that 'Deferred payments can ease immediate dollar requirements and provide greater flexibility in financing its purchases,' indicating a short-term relief for forex pressure."
+      },
+      {
+        "question": "The geographical advantage of Oman's ports, as highlighted in the article, is that they provide access to the Arabian Sea:",
+        "options": [
+          "Exclusively for military vessels.",
+          "Through the Suez Canal.",
+          "Outside the Strait of Hormuz.",
+          "Only for crude oil, not refined products."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article explicitly mentions, 'Oman offers an important alternative because its ports provide access to the Arabian Sea outside Hormuz,' reducing exposure to disruptions in that critical strait."
+      },
+      {
+        "question": "According to the article, which of the following is NOT a suggested long-term measure for Pakistan's energy security?",
+        "options": [
+          "Building strategic petroleum reserves.",
+          "Improving storage capacity.",
+          "Increasing dependence on a single supplier.",
+          "Faster adoption of indigenous renewable energy."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article advocates for diversifying supplies and reducing import dependence, not increasing reliance on a single supplier. It specifically lists the other three options as long-term solutions."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does Pakistan's over-dependence on imported petroleum contribute to its Balance of Payments constraint and pressure on foreign exchange reserves?",
+        "back": "Pakistan's high reliance on imported petroleum (80-85% of requirements) means significant dollar outflows, draining foreign exchange reserves and exacerbating the Balance of Payments deficit, especially during international price hikes or disruptions."
+      },
+      {
+        "front": "Beyond the credit facility, what strategic advantage does Oman offer to Pakistan concerning oil supplies?",
+        "back": "Oman's ports provide access to the Arabian Sea outside the Strait of Hormuz, offering an alternative supply route that reduces Pakistan's vulnerability to regional conflicts and shipping disruptions affecting traditional Gulf routes."
+      },
+      {
+        "front": "What broader national energy security rethink is prompted by the Oman oil deal, according to the article?",
+        "back": "The deal should prompt a shift towards reducing import dependence through measures like building strategic petroleum reserves, improving storage capacity, developing alternative supply routes, and accelerating the adoption of indigenous renewable energy sources."
+      },
+      {
+        "front": "Why are credit facilities, despite easing immediate dollar requirements, considered insufficient for resolving Pakistan's fundamental energy vulnerabilities?",
+        "back": "Credit facilities are borrowing arrangements that still incur future repayment obligations, fundamentally failing to address the structural issue of over-dependence on imported fossil fuels and the associated drain on foreign exchange."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795672535946-890",
+    "title": "Global Order - the verdict",
+    "source": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642334/global-order-the-verdict",
+    "date": "2026-11-25",
+    "author": "\n\t\t\t\tInam Ul Haque\n\t\t\t",
+    "content": "For the last two weeks, we are discussing the biennial 'Margalla Dialogue' conducted by IPRI (Islamabad Policy Research Institute) on November 10-11, 2026, on the theme 'Global Order in Transition'. After a round-up of the theme's validity and relevant deliberations, this piece would sum up the iterations of other eminent speakers during the Dialogue.\n\nProf Sayyed Vali Raza Nasr, the Irani-American academic with John Hopkins School of Advanced International Studies, agreed with the notion of an Emerging Global Order (EGO), wherein the old Middel East is redefined, under Israeli ambition and America's imperial overreach, that failed to subdue Iran; America's notion of security (especially for the KSA) is severely damaged; drones, missiles and electronics command the new warfare; regional nuclear arms race is in the offing; China has got more space; and Iran has demonstrated surprising societal mobilisation. Iran employed a strategy to fight an empire that is upending the 'developmental strategies' of contemporary militaries, the professor opined.\n\nAmbassador Robin Lynn Raphel, also a former CIA analyst, lamented the US inadvertently accelerating the Global chaos. In her formulation, and echoing other analysts, the 'global concert of cooperative powers' was a more stable framework. She mentioned the changing perception of Israel within the US, as an evolving dynamic. Dr Timofey Bordachev (Russia) spoke about multipolarity, the Sino-US rivalry, Russian foreign policy and the Eurasian integration under his construct of 'three IR factors' and 'four paradoxes'. He was of the view that Russia cannot use its entire military might against Ukraine. Germany's Prof Carl Masala sounded Eurocentric when he, differing with John Meresheimer, asserted that the war in Ukraine will dictate the EGO. Terming multipolarity as wishful thinking and (correctly) disagreeing with imminent demise of the US, as touted, he was confident that a democratic-led Congress would reverse Trumpism, injecting new life into Euro-Atlantic Alliance, because EU was alive and well. According to the worthy professor, Europe needs to learn the language of power and re-arm.\n\nSherry Rehman spoke online, emphasising geography and economics with regional connectivity as the glue. Geography, she said, is permanent, rivalries need not be. And while history cannot be changed, future can be better navigated. She characterised the EGO by quoting from Chairman Mao: \"There is great chaos under heaven. The situation is excellent.\" She reiterated deterrence and diplomacy not being mutually exclusive. Conventional rivalries are not permanent, and capacity to prevent conflict is important. She criticised New Delhi and IEA respectively for Indus Water Treaty's unilateral abrogation and TTP-sponsored terrorism. IEA, in particular, shares the blame for torpedoing regional connectivity, by providing shelter and tolerance for TTP and terrorism.\n\nFormer Foreign Secretary Aizaz Choudhry characterised India as USA's partner of choice, while Pakistan as a random friend. To him energy policies, geography and geopolitics affect regional connectivity. He agreed to the subservience of geoeconomics to geopolitics. Pravin Sawhney, founder and editor of the Force magazine and a former Indian Army officer, participating in person for the second time in Margalla Dialogue, spoke about the 'Global Geopolitics', a term he coined. He characterised the EGO by five big changes, namely the multipolarity, major power rivalry, Russia and China envisioning the EGO, competition in AI and critical technologies, and Chinese-led Global geopolitics affecting our region.\n\nMr Sawhney was of the view that Russia is more focused on security and stability and Eurasian partnership; whereas the Chinese prism is BRI/CPEC, ECO and President Xi's Global Governance Initiative. Russian, to him wanted a multipolar, but not a polycentric world, being unstable. Opposed to multipolarity, in polycentricity, poles influence their areas/countries of interest. Russia considered China and India as poles in the EGO.\n\nHe said China's PLA was as powerful as the US military, and emphasised that Beijing should be part of SAARC to reinvigorate this important regional forum. India and Pakistan, he lamented, were stumbling blocks to realising SAARC's full potential. He agreed that India would not want China in SAARC. In a departure from Prof Mearsheimer's iterations, Pravin opined that the US does not make institutions. He was appreciative of Pakistan being part of major institutions-making, and conflict prevention. He emphasised continued engagement between New Delhi and Islamabad. Replying to a question, Mr Sawhney interestingly observed that Iran will not acquire nuclear weapons, as it makes her a hegemon, and that goes against Tehran's regional framework.\n\nHaving discussed IPRI deliberation of interest on Day 1, one must reiterate what was written about International Programme for Development and Stability (IPDS-26), at NDU, as mentioned here previously. Three days of IPDS deliberations and two days of Margalla Dialogue covered a lot of ground, including EGO and its implications for the world, the region and especially for Pakistan. In such deliberations, encapsulating all aspects of such an expansive debate in the allotted time is next to impossible. However, as suggested to NDU, one would like to see a sequel to the Margalla Dialogue, whenever, to dilate certain other important aspects, that are affecting global governance and populations.\n\nSociologically, the emerging discontent among global youth and a youth-led culture of AI, energy, protest and changed value systems is already overtaking the archaic societal and sociological models. Technology especially AI is rapidly shaping this sociological transformation across national frontiers, warranting serious debate and dialogue.\n\nGeopolitically, lawless unilateralism by the US-Israel nexus in Gaza, Lebanon and Syria and its possible wider emulations by rising powers like India and others sound the alarm bells, asking for 'return to rules' in the EGO, to protect national interests, sovereignty and geographic boundaries. Politically, ethics, religion and nationalism are the newly energised factors that shape EGO. These also need serious and engaging debate. From an academic standpoint, the General-Politician debate needs to be highlighted and possibly settled – whether Generals mislead the Politicians to score career highs or Politicians brow-beat Generals to have their way on globe-altering junkets, like the US war on Iran.\n\nMilitarily, the AI proliferation and its effects on human intelligence and cognitive capacity need further exploration and regulation, before it is too late. Recent AI-enabled military technologies have hastened the worrying trend about acceptance of greater civilian losses in warfare, as the non-contact warfare is no more subservient to the logic of conscience. (Concluded)",
+    "matchedQuestion": {
+      "id": "CA-2018-SCO",
+      "paper": "Current Affairs",
+      "year": 2018,
+      "question": "What are the opportunities and challenges for Pakistan as one of the new members of the Shanghai Cooperation Organization (SCO)?"
+    },
+    "suitable": true,
+    "relevanceScore": 80,
+    "paper": "Current Affairs",
+    "topic": "Pakistan's Role and Challenges in a Multipolar Global Order and Regional Integration (SCO Context)",
+    "whyMatters": "This article critically examines the evolving global order, Sino-US rivalry, and regional dynamics, offering insights into Pakistan's strategic positioning. It highlights opportunities for regional connectivity and challenges like terrorism, directly informing Pakistan's engagement with multilateral platforms like SCO.",
+    "summary": [
+      "The article confirms the emergence of a multipolar global order (EGO) characterized by Sino-US rivalry, redefined Middle East dynamics, and shifting security paradigms.",
+      "Eminent speakers emphasized the significance of regional connectivity, geography, and economics as crucial for future navigation, while acknowledging the potential subservience of geoeconomics to geopolitics.",
+      "Pakistan faces challenges from regional terrorism (TTP sponsored by IEA) and bilateral rivalries (India-Pakistan) hindering regional integration initiatives like SAARC.",
+      "China's growing influence, particularly through BRI/CPEC and its vision for global governance, positions it as a major pole, with implications for regional security and economic cooperation."
+    ],
+    "facts": [
+      "The 'Margalla Dialogue' by IPRI was held on November 10-11, 2026, on the theme 'Global Order in Transition'.",
+      "Pravin Sawhney, founder and editor of Force magazine, coined the term 'Global Geopolitics'.",
+      "Sherry Rehman quoted Chairman Mao: \"There is great chaos under heaven. The situation is excellent\" to characterize the EGO."
+    ],
+    "academicReferences": [
+      "Zbigniew Brzezinski's \"The Grand Chessboard: American Primacy and Its Geostrategic Imperatives\"",
+      "\"Shanghai Cooperation Organization Charter\"",
+      "Belt and Road Initiative (BRI) official documents and white papers"
+    ],
+    "vocabulary": [
+      {
+        "word": "iteration",
+        "type": "noun",
+        "definition": "a repetition or repeated performance of an action or process.",
+        "sentence": "The speaker presented several iterations of the global order, each with slight variations."
+      },
+      {
+        "word": "overreach",
+        "type": "noun",
+        "definition": "the action of reaching too far or beyond a limit; an act of exceeding one's authority, power, or capabilities.",
+        "sentence": "America's imperial overreach in the Middle East failed to subdue Iran."
+      },
+      {
+        "word": "dilatate",
+        "type": "verb",
+        "definition": "to speak or write at length on a subject; to expand upon.",
+        "sentence": "The author suggested a sequel to the dialogue to dilatate on other important aspects affecting global governance."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to the article, what is one key challenge Pakistan faces in fostering regional connectivity, particularly relevant to its engagement with organizations like SCO?",
+        "options": [
+          "A) Lack of interest from major global powers in Pakistan's initiatives.",
+          "B) Insufficient domestic economic growth to support large-scale projects.",
+          "C) Terrorism sponsored by entities like the IEA, disrupting regional harmony.",
+          "D) Over-reliance on Western alliances, limiting regional partnerships."
+        ],
+        "answerIndex": 2,
+        "explanation": "Sherry Rehman explicitly criticizes the IEA for \"torpedoing regional connectivity, by providing shelter and tolerance for TTP and terrorism,\" which directly poses a challenge to regional cooperation, a core function of organizations like SCO."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "How does the article characterize the global order influencing Pakistan's strategic choices?",
+        "back": "The article characterizes it as an 'Emerging Global Order' (EGO) defined by multipolarity, Sino-US rivalry, and the redefinition of traditional geopolitical alignments, pushing countries like Pakistan to navigate new partnerships."
+      },
+      {
+        "front": "What role does regional connectivity play in the emerging global order, according to Sherry Rehman?",
+        "back": "Sherry Rehman emphasizes that regional connectivity, driven by geography and economics, serves as \"the glue\" that can foster cooperation and help navigate a better future, despite historical rivalries."
+      },
+      {
+        "front": "What specific criticism regarding regional stability and connectivity does the article level against the IEA (Interim Afghan Government)?",
+        "back": "The article criticizes the IEA for providing \"shelter and tolerance for TTP and terrorism,\" which is seen as \"torpedoing regional connectivity\" and hindering regional development and cooperation."
+      },
+      {
+        "front": "How does Pravin Sawhney view China's role in the 'Global Geopolitics' and its implications for regional forums like SAARC?",
+        "back": "Pravin Sawhney views China as a major pole, envisioning the EGO through BRI/CPEC and global governance. He suggests China should be part of SAARC to reinvigorate it, implying its pivotal role in regional integration."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795674334654-323",
+    "title": "Absenteeism woes",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046705/absenteeism-woes",
+    "date": "2026-11-24",
+    "author": "none@none.com (Parvez Rahim)",
+    "content": "EMPLOYERS face multiple challenges while managing their businesses. Besides setting up the necessary infrastructure, the quality of manpower plays a key role in the success of an enterprise. The top operating companies in Pakistan, the numbers of which have shrunk substantially over the last 30 to 40 years, employed the best technicians and operators, who were much wanted by petroleum giants, such as Safco and Aramco.\nSuch workers are mostly committed to their company’s interests in complying with safety policies and fulfilling job responsibilities. Regular attendance plays a crucial role in judging an employee’s commitment to his job and organisation.  In progressive companies, there is a provision of two weekly rest days, and between 20 to 25 days of annual leave against the statutory requirement of 14 days per annum. The quantum of other leaves in the law comprises 10 days of casual leave, 16 days of sick leave, and around 15 days of festival-related holidays per year. The total number of leaves and holidays is approximately 165 days, leaving just 200 days of work in a year. Despite this time off, if an employee is absent from work without approval, they should be disciplined.\nExcessive absenteeism exists in industrial and commercial undertakings across the world. The most common reason that is given is sickness. Illness can be feigned; no doctor can ascertain whether the absence was in any way related to a disease. Employees also miss work because of social, cultural and economic reasons. Many are absent because the work is either unrewarding and hazardous or stressful. An employee’s grave personal issues, too, can have a negative impact on their attendance.\nOther key causes of absenteeism include a heavy workload, long hours, and high-pressure tasks coupled with the expense of commuting. Chronic illness, injury, and anxiety make sick leave necessary, as does lack of childcare or eldercare. Workers who feel unappreciated or disconnected from company goals are too discouraged to show up, while bullying and lack of support from supervisors make the workplace unsafe.\nEmployers should identify the causes of absenteeism.\nChronic absenteeism is the consistent absence of an employee from the workplace. This prevents them from carrying out their duties in a timely and productive fashion, which violates a company’s personal or sick leave policy. The hidden costs of absenteeism include overtime for those who cover for absent employees, temporary hiring costs, and the low morale or reduced productivity of those who have to work harder for someone chronically absent. Meanwhile, when such absentees return to the office, they spend the first few days in either catching up, or attending to pending work.\nAccording to Standing Order 15 of the Industrial and Commercial Employment (Standing Orders) Ordinance, 1968, “habitual absence without leave or absence without leave for more than ten days” constitutes misconduct. An employee guilty of misconduct may be dismissed from employment if the charge against him is proven in the domestic inquiry held to investigate the allegation.\nHowever, employers are often advised to proceed against errant employees gradually. The former should first explore the causes of an employee’s absenteeism and, if possible, try to correct inconvenient factors within their organisations. If such an exercise alleviates the absenteeism of an employee, counselling sessions can then be instituted to address stress and anxiety for all. The result will not only be improved overall attendance but also a content and productive workforce. Introducing incentive schemes for employees who maintain an exemplary attendance record also goes a long way in encou­raging people to be present in the office.\nIn the case of an employee becoming entangled in a criminal case and imprisoned for an unspecified period, the superior courts maintain that it is unfair to expect an employer to keep a post vacant indefinitely.\nIn all such cases, the employers had invoked the provisions of Standing Order 12 (3) of the Industrial and Commercial Employment (Standing Orders) Ordi-nance, 1968.\nIt provides that the services of a workman may be terminated by an order in writing, which shall explicitly state the reason for the action taken and is paid one month’s wages in lieu of notice.\nIn its judgement on April 26, 2021, the Supreme Court of Pakistan agreed with all the judgments of the lower courts, in which the employers had resorted to the aforementioned Standing Order to terminate the services of employees absent for an indefinite period. The SC also held that the services of an employee may be terminated if he is unable to return to work for a period of two months.\nThe writer is a human resources consultant at the Aga Khan University Hospital.\nPublished in Dawn, November 24th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 91,
+    "paper": "Public Administration / Economics",
+    "topic": "Causes, Impact, and Management of Absenteeism in the Workplace with Legal Implications in Pakistan",
+    "whyMatters": "This article is crucial for civil service aspirants as it highlights critical labor welfare, productivity, and governance issues prevalent in industrial and commercial sectors. Understanding absenteeism helps in formulating effective public policies, labor laws, and management strategies to enhance economic output and worker well-being.",
+    "summary": [
+      "Absenteeism is a widespread global issue stemming from diverse factors including feigned sickness, unrewarding work, personal challenges, heavy workloads, and lack of supervisory support.",
+      "Chronic absenteeism imposes significant hidden costs on employers, such as overtime expenses, temporary hiring, decreased employee morale, and reduced overall productivity.",
+      "Pakistani law, specifically Standing Order 15 of the 1968 Ordinance, identifies habitual absence exceeding ten days as misconduct, potentially leading to dismissal after a domestic inquiry.",
+      "Employers are encouraged to proactively address root causes of absenteeism through counselling and incentive schemes before resorting to disciplinary action, although superior courts support termination for indefinite absence."
+    ],
+    "facts": [
+      "In Pakistan, the total number of statutory and other leaves and holidays provided annually is approximately 165 days, leaving just 200 days of actual work in a year.",
+      "Standing Order 15 of the Industrial and Commercial Employment (Standing Orders) Ordinance, 1968, defines \"habitual absence without leave or absence without leave for more than ten days\" as misconduct.",
+      "The Supreme Court of Pakistan, in a judgment on April 26, 2021, affirmed that an employee's services may be terminated if they are unable to return to work for a period of two months."
+    ],
+    "academicReferences": [
+      "Industrial and Commercial Employment (Standing Orders) Ordinance, 1968 (Standing Order 15 and 12(3))",
+      "Supreme Court of Pakistan judgment dated April 26, 2021, on employee termination due to indefinite absence",
+      "International Labour Organization (ILO) Conventions and Recommendations on Labor Standards"
+    ],
+    "vocabulary": [
+      {
+        "word": "Woes",
+        "type": "noun",
+        "definition": "great troubles or distress",
+        "sentence": "The company's financial woes led to a significant reduction in its workforce."
+      },
+      {
+        "word": "Feigned",
+        "type": "verb (past participle)",
+        "definition": "pretended or faked",
+        "sentence": "His feigned illness was easily uncovered by the HR department after cross-referencing with his social media."
+      },
+      {
+        "word": "Errant",
+        "type": "adjective",
+        "definition": "straying from the proper course or standards",
+        "sentence": "The manager held a meeting to address the behavior of errant employees who consistently missed deadlines."
+      },
+      {
+        "word": "Alleviates",
+        "type": "verb",
+        "definition": "makes suffering, deficiency, or a problem less severe",
+        "sentence": "Implementing flexible work hours often alleviates stress and improves employee attendance."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What constitutes misconduct related to absenteeism according to Standing Order 15 of the Industrial and Commercial Employment (Standing Orders) Ordinance, 1968?",
+        "options": [
+          "Absence without leave for five days.",
+          "Habitual absence without leave or absence without leave for more than ten days.",
+          "Taking sick leave without a doctor's note.",
+          "Absence for more than two months due to chronic illness."
+        ],
+        "answerIndex": 1,
+        "explanation": "The article explicitly states that Standing Order 15 defines misconduct as 'habitual absence without leave or absence without leave for more than ten days'."
+      },
+      {
+        "question": "Which of the following is NOT a hidden cost of chronic absenteeism for employers, as identified in the article?",
+        "options": [
+          "Overtime for covering employees.",
+          "Temporary hiring costs.",
+          "Increased employee morale.",
+          "Reduced productivity of present employees."
+        ],
+        "answerIndex": 2,
+        "explanation": "The article mentions 'low morale or reduced productivity' as hidden costs, not 'increased employee morale'. The other options are directly stated as hidden costs."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What are the key categories of causes for employee absenteeism mentioned in the article?",
+        "back": "Sickness (feigned or chronic), social/cultural/economic reasons, unrewarding/hazardous/stressful work, grave personal issues, heavy workload/long hours, commuting expense, lack of childcare/eldercare, feeling unappreciated, bullying/lack of supervisory support."
+      },
+      {
+        "front": "Describe the \"hidden costs\" that chronic absenteeism imposes on employers.",
+        "back": "Overtime payments for employees covering for absent colleagues, costs associated with temporary hiring, decreased morale among diligent employees, and reduced overall productivity due to increased workload on others."
+      },
+      {
+        "front": "What are the primary legal provisions and judicial stances in Pakistan regarding habitual or prolonged employee absenteeism?",
+        "back": "Standing Order 15 of the 1968 Ordinance defines habitual absence (more than 10 days) as misconduct; Standing Order 12(3) allows termination with notice for indefinite absence; the Supreme Court ruled on April 26, 2021, that services can be terminated if an employee is unable to return for two months."
+      },
+      {
+        "front": "What proactive strategies are suggested for employers to manage and reduce absenteeism effectively?",
+        "back": "Identifying the root causes of absenteeism, addressing inconvenient organizational factors, instituting counselling sessions for stress/anxiety, and introducing incentive schemes for exemplary attendance records."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795672156857-443",
+    "title": "The missing link",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046704/the-missing-link",
+    "date": "2026-11-24",
+    "author": "none@none.com (Dr Niaz Murtaza)",
+    "content": "RULERS who don’t bring power closer to people via strong local bodies want us to believe that they will now bring power closer to people via more provinces. So, the false idea of making many provinces as a cure for our many ills is back with a bang.\nMonths after it first emerged, the bang is still more noise than a clarion call of reason. I have seen three key reports against it, but none in its favour.\nSupport — strong on rhetoric but weak on evidence — comes mainly from ministers and friendly analysts. One minister cites Afghanistan’s 34 units. That’s odd as Afghanistan helps us avoid the blushes of being last in South Asia on key governance metrics. It’s a unitary state whose units lack legislative powers and elected bodies. We have 150-plus stronger units (districts) which have elected bodies, at least as per the law.\nSome cite unitary France’s 18 units. They too lack legislative powers. Counting them is easier than proving they cause its progress. It has democracy and civilian sway, unlike us. These key parts of the causal chain are not cited in our French politics lessons.\n    \nRulers also ignore the proven merits of local bodies. These offer no instant cure. But with higher democracy and civilian sway present, they bring power closer to people globally. And when the two aren’t in place, nothing usually does that. But they remain our missing link between power and the powerless.\nMost of us don’t have elected local bodies, they being absent in Gilgit-Baltistan, Quetta, Punjab and Islamabad and now KP due to emergency rule. Even when and where they exist, they are too weak to fix problems.\nProvinces often delay their elections for long but dissolve them early. Elections are often held on non-party basis; local officials often lack a public mandate, as in Punjab, and seats for weak groups are often hogged by elites. Citizens have little say in what they do, little recourse when they fail and little voice in how they spend money. Uneven council sizes and missing tiers weaken them further. Local tasks are split among local bodies and many higher-level agencies. Local heads often lack effective control as vague supervisory powers allow interference from above. Weak coordination and capacity gaps further hamper them. Such split and bureaucratic control is high in Islamabad, Sindh and Punjab.\nThe setups closest to the people have the least powers.\nProvinces first make voters wait for local bodies. They later make local bodies wait for cash. They only spend about five per cent of our total state funds, much lower than in many similar states. They depend heavily on provincial funds and can’t legally and practically collect much cash locally. For example, over 95pc of their funds come from such transfers in Sindh. It is often hard to see how provinces divide money across districts, but easy to see that favoured districts get more cash per head.\nSo, the setups closest to the people have the least powers. Would rulers who have kept local bodies so weak for so long empower new provinces? Their new capitals may be closer, but still out of reach of the masses.\nThe aim behind dividing provinces may be to make them powerless like local bodies and actually move power away from the people. What provinces have done to local bodies, the centre may now do to the provinces. So, the masses will have one more government level between them and real power.\n    \nDeep divisions within a setup held together tightly by its strong fear of PTI and its weak mandate make the division of provinces dicey. Bilawal Bhutto-Zardari’s diatribes exposing its electoral misdeeds and warning against forcing matters via a referendum emitted shockwaves. Our new troi­­ka — the president, prime minister and interior minister — representing all key parts of the hybrid regime, soon agreed on talks. Perhaps those fond of force have shelved it, for now.\nThe PPP was largely mum when judges, the opposition and activists faced abuses. It has reacted strongly, now that it’s at the receiving end of the stick. Even though it opposes the idea for the wrong reason — the fear of losing the golden goose of Karachi — the right reasons do exist.\nPML-N supports this latest demand of powerful quarters via ministers, but the Sharifs stay mum. Perhaps it wants strong promises of extended patronage before giving top-level support. But it, too, may be forced to speak up when it eventually faces problems.\nWhile our hybrid rulers continue to play self-serving games, a nuclear-armed state of nearly 250 million inches closer to multifaceted crises given their misrule. Uninterrupted democracy and civilian sway are the only way to avoid doom.\nThe writer has a PhD degree in political economy from the University of California, Berkeley, and 25 years of grassroots to senior-level experience across 50 countries.\nmurtazaniaz@yahoo.com\nX: @NiazMurtaza2\nPublished in Dawn, November 24th, 2026",
+    "matchedQuestion": null,
+    "suitable": true,
+    "relevanceScore": 90,
+    "paper": "Pakistan Affairs / Political Science / Current Affairs / Governance",
+    "topic": "Decentralization, Local Governance, and Provincial Restructuring in Pakistan",
+    "whyMatters": "This article offers a critical analysis of decentralization efforts and proposals for new provinces in Pakistan, providing essential arguments for essay and analytical questions on governance and political reforms. It highlights the systemic issues hindering genuine devolution of power, crucial for a nuanced understanding of Pakistan's political economy.",
+    "summary": [
+      "The push for new provinces is a 'false idea' and a distraction from the proven merits of strengthening local bodies, which are the true 'missing link' for bringing power closer to the people.",
+      "Arguments supporting new provinces are weak, based on misinterpretations of other countries' governance models (e.g., Afghanistan, France) which lack legislative powers and elected bodies at sub-national levels.",
+      "Local bodies in Pakistan are systematically weakened by provincial governments through delayed elections, early dissolutions, limited financial autonomy (spending only ~5% of state funds), reliance on provincial transfers (e.g., >95% in Sindh), lack of public mandate, and administrative interference.",
+      "The author suggests that the real aim behind creating new provinces might be to make them as powerless as local bodies, effectively moving power *away* from the people and adding another layer between the masses and real authority.",
+      "The debate is mired in self-serving political games of a 'hybrid regime,' with deep divisions among ruling parties, risking multifaceted crises for the nuclear-armed state, emphasizing uninterrupted democracy and civilian sway as the only way to avoid doom."
+    ],
+    "facts": [
+      "Pakistan has over 150 districts, which are legally designed to have elected local bodies.",
+      "Local bodies in Pakistan typically spend only about five percent of the total state funds.",
+      "Over 95% of local body funds in Sindh originate from provincial transfers, indicating heavy financial dependence.",
+      "Afghanistan's 34 units and France's 18 units, often cited as models, are from unitary states whose sub-units lack legislative powers and elected bodies, unlike Pakistan's districts."
+    ],
+    "academicReferences": [
+      "18th Constitutional Amendment of Pakistan (2010) - Relevant for provincial autonomy and devolution of powers from the federal government to provinces.",
+      "National Finance Commission (NFC) Award - Critical for understanding the distribution of financial resources between the federal and provincial governments, which impacts provincial allocation to local bodies.",
+      "Provincial Local Government Acts/Ordinances (e.g., Sindh Local Government Act 2013, Punjab Local Government Act 2019) - These legislative frameworks define the powers, functions, and limitations of local bodies in specific provinces."
+    ],
+    "vocabulary": [
+      {
+        "word": "Clarion call",
+        "type": "noun",
+        "definition": "A strong, clear, and urgent demand or message.",
+        "sentence": "The author argues that the push for new provinces is 'more noise than a clarion call of reason'."
+      },
+      {
+        "word": "Hybrid regime",
+        "type": "noun",
+        "definition": "A political system combining elements of democratic and authoritarian rule, often implying significant non-civilian influence.",
+        "sentence": "The article refers to Pakistan's current setup as a 'hybrid regime' engaged in self-serving games."
+      },
+      {
+        "word": "Troika",
+        "type": "noun",
+        "definition": "A group of three powerful people who are closely associated in leadership or power.",
+        "sentence": "Pakistan's 'new troika' — the president, prime minister and interior minister — soon agreed on talks regarding the proposed divisions."
+      },
+      {
+        "word": "Diatribes",
+        "type": "noun",
+        "definition": "Forceful and bitter verbal attacks against someone or something.",
+        "sentence": "Bilawal Bhutto-Zardari’s diatribes exposing its electoral misdeeds emitted shockwaves."
+      },
+      {
+        "word": "Patronage",
+        "type": "noun",
+        "definition": "The support, encouragement, privilege, or financial aid that an organization or individual bestows to another.",
+        "sentence": "The PML-N may want strong promises of extended patronage before giving top-level support to the powerful quarters' demand."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the author primarily identify as the 'missing link' for bringing power closer to the people in Pakistan?",
+        "options": [
+          "Strong, elected local bodies",
+          "More provinces",
+          "A stronger central government",
+          "Increased foreign aid",
+          "Judicial activism"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article explicitly states that local bodies remain 'our missing link between power and the powerless', arguing against the efficacy of merely creating more provinces."
+      },
+      {
+        "question": "According to the article, what percentage of total state funds do local bodies in Pakistan typically spend?",
+        "options": [
+          "About five percent",
+          "About fifteen percent",
+          "About twenty-five percent",
+          "Over fifty percent",
+          "Less than one percent"
+        ],
+        "answerIndex": 0,
+        "explanation": "The article mentions that local bodies 'only spend about five per cent of our total state funds', highlighting their financial weakness."
+      },
+      {
+        "question": "Which of the following is NOT cited as a way provinces weaken local bodies in Pakistan?",
+        "options": [
+          "Delaying local body elections for long periods",
+          "Dissolving local bodies early",
+          "Providing excessive funds and autonomy",
+          "Holding non-party basis elections",
+          "Allowing interference from above through vague supervisory powers"
+        ],
+        "answerIndex": 2,
+        "explanation": "The article clearly states that provinces 'make local bodies wait for cash' and they are heavily dependent on provincial funds, indicating a lack of sufficient funds and autonomy, not an excess."
+      },
+      {
+        "question": "What is the author's underlying concern about the *real* aim behind the proposal for new provinces?",
+        "options": [
+          "To genuinely empower local communities with more administrative units.",
+          "To centralize power further by making new provinces as powerless as local bodies.",
+          "To improve economic development through better resource distribution.",
+          "To resolve ethnic tensions and promote national cohesion.",
+          "To align Pakistan's governance structure with global best practices."
+        ],
+        "answerIndex": 1,
+        "explanation": "The author speculates, 'The aim behind dividing provinces may be to make them powerless like local bodies and actually move power away from the people.'"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What does the author identify as the 'missing link' in bringing power closer to the people in Pakistan?",
+        "back": "Strong, elected local bodies with adequate powers and financial autonomy."
+      },
+      {
+        "front": "According to the article, why are the examples of Afghanistan and France irrelevant or misleading when arguing for new provinces in Pakistan?",
+        "back": "Both are unitary states whose sub-units lack legislative powers and elected bodies, unlike Pakistan's districts, and their progress isn't attributed to the number of units but to deeper democratic structures."
+      },
+      {
+        "front": "How do provinces in Pakistan typically weaken local bodies, as per the article?",
+        "back": "By delaying elections, dissolving them early, holding non-party elections, limiting financial autonomy, allowing interference from above, and splitting tasks with higher-level agencies."
+      },
+      {
+        "front": "What is the author's underlying concern about the *real* aim behind the push for new provinces?",
+        "back": "The author fears that the aim might be to make new provinces as powerless as local bodies, thereby moving power *away* from the people and adding another layer of government between them and real power."
+      }
+    ]
+  },
+  {
+    "id": "curated-1795671983684-179",
+    "title": "COP collapse",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046710/cop-collapse",
+    "date": "2026-11-24",
+    "author": "none@none.com (Editorial)",
+    "content": "THE collapse of climate negotiations at COP31 in Antalya recently is a stark reminder of a world disinclined to cooperate for the common good. The first climate conference to end without a deal since the 2009 Copenhagen Summit, COP31 succumbed to entrenched divisions among the delegates.\nThe main sticking point was the phasing out of fossil fuels, which was not mentioned in the draft agreement because of pressure from the petro-states including Saudi Arabia and Russia. This omission was rejected by the EU, Britain, and some small, climate-vulnerable states, which rightly hold fossil fuels responsible for global warming. Another stumbling block was the lack of commitment to providing climate finance.\nIronically, many of the countries that opposed the deal for not including the transition away from fossil fuels, refused to move forward on earlier pledges to provide and mobilise funding for poor climate-vulnerable countries. It has been noted, in fact, that many of the latter prefer funds over curbs on fossil fuels at this stage, given their need to rehabilitate lives already impacted by climate change and build infrastructure strong enough to withstand future shocks. This may have been one reason why some vulnerable countries curtailed their objections to the draft deal.\n    \nDay by day, the climate question is assuming greater urgency. Indeed, nature has been unrelenting against the backdrop of COP31. While Pakistan was largely spared the onrush of swelling rivers this year, Nepal witnessed a tragedy when a massive glacier collapse led to the flooding of vast tracts of land, killing hundreds. Heatwaves in Europe reportedly killed over 50,000 people last summer, while wildfires in Spain and France forced thousands of families from their homes.\n“Every additional fraction of a degree and additional year of warming above 1.5°C raises the risk of irreversible changes […] along with devastating human impacts,” warns the UN’s main environmental agency in its latest Emissions Gap report. The need for cooperation and consensus on tackling climate change has never been greater.\nLuckily, the failure of COP31 does not spell the end of climate diplomacy. International regimes built over years to combat a danger that knows no borders are too far advanced to come undone because an agreement was not reached in Antalya. But time is running out.\nGiven national interests and the nature of geopolitics, absolute consensus may be hard to forge. However, smaller regional initiatives, where countries — especially of the developing world — share green technology and other climate-friendly solutions can be pursued. These countries — which pollute the least but bear the brunt of global warming — have every right to ask for funds from the world’s chief polluters. The question is whether they have the will to safeguard their future through collective action.\nPublished in Dawn, November 24th, 2026",
+    "matchedQuestion": {
+      "id": "CA-2024-CLIM",
+      "paper": "Current Affairs",
+      "year": 2024,
+      "question": "Write short notes on: Climate Change and the Big Powers’ role."
+    },
+    "suitable": true,
+    "relevanceScore": 84,
+    "paper": "Current Affairs",
+    "topic": "Climate Change and the Big Powers’ role",
+    "whyMatters": "This article directly addresses the role of major global powers (e.g., petro-states, EU, Britain) in either hindering or advocating for climate action, making it highly relevant for discussions on international climate diplomacy. It provides specific examples of how national interests, often driven by these powers, lead to global setbacks in addressing climate change.",
+    "summary": [
+      "COP31 in Antalya ended without a deal, marking the first such failure since the 2009 Copenhagen Summit, primarily due to deeply entrenched divisions among delegates.",
+      "The core disputes revolved around the omission of fossil fuel phase-out from the draft agreement, influenced by petro-states, and the insufficient commitment to climate finance for vulnerable nations.",
+      "Paradoxically, some nations opposing the deal over fossil fuels had also failed on past climate finance pledges, while some climate-vulnerable countries prioritized immediate funds for rehabilitation over strict fossil fuel curbs.",
+      "Despite the diplomatic setback, the article highlights the escalating urgency of climate change impacts and suggests that while absolute consensus among global powers is difficult, smaller regional initiatives can offer a path forward."
+    ],
+    "facts": [
+      "COP31 in Antalya was the first climate conference to end without a deal since the 2009 Copenhagen Summit.",
+      "Petro-states, including Saudi Arabia and Russia, successfully exerted pressure to omit the phasing out of fossil fuels from the COP31 draft agreement.",
+      "Heatwaves in Europe reportedly killed over 50,000 people last summer, underscoring the immediate human cost of climate change."
+    ],
+    "academicReferences": [
+      "COP31 (Antalya, 2026) as a critical failure point in international climate negotiations.",
+      "Copenhagen Summit (2009) as a historical precedent for a climate conference failing to reach a deal.",
+      "UN’s Emissions Gap report, which warns against exceeding 1.5°C of warming and its irreversible impacts."
+    ],
+    "vocabulary": [
+      {
+        "word": "disinclined",
+        "type": "adjective",
+        "definition": "unwilling or reluctant",
+        "sentence": "The world appears disinclined to cooperate for the common good on climate issues, as seen at COP31."
+      },
+      {
+        "word": "entrenched",
+        "type": "adjective",
+        "definition": "firmly established and difficult to change",
+        "sentence": "COP31 succumbed to entrenched divisions among the delegates, particularly concerning fossil fuels."
+      },
+      {
+        "word": "geopolitics",
+        "type": "noun",
+        "definition": "politics, especially international relations, as influenced by geographical factors",
+        "sentence": "Given national interests and the nature of geopolitics, forging absolute consensus on climate change is challenging."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of the following was NOT a primary reason cited for the collapse of climate negotiations at COP31?",
+        "options": [
+          "Pressure from petro-states against fossil fuel phase-out.",
+          "Lack of commitment to climate finance for vulnerable countries.",
+          "Entrenched divisions among delegates.",
+          "Successful implementation of regional green technology initiatives."
+        ],
+        "answerIndex": 3,
+        "explanation": "The article states that COP31 succumbed to entrenched divisions, pressure from petro-states, and lack of climate finance. Regional initiatives are mentioned as a potential future solution, not a cause of the COP31 collapse."
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What were the two primary 'sticking points' that prevented a deal at COP31?",
+        "back": "The main sticking points were the phasing out of fossil fuels and the lack of commitment to providing climate finance for vulnerable nations."
+      },
+      {
+        "front": "How did specific 'Big Powers' contribute to the deadlock over fossil fuels at COP31?",
+        "back": "Petro-states like Saudi Arabia and Russia pressured for the omission of fossil fuel phase-out, while the EU and Britain, along with climate-vulnerable states, rejected this omission."
+      },
+      {
+        "front": "Explain the complex position of some climate-vulnerable countries regarding the COP31 deal.",
+        "back": "Many vulnerable countries, despite opposing the fossil fuel omission, prioritized immediate funds for rehabilitating lives and building resilient infrastructure over strict fossil fuel curbs at this stage."
+      },
+      {
+        "front": "According to the article, what alternative approach might help advance climate diplomacy despite the failure of large-scale agreements?",
+        "back": "Smaller, regional initiatives, where developing countries share green technology and climate-friendly solutions, can be pursued as an alternative approach."
+      }
+    ]
+  },
+  {
     "id": "curated-1795504766779-163",
     "title": "Terrorism and preparedness",
     "source": "Express Tribune",
@@ -9935,942 +10799,6 @@
       {
         "front": "What specific issue did Republican J.D. Vance point to as a reason for his party's abysmal loss in the 2026 elections, linking it to US foreign policy?",
         "back": "Vance directly cited the 'war in Iran — which America entered at Israel’s behest — saying it had cost Republicans the election.'"
-      }
-    ]
-  },
-  {
-    "id": "curated-1794106909370-487",
-    "title": "Human bondage\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042531/human-bondage",
-    "date": "2026-11-06",
-    "author": "none@none.com (Editorial)",
-    "content": "BONDED labour is modern-day slavery. It exists in Pakistan as a system of generational exploitation sustained by abject poverty, debt, and feudal power.\nThe recent praise for Pakistan from the UN Committee on Economic, Social and Cultural Rights for raising the minimum marriageable age to 18 is, no doubt, welcome. It follows the committee’s review of Pakistan’s second periodic report. But questions about the high numbers of child brides and bonded labour eclipse the compliment. Underage marriage is enslavement, while the purchase of bricks produced through debt bondage by construction companies and government groups continues to sustain the curse of bonded labour. Lifespans rarely outlast the loans driven up by interest charges. Generations inherit a cycle of debt and abuse.\n    \nThe scourge does not spare children, who begin life in inhuman working and living conditions. Entire families slog for pathetic sums far below the legal minimum wage. The Constitution outlaws all forced labour and slavery; the Bonded Labour System (Abolition) Act, 1992, criminalises the practice.\nYet, the failure to enforce the law and insufficient efforts to bridge the distance between constitutional rights and their fulfilment have forced poor people into a life of bondage. Punjab has over 210,000 documented kiln workers while more than 2,900 victims of forced labour were recorded last year.\nAccording to The State of Peasant Rights in Sindh, 2025, 1,311 labourers in the province were rescued from brick kilns and the farm sector. Patterns of enforcement are reactive and often set off by media attention or judicial intervention. Injustices — verbal abuse, beating, murder, and torture — prevail because spot inspections are absent. As per the National Commission for Human Rights, women routinely experience sexual abuse and forced marriages. Law enforcement and political quarters are notorious for protecting the perpetrators, instead of ensuring legal implementation. Systemic coercion will keep Pakistan from becoming a humane state.\nPublished in Dawn, November 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 89,
-    "paper": "Pakistan Affairs / Sociology / Current Affairs / Human Rights",
-    "topic": "Social Issues: Bonded Labour and Modern Slavery in Pakistan",
-    "whyMatters": "This article is crucial for understanding systemic human rights abuses, governance failures, and socio-economic challenges in Pakistan. It provides critical data and legal context essential for analyzing social justice issues and proposing solutions in competitive exams.",
-    "summary": [
-      "Bonded labor is a pervasive system of modern-day slavery in Pakistan, sustained by extreme poverty, inherited debt, and feudal power structures, leading to generational exploitation.",
-      "Despite constitutional prohibitions and the Bonded Labour System (Abolition) Act, 1992, lack of effective enforcement and systemic protection of perpetrators allow the practice to continue unchecked.",
-      "The exploitation extends to entire families, including children, who are forced to work under inhuman conditions for wages far below the legal minimum, enduring severe physical and sexual abuse.",
-      "Enforcement efforts are primarily reactive, triggered by media attention or judicial intervention, highlighting a broader failure of state institutions and political will to uphold human rights."
-    ],
-    "facts": [
-      "Punjab has over 210,000 documented kiln workers, a significant population vulnerable to or engaged in bonded labor.",
-      "More than 2,900 victims of forced labor were recorded last year (indicating a country-wide or significant regional figure for Pakistan).",
-      "According to 'The State of Peasant Rights in Sindh, 2025', 1,311 laborers were rescued from brick kilns and the farm sector in Sindh province."
-    ],
-    "academicReferences": [
-      "International Labour Organization (ILO) Conventions on Forced Labour (C029, C105) and Minimum Age (C138)",
-      "Human Rights Commission of Pakistan (HRCP) Annual Reports (e.g., State of Human Rights in 20XX)",
-      "United Nations Committee on Economic, Social and Cultural Rights (CESCR) Concluding Observations on Pakistan's periodic reports"
-    ],
-    "vocabulary": [
-      {
-        "word": "abject",
-        "type": "adjective",
-        "definition": "extremely bad or severe; miserable",
-        "sentence": "Families trapped in bonded labor live in abject poverty, with no hope of escape."
-      },
-      {
-        "word": "feudal",
-        "type": "adjective",
-        "definition": "relating to a system of social hierarchy based on land ownership and service; often implies oppressive, aristocratic power",
-        "sentence": "The persistence of bonded labor is attributed to entrenched feudal power structures in rural areas."
-      },
-      {
-        "word": "eclipse",
-        "type": "verb",
-        "definition": "to make something seem less important or impressive by comparison",
-        "sentence": "Questions about widespread bonded labor often eclipse positive news regarding human rights in Pakistan."
-      },
-      {
-        "word": "scourge",
-        "type": "noun",
-        "definition": "a cause of great suffering or destruction",
-        "sentence": "Bonded labor remains a persistent scourge, affecting generations of vulnerable families."
-      },
-      {
-        "word": "perpetrators",
-        "type": "noun",
-        "definition": "a person who carries out a harmful, illegal, or immoral act",
-        "sentence": "Law enforcement and political quarters are notorious for protecting the perpetrators of bonded labor."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "Which of the following legal instruments explicitly criminalizes bonded labor in Pakistan?",
-        "options": [
-          "The Bonded Labour System (Abolition) Act, 1992",
-          "The Constitution of Pakistan (Article 11)",
-          "The Employment of Children Act, 1991",
-          "The Punjab Protection of Women Act, 2016"
-        ],
-        "answerIndex": 0,
-        "explanation": "The article specifically mentions that 'the Bonded Labour System (Abolition) Act, 1992, criminalises the practice' of bonded labor, while the Constitution outlaws forced labor generally."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the article describe the generational impact of bonded labor in Pakistan?",
-        "back": "It describes bonded labor as a system of 'generational exploitation' where 'generations inherit a cycle of debt and abuse' due to loans driven up by interest charges."
-      },
-      {
-        "front": "What is the primary criticism leveled against law enforcement and political quarters regarding bonded labor?",
-        "back": "They are criticized for being 'notorious for protecting the perpetrators' instead of ensuring legal implementation, contributing to systemic coercion."
-      },
-      {
-        "front": "According to the article, what factors sustain the system of generational exploitation in Pakistan?",
-        "back": "The system is sustained by 'abject poverty, debt, and feudal power'."
-      },
-      {
-        "front": "What type of injustices are prevalent in bonded labor systems due to a lack of spot inspections?",
-        "back": "Injustices like 'verbal abuse, beating, murder, and torture' prevail, with women routinely experiencing 'sexual abuse and forced marriages'."
-      }
-    ]
-  },
-  {
-    "id": "curated-1794022838418-125",
-    "title": "Rule of the people?\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042534/rule-of-the-people",
-    "date": "2026-11-06",
-    "author": "none@none.com (Aasim Sajjad Akhtar)",
-    "content": "THE resounding defeat of the Republican Party in the US midterm election this week has triggered celebratory chatter around the world. Many see it as the beginning of the end for Donald Trump; the vibe was very similar when Trump was defeated by Joe Biden in the 2020 US presidential election. Yet four years later, Trumpism proved to be alive and very well.\nTrump cannot stand in the 2028 presidential election. For that reason alone, his political career is reaching its end. But that does not mean that Trumpism — both the ideology and the social base to which it speaks — will disappear alongside the man himself.\nHere I offer some suggestions what this latest election signals about the future of democracy in the US, and, by extension, around the world.\nWe should harbour no illusions about the power of big money in American politics, or the Democratic Party’s historical commitment to US empire — the Biden administration’s diabolical warmongering after Oct 7, 2023, in Gaza, after all, set the stage for Trump’s 2024 win. Given this backdrop, the victory of candidates like Abdul el-Sayed who oppose imperialist wars abroad and are fronting progressive economic policies at home — just like Zohran Mamdani did during his successful campaign to become New York mayor — confirms that societal attitudes are changing. A growing number of young Americans now view socialism favourably and want unconditional support for Israel to be discontinued. It is another matter entirely whether an increasingly influential left-wing of the Democratic Party can win the inner-party struggle and then the presidency.\nThe contemporary state is whittling away democratic freedoms.\nWhile progressive ideology has gained a foothold in American society, the Trumpist right maintains its powerful, and mobilised MAGA base, sustained in part by Christian evangelicals. Before his win in 2024, Trump vowed to stop fighting wars abroad, and bring back industrial jobs and prosperity. His base has been antagonised by the disastrous and prolonged war on Iran, and the inflationary spiral it has triggered. Vice-President J.D. Vance has already acknowledged this, and even added that Washington’s ‘special relationship’ with Israel must change. Trumpism will not die out because of a midterm defeat. Long-term economic stagnation will give it social mooring, while its major ideological enemies — immigration, the left, and outsourcing — remain easy sells.\nA useful analogy is that of Brazil, where Luiz Inácio Lula da Silva recently staved off the most recent articulation of Bolsanarismo — the parallel ideology to Trumpism — to win his fourth term as president. Brazil’s left has far greater social roots than the emergent Democratic left in the US, hence its ability to mobilise the last-minute votes necessary to re-elect Lula. But the far right under the leadership of the Bolsanaro family also has a mobilised social base, which will rebound from the election loss. Lula is 81, and his Workers Party will have to deepen the social struggle to keep Bolsanarismo at bay in the years to come.\nZooming out further, the right wing is ascendant across much of the world, while the contemporary state is whittling away democratic freedoms and paving the way for capital to carry on with business as usual. Electoral victories for left-of-centre candidates in the US, Brazil or wherever else they may come to pass will not produce structural change in isolation. Does going to the ballot allow ordinary people an opportunity to exercise political choice? Yes. But this is not the same as working-class majorities being organised for progressive social transformation. The latter is re­­quired both to ensure more significant electo­r­­al success and then to turn such victories into su­­bstantive cha­­­nge.\nOf course, we in Pakistan do not even get to enjoy the unfettered right to vote. The military-bureaucratic oligarchy that has ruled over us from soon after 1947 did not even allow a general election until 1970, and then chose military action rather than handing over power to the winning party afterwards. More recently, the electoral mandate in the 2024 general election was stolen blatantly, culminating in the imposition of emergency in KP. There is something to be said for at least the temporary waves of hope that are generated by electoral victories, even if one should at the same time be conscious of the highly delimited nature of democracy under the rule of contemporary capital. Progressives in Pakistan have to fight an epic battle against tyranny to even retain the pretence that democracy means rule of the people. And then we have to come up with a shared project for how to run a country ravaged by violence, repression and a deep crisis of identity.\nThe writer teaches at Quaid-i-Azam University, Islamabad.\nPublished in Dawn, November 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 81,
-    "paper": "Political Science / Current Affairs / International Relations",
-    "topic": "Global Democratic Backsliding, Populism, and the Future of Political Movements",
-    "whyMatters": "This article offers a critical analysis of the global state of democracy, using the US and Brazil as case studies to illustrate the resilience of right-wing populism (Trumpism, Bolsonarismo) even after electoral defeats. It highlights the challenges faced by progressive movements and the crucial distinction between electoral victories and substantive structural change, making it vital for understanding contemporary political dynamics.",
-    "summary": [
-      "Trumpism, as both an ideology and a social base, demonstrates resilience beyond Donald Trump's individual political career, sustained by economic stagnation and the targeting of ideological enemies.",
-      "Despite a global ascendance of the right, a progressive left is gaining influence in the US, challenging imperialist policies and advocating for progressive economic reforms, though its capacity for structural change remains uncertain.",
-      "The article argues that the contemporary state is globally whittling away democratic freedoms, paving the way for capital, and that electoral victories alone are insufficient for achieving fundamental societal transformation without organized working-class majorities.",
-      "In countries like Pakistan, even the unfettered right to vote is suppressed by a military-bureaucratic oligarchy, presenting an 'epic battle' for progressives to retain the pretense of democracy and address deep national crises."
-    ],
-    "facts": [
-      "Donald Trump was defeated by Joe Biden in the 2020 US presidential election.",
-      "The Biden administration's 'diabolical warmongering after Oct 7, 2023, in Gaza' is cited as a factor setting the stage for Trump's potential 2024 win.",
-      "Luiz Inácio Lula da Silva recently won his fourth term as president of Brazil, staving off Bolsonarismo."
-    ],
-    "academicReferences": [
-      "Steven Levitsky and Daniel Ziblatt's 'How Democracies Die' (for contemporary democratic backsliding and populism)",
-      "Robert A. Dahl's 'Democracy and Its Critics' (for foundational democratic theory and challenges)",
-      "Francis Fukuyama's 'The End of History and the Last Man' (for discussions on ideology and the evolution of political systems)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Resounding",
-        "type": "adjective",
-        "definition": "Unmistakable; emphatic; unequivocal.",
-        "sentence": "The resounding defeat of the Republican Party triggered celebratory chatter around the world."
-      },
-      {
-        "word": "Diabolical",
-        "type": "adjective",
-        "definition": "Characteristic of the Devil; evil or fiendish.",
-        "sentence": "The Biden administration’s diabolical warmongering after Oct 7, 2023, in Gaza, after all, set the stage for Trump’s 2024 win."
-      },
-      {
-        "word": "Whittling away",
-        "type": "verb phrase",
-        "definition": "To reduce gradually, as if by cutting off small pieces.",
-        "sentence": "While progressive ideology has gained a foothold in American society, the contemporary state is whittling away democratic freedoms."
-      },
-      {
-        "word": "Ascendant",
-        "type": "adjective",
-        "definition": "Rising in power or influence; dominant.",
-        "sentence": "Zooming out further, the right wing is ascendant across much of the world, while the contemporary state is whittling away democratic freedoms."
-      },
-      {
-        "word": "Oligarchy",
-        "type": "noun",
-        "definition": "A small group of people having control of a country, organization, or institution.",
-        "sentence": "The military-bureaucratic oligarchy that has ruled over us from soon after 1947 did not even allow a general election until 1970."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the author, what is the crucial distinction between electoral victories and substantive social transformation for progressive movements?",
-        "options": [
-          "A) Electoral victories automatically lead to structural change, while substantive transformation is a secondary concern.",
-          "B) Electoral victories are temporary waves of hope, whereas substantive change requires organized working-class majorities for progressive social transformation.",
-          "C) Substantive change primarily depends on charismatic leaders, making electoral victories less significant.",
-          "D) Electoral victories are irrelevant in the context of global right-wing ascendance, making substantive change impossible."
-        ],
-        "answerIndex": 1,
-        "explanation": "The author explicitly states, 'Does going to the ballot allow ordinary people an opportunity to exercise political choice? Yes. But this is not the same as working-class majorities being organised for progressive social transformation. The latter is required both to ensure more significant electoral success and then to turn such victories into substantive change.'"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "How does the author explain the continued relevance of Trumpism despite Donald Trump's potential political career end?",
-        "back": "Trumpism, as an ideology and social base, is sustained by long-term economic stagnation and its targeting of 'easy sells' like immigration, the left, and outsourcing, making it resilient beyond the individual."
-      },
-      {
-        "front": "What does the article suggest about the implications of the growing left-wing within the Democratic Party?",
-        "back": "The rise of the left-wing, advocating against imperialist wars and for progressive economic policies, signals changing societal attitudes, but its ability to win inner-party struggles and achieve structural change is presented as uncertain."
-      },
-      {
-        "front": "What analogy does the author draw between US politics and Brazil's political situation regarding right-wing populism?",
-        "back": "The article uses Brazil's Lula da Silva staving off Bolsanarismo (parallel to Trumpism) to illustrate the global struggle against right-wing populism and the importance of a deep social base for the left to mobilize effectively."
-      },
-      {
-        "front": "How does the author characterize the state of democracy in Pakistan, contrasting it with the situations in the US or Brazil?",
-        "back": "In Pakistan, democracy is severely curtailed by a military-bureaucratic oligarchy, where even the fundamental right to vote is not unfettered and electoral mandates are allegedly stolen, making the fight for genuine 'rule of the people' an 'epic battle against tyranny.'"
-      }
-    ]
-  },
-  {
-    "id": "curated-1794022515373-149",
-    "title": "A bleak economic future\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042539/a-bleak-economic-future",
-    "date": "2026-11-06",
-    "author": "none@none.com (Shahid Mehmood)",
-    "content": "ROBERT Lucas, a towering figure of 20th-century macroeconomics and a Nobel laureate, opined on economic growth and the standard of living that “the consequences for human welfare involved in questions like these are simply staggering: once one starts to think about them, it is hard to think about anything else” (On the Mechanics of Economic Development, 1988).\nThe context of his observation was the significant differences in standards of living across the globe. I contemplated the same — specifically, whether our economic future might offer us some respite from our perennial failures. Sadly, it does not look good. What follows is a brief narration of various considerations that led me to this conclusion.\nThe incentives and structure of the economy resemble anything but a viable plan for sustained improvement in living standards and chances of shared prosperity. Tellingly, Pakistan now has the unique distinction of being the only country in the world where three different arrangements compete for a limited set of resources. The first is the formal sector, which mainly comprises an extremely unproductive and extractive public sector. The second is the ‘deep state’, growing within the bosom of the public sector (formally and informally) and meeting its growing economic interests through forced ingress. The third is the ‘informal’ sector, estimated at about 35 to 40 per cent of the formal economy, that tries its best to stay away from formality.\n    \nThe implications of continuing this arrangement now and in the future are not well understood. There is little, if any, chance, for example, of an entrepreneur arising who could upend traditional industries and usher in economies of scale or creative disruption. It follows, then, that we will remain stuck with low-productivity, rentier industries like sugar that rely on legislative rents (taxpayer-financed subsidies) and tariff protection to shield them from competition.\nThe incentives and structure of the economy resemble anything but a viable plan for sustained improvement in living standards.\nAn even more damning predicament is the continuation of economic management as merely an accounting exercise to balance the books. From having some of the worst development indicators to the absurdity of taking foreign loans for purposes such as pension reforms, the adverse spillovers of this mediocrity are well known.\nYet one is astonished to see such pedestrian management celebrated officially. Witness the bewildering displays of vainglorious puffery under the banner of ‘nationalism’.\nAt the same time, trade with three of our neighbours is almost non-existent, a situation akin to a contraction of the available resource envelope and growth possibilities.\n    \nThis attitude helps explain why we, the world’s fifth most populous country, account for less than 1pc of the massive $35 trillion global trade in goods and services.\nWhat we have done to our human capital is another indicator of our dim prospects. Since at least the time of Adam Smith’s seminal work (1776), it has been understood that it is the most valuable input in the process of economic growth, something that Paul Romer’s endogenous growth theory (1990) put an authoritative stamp upon.\nDeveloping this input has always remained low on our priorities. An even more grievous spectre now haunts our economy: the flight of quality human capital. It is officially celebrated as an achievement in the context of remittances. Still, no policymaker is willing to realise that the full value of quality human capital is captured outside Pakistan. Think of the innumerable examples of people who have made a name for themselves abroad. What if they had remained here and invested their time, resources, and effort to create wealth at home? Or are we just happy to receive a pittance of that effort in the form of remittances that merely sustain consumption?\nThe ‘Lucas critique’ of the 1970s, which transformed macroeconomics, implies that people respond to policy regimes by revising their expectations. The steady flight of skilled people from Pakistan, a trend since the 1970s, has accelerated sharply in recent decades, suggesting that citizens’ expectations of the country’s future have turned deeply pessimistic. This is reflected in what young people think. Having taught at several universities, I can attest that the majority of students view their education as a stepping stone to settling abroad.\n    \nFor those who cannot make it to foreign shores and are active in the workforce, a difficult predicament under a poorly designed incentive structure awaits. Try justifying, logically, how in a country with one of the lowest labour force participation rates, the salaried class gets bilked for more than Rs2tr of its income in the last five years, while record inflation has decimated purchasing power for the majority. The obvious lesson (which then spills over into expectations) is that the main beneficiary of workers’ effort is the government’s coffers rather than the person. Better then to try one’s luck elsewhere.\nThis hollowing out, which will continue, leaves the public sector and its PSDPs as the major avenue of growth. This system spawns corruption, multi-trillion liabilities, and waste (the burden of which ultimately falls upon the taxpayer).\nLahore is the most pertinent example among Pakistani cities, with the second-largest economy and one of the highest per capita incomes. Yet it regularly tops the world’s most polluted city rankings rather than quality-of-life rankings, thanks mainly to brick-and-mortar-based PSDPs. Any material gains are more than offset by deteriorating air quality and rising health costs.\n    \nI can continue in this manner — for instance, by pointing out that the legislature is held hostage by the same people who have been there for at least three decades, with no meaningful economic reform emerging during their tenure. It is further compromised by their progeny, who inhabit both Houses. But I am sure the reader gets the gist of my argument: the chances that we will witness a significant turnaround in our economic fortunes are remote. We will likely remain saddled with a state whose main aim, as Marx described it, is ‘nothing else’ other than extracting taxes. At least that’s how I see it. Bob Lucas, I posit, would also have nodded in approval.\nThe writer is an economist. His current research focuses on the long-term analysis of various issues plaguing Pakistan’s economy, as well as economic reforms and the history of economic thought.\nX: @ShahidMohmand79\nshahid.mohmand@gmail.com\nPublished in Dawn, November 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss in detail the reasons for fragility of economic stability of Pakistan and suggest pragmatic remedial measures for ensuring smooth and sustainable economic growth."
-    },
-    "suitable": true,
-    "relevanceScore": 80,
-    "paper": "Pakistan Affairs",
-    "topic": "Structural Causes of Economic Fragility in Pakistan and Challenges to Sustainable Growth",
-    "whyMatters": "This article directly addresses the 'reasons for fragility of economic stability of Pakistan,' a crucial component of the specified past exam question. It provides deep, analytical insights into systemic issues, governance failures, and human capital challenges, which are essential for a high-scoring answer.",
-    "summary": [
-      "Pakistan's economy is characterized by three competing arrangements: an unproductive public sector, a growing 'deep state' with economic interests, and a large informal sector, collectively hindering sustained improvement in living standards.",
-      "The current economic structure stifles entrepreneurship, perpetuates low-productivity rentier industries dependent on subsidies, and treats economic management as a mere accounting exercise, rather than a strategy for development.",
-      "Poor human capital development, coupled with an accelerating brain drain driven by citizens' deep pessimism and an incentive structure that disfavors workers, severely limits Pakistan's future prospects for wealth creation at home.",
-      "The political landscape, dominated by long-serving figures and their progeny, prevents meaningful economic reform, leading to a state perceived as primarily extractive, creating liabilities and waste that burden taxpayers."
-    ],
-    "facts": [
-      "The informal sector is estimated at about 35 to 40 per cent of the formal economy in Pakistan.",
-      "Pakistan, the world's fifth most populous country, accounts for less than 1pc of the $35 trillion global trade in goods and services.",
-      "The salaried class in Pakistan has been bilked for more than Rs2tr of its income in the last five years, amid record inflation."
-    ],
-    "academicReferences": [
-      "Robert Lucas: 'On the Mechanics of Economic Development' (1988) and the 'Lucas critique' (1970s) on expectations and policy regimes.",
-      "Adam Smith: Seminal work (1776) on human capital as the most valuable input in economic growth.",
-      "Paul Romer: Endogenous growth theory (1990) emphasizing the importance of human capital.",
-      "Karl Marx: Description of the state as 'nothing else' other than extracting taxes, as applied to Pakistan's current state function."
-    ],
-    "vocabulary": [
-      {
-        "word": "Perennial",
-        "type": "adjective",
-        "definition": "Lasting or existing for a long or apparently infinite time; continually recurring.",
-        "sentence": "Our economic future might offer us some respite from our perennial failures."
-      },
-      {
-        "word": "Rentier",
-        "type": "noun",
-        "definition": "A person whose income is derived largely from rent, interest, or dividends; in context, industries relying on legislative rents (subsidies/protection).",
-        "sentence": "We will remain stuck with low-productivity, rentier industries like sugar that rely on legislative rents (taxpayer-financed subsidies) and tariff protection to shield them from competition."
-      },
-      {
-        "word": "Vainglorious",
-        "type": "adjective",
-        "definition": "Excessively proud of oneself or one's achievements; boastful.",
-        "sentence": "Witness the bewildering displays of vainglorious puffery under the banner of ‘nationalism’."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, which of the following is NOT one of the three competing arrangements for resources in Pakistan?",
-        "options": [
-          "The formal sector, mainly comprising an unproductive public sector.",
-          "The 'deep state' growing within the public sector.",
-          "The informal sector, estimated at 35-40% of the formal economy.",
-          "A vibrant, competitive private sector driving innovation."
-        ],
-        "answerIndex": 3,
-        "explanation": "The article describes the formal (public), 'deep state,' and informal sectors as competing arrangements, explicitly stating that entrepreneurship and creative disruption are stifled, implying a lack of a vibrant, competitive private sector as described."
-      },
-      {
-        "question": "What does the author identify as a key consequence of Pakistan's 'economic management as merely an accounting exercise'?",
-        "options": [
-          "Significant improvements in development indicators.",
-          "Successful pension reforms through foreign loans.",
-          "Celebration of pedestrian management officially under 'nationalism'.",
-          "A surge in regional trade and economic partnerships."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states that despite 'having some of the worst development indicators' and 'absurdity of taking foreign loans for purposes such as pension reforms,' such 'pedestrian management' is 'celebrated officially' under 'nationalism'."
-      },
-      {
-        "question": "Which economic theorist's endogenous growth theory is cited in the article to put an 'authoritative stamp upon' the importance of human capital?",
-        "options": [
-          "Robert Lucas",
-          "Adam Smith",
-          "Paul Romer",
-          "Karl Marx"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly mentions that 'Paul Romer’s endogenous growth theory (1990) put an authoritative stamp upon' the understanding of human capital as the most valuable input in economic growth."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the three distinct economic arrangements described in Pakistan's economy that impede shared prosperity?",
-        "back": "The formal sector (unproductive public sector), the 'deep state' (growing economic interests), and the informal sector (35-40% of formal economy, avoiding formality)."
-      },
-      {
-        "front": "How does the article link Pakistan's trade performance to its regional relations and overall growth possibilities?",
-        "back": "Trade with three neighbors is almost non-existent, leading to a contraction of the available resource envelope and explaining why Pakistan accounts for less than 1% of global trade despite being the world's fifth most populous country."
-      },
-      {
-        "front": "Explain the 'Lucas critique' and how the article applies it to the flight of human capital from Pakistan.",
-        "back": "The Lucas critique implies people respond to policy regimes by revising their expectations. The accelerating flight of skilled people from Pakistan reflects citizens' deep pessimism about the country's future, as they expect little improvement from current policies."
-      },
-      {
-        "front": "What is the primary critique of the legislature's role in economic reform, as presented by the author?",
-        "back": "The legislature is criticized for being held hostage by the same long-serving figures and their progeny, who have failed to deliver meaningful economic reform, contributing to a state focused on tax extraction rather than development."
-      }
-    ]
-  },
-  {
-    "id": "curated-1794022600945-0",
-    "title": "Selfhood in action\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042536/selfhood-in-action",
-    "date": "2026-11-06",
-    "author": "none@none.com (Dr Saad Malook)",
-    "content": "THE world we inhabit advances through human endeavours. To be human is to act. Idleness is a cardinal sin of humanity that causes pessimism, dehumanisation, and procrastination — postponing today’s work to tomorrow, which never comes. Idleness tends to stagnate, while action moves the world.\nWhat causes developments in the world? Bergson believes in elan vital, Schopenhauer in the will to live, Nietzsche in will to power, and Iqbal in selfhood, each of which explains differently how humanity is driven into the future. Iqbal argues that selfhood in action causes changes in the world.\nSir Muhammad Iqbal, a philosopher of human development and action, primarily defends self-development as a means of transforming the potential for action into capability, enabling human agency to be rational, creative, productive, and moral. Iqbal’s philosophy of ‘self-development’ is actually ‘human development’, meaning people have a natural potential to develop, think, and act. To develop is to act. Surprisingly, scholars have not explored Iqbal’s philosophical oeuvre, particularly from the perspective of human development, which Pakistan desperately needs.\nAction breathes life into ideas. Iqbal writes, “The Quran is a book which emphasises ‘deed’ rather than ‘idea’.” Adam, God’s vicegerent on Earth, was bestowed with infinite potential — creativity, morality, thinking, and action — transmitted to his progeny. According to Iqbal, human beings, as vicegerents, are “God’s co-workers” on the planet.\nA human is not only a thinker but also an actor and a creator.\nA human is not only a thinker but also an actor and a creator. Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor). In The Reconstruction of Religious Thought in Islam, Iqbal states, “the world is not something to be merely seen or known through concepts, but something to be made and remade by continuous action.” Making and remaking the world requires human development, a creative mind, and purposive action.\nIn Asrar-i-Khudi and Rumuz-i-Bekhudi, Iqbal posited his philosophy of ‘human development’. Freedom, self-respect, dignity, love, economic security, courage, education as training, and, above all, action develop the selfhood of the individual and the nation. However, unfreedom, humiliation, exploitation, hatred, economic dependency, threat, torture, and ignorance destroy the selfhood of people.\nPakistani intellectual Mahbub ul Haq advanced the idea of human development, arguing for a ‘people-first approach’ in public policy to expand people’s sociopolitical and economic choices. Like Iqbal’s, Mahbub ul Haq’s ideas also deserve attention for improving the quality of people’s lives in Pakistan.\nEducation is the first milestone for human development; any disorder in it means intellectual and moral decadence. The educational system in Pakistan needs revolutionary changes by appointing heads of institutions who are capable of being real agents of transformation rather than just performers on social media. Increasing the budget to promote research and incentives for researchers, and ensuring job security to stop brain drain from the profession of education are also needed.\nIqbal articulates: “Action makes life a paradise or a hell/ By nature, a human is neither an angel nor a devil.”A paradise-like life on Earth is possible only with the rule of law, justice, equal distribution of resources, and, particularly, education that fosters the freedom to flourish.\nPoverty, violence, and ecological decay are pressing challenges to Pakistan and the world. Human development and action are essential to eradicating poverty — meaning that people deve­lop enough capabilities to pursue econ­o­mic activities as ent­repreneurs in IT, AI, arts, and crafts.\nPeace is essential for life. Peace has two forms: negative and positive. ‘Negative peace’ is the absence of violence, mostly by force. Negative peace is short-term. ‘Positive peace’ refers to life-affirming activities through arts, literature, sports, cultural festivals, and a culture of dialogue. Positive peace is long-lasting.\nA clean environment sustains life. Littering, pollution, and deforestation create health and aesthetic concerns. Reverence for the environment in individual, social, and institutional conduct is required.\nIqbal’s philosophy of human development and action can help meet crucial national and global challenges. Positively, action transforms potential into capabilities, plans into outcomes, possibilities into opportunities, pessimism into optimism, and thought into reality. Action is a supreme virtue, while idleness is a fatal vice. Let people develop and act with freedom for a better future for Pakistan.\nThe writer has a PhD degree from the University of Canterbury, New Zealand, and teaches philosophy at the University of the Punjab, Lahore.\nX: @saad_malook.\nPublished in Dawn, November 6th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2025-ENV",
-      "paper": "Pakistan Affairs",
-      "year": 2025,
-      "question": "Discuss the reasons of environmental degradation in Pakistan and suggest remedial measures for sustainable environmental rehabilitation."
-    },
-    "suitable": true,
-    "relevanceScore": 77,
-    "paper": "Pakistan Affairs",
-    "topic": "Iqbal's Philosophy of Selfhood and Human Development for National Progress and Environmental Sustainability",
-    "whyMatters": "This article is highly relevant for suggesting philosophical and human-centric 'remedial measures' for sustainable environmental rehabilitation in Pakistan. It frames human development, purposeful action, and education (Iqbal's selfhood) as foundational for addressing \"ecological decay,\" providing a strong conceptual basis for policy recommendations.",
-    "summary": [
-      "Iqbal's philosophy of 'selfhood in action' is the primary driver of human progress, transforming human potential into capability, enabling rational, creative, productive, and moral agency.",
-      "Humans are redefined as not just thinkers (Homo sapiens) but also actors (Homo actor) and creators (Homo faber), tasked with continuously 'making and remaking the world' through purposive action.",
-      "The development of individual and national selfhood is fostered by freedom, self-respect, dignity, love, economic security, courage, and education, while its destruction is caused by unfreedom, humiliation, and economic dependency.",
-      "Human development and purposeful action, underpinned by education and reverence for the environment, are essential for eradicating pressing challenges like poverty, violence, and ecological decay, paving the way for a 'paradise-like life' on Earth."
-    ],
-    "facts": [
-      "Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor).",
-      "Iqbal's philosophy of 'human development' is articulated in works such as The Reconstruction of Religious Thought in Islam, Asrar-i-Khudi, and Rumuz-i-Bekhudi.",
-      "Pakistani intellectual Mahbub ul Haq advanced a 'people-first approach' in public policy, akin to Iqbal's emphasis on human development."
-    ],
-    "academicReferences": [
-      "Sir Muhammad Iqbal's \"The Reconstruction of Religious Thought in Islam\" (1930s)",
-      "Mahbub ul Haq's Human Development Report (UNDP, 1990 onwards)",
-      "Pakistan National Climate Change Policy (2012) and updated Nationally Determined Contributions (NDCs) under the Paris Agreement",
-      "UN Sustainable Development Goals (SDGs), particularly Goal 4 (Quality Education), Goal 13 (Climate Action), and Goal 16 (Peace, Justice and Strong Institutions)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Endeavours",
-        "type": "noun",
-        "definition": "attempts to achieve a goal",
-        "sentence": "The world advances through human endeavours to innovate and solve problems."
-      },
-      {
-        "word": "Cardinal",
-        "type": "adjective",
-        "definition": "of paramount importance; fundamental",
-        "sentence": "Idleness is a cardinal sin of humanity, hindering progress and fostering pessimism."
-      },
-      {
-        "word": "Stagnate",
-        "type": "verb",
-        "definition": "to cease to develop; become inactive or dull",
-        "sentence": "Idleness tends to stagnate societies, while continuous action moves the world forward."
-      },
-      {
-        "word": "Oeuvre",
-        "type": "noun",
-        "definition": "the complete works of an artist, composer, or writer",
-        "sentence": "Scholars have yet to fully explore Iqbal's philosophical oeuvre, especially from a human development perspective."
-      },
-      {
-        "word": "Vicegerent",
-        "type": "noun",
-        "definition": "a person appointed by a sovereign or supreme authority to exercise the powers of the office in the absence of the sovereign",
-        "sentence": "Adam, bestowed with infinite potential, was considered God's vicegerent on Earth, a role transmitted to his progeny."
-      },
-      {
-        "word": "Decadence",
-        "type": "noun",
-        "definition": "moral or cultural decline as characterized by excessive indulgence in pleasure or luxury",
-        "sentence": "Any disorder in education leads to intellectual and moral decadence within a nation."
-      },
-      {
-        "word": "Purposive",
-        "type": "adjective",
-        "definition": "having, serving, or done with a purpose",
-        "sentence": "Making and remaking the world requires human development, a creative mind, and purposive action."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to Iqbal, what is the primary driver of changes in the world?",
-        "options": [
-          "A) Elan vital",
-          "B) Will to live",
-          "C) Will to power",
-          "D) Selfhood in action"
-        ],
-        "answerIndex": 3,
-        "explanation": "The article explicitly states that 'Iqbal argues that selfhood in action causes changes in the world,' distinguishing his view from others."
-      },
-      {
-        "question": "How does Iqbal transform the traditional idea of Homo sapiens?",
-        "options": [
-          "A) Into Homo economicus and Homo politicus",
-          "B) Into Homo faber (creator) and Homo actor (actor)",
-          "C) Into Homo civilis and Homo moralis",
-          "D) Into Homo ludens and Homo symbolicus"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Iqbal transforms the idea of Homo sapiens (human, the thinker) into Homo faber (human, the creator) and Homo actor (human, the actor).'"
-      },
-      {
-        "question": "Which of the following is NOT listed by Iqbal as a factor that develops the selfhood of an individual and nation?",
-        "options": [
-          "A) Freedom",
-          "B) Economic security",
-          "C) Humiliation",
-          "D) Education as training"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article lists 'unfreedom, humiliation, exploitation, hatred' as factors that 'destroy the selfhood of people,' while the others are listed as developing factors."
-      },
-      {
-        "question": "What is 'positive peace' according to the article?",
-        "options": [
-          "A) The absence of violence, mostly by force",
-          "B) Short-term peace achieved through negotiations",
-          "C) Life-affirming activities through arts, literature, sports, and dialogue",
-          "D) Peace enforced by international peacekeeping forces"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article defines 'Positive peace' as 'life-affirming activities through arts, literature, sports, cultural festivals, and a culture of dialogue,' distinguishing it from negative peace."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is Iqbal's core philosophical concept regarding human potential and world transformation?",
-        "back": "Iqbal's philosophy of 'selfhood in action' posits that humans possess a natural potential for development, thought, and action, which, when transformed into capability, enables them to actively shape and remake the world."
-      },
-      {
-        "front": "According to the article, what key factors contribute to the development of selfhood at both individual and national levels?",
-        "back": "Freedom, self-respect, dignity, love, economic security, courage, education as training, and purposeful action are crucial for developing individual and national selfhood."
-      },
-      {
-        "front": "How does the article link human development and action to addressing pressing challenges like environmental degradation?",
-        "back": "The article argues that human development and action are essential for eradicating challenges like 'ecological decay' by enabling people to develop capabilities for economic activities and fostering 'reverence for the environment' through individual, social, and institutional conduct."
-      },
-      {
-        "front": "Explain the distinction made in the article between 'negative peace' and 'positive peace'.",
-        "back": "'Negative peace' is defined as the short-term absence of violence, often achieved by force, while 'positive peace' refers to long-lasting, life-affirming activities such as engagement in arts, literature, sports, cultural festivals, and a culture of dialogue."
-      }
-    ]
-  },
-  {
-    "id": "curated-1794195327816-395",
-    "title": "Dead versus alive\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042540/dead-versus-alive",
-    "date": "2026-11-06",
-    "author": "none@none.com (Faisal Bari)",
-    "content": "WHEN teaching and learning are reduced to imitation, rote learning, technique, or formula, they go dead. They prevent learning from taking place. Students might be able to reproduce thoughts they’ve learned by heart, but they can’t apply that learning in real life or in places where it is supposed to help. They cannot make learning part of themselves and who they are. This type of ‘dead’ learning is shallow and doesn’t go beyond the surface. Students forget it easily too. In fact, many students say they forget the material right after exams or once the semester ends.\nMovements around the world argue that schools should teach critical thinking, argumentation, debate, and reflection to support deep learning. These are essential skills and abilities that students need to develop. Curricula are designed to facilitate the development of these abilities, but when evaluations are done, we usually find mixed success. What is going wrong? When curricula are reduced to formula-based methods and techniques because teachers care more about getting through the syllabus than ensuring students engage with the learning process, the benefits become limited.\nMovements around the world even argue for introducing philosophy in schools. As a subject, philosophy is generally regarded as more appropriate for older children. For the most part, it has been taught in the final years of high school or at the university level. But the Philosophy for Children (P4C) movement argues that philosophy should be introduced to younger students. There are many books on content and pedagogy in this area, and philosophy is taught in many schools.\nOne argument for introducing philosophy early concerns its content. People have argued that children need to be introduced to ethics and values early. Philosophy is the best way to introduce these issues, discuss them, and help students make more informed decisions. A philosophical discussion on any topic, such as racism, internet access for children, online bullying, tolerance, respect, etc., could encourage students to think about these important topics and make informed choices about who they want to be and why.\nPeople have argued that children need to be introduced to ethics and values early.\nAn equally important argument for introducing philosophy in schools concerns pedagogy and what students will learn by engaging with it. Teaching philosophy is directly linked to introducing debate, argumentation, and critical and analytical thinking in classrooms. Students need to acquire and internalise these skills. For those who support this movement, philosophical discussion is an effective way to develop these skills in students.\nOf course, there can be critical thinking on any theme — it does not require the subject to be from ethics or metaphysics. But since philosophy has a long tradition of debate and critical thinking, and since ethics and values need to be introduced to children, it might be easier to cultivate critical and analytical thinking through philosophy than through mathematics, physics, or languages.\nBut the key issue is how this is to be done. I have fond memories of my high school physics teacher, who could bring his subject to life by motivating students to approach it with curiosity, questions, and debate. He encouraged us to go deeper with each question and answer, was never impatient when we made mistakes, and was also very open to things he did not know himself. He made physics a joy to study. But in many years of schooling, I had only one such teacher in mathematics and physics, and another in language teaching. The rest — and dozens of teachers taught us over 16-odd years of schooling — were mostly trying to finish the course and give us the needed techniques and information. There was not much joy in how they taught and how we learnt.\nIf anecdote could be evidence, the difference with philosophy teachers was stark. When I studied philosophy at the university level, most of my professors were good at encouraging deep, critical and analytical thinking, allowing time for ambiguity and mistakes, deep learning and very deep engagement with questions. It was pure joy to be part of this experience and benefit from it. I wish every child could have access to such teachers and teaching.\nDoes the subject matter then? Maybe it is not the subject itself but how it is taught in our schools that has led to this difference. Most of our teachers teach languages and mathematics, especially the latter, as dead matter—something to be learned by rote, and reproduced. They do not teach it as matter that requires discovery and exploration.\nIn such cases, introducing philosophy might not work, as even philosophy might be limited to what Plato or Kant said rather than engaging with the subjects they discussed and thought about. Islamiat and Pakistan Studies were introduced in schools here during my student days. Both subjects were taught as content that needed only to be learnt and reproduced rather than as content requiring debate, critical analysis, and argumentation. We see the result in an almost complete lack of intellectual interest in these subjects among students.\nHow do we make teaching and learning alive and vibrant? By embracing debate, critical thought, and argumentation; by exposing students to ambiguity, mistakes, and open discussion; by giving them safe spaces to do so. Unfortunately, all our efforts in education — at the school or university level — in Pakistan are about content transfer, control, and reproduction. How can good thinking survive or thrive in these conditions?\nThe writer is a senior research fellow at the Institute of Development and Economic Alternatives and an associate professor of economics at Lums.\nPublished in Dawn, November 6th, 2026",
-    "matchedQuestion": null,
-    "suitable": true,
-    "relevanceScore": 76,
-    "paper": "Pakistan Affairs / Education / Essay",
-    "topic": "Rote Learning vs. Deep Learning: Reforming Pedagogical Approaches in Pakistan's Education System",
-    "whyMatters": "This article offers critical insights into the pervasive issues of rote learning and the lack of critical thinking in Pakistan's education system. It provides a strong basis for arguments in essays, current affairs, and education-specific papers concerning educational reform and policy implementation.",
-    "summary": [
-      "Traditional teaching methods, reduced to imitation, rote learning, and formula, result in 'dead' learning that is shallow, easily forgotten, and cannot be applied in real life.",
-      "Deep learning necessitates developing critical thinking, argumentation, debate, and reflection, skills that current curricula often aim for but struggle to achieve due to formula-based teaching.",
-      "The Philosophy for Children (P4C) movement advocates introducing philosophy early to foster ethics, values, and directly cultivate critical and analytical thinking.",
-      "The *how* of teaching (pedagogy) is more crucial than the *what* (subject matter); even a rich subject like philosophy can be rendered 'dead' if taught through rote memorization rather than exploration and debate."
-    ],
-    "facts": [
-      "Many students report forgetting learned material immediately after exams or semester completion, indicating shallow learning outcomes.",
-      "The majority of teachers, over 16 years of schooling, prioritized syllabus completion and technical information transfer over fostering deep learning and student engagement.",
-      "All educational efforts in Pakistan, from school to university, are primarily focused on content transfer, control, and reproduction, hindering the development of good thinking."
-    ],
-    "academicReferences": [
-      "Paulo Freire's 'Pedagogy of the Oppressed' (Discusses 'banking concept' of education vs. critical pedagogy)",
-      "Pakistan's National Education Policy 2009 (Outlines goals for critical thinking and quality education)",
-      "18th Amendment to the Constitution of Pakistan (Devolution of education to provinces, impacting policy implementation)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Rote learning",
-        "type": "noun",
-        "definition": "Memorization of information based on repetition, without understanding its meaning or application.",
-        "sentence": "The examiner criticized the students' reliance on rote learning, as they could recall facts but not apply them."
-      },
-      {
-        "word": "Pedagogy",
-        "type": "noun",
-        "definition": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
-        "sentence": "The article emphasizes that effective pedagogy, rather than just subject matter, is key to alive learning."
-      },
-      {
-        "word": "Metaphysics",
-        "type": "noun",
-        "definition": "The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.",
-        "sentence": "While philosophy can involve complex topics like metaphysics, its pedagogical approach focuses on critical inquiry."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What does the author identify as the primary reason why curricula designed to facilitate deep learning often yield mixed success?",
-        "options": [
-          "Teachers prioritizing syllabus completion and formula-based methods over genuine student engagement.",
-          "Students' inherent lack of interest in critical thinking and debate.",
-          "The difficulty of subjects like philosophy and ethics for younger students.",
-          "A shortage of advanced textbooks and resources for deep learning.",
-          "Lack of sufficient funding for educational reforms."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article explicitly states that curricula yield mixed success 'when curricula are reduced to formula-based methods and techniques because teachers care more about getting through the syllabus than ensuring students engage with the learning process'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What is the core distinction between 'dead' learning and 'deep' learning as described in the article?",
-        "back": "'Dead' learning is shallow, based on imitation and rote memorization, easily forgotten, and not applicable in real life. 'Deep' learning involves critical thinking, argumentation, debate, and reflection, allowing students to internalize and apply knowledge."
-      },
-      {
-        "front": "Why does the article suggest introducing philosophy, especially the P4C movement, to younger students?",
-        "back": "Philosophy introduces ethics and values early, encouraging informed decision-making, and its pedagogical approach directly cultivates debate, argumentation, and critical/analytical thinking skills."
-      },
-      {
-        "front": "According to the author's observations about Pakistan's education system, what is the fundamental flaw in current educational efforts?",
-        "back": "All educational efforts in Pakistan, from school to university, are primarily focused on content transfer, control, and reproduction, rather than fostering critical thought, debate, and discovery."
-      },
-      {
-        "front": "How does the author argue that the *way* a subject is taught matters more than the subject itself in promoting alive learning?",
-        "back": "The author illustrates that even subjects like physics can be brought to life by inspiring curiosity and debate, while subjects like Islamiat or philosophy, if taught through rote memorization of facts (e.g., 'what Plato or Kant said'), can become 'dead' and fail to engage students intellectually."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793937238322-839",
-    "title": "Evolving climate architecture\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042262/evolving-climate-architecture",
-    "date": "2026-11-05",
-    "author": "none@none.com (Ali Tauqeer Sheikh)",
-    "content": "PAKISTAN stands at a crossroads as it prepares to attend COP31 in Turkiye next week. Every October, the Emissions Gap Report brings bad news, and every October we read it as a scorecard of how far the world is from Paris. This year, it is not a progress report. It is notice that the Paris benchmark has been breached.\nThe United Nations Environment Programme’s 2026 report concludes that the chance to hold warming below 1.5 degrees Celsius with no or limited overshoot “is gone”. The task now is to “minimise overshoot and return to 1.5°C”. The target survives; its meaning has flipped. No longer a ceiling, 1.5°C is a line we will cross and then try to get back under. Even the “lowest possible” overshoot peaks at 1.7 to 1.8°C.\nFor Pakistan, this is not abstract arithmetic. The gap between 1.5 and 1.8 is more poverty and heat in Jacobabad, wilder monsoons in Sindh, transboundary floods in Punjab, and faster glacial melt in the upper Indus. The question is simple: who pays for the overshoot years?\nJust as the science matters most, the body that certifies it is going broke. For the first time in its history, the Intergovernmental Panel on Climate Change (IPCC) “might not have the funds to finish an assessment report”, Nature warned recently. Contributions have fallen since 2023, and Washington has walked away. The panel needs more than CHF 20 million ($24m) to survive until 2029, less than many single-donor projects in Islamabad.\nNor can it agree on a timetable. In Addis Ababa last month, governments failed for the sixth meeting running to decide when its next reports come out. A small bloc wants the reports on emission cuts and adaptation delayed until after the 2028 global stocktake, the five-yearly review of progress under Paris. The reasons are procedural; the effect is political. For the most vulnerable countries, that delay is betrayal. Yet Pakistan, the self-declared ground zero of climate impacts, stayed away from the forum that certifies the evidence.\nWe need some $47bn a year to 2030 but receive under $2bn.\nIt is not for want of evidence. In August, the Pakistan Meteorological Department (PMD) published How the Climate of Pakistan Has Changed, a 45-year record and the most granular we have. Nights are warming faster than days, and springs across much of the country are up to 2.5°C warmer than in the 1980s and 1990s. Rain has become not scarcer but less dependable: the 2022 monsoon dumped up to 450 per cent above-average rain on the south, and three years later, the winter of 2024-25 brought a 67pc national deficit. That is the overshoot world in miniature.\nThe EU’s Paris Agreement Overshooting: Reversibility, Climate Impacts and Adaptation Needs (PROVIDE project), which studied exactly such risks, had an Islamabad partner, so the research clearly exists.\nWhat is missing is the habit of carrying it into the rooms where global science, and therefore, global money, is decided. The empty chair reflects a deeper reflex. Pakistan’s climate diplomacy still treats finance as something to ask for: grants, owed as a moral debt by those who caused the problem. The argument is right on the merits and increasingly beside the point.\nThe COP29 goal of $300 billion a year is being hollowed out by the governments that pledged it, and what grant money remains goes to countries ready to absorb it. On that test, Pakistan fails. We need some $47bn a year to 2030 but receive under $2bn. The gap is not one of vulnerability but readiness.\nMeanwhile, a new architecture is taking shape elsewhere, and in one corner of it Pakistan already leads. At the World Bank-IMF annual meetings in Bangkok last month, Islamabad took the chair of the Borrowers’ Platform, which gives debtors what creditors have in the Paris Club: a place to pool data, compare terms, and bargain as a bloc. On Nov 1, it also assumed the chair of the G-24, the developing-country caucus at the IMF and World Bank.\nFor a year then, Pakistan speaks for the debtors just as debt has become the main channel of climate finance. Disasters are paid for with borrowing, and each recovery loan makes the next shock harder to absorb.\nPakistan, where debt servicing eats 43pc of the federal budget, is itself a textbook case. Of the $10bn pledged at Geneva after the 2022 floods, about $8.7bn came from lenders. We were asked to borrow our way out of a disaster we did little to cause.\nNew instruments attack this chain link by link. Debt-pause clauses suspend repayments after a disaster; Grenada used one after Hurricane Beryl to defer about $30m. The V20, a bloc of finance ministers from the most climate-vulnerable countries, is building a Lifeline Fund that would pool members’ reserves into a $500m emergency facility. Africa’s new rating agency challenges unfair risk premiums; Mia Mottley’s Bridgetown Initiative demands cheaper, longer loans. Each treats climate as a balance sheet problem, and that is where the post-Paris order is taking shape.\nPakistan now heads the borrowers’ table and leaves an empty chair at the scientists’ table. The two are linked: a debtor bloc that wants climate risk priced into debt terms needs credible, nationally owned evidence, and the IPCC is where such evidence gains global standing.\nFour steps follow before Antalya. First, rejoin the science table: pay into the IPCC trust fund, attend the resumed session in December, and back the least developed countries and small islands on a 2028 timeline. Second, put the PMD record to work in AR7, the next Nationally Determined Contributions, and the annual budgets. Third, trade appeals for readiness, with bankable adaptation projects, accredited national entities and climate tagging in the budget. Fourth, use the Borrowers’ Platform chair to make debt-pause clauses standard in sovereign lending and to tie debt and climate together at the stocktake.\nThe world has moved past the Paris target and is moving past COP as the only place where climate is decided. The winds of change are blowing elsewhere. Pakistan should stop treating COPs as tourist destinations and start engaging where the rules are written.\nThe writer is a climate expert.\nPublished in Dawn, November 5th, 2026",
-    "matchedQuestion": {
-      "id": "CA-2024-CLIM",
-      "paper": "Current Affairs",
-      "year": 2024,
-      "question": "Write short notes on: Climate Change and the Big Powers’ role."
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Current Affairs",
-    "topic": "Climate Change Diplomacy and Global Finance Architecture",
-    "whyMatters": "This article is crucial for understanding the evolving global climate architecture, moving beyond traditional COPs, and the challenges faced by developing countries like Pakistan. It offers specific examples of 'Big Powers'' influence through funding decisions and pledge fulfillment, providing concrete evidence for analyzing their role in climate change governance.",
-    "summary": [
-      "The 1.5°C global warming target has been effectively breached, necessitating a focus on minimizing overshoot and returning below this threshold.",
-      "Global climate science bodies like the IPCC are critically underfunded and face political delays, hindering evidence-based decision-making and betraying vulnerable nations.",
-      "Pakistan, despite being 'ground zero' for climate impacts, lacks the 'readiness' to absorb available climate finance, receiving only a fraction of its annual needs.",
-      "A new climate finance architecture is emerging, centered on debt-based mechanisms and borrower blocs, where Pakistan now holds significant leadership positions (Borrowers' Platform, G-24).",
-      "Pakistan's current diplomatic approach needs to shift from appealing for grants to proactively engaging with global science, strengthening national evidence, and leveraging its new leadership roles in debt-related climate finance."
-    ],
-    "facts": [
-      "The IPCC needs over CHF 20 million ($24m) to survive until 2029, with contributions falling since 2023.",
-      "Pakistan requires approximately $47 billion annually until 2030 for climate action but receives under $2 billion.",
-      "Debt servicing consumes 43% of Pakistan's federal budget, making it a textbook case for the burden of disaster-induced borrowing."
-    ],
-    "academicReferences": [
-      "Paris Agreement (2015)",
-      "UN Environment Programme's Emissions Gap Report",
-      "Intergovernmental Panel on Climate Change (IPCC) Assessment Reports",
-      "Bridgetown Initiative (proposed by Mia Mottley, PM of Barbados)",
-      "V20 (Vulnerable Twenty) Lifeline Fund"
-    ],
-    "vocabulary": [
-      {
-        "word": "Crossroads",
-        "type": "noun",
-        "definition": "A point at which a crucial decision must be made that will have far-reaching consequences.",
-        "sentence": "Pakistan stands at a crossroads as it prepares to attend COP31 next week, facing critical decisions on its climate diplomacy."
-      },
-      {
-        "word": "Breached",
-        "type": "verb",
-        "definition": "Broken or violated (a rule, agreement, or limit).",
-        "sentence": "The Emissions Gap Report confirms that the Paris benchmark for global warming has been breached, altering the meaning of the 1.5°C target."
-      },
-      {
-        "word": "Granular",
-        "type": "adjective",
-        "definition": "Consisting of or appearing to consist of granules; containing fine detail.",
-        "sentence": "The Pakistan Meteorological Department published the most granular 45-year record of climate change in the country, providing highly detailed data."
-      },
-      {
-        "word": "Hollowed out",
-        "type": "verb phrase",
-        "definition": "Reduced the effectiveness or value of something; emptied or depleted.",
-        "sentence": "The COP29 goal of $300 billion a year is being hollowed out by the governments that pledged it, diminishing its intended impact."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "According to the article, what is the new interpretation of the 1.5°C global warming target?",
-        "options": [
-          "It is a line we will cross and then try to get back under.",
-          "It is a ceiling that must not be breached at any cost.",
-          "It is an aspirational goal with no immediate practical implications.",
-          "It signifies the maximum permissible temperature increase for human survival."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'No longer a ceiling, 1.5°C is a line we will cross and then try to get back under,' indicating a shift from prevention to mitigation after an overshoot."
-      },
-      {
-        "question": "What primary reason does the author give for the IPCC's financial struggles?",
-        "options": [
-          "Mismanagement of funds by the IPCC itself.",
-          "Decreased contributions from member states, with Washington walking away.",
-          "Excessive spending on administrative costs and travel.",
-          "A shift towards private sector funding for climate research."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article explicitly mentions, 'Contributions have fallen since 2023, and Washington has walked away,' leading to the IPCC's financial difficulties."
-      },
-      {
-        "question": "Pakistan has taken on leadership roles in which two international platforms, as mentioned in the article?",
-        "options": [
-          "The G7 and the World Economic Forum.",
-          "The Paris Club and the United Nations Security Council.",
-          "The Borrowers’ Platform and the G-24.",
-          "The Climate Change Conference (COP) Presidency and the Green Climate Fund Board."
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states Pakistan took 'the chair of the Borrowers’ Platform' and 'assumed the chair of the G-24,' highlighting its new leadership in global financial dialogues."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What does the author imply about the 'Big Powers'' role in the IPCC's financial crisis?",
-        "back": "The article directly implicates 'Washington' (referring to the US) for walking away from contributions since 2023, leading to the IPCC's severe underfunding."
-      },
-      {
-        "front": "How does the article link the actions of 'Big Powers' to the 'hollowing out' of climate finance pledges?",
-        "back": "It states that 'the COP29 goal of $300 billion a year is being hollowed out by the governments that pledged it,' implying that major donor nations are not fulfilling their commitments, impacting vulnerable countries like Pakistan."
-      },
-      {
-        "front": "Why is Pakistan's leadership in the Borrowers' Platform and G-24 significant in the context of global climate architecture?",
-        "back": "It allows Pakistan to speak for debtor nations, pool data, compare terms, and bargain as a bloc, which is crucial as debt becomes the main channel of climate finance, shifting power dynamics in negotiations traditionally dominated by creditors (often from 'Big Powers')."
-      },
-      {
-        "front": "According to the article, what is the key difference between Pakistan's climate 'vulnerability' and its 'readiness'?",
-        "back": "Pakistan is highly 'vulnerable' to climate impacts (ground zero), but its 'readiness' refers to its capacity to absorb and effectively utilize climate finance, which the article states it currently lacks, despite significant needs."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793937321311-176",
-    "title": "AI & climate adaptation\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042258/ai-climate-adaptation",
-    "date": "2026-11-05",
-    "author": "none@none.com (Maha Qasim, Tahreem Fatima)",
-    "content": "THIS month in Antalya, artificial intelligence will have its own day at the 31st Conference of Parties to the United Nations Framework Convention on Climate Change. The Antalya Pledge on AI asks countries to align the rapid growth of AI with global climate goals by addressing AI’s skyrocketing energy demand. The pledge requires AI companies to disclose their data centres’ energy use and shift to clean energy. The COP31 presidency has described the draft pledge as a “political” commitment on how AI is “designed, procured, powered, deployed, measured and managed” in support of climate action. However, the discussion so far has centred largely on how AI is powered rather than on how it can be leveraged to help vulnerable countries adapt to a warming world.\nFrom extreme weather that left 87.5 million people facing acute food insecurity last year to drought draining Middle Eastern reservoirs and deadly heat in South Asia, climate change is impacting harvests, water availability, health, and livelihoods globally. AI can help communities, governments, farmers, and humanitarian organisations anticipate climate-related risks, protect essential resources, and respond faster to disasters. It can proactively convert climate data into actionable decisions that can save lives and reduce losses from adverse climate events.\nAI is already proving valuable for climate adaptation. In India’s Andhra Pradesh, a pilot that sent groundnut farmers AI-based advice on the best time to sow by text message in the local language raised average yields by 30 per cent. In Bihar, communities that received AI-based flood alerts faced 30pc lower medical costs after flooding due to earlier evacuations and timely preventative health measures. In Chile, forest sensors analysed by AI detect wildfires about 12 minutes faster than traditional watchtowers. In each case, AI turned data into timely information that people could act on.\nPakistan has also taken steps in this direction. Since October 2025, the Met Office has used MAZU, a Chinese AI-based weather and early-warning system, to improve its forecasts of extreme weather. However, its nine-kilometre resolution is too coarse to capture highly localised weather such as flash floods, and Pakistan’s limited radar network restricts the local data it needs. Without such data and adequate response capacity, AI tools can produce unreliable forecasts.\nAI can convert climate data into actionable decisions.\nThe Antalya Pledge gives Pakistan an opportunity to ensure that adaptation becomes part of the global conversation on AI and climate. To connect the AI pledge to climate adaptation, Pakistan can propose an adaptation-focused lens, with specific language on open climate data, locally adaptable AI models, and shared computing capacity — the building blocks that vulnerable countries like Pakistan need to use AI effectively. Such proposals will carry more weight if they come from many voices rather than just one.\nWorking through platforms such as the Climate Vulnerable Forum can allow Pakistan to build a joint position with other climate-vulnerable countries and bring their shared priorities to the climate summit’s AI day. For these commitments to be measured, reported, and funded they must be anchored in the wider climate process. Calling for the integration of AI into the Global Goal on Adaptation will ensure that AI-enabled tools are recognised in the indicators adopted at COP30 to track progress and are eligible for the tripled adaptation finance called for by 2035. At home, Pakistan’s multipronged strategy to combat climate change can include: aligning its AI policy’s sector roadmaps with the priorities of its National Adaptation Plan, str­e­ngthening its weather monitoring network, improving climate data-sharing across federal and provincial institutions, and training forecasters, resea­rchers and officials to use these tools.\nAt present, the global scale of planned investment in AI contrasts sharply with the persistent shortfall in climate adaptation finance. Only 32 countries host AI data centres, and Microsoft, Google, Meta and Amazon together plan to spend about $725 billion on AI infrastructure in 2026. For these countries, the pledge’s focus on clean energy matters. But for developing countries, which received just $26bn of more than the $310bn a year needed by 2035 to adapt to climate change, AI’s value as a tool for adaptation matters just as much.\nPakistan comes to Antalya with a clean energy transition shaped by its own citizens, acknowledgement of the need to accelerate clean energy, and an experience of what climate change costs. A pledge that makes AI’s power supply cleaner is a welcome step. One that also puts AI to work helping vulnerable countries adapt to climate change would make it far more meaningful.\nMaha Qasim is a climate & sustainability expert. Tahreem Fatima is a sustainability professional.\nPublished in Dawn, November 5th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2020-CLIM",
-      "paper": "Pakistan Affairs",
-      "year": 2020,
-      "question": "What impact global climate change will have on the water resources of Pakistan? How will it affect inter-provincial harmony?"
-    },
-    "suitable": true,
-    "relevanceScore": 93,
-    "paper": "Pakistan Affairs",
-    "topic": "Climate Change, AI, and Pakistan's Adaptation Strategy",
-    "whyMatters": "This article is crucial for competitive exam students as it offers a contemporary solution-oriented perspective on mitigating global climate change impacts, specifically through AI. While not directly detailing impacts on Pakistan's water resources or inter-provincial harmony, it provides a vital framework for how Pakistan can leverage advanced technology (AI) for climate adaptation, including better forecasting of extreme weather events (like floods/droughts that impact water) and improving data-sharing across federal and provincial institutions, which indirectly supports resource management and harmony.",
-    "summary": [
-      "The Antalya Pledge at COP31 aims to align AI's rapid growth with climate goals, focusing initially on AI's energy demand rather than its adaptation potential.",
-      "AI offers significant potential for climate adaptation by converting climate data into actionable decisions, helping vulnerable countries anticipate risks, protect resources, and respond to disasters faster.",
-      "Successful pilot projects in India (agriculture, flood alerts) and Chile (wildfire detection) demonstrate AI's practical value in climate adaptation.",
-      "Pakistan has initiated AI-based weather forecasting (MAZU) but faces challenges with resolution and limited local data, highlighting the need for robust infrastructure.",
-      "Pakistan has an opportunity at COP31 to advocate for an adaptation-focused AI agenda, including open climate data, locally adaptable models, and shared computing capacity, and to integrate AI into its National Adaptation Plan.",
-      "There is a stark contrast between global investment in AI infrastructure ($725 billion by major tech companies by 2026) and the severe shortfall in climate adaptation finance for developing countries (only $26 billion received out of $310 billion needed by 2035)."
-    ],
-    "facts": [
-      "The 31st Conference of Parties (COP31) to the UNFCCC will have an 'AI day' this month in Antalya.",
-      "Last year, extreme weather led to 87.5 million people facing acute food insecurity.",
-      "In India's Andhra Pradesh, AI-based advice raised groundnut yields by 30% for farmers.",
-      "In Bihar, AI-based flood alerts reduced medical costs after flooding by 30% due to earlier evacuations.",
-      "Chilean AI-analysed forest sensors detect wildfires approximately 12 minutes faster than traditional methods.",
-      "Pakistan's Met Office has used MAZU, a Chinese AI-based weather and early-warning system, since October 2025.",
-      "Developing countries received only $26 billion of the more than $310 billion per year needed by 2035 for climate adaptation.",
-      "Microsoft, Google, Meta, and Amazon collectively plan to spend about $725 billion on AI infrastructure in 2026."
-    ],
-    "academicReferences": [
-      "United Nations Framework Convention on Climate Change (UNFCCC)",
-      "Conference of Parties (COP31, COP30)",
-      "Antalya Pledge on AI",
-      "Global Goal on Adaptation",
-      "Climate Vulnerable Forum",
-      "Pakistan's National Adaptation Plan (NAP)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Leveraged",
-        "type": "verb",
-        "definition": "To use something to maximum advantage.",
-        "sentence": "AI can be effectively leveraged to help vulnerable countries adapt to a warming world."
-      },
-      {
-        "word": "Coarse",
-        "type": "adjective",
-        "definition": "Of ordinary or inferior quality or value; not detailed.",
-        "sentence": "MAZU's nine-kilometre resolution is too coarse to capture highly localised weather such as flash floods."
-      },
-      {
-        "word": "Multipro­nged",
-        "type": "adjective",
-        "definition": "Having several distinct approaches or aspects.",
-        "sentence": "Pakistan's multipronged strategy to combat climate change can include aligning its AI policy with its National Adaptation Plan."
-      },
-      {
-        "word": "Anchored",
-        "type": "verb",
-        "definition": "To fix or secure firmly.",
-        "sentence": "For these commitments to be measured, reported, and funded they must be anchored in the wider climate process."
-      },
-      {
-        "word": "Shortfall",
-        "type": "noun",
-        "definition": "A deficit of something required or expected.",
-        "sentence": "The global scale of planned investment in AI contrasts sharply with the persistent shortfall in climate adaptation finance."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary focus of the Antalya Pledge on AI, as initially discussed?",
-        "options": [
-          "Addressing AI's skyrocketing energy demand and shift to clean energy.",
-          "Developing locally adaptable AI models for vulnerable countries.",
-          "Integrating AI into the Global Goal on Adaptation.",
-          "Promoting open climate data sharing across institutions."
-        ],
-        "answerIndex": 0,
-        "explanation": "The article states, 'the discussion so far has centred largely on how AI is powered rather than on how it can be leveraged to help vulnerable countries adapt'."
-      },
-      {
-        "question": "Which country successfully used AI-based advice to raise groundnut yields by 30% for farmers?",
-        "options": [
-          "Pakistan",
-          "Chile",
-          "India",
-          "Turkey"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article mentions, 'In India’s Andhra Pradesh, a pilot that sent groundnut farmers AI-based advice on the best time to sow by text message in the local language raised average yields by 30 per cent.'"
-      },
-      {
-        "question": "What is a major limitation of Pakistan's MAZU AI-based weather system, as mentioned in the article?",
-        "options": [
-          "It is too expensive to operate efficiently.",
-          "Its resolution is too coarse for highly localized weather events.",
-          "It lacks integration with federal and provincial institutions.",
-          "It does not provide early-warning capabilities."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'However, its nine-kilometre resolution is too coarse to capture highly localised weather such as flash floods'."
-      },
-      {
-        "question": "How can Pakistan ensure AI-enabled tools are recognized and funded within the wider climate process?",
-        "options": [
-          "By focusing solely on the clean energy aspect of AI.",
-          "By calling for the integration of AI into the Global Goal on Adaptation.",
-          "By developing its own independent AI policies without international collaboration.",
-          "By restricting data sharing across its federal and provincial institutions."
-        ],
-        "answerIndex": 1,
-        "explanation": "The article advises, 'Calling for the integration of AI into the Global Goal on Adaptation will ensure that AI-enabled tools are recognised in the indicators adopted at COP30 to track progress and are eligible for the tripled adaptation finance called for by 2035'."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What specific proposals can Pakistan make at the Antalya Pledge to connect AI with climate adaptation?",
-        "back": "Pakistan can propose an adaptation-focused lens with specific language on open climate data, locally adaptable AI models, and shared computing capacity."
-      },
-      {
-        "front": "How does the article highlight the disparity in global investment between AI infrastructure and climate adaptation finance?",
-        "back": "Major tech companies plan to spend $725 billion on AI infrastructure in 2026, while developing countries have received only $26 billion out of the $310 billion needed annually for climate adaptation by 2035."
-      },
-      {
-        "front": "In what ways can AI proactively help vulnerable countries in climate adaptation, according to the article?",
-        "back": "AI can help communities, governments, farmers, and humanitarian organizations anticipate climate-related risks, protect essential resources, and respond faster to disasters by converting climate data into actionable decisions."
-      },
-      {
-        "front": "What domestic strategies should Pakistan adopt to integrate AI into its climate change combat efforts?",
-        "back": "Pakistan should align its AI policy's sector roadmaps with its National Adaptation Plan, strengthen its weather monitoring network, improve climate data-sharing across federal and provincial institutions, and train officials to use these tools."
-      }
-    ]
-  },
-  {
-    "id": "curated-1793937407732-345",
-    "title": "New LPG policy\n",
-    "source": "Dawn",
-    "url": "https://www.dawn.com/news/2042256/new-lpg-policy",
-    "date": "2026-11-05",
-    "author": "none@none.com (Editorial)",
-    "content": "EACH winter, millions of working-class households across the country face the same ordeal. LPG, long considered the poor man’s fuel, is now what many middle-class families use for cooking and heating. An increasing number of homes lacking piped connections in cities end up buying cylinders as temperatures fall.\nGas rationing due to shortages caused by dwindling domestic gas reserves, together with increasing tariffs on imported RLNG, is boosting the demand for LPG. When winter sets in, demand jumps, supply tightens, and traders hoard stocks.\nThis year, as the petroleum minister told the National Assembly last month, the closure of the western borders has disrupted import shipments, which account for 70pc of LPG imports, exacerbating the shortages. The Saudi Aramco price, to which local LPG is linked, has also risen to $705 per tonne and the fuel is selling at Rs700-800 per kilogram — well above the official ceiling. For families already stretched by inflation, even LPG has become something to ration.\nIt is against this backdrop that the government has announced a new LPG policy that directs four SOEs to resume bulk imports through government-to-government and business-to-business deals. Their base prices will be published, giving the market a landed-cost benchmark.\nThe policy also scraps the discretionary quota system. Locally produced gas will be sold through open auctions, which should cut out the intermediaries who profit from the existing arrangement. The gap between auction proceeds and the SOEs’ import parity price will go into a dedicated fund, allowing the government to sell LPG at Rs300-350 per kilogram to BISP beneficiaries, without burdening the government budget or widening the fiscal deficit.\n    \nEnforcement is the weak point. It always has been. The authorities have issued many price and market rules that were never properly implemented. The Competition Commission of Pakistan, the National Explosives and Petroleum Safety Agency, and district administrations are all expected to act against collusion. They will have to be present at the retail level, where distributors have long kept the margins meant for consumers.\nThe auctions need watching too, since a handful of large bidders could capture them. If the policy is enforced effectively, it could potentially help end shortages and slash prices. But the question remains whether it will.\nPublished in Dawn, November 5th, 2026",
-    "matchedQuestion": {
-      "id": "PA-2019-ECON",
-      "paper": "Pakistan Affairs",
-      "year": 2019,
-      "question": "What major economic challenges are being faced by Pakistan? What recommendation do you suggest to deal with these issues?"
-    },
-    "suitable": true,
-    "relevanceScore": 92,
-    "paper": "Pakistan Affairs",
-    "topic": "Energy Crisis, Inflation, and Economic Policy Reforms in Pakistan",
-    "whyMatters": "This article directly addresses major economic challenges faced by Pakistan, specifically concerning energy security, inflation, and market inefficiencies in a critical sector. It also presents a recent government policy designed to tackle these issues, providing concrete examples for answering questions on economic problems and proposed solutions.",
-    "summary": [
-      "Pakistan faces a severe LPG shortage and escalating prices, driven by dwindling domestic gas reserves, expensive RLNG imports, winter demand surges, and trader hoarding.",
-      "Disruption of western border imports (70% of LPG) and rising international oil prices ($705/tonne for Saudi Aramco price) have exacerbated the crisis, pushing local LPG prices (Rs700-800/kg) far above official ceilings and making it unaffordable for many.",
-      "The government's new LPG policy aims to resolve this by directing four SOEs to resume bulk imports, publish base prices for market benchmarks, and scrap the discretionary quota system for local gas, which will now be sold via open auctions.",
-      "A dedicated fund, generated from the gap between auction proceeds and SOE import parity prices, will enable the government to subsidize LPG for BISP beneficiaries at Rs300-350/kg without increasing the fiscal deficit.",
-      "The policy's success hinges on effective enforcement by regulatory bodies (CCP, NEPSA, district administrations) against collusion and hoarding at the retail level, as well as vigilance against potential capture of open auctions by large bidders."
-    ],
-    "facts": [
-      "70% of LPG imports are disrupted due to western border closures.",
-      "Saudi Aramco LPG price rose to $705 per tonne.",
-      "LPG selling locally at Rs700-800 per kilogram, well above official ceiling.",
-      "Government aims to sell LPG at Rs300-350 per kilogram to BISP beneficiaries."
-    ],
-    "academicReferences": [
-      "\"Economic Survey of Pakistan [Latest Edition]\" (Ministry of Finance, Government of Pakistan)",
-      "\"Pakistan Development Update [Latest Edition]\" (World Bank)",
-      "\"IMF Country Report for Pakistan [Latest Article IV Consultation]\" (International Monetary Fund)"
-    ],
-    "vocabulary": [
-      {
-        "word": "Ordeal",
-        "type": "noun",
-        "definition": "A severe trial or experience, often involving suffering.",
-        "sentence": "Each winter, millions of households face the ordeal of LPG shortages."
-      },
-      {
-        "word": "Dwindling",
-        "type": "verb",
-        "definition": "Gradually diminishing in size, amount, or strength.",
-        "sentence": "Gas rationing is due to shortages caused by dwindling domestic gas reserves."
-      },
-      {
-        "word": "Exacerbating",
-        "type": "verb",
-        "definition": "Making a problem or bad situation worse.",
-        "sentence": "The closure of western borders has been exacerbating the LPG shortages."
-      },
-      {
-        "word": "Discretionary",
-        "type": "adjective",
-        "definition": "Available for use at the discretion of the user; not fixed or mandatory.",
-        "sentence": "The new policy scraps the discretionary quota system for local gas."
-      },
-      {
-        "word": "Intermediaries",
-        "type": "noun",
-        "definition": "A person or organization that acts as a link between people or groups.",
-        "sentence": "Open auctions should cut out the intermediaries who profit from the existing arrangement."
-      },
-      {
-        "word": "Collusion",
-        "type": "noun",
-        "definition": "Secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.",
-        "sentence": "Authorities are expected to act against collusion at the retail level."
-      },
-      {
-        "word": "Fiscal deficit",
-        "type": "noun",
-        "definition": "The amount by which government expenditures exceed revenues over a period.",
-        "sentence": "The dedicated fund aims to help BISP beneficiaries without widening the fiscal deficit."
-      }
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary reason mentioned for the current LPG shortages in Pakistan?",
-        "options": [
-          "A) Excess domestic production",
-          "B) Dwindling domestic gas reserves and costly RLNG imports",
-          "C) Reduced industrial demand for LPG",
-          "D) Absence of government policies for LPG import"
-        ],
-        "answerIndex": 1,
-        "explanation": "The article states, 'Gas rationing due to shortages caused by dwindling domestic gas reserves, together with increasing tariffs on imported RLNG, is boosting the demand for LPG.'"
-      },
-      {
-        "question": "Which of the following is NOT a feature of the government's new LPG policy?",
-        "options": [
-          "A) Directing SOEs to resume bulk imports",
-          "B) Introducing a discretionary quota system for local gas",
-          "C) Selling locally produced gas through open auctions",
-          "D) Publishing SOEs' base prices for a market benchmark"
-        ],
-        "answerIndex": 1,
-        "explanation": "The policy explicitly 'scraps the discretionary quota system,' not introduces it."
-      },
-      {
-        "question": "How does the new policy intend to subsidize LPG for BISP beneficiaries without burdening the government budget?",
-        "options": [
-          "A) By increasing taxes on other petroleum products",
-          "B) By securing direct grants from international organizations",
-          "C) Through a dedicated fund generated from the gap between auction proceeds and SOE import parity price",
-          "D) By reducing administrative costs of SOEs"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article states, 'The gap between auction proceeds and the SOEs’ import parity price will go into a dedicated fund, allowing the government to sell LPG at Rs300-350 per kilogram to BISP beneficiaries, without burdening the government budget or widening the fiscal deficit.'"
-      },
-      {
-        "question": "What is identified as the 'weak point' for the effective implementation of the new LPG policy?",
-        "options": [
-          "A) Lack of international support for imports",
-          "B) Insufficient domestic production capacity",
-          "C) Enforcement of rules and monitoring against collusion and auction capture",
-          "D) Low demand for LPG in winter"
-        ],
-        "answerIndex": 2,
-        "explanation": "The article explicitly states, 'Enforcement is the weak point. It always has been.' and mentions authorities needing to act against collusion and the auctions needing watching for capture by large bidders."
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "What are the main economic challenges in Pakistan highlighted by the LPG crisis?",
-        "back": "The article highlights energy shortages (due to dwindling domestic reserves and costly imports), high inflation impacting household budgets, market inefficiencies (hoarding, intermediary profits), and challenges in policy enforcement."
-      },
-      {
-        "front": "Describe the key mechanisms introduced by the new LPG policy to ensure supply and stabilize prices.",
-        "back": "The policy directs SOEs to resume bulk imports (G2G/B2B), publish base prices for market benchmarks, and sell locally produced gas through open auctions to eliminate intermediaries."
-      },
-      {
-        "front": "How does the new LPG policy address the issue of affordability for vulnerable segments of society?",
-        "back": "It establishes a dedicated fund from the difference between auction proceeds and SOE import parity prices, which will allow the government to sell LPG at a subsidized rate (Rs300-350/kg) to BISP beneficiaries."
-      },
-      {
-        "front": "What are the critical factors for the successful implementation of the new LPG policy, according to the article?",
-        "back": "Effective enforcement by regulatory bodies (CCP, NEPSA, district administrations) against collusion at the retail level, and vigilant monitoring of open auctions to prevent their capture by a few large bidders."
-      },
-      {
-        "front": "What specific international and domestic factors are contributing to Pakistan's LPG shortage and price hikes?",
-        "back": "International factors include the rising Saudi Aramco price ($705/tonne) and disruption of 70% of imports due to western border closures. Domestic factors include dwindling gas reserves, increasing tariffs on imported RLNG, and hoarding by traders."
       }
     ]
   }
